@@ -1,0 +1,4494 @@
+@ 10800 IN SOA zaphod lovi.zaphod 2015042301 10800 1800 2419200 43200
+@ 10800 IN NS ns.eenet.ee.
+10800 IN NS onyx
+10800 IN NS benjy.cc
+10800 IN NS zaphod
+@ 10800 IN A 193.40.254.28
+@ 10800 IN MX 0 ttu-ee.mail.eo.outlook.com.
+@ 10800 IN TXT "MS=ms57743025"
+tudeng5.km 10800 IN A 193.40.253.5
+tudeng5.km 10800 IN HINFO "Pentium" "Win95"
+ak213-10.class 10800 IN A 192.168.40.10
+www.qalspell 10800 IN CNAME deepzone0
+love.em 10800 IN A 193.40.252.3
+love.em 10800 IN HINFO "Pentium" "Win95"
+autodiscover.cc 10800 IN CNAME autodiscover.outlook.com.
+st20901.as 10800 IN A 193.40.241.201
+st20901.as 10800 IN HINFO "PC" "Win95"
+eipa143.eipa 10800 IN A 193.40.250.143
+ROOTCERT.intra 10800 IN A 192.168.251.7
+autodiscover.cs 10800 IN CNAME autodiscover.outlook.com.
+gabi.cc 10800 IN A 193.40.254.63
+gabi.cc 10800 IN HINFO "386" "Win3.11"
+po-color2.intra 10800 IN A 192.168.134.228
+web2.mh 3600 IN A 193.40.245.135
+yhikas1 10800 IN A 193.40.244.201
+turner.yg 3600 IN A 193.40.252.26
+turner.yg 3600 IN HINFO "Pentium" "WindowsNT"
+yhikas3 10800 IN A 193.40.244.203
+yhikas4 10800 IN A 193.40.244.204
+yhikas5 10800 IN A 193.40.244.205
+orion2.mt 10800 IN A 193.40.245.75
+eipa148.eipa 10800 IN A 193.40.250.148
+MH411-01.mh 1200 IN A 193.40.255.31
+ak112-2.ld 10800 IN A 193.40.244.164
+ak112-2.ld 10800 IN HINFO "PC" "Win"
+lab-10-10-10-45.tud 3600 IN A 10.10.10.45
+pn-bw1.intra 10800 IN A 192.168.134.226
+www.efak10 10800 IN CNAME deepzone2
+credes 10800 IN A 193.40.246.3
+msep.em 10800 IN A 193.40.252.122
+msep.em 10800 IN HINFO "486DX" "Windows95"
+lab-10-10-10-14.tud 3600 IN A 10.10.10.14
+astie.la 10800 IN A 193.40.252.41
+kuusik.ld 10800 IN A 193.40.244.179
+kuusik.ld 10800 IN HINFO "P4" "WinXP"
+tudeng6.km 10800 IN A 193.40.253.6
+tudeng6.km 10800 IN HINFO "Pentium" "Win95"
+lab-10-10-10-114.tud 3600 IN A 10.10.10.114
+_ldap._tcp.DomainDnsZones.mh 600 IN SRV 0 100 389 mhserver.mh
+600 IN SRV 0 100 389 mhserver2.mh
+www.tehnoloogiamess 10800 IN CNAME deepzone0
+yksek3.tdng 3600 IN A 193.40.253.224
+yksek3.tdng 3600 IN HINFO "Printer" "Printer"
+assistent.centr 10800 IN A 193.40.253.23
+assistent.centr 10800 IN HINFO "Pentium150" "Win95"
+aeserver2.intra 10800 IN A 193.40.249.98
+eipa154.eipa 10800 IN A 193.40.250.154
+janek.ee 10800 IN A 193.40.252.108
+m 10800 IN A 193.40.254.192
+spordikeskus 10800 IN CNAME DeepZone2
+SCCM-DP1.intra 10800 IN A 192.168.133.238
+w 10800 IN CNAME www
+cs02s.intra 10800 IN A 192.168.133.152
+soliton.em 10800 IN A 193.40.252.245
+soliton.em 10800 IN HINFO "Athlon" "WinXP"
+helpdesk-test 10800 IN CNAME portal-test
+cinco.tkk 3600 IN A 193.40.242.69
+lab-10-10-10-164.tud 3600 IN A 10.10.10.164
+mepc10.me 10800 IN A 193.40.245.21
+mepc10.me 10800 IN HINFO "PentiumIII" "WinNT"
+esindus3.tdng 3600 IN A 193.40.253.196
+esindus3.tdng 3600 IN HINFO "PentiumIII" "RedHat 6.2"
+marika.rekt 3600 IN A 193.40.253.185
+marika.rekt 3600 IN HINFO "Pentium/75" "Windows95"
+mp07.mp 10800 IN A 193.40.245.167
+mp07.mp 10800 IN HINFO "x86" "MS Windows"
+eipa159.eipa 10800 IN A 193.40.250.159
+c16.class 10800 IN A 193.40.254.16
+orion3.mt 10800 IN A 193.40.245.80
+orion3.mt 10800 IN HINFO "PC/486" "Win95"
+dfs1.intra 10800 IN A 192.168.133.241
+eeg.cb 10800 IN A 193.40.254.73
+kik.ene 10800 IN A 193.40.249.189
+kristin.corson 10800 IN A 193.40.254.89
+kristin.corson 10800 IN HINFO "PentiumII" "Win98"
+elen-99.ene 10800 IN A 193.40.249.99
+lab-10-10-10-224.tud 3600 IN A 10.10.10.224
+proksi.intra 10800 IN A 193.40.254.100
+mare.opto 3600 IN A 193.40.245.103
+esindus8.tdng 3600 IN A 193.40.253.228
+esindus8.tdng 3600 IN HINFO "Pentium100" "Win95"
+doktor1.t 3600 IN A 193.40.241.164
+doktor1.t 3600 IN HINFO "C1200" "WXPP"
+eipa165.eipa 10800 IN A 193.40.250.165
+MH-AK-05.mh 1200 IN A 192.168.105.79
+yrr42uu2gth577o5dt53pleqmil7cbke._domainkey 10800 IN CNAME yrr42uu2gth577o5dt53pleqmil7cbke.dkim.amazonses.com.
+110lab4.ene 10800 IN A 193.40.249.83
+110lab4.ene 10800 IN HINFO "PentiumIII/866" "Win2K"
+gert.li 10800 IN A 193.40.254.107
+991736958.live 10800 IN CNAME domains.live.com.
+autodiscover.tv 3600 IN CNAME autodiscover.outlook.com.
+OSCE.intra 10800 IN A 193.40.254.242
+sccm2012.intra 10800 IN A 192.168.133.227
+gece-10.et 10800 IN A 193.40.244.44
+gece-10.et 10800 IN HINFO "Pentium100" "Win95"
+ras-pc1.la 10800 IN A 193.40.252.117
+ras-pc1.la 10800 IN HINFO "Pentium166" "WinNT"
+merike.l 10800 IN A 193.40.253.55
+merike.l 10800 IN HINFO "Pentium/100" "Windows95"
+keilit.me 10800 IN A 193.40.245.72
+keilit.me 10800 IN HINFO "PC/386" "MS-DOS"
+autodiscover.intra 10800 IN CNAME autodiscover.outlook.com.
+eipa171.eipa 10800 IN A 193.40.250.171
+elen-118.ene 10800 IN A 193.40.249.118
+CACHE 10800 IN CNAME wall
+vokk.kt 10800 IN A 193.40.253.121
+vokk.kt 10800 IN HINFO "Pentium100" "Win95"
+ttu-cs 10800 IN A 193.40.254.254
+ttu-cs 10800 IN HINFO "Cisco 500-CS" "CS Software V.9.1(100)"
+kutseopetaja 10800 IN CNAME deepzone0
+orion4.mt 10800 IN A 193.40.245.71
+orion4.mt 10800 IN HINFO "Pentium100" "Win95"
+nmri 10800 IN A 193.40.254.120
+navier.em 10800 IN A 193.40.252.4
+navier.em 10800 IN HINFO "Pentium" "Win95"
+vastuvott 10800 IN CNAME virtuals1
+ak112-4.ld 10800 IN A 193.40.244.166
+ak112-4.ld 10800 IN HINFO "PC" "Win"
+zaphod.cc 10800 IN CNAME zaphod
+lab-10-10-10-15.tud 3600 IN A 10.10.10.15
+comp2.tkk 3600 IN A 193.40.242.78
+comp2.tkk 3600 IN HINFO "Pentium/166" "Win95"
+marika.corson 10800 IN A 193.40.254.80
+marika.corson 10800 IN HINFO "PentiumII" "WinNT"
+vvk9.vvk 3600 IN A 193.40.242.172
+eipa176.eipa 10800 IN A 193.40.250.176
+demo 10800 IN A 193.40.244.82
+sergei.h 10800 IN A 193.40.243.12
+sergei.h 10800 IN HINFO "Pentium" "Win95"
+esx4i.mh 3600 IN A 193.40.245.151
+ak213-68.class 10800 IN A 192.168.40.68
+MH-AK-06.mh 1200 IN A 192.168.105.37
+lab-10-10-10-102.tud 3600 IN A 10.10.10.102
+ttu-gw 10800 IN A 193.40.148.18
+10800 IN A 193.40.253.254
+10800 IN A 193.40.254.252
+ttu-gw 10800 IN HINFO "3Com NetBuilder" "SW/NBII-CP,9.0"
+mp02.mp 10800 IN A 193.40.245.162
+mp02.mp 10800 IN HINFO "x86" "MS Windows"
+mtiketas 10800 IN A 193.40.254.50
+autostudy 10800 IN CNAME hp715b.me
+forum 10800 IN CNAME wiki
+lab-10-10-10-178.tud 3600 IN A 10.10.10.178
+ak213-132.class 10800 IN A 192.168.40.132
+gece-11.et 10800 IN A 193.40.244.45
+gece-11.et 10800 IN HINFO "Pentium100" "Win95"
+ras-pc2.la 10800 IN A 193.40.252.118
+ras-pc2.la 10800 IN HINFO "Pentium166" "WinNT"
+iii126a-01.ev 10800 IN A 193.40.253.18
+iii126a-01.ev 10800 IN HINFO "486DX2" "Win95"
+DeepZone3 10800 IN A 193.40.254.220
+eipa182.eipa 10800 IN A 193.40.250.182
+lab-10-10-10-52.tud 3600 IN A 10.10.10.52
+ak213-42.class 10800 IN A 192.168.40.42
+lab-10-10-10-152.tud 3600 IN A 10.10.10.152
+ehmat.ep 10800 IN A 193.40.252.247
+_msdcs.mh 3600 IN NS mhserver2.mh
+ak112-5.ld 10800 IN A 193.40.244.167
+ak112-5.ld 10800 IN HINFO "PC" "Win"
+mail.apollos 10800 IN A 193.40.254.143
+ak213-105.class 10800 IN A 192.168.40.105
+eipa187.eipa 10800 IN A 193.40.250.187
+eipa197.eipa 10800 IN A 193.40.250.197
+tudeng9.km 10800 IN A 193.40.253.9
+tudeng9.km 10800 IN HINFO "Pentium" "Win95"
+tennis 10800 IN CNAME DeepZone2
+cacti 10800 IN A 193.40.254.249
+maastikuarhitektuur 10800 IN CNAME deepzone2
+lab-10-10-10-212.tud 3600 IN A 10.10.10.212
+ak213-15.class 10800 IN A 192.168.40.15
+kunst.h 10800 IN A 193.40.252.35
+kunst.h 10800 IN HINFO "Pentium-MMX/200" "Windows95"
+seis.tkk 3600 IN A 193.40.242.70
+MH-AK-07.mh 1200 IN A 192.168.105.14
+imbi.ld 10800 IN A 193.40.244.72
+imbi.ld 10800 IN HINFO "Pentium-S 100" "WinNTs 4.0"
+193-40-242-152.vi 3600 IN A 193.40.242.152
+lab-10-10-10-201.tud 3600 IN A 10.10.10.201
+pl-color2.intra 10800 IN A 192.168.134.214
+lab-10-10-10-205.tud 3600 IN A 10.10.10.205
+sccm-dp2.intra 10800 IN A 192.168.133.237
+enedhcp38.ene 10800 IN A 193.40.249.215
+eipa203.eipa 10800 IN A 193.40.250.203
+gece-12.et 10800 IN A 193.40.244.46
+gece-12.et 10800 IN HINFO "Pentium100" "Win95"
+ras-pc3.la 10800 IN A 193.40.252.119
+ras-pc3.la 10800 IN HINFO "Pentium166" "WinNT"
+rehkendus.cs 10800 IN A 193.40.252.87
+boromir.cc 10800 IN A 193.40.254.160
+boromir.cc 10800 IN HINFO "PentiumII350/2" "WinNT40"
+elrond.tud 3600 IN A 193.40.254.189
+cs09i.intra 10800 IN A 192.168.133.189
+leopold.cm 10800 IN A 193.40.252.170
+leopold.cm 10800 IN HINFO "486DX2/66" "Win95"
+defsim 10800 IN A 193.40.246.5
+www.ergonomics 10800 IN CNAME majandus2
+orion6.mt 10800 IN A 193.40.245.77
+orion6.mt 10800 IN HINFO "Pentium/100" "Windows95"
+xt1.me 10800 IN A 193.40.245.67
+elen-106.ene 10800 IN A 193.40.249.106
+ak112-6.ld 10800 IN A 193.40.244.168
+ak112-6.ld 10800 IN HINFO "PC" "Win"
+eipa208.eipa 10800 IN A 193.40.250.208
+bofur.yc 3600 IN A 193.40.252.179
+bofur.yc 3600 IN HINFO "Pentium/233" "Win95"
+MH416-01.mh 1200 IN A 192.168.0.100
+linda 10800 IN A 192.168.254.122
+ct-bw1.intra 10800 IN A 192.168.134.249
+google5120b3895b47d911.biotech 10800 IN CNAME google.com.
+ns 10800 IN A 193.40.254.227
+MH-AK-08.mh 1200 IN A 192.168.105.66
+ak401-srv.ld 10800 IN A 193.40.244.116
+ak401-srv.ld 10800 IN HINFO "PC" "Win"
+lab-10-10-10-222.tud 3600 IN A 10.10.10.222
+margus.kk 10800 IN A 193.40.253.85
+margus.kk 10800 IN HINFO "Celeron/400" "Windows95"
+phare 10800 IN A 193.40.253.125
+phare 10800 IN HINFO "Pentium100" "Win95"
+webdev.intra 10800 IN A 192.168.115.247
+vooster.me 10800 IN A 193.40.245.7
+vooster.me 10800 IN HINFO "Pentium/120" "Windows95"
+eipa214.eipa 10800 IN A 193.40.250.214
+st10101.as 10800 IN A 193.40.241.195
+st10101.as 10800 IN HINFO "Pentium" "Windows95"
+paulus.h 10800 IN A 193.40.245.224
+gece-13.et 10800 IN A 193.40.244.47
+gece-13.et 10800 IN HINFO "Pentium100" "Win95"
+ras-pc4.la 10800 IN A 193.40.252.120
+ras-pc4.la 10800 IN HINFO "Pentium166" "WinNT"
+opto-maxtora 10800 IN A 193.40.253.250
+koolitus1.hum 10800 IN A 193.40.250.231
+analyyt.kk 10800 IN A 193.40.253.84
+analyyt.kk 10800 IN HINFO "Pentium/100" "Windows95"
+www.tenniseklubi 10800 IN CNAME saruman
+eksa.yf 3600 IN A 193.40.252.181
+eksa.yf 3600 IN HINFO "386" "Windows 3.1"
+tekstiil.pmi 10800 IN A 193.40.242.189
+ois1.va 3600 IN A 193.40.247.2
+vvk17.vvk 3600 IN A 193.40.242.164
+orion7.mt 10800 IN A 193.40.245.91
+orion7.mt 10800 IN HINFO "PentiumIII" "Win2K"
+xt2.me 10800 IN A 193.40.245.68
+lab-10-10-10-139.tud 3600 IN A 10.10.10.139
+eipa219.eipa 10800 IN A 193.40.250.219
+spare-16 10800 IN A 193.40.255.16
+c3.class 10800 IN A 193.40.254.3
+c22.class 10800 IN A 193.40.254.22
+DomainDnsZones.mh 600 IN A 192.168.105.248
+600 IN A 193.40.245.150
+600 IN A 193.40.245.160
+600 IN A 193.40.245.181
+DomainDnsZones.mh 600 IN AAAA 2002:c128:f5a0::c128:f5a0
+MH416-02.mh 1200 IN A 192.168.0.101
+www.kino 10800 IN CNAME deepzone2
+rapidlab 10800 IN A 193.40.245.156
+server110.tud 3600 IN A 192.168.40.247
+ce-color1.intra 10800 IN A 192.168.134.224
+spare-20 10800 IN A 193.40.255.20
+cs01i.intra 10800 IN A 192.168.133.181
+amitan.ld 10800 IN A 193.40.244.138
+amitan.ld 10800 IN HINFO "PC" "Win95B"
+spare-21 10800 IN A 193.40.255.21
+lab-10-10-10-89.tud 3600 IN A 10.10.10.89
+MH-AK-09.mh 1200 IN A 192.168.105.74
+marvin.cc 10800 IN A 193.40.254.226
+lab-10-10-10-189.tud 3600 IN A 10.10.10.189
+lahtmets.ene 10800 IN A 193.40.249.72
+lahtmets.ene 10800 IN HINFO "PentiumIII/800" "Win98SE"
+maano.et 10800 IN CNAME www.et
+vilistlaskogu 10800 IN CNAME www
+DeepZone2f 10800 IN A 193.40.254.250
+spare-25 10800 IN A 193.40.255.25
+gece-14.et 10800 IN A 193.40.244.48
+gece-14.et 10800 IN HINFO "Pentium100" "Win95"
+majandus2 10800 IN A 193.40.241.8
+staff2 10800 IN A 193.40.254.41
+enedhcp26.ene 10800 IN A 193.40.249.249
+ae-color1.intra 10800 IN A 192.168.145.226
+ahe.ep 10800 IN A 193.40.252.109
+ahe.ep 10800 IN HINFO "PentiumIII" "Windows98"
+rita.opto 3600 IN A 193.40.245.108
+rita.opto 3600 IN HINFO "Pentium" "Win95"
+priit.ati 10800 IN CNAME ati
+class210-20.li 10800 IN A 193.40.244.85
+class210-20.li 10800 IN HINFO "PC/486DX66" "Windows95"
+st10101.ms 10800 IN A 193.40.241.195
+st10101.ms 10800 IN HINFO "Celeron 300" "Win98"
+spare-29 10800 IN A 193.40.255.29
+orion8.mt 10800 IN A 193.40.245.92
+orion8.mt 10800 IN HINFO "PentiumIII" "Win2K"
+lab-10-10-10-31.tud 3600 IN A 10.10.10.31
+ak112-8.ld 10800 IN A 193.40.244.170
+ak112-8.ld 10800 IN HINFO "PC" "Win"
+90 10800 IN CNAME saruman
+tobias.ene 10800 IN A 193.40.249.154
+tutor.ene 10800 IN A 193.40.249.39
+strekk.ene 10800 IN A 193.40.249.183
+eipa49.eipa 10800 IN A 193.40.250.49
+dreams.me 10800 IN A 193.40.245.5
+dreams.me 10800 IN HINFO "486/33" "Windows95"
+eipa194.eipa 10800 IN A 193.40.250.194
+smtp.ati 10800 IN CNAME ati
+ak213-74.class 10800 IN A 192.168.40.74
+mari.cl 10800 IN A 193.40.252.63
+mari.cl 10800 IN HINFO "PentiumIII/500" "WindowsNT"
+sass.ene 10800 IN A 193.40.249.132
+sass.ene 10800 IN HINFO "Celeron1000" "Win98SE"
+SCCM-DP1PXE.intra 10800 IN A 192.168.133.245
+www.NoSSS2009 10800 IN CNAME saruman
+spare-40 10800 IN A 193.40.255.40
+spare-41 10800 IN A 193.40.255.41
+gece-15.et 10800 IN A 193.40.244.49
+gece-15.et 10800 IN HINFO "Pentium100" "Win95"
+mail.paal.math 10800 IN A 193.40.245.194
+mepc11.me 10800 IN A 193.40.245.22
+mepc11.me 10800 IN HINFO "PentiumIII" "WinNT"
+spare-43 10800 IN A 193.40.255.43
+scan.me 10800 IN A 193.40.245.59
+scan.me 10800 IN HINFO "PentiumII/300" "WinNT WS"
+tudeng10.km 10800 IN A 193.40.253.10
+tudeng10.km 10800 IN HINFO "Pentium" "Win95"
+heili.h 10800 IN A 193.40.253.166
+heili.h 10800 IN HINFO "Pentium" "Win2K"
+lui.ka 10800 IN A 193.40.253.111
+lui.ka 10800 IN HINFO "PentiumII" "Windows95"
+epoch 10800 IN CNAME random.cc
+ak213-47.class 10800 IN A 192.168.40.47
+lab-10-10-10-207.tud 3600 IN A 10.10.10.207
+lab-10-10-10-27.tud 3600 IN A 10.10.10.27
+viia.cb 10800 IN A 193.40.254.72
+viia.cb 10800 IN HINFO "PC/486" "MS-DOS"
+dc3.intra 10800 IN A 192.168.133.253
+om.cs 10800 IN A 193.40.252.102
+hektor1 10800 IN A 193.40.244.170
+hektor2 10800 IN A 193.40.244.171
+hektor3 10800 IN A 193.40.244.172
+hektor4 10800 IN A 193.40.244.173
+hektor5 10800 IN A 193.40.244.174
+hektor6 10800 IN A 193.40.244.175
+abi 10800 IN CNAME virtuals2
+hektor8 10800 IN A 193.40.244.108
+hektor9 10800 IN A 193.40.244.109
+spare-50 10800 IN A 193.40.255.50
+ak213-111.class 10800 IN A 192.168.40.111
+mess.me 10800 IN A 193.40.245.44
+mess.me 10800 IN HINFO "PentiumPro/200" "WinNT Server"
+lochness.cl 10800 IN A 193.40.252.62
+lochness.cl 10800 IN HINFO "Pentium" "Windows95"
+MH-AK-12.mh 1200 IN A 192.168.105.26
+juri.li 10800 IN A 193.40.254.194
+juri.li 10800 IN HINFO "PC/286" "MS-DOS"
+ak213-21.class 10800 IN A 192.168.40.21
+zarquon.roke 3600 IN A 193.40.243.5
+st21001.ms 10800 IN A 193.40.241.210
+st21001.ms 10800 IN HINFO "5x86 P 75" "Win98"
+snk.me 10800 IN A 193.40.245.61
+snk.me 10800 IN HINFO "Octane 486DX/66" "Win3.11"
+jyrgen.ld 10800 IN A 193.40.244.145
+jyrgen.ld 10800 IN HINFO "Pentium-S 100" "Win95"
+jessica.ld 10800 IN A 193.40.244.92
+jessica.ld 10800 IN HINFO "PC" "Win98SE"
+lab-10-10-10-177.tud 3600 IN A 10.10.10.177
+spare-55 10800 IN A 193.40.255.55
+localhost.americanspace 10800 IN A 127.0.0.1
+localhost.americanspace 10800 IN AAAA 2a02:29e8:770:0:3::34
+gece-16.et 10800 IN A 193.40.244.50
+gece-16.et 10800 IN HINFO "Pentium100" "Win95"
+afm 10800 IN CNAME nokia.cc
+autodiscover 10800 IN CNAME autodiscover.outlook.com.
+lab-10-10-10-64.tud 3600 IN A 10.10.10.64
+tudeng11.km 10800 IN A 193.40.253.11
+tudeng11.km 10800 IN HINFO "Pentium" "Win95"
+ahi 10800 IN A 193.40.250.251
+enedhcp14.ene 10800 IN A 193.40.249.237
+portal-mysql-test.intra 10800 IN A 192.168.251.21
+line-6.cc 10800 IN A 193.40.254.51
+meas16.me 10800 IN A 193.40.245.15
+meas16.me 10800 IN HINFO "Pentium/133" "WindowsNT WS"
+lab-10-10-10-237.tud 3600 IN A 10.10.10.237
+epp.ct 10800 IN A 193.40.252.217
+epp.ct 10800 IN HINFO "Pentium" "Windows95"
+pp-bw1.intra 10800 IN A 192.168.134.246
+aju 10800 IN A 92.62.98.5
+www.ects 10800 IN CNAME deepzone0
+math-1.ym 3600 IN A 193.40.245.185
+math-1.ym 3600 IN HINFO "Pentium/166" "Windows95"
+lyncdiscover 10800 IN CNAME webdir.online.lync.com.
+feodor.mt 10800 IN HINFO "Pentium166" "WinNT"
+feodor.mt 10800 IN A 193.40.245.128
+c30.class 10800 IN A 193.40.254.30
+MH-AK-13.mh 1200 IN A 192.168.105.20
+mai.ct 10800 IN A 193.40.252.227
+mai.ct 10800 IN HINFO "Pentium" "Windows95"
+polum.km 10800 IN A 193.40.253.106
+polum.km 10800 IN HINFO "PentiumII" "Windows98"
+whatever.cb 10800 IN A 193.40.253.33
+whatever.cb 10800 IN HINFO "PentiumIII" "Windows98"
+maie.h 10800 IN A 193.40.253.216
+maie.h 10800 IN HINFO "Celeron700" "Win2K"
+spare-68 10800 IN A 193.40.255.68
+mai.ek 10800 IN A 193.40.253.72
+mai.ek 10800 IN HINFO "PC/386" "MSDOS 6.0"
+mohr.em 10800 IN A 193.40.252.126
+mohr.em 10800 IN HINFO "Pentium/120" "Windows95"
+spare-69 10800 IN A 193.40.255.69
+ak213-33.class 10800 IN A 192.168.40.33
+gece-17.et 10800 IN A 193.40.244.51
+gece-17.et 10800 IN HINFO "Pentium100" "Win95"
+fk4.cc 10800 IN A 193.40.254.176
+aom 10800 IN CNAME deepzone2
+backup 10800 IN A 193.40.254.244
+spare-72 10800 IN A 193.40.255.72
+olga.opto 3600 IN A 193.40.245.104
+eda.h 10800 IN A 193.40.253.74
+eda.h 10800 IN HINFO "Pentium/75" "Windows95"
+ois5.va 3600 IN A 193.40.247.64
+meas17.me 10800 IN A 193.40.245.47
+meas17.me 10800 IN HINFO "Pentium/133" "WindowsNT WS"
+license1.intra 10800 IN A 192.168.133.236
+ns1.msi 43200 IN A 193.40.254.57
+paragrahv.h 10800 IN A 193.40.253.43
+paragrahv.h 10800 IN HINFO "PentiumMMX/166" "Win95"
+eipa209.eipa 10800 IN A 193.40.250.209
+CAL 10800 IN CNAME DeepThought
+c8.class 10800 IN A 193.40.254.8
+c27.class 10800 IN A 193.40.254.27
+spare-78 10800 IN A 193.40.255.78
+ati 10800 IN A 193.40.246.3
+ati 10800 IN MX 10 wall
+ati 10800 IN TXT "v=spf1 a mx ip4:193.40.254.238 ~all"
+spare-79 10800 IN A 193.40.255.79
+kolmmadu.h 10800 IN A 193.40.253.35
+kolmmadu.h 10800 IN HINFO "PentiumPro/433" "WindowsNT"
+elajam1.ene 10800 IN A 193.40.249.76
+elajam1.ene 10800 IN HINFO "Pentium-MMX/200" "Windows95"
+www.eelk 10800 IN CNAME deepzone2
+BLN 10800 IN A 193.40.242.236
+10800 IN A 193.40.254.222
+MH-AK-14.mh 1200 IN A 192.168.105.69
+veerits.kirj 10800 IN A 193.40.250.247
+mail.bmt.cb 10800 IN A 193.40.254.73
+mepc20.me 10800 IN A 193.40.245.243
+mepc20.me 10800 IN HINFO "PentiumIV" "WinXP"
+lab-10-10-10-181.tud 3600 IN A 10.10.10.181
+sotakas.h 10800 IN A 193.40.253.188
+sotakas.h 10800 IN HINFO "Pentium120" "Win95"
+spare-84 10800 IN A 193.40.255.84
+spare-218 10800 IN A 193.40.255.218
+portal-web1.intra 10800 IN A 192.168.115.245
+lab-10-10-10-65.tud 3600 IN A 10.10.10.65
+eipa160.eipa 10800 IN A 193.40.250.160
+gece-18.et 10800 IN A 193.40.244.52
+gece-18.et 10800 IN HINFO "Pentium100" "Win95"
+zaurus 10800 IN A 193.40.244.99
+spare-86 10800 IN A 193.40.255.86
+corserv.corson 10800 IN A 193.40.254.94
+corserv.corson 10800 IN HINFO "PentiumIII" "Win2K"
+spare-87 10800 IN A 193.40.255.87
+tudengibuss 10800 IN CNAME tipikas.tv.
+spare-90 10800 IN A 193.40.255.90
+dev.kaisa 10800 IN CNAME gurney.cc
+tiina.ee 10800 IN A 193.40.252.13
+tiina.ee 10800 IN HINFO "486DX4/100" "Win95"
+klass.tv 3600 IN A 193.40.241.248
+spare-92 10800 IN A 193.40.255.92
+eipa119.eipa 10800 IN A 193.40.250.119
+printer.p 3600 IN HINFO "HP LaserJet" "HP"
+printer.p 3600 IN A 193.40.253.244
+lab-10-10-10-225.tud 3600 IN A 10.10.10.225
+ci-bw1.intra 10800 IN A 192.168.115.112
+dcc 43200 IN NS apea.dcc
+printer.kirj 10800 IN A 193.40.250.249
+deltaii.em 10800 IN A 193.40.252.209
+deltaii.em 10800 IN HINFO "PentiumII/233" "Windows95"
+comp26.tkk 3600 IN A 193.40.242.102
+comp26.tkk 3600 IN HINFO "Pentium" "Windows95"
+spare-96 10800 IN A 193.40.255.96
+MH-AK-15.mh 1200 IN A 192.168.105.40
+lab-10-10-10-197.tud 3600 IN A 10.10.10.197
+cs2 10800 IN A 193.40.254.43
+ak112-3.ld 10800 IN A 193.40.244.165
+ak112-3.ld 10800 IN HINFO "PC" "Win"
+vesi.ka 10800 IN A 193.40.253.124
+vesi.ka 10800 IN HINFO "Pentium" "Win95"
+110lab5.ene 10800 IN A 193.40.249.84
+110lab5.ene 10800 IN HINFO "Celeron400" "Win98SE"
+ak213-79.class 10800 IN A 192.168.40.79
+onyx 10800 IN A 193.40.242.230
+aarnep.p 3600 IN A 193.40.253.148
+aarnep.p 3600 IN HINFO "Celeron/500" "Windows2000"
+gece-19.et 10800 IN A 193.40.244.53
+gece-19.et 10800 IN HINFO "Pentium100" "Win95"
+sass.cc 10800 IN A 193.40.254.45
+sass.cc 10800 IN HINFO "PC/386SX" "Windows95"
+eipa12.eipa 10800 IN A 193.40.250.12
+ruhav.ka 10800 IN A 193.40.253.146
+ruhav.ka 10800 IN HINFO "Celeron/500" "Windows2000"
+www.naiskoor 10800 IN CNAME deepzone2
+autodiscover.tseba 10800 IN CNAME autodiscover.outlook.com.
+virtuals1 10800 IN A 193.40.254.62
+elen-120.ene 10800 IN A 193.40.249.120
+portal-web3.intra 10800 IN A 192.168.115.240
+hanno.me 10800 IN A 193.40.245.45
+hanno.me 10800 IN HINFO "Sun Ultra 10" "Solaris"
+ps-color2.intra 10800 IN A 192.168.134.235
+eac 10800 IN CNAME deepzone2
+mhserver2.mh 3600 IN A 193.40.245.150
+vana.cs 10800 IN A 193.40.251.102
+ak213-53.class 10800 IN A 192.168.40.53
+eelk 10800 IN CNAME deepzone2
+informatics 10800 IN A 193.40.246.15
+comp29.tkk 3600 IN A 193.40.242.105
+comp29.tkk 3600 IN HINFO "Pentium" "Windows95"
+eipa17.eipa 10800 IN A 193.40.250.17
+www.las 10800 IN CNAME aragorn.tud
+kammerkoor 10800 IN CNAME deepzone2
+docs 10800 IN CNAME virtuals2
+ecc 10800 IN A 193.40.254.93
+ecc 10800 IN HINFO "Pentium166" "WinNT"
+klassgw.ene 10800 IN A 193.40.249.34
+c213-20.cc 10800 IN A 193.40.254.20
+c213-20.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+ddecs2012.ati 10800 IN CNAME ati
+lists 10800 IN A 193.40.254.215
+lists 10800 IN MX 0 lists-ttu-ee.mail.protection.outlook.com.
+mailhost 10800 IN CNAME onyx
+cloud.ld 10800 IN A 193.40.244.84
+oppe 10800 IN A 193.40.254.251
+oppe 10800 IN HINFO "Pentium" "Novell 4.1"
+ak213-116.class 10800 IN A 192.168.40.116
+cc 10800 IN MX 0 cc-ttu-ee.mail.protection.outlook.com.
+cc 10800 IN TXT "v=spf1 a:onyx.ttu.ee include:spf.protection.outlook.com -all"
+MH-AK-16.mh 1200 IN A 192.168.105.71
+ce 10800 IN HINFO "PC/386" "Novell 3.11"
+liina.ct 10800 IN A 193.40.252.216
+liina.ct 10800 IN HINFO "Pentium" "Windows95"
+tudeng7.km 10800 IN A 193.40.253.7
+tudeng7.km 10800 IN HINFO "Pentium" "Win95"
+st20903.as 10800 IN A 193.40.241.202
+st20903.as 10800 IN HINFO "PC" "Win95"
+imap.ati 10800 IN CNAME ati
+cs 10800 IN A 193.40.252.91
+cs 10800 IN MX 0 cs-ttu-ee.mail.protection.outlook.com.
+gilbert.yf 3600 IN A 193.40.252.185
+gilbert.yf 3600 IN HINFO "Pentium" "Windows95"
+vvk2.vvk 3600 IN A 193.40.242.179
+eipa23.eipa 10800 IN A 193.40.250.23
+lab-10-10-10-203.tud 3600 IN A 10.10.10.203
+DNS 10800 IN CNAME zaphod
+portal-dev 10800 IN CNAME portal-test
+www.ehitustootlus 10800 IN CNAME www
+liisa.ene 10800 IN A 193.40.249.77
+liisa.ene 10800 IN HINFO "PentiumIII/800" "Win98SE"
+lab-10-10-10-53.tud 3600 IN A 10.10.10.53
+lab-10-10-10-100.tud 3600 IN A 10.10.10.100
+apel1.le 10800 IN A 193.40.252.99
+apel1.le 10800 IN HINFO "PC" "MS-DOS"
+gf 43200 IN NS nsgf
+quartz 10800 IN A 193.40.242.235
+opto 10800 IN MX 1 mserv.opto
+10800 IN MX 10 sa
+10800 IN MX 10 sa2
+go 10800 IN A 193.40.254.193
+ramp.ene 10800 IN A 193.40.249.174
+eik 10800 IN CNAME virtuals1
+eil 10800 IN CNAME virtuals1
+id 10800 IN A 193.40.254.211
+mhserver.mp 10800 IN A 193.40.245.160
+mhserver.mp 10800 IN HINFO "x86" "MS Windows"
+mhserver.mp 10800 IN MX 10 mhserver.mp
+eipa28.eipa 10800 IN A 193.40.250.28
+ii 10800 IN MX 1 anubis.kbfi.ee.
+comp7.tkk 3600 IN A 193.40.242.83
+comp7.tkk 3600 IN HINFO "Pentium/166" "Win95"
+io 10800 IN A 193.40.242.231
+ip 10800 IN CNAME www
+egdk 10800 IN CNAME ene.ene
+spare-147 10800 IN A 193.40.255.147
+it 10800 IN CNAME portal
+fiber 10800 IN A 193.40.242.232
+lab-10-10-10-213.tud 3600 IN A 10.10.10.213
+st20501.as 10800 IN A 193.40.241.205
+st20501.as 10800 IN HINFO "PC" "Win95"
+elka.le 10800 IN A 193.40.252.69
+elka.le 10800 IN HINFO "VAX-11/750" "UNIX"
+eme 10800 IN A 193.40.252.251
+eme 10800 IN HINFO "PC/486" "Novell Netware 4.1"
+km 10800 IN MX 10 elrond.tud
+le 10800 IN MX 10 elve.le
+lk 10800 IN CNAME deepzone2
+vares.sti 3600 IN A 193.40.241.237
+eng 10800 IN CNAME virtuals1
+eipa5.eipa 10800 IN A 193.40.250.5
+eipa34.eipa 10800 IN A 193.40.250.34
+lr 43200 IN NS rsti.lr
+vvk1.p 3600 IN A 193.40.253.171
+enedhcp40.ene 10800 IN A 193.40.249.217
+sirje.ld 10800 IN A 193.40.244.143
+sirje.ld 10800 IN HINFO "Pentium-MMX 166" "Win95B"
+gece-22.et 10800 IN A 193.40.244.56
+gece-22.et 10800 IN HINFO "Pentium100" "Win95"
+opennms 10800 IN A 193.40.254.241
+vvk2.p 3600 IN A 193.40.253.172
+valtal.p 3600 IN A 193.40.253.139
+valtal.p 3600 IN HINFO "Pentium100" "Win95"
+c213-6.cc 10800 IN A 193.40.254.6
+c213-6.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+vostok.me 10800 IN A 193.40.245.58
+vostok.me 10800 IN HINFO "PentiumPro/166" "Win95"
+astife.la 10800 IN A 193.40.252.42
+astife.la 10800 IN HINFO "PC/486DX" "MSDOS 6.0"
+olga.ld 10800 IN A 193.40.244.150
+olga.ld 10800 IN HINFO "PC" "Win"
+apel2.le 10800 IN A 193.40.252.100
+apel2.le 10800 IN HINFO "PC" "MS-DOS"
+doktor2.t 3600 IN A 193.40.241.165
+doktor2.t 3600 IN HINFO "C1200" "WXPP"
+v2 10800 IN CNAME virtuals2
+osce 10800 IN A 193.40.254.242
+tester.cs 10800 IN A 193.40.252.86
+kpt1.ene 10800 IN A 193.40.249.112
+kpt1.ene 10800 IN HINFO "Pentium" "Windows"
+elen-107.ene 10800 IN A 193.40.249.107
+eipa40.eipa 10800 IN A 193.40.250.40
+vvk5.p 3600 IN A 193.40.253.175
+pv 10800 IN CNAME deepzone0
+bchs10 10800 IN CNAME deepzone2
+mari.eil 10800 IN A 193.40.245.121
+mari.eil 10800 IN HINFO "Pentium" "Win98"
+sa 10800 IN A 193.40.242.225
+vvk6.p 3600 IN A 193.40.253.176
+vvk10.p 3600 IN A 193.40.253.180
+pc2.mo 10800 IN A 193.40.245.136
+pc2.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+gw.tdng 3600 IN A 193.40.253.185
+gw.tdng 3600 IN HINFO "Pentium" "RedHat 6.2"
+est 10800 IN CNAME virtuals1
+etl 10800 IN CNAME deepzone0
+vvk7.p 3600 IN A 193.40.253.177
+ftir.opto 3600 IN A 193.40.245.110
+ftir.opto 3600 IN HINFO "Pentium" "Win95"
+comp17.tkk 3600 IN A 193.40.242.93
+comp17.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+ti 3600 IN MX 10 www.ti
+vvk8.p 3600 IN A 193.40.253.178
+coulomb.ene 10800 IN A 193.40.249.136
+vvk12.p 3600 IN A 193.40.253.183
+elis.va 3600 IN A 193.40.247.4
+eipa45.eipa 10800 IN A 193.40.250.45
+cs01s.intra 10800 IN A 192.168.133.151
+www2.k 10800 IN CNAME deepzone0
+www.90 10800 IN CNAME saruman
+vi 3600 IN A 193.40.242.128
+lab-10-10-10-133.tud 3600 IN A 10.10.10.133
+www.eipa 10800 IN CNAME mail.eipa
+gece-23.et 10800 IN A 193.40.244.57
+gece-23.et 10800 IN HINFO "Pentium100" "Win95"
+eipa199.eipa 10800 IN A 193.40.250.199
+koolitus2.hum 10800 IN A 193.40.250.230
+lab-10-10-10-50.tud 3600 IN A 10.10.10.50
+etalabor.ene 10800 IN A 193.40.249.133
+ww 10800 IN CNAME www
+lab-10-10-10-41.tud 3600 IN A 10.10.10.41
+eipa51.eipa 10800 IN A 193.40.250.51
+www.keemlab 10800 IN CNAME deepzone2
+vvk18.vvk 3600 IN A 193.40.242.163
+valu.me 10800 IN A 193.40.245.6
+valu.me 10800 IN HINFO "PentiumII/266" "Windows95"
+msoid.lists 10800 IN CNAME clientconfig.microsoftonline-p.net.
+pe-bw1.intra 10800 IN A 192.168.134.241
+git 10800 IN A 193.40.252.97
+audio2.sv 3600 IN A 193.40.252.66
+audio2.sv 3600 IN HINFO "Pentium" "Windows98"
+pc3.mo 10800 IN A 193.40.245.137
+pc3.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+www.e-uni 10800 IN A 193.40.242.123
+elve.le 10800 IN CNAME elve.elin
+sorts.roke 3600 IN A 193.40.243.3
+ftp 10800 IN CNAME benjy.cc
+MH311-01.mh 1200 IN A 193.40.255.9
+eipa56.eipa 10800 IN A 193.40.250.56
+MH-AK-19.mh 1200 IN A 192.168.105.50
+www.ejml 10800 IN CNAME virtual
+www.bioorg 10800 IN A 193.40.253.45
+www.bioorg 10800 IN HINFO "PentiumIII" "WinXP"
+meas13.me 10800 IN A 193.40.245.1
+meas13.me 10800 IN HINFO "Pentium/100" "Windows95"
+lab-10-10-10-150.tud 3600 IN A 10.10.10.150
+ak213-6.class 10800 IN A 192.168.40.6
+merje.mty 10800 IN A 193.40.243.6
+ktidok.ek 10800 IN A 193.40.252.98
+ktidok.ek 10800 IN HINFO "486" "Windows95"
+gece-24.et 10800 IN HINFO "Pentium100" "Win95"
+gece-24.et 10800 IN A 193.40.244.58
+ak213-85.class 10800 IN A 192.168.40.85
+enedhcp27.ene 10800 IN A 193.40.249.250
+eipa62.eipa 10800 IN A 193.40.250.62
+kyllike.ee 10800 IN A 193.40.253.167
+kyllike.ee 10800 IN HINFO "Pentium100" "Win95"
+tiit.opto 3600 IN A 193.40.245.109
+tiit.opto 3600 IN HINFO "Pentium" "Win95"
+play 10800 IN A 193.40.254.210
+mail.staff 10800 IN A 193.40.254.217
+www.estiem 10800 IN CNAME deepzone0
+eipa26.eipa 10800 IN A 193.40.250.26
+cybercentre.cs 10800 IN A 193.40.252.105
+jep.pld 10800 IN A 193.40.252.97
+ak213-58.class 10800 IN A 192.168.40.58
+pc4.mo 10800 IN A 193.40.245.138
+pc4.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+gti 10800 IN A 193.40.254.250
+eipa67.eipa 10800 IN A 193.40.250.67
+tony.li 10800 IN A 193.40.254.192
+tony.li 10800 IN HINFO "Pentium" "Windows95"
+cs4.cs 10800 IN A 193.40.252.84
+ak213-95.class 10800 IN A 192.168.40.95
+adolf.ld 10800 IN A 193.40.244.148
+adolf.ld 10800 IN HINFO "PC" "Win95"
+ics 43200 IN A 193.40.252.84
+maikiu.p 3600 IN A 193.40.253.113
+maikiu.p 3600 IN HINFO "PentiumIII" "WinXP"
+ak213-122.class 10800 IN A 192.168.40.122
+idp 10800 IN A 193.40.254.216
+opikoda.majandus 10800 IN A 193.40.241.50
+flow.ene 10800 IN A 193.40.249.179
+flow.ene 10800 IN HINFO "Pentium4/3.0" "WinXP"
+gece-25.et 10800 IN A 193.40.244.59
+gece-25.et 10800 IN HINFO "Pentium100" "Win95"
+ak213-32.class 10800 IN A 192.168.40.32
+hpc 10800 IN A 193.40.244.212
+eipa73.eipa 10800 IN A 193.40.250.73
+turing 10800 IN A 193.40.242.120
+mail.arkaad.cs 10800 IN A 193.40.252.81
+olavi.p 3600 IN A 193.40.253.136
+olavi.p 3600 IN HINFO "Pentium" "Win2K"
+lab-10-10-10-28.tud 3600 IN A 10.10.10.28
+kino 10800 IN CNAME deepzone2
+elin1.le 10800 IN A 193.40.252.114
+elin1.le 10800 IN HINFO "PC" "MS-DOS"
+intra 10800 IN MX 0 intra-ttu-ee.mail.protection.outlook.com.
+intra 10800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+lab-10-10-10-128.tud 3600 IN A 10.10.10.128
+pc5.mo 10800 IN A 193.40.245.139
+pc5.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+eipa78.eipa 10800 IN A 193.40.250.78
+htk 10800 IN CNAME www
+ejml 10800 IN CNAME virtual
+mail.ati 10800 IN CNAME ati
+mare.rekt 3600 IN A 193.40.253.26
+mare.rekt 3600 IN HINFO "486SX" "DOS"
+osb1.h 10800 IN A 193.40.245.222
+osb1.h 10800 IN HINFO "PentiumII/266" "Windows98"
+ci-color1.intra 10800 IN A 193.40.254.214
+lab-10-10-10-183.tud 3600 IN A 10.10.10.183
+hum 10800 IN A 193.40.250.251
+ameerika.centr 10800 IN A 193.40.253.211
+ameerika.centr 10800 IN HINFO "Pentium133" "Win95"
+meas10.me 10800 IN A 193.40.245.2
+meas10.me 10800 IN HINFO "PentiumII/350" "WindowsNT WS"
+www.mai 10800 IN CNAME deepzone2
+eipa103.eipa 10800 IN A 193.40.250.103
+lib 43200 IN NS ntw.lib
+asti-sild.la 10800 IN A 193.40.240.10
+asti-sild.la 10800 IN HINFO "D-Link Local Bridge DI-1100i" "Ver 1.34"
+nortelm1 10800 IN A 193.40.241.250
+nortelm1 10800 IN HINFO "BayStack 350-12T" "SW:V1.2.0.11"
+water.ene 10800 IN A 193.40.249.163
+www.biorobotics 10800 IN A 193.40.254.62
+cs08i.intra 10800 IN A 192.168.133.188
+gece-26.et 10800 IN A 193.40.244.60
+gece-26.et 10800 IN HINFO "Pentium100" "Win95"
+masterhub.km 10800 IN A 193.40.253.15
+hpclic1 10800 IN A 193.40.254.207
+lac.la 10800 IN A 193.40.254.65
+lac.la 10800 IN HINFO "PC/AT" "MS-DOS"
+maja4.ee 10800 IN A 193.40.253.144
+maja4.ee 10800 IN HINFO "Pentium133" "Win95"
+enedhcp15.ene 10800 IN A 193.40.249.238
+eipa108.eipa 10800 IN A 193.40.250.108
+eipa30.eipa 10800 IN A 193.40.250.30
+lab-10-10-10-238.tud 3600 IN A 10.10.10.238
+iro 10800 IN CNAME deepzone0
+elin2.le 10800 IN A 193.40.252.115
+elin2.le 10800 IN HINFO "PC" "MS-DOS"
+ntmp.intra 10800 IN A 192.168.133.244
+video1.ct 10800 IN A 193.40.252.211
+video1.ct 10800 IN HINFO "PentiumII" "WindowsNT"
+primus 10800 IN CNAME virtuals2
+comp28.tkk 3600 IN A 193.40.242.104
+comp28.tkk 3600 IN HINFO "Pentium" "Windows95"
+pc6.mo 10800 IN A 193.40.245.140
+pc6.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+comp10.tkk 3600 IN A 193.40.242.86
+comp10.tkk 3600 IN HINFO "Pentium/166" "Win95"
+eipa72.eipa 10800 IN A 193.40.250.72
+topi.ld 10800 IN A 193.40.244.142
+topi.ld 10800 IN HINFO "PC" "Win"
+eipa114.eipa 10800 IN A 193.40.250.114
+rein.ld 10800 IN A 193.40.244.81
+rein.ld 10800 IN HINFO "Celeron 300" "WinNTw 4.0"
+ylemus.ka 10800 IN A 193.40.253.135
+ylemus.ka 10800 IN HINFO "Pentium/75" "Windows98"
+itwiki.intra 10800 IN A 192.168.115.244
+rein.me 10800 IN A 193.40.245.86
+rein.me 10800 IN HINFO "5x86/100" "Win95"
+iv208.hum 10800 IN A 193.40.253.239
+iv208.hum 10800 IN HINFO "PentiumIV" "WinXP"
+eipa95.eipa 10800 IN A 193.40.250.95
+ns.elin 43200 IN A 193.40.240.186
+pro.rekt 3600 IN A 193.40.253.202
+pro.rekt 3600 IN HINFO "Pentium" "Win95"
+blast.ene 10800 IN A 193.40.249.170
+elin 43200 IN NS ns.elin
+eipa120.eipa 10800 IN A 193.40.250.120
+c12.class 10800 IN A 193.40.254.12
+serenade.km 10800 IN A 193.40.253.232
+serenade.km 10800 IN HINFO "PentiumII/300" "Win98"
+193-40-242-144.vi 3600 IN A 193.40.242.144
+best2 10800 IN A 193.40.242.181
+mehinst.em 10800 IN A 193.40.252.208
+mehinst.em 10800 IN HINFO "Amd K6" "Windows98"
+mp10.mp 10800 IN A 193.40.245.170
+mp10.mp 10800 IN HINFO "x86" "MS Windows"
+video2.ct 10800 IN A 193.40.252.212
+lab-10-10-10-6.tud 3600 IN A 10.10.10.6
+lab-10-10-10-16.tud 3600 IN A 10.10.10.16
+lap 43200 IN NS ns.lap.ee.
+pc7.mo 10800 IN A 193.40.245.141
+pc7.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+enedhcp20.ene 10800 IN A 193.40.249.243
+pv-color4.intra 10800 IN A 192.168.134.236
+m-test 10800 IN A 193.40.254.190
+ppp-ml.cc 10800 IN A 193.40.244.196
+ppp-ml.cc 10800 IN HINFO "PPP Client" "Unknown"
+marika.p 3600 IN A 193.40.253.89
+marika.p 3600 IN HINFO "Pentium-MMX/166" "Windows95"
+eipa125.eipa 10800 IN A 193.40.250.125
+cs7.cs 10800 IN A 193.40.252.87
+juubel.kk 10800 IN A 193.40.253.22
+juubel.kk 10800 IN HINFO "IBM PIII" "Win98"
+kky 10800 IN MX 10 newton.yk
+kmi 10800 IN CNAME deepzone2
+kmk 10800 IN CNAME www
+www.spordikeskus 10800 IN CNAME DeepZone2
+kilo.li 10800 IN A 193.40.254.204
+encoder 10800 IN A 193.40.254.218
+lab-10-10-10-66.tud 3600 IN A 10.10.10.66
+temp2.ek 10800 IN A 193.40.252.97
+temp2.ek 10800 IN HINFO "Pentium/150" "Windows98"
+tv-bw3.intra 10800 IN A 192.168.144.230
+sharepoint.ld 10800 IN CNAME dellserv.ld
+lab-10-10-10-166.tud 3600 IN A 10.10.10.166
+eipa131.eipa 10800 IN A 193.40.250.131
+ak213-91.class 10800 IN A 192.168.40.91
+lab-10-10-10-18.tud 3600 IN A 10.10.10.18
+www.cb 10800 IN CNAME bmt.cb
+www.au 10800 IN A 193.40.252.210
+www.au 10800 IN HINFO "Pentium/133" "Linux"
+pa-bw2.intra 10800 IN A 192.168.136.224
+lic 10800 IN CNAME faramir.tud
+vorador 10800 IN A 193.40.254.232
+diez.tkk 3600 IN A 193.40.242.74
+www.cs 10800 IN A 193.40.252.91
+lab-10-10-10-68.tud 3600 IN A 10.10.10.68
+mai 10800 IN CNAME deepzone2
+astix.la 10800 IN A 193.40.252.54
+astix.la 10800 IN HINFO "Pentium" "Win95"
+pc8.mo 10800 IN A 193.40.245.142
+pc8.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+eipa136.eipa 10800 IN A 193.40.250.136
+tall1.kk 10800 IN A 193.40.253.181
+tall1.kk 10800 IN HINFO "Pentium" "Win95"
+BACKUP1.intra 10800 IN A 192.168.133.235
+www.et 10800 IN A 193.40.252.68
+www.et 10800 IN HINFO "PentiumII" "WinNT"
+oku.cc 10800 IN A 193.40.254.64
+ak213-60.class 10800 IN A 192.168.40.60
+cs8.cs 10800 IN A 193.40.252.88
+erg.yf 3600 IN A 193.40.252.178
+erg.yf 3600 IN HINFO "Pentium" "Windows95"
+dlx9.intra 10800 IN A 193.40.254.205
+dlx9.intra 10800 IN AAAA 2001:bb8:4002:2540::205
+ftp.ati 10800 IN CNAME ati
+mail.eme 10800 IN A 193.40.252.251
+jpapst.me 10800 IN A 193.40.245.214
+jpapst.me 10800 IN HINFO "PentiumIV" "WinXP"
+arwen.tud 3600 IN A 193.40.254.168
+mei 10800 IN MX 1 anubis.kbfi.ee.
+lab-10-10-10-118.tud 3600 IN A 10.10.10.118
+ak213-127.class 10800 IN A 192.168.40.127
+temp3.ek 10800 IN A 193.40.252.75
+temp3.ek 10800 IN HINFO "Celeron" "Windows98"
+dek1.e 10800 IN A 193.40.252.8
+dek1.e 10800 IN HINFO "Athlon 1GHz" "Win98"
+eipa142.eipa 10800 IN A 193.40.250.142
+webportal.intra 10800 IN A 192.168.115.239
+www.it 10800 IN CNAME portal
+dek2.e 10800 IN A 193.40.252.7
+dek2.e 10800 IN HINFO "Athlon 1GHz" "Win98"
+hiie.cb 10800 IN HINFO "Pentium75" "Windows95"
+hiie.cb 10800 IN A 193.40.254.74
+www.iw 10800 IN CNAME tipikas.ee.
+ak213-37.class 10800 IN A 192.168.40.37
+video.sv 3600 IN A 193.40.252.24
+video.sv 3600 IN HINFO "Pentium" "Windows98"
+kaer.kt 10800 IN A 193.40.253.120
+kaer.kt 10800 IN HINFO "Pentium100" "Win95"
+erik.h 10800 IN A 193.40.253.215
+erik.h 10800 IN HINFO "Pentium133" "Win95"
+dek3.e 10800 IN A 193.40.252.31
+dek3.e 10800 IN HINFO "Pentium" "Win98"
+elen-121.ene 10800 IN A 193.40.249.121
+ssot.va 3600 IN A 193.40.247.3
+www.li 10800 IN CNAME penta.li
+www.lk 10800 IN CNAME deepzone2
+eipa179.eipa 10800 IN A 193.40.250.179
+www.me 10800 IN CNAME hp715b.me
+anne.kk 10800 IN A 193.40.253.98
+anne.kk 10800 IN HINFO "PC" "Win98"
+www.mh 3600 IN A 193.40.245.160
+www.mi 10800 IN CNAME deepzone0
+roberto.ene 10800 IN A 193.40.249.66
+roberto.ene 10800 IN HINFO "PentiumIII/800" "Win2K"
+ak213-101.class 10800 IN A 192.168.40.101
+person1.h 10800 IN A 193.40.253.63
+person1.h 10800 IN HINFO "PentiumMMX/166" "Win95"
+www.mo 10800 IN CNAME pc10.mo
+eipa147.eipa 10800 IN A 193.40.250.147
+comp31.tkk 3600 IN A 193.40.242.107
+pc9.mo 10800 IN A 193.40.245.143
+pc9.mo 10800 IN HINFO "PC 486/50" "MS-DOS"
+mkk 10800 IN CNAME virtuals1
+ncc 10800 IN A 193.40.254.253
+ncc 10800 IN HINFO "PC/386" "Novell 3.11"
+zaphod 10800 IN A 193.40.254.227
+zaphod 10800 IN HINFO "SPARC Classic" "SunOS 5.3"
+zaphod 10800 IN MX 10 zaphod
+zaphod 10800 IN WKS 193.40.254.227 6 25
+ak213-11.class 10800 IN A 192.168.40.11
+cs9.cs 10800 IN A 193.40.252.89
+lab-10-10-10-104.tud 3600 IN A 10.10.10.104
+master.ene 10800 IN A 193.40.249.33
+master.ene 10800 IN HINFO "Pentium/133" "Windows95"
+riina.km 10800 IN A 193.40.253.109
+riina.km 10800 IN HINFO "386DX" "MS-DOS"
+person5.h 10800 IN A 193.40.253.93
+vetikas.yf 3600 IN A 193.40.254.230
+eipa153.eipa 10800 IN A 193.40.250.153
+temp4.ek 10800 IN A 193.40.252.78
+temp4.ek 10800 IN HINFO "Celeron" "Windows98"
+irene.ep 10800 IN A 193.40.252.20
+irene.ep 10800 IN HINFO "PentiumII/350" "Windows98"
+vbox.opto 3600 IN A 193.40.245.102
+comp16.tkk 3600 IN A 193.40.242.92
+comp16.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+lab-10-10-10-54.tud 3600 IN A 10.10.10.54
+gandalf 10800 IN A 193.40.254.180
+gandalf 10800 IN HINFO "Pentium IV 2600MHz" "WinXP"
+meo 10800 IN A 193.40.245.158
+meo 10800 IN MX 10 sa
+10800 IN MX 10 sa2
+meo 10800 IN HINFO "Pentium" "Novell Netware 3.12"
+autodiscover.sti 3600 IN CNAME autodiscover.outlook.com.
+www.ti 3600 IN A 88.196.48.53
+htkfoorum 10800 IN CNAME deepzone2
+www.tk 3600 IN CNAME www
+piht.p 3600 IN A 193.40.252.192
+piht.p 3600 IN HINFO "PentiumII/350" "Windows98"
+www.tm 3600 IN CNAME bmt.cb
+openvpn 10800 IN A 193.40.244.196
+eipa158.eipa 10800 IN A 193.40.250.158
+astire.la 10800 IN A 193.40.252.52
+msi 43200 IN NS ns1.msi
+43200 IN NS ns2.msi
+LTHENDRE.mh 1200 IN A 192.168.105.167
+www.ip 10800 IN CNAME www
+alfred.ld 10800 IN A 193.40.244.151
+alfred.ld 10800 IN HINFO "PC" "Win95"
+kent.cl 10800 IN A 193.40.253.219
+kent.cl 10800 IN HINFO "PentiumII/350" "WindowsNT"
+lab-10-10-10-214.tud 3600 IN A 10.10.10.214
+sccm4.intra 10800 IN A 192.168.133.246
+ns1 10800 IN A 193.40.254.212
+ns2 10800 IN A 193.40.254.213
+st31001.ms 10800 IN A 193.40.241.211
+st31001.ms 10800 IN HINFO "PII 333" "Win98"
+mhlaptop.mh 1200 IN A 192.168.105.8
+eipa164.eipa 10800 IN A 193.40.250.164
+lab.cs 10800 IN A 80.235.105.75
+andres.eil 10800 IN A 193.40.245.120
+andres.eil 10800 IN HINFO "Pentium" "WinNT"
+class210-1.li 10800 IN A 193.40.244.66
+class210-1.li 10800 IN HINFO "PC/486DX66" "Windows95"
+temp5.ek 10800 IN A 193.40.252.80
+temp5.ek 10800 IN HINFO "Celeron" "Windows98"
+enedhcp41.ene 10800 IN A 193.40.249.218
+www.dhc12 10800 IN CNAME deepzone2
+elsys.ene 10800 IN A 193.40.249.99
+elsys.ene 10800 IN HINFO "PentiumIII/800" "Win2K"
+ecosoc7.intra 10800 IN A 192.168.138.252
+vector.ene 10800 IN A 193.40.249.89
+vector.ene 10800 IN HINFO "PentiumIII/800" "Win2K"
+sslportal 10800 IN A 193.40.244.197
+nop 10800 IN A 193.40.254.237
+class210-3.li 10800 IN A 193.40.244.68
+class210-3.li 10800 IN HINFO "PC/486DX66" "Windows95"
+komandant.as 10800 IN A 193.40.241.218
+komandant.as 10800 IN HINFO "Pentium" "Windows98"
+astige.la 10800 IN A 193.40.252.43
+astige.la 10800 IN HINFO "PC/XT" "MSDOS 5.0"
+jupiter 10800 IN A 192.168.115.251
+dekaprint.intra 10800 IN A 192.168.134.227
+msoid.parsek.yf 3600 IN CNAME clientconfig.microsoftonline-p.net.
+eipa170.eipa 10800 IN A 193.40.250.170
+c17.class 10800 IN A 193.40.254.17
+elen-108.ene 10800 IN A 193.40.249.108
+once.tkk 3600 IN A 193.40.242.75
+dfs2.intra 10800 IN A 192.168.133.242
+vm-color1.intra 10800 IN A 192.168.158.238
+rita.ct 10800 IN A 193.40.252.215
+rita.ct 10800 IN HINFO "Pentium" "Windows95"
+vvk4.vvk 3600 IN A 193.40.242.177
+www.kk 10800 IN A 193.40.253.96
+tm 3600 IN MX 10 mail.cb
+keemlab 10800 IN A 193.40.254.223
+keemlab 10800 IN MX 0 keemlab-ttu-ee.mail.protection.outlook.com.
+keemlab 10800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+www.km 10800 IN CNAME languageserv.km
+NTP 10800 IN A 193.40.254.171
+lagrange.em 10800 IN A 193.40.252.123
+lagrange.em 10800 IN HINFO "Pentium/100" "Windows95"
+ak213-64.class 10800 IN A 192.168.40.64
+eha.ep 10800 IN A 193.40.252.18
+eha.ep 10800 IN HINFO "Pentium/100" "Windows95"
+opikoda2.majandus 10800 IN A 193.40.241.51
+meas11.me 10800 IN A 193.40.245.3
+meas11.me 10800 IN HINFO "laptop" "Windows95"
+comp20.tkk 3600 IN A 193.40.242.96
+comp20.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+one 10800 IN A 193.40.254.227
+aritech.intra 10800 IN A 192.168.134.202
+michelle.cc 10800 IN A 193.40.254.164
+michelle.cc 10800 IN HINFO "PC/486DX4-100" "Windows NT"
+ak213-109.class 10800 IN A 192.168.40.109
+temp6.ek 10800 IN A 193.40.252.81
+temp6.ek 10800 IN HINFO "Celeron" "Windows98"
+marjen.h 10800 IN A 193.40.245.154
+marjen.h 10800 IN HINFO "iMac" "MacOS9"
+aarne.h 10800 IN A 193.40.243.10
+10800 IN A 193.40.245.230
+aarne.h 10800 IN HINFO "Pentium" "Windows95"
+class210-4.li 10800 IN A 193.40.244.69
+class210-4.li 10800 IN HINFO "PC/486DX66" "Windows95"
+analyys 10800 IN A 193.40.244.185
+eipa181.eipa 10800 IN A 193.40.250.181
+lab-10-10-10-42.tud 3600 IN A 10.10.10.42
+kilt.ene 10800 IN A 193.40.249.184
+aime.y 3600 IN A 193.40.253.129
+aime.y 3600 IN HINFO "PC" "MS-DOS"
+vvk19.vvk 3600 IN A 193.40.242.162
+lab-10-10-10-142.tud 3600 IN A 10.10.10.142
+xtee-test-sise 10800 IN A 193.40.254.81
+radamsa.cm 10800 IN A 193.40.252.174
+radamsa.cm 10800 IN HINFO "P120" "Win95"
+helpdesk2 10800 IN CNAME portal
+pld 43200 IN NS wall
+mati.p 3600 IN A 193.40.253.147
+mati.p 3600 IN HINFO "486DX2/66" "Win95"
+eipa186.eipa 10800 IN A 193.40.250.186
+lab-10-10-10-92.tud 3600 IN A 10.10.10.92
+ato.li 10800 IN A 193.40.254.206
+z 43200 IN TXT "v=msv1 t=135238ef29174e8749a18876820325"
+z 3600 IN MX 1 135238ef29174e8749a18876820325.mail.outlook.com.
+a1.ee 10800 IN A 193.40.252.82
+a1.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+ene.ene 10800 IN A 193.40.249.36
+ene.ene 10800 IN HINFO "PentiumII/350" "WindowsNT 4.0"
+pv-color1.intra 10800 IN A 192.168.134.231
+delta.em 10800 IN A 193.40.252.11
+delta.em 10800 IN HINFO "PentiumII-MMX" "Windows98"
+tres.tkk 3600 IN A 193.40.242.67
+arhiiv.h 10800 IN A 193.40.253.80
+arhiiv.h 10800 IN HINFO "PentiumIV" "Win2K"
+ak213-133.class 10800 IN A 192.168.40.133
+gerda.ep 10800 IN A 193.40.252.19
+gerda.ep 10800 IN HINFO "Pentium" "Windows98"
+enedhcp28.ene 10800 IN A 193.40.249.251
+eipa192.eipa 10800 IN A 193.40.250.192
+ak213-19.class 10800 IN A 192.168.40.19
+www.mp 10800 IN CNAME mhserver.mp
+ak213-43.class 10800 IN A 192.168.40.43
+rac 10800 IN A 193.40.254.216
+comp4.tkk 3600 IN HINFO "Pentium/166" "Win95"
+comp4.tkk 3600 IN A 193.40.242.80
+ekristjan 10800 IN CNAME deepzone2
+ak213-106.class 10800 IN A 192.168.40.106
+eipa207.eipa 10800 IN A 193.40.250.207
+max.li 10800 IN A 193.40.254.197
+max.li 10800 IN HINFO "PC/486DX" "MS-DOS"
+kaps.rekt 3600 IN A 193.40.253.162
+kaps.rekt 3600 IN HINFO "PC" "MS-DOS"
+pvd 10800 IN A 193.40.245.60
+ak213-16.class 10800 IN A 192.168.40.16
+a2.ee 10800 IN A 193.40.252.83
+a2.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+sa2 10800 IN A 193.40.242.226
+intranet.majandus 10800 IN A 193.40.241.9
+intranet.majandus 10800 IN HINFO "PIII/1000" "Linux"
+pt-bw1.intra 10800 IN A 192.168.134.243
+lab-10-10-10-169.tud 3600 IN A 10.10.10.169
+login.tud 3600 IN CNAME bilbo.tud
+gondor 10800 IN A 192.168.254.34
+valhalla.ene 10800 IN A 193.40.249.146
+astisa.la 10800 IN A 193.40.252.53
+eipa213.eipa 10800 IN A 193.40.250.213
+class210-6.li 10800 IN A 193.40.244.71
+class210-6.li 10800 IN HINFO "PC/486DX66" "Windows95"
+ftp.km 10800 IN CNAME languageserv.km
+ato.yf 3600 IN A 193.40.252.182
+ato.yf 3600 IN HINFO "286" "Windows 3.1"
+lab001.ene 10800 IN A 193.40.249.95
+lab001.ene 10800 IN HINFO "PentiumIII/667" "Win2K"
+taru.cs 10800 IN A 193.40.252.100
+vektor 10800 IN A 193.40.244.66
+class210-10.li 10800 IN A 193.40.244.75
+class210-10.li 10800 IN HINFO "PC/486DX66" "Windows95"
+spordiklubi.cc 10800 IN A 193.40.254.129
+spordiklubi.cc 10800 IN HINFO "PentiumII" "Linux"
+ftp.mp 10800 IN CNAME mhserver.mp
+es.km 10800 IN A 193.40.253.207
+es.km 10800 IN HINFO "Pentium133" "Linux"
+tseba 10800 IN A 193.40.254.223
+tseba 10800 IN MX 5 tseba-ttu-ee.mail.eo.outlook.com.
+tseba 10800 IN TXT "v=msv1 t=8f596b81b728469eb6706c6b1b06ef"
+lab-10-10-10-129.tud 3600 IN A 10.10.10.129
+eipa218.eipa 10800 IN A 193.40.250.218
+MH417-01.mh 1200 IN A 192.168.1.4
+ns100 10800 IN A 193.40.242.57
+maardla.ene 10800 IN A 193.40.249.176
+orion5.mt 10800 IN A 193.40.245.76
+orion5.mt 10800 IN HINFO "Pentium-MMX/200" "Windows98"
+elle.km 10800 IN A 193.40.253.221
+elle.km 10800 IN HINFO "PentiumIV" "WinXP"
+ct-bw2.intra 10800 IN A 192.168.134.250
+a3.ee 10800 IN A 193.40.252.84
+a3.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+donna.p 3600 IN A 193.40.252.190
+donna.p 3600 IN HINFO "Celeron" "Windows98"
+ldaps.ati 10800 IN CNAME nds.ati
+lab-10-10-10-79.tud 3600 IN A 10.10.10.79
+personal 10800 IN CNAME deepzone0
+st20904.ms 10800 IN A 193.40.241.206
+st20904.ms 10800 IN HINFO "P200" "Win95"
+lab-10-10-10-179.tud 3600 IN A 10.10.10.179
+eipa224.eipa 10800 IN A 193.40.250.224
+ellen.h 10800 IN A 193.40.243.11
+ellen.h 10800 IN HINFO "Pentium" "Win98"
+spare-70 10800 IN A 193.40.255.70
+_sip._tls 10800 IN SRV 100 1 443 sipdir.online.lync.com.
+class210-7.li 10800 IN A 193.40.244.72
+class210-7.li 10800 IN HINFO "PC/486DX66" "Windows95"
+www.technology 10800 IN CNAME virtuals1
+real 10800 IN CNAME penta.li
+lab-10-10-10-105.tud 3600 IN A 10.10.10.105
+persone.h 10800 IN A 193.40.253.62
+persone.h 10800 IN HINFO "PentiumII" "Windows98"
+c213-10.cc 10800 IN A 193.40.254.10
+c213-10.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+www.bbsed2007 10800 IN CNAME deepzone1
+class210-11.li 10800 IN A 193.40.244.76
+class210-11.li 10800 IN HINFO "PC/486DX66" "Windows95"
+fk.kk 10800 IN A 193.40.253.110
+fk.kk 10800 IN HINFO "PC/486DX" "Windows95"
+apricot.ati 10800 IN CNAME ati
+lab-10-10-10-239.tud 3600 IN A 10.10.10.239
+eipa193.eipa 10800 IN A 193.40.250.193
+sip 10800 IN CNAME sipdir.online.lync.com.
+c4.class 10800 IN A 193.40.254.4
+c23.class 10800 IN A 193.40.254.23
+MH417-02.mh 1200 IN A 192.168.105.125
+www.gece 10800 IN CNAME gece
+www.pv 10800 IN CNAME deepzone0
+ce-color2.intra 10800 IN A 192.168.134.223
+ftp.apollos 10800 IN CNAME apollos
+k6a112.p 3600 IN A 193.40.253.46
+k6a112.p 3600 IN HINFO "Pentium" "Windows95"
+a4.ee 10800 IN A 193.40.252.86
+a4.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+t1957.p 3600 IN A 193.40.253.218
+t1957.p 3600 IN HINFO "Pentium" "Win95"
+videopilv 10800 IN A 193.40.242.81
+k6a113.p 3600 IN A 193.40.253.47
+k6a113.p 3600 IN HINFO "Pentium" "Windows95"
+valis3.p 3600 IN A 193.40.253.141
+valis3.p 3600 IN HINFO "Celeron" "Windows98"
+www.geen 10800 IN CNAME virtuals1
+lab-10-10-10-37.tud 3600 IN A 10.10.10.37
+nokia.cc 10800 IN A 193.40.254.166
+nokia.cc 10800 IN HINFO "PC/386DX" "WindowsNT"
+spare-104 10800 IN A 193.40.255.104
+katarina.ld 10800 IN A 193.40.244.180
+katarina.ld 10800 IN HINFO "Pentium" "Linux 7.0"
+vanamajandus 10800 IN CNAME saruman
+gunnar.h 10800 IN A 193.40.245.238
+gunnar.h 10800 IN HINFO "Pentium" "Windows"
+personm.h 10800 IN A 193.40.253.37
+personm.h 10800 IN HINFO "PentiumII" "Windows98"
+www.htkfoorum 10800 IN CNAME deepzone2
+cs10i.intra 10800 IN A 192.168.133.190
+c213-11.cc 10800 IN A 193.40.254.11
+c213-11.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+ehmeh.em 10800 IN A 193.40.252.16
+ehmeh.em 10800 IN HINFO "PC/486" "MSDOS OS/2 LINUX"
+ehmeh.em 10800 IN MX 10 ehmeh.em
+class210-12.li 10800 IN A 193.40.244.77
+class210-12.li 10800 IN HINFO "PC/486DX66" "Windows95"
+margarita.h 10800 IN A 193.40.245.205
+markus.ld 10800 IN A 193.40.244.79
+markus.ld 10800 IN HINFO "PC" "WinNTs 4.0"
+axi.va 3600 IN A 193.40.247.67
+dutchman.yg 3600 IN A 193.40.252.28
+dutchman.yg 3600 IN HINFO "Pentium" "WindowsNT"
+ssl 10800 IN A 193.40.242.92
+mp01.mp 10800 IN A 193.40.245.161
+mp01.mp 10800 IN HINFO "x86" "MS Windows"
+sti 10800 IN A 193.40.241.251
+sti 10800 IN MX 5 sti-ttu-ee.mail.protection.outlook.com.
+sti 10800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+sti 10800 IN HINFO "Pentium" "Novell Netware 4.10"
+www.majandus 10800 IN CNAME www
+Rene.tm 3600 IN A 193.40.241.244
+Rene.tm 3600 IN HINFO "PLT" "WXPP"
+lab-10-10-10-117.tud 3600 IN A 10.10.10.117
+tko 10800 IN CNAME virtuals2
+mail.ncc 10800 IN A 193.40.254.253
+ajam.ene 10800 IN CNAME zoja.ene
+www.mat-loodus 10800 IN CNAME nobel.yk
+jyri.et 10800 IN A 193.40.252.85
+jyri.et 10800 IN HINFO "PentiumII/350" "Windows98"
+albert.cc 10800 IN A 193.40.254.249
+albert.cc 10800 IN HINFO "HP LanProbe II" "LanProbe"
+maris.li 10800 IN A 193.40.254.97
+maris.li 10800 IN HINFO "PC/486DX" "MS-DOS"
+cm-color1.intra 10800 IN A 192.168.134.245
+www2.cb 10800 IN CNAME bmt.cb
+sayedur.ld 10800 IN A 193.40.244.93
+sayedur.ld 10800 IN HINFO "Pentium" "Win95B"
+ak213-75.class 10800 IN A 192.168.40.75
+basalt.ene 10800 IN A 193.40.249.185
+micron.ym 3600 IN A 193.40.253.44
+micron.ym 3600 IN HINFO "PC/486" "MSDOS 6.0"
+class210-2.li 10800 IN A 193.40.244.67
+class210-2.li 10800 IN HINFO "PC/486DX66" "Windows95"
+mechatronics 10800 IN CNAME www
+k6a124.p 3600 IN A 193.40.253.49
+k6a124.p 3600 IN HINFO "Pentium" "Windows95"
+beta.opto 3600 IN A 193.40.245.114
+k6a125.p 3600 IN A 193.40.253.71
+k6a125.p 3600 IN HINFO "Pentium" "Windows95"
+robotex 10800 IN CNAME deepzone2
+class210-9.li 10800 IN A 193.40.244.74
+class210-9.li 10800 IN HINFO "PC/486DX66" "Windows95"
+fittest 10800 IN A 193.40.242.180
+c213-12.cc 10800 IN A 193.40.254.12
+c213-12.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+jyri.kk 10800 IN A 193.40.253.117
+jyri.kk 10800 IN HINFO "Pentium75" "Win95"
+class210-13.li 10800 IN A 193.40.244.78
+class210-13.li 10800 IN HINFO "PC/486DX66" "Windows95"
+ak213-48.class 10800 IN A 192.168.40.48
+www.elektro 10800 IN CNAME www
+gece 10800 IN A 193.40.244.60
+gece 10800 IN MX 10 gece
+gece 10800 IN HINFO "Pentium" "Novell 4.10"
+spare-230 10800 IN A 193.40.255.230
+webtest.intra 10800 IN A 192.168.115.241
+polymeer 10800 IN CNAME deepzone0
+lab-10-10-10-227.tud 3600 IN A 10.10.10.227
+fyssmatt.hum 10800 IN A 193.40.253.76
+fyssmatt.hum 10800 IN HINFO "PentiumIII" "Win2K"
+ncsb2008 10800 IN CNAME saruman
+ak213-112.class 10800 IN A 192.168.40.112
+silja.km 10800 IN A 193.40.253.233
+silja.km 10800 IN HINFO "PentiumII/300" "Win95"
+zoja.ene 10800 IN A 193.40.249.71
+zoja.ene 10800 IN HINFO "Pentium-MMX/233" "Windows95"
+uku 10800 IN A 192.168.137.5
+maarika.h 10800 IN A 193.40.243.16
+maarika.h 10800 IN HINFO "Pentium/150" "Windows95"
+geen 10800 IN CNAME virtuals1
+robot.me 10800 IN A 193.40.245.81
+robot.me 10800 IN HINFO "P133" "Win95"
+a6.ee 10800 IN A 193.40.252.88
+a6.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+albert.ld 10800 IN A 193.40.244.136
+albert.ld 10800 IN HINFO "PC" "Win95"
+meas12.me 10800 IN A 193.40.245.10
+meas12.me 10800 IN HINFO "5x86/100" "WindowsNT WS"
+www3.cb 10800 IN CNAME bmt.cb
+www2.vilistlaskogu 10800 IN CNAME deepzone0
+ak213-22.class 10800 IN A 192.168.40.22
+k211.kk 10800 IN A 193.40.253.199
+k211.kk 10800 IN HINFO "486DX" "Windows95"
+eva.ene 10800 IN A 193.40.249.130
+eva.ene 10800 IN HINFO "PentiumII/350" "Windows95"
+paal.ym 3600 IN A 193.40.245.194
+paal.ym 3600 IN HINFO "486DX/50" "Windows95"
+conroy.yg 3600 IN A 193.40.252.27
+conroy.yg 3600 IN HINFO "Pentium" "WindowsNT"
+portal-test 10800 IN A 193.40.254.209
+eipa198.eipa 10800 IN A 193.40.250.198
+karl.ee 10800 IN A 193.40.253.12
+karl.ee 10800 IN HINFO "Pentium" "Win95"
+elen-122.ene 10800 IN A 193.40.249.122
+c213-13.cc 10800 IN A 193.40.254.13
+c213-13.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+193-40-242-141.vi 3600 IN A 193.40.242.141
+class210-14.li 10800 IN A 193.40.244.79
+class210-14.li 10800 IN HINFO "PC/486DX66" "Windows95"
+student 10800 IN TXT "v=spf1 include:outlook.com ~all"
+10800 IN TXT "v=msv1 t=b64c2f1814998a41abe709db088ce7"
+student 10800 IN MX 10 b64c2f1814998a41abe709db088ce7.mail.outlook.com.
+spare-160 10800 IN A 193.40.255.160
+vis 10800 IN A 193.40.254.180
+netdisco-demo 10800 IN A 192.168.137.249
+mp03.mp 10800 IN A 193.40.245.163
+mp03.mp 10800 IN HINFO "x86" "MS Windows"
+comp32.tkk 3600 IN A 193.40.242.108
+lab-10-10-10-171.tud 3600 IN A 10.10.10.171
+webprint.overall 10800 IN A 193.40.254.159
+paul.li 10800 IN A 193.40.244.99
+paul.li 10800 IN HINFO "PC/486DX" "Windows95"
+pp-bw2.intra 10800 IN A 192.168.134.247
+campus-gw 10800 IN A 193.40.242.181
+lab-10-10-10-112.tud 3600 IN A 10.10.10.112
+viktor.ld 10800 IN A 193.40.244.97
+a7.ee 10800 IN A 193.40.252.89
+a7.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+cs07i.intra 10800 IN A 192.168.133.187
+web 10800 IN CNAME virtuals2
+hydrogen.kk 10800 IN A 193.40.253.195
+aino.ld 10800 IN A 193.40.244.137
+aino.ld 10800 IN HINFO "PC" "Win95"
+lab-10-10-10-55.tud 3600 IN A 10.10.10.55
+www.eelope 10800 IN CNAME deepzone2
+kantsel.rekt 3600 IN A 193.40.253.164
+kantsel.rekt 3600 IN HINFO "PC/486" "Win3.1"
+bell.yf 3600 IN A 193.40.252.188
+bell.yf 3600 IN HINFO "Pentium" "Windows95"
+lab-10-10-10-155.tud 3600 IN A 10.10.10.155
+drivewin.ene 10800 IN A 193.40.249.90
+drivewin.ene 10800 IN HINFO "Celeron333A" "Win98SE"
+c213-14.cc 10800 IN A 193.40.254.14
+c213-14.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+atm-v-2k 10800 IN A 193.40.254.235
+atm-v-2k 10800 IN HINFO "Centillion 100" "SpeedView"
+class210-15.li 10800 IN A 193.40.244.80
+class210-15.li 10800 IN HINFO "PC/486DX66" "Windows95"
+jaana.ev 10800 IN A 193.40.252.112
+jaana.ev 10800 IN HINFO "Celeron700" "Win2K"
+katlin.m 10800 IN A 193.40.253.59
+katlin.m 10800 IN HINFO "Pentium75" "Win95"
+klass314.t 3600 IN A 193.40.241.242
+klass314.t 3600 IN HINFO "P120" "linux"
+c213-1.cc 10800 IN A 193.40.254.1
+c213-1.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mp04.mp 10800 IN A 193.40.245.164
+mp04.mp 10800 IN HINFO "x86" "MS Windows"
+p4-1.tud 3600 IN A 192.168.16.1
+kulla 10800 IN A 193.40.253.156
+kulla 10800 IN HINFO "PC/AT" "MSDOS 7.0"
+c9.class 10800 IN A 193.40.254.9
+c28.class 10800 IN A 193.40.254.28
+comp11.tkk 3600 IN A 193.40.242.87
+comp11.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+tamkivi.h 10800 IN A 193.40.253.187
+tamkivi.h 10800 IN HINFO "Pentium133" "Win95"
+lab-10-10-10-215.tud 3600 IN A 10.10.10.215
+a8.ee 10800 IN A 193.40.252.90
+a8.ee 10800 IN HINFO "PentiumIII-MMX/500" "Windows98"
+nsgf 43200 IN A 193.40.251.106
+alumni 10800 IN A 193.40.254.180
+elsys1.ene 10800 IN A 193.40.249.100
+elsys1.ene 10800 IN HINFO "PentiumIII/733" "Windows98"
+kiiver.ene 10800 IN A 193.40.249.164
+nuuskur.intra 10800 IN A 192.168.133.228
+www.sertasutus 10800 IN CNAME www
+enedhcp42.ene 10800 IN A 193.40.249.219
+webcam1 10800 IN A 193.40.254.152
+webcam2 10800 IN A 193.40.254.101
+mail.biorobotics 10800 IN A 193.40.242.97
+tm-bw5.intra 10800 IN A 192.168.144.229
+ave.et 10800 IN A 193.40.252.64
+ave.et 10800 IN HINFO "Pentium" "Windows95"
+lible.li 10800 IN A 193.40.254.200
+lible.li 10800 IN HINFO "PrintServer" "x.x"
+enedhcp10.ene 10800 IN A 193.40.249.233
+astihe.la 10800 IN A 193.40.252.44
+astihe.la 10800 IN HINFO "PC/486DX" "MSDOS 6.0"
+eipa11.eipa 10800 IN A 193.40.250.11
+infolaud.h 10800 IN A 193.40.254.119
+infolaud.h 10800 IN HINFO "Pentium166MMX" "WinNT"
+comp6.tkk 3600 IN A 193.40.242.82
+comp6.tkk 3600 IN HINFO "Pentium/166" "Win95"
+_ldap._tcp.Default-First-Site-Name._sites.DomainDnsZones.mh 600 IN SRV 0 100 389 mhserver.mh
+600 IN SRV 0 100 389 mhserver2.mh
+kpt3.ene 10800 IN A 193.40.249.109
+kpt3.ene 10800 IN HINFO "Pentium/166" "Windows95"
+elen-109.ene 10800 IN A 193.40.249.109
+lab-10-10-10-115.tud 3600 IN A 10.10.10.115
+vvk5.vvk 3600 IN A 193.40.242.176
+c213-2.cc 10800 IN A 193.40.254.2
+c213-2.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mp05.mp 10800 IN A 193.40.245.165
+mp05.mp 10800 IN HINFO "x86" "MS Windows"
+ci-bw2.intra 10800 IN A 192.168.115.14
+nds.ati 10800 IN A 193.40.246.1
+eipa16.eipa 10800 IN A 193.40.250.16
+lab-10-10-10-180.tud 3600 IN A 10.10.10.180
+textile1.km 10800 IN A 193.40.241.93
+textile1.km 10800 IN HINFO "Pentium/150" "Windows95"
+chroma.kk 10800 IN A 193.40.253.122
+chroma.kk 10800 IN HINFO "Pentium/166" "Windows95"
+a9.ee 10800 IN A 193.40.252.91
+a9.ee 10800 IN HINFO "PentiumIII-MMX/500" "Windows98"
+bln.me 10800 IN A 193.40.245.254
+eipa60.eipa 10800 IN A 193.40.250.60
+ak213-2.class 10800 IN A 192.168.40.2
+sahm 10800 IN A 193.40.254.57
+ak213-81.class 10800 IN A 192.168.40.81
+ira.ct 10800 IN A 193.40.252.228
+ira.ct 10800 IN HINFO "Pentium" "Windows95"
+www 10800 IN A 193.40.254.28
+lehtlaan.ld 10800 IN A 193.40.244.134
+lehtlaan.ld 10800 IN HINFO "PC" "Win95"
+eipa22.eipa 10800 IN A 193.40.250.22
+cifs.ati 10800 IN CNAME ati
+vCenter5 10800 IN A 192.168.254.185
+spare-120 10800 IN A 193.40.255.120
+agrajag.li 10800 IN A 193.40.254.213
+agrajag.li 10800 IN HINFO "Sparc IPX" "Solaris"
+c213-16.cc 10800 IN A 193.40.254.16
+c213-16.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+_sipfederationtls._tcp 10800 IN SRV 100 1 5061 sipfed.online.lync.com.
+rsti.lr 10800 IN A 193.40.252.144
+eipa19.eipa 10800 IN A 193.40.250.19
+class210-17.li 10800 IN A 193.40.244.82
+class210-17.li 10800 IN HINFO "PC/486DX66" "Windows95"
+lab-10-10-10-143.tud 3600 IN A 10.10.10.143
+bode.la 10800 IN A 193.40.240.77
+bode.la 10800 IN HINFO "Pentium200" "Win95"
+193-40-242-130.vi 3600 IN A 193.40.242.130
+yrilp.me 10800 IN A 193.40.245.12
+yrilp.me 10800 IN HINFO "Pentium/166" "Windows98"
+ak213-54.class 10800 IN A 192.168.40.54
+c213-3.cc 10800 IN A 193.40.254.3
+c213-3.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mp06.mp 10800 IN A 193.40.245.166
+mp06.mp 10800 IN HINFO "x86" "MS Windows"
+www.rapidlab 10800 IN A 193.40.245.156
+yki 3600 IN MX 10 newton.yk
+yki 3600 IN A 193.40.253.96
+eipa27.eipa 10800 IN A 193.40.250.27
+MH306-02.mh 1200 IN A 192.168.105.74
+test.tc 3600 IN A 193.40.253.119
+test.tc 3600 IN HINFO "486DX2" "Win95"
+kullo.tdng 3600 IN A 193.40.253.50
+kullo.tdng 3600 IN HINFO "Pentium" "WindowsNT"
+lab-10-10-10-93.tud 3600 IN A 10.10.10.93
+textile2.km 10800 IN A 193.40.241.156
+textile2.km 10800 IN HINFO "Celeron/400" "Windows98"
+it-test 10800 IN CNAME portal-test
+paskal.yf 3600 IN A 193.40.252.203
+vohandu.ld 10800 IN A 193.40.244.144
+vohandu.ld 10800 IN HINFO "Celeron 266" "Win98"
+ak213-117.class 10800 IN A 192.168.40.117
+lab-10-10-10-193.tud 3600 IN A 10.10.10.193
+www.euchem2014 10800 IN CNAME deepzone2
+svn.ati 10800 IN CNAME ati
+eipa124.eipa 10800 IN A 193.40.250.124
+roos.sti 3600 IN A 193.40.241.238
+ak213-27.class 10800 IN A 192.168.40.27
+tm-bw3.intra 10800 IN A 192.168.144.228
+kopp.ene 10800 IN A 193.40.249.190
+eipa33.eipa 10800 IN A 193.40.250.33
+maurus 10800 IN A 193.40.244.86
+sars 10800 IN A 193.40.246.15
+enedhcp30.ene 10800 IN A 193.40.249.253
+c213-17.cc 10800 IN A 193.40.254.17
+c213-17.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+epikuros.yk 3600 IN A 193.40.253.225
+st21001.as 10800 IN A 193.40.241.210
+st21001.as 10800 IN HINFO "Pentium" "Windows95"
+class210-18.li 10800 IN A 193.40.244.83
+class210-18.li 10800 IN HINFO "PC/486DX66" "Windows95"
+NPS.intra 10800 IN A 192.168.133.226
+intranet.ld 10800 IN A 193.40.244.102
+intranet.ld 10800 IN HINFO "PC" "Win"
+eipa9.eipa 10800 IN A 193.40.250.9
+c213-4.cc 10800 IN A 193.40.254.4
+c213-4.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+eipa38.eipa 10800 IN A 193.40.250.38
+_sipfederationtls._tcp.intra 10800 IN SRV 100 1 5061 sipfed.online.lync.com.
+paal.math 10800 IN A 193.40.245.194
+lab-10-10-10-123.tud 3600 IN A 10.10.10.123
+gal.yf 3600 IN A 193.40.252.168
+gal.yf 3600 IN HINFO "PentiumII" "Windows95"
+math-0.ym 3600 IN A 193.40.245.191
+math-0.ym 3600 IN HINFO "PentiumII/350" "WindowsNT"
+pr-color2.intra 10800 IN A 192.168.37.231
+helle.h 10800 IN A 193.40.253.182
+helle.h 10800 IN HINFO "Pentium" "Win2K"
+smaug.cc 10800 IN A 193.40.254.127
+smaug.cc 10800 IN HINFO "PC/486" "Windows95"
+www.sefi 10800 IN CNAME deepzone0
+helle.l 10800 IN A 193.40.253.53
+helle.l 10800 IN HINFO "386" "Windows95"
+nusw1.yg 3600 IN A 193.40.252.248
+nusw1.yg 3600 IN HINFO "NuSwitch FE-224C" "V1"
+eipa44.eipa 10800 IN A 193.40.250.44
+www-test 10800 IN CNAME m-test
+hektor 10800 IN A 193.40.244.74
+VB-koridor2.intra 10800 IN A 193.40.245.221
+peep.rekt 3600 IN A 193.40.253.163
+peep.rekt 3600 IN HINFO "PentiumIII" "Windows2000"
+alused1.ene 10800 IN A 193.40.249.129
+alused1.ene 10800 IN HINFO "Celeron366" "Windows98"
+193-40-242-160.vi 3600 IN A 193.40.242.160
+st22101.as 10800 IN A 193.40.241.199
+st22101.as 10800 IN HINFO "PC" "Win95"
+c213-18.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+c213-18.cc 10800 IN A 193.40.254.18
+st20902.as 10800 IN A 193.40.241.200
+st20902.as 10800 IN HINFO "PC" "Win95"
+lab002.ene 10800 IN A 193.40.249.65
+lab002.ene 10800 IN HINFO "Pentium/75" "Windows95"
+mepc3.me 10800 IN A 193.40.245.51
+mepc3.me 10800 IN HINFO "PC/486" "Win95"
+backup.tdng 3600 IN A 193.40.253.154
+class210-19.li 10800 IN A 193.40.244.84
+class210-19.li 10800 IN HINFO "PC/486DX66" "Windows95"
+cadds.me 10800 IN A 193.40.245.253
+cadds.me 10800 IN HINFO "Pentium/300" "WindowsNT"
+www.cppwa 10800 IN CNAME deepzone0
+eipa50.eipa 10800 IN A 193.40.250.50
+intranet.tk 3600 IN A 195.250.189.14
+c213-5.cc 10800 IN A 193.40.254.5
+c213-5.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mp08.mp 10800 IN HINFO "x86" "MS Windows"
+mp08.mp 10800 IN A 193.40.245.168
+lab-10-10-10-140.tud 3600 IN A 10.10.10.140
+gauss.yf 3600 IN A 193.40.252.162
+gauss.yf 3600 IN HINFO "PentiumII" "Windows98"
+st20901.ms 10800 IN A 193.40.241.201
+st20901.ms 10800 IN HINFO "Cel 300" "Win95"
+eipa220.eipa 10800 IN A 193.40.250.220
+rlpa 10800 IN CNAME deepzone2
+dos.tkk 3600 IN A 193.40.242.66
+volt.kk 10800 IN A 193.40.253.45
+volt.kk 10800 IN HINFO "PentiumIII" "WinXP"
+st31002.ms 10800 IN A 193.40.241.213
+st31002.ms 10800 IN HINFO "Athlon 800" "Win2K"
+chani.cc 10800 IN A 193.40.254.44
+chani.cc 10800 IN HINFO "Pentium 166MMX" "Win95"
+ak112-7.ld 10800 IN A 193.40.244.169
+ak112-7.ld 10800 IN HINFO "PC" "Win"
+lab-10-10-10-81.tud 3600 IN A 10.10.10.81
+eipa55.eipa 10800 IN A 193.40.250.55
+taurus 10800 IN A 193.40.244.112
+lab-10-10-10-122.tud 3600 IN A 10.10.10.122
+st22101.ms 10800 IN A 193.40.241.199
+st22101.ms 10800 IN HINFO "PIII450" "Win98"
+_ldap._tcp.ForestDnsZones.mh 600 IN SRV 0 100 389 mhserver.mh
+600 IN SRV 0 100 389 mhserver2.mh
+seba 10800 IN A 193.40.241.2
+eipa169.eipa 10800 IN A 193.40.250.169
+opetaja.ee 10800 IN A 193.40.252.95
+opetaja.ee 10800 IN HINFO "PentiumIII-MMX/450" "Windows98"
+lab-10-10-10-186.tud 3600 IN A 10.10.10.186
+c213-19.cc 10800 IN A 193.40.254.19
+c213-19.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+enedhcp17.ene 10800 IN A 193.40.249.240
+DeepZone3Deb 10800 IN A 193.40.254.220
+eksperiment2 10800 IN A 192.168.115.211
+_VLMCS._tcp.mh 3600 IN SRV 0 0 1688 mhserver.mh
+mepc4.me 10800 IN A 193.40.245.52
+mepc4.me 10800 IN HINFO "PC/486" "MS-DOS"
+eipa61.eipa 10800 IN A 193.40.250.61
+www.roke 3600 IN CNAME martin.lr
+kpt2.ene 10800 IN A 193.40.249.108
+kpt2.ene 10800 IN HINFO "Pentium-MMX/200" "Windows95"
+mepc13.me 10800 IN A 193.40.245.24
+mepc13.me 10800 IN HINFO "PentiumIII" "WinNT"
+lab-10-10-10-156.tud 3600 IN A 10.10.10.156
+thorin.cc 10800 IN A 193.40.254.234
+thorin.cc 10800 IN HINFO "PentiumII/233" "WinFrame 1.6"
+mp09.mp 10800 IN A 193.40.245.169
+mp09.mp 10800 IN HINFO "x86" "MS Windows"
+dfk.km 10800 IN A 193.40.253.102
+dfk.km 10800 IN HINFO "PC" "MS-DOS"
+st20902.ms 10800 IN A 193.40.241.200
+st20902.ms 10800 IN HINFO "P120" "Win95"
+net.cs 10800 IN CNAME virl.cs
+sefi 10800 IN CNAME deepzone0
+atm-ak 10800 IN A 193.40.254.245
+atm-ak 10800 IN HINFO "Centillion 100" "SpeedView"
+math-2.ym 3600 IN A 193.40.245.186
+math-2.ym 3600 IN HINFO "Pentium/166" "Windows95"
+eipa66.eipa 10800 IN A 193.40.250.66
+lab-10-10-10-78.tud 3600 IN A 10.10.10.78
+spare-234 10800 IN A 193.40.255.234
+spare-131 10800 IN A 193.40.255.131
+epoch.cc 10800 IN CNAME random.cc
+stoll.ene 10800 IN A 193.40.249.166
+lappar 10800 IN A 193.40.253.251
+lab-10-10-10-200.tud 3600 IN A 10.10.10.200
+ak213-7.class 10800 IN A 192.168.40.7
+trillian.cc 10800 IN A 193.40.254.225
+trillian.cc 10800 IN HINFO "Sun Sparc 1" "SunOS 5.3"
+ak213-86.class 10800 IN A 192.168.40.86
+karits.rekt 3600 IN A 193.40.245.249
+SCOM2012.intra 10800 IN A 192.168.133.232
+volt.yf 3600 IN A 193.40.252.202
+c213-21.cc 10800 IN A 193.40.254.21
+c213-21.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+ohm.la 10800 IN A 193.40.254.71
+ohm.la 10800 IN HINFO "SPARC 10" "SunOS 4.1.3"
+st20904.as 10800 IN A 193.40.241.206
+st20904.as 10800 IN HINFO "PC" "Win95"
+www.oilshalesymposium2007 10800 IN CNAME saruman
+mepc5.me 10800 IN A 193.40.245.55
+mepc5.me 10800 IN HINFO "Pentium166" "Win95"
+kerttu.h 10800 IN A 193.40.253.191
+kerttu.h 10800 IN HINFO "Celeron667" "Win98"
+reomeeter.kt 10800 IN A 193.40.253.236
+reomeeter.kt 10800 IN HINFO "IBM" "WindowsNT"
+esku.ene 10800 IN A 193.40.249.173
+ecovir1 10800 IN A 192.168.137.9
+ecovir2 10800 IN A 192.168.137.10
+c213-7.cc 10800 IN A 193.40.254.7
+c213-7.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mp11.mp 10800 IN A 193.40.245.171
+mp11.mp 10800 IN HINFO "x86" "MS Windows"
+lab-10-10-10-90.tud 3600 IN A 10.10.10.90
+ak213-59.class 10800 IN A 192.168.40.59
+msoid.sti 3600 IN CNAME clientconfig.microsoftonline-p.net.
+st20903.ms 10800 IN A 193.40.241.202
+st20903.ms 10800 IN HINFO "P4 1.4" "WinXP"
+elektro 10800 IN CNAME www
+faramir.tud 3600 IN A 193.40.254.95
+eipa77.eipa 10800 IN A 193.40.250.77
+paalme.kt 10800 IN A 193.40.253.168
+paalme.kt 10800 IN HINFO "Pentium-MMX/166" "Windows95"
+math-3.ym 3600 IN A 193.40.245.187
+math-3.ym 3600 IN HINFO "Pentium/166" "Windows95"
+enedhcp2.ene 10800 IN A 193.40.249.225
+kersti.et 10800 IN A 193.40.244.33
+kersti.et 10800 IN HINFO "Pentium100" "Win95"
+autodiscover.staff 10800 IN CNAME autodiscover.outlook.com.
+lap.me 10800 IN A 193.40.245.41
+lap.me 10800 IN HINFO "PentiumII/350" "WindowsNT WS"
+autodiscover.parsek.yf 3600 IN CNAME autodiscover.outlook.com.
+ak213-123.class 10800 IN A 192.168.40.123
+MH-AK-10.mh 1200 IN A 192.168.105.76
+eipa102.eipa 10800 IN A 193.40.250.102
+www.economics 10800 IN CNAME saruman
+ascentia.cc 10800 IN A 193.40.254.61
+ascentia.cc 10800 IN HINFO "Pentium/75" "Win95"
+auth-test 10800 IN CNAME auth
+ararat 10800 IN A 193.40.244.103
+eksperiment 10800 IN A 192.168.115.210
+eipa83.eipa 10800 IN A 193.40.250.83
+siil 10800 IN A 192.168.254.123
+dhcp-193-40-254-150.cc 10800 IN A 193.40.254.150
+comp18.tkk 3600 IN A 193.40.242.94
+comp18.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+c213-22.cc 10800 IN A 193.40.254.22
+c213-22.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mepc6.me 10800 IN A 193.40.245.17
+mepc6.me 10800 IN HINFO "PentiumIII" "WinNT"
+kersti.ld 10800 IN A 193.40.244.147
+kersti.ld 10800 IN HINFO "PC" "Win95"
+spare-135 10800 IN A 193.40.255.135
+eipa107.eipa 10800 IN A 193.40.250.107
+biorobotics 10800 IN MX 10 mail.biorobotics
+biorobotics 10800 IN A 193.40.242.97
+atm-ra 10800 IN A 193.40.254.219
+atm-ra 10800 IN HINFO "Centillion 50" "SpeedView"
+c213-8.cc 10800 IN A 193.40.254.8
+c213-8.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mp12.mp 10800 IN A 193.40.245.172
+mp12.mp 10800 IN HINFO "x86" "MS Windows"
+lab-10-10-10-228.tud 3600 IN A 10.10.10.228
+uus.cl 10800 IN A 193.40.252.72
+uus.cl 10800 IN HINFO "PC486" "Windows95"
+juss.ene 10800 IN A 193.40.249.195
+juss.ene 10800 IN HINFO "Pentium4/2.4" "WinXP"
+eipa88.eipa 10800 IN A 193.40.250.88
+math-4.ym 3600 IN A 193.40.245.188
+math-4.ym 3600 IN HINFO "PentiumII/233" "Windows95"
+star.km 10800 IN A 193.40.253.99
+star.km 10800 IN HINFO "PC" "MS-DOS"
+oskar1.h 10800 IN A 193.40.253.247
+oskar1.h 10800 IN HINFO "Pentium" "Windows98"
+eipa113.eipa 10800 IN A 193.40.250.113
+osce2 10800 IN A 192.168.16.87
+lyncdiscoverinternal 10800 IN CNAME webdir.online.lync.com.
+cs07s.intra 10800 IN A 192.168.133.157
+astite.la 10800 IN A 193.40.252.56
+astite.la 10800 IN HINFO "PC/386SX" "MSDOS 6.0"
+eipa94.eipa 10800 IN A 193.40.250.94
+hub-2 10800 IN A 193.40.253.253
+hub-2 10800 IN HINFO "SuperStack II" "Ver 1.10"
+autom 10800 IN A 193.40.254.125
+autom 10800 IN HINFO "Cisco ISDN router" "Cisco"
+comp8.tkk 3600 IN A 193.40.242.84
+comp8.tkk 3600 IN HINFO "Pentium/166" "Win95"
+elen-123.ene 10800 IN A 193.40.249.123
+kairixp.p 3600 IN A 193.40.252.6
+c213-23.cc 10800 IN A 193.40.254.23
+c213-23.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+sftp 10800 IN A 193.40.254.240
+mepc7.me 10800 IN A 193.40.245.18
+mepc7.me 10800 IN HINFO "PentiumIII" "WinNT"
+eipa118.eipa 10800 IN A 193.40.250.118
+dhc12 10800 IN CNAME deepzone2
+vello.ee 10800 IN A 193.40.252.96
+vello.ee 10800 IN HINFO "PentiumII/400" "Windows98"
+irina.me 10800 IN A 193.40.245.31
+irina.me 10800 IN HINFO "PentiumIII" "Win98"
+c213-9.cc 10800 IN A 193.40.254.9
+c213-9.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+mp13.mp 10800 IN A 193.40.245.173
+mp13.mp 10800 IN HINFO "x86" "MS Windows"
+comp33.tkk 3600 IN A 193.40.242.109
+eipa99.eipa 10800 IN A 193.40.250.99
+lab-10-10-10-61.tud 3600 IN A 10.10.10.61
+vello.et 10800 IN A 193.40.252.71
+vello.et 10800 IN HINFO "PentiumPro" "Windows95"
+bremsbrg.ene 10800 IN A 193.40.249.177
+slater.yk 3600 IN A 193.40.253.96
+math-6.ym 3600 IN A 193.40.245.190
+math-6.ym 3600 IN HINFO "PentiumII/233" "Windows95"
+elmi.le 10800 IN A 193.40.252.73
+elmi.le 10800 IN HINFO "PC" "MS-DOS"
+math-5.ym 3600 IN A 193.40.245.189
+math-5.ym 3600 IN HINFO "PentiumII/233" "Windows95"
+lab-10-10-10-106.tud 3600 IN A 10.10.10.106
+frees.ene 10800 IN A 193.40.249.172
+vtak 10800 IN A 193.40.242.115
+ftp.tud 3600 IN CNAME bilbo.tud
+kulon.yf 3600 IN A 193.40.252.187
+kulon.yf 3600 IN HINFO "Pentium" "Windows95"
+ldap.test 10800 IN A 193.40.254.248
+ann.kirj 10800 IN A 193.40.250.248
+monica.ld 10800 IN A 193.40.244.80
+monica.ld 10800 IN HINFO "Pentium-II" "WinNTs 4.0"
+193-40-242-140.vi 3600 IN A 193.40.242.140
+nueve.tkk 3600 IN A 193.40.242.73
+lab-10-10-10-56.tud 3600 IN A 10.10.10.56
+v-bw1-overal.intra 10800 IN A 192.168.158.227
+sisek.h 10800 IN A 193.40.245.225
+www.haridusuuringud 10800 IN CNAME deepzone0
+eipa130.eipa 10800 IN A 193.40.250.130
+young.em 10800 IN A 193.40.252.2
+young.em 10800 IN HINFO "Pentium" "Win95"
+c13.class 10800 IN A 193.40.254.13
+mepc8.me 10800 IN A 193.40.245.19
+mepc8.me 10800 IN HINFO "PentiumIII" "WinNT"
+elajam.ene 10800 IN A 193.40.249.152
+erinevus-rikastab 10800 IN A 213.180.31.156
+lara.et 10800 IN A 193.40.244.40
+lara.et 10800 IN HINFO "Pentium133" "Win95"
+mepc16.me 10800 IN A 193.40.245.27
+mepc16.me 10800 IN HINFO "PentiumIII" "WinNT"
+mp14.mp 10800 IN A 193.40.245.174
+mp14.mp 10800 IN HINFO "x86" "MS Windows"
+p4-2.tud 3600 IN A 192.168.16.2
+yksek4.tdng 3600 IN A 193.40.253.227
+yksek4.tdng 3600 IN HINFO "Pentium/166" "Windows95"
+ingrid.la 10800 IN A 193.40.252.49
+ingrid.la 10800 IN HINFO "PC/386" "MSDOS 6.0"
+lab-10-10-10-216.tud 3600 IN A 10.10.10.216
+eipa135.eipa 10800 IN A 193.40.250.135
+pass 10800 IN A 193.40.254.228
+vb201-1.mh 1200 IN A 192.168.105.45
+elsys2.ene 10800 IN A 193.40.249.101
+elsys2.ene 10800 IN HINFO "PentiumIII/500" "Windows98"
+ForestDnsZones.mh 600 IN A 192.168.105.248
+600 IN A 193.40.245.150
+600 IN A 193.40.245.160
+600 IN A 193.40.245.181
+ForestDnsZones.mh 600 IN AAAA 2002:c128:f5a0::c128:f5a0
+enedhcp43.ene 10800 IN A 193.40.249.220
+localhost 10800 IN A 127.0.0.1
+zenith.ld 10800 IN A 193.40.244.74
+zenith.ld 10800 IN HINFO "PC" "WinNTs 4.0"
+ak303-02.mh 1200 IN A 192.168.105.77
+www.bos06 10800 IN CNAME deepzone0
+thorin.tud 3600 IN CNAME thorin.cc
+st30301.as 10800 IN A 193.40.241.196
+st30301.as 10800 IN HINFO "PC" "Win95"
+eipa141.eipa 10800 IN A 193.40.250.141
+ak213-92.class 10800 IN A 192.168.40.92
+c213-25.cc 10800 IN A 193.40.254.25
+c213-25.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+ergonomics 10800 IN CNAME majandus2
+server.me 10800 IN A 193.40.245.60
+pa-bw3.intra 10800 IN A 192.168.134.229
+kpt4.ene 10800 IN A 193.40.249.115
+kpt4.ene 10800 IN HINFO "PentiumIII/450" "Windows98"
+elen-111.ene 10800 IN A 193.40.249.111
+sise.tv 3600 IN A 193.40.241.247
+vvk6.vvk 3600 IN A 193.40.242.175
+matrix.ene 10800 IN A 193.40.249.93
+matrix.ene 10800 IN HINFO "PentiumIV/1700" "Win2K"
+lab-10-10-10-196.tud 3600 IN A 10.10.10.196
+mepc17.me 10800 IN A 193.40.245.28
+mepc17.me 10800 IN HINFO "PentiumIII" "WinNT"
+mp15.mp 10800 IN A 193.40.245.175
+mp15.mp 10800 IN HINFO "Pentium" "Windows95"
+wiki-test 10800 IN CNAME portal-test
+mount.ene 10800 IN A 193.40.249.161
+mount.ene 10800 IN HINFO "AMD K6-2/450" "Windows98"
+dnssec 10800 IN A 193.40.254.206
+eipa146.eipa 10800 IN A 193.40.250.146
+comp21.tkk 3600 IN A 193.40.242.97
+comp21.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+ak213-65.class 10800 IN A 192.168.40.65
+itbs-gw 43200 IN A 193.40.242.84
+math-7.ym 3600 IN A 193.40.245.196
+math-7.ym 3600 IN HINFO "Pentium/120" "Windows95"
+meas14.me 10800 IN A 193.40.245.13
+meas14.me 10800 IN HINFO "Pentium/100" "WindowsNT WS"
+ak213-96.class 10800 IN A 192.168.40.96
+rainar.cb 10800 IN A 193.40.254.82
+vana.tk 3600 IN A 194.106.101.166
+ak213-128.class 10800 IN A 192.168.40.128
+newton.yf 3600 IN A 193.40.252.198
+sise 10800 IN CNAME www
+px-bw1.intra 10800 IN A 192.168.134.239
+eipa152.eipa 10800 IN A 193.40.250.152
+newton.yk 3600 IN A 193.40.253.96
+lab-10-10-10-188.tud 3600 IN A 10.10.10.188
+tunniplaan 10800 IN CNAME ois
+ak213-38.class 10800 IN A 192.168.40.38
+lab-10-10-10-44.tud 3600 IN A 10.10.10.44
+c213-26.cc 10800 IN A 193.40.254.26
+c213-26.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+printserv.km 10800 IN A 193.40.253.14
+ak-switch.cc 10800 IN A 193.40.254.241
+lab-10-10-10-144.tud 3600 IN A 10.10.10.144
+media 10800 IN A 193.40.254.37
+olevipoeg 10800 IN A 192.168.137.7
+ecovir1.tv 3600 IN A 10.0.0.6
+lajet.mo 10800 IN A 193.40.245.132
+lajet.mo 10800 IN HINFO "Laser Printer" "Laser"
+st30301.ms 10800 IN A 193.40.241.196
+st30301.ms 10800 IN HINFO "PIII500" "Win98"
+ak213-102.class 10800 IN A 192.168.40.102
+mp16.mp 10800 IN A 193.40.245.176
+mp16.mp 10800 IN HINFO "Pentium" "WindowsNT"
+tigma.cm 10800 IN A 193.40.252.173
+tigma.cm 10800 IN HINFO "P166" "Win95"
+eipa157.eipa 10800 IN A 193.40.250.157
+lab-10-10-10-58.tud 3600 IN A 10.10.10.58
+arhidektid.ee 10800 IN A 193.40.253.165
+arhidektid.ee 10800 IN HINFO "AMD" "Win2K"
+ak112-10.ld 10800 IN A 193.40.244.172
+ak112-10.ld 10800 IN HINFO "PC" "Win"
+ak213-12.class 10800 IN A 192.168.40.12
+henry.yk 3600 IN A 192.168.128.225
+math-8.ym 3600 IN A 193.40.245.197
+math-8.ym 3600 IN HINFO "Pentium/266" "Windows98"
+vb201-3.mh 1200 IN A 192.168.105.1
+lab-10-10-10-194.tud 3600 IN A 10.10.10.194
+MH201-01.mh 1200 IN A 192.168.105.22
+ak213-4.class 10800 IN A 192.168.40.4
+eipa163.eipa 10800 IN A 193.40.250.163
+mepc9.me 10800 IN A 193.40.245.20
+mepc9.me 10800 IN HINFO "PentiumIII" "WinNT"
+tark 10800 IN CNAME virtuals2
+tolik.ld 10800 IN A 193.40.254.157
+mineraal.ene 10800 IN A 193.40.249.175
+enedhcp31.ene 10800 IN A 193.40.249.208
+SFTP.intra 10800 IN A 193.40.254.240
+lab-10-10-10-209.tud 3600 IN A 10.10.10.209
+c213-27.cc 10800 IN A 193.40.254.27
+c213-27.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+_amazonses 10800 IN TXT "qTPFWnUKJOW1jB9c12aJIwAla8MYi0PbFLdCyu3WWP4="
+laur.h 10800 IN A 193.40.253.58
+laur.h 10800 IN HINFO "PentiumIII" "Win98"
+eipa168.eipa 10800 IN A 193.40.250.168
+www2.etl 10800 IN CNAME deepzone0
+mp17.mp 10800 IN A 193.40.245.177
+mp17.mp 10800 IN HINFO "Pentium" "WindowsNT"
+lab-10-10-10-75.tud 3600 IN A 10.10.10.75
+kpt.ene 10800 IN A 193.40.249.98
+kpt.ene 10800 IN HINFO "PentiumIII/450" "Windows95"
+isc.aa 10800 IN A 193.40.253.2
+cs06i.intra 10800 IN A 192.168.133.186
+olev 10800 IN A 192.168.137.2
+ak112-11.ld 10800 IN A 193.40.244.173
+ak112-11.ld 10800 IN HINFO "PC" "Win"
+tiit.k 10800 IN A 193.40.253.112
+tiit.k 10800 IN HINFO "P75" "Windows95"
+math-9.ym 3600 IN A 193.40.245.198
+math-9.ym 3600 IN HINFO "Celeron/400" "Windows98"
+peep.kk 10800 IN A 193.40.253.222
+peep.kk 10800 IN HINFO "Pentium" "Windows95"
+vb201-4.mh 1200 IN A 192.168.105.6
+MH201-02.mh 1200 IN A 192.168.105.28
+wlan-switch.aiii 10800 IN A 192.168.249.1
+10800 IN A 192.168.249.3
+10800 IN A 192.168.249.4
+eipa174.eipa 10800 IN A 193.40.250.174
+MH-AK-11.mh 1200 IN A 192.168.105.45
+ehee.ka 10800 IN A 193.40.253.198
+ehee.ka 10800 IN HINFO "Pentium100" "Win95"
+julia.ld 10800 IN A 193.40.244.78
+julia.ld 10800 IN HINFO "Pentium-S 100" "WinNTs 4.0"
+tkvana 10800 IN CNAME z25.zone.ee.
+c213-28.cc 10800 IN A 193.40.254.28
+c213-28.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+haldus.rekt 3600 IN A 193.40.253.155
+haldus.rekt 3600 IN HINFO "Pentium/450" "Windows98"
+lab003.ene 10800 IN A 193.40.249.70
+lab003.ene 10800 IN HINFO "PentiumIII/866" "Win98SE"
+www.vastuvott 10800 IN CNAME virtuals1
+eipa180.eipa 10800 IN A 193.40.250.180
+lab-10-10-10-32.tud 3600 IN A 10.10.10.32
+linux 10800 IN CNAME gemini.cc
+c18.class 10800 IN A 193.40.254.18
+sm.cs 10800 IN A 193.40.252.93
+vvk10.vvk 3600 IN A 193.40.242.171
+mepc21.me 10800 IN A 193.40.245.153
+mepc21.me 10800 IN HINFO "PentiumIV" "WinXP"
+mp18.mp 10800 IN A 193.40.245.178
+mp18.mp 10800 IN HINFO "i486" "Windows95"
+regi 10800 IN CNAME bu.cc
+spare-210 10800 IN A 193.40.255.210
+keskkond 10800 IN CNAME deepzone2
+smartlab 10800 IN A 193.40.242.80
+meas15.me 10800 IN A 193.40.245.14
+meas15.me 10800 IN HINFO "Pentium/150" "WindowsNT WS"
+ak112-12.ld 10800 IN A 193.40.244.174
+ak112-12.ld 10800 IN HINFO "PC" "Win"
+proxi.intra 10800 IN A 193.40.254.100
+mes2.me 10800 IN A 193.40.245.84
+mes2.me 10800 IN HINFO "Pentium/120" "WinNT"
+peps.me 10800 IN A 193.40.245.42
+peps.me 10800 IN HINFO "PentiumPro/200" "Windows98"
+eipa185.eipa 10800 IN A 193.40.250.185
+elena.ld 10800 IN A 193.40.244.132
+elena.ld 10800 IN HINFO "PC" "Win95B"
+kuusiklap.ld 10800 IN A 193.40.244.178
+kuusiklap.ld 10800 IN HINFO "PC" "Win95B"
+ak213-70.class 10800 IN A 192.168.40.70
+_sip._tls.intra 10800 IN SRV 100 1 443 sipdir.online.lync.com.
+lab-10-10-10-182.tud 3600 IN A 10.10.10.182
+3367739622340739249 10800 IN CNAME domains.live.com.
+anatoli.em 10800 IN A 193.40.252.101
+anatoli.em 10800 IN HINFO "Pentium" "Win95"
+math-10.ym 3600 IN A 193.40.245.199
+math-10.ym 3600 IN HINFO "Celeron/400" "Windows98"
+uuring.tkk 3600 IN A 193.40.242.119
+power.cc 10800 IN A 192.168.133.201
+benjy.cc 10800 IN A 193.40.254.226
+benjy.cc 10800 IN HINFO "Sun SPARC 20" "SunOS 5.4"
+rk1.me 10800 IN A 193.40.245.88
+rk1.me 10800 IN HINFO "Pentium/" "Windows95"
+lab-10-10-10-192.tud 3600 IN A 10.10.10.192
+nyquist.la 10800 IN A 193.40.240.69
+nyquist.la 10800 IN HINFO "PC/PENTIUM" "Windows95"
+katie.h 10800 IN A 193.40.245.227
+c213-30.cc 10800 IN A 193.40.254.30
+c213-30.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+enedhcp18.ene 10800 IN A 193.40.249.241
+eipa191.eipa 10800 IN A 193.40.250.191
+ak213-97.class 10800 IN A 192.168.40.97
+mordor.cc 10800 IN A 193.40.254.128
+mordor.cc 10800 IN HINFO "PentiumII/350" "WinNT40"
+www.tess 10800 IN CNAME DeepZone2
+kratt.ld 10800 IN A 193.40.254.158
+kratt.ld 10800 IN HINFO "PC" "Win95B"
+ak140.ld 10800 IN A 193.40.244.177
+ak140.ld 10800 IN HINFO "PC" "Win"
+cvs.ati 10800 IN CNAME ati
+mp19.mp 10800 IN A 193.40.245.179
+mp19.mp 10800 IN HINFO "i486" "Windows95"
+tudserv.tud 3600 IN A 193.40.254.190
+julia.opto 3600 IN A 193.40.245.101
+kantselei.h 10800 IN A 193.40.253.95
+kantselei.h 10800 IN HINFO "PentiumII" "Windows98"
+asta.p 3600 IN A 193.40.253.130
+asta.p 3600 IN HINFO "PC" "MS-DOS"
+aero.em 10800 IN A 193.40.252.70
+aero.em 10800 IN HINFO "Pentium" "Win95"
+eipa196.eipa 10800 IN A 193.40.250.196
+mes3.me 10800 IN A 193.40.245.90
+mes3.me 10800 IN HINFO "AMD" "Win2K"
+vb201-6.mh 1200 IN A 192.168.105.55
+ak213-71.class 10800 IN A 192.168.40.71
+MH201-04.mh 1200 IN A 192.168.105.40
+valislappar 10800 IN A 193.40.245.244
+siim.ee 10800 IN A 193.40.252.15
+siim.ee 10800 IN HINFO "PentiumMMX/166" "Win95"
+pv-color2.intra 10800 IN A 192.168.134.232
+vb201-2.mh 1200 IN A 192.168.105.3
+localhost.mo 10800 IN A 127.0.0.1
+math-11.ym 3600 IN A 193.40.245.200
+math-11.ym 3600 IN HINFO "Celeron/400" "Windows98"
+hydro.em 10800 IN A 193.40.253.70
+hydro.em 10800 IN HINFO "PC/286" "MSDOS 4.0"
+lab-10-10-10-218.tud 3600 IN A 10.10.10.218
+spare-240 10800 IN A 193.40.255.240
+admin.tud 3600 IN CNAME balrog.tud
+eipa212.eipa 10800 IN A 193.40.250.212
+mmkonkurss.cc 10800 IN CNAME thorin.cc
+smtp 10800 IN CNAME onyx
+ak213-44.class 10800 IN A 192.168.40.44
+xtee-sise 10800 IN A 193.40.254.80
+gv.cc 10800 IN A 193.40.254.240
+zywall-usg-20-LT-3k 10800 IN A 193.40.254.188
+nhmtest 10800 IN NS nhmenterprises.com.
+lab-10-10-10-9.tud 3600 IN A 10.10.10.9
+lab-10-10-10-19.tud 3600 IN A 10.10.10.19
+www.sots 10800 IN CNAME deepzone2
+eipa87.eipa 10800 IN A 193.40.250.87
+zywall-usg-20-LT-4k 10800 IN A 192.168.254.111
+10800 IN A 193.40.254.187
+zywall-usg-20-LT-4k 10800 IN HINFO "ZyWall USG 20" "ZyNOS"
+laasik.kk 10800 IN A 193.40.253.159
+laasik.kk 10800 IN HINFO "386DX40" "Win95"
+innomet.me 10800 IN A 193.40.245.16
+innomet.me 10800 IN HINFO "PentiumIV" "WinXP"
+ak213-107.class 10800 IN A 192.168.40.107
+lab-10-10-10-119.tud 3600 IN A 10.10.10.119
+eipa217.eipa 10800 IN A 193.40.250.217
+autolab.opto 3600 IN A 193.40.245.111
+hooke.em 10800 IN A 193.40.252.124
+hooke.em 10800 IN HINFO "Pentium/100" "Windows95"
+enedhcp3.ene 10800 IN A 193.40.249.226
+www.tunnustusasutus 10800 IN CNAME deepzone0
+hopper.cs 10800 IN A 193.40.252.95
+ak213-17.class 10800 IN A 192.168.40.17
+MH201-05.mh 1200 IN A 192.168.105.31
+physionet.cb 10800 IN A 193.40.254.79
+physionet.cb 10800 IN HINFO "Pentium" "Win98"
+puhh.intra 10800 IN A 192.168.133.240
+www.mechatronics 10800 IN CNAME sise
+TTY-CPE 10800 IN A 193.40.244.14
+10800 IN A 193.40.250.254
+TTY-CPE 10800 IN HINFO "FlowPoint" "DSL Router"
+aadel.hum 10800 IN A 193.40.250.229
+lab-10-10-10-69.tud 3600 IN A 10.10.10.69
+math-12.ym 3600 IN A 193.40.245.201
+math-12.ym 3600 IN HINFO "Celeron/400" "Windows98"
+sso.va 3600 IN A 193.40.247.65
+l13001.tm 3600 IN A 193.40.241.139
+l13001.tm 3600 IN HINFO "P350" "WNT"
+georg.p 3600 IN A 193.40.252.113
+georg.p 3600 IN HINFO "Pentium/150" "Windows95"
+eipa223.eipa 10800 IN A 193.40.250.223
+lab-10-10-10-34.tud 3600 IN A 10.10.10.34
+eiba2008 10800 IN CNAME deepzone1
+voodoo 10800 IN A 192.168.115.238
+10800 IN A 192.168.137.6
+tess 10800 IN CNAME DeepZone2
+test 10800 IN MX 1 ASPMX.L.GOOGLE.com.
+10800 IN MX 5 ALT1.ASPMX.L.GOOGLE.com.
+10800 IN MX 5 ALT2.ASPMX.L.GOOGLE.com.
+10800 IN MX 10 ASPMX2.GOOGLEMAIL.com.
+10800 IN MX 10 ASPMX3.GOOGLEMAIL.com.
+10800 IN MX 10 ASPMX4.GOOGLEMAIL.com.
+10800 IN MX 10 ASPMX5.GOOGLEMAIL.com.
+muul.intra 10800 IN A 192.168.133.250
+googleffffffff8acc7d81.edu 10800 IN CNAME google.com.
+MH405A.mh 1200 IN AAAA 2002:c128:f53a::c128:f53a
+rein.h 10800 IN A 193.40.245.226
+efak10 10800 IN CNAME deepzone2
+VCENTER5.intra 10800 IN A 192.168.137.250
+juhtimisaju 10800 IN A 92.62.98.5
+ak213-20.class 10800 IN A 192.168.40.20
+msoid.cc 10800 IN CNAME clientconfig.microsoftonline-p.net.
+V-233-merendus.intra 10800 IN A 192.168.158.234
+lab-10-10-10-229.tud 3600 IN A 10.10.10.229
+id-auth 10800 IN A 192.168.102.246
+pl-color1.intra 10800 IN A 192.168.134.220
+kutsu.p 3600 IN A 193.40.253.153
+kutsu.p 3600 IN HINFO "Pentium/100" "Windows95"
+msoid.cs 10800 IN CNAME clientconfig.microsoftonline-p.net.
+mail.mess 10800 IN CNAME benjy.cc
+mes5.me 10800 IN A 193.40.245.124
+mes5.me 10800 IN HINFO "P4/1.7G" "WinXP"
+ak112-9.ld 10800 IN A 193.40.244.171
+ak112-9.ld 10800 IN HINFO "PC" "Win"
+vm 10800 IN A 193.40.244.106
+sharepoint.dellserv.ld 10800 IN CNAME dellserv.ld
+matilda.a 10800 IN A 193.40.242.169
+matilda.a 10800 IN HINFO "SL-586V/100" "Win95"
+math-13.ym 3600 IN A 193.40.245.202
+math-13.ym 3600 IN HINFO "Pentium" "Windows2000"
+l13002.tm 3600 IN A 193.40.241.140
+l13002.tm 3600 IN HINFO "P350" "WNT"
+lab-10-10-10-226.tud 3600 IN A 10.10.10.226
+ak213-119.class 10800 IN A 192.168.40.119
+st20701.ms 10800 IN A 193.40.241.209
+st20701.ms 10800 IN HINFO "Cel 300" "Win2K"
+elen-124.ene 10800 IN A 193.40.249.124
+avatudope 10800 IN CNAME www
+IT213-bw1.intra 10800 IN A 192.168.19.181
+lab-10-10-10-127.tud 3600 IN A 10.10.10.127
+spare-22 10800 IN A 193.40.255.22
+c5.class 10800 IN A 193.40.254.5
+c24.class 10800 IN A 193.40.254.24
+comp34.tkk 3600 IN A 193.40.242.110
+VB-koridor.intra 10800 IN A 193.40.245.220
+ak213-115.class 10800 IN A 192.168.40.115
+193-40-242-129.vi 3600 IN A 193.40.242.129
+ce-color3.intra 10800 IN A 192.168.134.221
+bmt.cb 10800 IN A 193.40.254.73
+bmt.cb 10800 IN MX 10 mail.cb
+mek.me 10800 IN A 193.40.245.82
+mek.me 10800 IN HINFO "P133" "Win95"
+courses.cs 10800 IN A 193.40.252.92
+docs2 10800 IN CNAME saruman
+lab-10-10-10-107.tud 3600 IN A 10.10.10.107
+hektor7 10800 IN A 193.40.244.169
+heli.h 10800 IN A 193.40.243.18
+10800 IN A 193.40.245.228
+heli.h 10800 IN HINFO "486" "Windows95"
+mehyn.me 10800 IN CNAME hp715b.me
+adamant.ld 10800 IN A 193.40.244.100
+adamant.ld 10800 IN HINFO "P4 XEON 2.8" "Win2003"
+raik.ene 10800 IN A 193.40.249.88
+raik.ene 10800 IN HINFO "Pentium4/2.4" "WinXP"
+proov 10800 IN MX 0 proov-ttu-ee.mail.protection.outlook.com.
+proov 10800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+cem.ep 10800 IN A 193.40.252.67
+cem.ep 10800 IN HINFO "PentiumIII" "Windows98"
+astiqe.la 10800 IN A 193.40.252.51
+elen.ene 10800 IN A 193.40.249.97
+elen.ene 10800 IN HINFO "Celeron333A" "WindowsNT 4.0"
+lab-10-10-10-57.tud 3600 IN A 10.10.10.57
+phare2 10800 IN A 193.40.253.193
+phare2 10800 IN HINFO "Pentium100" "Win95"
+phare3 10800 IN A 193.40.245.93
+phare3 10800 IN HINFO "Pentium/400" "Windows98"
+NAVISQL.intra 10800 IN A 192.168.251.5
+lab-10-10-10-157.tud 3600 IN A 10.10.10.157
+ak213-29.class 10800 IN A 192.168.40.29
+sisek0.h 10800 IN A 193.40.253.100
+sisek0.h 10800 IN HINFO "Cel/1700" "WinXP"
+vikat.cc 10800 IN A 193.40.254.42
+vikat.cc 10800 IN HINFO "PC/286" "MSDOS"
+MH303-1.mh 1200 IN A 192.168.105.154
+sisek1.h 10800 IN A 193.40.253.249
+sisek1.h 10800 IN HINFO "Cel/700" "Win2K"
+home 10800 IN A 193.40.242.53
+ldap1 10800 IN A 193.40.254.110
+ldap2 10800 IN A 193.40.254.111
+avataara.tud 3600 IN CNAME xperimental.tud
+esindus1.tdng 3600 IN A 193.40.253.51
+esindus1.tdng 3600 IN HINFO "Celeron667" "Win98"
+esindus1.tdng 3600 IN MX 10 esindus1.tdng
+lab-10-10-10-206.tud 3600 IN A 10.10.10.206
+lab-10-10-10-217.tud 3600 IN A 10.10.10.217
+scratch 10800 IN CNAME deepzone2
+elsys3.ene 10800 IN A 193.40.249.102
+elsys3.ene 10800 IN HINFO "Pentium/150" "Windows95"
+technology 10800 IN CNAME virtuals1
+spare-170 10800 IN A 193.40.255.170
+mserv.opto 3600 IN A 193.40.245.105
+mserv.opto 3600 IN HINFO "486" "Win95"
+spare-1 10800 IN A 193.40.255.1
+mera1.me 10800 IN A 193.40.245.95
+mera1.me 10800 IN HINFO "486DX2/66" "WinNT"
+ak213-76.class 10800 IN A 192.168.40.76
+msoid.keemlab 10800 IN CNAME clientconfig.microsoftonline-p.net.
+enedhcp44.ene 10800 IN A 193.40.249.221
+math-15.ym 3600 IN A 193.40.245.155
+math-15.ym 3600 IN HINFO "Pentium" "Win98"
+kai.ct 10800 IN A 193.40.252.226
+kai.ct 10800 IN HINFO "Pentium" "Windows95"
+l13004.tm 3600 IN A 193.40.241.142
+l13004.tm 3600 IN HINFO "P350" "WNT"
+jackie.yg 3600 IN A 193.40.252.25
+jackie.yg 3600 IN HINFO "Pentium" "WindowsNT"
+amer.centr 10800 IN A 193.40.253.24
+10800 IN A 193.40.253.132
+amer.centr 10800 IN HINFO "PC/486" "MS-DOS"
+10800 IN HINFO "Pentium150" "Win95"
+www.ld 10800 IN A 193.40.244.104
+www.ld 10800 IN HINFO "Pentium" "Linux"
+elen-112.ene 10800 IN A 193.40.249.112
+one-ext.cc 10800 IN A 193.40.242.121
+lab-10-10-10-77.tud 3600 IN A 10.10.10.77
+ak213-50.class 10800 IN A 192.168.40.50
+vvk7.vvk 3600 IN A 193.40.242.174
+laine.cc 10800 IN A 193.40.254.154
+laine.cc 10800 IN HINFO "Pentium" "Win95"
+roomik.ene 10800 IN A 193.40.249.171
+lennuk.ene 10800 IN A 193.40.249.87
+lennuk.ene 10800 IN HINFO "Pentium4/2.4" "WinXP"
+gymn 10800 IN CNAME virtuals2
+poisson.em 10800 IN A 193.40.252.125
+poisson.em 10800 IN HINFO "Pentium/120" "Windows95"
+voltalab.opto 3600 IN A 193.40.245.217
+altius.kk 10800 IN A 193.40.253.205
+altius.kk 10800 IN HINFO "386DX" "MS-DOS"
+ak213-113.class 10800 IN A 192.168.40.113
+surpac.ene 10800 IN A 193.40.249.187
+web.eac 10800 IN CNAME virtual
+arnoa.l 10800 IN A 193.40.253.56
+arnoa.l 10800 IN HINFO "386" "Windows95"
+ak213-23.class 10800 IN A 192.168.40.23
+estogirl.aa 10800 IN A 193.40.253.3
+valentin.kk 10800 IN A 193.40.253.36
+valentin.kk 10800 IN HINFO "PentiumMMX/266" "Windows98"
+hooneaut 10800 IN A 192.168.120.200
+maja1.ee 10800 IN A 193.40.253.75
+maja1.ee 10800 IN HINFO "Pentium75" "Win95"
+l13005.tm 3600 IN A 193.40.241.143
+l13005.tm 3600 IN HINFO "P350" "WNT"
+kandela.yf 3600 IN A 193.40.252.194
+mtserver01 10800 IN A 193.40.254.50
+www.fmtdk 10800 IN CNAME saruman
+xperimental.tud 3600 IN A 193.40.242.88
+sergei.kt 10800 IN A 193.40.253.170
+sergei.kt 10800 IN HINFO "Celeron" "Windows98"
+turing.cs 10800 IN A 193.40.252.82
+sti209ik.ms 10800 IN A 193.40.241.224
+sti209ik.ms 10800 IN HINFO "AMD1000" "Win2K"
+cs101.cs 10800 IN A 193.40.252.101
+dejet.mo 10800 IN A 193.40.245.130
+dejet.mo 10800 IN HINFO "DeskJet" "DeskJet"
+sti1 10800 IN A 193.40.160.190
+sti2 10800 IN A 193.40.160.189
+smtp.wifi 10800 IN A 10.0.0.111
+nisu.cs 10800 IN A 193.40.252.85
+lab-10-10-10-145.tud 3600 IN A 10.10.10.145
+xtee-test 10800 IN A 193.40.242.110
+cert.intra 10800 IN A 192.168.133.247
+kaisa 10800 IN CNAME gurney.cc
+viivi.rekt 3600 IN A 193.40.253.184
+viivi.rekt 3600 IN HINFO "Pentium75" "Win95"
+193-40-242-133.vi 3600 IN A 193.40.242.133
+lab-10-10-10-95.tud 3600 IN A 10.10.10.95
+cppwa 10800 IN CNAME deepzone0
+adfs.intra 10800 IN A 192.168.133.222
+traktor 10800 IN A 193.40.244.67
+lab-10-10-10-195.tud 3600 IN A 10.10.10.195
+cs06s.intra 10800 IN A 192.168.133.156
+henri 10800 IN CNAME virtuals2
+193-40-242-142.vi 3600 IN A 193.40.242.142
+spare-10 10800 IN A 193.40.255.10
+spare-11 10800 IN A 193.40.255.11
+spare-12 10800 IN A 193.40.255.12
+spare-13 10800 IN A 193.40.255.13
+maja2.ee 10800 IN A 193.40.252.14
+maja2.ee 10800 IN HINFO "Pentium100" "Win95"
+spare-15 10800 IN A 193.40.255.15
+rkalev.p 3600 IN A 193.40.253.40
+rkalev.p 3600 IN HINFO "PC" "Windows"
+spare-17 10800 IN A 193.40.255.17
+spare-18 10800 IN A 193.40.255.18
+spare-19 10800 IN A 193.40.255.19
+mehatroonika.mt 10800 IN A 193.40.245.235
+mehatroonika.mt 10800 IN HINFO "Pentium" "Win98"
+enedhcp32.ene 10800 IN A 193.40.249.209
+spare-23 10800 IN A 193.40.255.23
+spare-24 10800 IN A 193.40.255.24
+www.humanitaar 10800 IN CNAME virtual
+spare-26 10800 IN A 193.40.255.26
+spare-27 10800 IN A 193.40.255.27
+katariina.kk 10800 IN A 193.40.253.69
+katariina.kk 10800 IN HINFO "PC/486" "Win95"
+Rektoraat-Color1.intra 10800 IN A 193.40.255.252
+spare-31 10800 IN A 193.40.255.31
+spare-32 10800 IN A 193.40.255.32
+spare-33 10800 IN A 193.40.255.33
+spare-34 10800 IN A 193.40.255.34
+spare-35 10800 IN A 193.40.255.35
+spare-36 10800 IN A 193.40.255.36
+spare-37 10800 IN A 193.40.255.37
+spare-38 10800 IN A 193.40.255.38
+spare-39 10800 IN A 193.40.255.39
+alder.li 10800 IN A 193.40.254.211
+alder.li 10800 IN HINFO "PII/350" "Win95"
+spare-42 10800 IN A 193.40.255.42
+eipa10.eipa 10800 IN A 193.40.250.10
+spare-44 10800 IN A 193.40.255.44
+majanduskoolituskeskus 10800 IN CNAME virtuals1
+spare-46 10800 IN A 193.40.255.46
+spare-47 10800 IN A 193.40.255.47
+spare-48 10800 IN A 193.40.255.48
+spare-49 10800 IN A 193.40.255.49
+spare-51 10800 IN A 193.40.255.51
+eve.ct 10800 IN A 193.40.252.222
+eve.ct 10800 IN HINFO "Pentium" "Windows95"
+mictest1.cc 10800 IN A 193.40.254.40
+eliko.li 10800 IN A 193.40.254.104
+elen-100.ene 10800 IN A 193.40.249.100
+spare-56 10800 IN A 193.40.255.56
+spare-57 10800 IN A 193.40.255.57
+spare-58 10800 IN A 193.40.255.58
+spare-59 10800 IN A 193.40.255.59
+spare-61 10800 IN A 193.40.255.61
+spare-62 10800 IN A 193.40.255.62
+spare-63 10800 IN A 193.40.255.63
+spare-64 10800 IN A 193.40.255.64
+spare-65 10800 IN A 193.40.255.65
+c29.class 10800 IN A 193.40.254.29
+spare-67 10800 IN A 193.40.255.67
+tko.h 10800 IN A 193.40.243.15
+tko.h 10800 IN HINFO "Pentium" "Windows95"
+saruman 10800 IN A 193.40.254.179
+spare-71 10800 IN A 193.40.255.71
+www2.bos06 10800 IN CNAME deepzone0
+spare-73 10800 IN A 193.40.255.73
+spare-74 10800 IN A 193.40.255.74
+spare-75 10800 IN A 193.40.255.75
+spare-76 10800 IN A 193.40.255.76
+spare-77 10800 IN A 193.40.255.77
+lists2 10800 IN CNAME TheBook
+vemgczeip5tavlpjiuq5gwyecwtwekty._domainkey 10800 IN CNAME vemgczeip5tavlpjiuq5gwyecwtwekty.dkim.amazonses.com.
+spare-81 10800 IN A 193.40.255.81
+spare-82 10800 IN A 193.40.255.82
+spare-83 10800 IN A 193.40.255.83
+eipa15.eipa 10800 IN A 193.40.250.15
+www.email 10800 IN CNAME email
+ppp-local.cc 10800 IN A 193.40.244.222
+ppp-local.cc 10800 IN HINFO "SPARCstation 1" "Solaris 2.4"
+pesa.cs 10800 IN A 193.40.252.98
+spare-88 10800 IN A 193.40.255.88
+spare-89 10800 IN A 193.40.255.89
+spare-91 10800 IN A 193.40.255.91
+doktor 10800 IN A 193.40.244.69
+spare-93 10800 IN A 193.40.255.93
+spare-94 10800 IN A 193.40.255.94
+spare-95 10800 IN A 193.40.255.95
+autodiagnostika 10800 IN CNAME deepzone2
+spare-97 10800 IN A 193.40.255.97
+spare-98 10800 IN A 193.40.255.98
+arkaad.cs 10800 IN A 193.40.252.81
+maja3.ee 10800 IN A 193.40.253.143
+maja3.ee 10800 IN HINFO "Pentium133" "Win95"
+k114.kk 10800 IN A 193.40.253.19
+k114.kk 10800 IN HINFO "Pentium/166" "Windows98"
+npi544.corson 10800 IN A 193.40.254.90
+npi544.corson 10800 IN HINFO "HP Plotter" "HP"
+lab-10-10-10-2.tud 3600 IN A 10.10.10.2
+V-211-kantselei.intra 10800 IN A 192.168.158.232
+spare-106 10800 IN A 193.40.255.106
+repec 10800 IN CNAME virtuals1
+eipa21.eipa 10800 IN A 193.40.250.21
+kalev 10800 IN A 192.168.137.14
+abi.ti 3600 IN A 88.196.48.53
+lab-10-10-10-33.tud 3600 IN A 10.10.10.33
+deniss.cb 10800 IN A 193.40.254.76
+deniss.cb 10800 IN HINFO "Pentium" "Linux"
+spare-110 10800 IN A 193.40.255.110
+msoid.staff 10800 IN CNAME clientconfig.microsoftonline-p.net.
+vvk11.vvk 3600 IN A 193.40.242.170
+mictest2.cc 10800 IN A 193.40.254.43
+hub-3.t 3600 IN A 193.40.241.253
+hub-3.t 3600 IN HINFO "SuperStack Smart Hub" "X"
+spare-112 10800 IN A 193.40.255.112
+dhcp-193-40-254-32.cc 10800 IN A 193.40.254.32
+ore.ene 10800 IN A 193.40.249.178
+spare-113 10800 IN A 193.40.255.113
+193-40-242-135.vi 3600 IN A 193.40.242.135
+harley.mo 10800 IN A 193.40.245.147
+harley.mo 10800 IN HINFO "Pentium133" "Win95"
+meas3.me 10800 IN A 193.40.245.34
+meas3.me 10800 IN HINFO "Pentium133" "WinNT WS"
+tammet.cc 10800 IN A 193.40.254.59
+tammet.cc 10800 IN HINFO "PentiumII/266" "WindowsNT WS 4.0"
+ttutv 10800 IN A 193.40.254.239
+dragonfish 10800 IN A 193.40.254.89
+lab-10-10-10-83.tud 3600 IN A 10.10.10.83
+saast.roke 3600 IN A 193.40.243.7
+www.personal 10800 IN CNAME deepzone0
+maja71.ee 10800 IN A 193.40.253.173
+maja71.ee 10800 IN HINFO "Celeron" "Win2K"
+ehitustootlus 10800 IN CNAME www
+spare-117 10800 IN A 193.40.255.117
+ak213-3.class 10800 IN A 192.168.40.3
+spare-118 10800 IN A 193.40.255.118
+ak213-82.class 10800 IN A 192.168.40.82
+k115.kk 10800 IN A 193.40.253.238
+k115.kk 10800 IN HINFO "Pentium" "Windows95"
+spare-119 10800 IN A 193.40.255.119
+eipa3.eipa 10800 IN A 193.40.250.3
+eipa32.eipa 10800 IN A 193.40.250.32
+pesa2.roke 3600 IN A 193.40.243.8
+wirek.yg 3600 IN A 193.40.252.30
+wirek.yg 3600 IN HINFO "Pentium" "WindowsNT"
+enedhcp19.ene 10800 IN A 193.40.249.242
+_ldap._tcp.Default-First-Site-Name._sites.mh 600 IN SRV 0 100 389 mhserver.mh
+600 IN SRV 0 100 389 mhserver2.mh
+st20801.as 10800 IN A 193.40.241.212
+st20801.as 10800 IN HINFO "Pentium" "Windows98"
+ftp.mo 10800 IN CNAME pc10.mo
+ak213-55.class 10800 IN A 192.168.40.55
+spare-200 10800 IN A 193.40.255.200
+eipa8.eipa 10800 IN A 193.40.250.8
+eipa37.eipa 10800 IN A 193.40.250.37
+193-40-242-136.vi 3600 IN A 193.40.242.136
+test.cc 10800 IN A 193.40.254.181
+ppp-remote1.cc 10800 IN A 193.40.244.193
+ppp-remote1.cc 10800 IN HINFO "PPP Client" "Unknown"
+spare-130 10800 IN A 193.40.255.130
+sisekontroll 10800 IN A 193.40.245.119
+egon.mty 10800 IN A 193.40.243.9
+ak213-118.class 10800 IN A 192.168.40.118
+akvaarium.yf 3600 IN A 193.40.252.181
+virtuals2 10800 IN A 193.40.254.224
+pv-bw2.intra 10800 IN A 192.168.134.219
+ak213-28.class 10800 IN A 192.168.40.28
+maja5.ee 10800 IN A 193.40.253.28
+maja5.ee 10800 IN HINFO "486DX/33" "Win3.11"
+spare-134 10800 IN A 193.40.255.134
+lab-10-10-10-5.tud 3600 IN A 10.10.10.5
+eipa43.eipa 10800 IN A 193.40.250.43
+hp715b.me 10800 IN A 193.40.245.66
+hp715b.me 10800 IN MX 10 hp715b.me
+10800 IN MX 15 hp715a.me
+hp715b.me 10800 IN HINFO "HP9000/715" "HP-UX"
+astika.la 10800 IN A 193.40.252.45
+astika.la 10800 IN HINFO "PC/486DX" "MSDOS 6.0"
+lab-10-10-10-130.tud 3600 IN A 10.10.10.130
+me-aris.intra 10800 IN A 193.40.245.59
+iks.p 3600 IN A 193.40.253.82
+iks.p 3600 IN HINFO "Pentium/" "Windows95"
+st21901.as 10800 IN A 193.40.241.198
+st21901.as 10800 IN HINFO "Pentium" "Windows95"
+virve.p 3600 IN A 193.40.253.226
+virve.p 3600 IN HINFO "Celeron/400" "Windows98"
+omega.ym 3600 IN A 193.40.245.195
+omega.ym 3600 IN HINFO "Pentium/120" "Windows95"
+spare-140 10800 IN A 193.40.255.140
+imaps.ati 10800 IN CNAME ati
+tuutor 10800 IN CNAME www
+lab-10-10-10-21.tud 3600 IN A 10.10.10.21
+eipa48.eipa 10800 IN A 193.40.250.48
+vCenter 10800 IN A 192.168.137.251
+193-40-242-134.vi 3600 IN A 193.40.242.134
+robot.ene 10800 IN A 193.40.249.92
+robot.ene 10800 IN HINFO "PentiumIV/1700" "Win2K"
+portal-mysql-slave1.intra 10800 IN A 192.168.251.11
+lab-10-10-10-121.tud 3600 IN A 10.10.10.121
+193-40-242-137.vi 3600 IN A 193.40.242.137
+valis4.p 3600 IN A 193.40.253.92
+valis4.p 3600 IN HINFO "Pentium/100" "Windows95"
+emra.cm 10800 IN A 193.40.252.161
+emra.cm 10800 IN HINFO "PC" "MS-DOS"
+alpha.opto 3600 IN A 193.40.245.115
+alpha.opto 3600 IN HINFO "Pentium" "Win95"
+ppp-remote2.cc 10800 IN A 193.40.244.194
+ppp-remote2.cc 10800 IN HINFO "PPP Client" "Unknown"
+st20801.ms 10800 IN A 193.40.241.212
+st20801.ms 10800 IN HINFO "PIII 600" "Win98"
+enedhcp4.ene 10800 IN A 193.40.249.227
+k018ir.kk 10800 IN A 193.40.253.220
+k018ir.kk 10800 IN HINFO "Pentium" "Windows95"
+spare-146 10800 IN A 193.40.255.146
+www.kl 10800 IN CNAME deepzone0
+auk.ene 10800 IN A 193.40.249.191
+lab-10-10-10-71.tud 3600 IN A 10.10.10.71
+rem.oml 3600 IN A 193.40.245.118
+rem.oml 3600 IN HINFO "PentiumIII" "Win2K"
+autodiscover.keemlab 10800 IN CNAME autodiscover.outlook.com.
+eipa54.eipa 10800 IN A 193.40.250.54
+maja6.ee 10800 IN A 193.40.253.29
+maja6.ee 10800 IN HINFO "Pentium" "Win95"
+po-bw1.intra 10800 IN A 192.168.134.252
+spare-150 10800 IN A 193.40.255.150
+mepc19.me 10800 IN A 193.40.245.30
+mepc19.me 10800 IN HINFO "PentiumIII" "WinNT"
+mepc1.me 10800 IN A 193.40.245.48
+mepc1.me 10800 IN HINFO "Pentium/266" "WinNT WS"
+lab-10-10-10-146.tud 3600 IN A 10.10.10.146
+henri.yf 3600 IN A 193.40.252.186
+henri.yf 3600 IN HINFO "Pentium" "Windows95"
+spare-153 10800 IN A 193.40.255.153
+mail.mini.li 10800 IN A 193.40.254.195
+sso2.va 3600 IN A 193.40.247.61
+cs05i.intra 10800 IN A 192.168.133.185
+eipa59.eipa 10800 IN A 193.40.250.59
+faraday.ene 10800 IN A 193.40.249.132
+www.polymeer 10800 IN CNAME deepzone0
+epalm.h 10800 IN A 193.40.253.213
+epalm.h 10800 IN HINFO "HP Omnibook xe4100" "WinXP"
+193-40-242-138.vi 3600 IN A 193.40.242.138
+st21901.ms 10800 IN A 193.40.241.198
+st21901.ms 10800 IN HINFO "Celeron 333" "Win98"
+www.ncsb2008 10800 IN CNAME saruman
+viplala.li 10800 IN A 193.40.254.203
+dean.kv 10800 IN A 193.40.253.200
+dean.kv 10800 IN HINFO "486SX/33" "Win95"
+www.rehabint 3600 IN CNAME apollos
+www.credes 10800 IN CNAME credes
+193-40-242-151.vi 3600 IN A 193.40.242.151
+jyri.hum 10800 IN A 193.40.252.128
+jyri.hum 10800 IN HINFO "Pentium/166" "Windows95"
+spare-161 10800 IN A 193.40.255.161
+maxwell.ene 10800 IN A 193.40.249.134
+info 10800 IN CNAME virtual
+spare-201 10800 IN A 193.40.255.201
+eipa65.eipa 10800 IN A 193.40.250.65
+_kerberos._tcp.Default-First-Site-Name._sites.mh 600 IN SRV 0 100 88 mhserver.mh
+600 IN SRV 0 100 88 mhserver2.mh
+katrin.cl 10800 IN A 193.40.253.230
+katrin.cl 10800 IN HINFO "Pentium/75" "Win95"
+elen-115.ene 10800 IN A 193.40.249.115
+maja7.ee 10800 IN A 193.40.253.30
+maja7.ee 10800 IN HINFO "PentiumMMX/166" "Win95"
+toru 10800 IN CNAME openvpn
+side.h 10800 IN A 193.40.253.208
+side.h 10800 IN HINFO "486SX" "MS-DOS"
+lab-10-10-10-8.tud 3600 IN A 10.10.10.8
+elen-125.ene 10800 IN A 193.40.249.125
+lab-10-10-10-80.tud 3600 IN A 10.10.10.80
+www.linnalaager 10800 IN CNAME virtuals1
+eipa71.eipa 10800 IN A 193.40.250.71
+tudeng8.km 10800 IN A 193.40.253.8
+tudeng8.km 10800 IN HINFO "Pentium" "Win95"
+aili.hum 10800 IN A 193.40.252.22
+aili.hum 10800 IN HINFO "Pentium/66" "Windows95"
+bos06 10800 IN CNAME deepzone0
+comp35.tkk 3600 IN A 193.40.242.111
+virrok.m 10800 IN A 193.40.253.61
+virrok.m 10800 IN HINFO "PentiumMMX/166" "Win95"
+193-40-242-139.vi 3600 IN A 193.40.242.139
+vvk9.p 3600 IN A 193.40.253.179
+lab-10-10-10-108.tud 3600 IN A 10.10.10.108
+MH313-01.mh 1200 IN A 192.168.105.16
+mes1.me 10800 IN A 193.40.245.89
+mes1.me 10800 IN HINFO "Pentium/233" "WinNT"
+eipa76.eipa 10800 IN A 193.40.250.76
+moonfish 10800 IN A 193.40.254.92
+innar.li 10800 IN A 193.40.254.102
+innar.li 10800 IN HINFO "Pentium" "Windows95"
+lea.ct 10800 IN A 193.40.252.219
+lea.ct 10800 IN HINFO "Pentium" "Windows95"
+mysql.tud 3600 IN CNAME aragorn.cc
+ennouna.ld 10800 IN CNAME dellserv.ld
+arvuti.em 10800 IN A 193.40.252.23
+arvuti.em 10800 IN HINFO "Pentium" "Windows95"
+eipa70.eipa 10800 IN A 193.40.250.70
+pc10.mo 10800 IN A 193.40.245.144
+norton.la 10800 IN A 193.40.240.70
+norton.la 10800 IN HINFO "PC/PENTIUM" "Windows95"
+maja8.ee 10800 IN A 193.40.253.31
+maja8.ee 10800 IN HINFO "PentiumMMX/166" "Win95"
+ak213-8.class 10800 IN A 192.168.40.8
+spare-180 10800 IN A 193.40.255.180
+eipa101.eipa 10800 IN A 193.40.250.101
+coulomb.em 10800 IN A 193.40.252.127
+coulomb.em 10800 IN HINFO "Pentium/120" "Windows95"
+ak213-87.class 10800 IN A 192.168.40.87
+lab-10-10-10-96.tud 3600 IN A 10.10.10.96
+home-test 10800 IN CNAME portal-test
+jaak.ld 10800 IN A 193.40.244.89
+jaak.ld 10800 IN HINFO "PC" "Win"
+lab-10-10-10-158.tud 3600 IN A 10.10.10.158
+atm-ii-3k 10800 IN A 193.40.254.236
+atm-ii-3k 10800 IN HINFO "Centillion 50" "SpeedView"
+valissuh.p 3600 IN A 193.40.253.134
+valissuh.p 3600 IN HINFO "PC486/66" "Win95"
+eipa82.eipa 10800 IN A 193.40.250.82
+cebe 10800 IN A 193.40.246.3
+spare-184 10800 IN A 193.40.255.184
+novator 10800 IN A 193.40.241.66
+spare-185 10800 IN A 193.40.255.185
+lambda.cs 10800 IN A 193.40.252.83
+gaia.yf 3600 IN A 193.40.252.189
+p4-4.tud 3600 IN A 192.168.16.4
+localhost.me 10800 IN A 127.0.0.1
+eipa106.eipa 10800 IN A 193.40.250.106
+amphora 10800 IN CNAME oku.cc
+spare-187 10800 IN A 193.40.255.187
+second.eipa 10800 IN A 62.65.193.36
+second.eipa 10800 IN MX 10 mail.eipa
+ak213-61.class 10800 IN A 192.168.40.61
+_kerberos._tcp.mh 600 IN SRV 0 100 88 mhserver.mh
+600 IN SRV 0 100 88 mhserver2.mh
+v-col1-overal.intra 10800 IN A 192.168.158.226
+spare-188 10800 IN A 193.40.255.188
+MH303.mh 1200 IN A 193.40.245.173
+MH303.mh 1200 IN AAAA 2002:c128:f5ad::c128:f5ad
+nunnu.kk 10800 IN A 193.40.253.104
+nunnu.kk 10800 IN HINFO "PC/486" "WFW 3.11"
+ak213-69.class 10800 IN A 192.168.40.69
+gensi1.li 10800 IN A 193.40.244.100
+gensi1.li 10800 IN HINFO "PC/486DX66" "Windows95"
+kask.h 10800 IN A 193.40.245.218
+kask.h 10800 IN HINFO "iMac" "MacOS9"
+comp25.tkk 3600 IN A 193.40.242.101
+comp25.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+spare-191 10800 IN A 193.40.255.191
+elsys4.ene 10800 IN A 193.40.249.107
+elsys4.ene 10800 IN HINFO "Pentium/120" "Windows95"
+spare-202 10800 IN A 193.40.255.202
+id-bw1.intra 10800 IN A 193.40.244.182
+ak213-124.class 10800 IN A 192.168.40.124
+kersti.p 3600 IN A 193.40.253.88
+kersti.p 3600 IN HINFO "PentiumII/350" "Windows98"
+spare-203 10800 IN A 193.40.255.203
+enedhcp45.ene 10800 IN A 193.40.249.222
+pc11.mo 10800 IN A 193.40.245.145
+eipa112.eipa 10800 IN A 193.40.250.112
+spare-194 10800 IN A 193.40.255.194
+lab-10-10-10-240.tud 3600 IN A 10.10.10.240
+allison.yg 3600 IN A 193.40.252.29
+allison.yg 3600 IN HINFO "Pentium" "WindowsNT"
+spare-205 10800 IN A 193.40.255.205
+ak213-34.class 10800 IN A 192.168.40.34
+spare-14 10800 IN A 193.40.255.14
+hp715a.me 10800 IN A 193.40.245.65
+hp715a.me 10800 IN MX 10 hp715a.me
+10800 IN MX 15 hp715b.me
+hp715a.me 10800 IN HINFO "HP9000/715" "HP-UX"
+spare-206 10800 IN A 193.40.255.206
+eipa93.eipa 10800 IN A 193.40.250.93
+thrashbarg.li 10800 IN A 193.40.254.212
+thrashbarg.li 10800 IN HINFO "Sparc IPX" "Solaris"
+spare-207 10800 IN A 193.40.255.207
+ssh.tud 3600 IN CNAME bilbo.tud
+eenet-gw 10800 IN A 193.40.244.197
+spare-208 10800 IN A 193.40.255.208
+elen-113.ene 10800 IN A 193.40.249.113
+dapro.mo 10800 IN A 193.40.245.131
+dapro.mo 10800 IN HINFO "DraftPro" "DraftPro"
+webct.e-uni 10800 IN A 193.40.242.124
+vvk8.vvk 3600 IN A 193.40.242.173
+eipa117.eipa 10800 IN A 193.40.250.117
+lopp.kk 10800 IN A 193.40.253.158
+lopp.kk 10800 IN HINFO "Pentium" "Win95"
+juss.e 10800 IN A 193.40.252.241
+juss.e 10800 IN HINFO "Pentium75" "Win95"
+cauer.la 10800 IN A 193.40.240.68
+cauer.la 10800 IN HINFO "PC/PENTIUM" "Windows95"
+ntw.lib 43200 IN A 193.40.243.22
+comp23.tkk 3600 IN A 193.40.242.99
+comp23.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+eipa98.eipa 10800 IN A 193.40.250.98
+VA-bw1VA-bw1.intra 10800 IN A 192.168.158.228
+savi.ene 10800 IN A 193.40.249.180
+gensi2.li 10800 IN A 193.40.244.101
+gensi2.li 10800 IN HINFO "PC/486DX66" "Windows95"
+idmzone.test 10800 IN A 193.40.254.253
+spare-100 10800 IN A 193.40.255.100
+spare-101 10800 IN A 193.40.255.101
+spare-102 10800 IN A 193.40.255.102
+spare-103 10800 IN A 193.40.255.103
+enedhcp16.ene 10800 IN A 193.40.249.239
+spare-105 10800 IN A 193.40.255.105
+ehitustootlus-vana 10800 IN CNAME deepzone0
+spare-107 10800 IN A 193.40.255.107
+spare-108 10800 IN A 193.40.255.108
+spare-109 10800 IN A 193.40.255.109
+spare-111 10800 IN A 193.40.255.111
+eipa123.eipa 10800 IN A 193.40.250.123
+_sipfederationtls._tcp.live 10800 IN SRV 10 2 5061 federation.messenger.msn.com.
+spare-114 10800 IN A 193.40.255.114
+spare-115 10800 IN A 193.40.255.115
+spare-116 10800 IN A 193.40.255.116
+prince.ld 10800 IN A 193.40.244.88
+prince.ld 10800 IN HINFO "i486" "Win95B"
+pc12.mo 10800 IN A 193.40.245.146
+paula.p 3600 IN A 193.40.253.137
+paula.p 3600 IN HINFO "Pentium100" "Win95"
+spare-121 10800 IN A 193.40.255.121
+spare-122 10800 IN A 193.40.255.122
+spare-123 10800 IN A 193.40.255.123
+spare-124 10800 IN A 193.40.255.124
+spare-125 10800 IN A 193.40.255.125
+spare-126 10800 IN A 193.40.255.126
+spare-127 10800 IN A 193.40.255.127
+spare-128 10800 IN A 193.40.255.128
+spare-129 10800 IN A 193.40.255.129
+jaanbi 10800 IN CNAME jaanbi.t
+spare-132 10800 IN A 193.40.255.132
+spare-133 10800 IN A 193.40.255.133
+jaan.cc 10800 IN A 193.40.254.35
+jaan.cc 10800 IN HINFO "PC/486" "MS-DOS"
+apex1.arendus 10800 IN A 192.168.95.1
+spare-136 10800 IN A 193.40.255.136
+spare-137 10800 IN A 193.40.255.137
+spare-138 10800 IN A 193.40.255.138
+spare-139 10800 IN A 193.40.255.139
+spare-141 10800 IN A 193.40.255.141
+spare-142 10800 IN A 193.40.255.142
+spare-143 10800 IN A 193.40.255.143
+spare-144 10800 IN A 193.40.255.144
+spare-145 10800 IN A 193.40.255.145
+urr.cc 10800 IN A 193.40.254.55
+mediabank 10800 IN CNAME virtuals2
+spare-148 10800 IN A 193.40.255.148
+spare-149 10800 IN A 193.40.255.149
+spare-151 10800 IN A 193.40.255.151
+spare-152 10800 IN A 193.40.255.152
+eipa128.eipa 10800 IN A 193.40.250.128
+spare-154 10800 IN A 193.40.255.154
+spare-155 10800 IN A 193.40.255.155
+spare-156 10800 IN A 193.40.255.156
+spare-157 10800 IN A 193.40.255.157
+spare-158 10800 IN A 193.40.255.158
+spare-159 10800 IN A 193.40.255.159
+anton.ld 10800 IN A 193.40.244.135
+anton.ld 10800 IN HINFO "PC" "Win98"
+spare-162 10800 IN A 193.40.255.162
+spare-163 10800 IN A 193.40.255.163
+spare-164 10800 IN A 193.40.255.164
+spare-165 10800 IN A 193.40.255.165
+spare-166 10800 IN A 193.40.255.166
+spare-167 10800 IN A 193.40.255.167
+spare-168 10800 IN A 193.40.255.168
+spare-169 10800 IN A 193.40.255.169
+spare-171 10800 IN A 193.40.255.171
+spare-172 10800 IN A 193.40.255.172
+spare-173 10800 IN A 193.40.255.173
+spare-174 10800 IN A 193.40.255.174
+spare-175 10800 IN A 193.40.255.175
+spare-176 10800 IN A 193.40.255.176
+spare-177 10800 IN A 193.40.255.177
+spare-178 10800 IN A 193.40.255.178
+spare-179 10800 IN A 193.40.255.179
+spare-181 10800 IN A 193.40.255.181
+spare-182 10800 IN A 193.40.255.182
+spare-183 10800 IN A 193.40.255.183
+mail.lists 10800 IN A 193.40.254.215
+gensi3.li 10800 IN A 193.40.244.102
+gensi3.li 10800 IN HINFO "PC/486DX66" "Windows95"
+materjalid.data 10800 IN CNAME deepzone2
+malle.ep 10800 IN A 193.40.252.17
+malle.ep 10800 IN HINFO "Pentium-MMX/166" "Windows95"
+and.kk 10800 IN A 193.40.253.81
+and.kk 10800 IN HINFO "Pentium150" "Win95"
+micmac2.cc 10800 IN A 193.40.254.34
+micmac2.cc 10800 IN HINFO "PC" "Linux"
+colin.cc 10800 IN A 193.40.254.232
+colin.cc 10800 IN HINFO "Sun SPARC 1" "SunOS 5.3"
+spare-192 10800 IN A 193.40.255.192
+spare-193 10800 IN A 193.40.255.193
+eipa134.eipa 10800 IN A 193.40.250.134
+spare-195 10800 IN A 193.40.255.195
+spare-196 10800 IN A 193.40.255.196
+spare-197 10800 IN A 193.40.255.197
+spare-198 10800 IN A 193.40.255.198
+spare-199 10800 IN A 193.40.255.199
+spare-211 10800 IN A 193.40.255.211
+spare-212 10800 IN A 193.40.255.212
+spare-213 10800 IN A 193.40.255.213
+spare-214 10800 IN A 193.40.255.214
+spare-215 10800 IN A 193.40.255.215
+spare-216 10800 IN A 193.40.255.216
+spare-217 10800 IN A 193.40.255.217
+pc13.mo 10800 IN A 193.40.245.148
+pc13.mo 10800 IN HINFO "PC/486" "Win3.11"
+spare-219 10800 IN A 193.40.255.219
+spare-221 10800 IN A 193.40.255.221
+spare-222 10800 IN A 193.40.255.222
+riigihange.h 10800 IN A 193.40.245.236
+spare-224 10800 IN A 193.40.255.224
+spare-225 10800 IN A 193.40.255.225
+spare-226 10800 IN A 193.40.255.226
+spare-227 10800 IN A 193.40.255.227
+spare-228 10800 IN A 193.40.255.228
+enedhcp33.ene 10800 IN A 193.40.249.210
+spare-231 10800 IN A 193.40.255.231
+spare-232 10800 IN A 193.40.255.232
+spare-233 10800 IN A 193.40.255.233
+nano.li 10800 IN A 193.40.246.135
+nano.li 10800 IN HINFO "Pentium" "Windows"
+spare-235 10800 IN A 193.40.255.235
+datel.mt 10800 IN A 193.40.245.9
+datel.mt 10800 IN HINFO "PentiumII/333" "WindowsNT4.0"
+spare-237 10800 IN A 193.40.255.237
+spare-238 10800 IN A 193.40.255.238
+airi.mt 10800 IN A 193.40.245.116
+VC.cc 10800 IN CNAME random.cc
+spare-242 10800 IN A 193.40.255.242
+spare-243 10800 IN A 193.40.255.243
+eipa140.eipa 10800 IN A 193.40.250.140
+eve.opto 3600 IN A 193.40.245.113
+c14.class 10800 IN A 193.40.254.14
+notsu.intra 10800 IN A 192.168.133.243
+malle.kk 10800 IN A 193.40.253.105
+malle.kk 10800 IN HINFO "Pentium100" "Win95"
+spare-239 10800 IN A 193.40.255.239
+elen-101.ene 10800 IN A 193.40.249.101
+aavo.hv 10800 IN A 193.40.252.167
+aavo.hv 10800 IN HINFO "PC/486DX" "Windows95"
+kati.e 10800 IN A 193.40.252.240
+kati.e 10800 IN HINFO "Pentium-MMX/166" "Win95"
+irmi 10800 IN A 192.168.137.11
+coyote.h 10800 IN A 193.40.245.239
+coyote.h 10800 IN HINFO "Pentium75" "Coyoute"
+siete.tkk 3600 IN A 193.40.242.71
+www.paal.math 10800 IN CNAME paal.math
+nitt.yf 3600 IN A 193.40.252.175
+nitt.yf 3600 IN HINFO "Pentium" "Windows95"
+jyri.opto 3600 IN A 193.40.245.100
+harri.cb 10800 IN A 193.40.254.77
+harri.cb 10800 IN HINFO "Pentium" "Win95"
+www.tuutor 10800 IN CNAME virtuals1
+st30701.as 10800 IN A 193.40.241.197
+st30701.as 10800 IN HINFO "PC" "Win NT"
+gensi4.li 10800 IN A 193.40.244.103
+gensi4.li 10800 IN HINFO "PC/486DX66" "Windows95"
+eipa145.eipa 10800 IN A 193.40.250.145
+raili.kv 10800 IN A 193.40.253.209
+raili.kv 10800 IN HINFO "Pentium100" "Win95"
+eipa139.eipa 10800 IN A 193.40.250.139
+uno.tkk 3600 IN A 193.40.242.65
+geen2 10800 IN CNAME virtual
+ioann.h 10800 IN A 193.40.245.209
+femto.li 10800 IN A 193.40.254.201
+femto.li 10800 IN HINFO "Pentium" "Windows95"
+robi.ene 10800 IN A 193.40.249.67
+robi.ene 10800 IN HINFO "PentiumIII/800" "Win98SE"
+overall 10800 IN A 193.40.254.235
+mdal.me 10800 IN A 193.40.245.46
+mdal.me 10800 IN HINFO "Pentium266" "WinNT WS"
+mail.tdng 3600 IN A 193.40.253.20
+mail.tdng 3600 IN HINFO "486DX" "RedHat"
+lab-10-10-10-132.tud 3600 IN A 10.10.10.132
+ak401-1.ld 10800 IN A 193.40.244.106
+ak401-1.ld 10800 IN HINFO "PC" "Win"
+_kpasswd._udp.mh 600 IN SRV 0 100 464 mhserver.mh
+600 IN SRV 0 100 464 mhserver2.mh
+pluto 10800 IN A 193.40.254.167
+eipa151.eipa 10800 IN A 193.40.250.151
+mh309a.mh 1200 IN A 193.40.255.18
+ak213-93.class 10800 IN A 192.168.40.93
+lab-10-10-10-48.tud 3600 IN A 10.10.10.48
+turundus 10800 IN A 193.40.241.8
+l31103.aiesec 10800 IN A 193.40.241.155
+l31103.aiesec 10800 IN HINFO "486DX2" "Win95"
+10800 IN HINFO "AMD 5x68/133" "Windows95"
+pa-bw4.intra 10800 IN A 192.168.136.226
+spare-2 10800 IN A 193.40.255.2
+spare-3 10800 IN A 193.40.255.3
+spare-4 10800 IN A 193.40.255.4
+spare-5 10800 IN A 193.40.255.5
+spare-6 10800 IN A 193.40.255.6
+spare-7 10800 IN A 193.40.255.7
+spare-8 10800 IN A 193.40.255.8
+spare-9 10800 IN A 193.40.255.9
+tund 10800 IN A 193.40.244.96
+lab-10-10-10-134.tud 3600 IN A 10.10.10.134
+kelvin.yf 3600 IN A 193.40.252.183
+kelvin.yf 3600 IN HINFO "PentiumII" "Windows98"
+torn.ene 10800 IN A 193.40.249.78
+torn.ene 10800 IN HINFO "PentiumIII/866" "Win2K"
+eipa175.eipa 10800 IN A 193.40.250.175
+MHT01.mh 1200 IN A 193.40.245.129
+MHT01.mh 1200 IN AAAA 2002:c128:f581::c128:f581
+vip001.ene 10800 IN A 193.40.249.155
+193-40-242-145.vi 3600 IN A 193.40.242.145
+eipa156.eipa 10800 IN A 193.40.250.156
+st30702.as 10800 IN A 193.40.241.207
+st30702.as 10800 IN HINFO "PC" "Win95"
+gensi5.li 10800 IN A 193.40.244.104
+gensi5.li 10800 IN HINFO "PC/486DX66" "Windows95"
+ak213-66.class 10800 IN A 192.168.40.66
+harri.li 10800 IN A 193.40.254.207
+harri.li 10800 IN HINFO "Pentium" "Windows95"
+VirtualCity.cc 10800 IN CNAME random.cc
+lab-10-10-10-84.tud 3600 IN A 10.10.10.84
+baltmattrib2009 10800 IN A 193.40.245.156
+netdisco.intra 10800 IN A 192.168.115.31
+boiko.ene 10800 IN A 193.40.249.94
+boiko.ene 10800 IN HINFO "Pentium4/2.4" "WinXP"
+heap.ene 10800 IN A 193.40.249.169
+lab-10-10-10-184.tud 3600 IN A 10.10.10.184
+estcard 10800 IN A 193.40.240.156
+www.tehnoloogia 10800 IN CNAME www
+ak213-129.class 10800 IN A 192.168.40.129
+st30701.ms 10800 IN A 193.40.241.197
+st30701.ms 10800 IN HINFO "P133" "WinNT"
+OKBridge.cc 10800 IN CNAME zaphod
+px-bw2.intra 10800 IN A 192.168.134.238
+eipa162.eipa 10800 IN A 193.40.250.162
+ak401-2.ld 10800 IN A 193.40.244.107
+ak401-2.ld 10800 IN HINFO "PC" "Win"
+spare-220 10800 IN A 193.40.255.220
+ak213-39.class 10800 IN A 192.168.40.39
+enedhcp21.ene 10800 IN A 193.40.249.244
+hapukas.p 3600 IN A 193.40.253.212
+hapukas.p 3600 IN HINFO "486DX33" "Win95"
+karla.kk 10800 IN A 193.40.253.101
+karla.kk 10800 IN HINFO "PC" "MS-DOS"
+karla.ld 10800 IN A 193.40.244.133
+karla.ld 10800 IN HINFO "Pentium II 266" "WinNTw"
+novell.mo 10800 IN HINFO "HP NetServer 4/66 LC" "Novell 3.12"
+kaiat.kk 10800 IN A 193.40.253.203
+kaiat.kk 10800 IN HINFO "486DX4/100" "Windows98"
+portal 10800 IN A 193.40.254.165
+is.va 3600 IN A 193.40.247.86
+ak213-103.class 10800 IN A 192.168.40.103
+eipa167.eipa 10800 IN A 193.40.250.167
+MHT02.mh 1200 IN A 192.168.105.161
+cindy.me 10800 IN A 193.40.245.83
+cindy.me 10800 IN HINFO "HP" "Win95"
+193-40-242-146.vi 3600 IN A 193.40.242.146
+cs-samba.tud 3600 IN A 192.168.19.252
+frigg.intra 10800 IN A 192.168.137.243
+st30703.as 10800 IN A 193.40.241.216
+st30703.as 10800 IN HINFO "Pentium" "Windows95"
+ak213-13.class 10800 IN A 192.168.40.13
+elen1.ene 10800 IN A 193.40.249.103
+elen1.ene 10800 IN HINFO "Pentium-MMX/166" "Windows95"
+tehnoloogiakool 10800 IN CNAME virtuals1
+vb201-5.mh 1200 IN A 192.168.105.36
+lab-10-10-10-165.tud 3600 IN A 10.10.10.165
+spare-28 10800 IN A 193.40.255.28
+eipa173.eipa 10800 IN A 193.40.250.173
+st30702.ms 10800 IN A 193.40.241.207
+st30702.ms 10800 IN HINFO "Duron 800" "Win2K"
+suvaline.ep 10800 IN A 193.40.252.204
+suvaline.ep 10800 IN HINFO "PentiumIII/600" "Windows98"
+MH201-03.mh 1200 IN A 192.168.105.36
+ak401-3.ld 10800 IN A 193.40.244.108
+ak401-3.ld 10800 IN HINFO "PC" "Win"
+autodiscover.student 10800 IN CNAME autodiscover.outlook.com.
+random.cc 10800 IN A 193.40.254.233
+random.cc 10800 IN HINFO "Sun SPARC 1" "SunOS 5.3"
+yld.cg 10800 IN A 193.40.252.243
+yld.cg 10800 IN HINFO "Pentium100" "Win95"
+dyne.cc 10800 IN A 193.40.254.53
+dyne.cc 10800 IN HINFO "PC/486DX4" "Win95"
+sektor 10800 IN A 193.40.244.68
+spare-223 10800 IN A 193.40.255.223
+spare-30 10800 IN A 193.40.255.30
+tuba223.km 10800 IN A 193.40.253.103
+eipa178.eipa 10800 IN A 193.40.250.178
+lab-10-10-10-22.tud 3600 IN A 10.10.10.22
+itun 10800 IN CNAME www
+MH414-01.mh 1200 IN A 192.168.1.3
+_gc._tcp.mh 600 IN SRV 0 100 3268 mhserver.mh
+600 IN SRV 0 100 3268 mhserver2.mh
+MHT03.mh 1200 IN A 192.168.105.126
+193-40-242-147.vi 3600 IN A 193.40.242.147
+cs05s.intra 10800 IN A 192.168.133.155
+kass.p 3600 IN A 193.40.253.240
+kass.p 3600 IN HINFO "Pentium" "Windows95"
+reink.kk 10800 IN A 193.40.253.115
+reink.kk 10800 IN HINFO "486DX" "Windows98"
+st30704.as 10800 IN A 193.40.241.217
+st30704.as 10800 IN HINFO "Pentium" "Windows95"
+gensi7.li 10800 IN A 193.40.244.106
+gensi7.li 10800 IN HINFO "PC/486DX66" "Windows95"
+sekr.kk 10800 IN A 193.40.253.217
+sekr.kk 10800 IN HINFO "Pentium120" "Win95"
+enedhcp5.ene 10800 IN A 193.40.249.228
+suvaline.me 10800 IN A 193.40.245.63
+suvaline.me 10800 IN HINFO "PentiumIII" "Win2K"
+www.jasna 10800 IN CNAME gurney.cc
+eipa184.eipa 10800 IN A 193.40.250.184
+lab-10-10-10-72.tud 3600 IN A 10.10.10.72
+lab-10-10-10-98.tud 3600 IN A 10.10.10.98
+st30703.ms 10800 IN A 193.40.241.216
+st30703.ms 10800 IN HINFO "P100" "Win95"
+lab-10-10-10-172.tud 3600 IN A 10.10.10.172
+ak401-4.ld 10800 IN A 193.40.244.109
+ak401-4.ld 10800 IN HINFO "PC" "Win"
+st20101.ms 10800 IN A 193.40.241.194
+st20101.ms 10800 IN HINFO "PII 400" "Win98"
+portal.sarghaua 10800 IN A 213.168.15.122
+fullmoon.roke 3600 IN A 193.40.243.4
+mare.ct 10800 IN A 193.40.252.223
+mare.ct 10800 IN HINFO "Pentium" "Windows95"
+apea.dcc 43200 IN A 193.40.240.3
+ecosoc7.tv 3600 IN A 192.168.254.30
+www.apollos 10800 IN CNAME apollos
+eipa190.eipa 10800 IN A 193.40.250.190
+c1.class 10800 IN A 193.40.254.1
+c20.class 10800 IN A 193.40.254.20
+anvil.me 10800 IN A 193.40.245.53
+anvil.me 10800 IN HINFO "IBM-PC" "Win95"
+tuic 10800 IN A 193.40.252.231
+mp42.mp 10800 IN A 193.40.245.150
+DeepThought 10800 IN A 193.40.254.243
+DeepThought 10800 IN MX 10 sa
+10800 IN MX 10 sa2
+lab-10-10-10-232.tud 3600 IN A 10.10.10.232
+news.ld 10800 IN A 193.40.244.101
+news.ld 10800 IN HINFO "PC" "Win"
+dekaan.hum 10800 IN A 193.40.253.38
+dekaan.hum 10800 IN HINFO "486DX" "Windows95"
+MHT04.mh 1200 IN A 192.168.105.10
+193-40-242-148.vi 3600 IN A 193.40.242.148
+comp1.tkk 3600 IN A 193.40.242.77
+comp1.tkk 3600 IN HINFO "Pentium/166" "Win95"
+idla.kk 10800 IN A 193.40.253.174
+idla.kk 10800 IN HINFO "Pentium400" "Win98"
+st30705.as 10800 IN A 193.40.241.214
+st30705.as 10800 IN HINFO "Pentium" "WindowsNT"
+protobios 10800 IN A 193.40.242.119
+lab-10-10-10-198.tud 3600 IN A 10.10.10.198
+a10.ee 10800 IN A 193.40.252.92
+a10.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+eipa205.eipa 10800 IN A 193.40.250.205
+lab-10-10-10-4.tud 3600 IN A 10.10.10.4
+marek.h 10800 IN A 193.40.245.207
+marek.h 10800 IN HINFO "PentiumIII" "Win2K"
+ak141-4.ld 10800 IN A 193.40.244.156
+ak141-4.ld 10800 IN HINFO "PC" "Win95"
+kirchhoff.ene 10800 IN A 193.40.249.131
+st30704.ms 10800 IN A 193.40.241.217
+st30704.ms 10800 IN HINFO "P120" "Win95"
+ak401-5.ld 10800 IN A 193.40.244.110
+ak401-5.ld 10800 IN HINFO "PC" "Win"
+meeskoor 10800 IN CNAME deepzone2
+elen-126.ene 10800 IN A 193.40.249.126
+lingo.li 10800 IN A 193.40.254.199
+lingo.li 10800 IN HINFO "PC/386" "Linux"
+polymeer-gw 10800 IN A 193.40.254.35
+eipa211.eipa 10800 IN A 193.40.250.211
+ak213-98.class 10800 IN A 192.168.40.98
+mepc14.me 10800 IN A 193.40.245.25
+mepc14.me 10800 IN HINFO "PentiumIII" "WinNT"
+comp36.tkk 3600 IN A 193.40.242.112
+lab-10-10-10-30.tud 3600 IN A 10.10.10.30
+spare-229 10800 IN A 193.40.255.229
+liisi.ld 10800 IN A 193.40.244.91
+liisi.ld 10800 IN HINFO "PC" "Win"
+c213-29.cc 10800 IN A 193.40.254.29
+c213-29.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+lab-10-10-10-10.tud 3600 IN A 10.10.10.10
+193-40-242-149.vi 3600 IN A 193.40.242.149
+_ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones.mh 600 IN SRV 0 100 389 mhserver.mh
+600 IN SRV 0 100 389 mhserver2.mh
+_ldap._tcp.mh 600 IN SRV 0 100 389 mhserver.mh
+600 IN SRV 0 100 389 mhserver2.mh
+lab-10-10-10-109.tud 3600 IN A 10.10.10.109
+eipa216.eipa 10800 IN A 193.40.250.216
+riinas.hum 10800 IN A 193.40.250.225
+finantsaju 10800 IN A 92.62.98.5
+a11.ee 10800 IN A 193.40.252.93
+a11.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+ak213-72.class 10800 IN A 192.168.40.72
+pv-color3.intra 10800 IN A 192.168.134.233
+st30705.ms 10800 IN A 193.40.241.214
+st30705.ms 10800 IN HINFO "PII 350" "WinNT"
+jaanus.cb 10800 IN A 193.40.254.75
+jaanus.cb 10800 IN HINFO "Pentium" "Win98"
+lab-10-10-10-59.tud 3600 IN A 10.10.10.59
+ak401-6.ld 10800 IN A 193.40.244.111
+ak401-6.ld 10800 IN HINFO "PC" "Win"
+lab-10-10-10-101.tud 3600 IN A 10.10.10.101
+lambert.yf 3600 IN A 193.40.252.184
+lambert.yf 3600 IN HINFO "PentiumII" "Windows98"
+countzero.yg 3600 IN A 193.40.252.32
+countzero.yg 3600 IN HINFO "Pentium" "WindowsNT"
+kala.me 10800 IN A 193.40.245.57
+kala.me 10800 IN HINFO "Pentium/133" "WindowsNT WS"
+eipa222.eipa 10800 IN A 193.40.250.222
+lab-10-10-10-7.tud 3600 IN A 10.10.10.7
+www.vilistlaskogu 10800 IN CNAME www
+lab-10-10-10-17.tud 3600 IN A 10.10.10.17
+ak213-45.class 10800 IN A 192.168.40.45
+marge.p 3600 IN A 193.40.252.189
+marge.p 3600 IN HINFO "Pentium/100" "Windows95"
+fmtdk 10800 IN CNAME saruman
+elis-gw0.va 3600 IN A 193.40.247.247
+p4-5.tud 3600 IN A 192.168.16.5
+aesrever2.ene 10800 IN A 193.40.249.98
+MHT06.mh 1200 IN A 192.168.151.31
+triin.ct 10800 IN A 193.40.252.214
+triin.ct 10800 IN HINFO "Pentium" "Windows95"
+ak213-108.class 10800 IN A 192.168.40.108
+lab-10-10-10-219.tud 3600 IN A 10.10.10.219
+ns2.msi 43200 IN A 193.40.254.151
+pv_bw1.intra 10800 IN A 192.168.134.237
+elsys5.ene 10800 IN A 193.40.249.110
+elsys5.ene 10800 IN HINFO "PentiumIII/450" "Windows98"
+ak213-18.class 10800 IN A 192.168.40.18
+toit.kt 10800 IN A 193.40.253.235
+toit.kt 10800 IN HINFO "IBM" "Windows98"
+sertasutus 10800 IN CNAME www
+cs10.cs 10800 IN A 193.40.252.90
+mitac.cm 10800 IN A 193.40.252.171
+mitac.cm 10800 IN HINFO "486SX/33" "Win95"
+enedhcp46.ene 10800 IN A 193.40.249.223
+www.chem 10800 IN A 193.40.253.96
+www.chem 10800 IN MX 10 newton.yk
+jane.ld 10800 IN A 193.40.244.71
+jane.ld 10800 IN HINFO "PC" "Win95B"
+st30706.ms 10800 IN A 193.40.241.225
+st30706.ms 10800 IN HINFO "P200" "Win95"
+www.egdk 10800 IN CNAME ene.ene
+ak401-7.ld 10800 IN A 193.40.244.112
+ak401-7.ld 10800 IN HINFO "PC" "Win"
+astile.la 10800 IN A 193.40.252.46
+astile.la 10800 IN HINFO "PC/286" "MSDOS 5.0"
+mp20.mp 10800 IN A 193.40.245.180
+mp20.mp 10800 IN HINFO "i486" "Windows95"
+a5.ee 10800 IN A 193.40.252.87
+a5.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+eipa200.eipa 10800 IN A 193.40.250.200
+tiia.ka 10800 IN A 193.40.253.116
+tiia.ka 10800 IN HINFO "486DX2" "MS-DOS"
+elen-114.ene 10800 IN A 193.40.249.114
+ttuniver.h 10800 IN A 193.40.253.34
+ttuniver.h 10800 IN HINFO "486DX2/66" "Win95"
+urmi 10800 IN A 193.40.253.17
+urmi 10800 IN HINFO "PentiumMMX/166" "Win95"
+vb201-7.mh 1200 IN A 192.168.105.9
+deepzone0 10800 IN A 193.40.254.243
+deepzone1 10800 IN A 193.40.254.220
+deepzone2 10800 IN A 193.40.254.223
+ak213-1.class 10800 IN A 192.168.40.1
+aet.ct 10800 IN A 193.40.252.218
+aet.ct 10800 IN HINFO "Pentium" "Windows95"
+MHT07.mh 1200 IN A 192.168.105.124
+comp24.tkk 3600 IN A 193.40.242.100
+comp24.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+arenguvestlus 10800 IN CNAME virtuals2
+ak213-84.class 10800 IN A 192.168.40.84
+vvk12.vvk 3600 IN A 193.40.242.169
+spare-236 10800 IN A 193.40.255.236
+eipa189.eipa 10800 IN A 193.40.250.189
+mattech.mt 10800 IN A 193.40.245.219
+mattech.mt 10800 IN HINFO "PentiumIV" "WinXP"
+maefiles.ene 10800 IN A 193.40.249.160
+enedhcp1.ene 10800 IN A 193.40.249.224
+cs11.cs 10800 IN A 193.40.252.91
+ras-pea.la 10800 IN A 193.40.252.116
+ras-pea.la 10800 IN HINFO "Pentium166" "WinNT"
+ak213-80.class 10800 IN A 192.168.40.80
+tls 3600 IN CNAME www
+infolett.p 3600 IN A 193.40.253.90
+infolett.p 3600 IN HINFO "PentiumII/400" "Windows98"
+ak401-8.ld 10800 IN A 193.40.244.113
+ak401-8.ld 10800 IN HINFO "PC" "Win"
+ak112-13.ld 10800 IN A 193.40.244.175
+ak112-13.ld 10800 IN HINFO "PC" "Win"
+email 10800 IN A 193.40.254.62
+eldis2.le 10800 IN A 193.40.252.110
+eldis2.le 10800 IN HINFO "PC" "MS-DOS"
+lab-10-10-10-47.tud 3600 IN A 10.10.10.47
+mart.roke 3600 IN A 193.40.243.1
+kadakas.h 10800 IN A 193.40.245.211
+kadakas.h 10800 IN HINFO "iMac" "MacOS9"
+cs04i.intra 10800 IN A 192.168.133.184
+amper.yf 3600 IN A 193.40.252.201
+lab-10-10-10-147.tud 3600 IN A 10.10.10.147
+aiesec6.aiesec 10800 IN A 193.40.241.165
+aiesec6.aiesec 10800 IN HINFO "k62450" "Windows98"
+granite.ene 10800 IN A 193.40.249.167
+lab-10-10-10-110.tud 3600 IN A 10.10.10.110
+eipa206.eipa 10800 IN A 193.40.250.206
+c6.class 10800 IN A 193.40.254.6
+c25.class 10800 IN A 193.40.254.25
+gece-20.et 10800 IN A 193.40.244.54
+gece-20.et 10800 IN HINFO "Pentium100" "Win95"
+sinaotsustad 10800 IN CNAME virtuals2
+193-40-242-153.vi 3600 IN A 193.40.242.153
+isildur.tud 3600 IN A 193.40.254.161
+lab-10-10-10-97.tud 3600 IN A 10.10.10.97
+www.bchs10 10800 IN CNAME deepzone2
+udras.h 10800 IN A 193.40.243.14
+udras.h 10800 IN HINFO "PentiumII/350" "Windows98"
+ben.cc 10800 IN A 193.40.254.36
+ben.cc 10800 IN HINFO "PC/386" "Win3.1"
+ems.ene 10800 IN A 193.40.249.165
+euchem2014 10800 IN CNAME deepzone2
+pt-color1.intra 10800 IN A 192.168.134.244
+kete.kt 10800 IN A 193.40.253.114
+kete.kt 10800 IN HINFO "PC/486DX" "Win95"
+www.biotech 10800 IN CNAME www.bioorg
+cs12.cs 10800 IN A 193.40.252.92
+hanno.kk 10800 IN A 193.40.253.142
+hanno.kk 10800 IN HINFO "PC486" "Win95"
+cuatro.tkk 3600 IN A 193.40.242.68
+lab-10-10-10-67.tud 3600 IN A 10.10.10.67
+V-234-laevandus.intra 10800 IN A 192.168.158.230
+start.test 10800 IN CNAME ghs.GOOGLE.com.
+enedhcp34.ene 10800 IN A 193.40.249.211
+ak401-9.ld 10800 IN A 193.40.244.114
+ak401-9.ld 10800 IN HINFO "PC" "Win"
+anne.p 3600 IN A 193.40.253.128
+anne.p 3600 IN HINFO "PentiumMMX/166" "Win95"
+ella.h 10800 IN A 193.40.245.216
+ella.h 10800 IN HINFO "Pentium" "WindowsNT"
+piret.l 10800 IN A 193.40.253.54
+piret.l 10800 IN HINFO "Pentium" "Windows95"
+spare-241 10800 IN A 193.40.255.241
+emalaev.roke 3600 IN A 193.40.243.6
+turing.tud 3600 IN A 192.168.19.253
+haldus.h 10800 IN A 193.40.245.221
+haldus.h 10800 IN HINFO "Pentium/450" "Windows98"
+ma23201.ma 10800 IN A 193.40.241.221
+ma23201.ma 10800 IN HINFO "Pentium" "Win95"
+ADLDS1.intra 10800 IN A 192.168.133.225
+elen-102.ene 10800 IN A 193.40.249.102
+eipa116.eipa 10800 IN A 193.40.250.116
+helpdesk 10800 IN CNAME portal
+lab-10-10-10-160.tud 3600 IN A 10.10.10.160
+st21201.ms 10800 IN A 193.40.241.204
+st21201.ms 10800 IN HINFO "486DX2" "Win95"
+193-40-242-154.vi 3600 IN A 193.40.242.154
+xtee 10800 IN A 193.40.242.125
+elen-119.ene 10800 IN A 193.40.249.119
+comp12.tkk 3600 IN A 193.40.242.88
+comp12.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+lab-10-10-10-167.tud 3600 IN A 10.10.10.167
+tipikastv 10800 IN A 193.40.244.215
+cs13.cs 10800 IN A 193.40.252.93
+tricia.cc 10800 IN A 193.40.254.37
+tricia.cc 10800 IN HINFO "Pentium" "Windows95"
+ak213-77.class 10800 IN A 192.168.40.77
+andres.km 10800 IN A 193.40.253.107
+andres.km 10800 IN HINFO "386DX" "MS-DOS"
+astixa.la 10800 IN A 193.40.252.57
+astixa.la 10800 IN HINFO "Pentium" "Win95"
+tarmo.cb 10800 IN A 193.40.254.83
+lentz.ene 10800 IN A 193.40.249.135
+wbsq 10800 IN CNAME DeepZone2
+kristina.h 10800 IN A 193.40.245.229
+lab-10-10-10-35.tud 3600 IN A 10.10.10.35
+eve.p 3600 IN A 193.40.252.191
+eve.p 3600 IN HINFO "Pentium" "Windows95"
+orion1.mt 10800 IN A 193.40.245.79
+orion1.mt 10800 IN HINFO "PC/486" "Win95"
+vvk13.vvk 3600 IN A 193.40.242.168
+ak213-51.class 10800 IN A 192.168.40.51
+lab-10-10-10-135.tud 3600 IN A 10.10.10.135
+tunnip.p 3600 IN A 193.40.253.155
+tunnip.p 3600 IN HINFO "Celeron/700" "Win98"
+cadfael.ene 10800 IN A 193.40.249.153
+dellserv.ld 10800 IN A 193.40.244.98
+spare-190 10800 IN A 193.40.255.190
+www.keskkond 10800 IN CNAME deepzone2
+193-40-242-155.vi 3600 IN A 193.40.242.155
+rina.mt 10800 IN A 193.40.245.87
+rina.mt 10800 IN HINFO "PentiumIIMMX" "Windows98"
+eipa97.eipa 10800 IN A 193.40.250.97
+telnet.tud 3600 IN CNAME bilbo.tud
+ak213-114.class 10800 IN A 192.168.40.114
+lab-10-10-10-85.tud 3600 IN A 10.10.10.85
+vana 10800 IN CNAME saruman
+cs14.cs 10800 IN A 193.40.252.94
+lab-10-10-10-185.tud 3600 IN A 10.10.10.185
+ak213-24.class 10800 IN A 192.168.40.24
+ftp.math 10800 IN CNAME acer.ym
+esindus5.tdng 3600 IN A 193.40.253.21
+esindus5.tdng 3600 IN HINFO "Pentium200" "WinNT"
+astixb.la 10800 IN A 193.40.252.58
+astixb.la 10800 IN HINFO "Pentium" "Win95"
+printer1.intra 10800 IN A 192.168.133.239
+venus.ttu 10800 IN A 192.168.115.252
+marju.h 10800 IN A 193.40.253.149
+marju.h 10800 IN HINFO "Pentium75" "Win95"
+spare-53 10800 IN A 193.40.255.53
+sulev 10800 IN A 192.168.137.1
+reetaa.kk 10800 IN A 193.40.253.194
+reetaa.kk 10800 IN HINFO "Celeron" "Windows98"
+enedhcp22.ene 10800 IN A 193.40.249.245
+mepc12.me 10800 IN A 193.40.245.23
+mepc12.me 10800 IN HINFO "PentiumIII" "WinNT"
+ns4300n 10800 IN A 193.40.254.236
+ak213-130.class 10800 IN A 192.168.40.130
+susan.cc 10800 IN A 193.40.254.162
+tehnoloogiamess 10800 IN CNAME deepzone0
+tilaptop.kt 10800 IN A 193.40.253.39
+tilaptop.kt 10800 IN HINFO "PC" "WinXP"
+meheope 10800 IN A 193.40.242.96
+V-307-yld-alus.intra 10800 IN A 192.168.158.229
+spare-54 10800 IN A 193.40.255.54
+comp3.tkk 3600 IN A 193.40.242.79
+comp3.tkk 3600 IN HINFO "Pentium/166" "Win95"
+ylle.p 3600 IN A 193.40.253.140
+ylle.p 3600 IN HINFO "386" "MS-DOS"
+193-40-242-156.vi 3600 IN A 193.40.242.156
+erikj.me 10800 IN A 193.40.245.212
+erikj.me 10800 IN HINFO "PentiumIV" "WinXP"
+leo.li 10800 IN A 193.40.244.98
+leo.li 10800 IN HINFO "PC/486 Notebook" "Windows95"
+elen2.ene 10800 IN A 193.40.249.104
+elen2.ene 10800 IN HINFO "PentiumIII/800" "Win2K"
+mentos.me 10800 IN A 193.40.245.149
+mentos.me 10800 IN HINFO "AMD" "Win2K"
+sunfish 10800 IN A 193.40.254.91
+lab-10-10-10-202.tud 3600 IN A 10.10.10.202
+mikkeli.ct 10800 IN A 193.40.252.213
+mikkeli.ct 10800 IN HINFO "Pentium/133" "Windows95"
+vogon.cc 10800 IN A 193.40.254.165
+vogon.cc 10800 IN HINFO "Pentium/100" "WindowsNT"
+mail.parsek.yf 3600 IN A 193.40.252.163
+www.americanspace 10800 IN CNAME americanspace
+eipa14.eipa 10800 IN A 193.40.250.14
+astixc.la 10800 IN A 193.40.252.59
+astixc.la 10800 IN HINFO "Pentium" "Win95"
+googleffffffff8acc7d81.test 10800 IN CNAME GOOGLE.com.
+dhcp-193-40-254-130.cc 10800 IN A 193.40.254.130
+americanspace 10800 IN A 217.146.69.24
+edux 10800 IN A 193.40.254.89
+_kpasswd._tcp.mh 600 IN SRV 0 100 464 mhserver.mh
+600 IN SRV 0 100 464 mhserver2.mh
+gurney.cc 10800 IN CNAME go
+LDAP 10800 IN CNAME ldap1
+eipa20.eipa 10800 IN A 193.40.250.20
+audio.sv 3600 IN A 193.40.252.10
+audio.sv 3600 IN HINFO "Pentium" "Windows98"
+ak213-40.class 10800 IN A 192.168.40.40
+lab-10-10-10-23.tud 3600 IN A 10.10.10.23
+ct-color1.intra 10800 IN A 192.168.134.248
+elo.ct 10800 IN A 193.40.252.225
+elo.ct 10800 IN HINFO "Pentium" "Windows95"
+uno.kk 10800 IN A 193.40.253.131
+uno.kk 10800 IN HINFO "PentiumIV" "Win98"
+apollos 10800 IN A 193.40.254.143
+apollos 10800 IN HINFO "Pentium Pro/200" "Linux"
+193-40-242-157.vi 3600 IN A 193.40.242.157
+c31.class 10800 IN A 193.40.254.31
+ak213-46.class 10800 IN A 192.168.40.46
+barn.yf 3600 IN A 193.40.252.164
+barn.yf 3600 IN HINFO "PentiumII" "Windows98"
+enedhcp6.ene 10800 IN A 193.40.249.229
+cb 10800 IN MX 10 mail.cb
+sisekontroll.h 10800 IN A 193.40.245.203
+helena.li 10800 IN A 193.40.254.106
+jalka 10800 IN CNAME gurney.cc
+eipa25.eipa 10800 IN A 193.40.250.25
+ennlinux 10800 IN A 193.40.242.91
+lab-10-10-10-73.tud 3600 IN A 10.10.10.73
+maire.ek 10800 IN A 193.40.253.66
+maire.ek 10800 IN HINFO "PC/386" "MSDOS 6.2"
+lab-10-10-10-103.tud 3600 IN A 10.10.10.103
+astixd.la 10800 IN A 193.40.252.60
+astixd.la 10800 IN HINFO "Pentium" "Win95"
+msoid.proov 10800 IN CNAME clientconfig.microsoftonline-p.net.
+eipa201.eipa 10800 IN A 193.40.250.201
+dhcp-193-40-254-131.cc 10800 IN A 193.40.254.131
+lab-10-10-10-173.tud 3600 IN A 10.10.10.173
+st20201.as 10800 IN A 193.40.241.193
+st20201.as 10800 IN HINFO "PC" "Win95"
+gece-1.et 10800 IN A 193.40.244.34
+gece-1.et 10800 IN HINFO "Pentium100" "Win95"
+comp30.tkk 3600 IN A 193.40.242.106
+comp30.tkk 3600 IN HINFO "Pentium" "Windows95"
+keev.rekt 3600 IN A 193.40.253.154
+keev.rekt 3600 IN HINFO "Pentium/410" "Windows98"
+lab-10-10-10-20.tud 3600 IN A 10.10.10.20
+www.eiba2008 10800 IN CNAME deepzone1
+ce-old 10800 IN A 193.40.252.252
+lumi.opto 3600 IN A 193.40.245.107
+eipa2.eipa 10800 IN A 193.40.250.2
+eipa31.eipa 10800 IN A 193.40.250.31
+lab-10-10-10-131.tud 3600 IN A 10.10.10.131
+spare-60 10800 IN A 193.40.255.60
+eipa84.eipa 10800 IN A 193.40.250.84
+hedvi.h 10800 IN A 193.40.253.42
+hedvi.h 10800 IN HINFO "PentiumIII" "Win2K"
+sekretar.ka 10800 IN A 193.40.253.133
+sekretar.ka 10800 IN HINFO "Pentium" "Windows95"
+enedhcp37.ene 10800 IN A 193.40.249.214
+kirka.ene 10800 IN A 193.40.249.181
+lab-10-10-10-233.tud 3600 IN A 10.10.10.233
+st20701.as 10800 IN A 193.40.241.215
+st20701.as 10800 IN HINFO "Pentium" "Windows95"
+cindyrella.km 10800 IN A 193.40.253.231
+cindyrella.km 10800 IN HINFO "PentiumII/300" "Win98"
+arenduskeskus.ene 10800 IN A 193.40.249.68
+arenduskeskus.ene 10800 IN HINFO "486DLC40" "Windows 3.11"
+193-40-242-158.vi 3600 IN A 193.40.242.158
+nusw2.yg 3600 IN A 193.40.252.249
+nusw2.yg 3600 IN HINFO "NuSwitch FE-224C" "V1"
+eipa7.eipa 10800 IN A 193.40.250.7
+eipa36.eipa 10800 IN A 193.40.250.36
+meas1.me 10800 IN A 193.40.245.43
+meas1.me 10800 IN HINFO "PentiumPro/200" "WindowsNT WS"
+lab-10-10-10-120.tud 3600 IN A 10.10.10.120
+pp-color1.intra 10800 IN A 192.168.134.215
+spare-186 10800 IN A 193.40.255.186
+ak213-26.class 10800 IN A 192.168.40.26
+www2.humanitaar 10800 IN CNAME deepzone0
+st21301.as 10800 IN A 193.40.241.208
+st21301.as 10800 IN HINFO "Pentium" "Windows95"
+dhcp-193-40-254-132.cc 10800 IN A 193.40.254.132
+ak213-83.class 10800 IN A 192.168.40.83
+gece-2.et 10800 IN A 193.40.244.35
+gece-2.et 10800 IN HINFO "Pentium100" "Win95"
+l31102.aiesec 10800 IN A 193.40.241.153
+l31102.aiesec 10800 IN HINFO "LT" "Windows98"
+elen-127.ene 10800 IN A 193.40.249.127
+eipa42.eipa 10800 IN A 193.40.250.42
+herts.yf 3600 IN A 193.40.252.166
+herts.yf 3600 IN HINFO "Pentium" "Windows95"
+acer.ym 3600 IN A 193.40.245.192
+acer.ym 3600 IN HINFO "Pentium/120" "Windows95"
+mini.li 10800 IN A 193.40.246.134
+mini.li 10800 IN HINFO "PC/386" "MS-DOS"
+mini.li 10800 IN MX 10 wall
+virtual 10800 IN A 193.40.254.186
+st20201.ms 10800 IN A 193.40.241.193
+st20201.ms 10800 IN HINFO "PII 400" "Win98"
+comp37.tkk 3600 IN A 193.40.242.113
+gece-21.et 10800 IN A 193.40.244.55
+gece-21.et 10800 IN HINFO "Pentium100" "Win95"
+ak213-56.class 10800 IN A 192.168.40.56
+comp27.tkk 3600 IN A 193.40.242.103
+comp27.tkk 3600 IN HINFO "Pentium" "Windows95"
+lab-10-10-10-1.tud 3600 IN A 10.10.10.1
+lab-10-10-10-11.tud 3600 IN A 10.10.10.11
+193-40-242-159.vi 3600 IN A 193.40.242.159
+eipa47.eipa 10800 IN A 193.40.250.47
+lab-10-10-10-111.tud 3600 IN A 10.10.10.111
+leo.h 10800 IN A 193.40.253.145
+leo.h 10800 IN HINFO "Pentium100" "Win95"
+fott.yf 3600 IN A 193.40.252.177
+fott.yf 3600 IN HINFO "486" "Windows95"
+frankie.cc 10800 IN A 193.40.254.198
+frankie.cc 10800 IN HINFO "SS20" "Solaris 2.4"
+omega.cc 10800 IN A 193.40.254.33
+omega.cc 10800 IN HINFO "PC/286" "MS-DOS"
+ak213-120.class 10800 IN A 192.168.40.120
+design.me 10800 IN A 193.40.245.73
+ecovir2.tv 3600 IN A 10.0.0.7
+em 10800 IN A 193.40.245.159
+em 10800 IN HINFO "PentiumIV" "Win2K"
+MH067.mh 1200 IN A 193.40.255.32
+static 10800 IN A 193.40.254.222
+live 10800 IN MX 10 991736958.mail.outlook.com.
+live 10800 IN TXT "v=spf1 include:outlook.com -all"
+valdek.ka 10800 IN A 193.40.253.126
+valdek.ka 10800 IN HINFO "Pentium" "Windows95"
+deutsch.cl 10800 IN A 193.40.252.206
+deutsch.cl 10800 IN HINFO "Pentium/100" "Windows95"
+ak213-30.class 10800 IN A 192.168.40.30
+best3 10800 IN A 193.40.242.188
+best4 10800 IN A 193.40.242.180
+gece-3.et 10800 IN A 193.40.244.36
+gece-3.et 10800 IN HINFO "Pentium100" "Win95"
+eipa53.eipa 10800 IN A 193.40.250.53
+aragorn.cc 10800 IN A 193.40.254.231
+aragorn.cc 10800 IN HINFO "PentiumII" "WinNT"
+lab-10-10-10-161.tud 3600 IN A 10.10.10.161
+www.katsekoda 10800 IN CNAME deepzone0
+st21301.ms 10800 IN A 193.40.241.208
+st21301.ms 10800 IN HINFO "P166" "Win95"
+lab-10-10-10-208.tud 3600 IN A 10.10.10.208
+opaal.ld 10800 IN A 193.40.244.141
+opaal.ld 10800 IN HINFO "i486" "Win95"
+scenic.mt 10800 IN A 193.40.245.8
+scenic.mt 10800 IN HINFO "PentiumII/333" "WindowsNT4.0"
+gensi6.li 10800 IN A 193.40.244.105
+gensi6.li 10800 IN HINFO "PC/486DX66" "Windows95"
+p4-6.tud 3600 IN A 192.168.16.6
+karmen.a 10800 IN A 193.40.242.186
+karmen.a 10800 IN HINFO "PentiumMMX/166" "Win95"
+elen-96.ene 10800 IN A 193.40.249.96
+spare-66 10800 IN A 193.40.255.66
+eipa58.eipa 10800 IN A 193.40.250.58
+rimoni 10800 IN A 193.40.254.225
+193-40-242-161.vi 3600 IN A 193.40.242.161
+lab-10-10-10-221.tud 3600 IN A 10.10.10.221
+jyri.rekt 3600 IN A 193.40.253.186
+jyri.rekt 3600 IN HINFO "486DX" "Win95"
+lab-10-10-10-153.tud 3600 IN A 10.10.10.153
+green.em 10800 IN A 193.40.252.1
+green.em 10800 IN HINFO "Pentium" "Win95"
+kool 10800 IN CNAME virtuals2
+elsys6.ene 10800 IN A 193.40.249.113
+elsys6.ene 10800 IN HINFO "PentiumIII/500" "Windows98"
+anu.cl 10800 IN A 193.40.252.61
+anu.cl 10800 IN HINFO "Pentium/75" "Windows95"
+lab-10-10-10-70.tud 3600 IN A 10.10.10.70
+files.maastikuarhitektuur 10800 IN CNAME saruman
+eelope 10800 IN CNAME deepzone2
+anu.ct 10800 IN A 193.40.252.220
+anu.ct 10800 IN HINFO "Pentium" "Windows95"
+class210-8.li 10800 IN A 193.40.244.73
+class210-8.li 10800 IN HINFO "PC/486DX66" "Windows95"
+ivi.ct 10800 IN CNAME www.cce
+eipa64.eipa 10800 IN A 193.40.250.64
+dhcp-193-40-254-134.cc 10800 IN A 193.40.254.134
+innomet 10800 IN A 193.40.245.156
+toots.li 10800 IN A 193.40.254.100
+toots.li 10800 IN HINFO "Printer Server" "Printer Server Ver 5.4"
+po-bw2.intra 10800 IN A 192.168.134.218
+gece-4.et 10800 IN A 193.40.244.37
+gece-4.et 10800 IN HINFO "Pentium100" "Win95"
+astime.la 10800 IN A 193.40.252.47
+mera2.me 10800 IN A 193.40.245.96
+mera2.me 10800 IN HINFO "Pentium100" "WinNT"
+anto.h 10800 IN A 193.40.245.210
+anto.h 10800 IN HINFO "Pentium/100" "Windows98"
+lyncdiscoverinternal.intra 10800 IN CNAME webdir.online.lync.com.
+wiki 10800 IN CNAME portal
+www.aom 10800 IN CNAME deepzone2
+r820 10800 IN A 193.40.244.123
+st21302.ms 10800 IN A 193.40.241.220
+st21302.ms 10800 IN HINFO "Celeron 333" "Win98"
+gitweb.ati 10800 IN CNAME ati
+yz6w2noev6nwi627lek7gpx4hrjo72rg._domainkey 10800 IN CNAME yz6w2noev6nwi627lek7gpx4hrjo72rg.dkim.amazonses.com.
+kalavanasana.ene 10800 IN A 193.40.249.156
+cs04s.intra 10800 IN A 192.168.133.154
+matti.li 10800 IN A 193.40.254.209
+matti.li 10800 IN HINFO "PC/486DX66" "Windows95"
+eipa69.eipa 10800 IN A 193.40.250.69
+loghost.cc 10800 IN CNAME sauron
+astra.cc 10800 IN A 193.40.254.60
+astra.cc 10800 IN HINFO "Pentium/75" "Win95"
+onyx.opto 10800 IN CNAME onyx
+meas6.me 10800 IN A 193.40.245.37
+meas6.me 10800 IN HINFO "Pentium133" "WinNT WS"
+tanel.kt 10800 IN A 193.40.253.64
+tanel.kt 10800 IN HINFO "PentiumMMX/166" "Win95"
+starfish 10800 IN A 193.40.254.90
+www.kammerkoor 10800 IN CNAME deepzone2
+www.ati 10800 IN CNAME ati
+meas4.me 10800 IN A 193.40.245.35
+meas4.me 10800 IN HINFO "Pentium133" "WinNT WS"
+torr.yf 3600 IN A 193.40.252.176
+torr.yf 3600 IN HINFO "486" "Windows95"
+linnalaager 10800 IN CNAME virtuals1
+www.cce 10800 IN A 193.40.252.210
+www.cce 10800 IN HINFO "Pentium/133" "Linux"
+eipa75.eipa 10800 IN A 193.40.250.75
+agnus.h 10800 IN A 193.40.245.117
+agnus.h 10800 IN HINFO "Pentium" "Windows95"
+douglas.me 10800 IN A 193.40.245.245
+tuuslar 10800 IN A 192.168.137.4
+dhcp-193-40-254-135.cc 10800 IN A 193.40.254.135
+olavi.su 3600 IN A 193.40.243.13
+olavi.su 3600 IN HINFO "PC/486DX" "Win95"
+biotech 10800 IN A 193.40.253.170
+biotech 10800 IN MX 1 aspmx.l.google.com.
+10800 IN MX 5 alt1.aspmx.l.google.com.
+10800 IN MX 5 alt2.aspmx.l.google.com.
+10800 IN MX 10 aspmx2.googlemail.com.
+10800 IN MX 10 aspmx3.googlemail.com.
+gece-5.et 10800 IN A 193.40.244.38
+gece-5.et 10800 IN HINFO "Pentium100" "Win95"
+ville.mo 10800 IN A 193.40.245.129
+ville.mo 10800 IN HINFO "HP 715/64" "UNIX"
+mera3.me 10800 IN A 193.40.245.97
+mera3.me 10800 IN HINFO "Pentium100" "WinNT"
+ph-bw1.intra 10800 IN A 193.40.245.206
+eipa100.eipa 10800 IN A 193.40.250.100
+c10.class 10800 IN A 193.40.254.10
+legolas.tud 3600 IN A 193.40.254.94
+mail.tm 3600 IN MX 10 mail.cb
+lab-10-10-10-148.tud 3600 IN A 10.10.10.148
+eipa81.eipa 10800 IN A 193.40.250.81
+lab-10-10-10-29.tud 3600 IN A 10.10.10.29
+tooandjateuuring 10800 IN CNAME gurney.cc
+wifi 10800 IN A 193.40.244.196
+pea.em 10800 IN A 193.40.253.67
+pea.em 10800 IN HINFO "PC/386" "MSDOS 5.0"
+eipa105.eipa 10800 IN A 193.40.250.105
+spektro.me 10800 IN A 193.40.245.64
+spektro.me 10800 IN HINFO "AMD600" "Win98"
+lab-10-10-10-190.tud 3600 IN A 10.10.10.190
+lab-10-10-10-94.tud 3600 IN A 10.10.10.94
+pc1.mo 10800 IN A 193.40.245.135
+pc1.mo 10800 IN HINFO "HP Vectra VL2 4/66" "MS-DOS"
+meas5.me 10800 IN A 193.40.245.36
+meas5.me 10800 IN HINFO "PentiumPro/200" "WinNT WS"
+best3.tdng 3600 IN A 193.40.253.223
+best3.tdng 3600 IN HINFO "Athlon" "Win2K"
+asti.cg 10800 IN A 193.40.252.158
+asti.cg 10800 IN HINFO "PentiumII" "Windows98"
+eipa86.eipa 10800 IN A 193.40.250.86
+lab-10-10-10-39.tud 3600 IN A 10.10.10.39
+www.finance 10800 IN CNAME majandus2
+fenchurch.cc 10800 IN HINFO "UltraSPARC 10" "Solaris 2.6"
+fenchurch.cc 10800 IN A 193.40.254.208
+hp160.me 10800 IN A 193.40.245.56
+hp160.me 10800 IN HINFO "HP" "HP-UX"
+dhcp-193-40-254-136.cc 10800 IN A 193.40.254.136
+ak213-9.class 10800 IN A 192.168.40.9
+enedhcp35.ene 10800 IN A 193.40.249.212
+gece-6.et 10800 IN A 193.40.244.39
+gece-6.et 10800 IN HINFO "Pentium100" "Win95"
+eipa111.eipa 10800 IN A 193.40.250.111
+oistest.va 3600 IN A 193.40.247.60
+mera4.me 10800 IN A 193.40.245.98
+mera4.me 10800 IN HINFO "5x86/100" "WinNT"
+TheBook 10800 IN A 193.40.254.215
+ak213-88.class 10800 IN A 192.168.40.88
+xeon.tud 3600 IN A 192.168.19.250
+astibe.la 10800 IN A 193.40.252.38
+astibe.la 10800 IN HINFO "PC486DX" "MSDOS 6.22"
+dhcp-193-40-254-138.cc 10800 IN A 193.40.254.138
+eipa202.eipa 10800 IN A 193.40.250.202
+eipa92.eipa 10800 IN A 193.40.250.92
+anti.km 10800 IN A 193.40.253.16
+anti.km 10800 IN HINFO "Celeron/333" "WindowsNT"
+comp5.tkk 3600 IN A 193.40.242.81
+comp5.tkk 3600 IN HINFO "Pentium/166" "Win95"
+erna.ene 10800 IN A 193.40.249.131
+erna.ene 10800 IN HINFO "Celeron633" "WindowsME"
+elen-103.ene 10800 IN A 193.40.249.103
+www.math 10800 IN CNAME acer.ym
+sauron 10800 IN A 193.40.254.8
+www.eac 10800 IN CNAME deepzone2
+kujundus.ene 10800 IN A 193.40.249.148
+teabe1.h 10800 IN A 193.40.253.150
+teabe1.h 10800 IN HINFO "PentiumIII" "Win98"
+ak213-62.class 10800 IN A 192.168.40.62
+teabe2.h 10800 IN A 193.40.253.151
+teabe2.h 10800 IN HINFO "PentiumIII" "Win98"
+lionheart.cc 10800 IN A 193.40.254.163
+lionheart.cc 10800 IN HINFO "PC/486DX2" "Windows95"
+comp13.tkk 3600 IN A 193.40.242.89
+comp13.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+zarquon.cc 10800 IN A 193.40.254.161
+zarquon.cc 10800 IN HINFO "PC/386SX" "MS-DOS"
+mihkel.ep 10800 IN A 193.40.252.193
+mihkel.ep 10800 IN HINFO "Pentium866" "Win98"
+kl 10800 IN CNAME deepzone0
+uraan.ene 10800 IN A 193.40.249.151
+teenus.sarghaua 10800 IN A 213.168.15.123
+ld 10800 IN MX 20 smtp
+ld 10800 IN A 193.40.244.190
+10800 IN A 193.40.254.144
+ld 10800 IN HINFO "PC/386" "Novell Netware 3.11"
+brenda.ld 10800 IN A 193.40.244.152
+brenda.ld 10800 IN HINFO "Pentium200MMX" "Win98SE"
+ak213-125.class 10800 IN A 192.168.40.125
+eipa122.eipa 10800 IN A 193.40.250.122
+dhcp-193-40-254-137.cc 10800 IN A 193.40.254.137
+gece-7.et 10800 IN A 193.40.244.41
+gece-7.et 10800 IN HINFO "Pentium100" "Win95"
+lyncdiscover.intra 10800 IN CNAME webdir.online.lync.com.
+mera5.me 10800 IN A 193.40.245.99
+mera5.me 10800 IN HINFO "Pentium133" "WinNT"
+ak213-35.class 10800 IN A 192.168.40.35
+MH312A.mh 1200 IN A 193.40.255.25
+MH312A.mh 1200 IN AAAA 2002:c128:ff19::c128:ff19
+mail.eipa 10800 IN A 62.65.193.36
+mail.eipa 10800 IN MX 10 mail.eipa
+giga.li 10800 IN A 193.40.254.202
+giga.li 10800 IN HINFO "PC/486DX" "Linux"
+soosaar.sti 3600 IN A 193.40.241.236
+lab-10-10-10-36.tud 3600 IN A 10.10.10.36
+lab-10-10-10-230.tud 3600 IN A 10.10.10.230
+enedhcp23.ene 10800 IN A 193.40.249.246
+vvk14.vvk 3600 IN A 193.40.242.167
+lab-10-10-10-136.tud 3600 IN A 10.10.10.136
+spare-189 10800 IN A 193.40.255.189
+eipa127.eipa 10800 IN A 193.40.250.127
+www.zerib 10800 IN CNAME deepzone0
+www.eik 10800 IN CNAME virtuals1
+www.eil 10800 IN CNAME virtuals1
+jenny.ld 10800 IN A 193.40.244.73
+jenny.ld 10800 IN HINFO "PentiumIII450" "Win98SE"
+www.fstudent 10800 IN CNAME virtuals1
+charon 10800 IN A 192.168.115.249
+meas7.me 10800 IN A 193.40.245.38
+meas7.me 10800 IN HINFO "486DX2" "WinNT WS"
+mera6.me 10800 IN A 193.40.245.33
+mera6.me 10800 IN HINFO "486DX2/66" "WinNT"
+lab-10-10-10-86.tud 3600 IN A 10.10.10.86
+peep2.kk 10800 IN A 193.40.253.229
+peep2.kk 10800 IN HINFO "486DX4" "Windows95"
+mh 10800 IN A 193.40.245.160
+mh 10800 IN AAAA 2002:c128:f5a0::c128:f5a0
+px-color1.intra 10800 IN A 192.168.134.240
+eipa133.eipa 10800 IN A 193.40.250.133
+peterburg.ene 10800 IN A 193.40.249.157
+www2.ti 3600 IN CNAME DeepZone2
+spare-80 10800 IN A 193.40.255.80
+www.ene 10800 IN CNAME ene.ene
+pq2012 10800 IN CNAME deepzone2
+gece-8.et 10800 IN A 193.40.244.42
+gece-8.et 10800 IN HINFO "Pentium100" "Win95"
+jill.ld 10800 IN A 193.40.244.87
+jill.ld 10800 IN HINFO "Pentium-MMX 200" "WinNTw 4.0"
+jasna 10800 IN CNAME gurney.cc
+po-color1.intra 10800 IN A 192.168.134.251
+line-1.cc 10800 IN A 193.40.254.46
+mapinfo.ene 10800 IN A 193.40.249.188
+enedhcp39.ene 10800 IN A 193.40.249.216
+ak213-net.class 10800 IN A 192.168.40.0
+st30101.as 10800 IN A 193.40.241.203
+st30101.as 10800 IN HINFO "PC" "Win95"
+eipa138.eipa 10800 IN A 193.40.250.138
+gamma.opto 3600 IN A 193.40.245.112
+ene.ct 10800 IN A 193.40.252.224
+ene.ct 10800 IN HINFO "Pentium" "Windows95"
+mail.ld 10800 IN A 193.40.244.103
+mail.ld 10800 IN HINFO "PC" "Win"
+www.video 10800 IN CNAME www
+lex.la 10800 IN A 193.40.254.67
+lex.la 10800 IN HINFO "PC/AT" "MS-DOS"
+max.e 10800 IN A 193.40.253.65
+max.e 10800 IN HINFO "PC" "MS-DOS"
+elen3.ene 10800 IN A 193.40.249.105
+elen3.ene 10800 IN HINFO "Pentium-MMX/200" "Windows95"
+meas8.me 10800 IN A 193.40.245.49
+meas8.me 10800 IN HINFO "Pentium/100" "Windows95"
+www.etl 10800 IN CNAME deepzone0
+johanna.ld 10800 IN A 193.40.244.77
+johanna.ld 10800 IN HINFO "Pentium-II 350" "WinNTw 4.0"
+eipa144.eipa 10800 IN A 193.40.250.144
+keemia.kk 10800 IN A 193.40.253.13
+keemia.kk 10800 IN HINFO "PC" "WinXP"
+metallograafia.me 10800 IN A 193.40.245.62
+metallograafia.me 10800 IN HINFO "PentiumIII" "Win98"
+ma232a01.ma 10800 IN A 193.40.241.222
+ma232a01.ma 10800 IN HINFO "PentiumIII" "Win98"
+potter 10800 IN A 193.40.254.24
+dhcp-193-40-254-139.cc 10800 IN A 193.40.254.139
+hpvectra.me 10800 IN A 193.40.245.40
+hpvectra.me 10800 IN HINFO "486DX2/66" "Win95"
+cs03i.intra 10800 IN A 192.168.133.183
+MH201-06.mh 1200 IN A 192.168.105.38
+gece-9.et 10800 IN A 193.40.244.43
+gece-9.et 10800 IN HINFO "Pentium100" "Win95"
+astina.la 10800 IN A 193.40.252.48
+astina.la 10800 IN HINFO "PC/386" "MSDOS 6.0"
+astipe.la 10800 IN A 193.40.252.50
+gece-gw 10800 IN A 193.40.244.62
+gece-gw 10800 IN HINFO "BLN" "13.20"
+frodo.cc 10800 IN A 193.40.254.239
+frodo.cc 10800 IN HINFO "Pentium Pro" "WinNT 4.0"
+aiesec5.aiesec 10800 IN A 193.40.241.164
+aiesec5.aiesec 10800 IN HINFO "k62450" "Windows98"
+line-2.cc 10800 IN A 193.40.254.47
+one.cc 10800 IN A 193.40.254.169
+one.cc 10800 IN HINFO "UltraSPARC 10" "Solaris"
+eipa149.eipa 10800 IN A 193.40.250.149
+c15.class 10800 IN A 193.40.254.15
+iaeste.tdng 3600 IN A 193.40.253.27
+iaeste.tdng 3600 IN HINFO "Pentium150" "Win95"
+k6a114.p 3600 IN A 193.40.253.48
+k6a114.p 3600 IN HINFO "Pentium" "Windows95"
+st30705a.ms 10800 IN A 193.40.241.218
+lab-10-10-10-24.tud 3600 IN A 10.10.10.24
+cs.tud 3600 IN CNAME dijkstra.cs
+iv409-01.kk 10800 IN A 193.40.253.204
+iv409-01.kk 10800 IN HINFO "386DX" "MS-DOS"
+lab-10-10-10-124.tud 3600 IN A 10.10.10.124
+chemeng 10800 IN CNAME saruman
+lab-10-10-10-82.tud 3600 IN A 10.10.10.82
+tudeng12.km 10800 IN A 193.40.253.12
+tudeng12.km 10800 IN HINFO "Pentium" "Win95"
+st30101.ms 10800 IN A 193.40.241.203
+st30101.ms 10800 IN HINFO "Cel433" "Win98"
+enedhcp7.ene 10800 IN A 193.40.249.230
+kopli 10800 IN A 193.40.241.249
+eipa155.eipa 10800 IN A 193.40.250.155
+leib.kt 10800 IN A 193.40.253.86
+spare-85 10800 IN A 193.40.255.85
+lab-10-10-10-74.tud 3600 IN A 10.10.10.74
+pop3.mp 10800 IN CNAME mhserver.mp
+staff 10800 IN A 193.40.254.217
+staff 10800 IN MX 0 staff-ttu-ee.mail.protection.outlook.com.
+staff 10800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+dhcp-193-40-254-141.cc 10800 IN A 193.40.254.141
+lab-10-10-10-174.tud 3600 IN A 10.10.10.174
+dijkstra.cs 10800 IN A 193.40.252.80
+eipa79.eipa 10800 IN A 193.40.250.79
+mera8.me 10800 IN A 193.40.245.215
+mera8.me 10800 IN HINFO "486DX2/100" "Win98"
+st30601.ms 10800 IN A 193.40.241.227
+st30601.ms 10800 IN HINFO "P4 1.4" "Win2K"
+line-3.cc 10800 IN A 193.40.254.48
+_kerberos._udp.mh 600 IN SRV 0 100 88 mhserver.mh
+600 IN SRV 0 100 88 mhserver2.mh
+ak213-94.class 10800 IN A 192.168.40.94
+eipa89.eipa 10800 IN A 193.40.250.89
+yhisope.cb 10800 IN CNAME bmt.cb
+fk1.cc 10800 IN A 193.40.254.173
+enedhcp11.ene 10800 IN A 193.40.249.234
+www.autodiagnostika 10800 IN CNAME deepzone2
+tehnoloogia 10800 IN CNAME www
+ventik.em 10800 IN A 193.40.252.74
+ventik.em 10800 IN HINFO "486DX/33" "Windows95"
+lab-10-10-10-234.tud 3600 IN A 10.10.10.234
+www.trainator 10800 IN CNAME deepzone0
+mesel1.le 10800 IN A 193.40.252.104
+mesel1.le 10800 IN HINFO "PC" "MS-DOS"
+zimbra.au 10800 IN A 192.168.2.152
+zimbra.au 10800 IN MX 10 zimbra.au
+eipa39.eipa 10800 IN A 193.40.250.39
+ak141-1.ld 10800 IN A 193.40.244.153
+ak141-1.ld 10800 IN HINFO "PC" "WinNTw"
+delta.opto 3600 IN A 193.40.245.106
+eipa166.eipa 10800 IN A 193.40.250.166
+udo.cb 10800 IN A 193.40.254.84
+eaeeie 10800 IN A 193.40.246.15
+ak213-67.class 10800 IN A 192.168.40.67
+oskar.h 10800 IN A 193.40.253.25
+oskar.h 10800 IN HINFO "PentiumIII" "Windows98"
+silvia.ev 10800 IN A 193.40.252.12
+silvia.ev 10800 IN HINFO "Pentium" "Win95"
+kalju.cb 10800 IN A 193.40.254.87
+dhcp-193-40-254-142.cc 10800 IN A 193.40.254.142
+ak213-131.class 10800 IN A 192.168.40.131
+vvk3.vvk 3600 IN A 193.40.242.178
+eipa172.eipa 10800 IN A 193.40.250.172
+oilshalesymposium2007 10800 IN CNAME saruman
+monitor.intra 10800 IN A 192.168.115.243
+line-4.cc 10800 IN A 193.40.254.49
+ak141-10.ld 10800 IN A 193.40.244.162
+ak141-10.ld 10800 IN HINFO "PC" "Win98"
+kalju.ee 10800 IN A 193.40.252.9
+kalju.ee 10800 IN HINFO "AMD1000" "Win98"
+ak213-41.class 10800 IN A 192.168.40.41
+fk2.cc 10800 IN A 193.40.254.174
+inna.ka 10800 IN A 193.40.253.41
+inna.ka 10800 IN HINFO "Celeron/400" "Windows98"
+comp38.tkk 3600 IN A 193.40.242.114
+ak213-104.class 10800 IN A 192.168.40.104
+eipa177.eipa 10800 IN A 193.40.250.177
+lab-10-10-10-12.tud 3600 IN A 10.10.10.12
+ak141-2.ld 10800 IN A 193.40.244.154
+ak141-2.ld 10800 IN HINFO "PC" "Win95"
+lab-10-10-10-88.tud 3600 IN A 10.10.10.88
+codian.e-uni 10800 IN A 193.40.242.122
+kaido.ek 10800 IN A 193.40.252.199
+kaido.ek 10800 IN HINFO "PentiumIII" "Windows98"
+ak213-14.class 10800 IN A 192.168.40.14
+www.htk 10800 IN CNAME www
+ehmat2.ep 10800 IN A 193.40.252.103
+ehmat2.ep 10800 IN HINFO "PentiumIII" "Win98"
+minni.tdng 3600 IN A 193.40.252.205
+minni.tdng 3600 IN HINFO "Pentium/133" "Windows95"
+dhcp-193-40-254-143.cc 10800 IN A 193.40.254.143
+eipa183.eipa 10800 IN A 193.40.250.183
+lab-10-10-10-62.tud 3600 IN A 10.10.10.62
+sots 10800 IN CNAME deepzone2
+lab-10-10-10-162.tud 3600 IN A 10.10.10.162
+line-5.cc 10800 IN A 193.40.254.50
+mfkf 10800 IN A 195.250.185.54
+dhcp-193-40-254-140.cc 10800 IN A 193.40.254.140
+mess 10800 IN A 193.40.254.58
+elsa.hl 10800 IN A 193.40.253.234
+elsa.hl 10800 IN HINFO "PentiumMMX/166" "Win95"
+fk3.cc 10800 IN A 193.40.254.175
+magister.p 3600 IN A 193.40.253.44
+magister.p 3600 IN HINFO "486" "Windows3.11"
+printer.eil 10800 IN A 193.40.245.123
+V-220-oppekeskus.intra 10800 IN A 192.168.158.237
+mepc18.me 10800 IN A 193.40.245.29
+mepc18.me 10800 IN HINFO "PentiumIII" "WinNT"
+lab-10-10-10-43.tud 3600 IN A 10.10.10.43
+p4-7.tud 3600 IN A 192.168.16.7
+eipa188.eipa 10800 IN A 193.40.250.188
+jaaklap.ld 10800 IN A 193.40.244.90
+jaaklap.ld 10800 IN HINFO "PC" "Win"
+mesel3.le 10800 IN A 193.40.252.106
+mesel3.le 10800 IN HINFO "PC" "MS-DOS"
+logsrv.intra 10800 IN A 192.168.115.242
+turundusaju 10800 IN CNAME www
+www.iro 10800 IN CNAME deepzone0
+ak141-3.ld 10800 IN A 193.40.244.155
+ak141-3.ld 10800 IN HINFO "PC" "Win95"
+orion.mt 10800 IN A 193.40.245.74
+orion.mt 10800 IN HINFO "PC/486SX" "MSDOS 6.0"
+tk 3600 IN CNAME www
+wiki.itun 10800 IN CNAME deepzone2
+mera7.me 10800 IN A 193.40.245.64
+mera7.me 10800 IN HINFO "AMD" "WinNT"
+lothlorien.cc 10800 IN A 193.40.254.116
+lothlorien.cc 10800 IN HINFO "AMD" "Linux Red Hat 8.0"
+MH-AK-18.mh 1200 IN A 192.168.105.64
+ppp-gibs.cc 10800 IN A 193.40.244.195
+ppp-gibs.cc 10800 IN HINFO "PPP Client" "Unknown"
+eipa204.eipa 10800 IN A 193.40.250.204
+doce.tkk 3600 IN A 193.40.242.76
+ehituslabor1.ep 10800 IN HINFO "Pentium-MMX/350" "Windows98"
+ehituslabor1.ep 10800 IN A 193.40.241.158
+dhcp-193-40-254-144.cc 10800 IN A 193.40.254.144
+vesi.ek 10800 IN A 193.40.252.33
+vesi.ek 10800 IN HINFO "Pentium/400" "Windows98"
+ois 10800 IN A 193.40.247.63
+naiskoor 10800 IN CNAME deepzone2
+sustainchem2011 10800 IN CNAME DeepZone2
+wasi.cb 10800 IN CNAME bmt.cb
+audio1.sv 3600 IN A 193.40.252.111
+audio1.sv 3600 IN HINFO "Pentium" "Windows95"
+elen-116.ene 10800 IN A 193.40.249.116
+fk3.kk 10800 IN A 193.40.253.242
+fk3.kk 10800 IN HINFO "AMD K6-2 400" "Windows95"
+jonas.h 10800 IN A 193.40.245.223
+eblproxy 10800 IN CNAME virtuals2
+midi.li 10800 IN A 193.40.254.105
+eipa210.eipa 10800 IN A 193.40.250.210
+c2.class 10800 IN A 193.40.254.2
+c21.class 10800 IN A 193.40.254.21
+mesel4.le 10800 IN A 193.40.252.107
+mesel4.le 10800 IN HINFO "PC" "MS-DOS"
+tv 3600 IN A 193.40.241.252
+tv 3600 IN MX 5 tv-ttu-ee.mail.eo.outlook.com.
+tv 3600 IN TXT "v=msv1 t=201bb1864f63479e514af946745b87"
+lab-10-10-10-154.tud 3600 IN A 10.10.10.154
+dmitri.ene 10800 IN A 193.40.249.69
+dmitri.ene 10800 IN HINFO "PentiumIII/800" "Win98SE"
+c19.class 10800 IN A 193.40.254.19
+tsement.ep 10800 IN A 193.40.252.76
+tsement.ep 10800 IN HINFO "PentiumMMX/166" "Win95"
+mhserver.mh 3600 IN A 193.40.245.160
+tiit.et 10800 IN A 193.40.253.201
+tiit.et 10800 IN HINFO "486DX2" "Win95"
+tester.cc 10800 IN A 193.40.254.56
+tester.cc 10800 IN MX 10 tester.cc
+eipa215.eipa 10800 IN A 193.40.250.215
+caesar.h 10800 IN A 193.40.253.189
+caesar.h 10800 IN HINFO "Pentium133" "Win95"
+eipa150.eipa 10800 IN A 193.40.250.150
+www.kmi 10800 IN CNAME deepzone2
+www.kmk 10800 IN CNAME www
+dhcp-193-40-254-145.cc 10800 IN A 193.40.254.145
+ktiteadur.ek 10800 IN A 193.40.252.229
+backup2 10800 IN A 193.40.254.88
+finance 10800 IN CNAME majandus2
+eva.et 10800 IN A 193.40.253.127
+eva.et 10800 IN HINFO "486DX4" "Win95"
+lab-10-10-10-49.tud 3600 IN A 10.10.10.49
+minex.ene 10800 IN A 193.40.249.186
+lab-10-10-10-46.tud 3600 IN A 10.10.10.46
+erik.me 10800 IN HINFO "Pentium100" "Win95"
+erik.me 10800 IN A 193.40.245.85
+lab-10-10-10-149.tud 3600 IN A 10.10.10.149
+eipa221.eipa 10800 IN A 193.40.250.221
+fk5.cc 10800 IN A 193.40.254.177
+magrathea 10800 IN A 193.40.254.153
+ak213-99.class 10800 IN A 192.168.40.99
+spare-45 10800 IN A 193.40.255.45
+bbsed2007 10800 IN A 193.40.241.8
+gw.tv 3600 IN A 193.40.241.2
+anti 10800 IN CNAME gurney.cc
+ort.ene 10800 IN A 193.40.249.168
+eipa129.eipa 10800 IN A 193.40.250.129
+st20501.ms 10800 IN A 193.40.241.205
+st20501.ms 10800 IN HINFO "P 200" "Win98"
+rain.ld 10800 IN A 193.40.244.117
+bilbo.cc 10800 IN A 193.40.254.240
+bilbo.cc 10800 IN HINFO "Pentium166" "Winframe"
+ak141-5.ld 10800 IN A 193.40.244.157
+ak141-5.ld 10800 IN HINFO "PC" "Win95"
+lab-10-10-10-99.tud 3600 IN A 10.10.10.99
+spare-99 10800 IN A 193.40.255.99
+www.masinaehitus 10800 IN CNAME server.me
+overall.intra 10800 IN A 193.40.254.235
+servere.ene 10800 IN A 193.40.249.35
+servere.ene 10800 IN HINFO "Pentium/100" "WindowsNT 4.0"
+lab-10-10-10-199.tud 3600 IN A 10.10.10.199
+www.max 10800 IN CNAME max.li
+lab-10-10-10-204.tud 3600 IN A 10.10.10.204
+ak213-73.class 10800 IN A 192.168.40.73
+l31101.aiesec 10800 IN A 193.40.241.85
+fstudent 10800 IN CNAME virtuals1
+apex 10800 IN A 193.40.244.65
+ntp.ati 10800 IN CNAME ati
+interstudy 10800 IN CNAME hp715b.me
+dhcp-193-40-254-146.cc 10800 IN A 193.40.254.146
+MH201-07.mh 1200 IN A 192.168.105.69
+enedhcp36.ene 10800 IN A 193.40.249.213
+humanitaar 10800 IN CNAME virtual
+nimetu.p 3600 IN A 193.40.253.245
+nimetu.p 3600 IN HINFO "Celeron/500" "Windows2000"
+portal-web2.intra 10800 IN A 192.168.115.246
+itee.cs 10800 IN A 193.40.252.89
+astice.la 10800 IN A 193.40.252.39
+astice.la 10800 IN HINFO "PC/AT 286" "MSDOS 5.0"
+teeviit 10800 IN CNAME virtuals2
+fermi.yk 3600 IN A 193.40.253.91
+ldap.ati 10800 IN CNAME nds.ati
+_gc._tcp.Default-First-Site-Name._sites.mh 600 IN SRV 0 100 3268 mhserver.mh
+600 IN SRV 0 100 3268 mhserver2.mh
+elen-104.ene 10800 IN A 193.40.249.104
+dc2.intra 10800 IN A 192.168.133.252
+re-bw1.intra 10800 IN A 192.168.134.230
+webcam3 10800 IN A 193.40.254.98
+ak141-6.ld 10800 IN A 193.40.244.158
+ak141-6.ld 10800 IN HINFO "PC" "Win95"
+ak213-110.class 10800 IN A 192.168.40.110
+comp14.tkk 3600 IN A 193.40.242.90
+comp14.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+drive.ene 10800 IN CNAME zoja.ene
+parsek.yf 3600 IN A 193.40.252.163
+parsek.yf 3600 IN TXT "MS=ms68010028"
+parsek.yf 3600 IN MX 0 parsek-yf-ttu-ee.mail.protection.outlook.com.
+parsek.yf 3600 IN HINFO "PentiumII" "Linux Red Hat 6.01"
+eda.ep 10800 IN A 193.40.252.21
+eda.ep 10800 IN HINFO "Pentium" "Windows95"
+enedc.ene 10800 IN A 193.40.249.38
+balrog.tud 3600 IN A 193.40.254.171
+anneli.h 10800 IN A 193.40.253.192
+anneli.h 10800 IN HINFO "Pentium" "Windows98"
+dhcp-193-40-254-147.cc 10800 IN A 193.40.254.147
+reet.ct 10800 IN A 193.40.252.221
+reet.ct 10800 IN HINFO "Pentium" "Windows95"
+simatic.ene 10800 IN A 193.40.249.86
+simatic.ene 10800 IN HINFO "Siemens Simatic Controller" "x.x"
+griffin.cc 10800 IN A 193.40.254.39
+griffin.cc 10800 IN HINFO "Pentium/166" "Windows95"
+dhcp.intra 10800 IN A 192.168.133.249
+www.avatudope 10800 IN CNAME saruman
+eipa195.eipa 10800 IN A 193.40.250.195
+xmas 10800 IN A 144.76.72.202
+kulu.mt 10800 IN A 193.40.245.70
+kulu.mt 10800 IN HINFO "Pentium100" "Win95"
+a100.mt 10800 IN A 193.40.245.4
+a100.mt 10800 IN HINFO "Pentium-MMX/200" "Windows95"
+class210-5.li 10800 IN A 193.40.244.70
+class210-5.li 10800 IN HINFO "PC/486DX66" "Windows95"
+ilje.p 3600 IN A 193.40.253.83
+ilje.p 3600 IN HINFO "486DX/33" "Windows95"
+tenniseklubi 10800 IN CNAME DeepZone2
+webtest 10800 IN CNAME portal-test
+vvk15.vvk 3600 IN A 193.40.242.166
+moodle.e-uni 10800 IN A 193.40.242.123
+lab-10-10-10-137.tud 3600 IN A 10.10.10.137
+l13003.tm 3600 IN A 193.40.241.141
+l13003.tm 3600 IN HINFO "P350" "WNT"
+lab-10-10-10-141.tud 3600 IN A 10.10.10.141
+dma.li 10800 IN A 193.40.254.193
+dma.li 10800 IN HINFO "PC/386" "MS-DOS"
+masinaehitus 10800 IN CNAME server.me
+eda.me 10800 IN A 193.40.245.11
+eda.me 10800 IN HINFO "486/66" "Windows95"
+ak141-7.ld 10800 IN A 193.40.244.159
+ak141-7.ld 10800 IN HINFO "PC" "Win95"
+meas9.me 10800 IN A 193.40.245.50
+meas9.me 10800 IN HINFO "PentiumII/350" "WindowsNT WS"
+htk-old 10800 IN CNAME saruman
+udu.cc 10800 IN A 193.40.254.54
+udu.cc 10800 IN HINFO "PC/386DX" "MSDOS 6.0"
+c213-15.cc 10800 IN A 193.40.254.15
+c213-15.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+lab-10-10-10-87.tud 3600 IN A 10.10.10.87
+lab-10-10-10-187.tud 3600 IN A 10.10.10.187
+newbackup 10800 IN CNAME aragorn.cc
+tk-color2.intra 10800 IN A 192.168.144.226
+kellu 10800 IN A 193.40.244.83
+dhcp-193-40-254-148.cc 10800 IN A 193.40.254.148
+concerto.cs 10800 IN A 193.40.252.106
+olev.kt 10800 IN A 193.40.253.94
+olev.kt 10800 IN HINFO "Pentium" "Windows98"
+hvac.ek 10800 IN A 193.40.253.79
+hvac.ek 10800 IN HINFO "486DX2/66" "Win95"
+kelly.me 10800 IN A 193.40.245.54
+kelly.me 10800 IN HINFO "HP" "WinNT"
+enedhcp24.ene 10800 IN A 193.40.249.247
+cs03s.intra 10800 IN A 192.168.133.153
+class210-16.li 10800 IN A 193.40.244.81
+class210-16.li 10800 IN HINFO "PC/486DX66" "Windows95"
+lab-10-10-10-168.tud 3600 IN A 10.10.10.168
+seba.tv 3600 IN A 193.40.241.252
+193-40-242-143.vi 3600 IN A 193.40.242.143
+elen-110.ene 10800 IN A 193.40.249.110
+marmor.ene 10800 IN A 193.40.249.182
+_autodiscover._tcp.americanspace 10800 IN SRV 0 0 443 webmail.zone.ee.
+id035p.intra 10800 IN A 192.168.150.35
+helin.la 10800 IN A 193.40.252.36
+helin.la 10800 IN HINFO "PC" "MS-DOS"
+k300.ene 10800 IN A 193.40.249.74
+k300.ene 10800 IN HINFO "Celeron300A" "Windows95, Linux"
+c7.class 10800 IN A 193.40.254.7
+c26.class 10800 IN A 193.40.254.26
+sip.intra 10800 IN CNAME sipdir.online.lync.com.
+ak141-8.ld 10800 IN A 193.40.244.160
+ak141-8.ld 10800 IN HINFO "PC" "Win95"
+elen4.ene 10800 IN A 193.40.249.106
+elen4.ene 10800 IN HINFO "Pentium-MMX/200" "Windows95"
+sulevipoeg 10800 IN A 192.168.137.8
+pt-color2.intra 10800 IN A 192.168.134.242
+www.sustainchem2011 10800 IN CNAME DeepZone2
+ajamlab.ene 10800 IN A 193.40.249.51
+dhcp-193-40-254-149.cc 10800 IN A 193.40.254.149
+tiiup.su 3600 IN A 193.40.243.220
+tiiup.su 3600 IN HINFO "PC/486DX" "WinNT"
+ay2.h 10800 IN A 193.40.253.138
+ay2.h 10800 IN HINFO "PentiumIII" "Win2K"
+tuutor2 10800 IN CNAME DeepZone2
+micmac.cc 10800 IN A 193.40.254.38
+micmac.cc 10800 IN HINFO "Mac" "MacOs"
+VA-color1.intra 10800 IN A 192.168.158.231
+ubuntu 10800 IN A 193.40.241.11
+sprdih 10800 IN A 193.40.254.126
+sprdih 10800 IN HINFO "Netgear ISDN router" "Netgear"
+spare-52 10800 IN A 193.40.255.52
+liebe.kt 10800 IN A 193.40.253.169
+liebe.kt 10800 IN HINFO "Pentium-MMX/166" "Windows95"
+enn.ld 10800 IN A 193.40.244.70
+enn.ld 10800 IN HINFO "Pentium-MMX 166" "WinNTw 4.0"
+kerli.corson 10800 IN A 193.40.254.91
+kerli.corson 10800 IN HINFO "Pentium" "Win95"
+pennu.cm 10800 IN A 193.40.252.172
+pennu.cm 10800 IN HINFO "P133" "Win95"
+lab-10-10-10-25.tud 3600 IN A 10.10.10.25
+lab-10-10-10-91.tud 3600 IN A 10.10.10.91
+mm.cs 10800 IN A 193.40.252.81
+wiki.ati 10800 IN CNAME ati
+lab-10-10-10-125.tud 3600 IN A 10.10.10.125
+iw 10800 IN CNAME tipikas.ee.
+ak141-9.ld 10800 IN A 193.40.244.161
+ak141-9.ld 10800 IN HINFO "PC" "Win98"
+ras-compu.la 10800 IN A 193.40.252.121
+ras-compu.la 10800 IN HINFO "Pentium120" "Win95"
+enedhcp8.ene 10800 IN A 193.40.249.231
+poodoo 10800 IN A 192.168.115.239
+10800 IN A 193.40.254.169
+mail.tseba 10800 IN A 193.40.241.252
+elvira.me 10800 IN A 193.40.245.78
+elvira.me 10800 IN HINFO "PC/286" "MS-DOS"
+www2 10800 IN CNAME www
+www3 10800 IN CNAME virtuals2
+alumni-test 10800 IN CNAME alumni
+MH-AK-20.mh 1200 IN A 192.168.105.49
+intranet 10800 IN CNAME is.va
+yhikas2 10800 IN A 193.40.244.202
+ak213-78.class 10800 IN A 192.168.40.78
+dhcp-193-40-254-133.cc 10800 IN A 193.40.254.133
+lab-10-10-10-175.tud 3600 IN A 10.10.10.175
+tan.me 10800 IN A 193.40.245.39
+tan.me 10800 IN HINFO "Pentium100" "WinNT WS"
+ncsb 10800 IN CNAME saruman
+mail.cb 10800 IN A 193.40.254.74
+jyrit.rekt 3600 IN A 193.40.253.60
+jyrit.rekt 3600 IN HINFO "Celeron667" "Win98"
+comp19.tkk 3600 IN A 193.40.242.95
+comp19.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+p4-3.tud 3600 IN A 192.168.16.3
+libesx1 10800 IN A 192.168.254.22
+libesx2 10800 IN A 192.168.254.23
+libesx3 10800 IN A 192.168.254.24
+lab-10-10-10-191.tud 3600 IN A 10.10.10.191
+tooturg 10800 IN CNAME deepzone0
+ps-color1.intra 10800 IN A 192.168.134.234
+www.turundus 10800 IN CNAME turundus
+mail.cs 10800 IN A 193.40.251.102
+enedhcp12.ene 10800 IN A 193.40.249.235
+eipa161.eipa 10800 IN A 193.40.250.161
+ak213-52.class 10800 IN A 192.168.40.52
+itrp.intra 10800 IN A 193.40.254.170
+lab-10-10-10-235.tud 3600 IN A 10.10.10.235
+www.k 10800 IN CNAME deepzone0
+www.cebe 10800 IN CNAME cebe
+ak401-10.ld 10800 IN A 193.40.244.115
+ak401-10.ld 10800 IN HINFO "PC" "Win"
+wwww 10800 IN CNAME www
+riin.h 10800 IN A 193.40.243.20
+riin.h 10800 IN HINFO "Pentium" "Windows98"
+grei.yf 3600 IN A 193.40.252.169
+grei.yf 3600 IN HINFO "Pentium" "Windows95"
+elsi.cl 10800 IN A 193.40.253.161
+elsi.cl 10800 IN HINFO "486DX2/66" "Windows95"
+sakai 10800 IN CNAME pluto
+www.pvd 10800 IN CNAME pvd
+felix.h 10800 IN A 193.40.243.17
+felix.h 10800 IN HINFO "486SX/50" "Windows95"
+vip 10800 IN A 193.40.254.180
+ak213-25.class 10800 IN A 192.168.40.25
+193-40-242-131.vi 3600 IN A 193.40.242.131
+eipa13.eipa 10800 IN A 193.40.250.13
+bombur.yc 3600 IN A 193.40.252.180
+bombur.yc 3600 IN HINFO "Pentium II/300" "Win95"
+comp9.tkk 3600 IN A 193.40.242.85
+comp9.tkk 3600 IN HINFO "Pentium/166" "Win95"
+www.meeskoor 10800 IN CNAME deepzone2
+mail.km 10800 IN CNAME languageserv.km
+ak213-89.class 10800 IN A 192.168.40.89
+luuser.roke 3600 IN A 193.40.243.9
+www.baltmattrib2009 10800 IN CNAME baltmattrib2009
+mail.mp 10800 IN CNAME staff
+193-40-242-132.vi 3600 IN A 193.40.242.132
+eipa18.eipa 10800 IN A 193.40.250.18
+lab-10-10-10-231.tud 3600 IN A 10.10.10.231
+ksenja.li 10800 IN A 193.40.254.210
+ksenja.li 10800 IN HINFO "486DX2" "Win95"
+lab-10-10-10-210.tud 3600 IN A 10.10.10.210
+lab-10-10-10-3.tud 3600 IN A 10.10.10.3
+lab-10-10-10-13.tud 3600 IN A 10.10.10.13
+eipa109.eipa 10800 IN A 193.40.250.109
+lab-10-10-10-113.tud 3600 IN A 10.10.10.113
+MHT05.mh 1200 IN A 192.168.105.25
+se-bw1.intra 10800 IN A 192.168.134.225
+wlan-switch 10800 IN A 193.40.254.239
+193-40-242-150.vi 3600 IN A 193.40.242.150
+eipa24.eipa 10800 IN A 193.40.250.24
+wwwww 10800 IN CNAME www
+MH-AK-17.mh 1200 IN A 192.168.105.76
+lab-10-10-10-63.tud 3600 IN A 10.10.10.63
+edge1 10800 IN A 193.40.254.196
+edge1 10800 IN AAAA 2001:bb8:4002:2540::196
+pang.cc 10800 IN A 193.40.254.41
+pang.cc 10800 IN HINFO "Pentium/75" "Windows95"
+lab-10-10-10-163.tud 3600 IN A 10.10.10.163
+st20101.as 10800 IN A 193.40.241.194
+st20101.as 10800 IN HINFO "PC" "Win95"
+www.tehnoloogiakool 10800 IN CNAME virtuals1
+kiisu.p 3600 IN A 193.40.253.243
+kiisu.p 3600 IN HINFO "486DX/66" "Windows95"
+luks.yf 3600 IN A 193.40.252.196
+eipa1.eipa 10800 IN A 193.40.250.1
+eipa29.eipa 10800 IN A 193.40.250.29
+auth 10800 IN A 193.40.254.177
+c121.yk 3600 IN A 192.168.128.21
+k6a121-1.p 3600 IN A 193.40.253.77
+k6a121-1.p 3600 IN HINFO "Pentium" "Windows95"
+p4-8.tud 3600 IN A 192.168.16.8
+humyn 10800 IN CNAME saruman
+elen-98.ene 10800 IN A 193.40.249.98
+ct-color2.intra 10800 IN A 192.168.134.216
+k6a121-2.p 3600 IN A 193.40.253.78
+k6a121-2.p 3600 IN HINFO "Pentium" "Windows95"
+printer.li 10800 IN A 193.40.254.99
+NAVITERMINAL.intra 10800 IN A 192.168.251.6
+sulev.hum 10800 IN A 193.40.250.226
+lab-10-10-10-223.tud 3600 IN A 10.10.10.223
+c32.class 10800 IN A 193.40.254.32
+news 10800 IN CNAME kaie.va
+stonia 10800 IN A 193.40.246.5
+aragorn.tud 3600 IN CNAME aragorn.cc
+aparaat.ene 10800 IN A 193.40.249.91
+aparaat.ene 10800 IN HINFO "Athlon2.4" "WinXPH"
+eipa6.eipa 10800 IN A 193.40.250.6
+heino.cg 10800 IN A 193.40.252.244
+heino.cg 10800 IN HINFO "PC/486" "Win95"
+eipa35.eipa 10800 IN A 193.40.250.35
+cs02i.intra 10800 IN A 192.168.133.182
+jyris.me 10800 IN A 193.40.253.152
+jyris.me 10800 IN HINFO "PentiumIV" "WinXP"
+110lab3.ene 10800 IN A 193.40.249.82
+110lab3.ene 10800 IN HINFO "Celeron300A" "Win95"
+heidi.hum 10800 IN A 193.40.250.228
+muhv.cc 10800 IN A 193.40.254.170
+muhv.cc 10800 IN HINFO "PentiumIII" "Win98"
+aiesec4.aiesec 10800 IN A 193.40.241.157
+modaal2.me 10800 IN A 193.40.245.32
+modaal2.me 10800 IN HINFO "PentiumIV" "Windows"
+nsf5100 10800 IN A 193.40.242.238
+ktehn.ka 10800 IN A 193.40.253.49
+reinm.me 10800 IN A 193.40.245.152
+st21201.as 10800 IN A 193.40.241.204
+st21201.as 10800 IN HINFO "PC" "Win95"
+salme 10800 IN A 192.168.137.3
+kaitseliit 10800 IN CNAME mail.biorobotics
+jael.ld 10800 IN A 193.40.244.139
+jael.ld 10800 IN HINFO "PC" "Win98"
+tunnustusasutus 10800 IN CNAME deepzone0
+googleffffffff8acc7d81.cc 10800 IN CNAME google.com.
+V-168-raamatukogu.intra 10800 IN A 192.168.158.235
+klassdc.ene 10800 IN A 193.40.249.37
+st30102.ms 10800 IN A 193.40.241.226
+st30102.ms 10800 IN HINFO "P4 1.4" "Win98"
+microgrid.ene 10800 IN A 193.40.249.80
+microgrid.ene 10800 IN HINFO "Celeron400" "Win98SE"
+elen-117.ene 10800 IN A 193.40.249.117
+eipa41.eipa 10800 IN A 193.40.250.41
+autodiscover.proov 10800 IN CNAME autodiscover.outlook.com.
+elajam2.ene 10800 IN A 193.40.249.73
+elajam2.ene 10800 IN HINFO "PentiumIII/800" "Win98SE"
+xterm1.cb 10800 IN A 193.40.254.85
+wall 10800 IN A 193.40.254.238
+wall 10800 IN HINFO "Linux" "Linux"
+michael 10800 IN A 193.40.242.82
+jonas.rekt 3600 IN A 193.40.253.157
+jonas.rekt 3600 IN HINFO "Pentium" "Windows98"
+metsvahi.et 10800 IN A 193.40.252.79
+metsvahi.et 10800 IN HINFO "Pentium-MMX/166" "Windows95"
+pit.li 10800 IN A 193.40.254.196
+pit.li 10800 IN HINFO "PC/486DX" "MS-DOS"
+moodle.tark 10800 IN CNAME DeepZone2
+miner.ene 10800 IN A 193.40.249.162
+MH310-01.mh 1200 IN A 192.168.105.17
+www.sti 10800 IN CNAME DeepZone2
+eipa46.eipa 10800 IN A 193.40.250.46
+autodiscover.live 10800 IN CNAME autodiscover.outlook.com.
+marekene.h 10800 IN A 193.40.243.19
+marekene.h 10800 IN HINFO "Pentium" "Windows98"
+www.tls 3600 IN CNAME www
+ak213-5.class 10800 IN A 192.168.40.5
+raido.em 10800 IN A 193.40.252.207
+raido.em 10800 IN HINFO "Celeron/400" "Windows98"
+st21202.as 10800 IN A 193.40.241.211
+st21202.as 10800 IN HINFO "Pentium" "Windows98"
+majandus 10800 IN CNAME www
+gallup 10800 IN CNAME virtuals2
+lab-10-10-10-51.tud 3600 IN A 10.10.10.51
+eipa52.eipa 10800 IN A 193.40.250.52
+lab-10-10-10-151.tud 3600 IN A 10.10.10.151
+mail.sahm 10800 IN A 193.40.254.57
+testcache 10800 IN A 193.40.242.103
+piret.hum 10800 IN A 193.40.250.227
+nov-serv.mo 10800 IN CNAME meo
+ce-bw1.intra 10800 IN A 192.168.134.222
+helve.cg 10800 IN A 193.40.252.246
+helve.cg 10800 IN HINFO "PC/386" "Win3.1"
+xterm2.cb 10800 IN A 193.40.254.86
+rosa.ka 10800 IN A 193.40.253.118
+rosa.ka 10800 IN HINFO "PC/486DX4" "MS-DOS"
+bilbo.tud 3600 IN A 193.40.254.69
+lab-10-10-10-60.tud 3600 IN A 10.10.10.60
+ak213-57.class 10800 IN A 192.168.40.57
+postikana 10800 IN A 193.40.254.224
+postikana 10800 IN MX 10 postikana
+eipa57.eipa 10800 IN A 193.40.250.57
+lab-10-10-10-211.tud 3600 IN A 10.10.10.211
+www.tud 3600 IN A 193.40.254.198
+zeus.cc 10800 IN A 193.40.254.52
+zeus.cc 10800 IN HINFO "PC/AT" "MS-DOS"
+sslvpn 10800 IN CNAME portal
+ak213-121.class 10800 IN A 192.168.40.121
+evelin.ld 10800 IN A 193.40.244.76
+evelin.ld 10800 IN HINFO "Pentium-MMX 166" "Win95b"
+katsekoda.tc 3600 IN A 193.40.253.248
+git.ati 10800 IN CNAME ati
+supipada.cc 10800 IN A 193.40.254.214
+supipada.cc 10800 IN HINFO "PentiumMMX" "Linux"
+ak213-31.class 10800 IN A 192.168.40.31
+tm-bw6.intra 10800 IN A 192.168.144.227
+spare-209 10800 IN A 193.40.255.209
+eipa63.eipa 10800 IN A 193.40.250.63
+portal-mysql-master.intra 10800 IN A 192.168.251.10
+teave.h 10800 IN A 193.40.253.73
+teave.h 10800 IN HINFO "PentiumIII" "Win98"
+astide.la 10800 IN A 193.40.252.40
+astide.la 10800 IN HINFO "PC/486DX" "MSDOS 6.0"
+iiah.intra 10800 IN A 192.168.133.230
+dokregister 10800 IN A 193.40.242.56
+opennms.cc 10800 IN CNAME one.cc
+st21202.ms 10800 IN A 193.40.241.230
+st21202.ms 10800 IN HINFO "PentiumIV" "WinXP"
+elen-105.ene 10800 IN A 193.40.249.105
+ultra.ene 10800 IN A 193.40.249.75
+ultra.ene 10800 IN HINFO "Celeron333A" "Windows95,Linux"
+ns1.va 3600 IN A 193.40.247.9
+lab-10-10-10-40.tud 3600 IN A 10.10.10.40
+vvk1.vvk 3600 IN A 193.40.242.180
+simone 10800 IN A 193.40.254.183
+eipa68.eipa 10800 IN A 193.40.250.68
+ak213-49.class 10800 IN A 192.168.40.49
+totakas.h 10800 IN A 193.40.253.87
+totakas.h 10800 IN HINFO "Pentium/120" "Windows95"
+what.cb 10800 IN A 193.40.253.210
+what.cb 10800 IN HINFO "486" "Windows95"
+ntserver.eil 10800 IN A 193.40.245.122
+comp15.tkk 3600 IN A 193.40.242.91
+comp15.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+mail 10800 IN CNAME email
+webdev 10800 IN CNAME portal-test
+video 10800 IN CNAME www
+andres.h 10800 IN A 193.40.245.208
+andres.h 10800 IN HINFO "PentiumIII" "Win2K"
+eipa74.eipa 10800 IN A 193.40.250.74
+p75.rekt 3600 IN A 193.40.253.57
+p75.rekt 3600 IN HINFO "Pentium/75" "Windows95"
+www.vnk 3600 IN A 88.196.48.53
+economics 10800 IN CNAME saruman
+eipa 10800 IN A 62.65.193.36
+eipa 10800 IN MX 10 mail.eipa
+rain.cb 10800 IN A 193.40.254.78
+rain.cb 10800 IN HINFO "Pentium" "Win98"
+me 10800 IN MX 10 hp715b.me
+10800 IN MX 20 hp715a.me
+vilip.ld 10800 IN A 193.40.244.176
+vilip.ld 10800 IN HINFO "PC" "Win95B"
+lab-10-10-10-38.tud 3600 IN A 10.10.10.38
+vvk16.vvk 3600 IN A 193.40.242.165
+st21203.ms 10800 IN A 193.40.241.215
+lab-10-10-10-138.tud 3600 IN A 10.10.10.138
+ns2.va 3600 IN A 193.40.247.84
+matilda.ene 10800 IN A 193.40.249.193
+matilda.ene 10800 IN HINFO "SL-586V/100" "Windows95"
+eipa80.eipa 10800 IN A 193.40.250.80
+schryer 10800 IN A 193.40.253.199
+kadre.aa 10800 IN A 193.40.253.1
+astia.la 10800 IN A 193.40.252.37
+ns100-adm 10800 IN A 193.40.242.237
+dc1.intra 10800 IN A 192.168.133.251
+kilo.yf 3600 IN A 193.40.252.195
+eipa104.eipa 10800 IN A 193.40.250.104
+penta.li 10800 IN A 193.40.254.98
+penta.li 10800 IN HINFO "PENTIUM" "WindowsNT"
+penta.li 10800 IN MX 20 smtp
+bnsw1.e 10800 IN A 193.40.252.250
+bnsw1.e 10800 IN HINFO "BayStack 350-12T" "V1.2.0"
+portal.arendus 10800 IN A 193.40.244.211
+best2.tdng 3600 IN A 193.40.253.214
+best2.tdng 3600 IN HINFO "Celeron/600" "Win2K"
+eipa85.eipa 10800 IN A 193.40.250.85
+www.staff 10800 IN CNAME staff
+ahti.ld 10800 IN A 193.40.244.131
+ahti.ld 10800 IN HINFO "Pentium-S 100" "Win95B"
+comp22.tkk 3600 IN A 193.40.242.98
+comp22.tkk 3600 IN HINFO "PentiumII/300" "Win95"
+mihkel.m 10800 IN A 193.40.253.123
+mihkel.m 10800 IN HINFO "PC486/66" "WinNT"
+ocho.tkk 3600 IN A 193.40.242.72
+elmo.ene 10800 IN A 193.40.249.79
+elmo.ene 10800 IN HINFO "Pentium4" "Windows98"
+enedhcp25.ene 10800 IN A 193.40.249.248
+eipa110.eipa 10800 IN A 193.40.250.110
+ihss2009 10800 IN CNAME saruman
+c11.class 10800 IN A 193.40.254.11
+spare-204 10800 IN A 193.40.255.204
+MH405-02.mh 1200 IN A 193.40.245.58
+anborn.tud 3600 IN A 193.40.254.96
+autodiscover.lists 10800 IN CNAME autodiscover.outlook.com.
+eipa91.eipa 10800 IN A 193.40.250.91
+foto.sv 3600 IN A 193.40.252.65
+3600 IN A 193.40.253.160
+foto.sv 3600 IN HINFO "PentiumIII" "Windows98"
+ns3.va 3600 IN A 193.40.247.85
+francesco.km 10800 IN A 193.40.253.92
+atm-vi-0k 10800 IN A 193.40.254.240
+atm-vi-0k 10800 IN HINFO "Centillion 100" "SpeedView"
+teadur1.ka 10800 IN A 193.40.253.197
+teadur1.ka 10800 IN HINFO "PentiumIII" "Windows98"
+eipa115.eipa 10800 IN A 193.40.250.115
+elen5.ene 10800 IN A 193.40.249.111
+elen5.ene 10800 IN HINFO "486DX2/66" "Windows95"
+mi 10800 IN CNAME deepzone0
+viksun.cc 10800 IN A 193.40.254.62
+viksun.cc 10800 IN HINFO "Sun UltraSPARC 10" "Solaris 2.6"
+tea.km 10800 IN A 193.40.253.108
+tea.km 10800 IN HINFO "386DX" "MS-DOS"
+eipa96.eipa 10800 IN A 193.40.250.96
+faxserver.h 10800 IN A 193.40.253.32
+faxserver.h 10800 IN HINFO "Celeron/400" "Win2K"
+lab-10-10-10-220.tud 3600 IN A 10.10.10.220
+ajamid411.ene 10800 IN A 193.40.249.81
+c213-24.cc 10800 IN A 193.40.254.24
+c213-24.cc 10800 IN HINFO "PS/2 mod 70" "MS-DOS"
+eipa121.eipa 10800 IN A 193.40.250.121
+ak213-90.class 10800 IN A 192.168.40.90
+www.nmri 10800 IN A 193.40.254.120
+pa-bw1.intra 10800 IN A 192.168.136.225
+eipa4.eipa 10800 IN A 193.40.250.4
+lab-10-10-10-116.tud 3600 IN A 10.10.10.116
+lame.em 10800 IN A 193.40.252.5
+lame.em 10800 IN HINFO "Pentium" "Win95"
+lab-10-10-10-26.tud 3600 IN A 10.10.10.26
+ocs.va 3600 IN A 193.40.247.66
+lab-10-10-10-159.tud 3600 IN A 10.10.10.159
+a6-229 10800 IN A 193.40.253.160
+virl.cs 10800 IN A 193.40.252.99
+lab-10-10-10-126.tud 3600 IN A 10.10.10.126
+eipa126.eipa 10800 IN A 193.40.250.126
+tudeng4.km 10800 IN A 193.40.253.4
+tudeng4.km 10800 IN HINFO "Pentium" "Win95"
+eipa90.eipa 10800 IN A 193.40.250.90
+ak213-63.class 10800 IN A 192.168.40.63
+enedhcp9.ene 10800 IN A 193.40.249.232
+guglunk.kodu 10800 IN A 192.168.200.1
+siemens 10800 IN A 193.40.254.126
+ak112-1.ld 10800 IN A 193.40.244.163
+ak112-1.ld 10800 IN HINFO "PC" "Win"
+lab-10-10-10-76.tud 3600 IN A 10.10.10.76
+judy.ld 10800 IN A 193.40.244.75
+judy.ld 10800 IN HINFO "PentiumIII450" "Win98SE"
+enedhcp29.ene 10800 IN A 193.40.249.252
+ak213-126.class 10800 IN A 192.168.40.126
+lab-10-10-10-176.tud 3600 IN A 10.10.10.176
+ak213c.cc 10800 IN A 193.40.254.215
+eipa132.eipa 10800 IN A 193.40.250.132
+a12.ee 10800 IN A 193.40.252.94
+a12.ee 10800 IN HINFO "PentiumII-MMX/400" "Windows98"
+athena.ym 3600 IN A 193.40.245.193
+athena.ym 3600 IN HINFO "Pentium/120" "Windows95"
+vanasise 10800 IN CNAME saruman
+v305cnc.mh 1200 IN A 192.168.105.44
+ak213-36.class 10800 IN A 192.168.40.36
+web1.mh 3600 IN A 193.40.245.161
+data 10800 IN A 193.40.244.119
+enedhcp13.ene 10800 IN A 193.40.249.236
+tesla.yf 3600 IN A 193.40.252.165
+tesla.yf 3600 IN HINFO "Pentium" "Windows95"
+suse.et 10800 IN A 193.40.244.61
+mepc15.me 10800 IN A 193.40.245.26
+mepc15.me 10800 IN HINFO "PentiumIII" "WinNT"
+_sipfederationtls._tcp.student 10800 IN SRV 10 2 5061 federation.messenger.msn.com.
+bu.cc 10800 IN A 193.40.254.114
+ak213-100.class 10800 IN A 192.168.40.100
+lab-10-10-10-236.tud 3600 IN A 10.10.10.236
+eipa137.eipa 10800 IN A 193.40.250.137
+lab-10-10-10-170.tud 3600 IN A 10.10.10.170
+lennart.roke 3600 IN A 193.40.243.2

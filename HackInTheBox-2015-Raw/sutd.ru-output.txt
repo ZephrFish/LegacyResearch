@@ -1,0 +1,164 @@
+@ 3600 IN SOA ns @ 1889 900 600 86400 3600
+@ 3600 IN A 195.209.236.7
+@ 3600 IN NS library-fs.sutd.local.
+3600 IN NS ns
+@ 3600 IN MX 10 mx
+3600 IN MX 15 mail
+@ 3600 IN RP admin .
+kit 3600 IN A 195.209.236.254
+library-fs 1200 IN A 195.209.236.1
+1200 IN A 195.209.236.111
+library-fs 1200 IN AAAA 2002:c3d1:ec01::c3d1:ec01
+1200 IN AAAA 2002:c3d1:ec6f::c3d1:ec6f
+ns2.pmi 3600 IN A 195.209.236.254
+imvd 3600 IN CNAME @
+tpnm 3600 IN CNAME @
+_ldap._tcp.domaindnszones.do 600 IN SRV 0 100 389 sutdsdoserver.do
+iccr 3600 IN CNAME @
+alt-ktmu 3600 IN CNAME @
+alt-szppi 3600 IN CNAME @
+it 3600 IN CNAME @
+ktmu 3600 IN CNAME @
+kitiart 3600 IN CNAME @
+vss 3600 IN A 195.209.236.170
+2690b7ed-29eb-4f6e-9640-4b80fbf69eca._msdcs.do 600 IN CNAME sutdsdoserver.do
+fitm 3600 IN CNAME @
+bm18-sr1 3600 IN A 195.209.236.10
+_ldap._tcp.do 600 IN SRV 0 100 389 sutdsdoserver.do
+bussiness-com 3600 IN CNAME @
+prikaz 3600 IN CNAME @
+v46-sw1 3600 IN A 195.209.236.21
+v46-sw2 3600 IN A 195.209.236.24
+pc_chem-lab_222.bms 1200 IN A 192.168.1.14
+mx 3600 IN A 195.209.236.17
+ns 3600 IN A 195.209.236.1
+hosting 3600 IN A 195.209.236.8
+sdo 3600 IN CNAME do
+pi 3600 IN CNAME @
+_kerberos._tcp.dc._msdcs.do 600 IN SRV 0 100 88 sutdsdoserver.do
+bm18-sw0 3600 IN A 195.209.236.23
+bm18-sw1 3600 IN A 195.209.236.20
+bm18-sw2 3600 IN A 195.209.236.4
+library 3600 IN A 195.209.236.1
+sc 3600 IN CNAME @
+style-tex 3600 IN CNAME @
+tkach 3600 IN CNAME @
+mcpk 3600 IN CNAME @
+uchet 3600 IN A 192.168.150.215
+fegn 3600 IN CNAME @
+forestdnszones.do 600 IN A 192.168.148.71
+forestdnszones.do 600 IN AAAA 2002:c3d1:ec7b::c3d1:ec7b
+sp 3600 IN CNAME @
+iphe 3600 IN CNAME @
+lang 3600 IN CNAME @
+ibk 3600 IN CNAME @
+szppi 3600 IN CNAME @
+strelcovo 3600 IN CNAME @
+ctef 3600 IN CNAME @
+wd 3600 IN A 195.209.236.250
+sutdsdoserver.do 1200 IN AAAA 2002:c3d1:ec7b::c3d1:ec7b
+do 3600 IN A 195.209.236.123
+do 600 IN AAAA 2002:c3d1:ec7b::c3d1:ec7b
+fpk 3600 IN CNAME @
+_ldap._tcp.default-first-site-name._sites.forestdnszones.do 600 IN SRV 0 100 389 sutdsdoserver.do
+_ldap._tcp.51f7519a-aa9c-4f2e-8b63-24a819a4a456.domains._msdcs.do 600 IN SRV 0 100 389 sutdsdoserver.do
+soc 3600 IN CNAME @
+iita 3600 IN CNAME @
+moodle 3600 IN CNAME @
+sol 3600 IN CNAME @
+_ldap._tcp.default-first-site-name._sites.do 600 IN SRV 0 100 389 sutdsdoserver.do
+_kpasswd._tcp.do 600 IN SRV 0 100 464 sutdsdoserver.do
+cstd 3600 IN CNAME @
+test 3600 IN CNAME @
+spy 3600 IN CNAME @
+ecfin 3600 IN CNAME @
+myadmin 3600 IN CNAME @
+_ldap._tcp.gc._msdcs.do 600 IN SRV 0 100 3268 sutdsdoserver.do
+tlp 3600 IN CNAME @
+ieb 3600 IN CNAME @
+_ldap._tcp.default-first-site-name._sites.gc._msdcs.do 600 IN SRV 0 100 3268 sutdsdoserver.do
+_ldap._tcp.forestdnszones.do 600 IN SRV 0 100 389 sutdsdoserver.do
+audit 3600 IN CNAME @
+_ldap._tcp.pdc._msdcs.do 600 IN SRV 0 100 389 sutdsdoserver.do
+tmp 3600 IN CNAME @
+interlinks 3600 IN CNAME @
+tms 3600 IN CNAME @
+cppkp 3600 IN CNAME @
+idps 3600 IN CNAME @
+_ldap._tcp.dc._msdcs.do 600 IN SRV 0 100 389 sutdsdoserver.do
+trik 3600 IN CNAME @
+ibc 3600 IN CNAME @
+tpm 3600 IN CNAME @
+gc._msdcs.do 600 IN A 192.168.148.71
+gc._msdcs.do 600 IN AAAA 2002:c3d1:ec7b::c3d1:ec7b
+noc 3600 IN CNAME @
+323-6.economics 1200 IN A 192.168.150.13
+graf-diz 3600 IN CNAME @
+x-olimp 3600 IN CNAME @
+idi 3600 IN CNAME @
+idk 3600 IN CNAME @
+publish 3600 IN CNAME @
+rector.bms 1200 IN A 192.168.150.156
+mail 3600 IN CNAME mx
+management 3600 IN CNAME @
+_kpasswd._udp.do 600 IN SRV 0 100 464 sutdsdoserver.do
+umk-itd 3600 IN CNAME @
+igd 3600 IN CNAME @
+ios.pmi 3600 IN A 195.209.236.254
+design 3600 IN CNAME @
+ns1.pmi 3600 IN A 195.209.236.253
+econth 3600 IN CNAME @
+mx.uprint 3600 IN MX 20 uprint
+kkop 3600 IN CNAME @
+admin 3600 IN MB \# 5 026d78c00c
+navigator 3600 IN CNAME @
+moda 3600 IN CNAME @
+_kerberos._tcp.do 600 IN SRV 0 100 88 sutdsdoserver.do
+alt-idps 3600 IN CNAME @
+innov 3600 IN CNAME @
+ios 3600 IN A 195.209.236.254
+iest 3600 IN CNAME @
+alt-rinpo 3600 IN CNAME @
+isho 3600 IN CNAME @
+m26-sw1 3600 IN A 195.209.236.6
+ifkt 3600 IN CNAME @
+_gc._tcp.default-first-site-name._sites.do 600 IN SRV 0 100 3268 sutdsdoserver.do
+mathematics 3600 IN CNAME @
+thom 3600 IN CNAME @
+ipi 3600 IN CNAME @
+_kerberos._tcp.default-first-site-name._sites.do 600 IN SRV 0 100 88 sutdsdoserver.do
+domaindnszones.do 600 IN A 192.168.148.71
+domaindnszones.do 600 IN AAAA 2002:c3d1:ec7b::c3d1:ec7b
+sikkim 1200 IN A 195.209.236.9
+sikkim 1200 IN AAAA 2002:c3d1:ec09::c3d1:ec09
+_ldap._tcp.default-first-site-name._sites.dc._msdcs.do 600 IN SRV 0 100 389 sutdsdoserver.do
+studsovet 3600 IN CNAME @
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs.do 600 IN SRV 0 100 88 sutdsdoserver.do
+itd-ri 3600 IN CNAME @
+cpp 3600 IN CNAME @
+vps 3600 IN A 195.209.236.13
+itm 3600 IN CNAME @
+c2950 3600 IN A 195.209.236.2
+_ldap._tcp.default-first-site-name._sites.domaindnszones.do 600 IN SRV 0 100 389 sutdsdoserver.do
+igla 3600 IN CNAME @
+printspb 3600 IN CNAME @
+www 3600 IN CNAME @
+uvrs 3600 IN CNAME @
+info 3600 IN CNAME @
+dko 3600 IN CNAME @
+sport 3600 IN CNAME @
+olimp 3600 IN CNAME @
+uprint 3600 IN A 195.209.236.212
+3600 IN A 195.209.236.100
+mail.uprint 3600 IN MX 25 uprint
+alt-idk 3600 IN CNAME @
+eco 3600 IN CNAME @
+rinpo 3600 IN CNAME @
+_kerberos._udp.do 600 IN SRV 0 100 88 sutdsdoserver.do
+edu 3600 IN CNAME @
+fphe 3600 IN CNAME @
+vestnik 3600 IN CNAME @
+_gc._tcp.do 600 IN SRV 0 100 3268 sutdsdoserver.do
+en 3600 IN CNAME @
+tonika 3600 IN CNAME @
+dialup 3600 IN CNAME @

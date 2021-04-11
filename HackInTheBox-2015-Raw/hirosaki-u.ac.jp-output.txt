@@ -1,0 +1,121 @@
+@ 3600 IN SOA @ postmaster 2015041301 1800 900 2419200 14400
+@ 600 IN MX 10 hirosakiu-ac-jp02b.mail.protection.outlook.com.
+600 IN MX 20 smtp-wa
+@ 3600 IN NS dash.cc
+3600 IN NS moya.gw
+3600 IN NS slash.cc
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN A 133.60.14.100
+gn 3600 IN NS moya.gw
+3600 IN NS slash.cc
+gw 3600 IN NS moya.gw
+cloud2 3600 IN CNAME sv17.cc
+eit 3600 IN NS mail01.eit
+3600 IN NS mail02.eit
+hs 3600 IN NS eagle.mt
+3600 IN NS rapter.hs
+moya.gw 3600 IN A 133.60.14.101
+jm 3600 IN NS dash.cc
+3600 IN NS moya.gw
+3600 IN NS slash.cc
+fed 3600 IN NS moya.gw
+3600 IN NS slash.cc
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+mech 3600 IN NS ns2.mech
+3600 IN NS ns3.mech
+ml 3600 IN A 133.60.250.11
+ml 3600 IN MX 20 smtp-wa
+mp 3600 IN NS dash.cc
+3600 IN NS moya.gw
+3600 IN NS slash.cc
+dash.cc 3600 IN A 133.60.238.42
+sci 36000 IN NS sci.st
+36000 IN NS moya.gw
+36000 IN NS slash.cc
+mt 3600 IN NS eagle.mt
+3600 IN NS rapter.hs
+saio 3600 IN A 133.60.238.61
+www 3600 IN CNAME weba.gw
+c-dns01 3600 IN A 133.60.238.40
+c-dns02 3600 IN A 133.60.238.41
+sci.cc 3600 IN A 133.60.127.2
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+a 3600 IN CNAME @
+b 3600 IN CNAME @
+c 3600 IN CNAME @
+ns1i.hosp 3600 IN A 133.60.162.10
+med 3600 IN NS moya.gw
+3600 IN NS hippo.med
+cloud 3600 IN A 133.60.238.45
+si 3600 IN NS mail01.eit
+3600 IN NS mail02.eit
+rprc 3600 IN NS dash.cc
+3600 IN NS slash.cc
+www.irem 3600 IN CNAME sv05.cc
+mail01.eit 3600 IN A 133.60.97.21
+st 3600 IN NS sci.st
+sip 3600 IN CNAME sipdir.online.lync.com.
+www.ifs 3600 IN CNAME sv05.cc
+ul 3600 IN NS dash.cc
+3600 IN NS slash.cc
+phys 3600 IN NS sci.st
+geo 3600 IN NS moya.gw
+ns2-sakura 3600 IN A 153.120.77.127
+hippoi.med 3600 IN A 133.60.231.250
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+www.cjr 3600 IN CNAME sv05.cc
+gkm 3600 IN NS slash.cc
+ns3.mech 3600 IN A 133.60.120.3
+www.coop 3600 IN CNAME www.hirosaki.u-coop.or.jp.
+slash.cc 3600 IN A 133.60.240.14
+msif 3600 IN NS sci.st
+rapter.hs 3600 IN A 133.60.176.213
+www2 3600 IN CNAME moya.gw
+stu 86400 IN NS dash.cc
+86400 IN NS dns2.stu
+86400 IN NS moya.gw
+86400 IN NS slash.cc
+sci.st 36000 IN A 133.60.127.2
+gw2 3600 IN NS aobe.gw2
+3600 IN NS moya.gw
+3600 IN NS slash
+mss 3600 IN NS sci.st
+info.equ 3600 IN A 133.60.238.54
+sci.stu 3600 IN A 133.60.127.2
+ns1-sakura 3600 IN A 153.120.77.123
+ns2.mech 3600 IN A 133.60.120.2
+cybozu.cjr 3600 IN A 133.60.176.216
+earth 3600 IN NS sci.st
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+jmns.jm 3600 IN A 133.60.18.189
+ntp 3600 IN CNAME hirontp.gw
+www2.irem 3600 IN A 133.60.175.11
+mail02.eit 3600 IN A 133.60.97.22
+shiryokan 3600 IN CNAME sv05.cc
+dns2.stu 86400 IN A 133.60.246.213
+shirakami-microbe 3600 IN A 133.60.238.63
+autoconfig 3600 IN CNAME period.cc
+cjr 3600 IN NS dash.cc
+3600 IN NS slash.cc
+meister 3600 IN NS sci.st
+jtokyo 3600 IN A 133.60.13.12
+cnc 3600 IN TXT "v=spf1 +ip4:133.60.14.131 +ip4:133.60.14.132 +ip4:111.89.176.176 ~all"
+cnc 3600 IN MX 20 smtp-wa
+coc 3600 IN CNAME sv05.cc
+coi 3600 IN CNAME sv05.cc
+www.equ 3600 IN CNAME sv05.cc
+eagle.mt 3600 IN A 133.60.176.212
+bact 3600 IN NS eagle.mt
+3600 IN NS rapter.hs
+hosp 3600 IN NS ns1.hosp
+cc 3600 IN NS dash.cc
+3600 IN NS moya.gw
+3600 IN NS slash.cc
+www.rprc 3600 IN CNAME center.rprc
+prt 3600 IN MX 20 smtp-wa
+center.rprc 3600 IN A 133.60.176.226
+smtp-wa 3600 IN A 111.89.176.176
+www-test01 800 IN CNAME www-test01.gw
+rp01 3600 IN A 133.60.238.218
+rp02 3600 IN A 133.60.238.219

@@ -1,0 +1,23 @@
+@ 10800 IN SOA @ shanto.pradeshta.net. 2014120201 10800 3600 604800 86400
+@ 10800 IN MX 10 seu
+10800 IN MX 30 s18.pradeshta.net.
+@ 10800 IN NS office.pradeshta.net.
+10800 IN NS prdshta.pradeshta.net.
+@ 10800 IN A 203.190.0.21
+w3 10800 IN A 203.190.0.17
+seu 10800 IN MX 10 seu
+10800 IN MX 30 s18.pradeshta.net.
+seu 10800 IN A 203.190.0.21
+www2 10800 IN CNAME seu
+ftp 10800 IN CNAME www
+ftp2 10800 IN CNAME seu
+www 10800 IN CNAME s2.pradeshta.net.
+my 10800 IN A 203.190.0.18
+dcs 10800 IN A 203.190.0.25
+mail 10800 IN MX 10 seu
+10800 IN MX 30 s18.pradeshta.net.
+mail 10800 IN A 203.190.0.21
+webmal 10800 IN A 203.190.0.21
+opac 10800 IN A 203.190.0.20
+smtp 10800 IN MX 20 smtp
+smtp 10800 IN A 203.190.0.28

@@ -1,0 +1,90 @@
+@ 38400 IN SOA rektor root.rektor 2015043002 10800 3600 604800 38400
+@ 3600 IN TXT "MS=ms80412019"
+@ 38400 IN NS duje.st.carnet.hr.
+38400 IN NS rektor
+38400 IN NS bjesomar.srce.hr.
+@ 38400 IN MX 10 rektor
+@ 38400 IN A 31.147.204.103
+brod.pfst 38400 IN A 161.53.161.3
+www.csc 38400 IN A 161.53.166.203
+dns2.fesb 38400 IN A 161.53.166.7
+SPportal.rektorat 38400 IN A 161.53.165.11
+www.gradst 38400 IN A 31.147.204.103
+Web1 38400 IN A 31.147.204.103
+gradst 38400 IN A 31.147.204.103
+stim 38400 IN A 31.147.204.153
+kifst 38400 IN NS rektor
+38400 IN NS kinesis.kifst
+sipa.utt 38400 IN A 31.147.204.26
+untangle-livanjska 38400 IN A 161.53.165.6
+pmfst 38400 IN NS mapmf.pmfst
+38400 IN NS rektor
+pravnaklinika 38400 IN A 31.147.204.183
+oss 38400 IN NS duje.st.carnet.hr.
+38400 IN NS dijana.oss
+kinesis.kifst 38400 IN A 161.53.37.130
+unist1-ro 38400 IN CNAME prorektor
+bruno.scst 38400 IN A 193.198.39.70
+umas 38400 IN NS grgur.umas
+38400 IN NS rektor
+repozitorij.gradst 38400 IN CNAME karaka.srce.hr.
+webcluster 38400 IN A 31.147.204.103
+ozs 38400 IN A 161.53.165.93
+ozs 38400 IN MX 10 lilly.ozs
+pop 38400 IN CNAME rektor
+kbf 38400 IN NS rektor
+38400 IN NS jeronim.kbf
+evasys 38400 IN A 161.53.165.5
+pnf 38400 IN A 31.147.204.115
+pfst 38400 IN NS brod.pfst
+38400 IN NS rektor
+knjiga.svkst 38400 IN A 161.53.38.3
+eng 38400 IN A 31.147.204.103
+ffst 38400 IN NS marul.ffst
+38400 IN NS rektor
+marul.ffst 38400 IN A 161.53.34.3
+lilly.ozs 38400 IN A 161.53.165.93
+grgur.umas 38400 IN A 161.53.184.3
+svkst 38400 IN NS knjiga.svkst
+38400 IN NS rektor
+spp 38400 IN CNAME rektoratunist.sharepoint.com.
+obad 38400 IN A 31.147.204.123
+csi 38400 IN A 31.147.204.46
+test 38400 IN A 161.53.165.10
+mail 38400 IN CNAME rektor
+ftp 38400 IN CNAME rektor
+balkangeonet 38400 IN A 31.147.204.34
+proxy 38400 IN CNAME rektor
+medp 38400 IN NS stijena.krs.hr.
+scst 38400 IN NS bruno.scst
+38400 IN NS rektor
+utt 38400 IN NS sipa.utt
+forenzika 38400 IN A 31.147.204.103
+ktf 38400 IN NS mak.ktf
+38400 IN NS rektor
+imap 38400 IN CNAME rektor
+fesb 38400 IN NS dns1.fesb
+38400 IN NS dns2.fesb
+38400 IN NS marjan.fesb
+38400 IN NS rektor
+switch 38400 IN A 161.53.165.2
+dijana.oss 38400 IN A 193.198.34.3
+www 38400 IN A 31.147.204.103
+rektor 38400 IN A 161.53.165.3
+efst 38400 IN NS dns.efst
+38400 IN NS rektor
+genom.mefst 38400 IN A 161.53.140.3
+dns1.fesb 38400 IN A 161.53.166.5
+festivalznanosti 38400 IN A 161.53.165.101
+more 38400 IN A 31.147.204.103
+mefst 38400 IN NS genom.mefst
+38400 IN NS rektor
+prorektor 38400 IN A 161.53.165.1
+marjan.fesb 38400 IN A 161.53.166.3
+dns 38400 IN CNAME rektor
+dns.efst 38400 IN A 193.198.36.3
+Web2 38400 IN A 31.147.204.103
+mapmf.pmfst 38400 IN A 161.53.37.3
+smtp 38400 IN CNAME rektor
+mak.ktf 38400 IN A 161.53.32.3
+jeronim.kbf 38400 IN A 193.198.35.3

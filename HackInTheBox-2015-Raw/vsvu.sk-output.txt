@@ -1,0 +1,44 @@
+@ 3600 IN SOA ns.afad.sk. root.afad.sk. 2015042000 3600 300 7200 3600
+@ 3600 IN A 193.87.57.10
+@ 3600 IN TXT "v=sfp1 mx a:mail.afad.sk a:mail.vsmu.sk -all"
+@ 3600 IN MX 10 mail
+@ 3600 IN NS ns.afad.sk.
+3600 IN NS ns.vsmu.sk.
+3600 IN NS ns.stuba.sk.
+305 3600 IN CNAME drake
+e-prihlaska 3600 IN A 193.87.13.42
+eprihlaskatest 3600 IN A 193.87.13.42
+studenti 3600 IN CNAME yak
+transport 3600 IN CNAME yak
+popularculture 3600 IN CNAME yak
+dejinydizajnu 3600 IN CNAME yak
+art 3600 IN CNAME drake
+* 3600 IN CNAME yak
+ais2 3600 IN A 193.87.13.40
+wordpress 3600 IN CNAME yak
+mail 3600 IN A 193.87.57.10
+webmail 3600 IN CNAME yak
+drake 3600 IN A 193.87.57.4
+yak 3600 IN A 193.87.57.10
+elearning 3600 IN A 62.169.180.204
+wiki 3600 IN A 62.169.180.205
+test 3600 IN CNAME yak
+ftp 3600 IN CNAME yak
+www 3600 IN CNAME yak
+bull 3600 IN A 193.87.57.9
+ais2-beta 3600 IN CNAME ais2
+ns 3600 IN A 193.87.57.4
+new 3600 IN CNAME yak
+old 3600 IN CNAME yak
+ca 3600 IN CNAME yak
+interaktivita 3600 IN CNAME yak
+produktdesign 3600 IN CNAME yak
+www2 3600 IN CNAME bull
+freza 3600 IN CNAME yak
+ikonografia 3600 IN CNAME yak
+lcms 3600 IN A 62.169.180.206
+aistest 3600 IN A 193.87.13.40
+kalendar 3600 IN CNAME yak
+old2 3600 IN CNAME drake
+beta 3600 IN CNAME yak
+photoport 3600 IN CNAME yak

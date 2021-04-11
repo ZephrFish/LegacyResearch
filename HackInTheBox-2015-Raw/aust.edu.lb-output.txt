@@ -1,0 +1,29 @@
+@ 3600 IN SOA ns1.sodetel.net.lb. domreg.sodetel.net.lb. 2014091706 10800 3600 172800 3600
+@ 3600 IN MX 0 aust-edu-lb.mail.protection.outlook.com.
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN A 77.42.159.36
+@ 3600 IN NS ns1.sodetel.net.lb.
+3600 IN NS ns2.sodetel.net.lb.
+www 3600 IN A 77.42.159.36
+students 3600 IN MX 0 1825040072.mail.exchangelabs.com.
+students 3600 IN TXT "v=spf1 include:exchangelabs.com all"
+autodiscover.students 3600 IN CNAME autodiscover.exchangelabs.com.
+alumni 3600 IN MX 0 231879158.mail.exchangelabs.com.
+alumni 3600 IN TXT "v=spf1 include:exchangelabs.com all"
+861763296 3600 IN CNAME domains.live.com.
+webmail 3600 IN CNAME autodiscover.outlook.com.
+ftp 3600 IN A 77.42.159.36
+autodiscover.mail 3600 IN CNAME autodiscover.exchangelabs.com.
+_sipfederationtls._tcp.students 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+m 3600 IN A 77.42.159.36
+zahle 3600 IN A 62.84.67.154
+sidon 3600 IN A 77.42.156.43
+_sipfederationtls._tcp.mail 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+email 3600 IN A 77.42.159.36
+mail 3600 IN MX 0 1884678818.mail.exchangelabs.com.
+mail 3600 IN TXT "v=spf1 include:exchangelabs.com all"
+_sipfederationtls._tcp.alumni 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+s1 3600 IN A 77.42.159.35
+_sipfederationtls._tcp 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+autodiscover.alumni 3600 IN CNAME autodiscover.exchangelabs.com.

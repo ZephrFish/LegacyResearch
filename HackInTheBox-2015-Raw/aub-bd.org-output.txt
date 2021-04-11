@@ -1,0 +1,16 @@
+@ 86400 IN SOA rsng1-ns1.whbdns.com. rajjaque.deshiserv.com. 2014080700 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS rsng1-ns1.whbdns.com.
+86400 IN NS rsng1-ns2.whbdns.com.
+@ 14400 IN A 205.251.134.98
+webdisk.aucc 14400 IN A 205.251.134.98
+webmail 14400 IN A 205.251.134.98
+www.aucc 14400 IN A 205.251.134.98
+ftp 14400 IN A 205.251.134.98
+cpanel 14400 IN A 205.251.134.98
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME @
+webdisk 14400 IN A 205.251.134.98
+whm 14400 IN A 205.251.134.98
+aucc 14400 IN A 205.251.134.98

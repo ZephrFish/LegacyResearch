@@ -1,0 +1,12 @@
+@ 3600 IN SOA ispcp.hoster.kg. help.hoster.kg. 2013071205 10800 3600 604800 86400
+@ 3600 IN TXT "v=spf1 ip4:176.126.164.24 a mx ~all"
+@ 3600 IN MX 10 mail
+3600 IN MX 20 mail
+@ 3600 IN NS ns3.hoster.kg.
+3600 IN NS ns4.hoster.kg.
+@ 3600 IN A 176.126.164.8
+pop 3600 IN A 176.126.164.8
+ftp 3600 IN A 176.126.164.8
+www 3600 IN A 176.126.164.8
+mail 3600 IN A 176.126.164.8
+smtp 3600 IN A 176.126.164.8

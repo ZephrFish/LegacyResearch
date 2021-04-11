@@ -1,0 +1,36 @@
+@ 72400 IN SOA info root.info 2012020155 3600 3600 604800 72400
+@ 72400 IN NS ns
+72400 IN NS ns4.nic.ru.
+@ 72400 IN A 62.76.124.35
+@ 72400 IN MX 10 mail
+nagios 72400 IN A 10.3.1.120
+cfpd 72400 IN CNAME www
+unknown 72400 IN CNAME wins
+orders 72400 IN CNAME taurus
+synergy 72400 IN CNAME www
+1c 72400 IN A 10.3.1.180
+print 72400 IN A 10.3.1.222
+phpmyadmin 72400 IN A 10.3.1.195
+cbg 72400 IN CNAME www
+ilias4 72400 IN CNAME www
+moodle 72400 IN CNAME www
+mail 72400 IN A 62.76.124.4
+ldap 72400 IN A 10.3.1.222
+ar20 72400 IN A 62.76.124.20
+scatalog 72400 IN CNAME taurus
+jinshu 72400 IN CNAME www
+unknown-asia 72400 IN CNAME wins
+priem 72400 IN CNAME taurus
+nm 72400 IN A 62.76.124.8
+localhost.t 72400 IN A 127.0.0.1
+www 72400 IN A 62.76.124.35
+ns 72400 IN A 62.76.124.2
+info 72400 IN A 62.76.124.2
+bbb 72400 IN A 10.3.1.155
+pravo 72400 IN A 10.8.14.10
+taurus 72400 IN A 62.76.124.25
+irbis 72400 IN A 10.4.1.254
+wins 72400 IN A 10.3.1.200
+ics 72400 IN CNAME www
+cadr4reg 72400 IN CNAME taurus
+ar21 72400 IN A 62.76.124.21

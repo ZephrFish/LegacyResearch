@@ -1,0 +1,1064 @@
+@ 604800 IN SOA cuces Postmaster.cuces 2001142679 86400 3600 2592000 432000
+@ 604800 IN NS ns1.garr.net.
+604800 IN NS cuces
+604800 IN NS corallo
+@ 432000 IN MX 10 esva1
+432000 IN MX 10 esva2
+@ 3600 IN TXT "MS=ms39398020"
+3600 IN TXT "v=spf1 ip4:193.205.4.0/24 ip4:193.205.6.0/24 ~all"
+usienawelcome 432000 IN NS cuces
+432000 IN NS corallo
+ssis 604800 IN NS cuces
+604800 IN NS corallo
+tutor 432000 IN CNAME rp.qitrs
+sc-um 604800 IN NS cuces
+604800 IN NS corallo
+lett 604800 IN NS cuces
+604800 IN NS corallo
+bio-mol 604800 IN NS cuces
+604800 IN NS corallo
+cuces1 432000 IN A 193.205.4.10
+cuces2 432000 IN A 193.205.4.8
+mail130 432000 IN A 193.205.6.130
+dfclam 604800 IN NS cuces
+604800 IN NS corallo
+scienzedeltesto 604800 IN NS cuces
+604800 IN NS corallo
+srv-web-win 600 IN A 193.205.4.106
+scpoltest10 604800 IN NS cuces
+604800 IN NS corallo
+dbaseplus 432000 IN CNAME aurum.qitam
+oldmail2 432000 IN CNAME cuces2
+presenze 432000 IN A 193.205.4.69
+pubb-test 432000 IN A 193.205.4.89
+nas-rettorato-r 432000 IN A 172.16.196.1
+discom 604800 IN NS cuces
+604800 IN NS corallo
+qro 604800 IN NS cuces
+604800 IN NS corallo
+sba 604800 IN NS cuces
+604800 IN NS corallo
+biomodem 604800 IN NS cuces
+604800 IN NS corallo
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+elearning 432000 IN A 192.167.125.59
+saul 604800 IN NS cuces
+604800 IN NS corallo
+qst 600 IN CNAME srv-lamp-out
+sbl 604800 IN NS cuces
+604800 IN NS corallo
+produzione-qit 432000 IN A 193.205.4.22
+qnl 604800 IN NS cuces
+604800 IN NS corallo
+mvpa 600 IN CNAME sigruweb
+adsl 604800 IN NS cuces
+604800 IN NS corallo
+wlc1-economia 432000 IN A 10.6.0.10
+srv-dbcla 432000 IN A 193.205.4.104
+ftp-asp 432000 IN CNAME hosting2
+sem 604800 IN NS cuces
+604800 IN NS corallo
+srv-virtual-t 600 IN A 193.205.4.62
+a 432000 IN NS cuces
+432000 IN NS corallo
+nas-arezzo 432000 IN A 172.16.196.58
+sbs3 432000 IN A 192.167.125.22
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+capitano 604800 IN NS cuces
+604800 IN NS corallo
+tools 432000 IN CNAME info-mail
+mant 604800 IN NS cuces
+604800 IN NS corallo
+pico 432000 IN A 193.205.4.23
+nas-grosseto 432000 IN A 172.16.196.106
+gofol 432000 IN CNAME srv-web-ammi
+xibo 432000 IN CNAME srv-lamp-in
+srv-web-ammi 600 IN A 193.205.4.86
+immatricolazioni 432000 IN CNAME pico
+textus 604800 IN NS cuces
+604800 IN NS corallo
+lett2 604800 IN NS cuces
+604800 IN NS corallo
+sip 3600 IN CNAME sipdir.online.lync.com.
+sqlserver2005 432000 IN A 172.16.5.5
+esva 432000 IN A 193.205.4.155
+432000 IN A 193.205.4.156
+david 604800 IN NS cuces
+604800 IN NS corallo
+archimin 604800 IN NS cuces
+604800 IN NS corallo
+nntp 432000 IN CNAME news
+rsu 604800 IN NS cuces
+604800 IN NS corallo
+dgtest 432000 IN A 192.167.125.44
+srv-virtual-t4a 600 IN A 193.205.4.39
+nas-laterino 432000 IN A 172.16.196.34
+bio-amb 604800 IN NS cuces
+604800 IN NS corallo
+nas-synology1-mgnt 432000 IN A 172.16.100.7
+nas-giurisprudenza-r 432000 IN A 172.16.196.17
+srv-virt11-cisc 600 IN A 172.16.0.9
+nas-ingegneria 432000 IN A 172.16.196.10
+soa 432000 IN CNAME online.qit
+srv-vrt15-pub 600 IN A 193.205.4.32
+balancer1 432000 IN A 193.205.4.55
+balancer2 432000 IN A 193.205.4.16
+dsfuci 604800 IN NS cuces
+604800 IN NS corallo
+mastercrie 604800 IN NS cuces
+604800 IN NS corallo
+buonepraticheot 604800 IN NS cuces
+604800 IN NS corallo
+mail150 432000 IN A 193.205.6.150
+faq 432000 IN CNAME srv-lamp-out
+spp 432000 IN CNAME pc-barbagli.ammi
+dsmcn 604800 IN NS cuces
+604800 IN NS corallo
+storing 604800 IN NS cuces
+604800 IN NS corallo
+antoniovicino 432000 IN CNAME ghs.google.com.
+student 604800 IN NS cuces
+604800 IN NS corallo
+zinco2008 432000 IN A 172.16.42.17
+usienaair 600 IN CNAME surplus-siena.cilea.it.
+pc-sbs2 432000 IN CNAME nt-server
+fwasb 432000 IN A 192.167.125.8
+pensioni 432000 IN A 172.16.43.33
+googleapps 432000 IN A 193.205.4.141
+mailpiler-mgnt 432000 IN A 172.16.100.12
+usiena-air 7200 IN CNAME surplusfe-prod-01.cineca.it.
+wwwcms 432000 IN CNAME pico
+mapu 604800 IN NS cuces
+604800 IN NS corallo
+cleis 604800 IN NS cuces
+604800 IN NS corallo
+cuprel 604800 IN NS cuces
+604800 IN NS corallo
+nas-sanminiato 432000 IN A 172.16.196.42
+code 432000 IN CNAME ghs.google.com.
+mobilita 600 IN CNAME sigruweb
+auleqit 604800 IN NS cuces
+604800 IN NS corallo
+srv-fadt 432000 IN CNAME welcome1
+ecommerce 432000 IN CNAME wp
+odont 604800 IN NS cuces
+604800 IN NS corallo
+rcuces 432000 IN A 193.205.4.1
+laison 604800 IN NS cuces
+604800 IN NS corallo
+ironport-mgmt 432000 IN A 192.168.42.42
+nas-arezzo-r 432000 IN A 172.16.196.57
+sbsora2 432000 IN A 192.167.125.39
+link 604800 IN NS cuces
+604800 IN NS corallo
+unisiena-wireless-gw 432000 IN A 172.16.10.1
+ufficionline 600 IN CNAME srv-iis-out
+swebovf 432000 IN A 193.205.4.119
+ecommerce-test 432000 IN CNAME wp
+ima2 432000 IN A 193.205.4.60
+deps 604800 IN NS cuces
+604800 IN NS corallo
+studisenesi 604800 IN NS cuces
+604800 IN NS corallo
+mla 604800 IN NS cuces
+604800 IN NS corallo
+generic-proxy 432000 IN A 193.205.6.111
+segreteriestudenti 600 IN CNAME sigruweb
+farmacol 604800 IN NS cuces
+604800 IN NS corallo
+masterltt 432000 IN A 172.16.96.2
+bioconnet 604800 IN NS cuces
+604800 IN NS corallo
+pc-gialli 432000 IN A 172.16.43.166
+e-geo 604800 IN NS cuces
+604800 IN NS corallo
+srv-web-srss 432000 IN CNAME srv-lamp-in
+pippo 300 IN CNAME smtp.a
+dottorati 432000 IN CNAME online.qit
+cluster-vms 432000 IN A 193.205.4.4
+infotext 604800 IN NS cuces
+604800 IN NS corallo
+rcolle 432000 IN A 192.167.113.33
+alephora 432000 IN A 192.167.125.47
+congressi 432000 IN NS cuces
+432000 IN NS corallo
+wlc1-scotte 432000 IN A 10.8.0.10
+bioinf 604800 IN NS cuces
+604800 IN NS corallo
+live 432000 IN A 193.205.4.76
+imap 432000 IN CNAME mail-balancer
+upe 604800 IN NS cuces
+604800 IN NS corallo
+pendola 604800 IN NS cuces
+604800 IN NS corallo
+gw-100 432000 IN A 172.16.100.1
+senarumvinea 604800 IN NS cuces
+604800 IN NS corallo
+srv-gwportale 432000 IN CNAME srv-iis-out
+thinpad 604800 IN NS cuces
+604800 IN NS corallo
+www.faq 432000 IN CNAME faq
+centralino 432000 IN CNAME proxy-voip01.qitrs
+guest 432000 IN CNAME marte
+mail-balancer1 432000 IN A 193.205.4.131
+mail-balancer2 432000 IN A 193.205.4.132
+vcenter 432000 IN A 172.16.100.5
+nas-lettere 432000 IN A 172.16.196.50
+srv-lamp-out 432000 IN A 193.205.4.36
+comunicatistampa 604800 IN NS cuces
+604800 IN NS corallo
+laarch 604800 IN NS cuces
+604800 IN NS corallo
+cuprum 432000 IN CNAME cuprum.qitam
+bibliosalarosa 432000 IN CNAME srv-web-srss
+imap1 432000 IN A 193.205.4.95
+wlc1-giurisprudenza 432000 IN A 10.2.0.10
+docenti 604800 IN NS cuces
+604800 IN NS corallo
+ml 432000 IN CNAME marte
+imap3 432000 IN A 193.205.4.97
+medunsdsn 604800 IN NS cuces
+604800 IN NS corallo
+pomus 604800 IN NS cuces
+604800 IN NS corallo
+obal 604800 IN NS cuces
+604800 IN NS corallo
+dhcp 432000 IN A 172.16.5.4
+easyweb 432000 IN A 172.16.2.33
+ing1 432000 IN A 193.205.4.78
+ing2 432000 IN A 193.205.4.79
+giurisprudenza 604800 IN NS cuces
+604800 IN NS corallo
+rpionta 432000 IN A 192.167.126.1
+fante 432000 IN A 172.16.0.10
+osservatorio 604800 IN NS cuces
+604800 IN NS corallo
+mailpiler 432000 IN A 193.205.4.144
+srsstools 432000 IN CNAME srv-web-srss
+radio 604800 IN NS cuces
+604800 IN NS corallo
+opennms 432000 IN A 172.16.41.238
+vpn 432000 IN A 193.205.5.2
+studistorici 604800 IN NS cuces
+604800 IN NS corallo
+xmlservices-old 432000 IN A 193.205.4.3
+wlc1-lettere 432000 IN A 10.5.0.10
+cuces 432000 IN A 193.205.4.2
+farm 604800 IN NS cuces
+604800 IN NS corallo
+titulus-test 432000 IN CNAME titulus-unisi.pp.cineca.it.
+traliro 604800 IN NS cuces
+604800 IN NS corallo
+srv-gnu 432000 IN A 193.205.4.15
+tickets 432000 IN A 193.205.4.118
+nanoworld 432000 IN NS cuces
+432000 IN NS corallo
+neogeo 604800 IN NS cuces
+604800 IN NS corallo
+cral 604800 IN NS cuces
+604800 IN NS corallo
+depfid 604800 IN NS cuces
+604800 IN NS corallo
+selfkiosk 432000 IN A 192.167.125.2
+kowalski2 432000 IN A 193.205.4.73
+conservazionebeniculturali 604800 IN NS cuces
+604800 IN NS corallo
+ragisoft 432000 IN A 172.16.42.35
+networkalumni 604800 IN NS cuces
+604800 IN NS corallo
+ftp-hosting 432000 IN CNAME hosting3
+alumni 604800 IN NS cuces
+604800 IN NS corallo
+rmat 432000 IN A 192.167.124.65
+moderator 432000 IN CNAME ghs.google.com.
+20 432000 IN CNAME ghs.google.com.
+simaco 604800 IN NS cuces
+604800 IN NS corallo
+hosting 432000 IN CNAME wp
+mdds 604800 IN NS cuces
+604800 IN NS corallo
+ezmetalib 432000 IN CNAME metalib
+professionilegali 604800 IN NS cuces
+604800 IN NS corallo
+unisat 604800 IN NS cuces
+604800 IN NS corallo
+man-sminiato 432000 IN A 172.16.200.3
+italianyearbook 604800 IN NS cuces
+604800 IN NS corallo
+srv-iis-in 600 IN A 172.16.5.2
+crie 604800 IN NS cuces
+604800 IN NS corallo
+rinascita 432000 IN CNAME ghs.google.com.
+pc-moira 432000 IN A 192.167.126.5
+webmail3 432000 IN A 193.205.4.135
+liaisonform 604800 IN NS cuces
+604800 IN NS corallo
+gints 604800 IN NS cuces
+604800 IN NS corallo
+progetti 3600 IN CNAME hosting3
+fg600c 432000 IN A 172.16.1.15
+nas-scotte 432000 IN A 172.16.196.66
+cerise 604800 IN NS cuces
+604800 IN NS corallo
+ssst 604800 IN NS cuces
+604800 IN NS corallo
+balancer-int 432000 IN A 193.205.4.153
+rsgiovanni 432000 IN A 192.167.113.1
+mail149 432000 IN A 193.205.6.149
+rpontignano 432000 IN A 192.167.124.193
+ginnicus 432000 IN A 192.167.120.11
+rvirtus 432000 IN A 192.167.118.33
+wlc1-laterino 432000 IN A 10.4.0.10
+nas-rettorato 432000 IN A 172.16.196.4
+albosui 432000 IN A 193.205.4.38
+fisiocratici 604800 IN NS cuces
+604800 IN NS corallo
+titanium 432000 IN CNAME titanium.qitam
+albo 432000 IN CNAME mercurio.qitam
+prova-robi 432000 IN A 172.16.1.126
+clatest 432000 IN A 193.205.4.149
+wp-test 432000 IN A 192.167.120.3
+report 432000 IN CNAME report.qitam
+servergianni 432000 IN A 193.205.4.35
+corimu 604800 IN NS cuces
+604800 IN NS corallo
+orientalettere 604800 IN NS cuces
+604800 IN NS corallo
+wlc1-matematica 432000 IN A 10.12.0.10
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+universitaperta 604800 IN NS cuces
+604800 IN NS corallo
+meta3lab 604800 IN NS cuces
+604800 IN NS corallo
+srv-lamp 600 IN A 193.205.4.147
+esipert 432000 IN CNAME scandio.qitam
+ced01 432000 IN CNAME srv-nero.qitam
+digitestora 432000 IN A 192.167.125.50
+thesaurus 600 IN CNAME sigruweb
+certosa 604800 IN NS cuces
+604800 IN NS corallo
+jeanmonnetchair-en 604800 IN NS cuces
+604800 IN NS corallo
+relay-test 600 IN A 193.205.4.139
+aaa 432000 IN A 193.205.4.46
+cgtlearning 604800 IN NS cuces
+604800 IN NS corallo
+nmr 604800 IN NS cuces
+604800 IN NS corallo
+ldapcluster 432000 IN A 193.205.4.20
+nuvola 600 IN A 193.205.4.42
+nt-server 432000 IN A 192.167.125.5
+maprin 604800 IN NS cuces
+604800 IN NS corallo
+sicurnet 432000 IN CNAME sicurnet.ltt.dii
+bandi 432000 IN CNAME online.qit
+dssbc 604800 IN NS cuces
+604800 IN NS corallo
+systools 432000 IN CNAME srv-lamp-out
+nas-economia-r 432000 IN A 172.16.196.25
+alma 432000 IN CNAME selfkiosk
+storia 604800 IN NS cuces
+604800 IN NS corallo
+musnaf 604800 IN NS cuces
+604800 IN NS corallo
+upweb 600 IN CNAME srv-iis-in
+archeologia 604800 IN NS cuces
+604800 IN NS corallo
+sfx 432000 IN A 192.167.125.34
+arezzo 604800 IN NS cuces
+604800 IN NS corallo
+laurea-geotecnologie 604800 IN NS cuces
+604800 IN NS corallo
+zinco 432000 IN A 172.16.43.53
+lifesciences 604800 IN NS cuces
+604800 IN NS corallo
+sbs2 432000 IN A 193.205.4.18
+apterygota2010 604800 IN NS cuces
+604800 IN NS corallo
+nas-pontignano 432000 IN A 172.16.196.74
+logs 432000 IN A 193.205.4.148
+publichealth 604800 IN NS cuces
+604800 IN NS corallo
+webmail-2 432000 IN A 193.205.4.81
+paliodisiena 604800 IN NS cuces
+aulelaterino 604800 IN NS cuces
+604800 IN NS corallo
+easy 432000 IN CNAME srv-sughero.pro
+haproxy 432000 IN A 193.205.4.159
+respir 432000 IN CNAME respir.med
+lammb 604800 IN NS cuces
+604800 IN NS corallo
+biscol 604800 IN NS cuces
+604800 IN NS corallo
+ecdl 432000 IN CNAME fad
+proxy 432000 IN CNAME corallo
+geologia-applicata 604800 IN NS cuces
+604800 IN NS corallo
+corsolinux 432000 IN CNAME pico
+mysql 432000 IN CNAME masterupdate
+ama 604800 IN NS cuces
+604800 IN NS corallo
+gips 604800 IN NS cuces
+604800 IN NS corallo
+scienzebiomediche 604800 IN NS cuces
+604800 IN NS corallo
+msgstore 600 IN CNAME cuces2
+ecodynamics 604800 IN NS cuces
+604800 IN NS corallo
+rdiana 432000 IN A 172.16.19.1
+civilia 432000 IN CNAME civilia.qitam
+mail1 432000 IN A 193.205.4.129
+mail2 432000 IN A 193.205.4.130
+mail3 432000 IN A 193.205.4.114
+webmail1 432000 IN A 193.205.4.122
+webmail2 1200 IN A 193.205.4.138
+scienzepolitiche 604800 IN NS cuces
+604800 IN NS corallo
+webmail4 60 IN CNAME newwebmail
+lettura 604800 IN NS cuces
+604800 IN NS corallo
+consorziobiomolpiante 604800 IN NS cuces
+604800 IN NS corallo
+short 432000 IN CNAME ghs.google.com.
+prenotazioni 432000 IN CNAME online.qit
+evalab 604800 IN NS cuces
+604800 IN NS corallo
+tunisia 604800 IN NS cuces
+604800 IN NS corallo
+mailsrv 432000 IN A 193.205.4.8
+432000 IN A 193.205.4.10
+giur 604800 IN NS cuces
+604800 IN NS corallo
+nas-laterino-r 432000 IN A 172.16.196.33
+asb 604800 IN NS cuces
+604800 IN NS corallo
+webmail-1 432000 IN A 193.205.4.80
+segreteriaonline 604800 IN CNAME esse3web-prod-35.cineca.it.
+rginori 432000 IN A 192.167.118.97
+repros 604800 IN NS cuces
+604800 IN NS corallo
+hosting2 432000 IN A 193.205.4.27
+hosting3 432000 IN A 193.205.4.74
+cal 432000 IN A 193.205.4.88
+wlc1-grosseto 432000 IN A 10.9.0.10
+antoniorizzo 432000 IN CNAME ghs.googlehosted.com.
+cca 604800 IN NS cuces
+604800 IN NS corallo
+magazzino 432000 IN A 172.16.42.246
+dirittopubblico 604800 IN NS cuces
+604800 IN NS corallo
+client-vpn1 432000 IN A 172.16.0.100
+client-vpn2 432000 IN A 172.16.0.101
+client-vpn3 432000 IN A 172.16.0.102
+client-vpn4 432000 IN A 172.16.0.103
+client-vpn5 432000 IN A 172.16.0.104
+client-vpn6 432000 IN A 172.16.0.105
+client-vpn7 432000 IN A 172.16.0.106
+client-vpn8 432000 IN A 172.16.0.107
+client-vpn9 432000 IN A 172.16.0.108
+laurea-economia 604800 IN NS cuces
+604800 IN NS corallo
+rstampa 604800 IN NS cuces
+604800 IN NS corallo
+biotecnologie 604800 IN NS cuces
+604800 IN NS corallo
+cfc 604800 IN NS cuces
+604800 IN NS corallo
+econ-pol 604800 IN NS cuces
+604800 IN NS corallo
+ring1 432000 IN A 192.167.113.1
+ring2 432000 IN A 192.167.113.129
+medsolutions 604800 IN NS cuces
+604800 IN NS corallo
+archeofirenze 604800 IN NS cuces
+604800 IN NS corallo
+energreens 604800 IN NS cuces
+604800 IN NS corallo
+geomorfologia 604800 IN NS cuces
+604800 IN NS corallo
+scuolaspecarte 432000 IN CNAME web.lett
+cgt 604800 IN NS cuces
+604800 IN NS corallo
+srv-lamp-in 600 IN A 193.205.4.146
+ects 432000 IN A 192.167.119.130
+dbe 604800 IN NS cuces
+604800 IN NS corallo
+masterupdate 432000 IN A 193.205.4.128
+cla 604800 IN NS cuces
+604800 IN NS corallo
+dcb 604800 IN NS cuces
+604800 IN NS corallo
+dbm 604800 IN NS cuces
+604800 IN NS corallo
+unitutor 432000 IN A 193.205.7.161
+ringe 432000 IN A 193.205.7.1
+mmsp 432000 IN CNAME pico
+dmms 604800 IN NS cuces
+604800 IN NS corallo
+nas-schiara 432000 IN A 172.16.196.98
+rlaterino 432000 IN A 192.167.121.1
+srv-virtual2 600 IN A 172.16.100.3
+archeoarti 604800 IN NS cuces
+604800 IN NS corallo
+srv-virtual4 600 IN A 193.205.4.43
+srv-virtual5 600 IN A 193.205.4.44
+diism 604800 IN NS cuces
+604800 IN NS corallo
+604800 IN NS firewall.dii
+policyd 600 IN CNAME srv-lamp-in
+winesiena 604800 IN NS cuces
+604800 IN NS corallo
+frontoffice 604800 IN NS cuces
+604800 IN NS corallo
+sigruweb 600 IN A 193.205.4.50
+wlc1-ingegneria 432000 IN A 10.3.0.10
+reverse-proxy 432000 IN A 193.205.4.154
+mail119 432000 IN A 193.205.6.119
+cra 604800 IN NS cuces
+604800 IN NS corallo
+dgt 432000 IN CNAME sfx
+wp 604800 IN NS cuces
+604800 IN NS corallo
+biostrutturistica 604800 IN NS cuces
+604800 IN NS corallo
+kowalski 432000 IN A 192.167.122.14
+dii 604800 IN NS cuces
+604800 IN NS corallo
+604800 IN NS firewall.dii
+mail139 432000 IN A 193.205.6.139
+csc 432000 IN CNAME rp.qitrs
+imitadb 600 IN CNAME sigruweb
+oranamesrvr1 432000 IN CNAME platinum.qitam
+cta 604800 IN NS cuces
+604800 IN NS corallo
+liste 432000 IN CNAME info-mail
+aurum 432000 IN CNAME aurum.qitam
+ctf 604800 IN NS cuces
+604800 IN NS corallo
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+csu 604800 IN NS cuces
+604800 IN NS corallo
+glpi 432000 IN CNAME srv-lamp
+cislab 604800 IN NS cuces
+604800 IN NS corallo
+pc-fabri 432000 IN A 192.167.125.12
+ar 604800 IN NS cuces
+604800 IN NS corallo
+dirittoprivato 604800 IN NS cuces
+604800 IN NS corallo
+sienatoronto 604800 IN NS cuces
+604800 IN NS corallo
+procedure 432000 IN CNAME srv-lamp-out
+apisalus 432000 IN NS cuces
+432000 IN NS corallo
+cus 604800 IN NS cuces
+604800 IN NS corallo
+dmm 604800 IN NS cuces
+604800 IN NS corallo
+kioskadmin 432000 IN CNAME online
+rsago 432000 IN A 192.167.122.1
+rcassero 432000 IN A 192.167.127.1
+storage 432000 IN A 172.16.42.14
+cipmi 604800 IN NS cuces
+604800 IN NS corallo
+en 432000 IN CNAME unisi.cineca.it.
+es 432000 IN CNAME srv-lamp-in
+wlc2-ingegneria 432000 IN A 10.3.8.10
+wlc1-pontignano 432000 IN A 10.11.0.10
+masterlettura 604800 IN NS cuces
+604800 IN NS corallo
+go 432000 IN CNAME ghs.google.com.
+dsa 604800 IN NS cuces
+604800 IN NS corallo
+fad 432000 IN A 193.205.4.5
+esipert-test 432000 IN CNAME scandio.qitam
+agenda 432000 IN A 193.205.4.125
+multimediart 604800 IN NS cuces
+604800 IN NS corallo
+rmedia 432000 IN A 192.167.124.129
+dst 604800 IN NS cuces
+604800 IN NS corallo
+dsv 604800 IN NS cuces
+604800 IN NS corallo
+nas-schiara-r 432000 IN A 172.16.196.97
+xlmr 432000 IN CNAME hosting2
+cirap 604800 IN NS cuces
+604800 IN NS corallo
+egeo 604800 IN NS cuces
+604800 IN NS corallo
+sw-vmware1 432000 IN A 172.17.1.2
+sw-vmware2 432000 IN A 172.17.1.3
+elt 604800 IN NS cuces
+604800 IN NS corallo
+rhosting 432000 IN A 192.167.120.1
+newsletterarezzo 600 IN CNAME srv-iis-out
+qitrs 604800 IN NS cuces
+604800 IN NS corallo
+prin2009 604800 IN NS cuces
+604800 IN NS corallo
+csaupd 432000 IN CNAME scandio.qitam
+imap2 432000 IN A 193.205.4.96
+dispoc 604800 IN NS cuces
+604800 IN NS corallo
+uscite.qit 600 IN CNAME sigruweb
+mastertradeting 604800 IN NS cuces
+604800 IN NS corallo
+fibim 604800 IN NS cuces
+604800 IN NS corallo
+argento 432000 IN A 172.16.40.6
+medcodyn 604800 IN NS cuces
+604800 IN NS corallo
+sigru 600 IN CNAME sigruweb
+funaioli 604800 IN NS cuces
+604800 IN NS corallo
+unisipickandgo 432000 IN A 193.205.4.107
+checkpwd 432000 IN CNAME soa
+project 432000 IN A 193.205.4.37
+ps 432000 IN A 172.16.0.4
+luca 604800 IN NS cuces
+604800 IN NS corallo
+biobank 604800 IN NS cuces
+604800 IN NS corallo
+ldaptest 432000 IN A 193.205.4.140
+pontignano 604800 IN NS cuces
+604800 IN NS corallo
+csaweb 432000 IN CNAME csaweb.qitam
+edats 604800 IN NS cuces
+604800 IN NS corallo
+tgn 604800 IN NS cuces
+604800 IN NS corallo
+sbsora 432000 IN A 192.167.125.21
+wlc1-sanminiato 432000 IN A 10.7.0.10
+ciscl 604800 IN NS cuces
+604800 IN NS corallo
+xmlservices 600 IN CNAME srv-iis02.qitrs
+disco 604800 IN NS cuces
+604800 IN NS corallo
+protocollo 432000 IN CNAME titulus-unisi.cineca.it.
+arsvidendi 604800 IN NS cuces
+604800 IN NS corallo
+aulesanminiato 604800 IN NS cuces
+604800 IN NS corallo
+aperta 432000 IN CNAME unisipickandgo
+antispam 432000 IN A 193.205.4.155
+432000 IN A 193.205.4.156
+oranamesrvr0 432000 IN CNAME aurum.qitam
+oldmail1 432000 IN CNAME cuces1
+oranamesrvr2 432000 IN CNAME cuprum.qitam
+unisinforma 432000 IN CNAME srv-lapa01
+fabrix 432000 IN A 192.167.125.36
+rammi 432000 IN A 192.167.125.1
+sw-unistrasi 432000 IN A 172.17.40.34
+sqlserver 432000 IN A 172.16.5.3
+ftp-php 432000 IN CNAME hosting3
+flebologia 604800 IN NS cuces
+604800 IN NS corallo
+gw-5 432000 IN A 172.16.5.1
+portal-est 600 IN CNAME srv-iis-out
+raccoltagnerucci 604800 IN NS cuces
+604800 IN NS corallo
+ftp 432000 IN CNAME cuces1
+autoconfig 432000 IN CNAME srv-lamp-out
+srss 604800 IN NS cuces
+604800 IN NS corallo
+labinf-scpol 604800 IN NS cuces
+604800 IN NS corallo
+space 432000 IN CNAME ghs.google.com.
+ufficiamm 600 IN CNAME srv-iis-out
+letterearezzo 604800 IN NS cuces
+604800 IN NS corallo
+comunicazioni 432000 IN CNAME rp.qitrs
+statistiche 432000 IN A 193.205.4.158
+rgarr 432000 IN A 193.205.5.1
+www2 432000 IN A 193.205.4.63
+www3 432000 IN CNAME pico
+gnu 604800 IN NS cuces
+604800 IN NS corallo
+srss-mng 432000 IN A 193.205.4.137
+stcb 604800 IN NS cuces
+604800 IN NS corallo
+esva1 432000 IN A 193.205.4.155
+esva2 432000 IN A 193.205.4.156
+nas-economia 432000 IN A 172.16.196.26
+masterbasa 604800 IN NS cuces
+604800 IN NS corallo
+_carddavs._tcp 432000 IN SRV 10 5 8443 agenda
+geografia1 432000 IN A 193.205.4.72
+man-scotte 432000 IN A 172.16.200.2
+dilemoscli 604800 IN NS cuces
+604800 IN NS corallo
+dbase 432000 IN CNAME rac2.qitam
+conference 432000 IN CNAME project
+oldaule 600 IN CNAME rp.qitrs
+man-rettorato 432000 IN A 172.16.200.1
+mailex 432000 IN A 193.205.6.1
+idp 432000 IN CNAME srv-lamp-in
+sso 432000 IN CNAME palladio.qitam
+client-vpn10 432000 IN A 172.16.0.109
+ldap1-slave 432000 IN A 193.205.4.151
+nas-lettere-r 432000 IN A 172.16.196.49
+congressitest 604800 IN NS cuces
+604800 IN NS corallo
+port-teamqit 432000 IN A 172.16.43.201
+serverlan 432000 IN A 192.167.125.4
+rassegnastampa 604800 IN NS cuces
+604800 IN NS corallo
+organi 432000 IN CNAME srv-lamp-out
+media 604800 IN NS cuces
+604800 IN NS corallo
+urp 604800 IN NS cuces
+604800 IN NS corallo
+webmail 432000 IN CNAME srv-lamp-out
+nas-proxy-qitrspriv 432000 IN A 172.16.1.206
+congressosird 604800 IN NS cuces
+604800 IN NS corallo
+lavreb 604800 IN NS cuces
+604800 IN NS corallo
+nas-sclavo 432000 IN A 172.16.196.90
+licenze 432000 IN CNAME produzione-qit.qitrs
+bizio 432000 IN A 192.167.125.10
+srv-virtual1 600 IN A 172.16.100.2
+dsmi 604800 IN NS cuces
+604800 IN NS corallo
+corem 604800 IN NS cuces
+604800 IN NS corallo
+rtecnico 432000 IN A 192.167.118.161
+fmssp 604800 IN NS cuces
+604800 IN NS corallo
+servernero 432000 IN CNAME srv-nero.qitam
+aulemantellini 604800 IN NS cuces
+604800 IN NS corallo
+srv-virtual3 600 IN A 172.16.100.4
+aule 600 IN CNAME srv-iis-out
+ilo 604800 IN NS cuces
+604800 IN NS corallo
+mail-balancer 432000 IN A 193.205.4.133
+fotosensorg 604800 IN NS cuces
+604800 IN NS corallo
+router-mpls 432000 IN A 172.16.0.12
+mebs 604800 IN NS cuces
+604800 IN NS corallo
+cal-test 432000 IN A 193.205.4.121
+ing 604800 IN NS cuces
+604800 IN NS corallo
+604800 IN NS firewall.dii
+bibar 604800 IN NS cuces
+604800 IN NS corallo
+www.qst 432000 IN CNAME srv-lamp-out
+ecodu 604800 IN NS cuces
+604800 IN NS corallo
+nas-gateway 432000 IN A 172.16.100.6
+sum 604800 IN NS cuces
+604800 IN NS corallo
+servizi 432000 IN CNAME services.qitam
+az-soc 604800 IN NS cuces
+604800 IN NS corallo
+lett-mod 604800 IN NS cuces
+604800 IN NS corallo
+humus 604800 IN NS cuces
+604800 IN NS corallo
+nero 432000 IN CNAME srv-nero.qitam
+csdt 604800 IN NS cuces
+604800 IN NS corallo
+dir-econ 604800 IN NS cuces
+604800 IN NS corallo
+qitam 604800 IN NS cuces
+604800 IN NS corallo
+ironport-data 432000 IN A 172.16.0.13
+tsrm 604800 IN NS cuces
+604800 IN NS corallo
+asbproxy 432000 IN A 192.167.125.42
+mysql2 432000 IN A 193.205.4.136
+metalib 432000 IN A 192.167.125.41
+sisp-pope 604800 IN NS cuces
+604800 IN NS corallo
+registrazione-master 600 IN CNAME srv-iis-out
+archeogr 604800 IN NS cuces
+604800 IN NS corallo
+chirpediatrica 604800 IN NS cuces
+604800 IN NS corallo
+postgresql 432000 IN A 193.205.4.126
+jmg 604800 IN NS cuces
+604800 IN NS corallo
+newwebmail 600 IN A 193.205.4.135
+corallo 432000 IN A 193.205.4.11
+www 432000 IN CNAME unisi.cineca.it.
+sigrucsa 432000 IN CNAME srv-iis-in
+archeologiamedievale 432000 IN CNAME archeo.archeo
+perform 604800 IN NS cuces
+604800 IN NS corallo
+sw-17-1 432000 IN A 172.17.1.1
+rsfra 432000 IN A 192.167.116.1
+chirplastica 604800 IN NS cuces
+604800 IN NS corallo
+mail109 432000 IN A 193.205.6.109
+rbiol 432000 IN A 192.167.123.1
+ldapha 432000 IN A 193.205.4.152
+museofisiocritici 604800 IN NS cuces
+604800 IN NS corallo
+fisiologia 604800 IN NS cuces
+604800 IN NS corallo
+marte 432000 IN A 193.205.4.41
+rubrica 600 IN CNAME srv-iis-out
+sirout1 432000 IN A 172.16.0.1
+specializzazionepediatria 604800 IN NS cuces
+604800 IN NS corallo
+mail110 432000 IN A 193.205.6.110
+uilsiena 604800 IN NS cuces
+604800 IN NS corallo
+dgiur 604800 IN NS cuces
+604800 IN NS corallo
+smfn 604800 IN NS cuces
+604800 IN NS corallo
+antivirus 432000 IN A 172.16.41.241
+nas-scotte-r 432000 IN A 172.16.196.65
+sirout6 432000 IN A 172.16.0.6
+conference2 432000 IN CNAME srvtest.qitrs
+economia 604800 IN NS cuces
+604800 IN NS corallo
+ldapread 432000 IN A 193.205.4.51
+sirout7 432000 IN A 172.16.0.7
+mail120 432000 IN A 193.205.6.120
+r4s 604800 IN NS cuces
+604800 IN NS corallo
+disag 604800 IN NS cuces
+604800 IN NS corallo
+jsipert 432000 IN CNAME scandio.qitam
+nas-giurisprudenza 432000 IN A 172.16.196.18
+rsclavo 432000 IN A 192.167.124.1
+eurunbis 604800 IN NS cuces
+604800 IN NS corallo
+rtoken 432000 IN A 192.167.114.51
+disas 604800 IN NS cuces
+604800 IN NS corallo
+scienzedellibro 604800 IN NS cuces
+604800 IN NS corallo
+careerday2014 604800 IN NS cuces
+604800 IN NS corallo
+careerday2015 604800 IN NS cuces
+604800 IN NS corallo
+googleffffffffbb9e6ec4 432000 IN CNAME google.com.
+durc 600 IN CNAME srv-iis-out
+biologiamolecolare 604800 IN NS cuces
+604800 IN NS corallo
+circap 604800 IN NS cuces
+604800 IN NS corallo
+welcome1 432000 IN A 193.205.4.47
+web-linux 432000 IN A 193.205.4.21
+mail129 432000 IN A 193.205.6.129
+metlora 432000 IN A 192.167.125.51
+dirpriv 604800 IN NS cuces
+604800 IN NS corallo
+labinf-digips 604800 IN NS cuces
+604800 IN NS corallo
+antropologica 604800 IN NS cuces
+604800 IN NS corallo
+medievalarchaeology 432000 IN CNAME archeo.archeo
+gnuproxy-mgnt 432000 IN A 172.16.42.169
+mar 604800 IN NS cuces
+604800 IN NS corallo
+nas-synology1 432000 IN A 172.16.1.58
+mat 604800 IN NS cuces
+604800 IN NS corallo
+vasari 432000 IN A 193.205.4.45
+nas-synology2 432000 IN A 172.16.1.104
+qpcr2010 604800 IN NS cuces
+604800 IN NS corallo
+imap01 432000 IN A 193.205.4.115
+imap02 432000 IN A 193.205.4.116
+darwin 604800 IN NS cuces
+604800 IN NS corallo
+med 604800 IN NS cuces
+604800 IN NS corallo
+tdtc 604800 IN NS cuces
+604800 IN NS corallo
+digitus 432000 IN A 192.167.125.45
+alessh 432000 IN A 193.205.4.34
+vcenterpub 432000 IN A 193.205.4.59
+sonna 604800 IN NS cuces
+604800 IN NS corallo
+nas-sanminiato-r 432000 IN A 172.16.196.41
+syslog 432000 IN A 193.205.4.105
+smtp 600 IN CNAME smtp.a
+mail140 432000 IN A 193.205.6.140
+server-flash 432000 IN A 193.205.4.111
+aaa2 432000 IN A 193.205.4.101
+aaa3 432000 IN A 193.205.4.82
+gw-17-1 432000 IN A 172.17.1.1
+archeo 604800 IN NS cuces
+604800 IN NS corallo
+wlc1-pendola 432000 IN A 10.14.0.10
+preistoria 604800 IN NS cuces
+604800 IN NS corallo
+tyrrhenum 604800 IN NS cuces
+604800 IN NS corallo
+laps 604800 IN NS cuces
+604800 IN NS corallo
+dispi 604800 IN NS cuces
+604800 IN NS corallo
+nam 432000 IN A 172.16.8.4
+disi 432000 IN A 192.167.120.13
+alephtemp 432000 IN A 192.167.125.48
+calendar 432000 IN CNAME ghs.google.com.
+oftalm 604800 IN NS cuces
+604800 IN NS corallo
+firewall.dii 432000 IN A 193.205.7.2
+msdb 604800 IN NS cuces
+604800 IN NS corallo
+srv-lapa01 600 IN A 193.205.4.84
+ipmn2013 604800 IN NS cuces
+604800 IN NS corallo
+ltt 604800 IN NS masterltt
+sigruservices 600 IN CNAME sigruweb
+rlettere 432000 IN A 192.167.117.1
+liaison 604800 IN NS cuces
+604800 IN NS corallo
+mna 604800 IN NS cuces
+604800 IN NS corallo
+mastereno 604800 IN NS cuces
+604800 IN NS corallo
+test 604800 IN NS cuces
+604800 IN NS corallo
+srv-formazione 432000 IN A 193.205.4.83
+semlab 604800 IN NS cuces
+604800 IN NS corallo
+generic-nat1 432000 IN A 193.205.5.2
+generic-nat2 432000 IN A 193.205.5.254
+pianidistudio 604800 IN NS cuces
+604800 IN NS corallo
+nisa 604800 IN NS cuces
+604800 IN NS corallo
+welcome 432000 IN CNAME welcome1
+ciads 604800 IN NS cuces
+604800 IN NS corallo
+nas-sclavo-r 432000 IN A 172.16.196.89
+fisica 604800 IN NS cuces
+604800 IN NS corallo
+vcenter-qitrspriv 432000 IN A 172.16.1.205
+chim 604800 IN NS cuces
+604800 IN NS corallo
+mrtg 432000 IN CNAME diaspro
+survey 432000 IN A 193.205.4.12
+nld 604800 IN NS cuces
+604800 IN NS corallo
+sia 600 IN CNAME sigruweb
+idps 604800 IN NS cuces
+604800 IN NS corallo
+ldap 432000 IN CNAME ldapcluster
+nas-grosseto-r 432000 IN A 172.16.196.105
+nas-matematica 432000 IN A 172.16.196.82
+noc 432000 IN A 193.205.4.33
+dsfta 604800 IN NS cuces
+604800 IN NS corallo
+software 600 IN CNAME srv-lamp-out
+smtp01 432000 IN A 193.205.4.93
+smtp02 432000 IN A 193.205.4.94
+antispam2 432000 IN A 193.205.4.7
+museobotanico 604800 IN NS cuces
+604800 IN NS corallo
+webmail-test 432000 IN A 193.205.4.157
+geologiatoscana 604800 IN NS cuces
+604800 IN NS corallo
+ca 600 IN CNAME srv-lamp-out
+valdid 432000 IN CNAME online.qit
+srv-iis-out 600 IN A 193.205.4.19
+nas-ingegneria-r 432000 IN A 172.16.196.9
+ldaptest-slave 432000 IN A 193.205.4.145
+veeam-helper 432000 IN A 172.16.100.10
+sienalectures 604800 IN NS cuces
+604800 IN NS corallo
+mupdate 432000 IN A 193.205.4.120
+oasi 432000 IN CNAME moloch.asb
+fototeca 604800 IN NS cuces
+604800 IN NS corallo
+laurea-economia-ambiente 604800 IN NS cuces
+604800 IN NS corallo
+lcpp 604800 IN NS cuces
+604800 IN NS corallo
+voip 432000 IN CNAME proxy-voip01.qitrs
+pro 604800 IN NS cuces
+604800 IN NS corallo
+nas-synology2-mgnt 432000 IN A 172.16.100.11
+geotecnologie 604800 IN NS cuces
+604800 IN NS corallo
+ntp 43200 IN CNAME rgarr
+reportcenter 432000 IN A 172.16.0.5
+pec 604800 IN NS cuces
+604800 IN NS corallo
+humanrights 604800 IN NS cuces
+604800 IN NS corallo
+codicistudenti 432000 IN CNAME online.qit
+pdq 432000 IN A 172.16.42.244
+pdr 600 IN CNAME sigruweb
+pds 432000 IN CNAME selfkiosk
+rcadorna 432000 IN A 192.167.127.129
+jeanmonnetchair 604800 IN NS cuces
+604800 IN NS corallo
+rpendola 432000 IN A 192.167.112.1
+med-leg 604800 IN NS cuces
+604800 IN NS corallo
+info-mail 432000 IN A 193.205.4.127
+mapgeo 432000 IN A 192.167.120.12
+online 432000 IN A 192.167.125.237
+labor 604800 IN NS cuces
+604800 IN NS corallo
+ldap1 300 IN A 193.205.4.150
+ldap2 3600 IN A 193.205.4.143
+anagrafe 432000 IN CNAME online.qit
+wlc1-arezzo 432000 IN A 10.10.0.10
+srv-stat 432000 IN A 172.16.5.6
+iscrizioneeventi 432000 IN CNAME marte
+epratsiena 432000 IN NS cuces
+432000 IN NS corallo
+dharma 432000 IN CNAME srvtest.qitrs
+nas-pontignano-r 432000 IN A 172.16.196.73
+wlc1-rettorato 432000 IN A 10.1.0.10
+bdricerca 604800 IN NS cuces
+604800 IN NS corallo
+comitatodottorato 432000 IN CNAME online.qit
+wironi 604800 IN NS cuces
+604800 IN NS corallo
+filol 604800 IN NS cuces
+604800 IN NS corallo
+dbcf 604800 IN NS cuces
+604800 IN NS corallo
+sirout2 432000 IN A 172.16.0.2
+sirout3 432000 IN A 172.16.0.3
+srv-mysql 600 IN CNAME magnesio.qitam
+sirout5 432000 IN A 172.16.0.11
+nas-matematica-r 432000 IN A 172.16.196.81
+platinum 432000 IN CNAME platinum.qitam
+masteretica 604800 IN NS cuces
+604800 IN NS corallo
+urologia 604800 IN NS cuces
+604800 IN NS corallo
+campus 432000 IN A 193.205.4.9
+srv-stampa 600 IN A 193.205.4.31
+redos 432000 IN CNAME sbs2
+gruppocampioni 604800 IN NS cuces
+604800 IN NS corallo
+wbt 432000 IN CNAME srv-formazione
+digitusora 432000 IN A 192.167.125.49
+rarcheo 432000 IN A 192.167.112.129
+verbaliorgani 432000 IN CNAME srv-web-ammi
+oldwebmail 432000 IN A 193.205.4.80
+lifeus 604800 IN NS cuces
+604800 IN NS corallo
+vamweb 432000 IN CNAME scandio.qitam
+wlc1-sclavo 432000 IN A 10.13.0.10
+qit 604800 IN NS cuces
+604800 IN NS corallo
+rscotte 432000 IN A 192.167.114.1
+diretta 432000 IN CNAME balancer1
+consolidation 604800 IN NS cuces
+604800 IN NS corallo
+puc 604800 IN NS cuces
+604800 IN NS corallo
+pug 604800 IN NS cuces
+604800 IN NS corallo
+sam 604800 IN NS cuces
+604800 IN NS corallo
+sdsnmedconf 604800 IN NS cuces
+604800 IN NS corallo
+criminologia 604800 IN NS cuces
+604800 IN NS corallo

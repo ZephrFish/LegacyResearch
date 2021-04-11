@@ -1,0 +1,1066 @@
+@ 86400 IN SOA nsm0 postmaster 2015032500 10800 3600 1209600 3600
+@ 86400 IN MX 0 vmx2.m0
+@ 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+86400 IN NS svps00
+@ 86400 IN A 131.113.1.1
+upload1 86400 IN CNAME vw0u1.itc
+appi 86400 IN NS appi1.appi
+86400 IN NS appi2.appi
+ns.comb.math 86400 IN A 131.113.62.2
+m0 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+lcc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+hc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+law 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+kjm 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+cs-relay.cs 86400 IN A 131.113.70.1
+ns.sc 86400 IN A 131.113.191.8
+ns2.carls 86400 IN A 131.113.216.135
+mitakyouikukai 86400 IN NS linux.mitakyouikukai
+kll 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+gakuji-svps 86400 IN CNAME svps00
+news.sfc 86400 IN A 133.27.4.123
+ns.mita 86400 IN A 131.113.192.8
+admissions 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+fbc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+boston.yochisha 86400 IN A 131.113.218.247
+ns.atmbb 86400 IN A 131.113.9.53
+kmp 86400 IN A 131.113.133.15
+hp0h 86400 IN A 131.113.135.34
+fbj 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+adms 86400 IN AAAA 2001:200:167:201::19
+adms 86400 IN A 131.113.134.19
+pearl 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ns.math 86400 IN A 131.113.34.250
+kmx 86400 IN MX 10 kmx
+kmx 86400 IN AAAA 2001:200:167:209::155
+kmx 86400 IN A 131.113.134.155
+hc-dormitory 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+phys-relay.phys 86400 IN A 131.113.44.1
+recsat 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+lua3 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+itsp 86400 IN NS ns.itsp
+86400 IN NS ns0.sfc
+kwh0 86400 IN A 131.113.133.65
+cs-keio 86400 IN CNAME cs-relay.cs
+ssv0 300 IN MX 10 ssv0
+ssv0 300 IN A 153.128.68.201
+harass-pco 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+tsushin 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+korc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+f21 86400 IN CNAME vod.sfc
+rm3 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+po 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+server2.kmd 86400 IN AAAA 2001:200:167:2e90::163
+server2.kmd 86400 IN A 131.113.138.163
+lib 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmh3 86400 IN A 131.113.133.13
+mail 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ns1.hs 86400 IN A 131.113.124.3
+sci 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+env 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmxb0 86400 IN MX 10 kmxb
+kmxb0 86400 IN A 131.113.133.21
+broadcast 86400 IN A 131.113.1.31
+mag 86400 IN NS dns0.mag
+86400 IN NS dns1.mag
+86400 IN NS ns01.sfc
+86400 IN NS ns02.sfc
+inst 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+mitatetsu 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ok 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+sdm 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+vds 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kcc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+pre 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ttc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+mcc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+adst 86400 IN NS ns0.sfc
+86400 IN NS ns1.adst
+86400 IN NS kogwy.cc
+wrserv 86400 IN CNAME wrserv2
+www 86400 IN AAAA 2001:200:167:201::20
+www 86400 IN A 131.113.134.20
+iki 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+cannaserver 86400 IN CNAME somosan.educ.cc
+kts 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+lib-relay.lib.st 86400 IN A 131.113.1.12
+cgi1 86400 IN CNAME vw0c1.itc
+sfc-js 86400 IN NS ns0.sfc
+86400 IN NS ns0.sfc-js
+jukuin 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+www.bio 86400 IN A 131.113.63.2
+gokaku 86400 IN A 131.113.213.130
+ns02.sfc 86400 IN A 133.27.4.22
+dns0.mag 86400 IN A 133.27.193.43
+med 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+gh0 86400 IN A 131.113.213.130
+coe-cancer 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+150bokin 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+mita 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+yugate03 86400 IN A 131.113.1.247
+ns0.chem 86400 IN A 131.113.92.1
+ru 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+space-law 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ic 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+uch 86400 IN A 131.113.134.134
+kyomu 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+fmc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+st 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+phys-keio 86400 IN CNAME kobkf-relay.cm.phys
+landcruiser.ae 86400 IN A 131.113.36.97
+gakunin1-test 86400 IN A 131.113.134.186
+candonet 86400 IN A 119.18.220.125
+ns.dmc 86400 IN A 131.113.135.194
+setsuden-d 86400 IN A 131.113.134.39
+nsm0 86400 IN AAAA 2001:200:167:1105::14
+nsm0 86400 IN A 131.113.215.20
+keio-svps 86400 IN CNAME svps00
+phys 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+hosp 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+macmini.applc 86400 IN A 131.113.16.35
+setsuden2 86400 IN AAAA 2001:200:167:202::36
+setsuden2 86400 IN A 131.113.134.36
+applc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+g30 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+haptics-c 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+sc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ns2.hs 86400 IN A 131.113.124.4
+rm2 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+rm 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+jinji 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+take.mkbe.elec 86400 IN A 131.113.43.9
+search 86400 IN A 131.113.215.6
+nhwp 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+cgcs 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+flet 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+coe-stemcell 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+atmbb 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns.atmbb
+86400 IN NS kogwy.cc
+sido 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+flang 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+shiki 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+m3c 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+sohot 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+search2 86400 IN A 131.113.215.54
+labs 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmxa 86400 IN MX 10 kmxa
+kmxa 86400 IN A 131.113.133.22
+login 86400 IN AAAA 2001:200:167:208::133
+login 86400 IN A 131.113.134.133
+mail0.sfc 86400 IN A 133.27.4.120
+accord 86400 IN A 131.113.209.8
+ns.st 86400 IN A 131.113.1.8
+gcoee 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+community 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+appi2.appi 86400 IN A 131.113.16.19
+ns.itsp 86400 IN A 133.27.177.194
+elecgwy.elec 86400 IN A 131.113.39.1
+math-keio 86400 IN CNAME cresson.math
+khsdb0 86400 IN A 131.113.133.5
+chem 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+gshs 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kwh1 86400 IN A 131.113.133.66
+foodscience 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+khsntp 86400 IN A 131.113.133.63
+global 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+uaa 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+wa 86400 IN A 131.113.215.60
+coesys 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ns0.sfc-js 86400 IN A 133.27.124.3
+mitabungaku 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+pdrc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+yokohama-e 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+somu 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+wrserv2 86400 IN A 131.113.134.167
+localhost 86400 IN CNAME localhost.
+rsch 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+coebio 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ogi 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+pajero.comp.ae 86400 IN A 131.113.37.19
+upload0 86400 IN CNAME vw0u0.itc
+mugate00 86400 IN A 131.113.221.164
+kmxb-old 86400 IN A 131.113.133.21
+akasaka 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+kf 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+info 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+coee 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ns0.sfc 86400 IN AAAA 2001:200:1c0:1100::121
+ns0.sfc 86400 IN A 133.27.4.121
+wlb 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+sanken 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+yugate01 86400 IN A 131.113.1.245
+k-ris 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+iab 86400 IN NS ns.bioinfo.ttck
+86400 IN NS ns1.bioinfo.ttck
+nmc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+research-highlights 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmh0 86400 IN MX 10 kmx
+kmh0 86400 IN A 131.113.133.10
+kmh1 86400 IN MX 10 kmx
+kmh1 86400 IN A 131.113.133.11
+kmh2 86400 IN A 131.113.133.12
+somosan.educ.cc 86400 IN A 131.113.10.31
+kmh4 86400 IN A 131.113.133.14
+test99 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+tenken 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmd 86400 IN NS ns.hc
+86400 IN NS server1.kmd
+86400 IN NS server2.kmd
+mserver.ae 86400 IN A 131.113.36.11
+ae-keio 86400 IN CNAME ae-keio.ae
+mech-dns.mech 86400 IN A 131.113.58.5
+ns1.slis 86400 IN A 131.113.196.14
+quattro.she.ae 86400 IN A 131.113.80.1
+sports 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ice 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+sfc-keio-news 86400 IN CNAME news.sfc
+mugate01 86400 IN A 131.113.221.165
+kieas 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+fls 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+icl 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+bio 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+appi1.appi 86400 IN A 131.113.16.18
+ics 86400 IN NS ns0.sfc
+86400 IN NS zebra.ics
+rm4 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+wa3 86400 IN A 131.113.215.57
+mediacom 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+gcoe-stemcell 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+plgs 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ns-snip 86400 IN A 131.113.134.188
+kwh0a70 86400 IN A 131.113.133.70
+kwh0a71 86400 IN A 131.113.133.71
+kwh0a72 86400 IN A 131.113.133.72
+ns1.bioinfo.ttck 86400 IN A 131.113.122.82
+elec-keio 86400 IN CNAME elecgwy.elec
+ies 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+gcoe-metabo 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+inst-keio 86400 IN CNAME inst1.inst
+lspre 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kwh3 86400 IN A 131.113.133.67
+bmi 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+eiri 86400 IN NS ns.mita
+86400 IN NS nsr.humi
+activation 86400 IN AAAA 2001:200:167:208::133
+activation 86400 IN A 131.113.134.133
+km-oaf 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+wa4 86400 IN A 131.113.215.7
+delica.soc.ae 86400 IN A 131.113.79.1
+kikin 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+150prep 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+art-c 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+hs 86400 IN NS ns1.hs
+86400 IN NS ns2.hs
+kss0 86400 IN A 131.113.133.50
+kss1 86400 IN A 131.113.133.51
+gh1 86400 IN A 131.113.213.131
+coe-ccc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+gp-iyaku 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+stat 86400 IN A 131.113.193.13
+anpi 86400 IN AAAA 2001:200:167:208::133
+anpi 86400 IN A 131.113.134.133
+shien-m 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+linux.mitakyouikukai 86400 IN A 131.113.218.16
+server1.kmd 86400 IN AAAA 2001:200:167:2e90::150
+server1.kmd 86400 IN A 131.113.138.162
+gender 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ns1.carls 86400 IN A 131.113.216.134
+humi 86400 IN NS ns.mita
+86400 IN NS nsr.humi
+ms-fund 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ikkan 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+mech 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+jean-monnet-coe 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+hosp-svps 86400 IN CNAME svps00
+ns0.slis 86400 IN A 131.113.196.1
+sfc 86400 IN NS ns0.sfc
+86400 IN NS ns01.sfc
+86400 IN NS ns02.sfc
+86400 IN NS kogwy.cc
+educ-cc-keio 86400 IN CNAME somosan.educ.cc
+pha 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ls 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kpri 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ha2-32.hytest 86400 IN A 131.113.253.232
+yugate00 86400 IN A 131.113.1.244
+cjs 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+test98 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ora 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+zebra.ics 86400 IN A 131.113.126.132
+nsr.humi 86400 IN A 131.113.213.11
+tutte.comb.math 86400 IN A 131.113.62.7
+org 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kyoseikan-temp 86400 IN A 131.113.215.57
+wa2 86400 IN A 131.113.215.56
+ipe 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+user 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+math 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+cirm 86400 IN NS ns1.carls
+ttck 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns2.sphere.ad.jp.
+86400 IN NS kogwy.cc
+kmx0 86400 IN MX 10 kmx
+kmx0 86400 IN A 131.113.133.20
+kmx1 86400 IN MX 10 kmx
+kmx1 86400 IN A 131.113.133.20
+kmx2 86400 IN MX 10 kmx
+kmx2 86400 IN A 131.113.133.20
+yugate02 86400 IN A 131.113.1.246
+econ 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+dff 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kogwy 86400 IN CNAME kogwy.cc
+gsec 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+cc-keio 86400 IN CNAME kogwy.cc
+nsm 86400 IN A 131.113.134.120
+ns1.adst 86400 IN A 131.113.221.126
+nsm1 86400 IN AAAA 2001:200:167:1105::15
+nsm1 86400 IN A 131.113.215.21
+yochisha 86400 IN NS ns.mita
+86400 IN NS ns.yochisha
+86400 IN NS boston.yochisha
+kmx-old 86400 IN A 131.113.133.20
+ns.hc 86400 IN A 131.113.224.8
+oncology 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+careerpath-prj 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+hyakuju 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+yy-cs-keio 86400 IN CNAME yy-cs-keio.yy.cs
+coe-econbus 86400 IN NS ns1.ssl-system.com.
+stat-new 86400 IN A 131.113.193.14
+stat2 86400 IN A 131.113.193.90
+ns01.sfc 86400 IN A 133.27.4.21
+pharm 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+elec 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+coe 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+salvage1 86400 IN A 131.113.133.234
+ssv1 300 IN A 153.128.69.90
+gakunin1 86400 IN A 131.113.134.179
+kbs 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+tempus 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+gcoe-econbus 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmxb1 86400 IN MX 10 kmxb
+kmxb1 86400 IN A 131.113.133.21
+crp 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+k12 86400 IN NS k12.keio-e.ed.jp.
+kotrec 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+karc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmxb 86400 IN MX 10 kmxb
+kmxb 86400 IN AAAA 2001:200:167:209::156
+kmxb 86400 IN A 131.113.134.156
+slis 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+carls 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+ae 86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+86400 IN NS mserver.ae
+kogwy.cc 86400 IN A 131.113.1.1
+csr 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ctj 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+itc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+bb 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+mugate02 86400 IN A 131.113.221.166
+mugate03 86400 IN A 131.113.221.167
+fcenter 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+sd 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+darc 86400 IN NS ns.mita
+86400 IN NS nsr.humi
+gakuji 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+86400 IN NS svps00
+dmc 86400 IN NS ns.dmc
+86400 IN NS ns.mita
+86400 IN NS ns.dmclab.jp.
+kgc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+cc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+totcop 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+kmxa2 86400 IN MX 10 kmxa2
+kmxa2 86400 IN A 131.113.133.23
+urchin 86400 IN A 131.113.215.19
+ns.bioinfo.ttck 86400 IN A 131.113.122.86
+gcoe-s4design 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+info2 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+human-cognition 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+koho 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+hcc 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+dns1.mag 86400 IN A 133.27.193.45
+cs 86400 IN NS ns0.sfc
+86400 IN NS cs-relay.cs
+khsdb1 86400 IN A 131.113.133.6
+oraa 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+k2 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS ns0.sfc
+86400 IN NS kogwy.cc
+rengo-mitakai 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+svps00 86400 IN A 49.212.20.196
+rcp 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc
+ctrc-seeds 86400 IN NS ns.hc
+86400 IN NS ns.sc
+86400 IN NS ns.st
+86400 IN NS ns.mita
+86400 IN NS kogwy.cc

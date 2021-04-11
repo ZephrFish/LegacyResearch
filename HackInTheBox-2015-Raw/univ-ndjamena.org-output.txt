@@ -1,0 +1,7 @@
+@ 86400 IN SOA ns4.infinitehorizon.biz. info.infinitehorizon.biz. 2010081308 10800 3600 604800 86400
+@ 86400 IN NS ns3.infinitehorizon.biz.
+86400 IN NS ns4.infinitehorizon.biz.
+@ 86400 IN A 173.0.132.191
+@ 86400 IN MX 10 mail11.myhsphere.biz.
+* 86400 IN A 173.0.132.191
+mail 86400 IN CNAME mail11.myhsphere.biz.

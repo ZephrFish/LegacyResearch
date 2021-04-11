@@ -1,0 +1,46 @@
+@ 86400 IN SOA ns1.twsb.com.my. chaurun.gmail.com. 2013042201 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns1.twsb.com.my.
+86400 IN NS ns2.twsb.com.my.
+@ 14400 IN A 210.48.154.27
+webdisk.staff 14400 IN A 210.48.154.27
+autoconfig.art 14400 IN A 210.48.154.27
+webdisk.art 14400 IN A 210.48.154.27
+webmail 14400 IN A 210.48.154.27
+_autodiscover._tcp.staff 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.art 14400 IN A 210.48.154.27
+_autodiscover._tcp.portal 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.portal 14400 IN A 210.48.154.27
+art 14400 IN A 210.48.154.27
+www.staff 14400 IN A 210.48.154.27
+_autodiscover._tcp.amb 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.amb 14400 IN A 210.48.154.27
+mail 14400 IN CNAME @
+autoconfig.student 14400 IN A 210.48.154.27
+webdisk 14400 IN A 210.48.154.27
+autodiscover 14400 IN A 210.48.154.27
+whm 14400 IN A 210.48.154.27
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+student 14400 IN A 210.48.154.27
+autoconfig.amb 14400 IN A 210.48.154.27
+webdisk.amb 14400 IN A 210.48.154.27
+ftp 14400 IN A 210.48.154.27
+cpanel 14400 IN A 210.48.154.27
+autodiscover.staff 14400 IN A 210.48.154.27
+autodiscover.portal 14400 IN A 210.48.154.27
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+staff 14400 IN A 210.48.154.27
+www.student 14400 IN A 210.48.154.27
+autodiscover.amb 14400 IN A 210.48.154.27
+autoconfig.staff 14400 IN A 210.48.154.27
+www.portal 14400 IN A 210.48.154.27
+amb 14400 IN A 210.48.154.27
+portal 14400 IN A 210.48.154.27
+_autodiscover._tcp.art 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.art 14400 IN A 210.48.154.27
+_autodiscover._tcp.student 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.student 14400 IN A 210.48.154.27
+autoconfig.portal 14400 IN A 210.48.154.27
+autoconfig 14400 IN A 210.48.154.27
+webdisk.student 14400 IN A 210.48.154.27

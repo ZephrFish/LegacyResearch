@@ -1,0 +1,23 @@
+@ 86400 IN SOA ns1 kmamun\@buet.ac.bd. 2013120401 86400 3600 604800 10800
+@ 86400 IN NS ns1
+@ 86400 IN MX 5 aspmx.l.google.com.
+86400 IN MX 10 alt1.aspmx.l.google.com.
+86400 IN MX 15 alt2.aspmx.l.google.com.
+86400 IN MX 20 aspmx2.googlemail.com.
+86400 IN MX 25 aspmx3.googlemail.com.
+@ 86400 IN A 202.51.179.35
+alt2.aspmx.l 86400 IN A 74.125.137.27
+app1 86400 IN A 123.49.33.237
+app2 86400 IN A 123.49.33.238
+app3 86400 IN A 123.49.33.242
+aspmx.l 86400 IN A 173.194.79.27
+admission 86400 IN A 123.49.33.237
+app 86400 IN A 123.49.33.238
+86400 IN A 123.49.33.242
+86400 IN A 123.49.33.239
+aspmx2 86400 IN A 74.125.142.26
+aspmx3 86400 IN A 74.125.137.26
+alt1.aspmx.l 86400 IN A 74.125.142.26
+admissions 86400 IN A 123.49.33.237
+ns1 86400 IN A 123.49.33.229
+www 86400 IN A 202.51.179.35

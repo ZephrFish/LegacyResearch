@@ -1,0 +1,20 @@
+@ 86400 IN SOA ns9.magsnet.net. serveradmin.magsnet.net. 2015041901 86400 7200 3600000 86400
+@ 14400 IN MX 0 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+14400 IN MX 15 @
+14400 IN MX 15 mail
+@ 86400 IN NS ns9.magsnet.net.
+86400 IN NS ns10.magsnet.net.
+@ 14400 IN A 202.5.133.85
+googlea69de5b2c2b4ea33 3600 IN CNAME google.com.
+webdisk 14400 IN A 202.5.133.85
+ftp 14400 IN CNAME @
+cpanel 14400 IN A 202.5.133.85
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME @
+webmail 14400 IN A 202.5.133.85
+whm 14400 IN A 202.5.133.85

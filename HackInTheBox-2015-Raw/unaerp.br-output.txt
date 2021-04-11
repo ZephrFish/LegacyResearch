@@ -1,0 +1,66 @@
+@ 300 IN SOA loki postmaster 2014121904 1200 3600 1209600 0
+@ 300 IN NS loki
+300 IN NS thor
+300 IN NS odin
+300 IN NS dns1.heurys.com.br.
+@ 300 IN A 187.51.61.75
+@ 300 IN MX 10 mx01
+300 IN MX 20 mx02
+@ 300 IN TXT "v=spf1 a mx ip4:187.51.61.89 ip4:179.184.174.195 -all"
+direito 300 IN CNAME svr-portal2
+svr-ead1 300 IN A 187.51.61.78
+postecnologiaambiental 300 IN CNAME svr-portal1
+webmail 300 IN A 187.51.61.77
+tv 300 IN CNAME svr-portal2
+svr-ead 300 IN A 187.51.61.79
+thor 300 IN A 201.91.120.170
+sici 300 IN CNAME svr-portal1
+globalobservatory 300 IN CNAME svr-portal1
+estantedigital 300 IN CNAME svr-portal1
+www5 300 IN CNAME svr-ead1
+posbiotecnologia 300 IN CNAME svr-portal1
+fisioterapia 300 IN CNAME svr-portal1
+qualyweb 300 IN CNAME svr-iis
+tede 300 IN CNAME svr-tede
+svr-tede 300 IN A 187.51.61.86
+www6 300 IN CNAME svr-tomcat2
+vpn 300 IN A 187.51.61.72
+autodiscover 300 IN A 187.51.61.77
+conic 300 IN CNAME svr-apache1
+posodonto 300 IN CNAME svr-portal1
+mx01 300 IN A 187.51.61.89
+mx02 300 IN A 179.184.174.195
+ead 300 IN CNAME svr-portal1
+antispam 300 IN CNAME svr-swcontrolcenter
+eaj 300 IN CNAME svr-portal1
+www7 300 IN CNAME svr-apache1
+pos 300 IN CNAME svr-portal1
+www 300 IN CNAME svr-portal1
+pergamum 300 IN CNAME svr-tede
+svr-apache1 300 IN A 187.51.61.80
+cameras 300 IN CNAME svr-cftv-zm
+loki 300 IN A 187.51.61.76
+svr-jboss 300 IN A 187.51.61.81
+odin 300 IN A 179.184.174.196
+svr-iis 300 IN A 187.51.61.87
+listas 300 IN NS loki
+listas 300 IN A 187.51.61.75
+www1 300 IN CNAME svr-tomcat
+perga_tede 300 IN CNAME svr-tede
+www4 300 IN CNAME svr-ead
+svr-tomcat2 300 IN A 187.51.61.83
+svr-portal1 300 IN A 187.51.61.75
+svr-portal2 300 IN A 187.51.61.82
+www8 300 IN A 187.51.61.94
+300 IN A 187.51.61.95
+300 IN A 187.51.61.96
+www9 300 IN CNAME svr-portal2
+jdrp 300 IN CNAME svr-portal1
+www3 300 IN CNAME svr-jboss
+svr-swcontrolcenter 300 IN A 187.51.61.99
+svr-cftv-zm 300 IN A 187.51.61.93
+svr-tomcat 300 IN A 187.51.61.74
+posdireito 300 IN CNAME svr-portal1
+online 300 IN A 187.51.61.77
+online 300 IN MX 10 online
+sslvpn 300 IN A 187.51.61.66

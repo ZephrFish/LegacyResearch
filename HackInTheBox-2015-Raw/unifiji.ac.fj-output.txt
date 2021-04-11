@@ -1,0 +1,23 @@
+@ 86400 IN SOA homer.is.com.fj. hostmaster.is.com.fj. 2005020224 28800 7200 604800 86400
+@ 86400 IN NS homer.is.com.fj.
+86400 IN NS marge.is.com.fj.
+@ 86400 IN MX 10 mail
+@ 86400 IN TXT "google-site-verification=ubfZC-RHldaaqbf9_1aWfBfF0s_vP-UGatpmCyVlPqA"
+ezproxy 86400 IN A 210.7.26.106
+sis 86400 IN A 210.7.26.106
+library 86400 IN A 210.7.26.106
+owa 86400 IN A 210.7.26.106
+myportal 86400 IN A 210.7.26.106
+localhost 86400 IN A 127.0.0.1
+mail 86400 IN A 210.7.26.106
+journals 86400 IN A 210.7.26.106
+student 86400 IN A 210.7.26.106
+student 86400 IN MX 1 aspmx.l.google.com.
+86400 IN MX 5 alt1.aspmx.l.google.com.
+86400 IN MX 5 alt2.aspmx.l.google.com.
+86400 IN MX 10 aspmx2.googlemail.com.
+86400 IN MX 10 aspmx3.googlemail.com.
+student 86400 IN TXT "Domain under construction"
+autodiscover 86400 IN A 210.7.26.106
+elearning 86400 IN A 210.7.26.106
+www 600 IN A 66.147.244.130

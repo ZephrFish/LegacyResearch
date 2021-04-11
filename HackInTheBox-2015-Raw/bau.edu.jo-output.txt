@@ -1,0 +1,105 @@
+@ 600 IN SOA dns1. hostmaster. 499 900 600 86400 600
+@ 600 IN A 87.236.233.118
+@ 600 IN NS dns1
+600 IN NS dns1.
+@ 600 IN MX 10 smtp
+@ 600 IN TXT "bau.edu.jo"
+600 IN TXT "ReleaseWLIDNamespace=True"
+600 IN TXT "google-site-verification=1N0VhacjoTAVxnuoy18a18__ClndeZABUeQ_sI2Iu2E" ""
+shamel 600 IN A 87.236.233.122
+reg 600 IN CNAME webbau
+health 600 IN CNAME webbau
+gstudies 600 IN NS dns1.
+bauelearning 600 IN A 87.236.233.114
+it 600 IN NS dns1.
+eng 600 IN MX 10 pamx1.hotmail.com.
+eng 600 IN TXT "v=spf1 ip4:65.54.247.22 ip4:65.54.247.8 a:pamx1.hotmail.com ~all"
+elearning 600 IN A 87.236.233.118
+t1 600 IN A 87.236.233.116
+fet 600 IN NS dns1.
+msoid.std 3600 IN CNAME clientconfig.microsoftonline-p.net.
+www 600 IN A 87.236.233.118
+aqaba 600 IN NS dns1.
+gapp 600 IN TXT "google-site-verification=lU7T7qGuQ91HZy49b99ReW9lYnFSQkxhKsNdB6uISW4" "          "
+msoid.alumni 3600 IN CNAME clientconfig.microsoftonline-p.net.
+sge 600 IN CNAME webbau
+karak 600 IN NS dns1.
+reg1 600 IN A 87.236.233.116
+600 IN A 87.236.233.109
+_autodiscover._tcp 600 IN SRV 0 0 443 mail
+application 600 IN A 87.236.233.105
+smtp 600 IN A 87.236.233.109
+sip 600 IN A 87.236.232.7
+cement 600 IN CNAME webbau
+shamel12 600 IN A 87.236.233.104
+test 600 IN A 87.236.233.120
+autodiscover 600 IN A 87.236.233.102
+3ismp 600 IN CNAME webbau
+shoubak 600 IN NS dns1.
+shamel2014 600 IN A 87.236.233.118
+cstc 600 IN CNAME webbau
+eval 600 IN A 87.236.233.106
+600 IN A 87.236.233.118
+autodiscover.std 3600 IN CNAME autodiscover.outlook.com.
+cas1 600 IN A 87.236.233.102
+std 600 IN MX 0 std-bau-edu-jo.mail.protection.outlook.com.
+std 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all "
+smart 600 IN A 87.236.233.118
+jomde 600 IN A 87.236.233.105
+maan 600 IN NS dns1.
+plan 600 IN NS dns1.
+company 600 IN CNAME webbau
+webbau 600 IN A 87.236.233.104
+rahma 600 IN NS dns1.
+registration 600 IN CNAME application
+paysides 600 IN CNAME webbau
+autodiscover.alumni 3600 IN CNAME autodiscover.outlook.com.
+poly1 600 IN A 87.236.233.120
+poly2 600 IN A 87.236.233.107
+poly3 600 IN A 87.236.233.119
+skillsexams 600 IN A 87.236.233.104
+mail 600 IN A 87.236.233.118
+agri 600 IN NS dns1.
+newmail 600 IN A 87.236.233.103
+geeu 600 IN A 87.236.233.118
+huson 600 IN NS dns1.
+old 600 IN A 87.236.233.118
+live 600 IN A 87.236.233.118
+cctraining 600 IN CNAME webbau
+medical 600 IN A 87.236.233.109
+pers 600 IN CNAME webbau
+*.ezproxy 600 IN A 87.236.233.117
+kafd 600 IN CNAME webbau
+zarqa 600 IN NS dns1.
+irbid-m 600 IN MX 10 pamx1.hotmail.com.
+irbid-m 600 IN TXT "v=spf1 ip4:65.54.247.22 ip4:65.54.247.8 a:pamx1.hotmail.com ~all"
+pdq 600 IN CNAME webbau
+nuclear 600 IN CNAME webbau
+15icse 600 IN CNAME webbau
+fortimail 600 IN A 87.236.233.109
+ezproxy 600 IN A 87.236.233.117
+exchange 600 IN A 87.236.233.102
+vpn2 600 IN A 87.236.233.118
+swbox 600 IN A 87.236.233.101
+itprof 600 IN A 87.236.233.104
+pix 600 IN A 87.236.233.98
+squery 600 IN CNAME webbau
+cms 600 IN A 87.236.233.101
+regquery 600 IN CNAME application
+isne 600 IN A 87.236.233.106
+isnp 600 IN A 87.236.233.106
+vpn 600 IN A 87.236.233.118
+dictionary 600 IN CNAME webbau
+scienceit 600 IN CNAME application
+shamelreg 600 IN A 87.236.233.122
+app1 600 IN A 87.236.233.101
+app2 600 IN A 87.236.233.116
+app3 600 IN A 87.236.233.106
+dns1 600 IN A 87.236.233.117
+dns2 600 IN CNAME dns1
+sport 600 IN CNAME webbau
+alumni 3600 IN MX 0 alumni-bau-edu-jo.mail.protection.outlook.com.
+alumni 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+acpp 600 IN A 87.236.233.104
+jeis 600 IN A 87.236.233.115
+award 600 IN A 87.236.233.100

@@ -1,0 +1,80 @@
+@ 3600 IN SOA ndudns01 dnsadmin 2015041501 3600 900 604800 300
+@ 3600 IN NS dnsauth1.sys.gtei.net.
+3600 IN NS dnsauth2.sys.gtei.net.
+3600 IN NS dnsauth3.sys.gtei.net.
+3600 IN NS ndudns01
+3600 IN NS ndudns02
+@ 3600 IN MX 20 ndugway01
+3600 IN MX 20 ndugway02
+@ 3600 IN TXT "v=spf1 mx Include: ~all"
+es 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+gc 3600 IN A 74.125.113.27
+gc 3600 IN TXT "v=spf1 mx include:_spf.google.com ~all"
+gc 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+msd-videotizer 3600 IN A 198.76.87.239
+icollege 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+jfsc 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+myproductionapi 3600 IN A 205.218.53.45
+cisa 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+ndugway02 3600 IN A 198.76.98.136
+ndugway02 3600 IN TXT "v=spf1 a -all"
+deviceportal 3600 IN A 10.0.30.33
+3600 IN A 10.0.30.34
+3600 IN A 172.30.1.33
+3600 IN A 172.30.1.34
+casl 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+capstone 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+mytrainfb 3600 IN A 205.218.53.53
+msd-iptv-16 3600 IN A 198.76.98.29
+digitalndulibrary 3600 IN A 198.76.98.20
+sponsorportal 3600 IN A 10.0.30.33
+3600 IN A 10.0.30.34
+3600 IN A 172.30.1.33
+3600 IN A 172.30.1.34
+ismo 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+eisenhower 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+calendar 3600 IN A 198.76.98.31
+nduntra000 3600 IN A 198.76.87.249
+portal 3600 IN CNAME www
+vnet 3600 IN A 198.76.98.99
+eadp 3600 IN A 198.76.98.150
+ndudns01 3600 IN A 198.76.98.128
+ndudns02 3600 IN A 198.76.98.129
+mycitrix 3600 IN A 205.218.53.37
+ndunac 3600 IN A 198.76.98.145
+chds 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+inss 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+my 3600 IN A 205.218.53.39
+www 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+pinnacle 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+nduvpn 3600 IN A 198.76.87.253
+mytrainapi 3600 IN A 205.218.53.56
+lincolntalks 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+jfscpsn01 3600 IN A 172.30.1.33
+jfscpsn02 3600 IN A 172.30.1.34
+ndupsn02 3600 IN A 10.0.30.34
+ndu-mcnr-dns 3600 IN A 198.76.98.128
+nwc 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+INET001 3600 IN A 198.76.89.7
+INET002 3600 IN A 24.248.20.2
+INET003 3600 IN A 198.76.94.253
+mytrain 3600 IN A 205.218.53.52
+nduwireless 3600 IN A 1.1.1.1
+print.support 3600 IN A 192.168.127.18
+ndupress 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+cjsl 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+keystone 3600 IN CNAME www.dodpw.defense.gov.edgesuite.net.
+cnetcsg 3600 IN A 205.218.53.2
+nduapp08 3600 IN CNAME calendar
+ndustra000 3600 IN A 198.76.94.249
+support 3600 IN NS print.support
+merln 3600 IN A 198.76.98.80
+ndupsn01 3600 IN A 10.0.30.33
+ndugway01 3600 IN A 198.76.98.135
+ndugway01 3600 IN TXT "v=spf1 a -all"
+libcatalog 3600 IN CNAME kest.sirsi.net.
+myproductionfb 3600 IN A 205.218.53.41

@@ -1,0 +1,81 @@
+@ 3600 IN SOA pathfinder.nexlinx.net.pk. webmaster.nexlinx.net.pk. 108115 14400 3600 604800 86400
+@ 3600 IN NS xenon.nexlinx.net.
+3600 IN NS hubble.nexlinx.net.pk.
+3600 IN NS columbia.nexlinx.net.
+3600 IN NS pathfinder.nexlinx.net.pk.
+@ 3600 IN A 111.68.103.27
+@ 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+wap 3600 IN A 202.83.174.29
+exchange 3600 IN A 111.68.103.3
+chemistry 3600 IN A 75.98.17.37
+autodiscover.um 3600 IN A 111.68.105.121
+3600 IN A 111.68.105.122
+um 3600 IN A 111.68.105.121
+3600 IN A 111.68.105.122
+um 3600 IN MX 10 mail201.pern.edu.pk.
+3600 IN MX 10 mail202.pern.edu.pk.
+3600 IN MX 20 mail101.pern.edu.pk.
+3600 IN MX 20 mail102.pern.edu.pk.
+iba 3600 IN A 144.76.119.139
+ibitpu 3600 IN A 203.128.6.224
+ucad 3600 IN A 50.23.40.128
+library 3600 IN A 209.172.54.212
+grw 3600 IN A 72.29.75.137
+puhcbf 3600 IN A 70.38.80.228
+pucit 3600 IN A 202.147.169.205
+av.um 3600 IN A 111.68.107.17
+cms 3600 IN A 111.68.103.23
+cms 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 lt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+cmswd 3600 IN A 111.68.103.12
+pusws 3600 IN A 111.68.103.14
+pulc 3600 IN A 203.128.6.131
+dev 3600 IN A 111.68.103.11
+pathfinder 3600 IN A 202.59.80.10
+* 3600 IN A 111.68.103.27
+* 3600 IN MX 10 mail
+3600 IN MX 20 mail1
+3600 IN MX 30 mail2
+ibapu 3600 IN A 144.76.119.139
+results 3600 IN A 111.68.103.28
+journals 3600 IN A 111.68.103.26
+journals 3600 IN MX 10 exchange
+sql1 3600 IN A 202.59.80.14
+sql2 3600 IN A 202.59.80.14
+icspu 3600 IN A 203.128.6.134
+_autodiscover._tcp 3600 IN SRV 0 100 443 um
+pinger-itc 3600 IN A 111.68.103.29
+hcc 3600 IN A 192.99.37.200
+sql 3600 IN A 202.59.80.43
+ftp 3600 IN A 202.83.174.30
+chem 3600 IN A 111.68.103.27
+dns1 3600 IN A 111.68.103.29
+dns2 3600 IN A 111.68.103.30
+opac 3600 IN A 111.68.103.2
+access.um 3600 IN A 111.68.107.7
+sip.um 3600 IN A 111.68.107.7
+www.cimr 3600 IN A 107.155.83.16
+_sipfederationtls._tcp 3600 IN SRV 0 0 5061 access.pern.edu.pk.
+3600 IN SRV 20 0 5061 access2.pern.edu.pk.
+www 3600 IN A 111.68.103.27
+cees 3600 IN A 66.193.231.225
+_sip._tls 3600 IN SRV 0 0 443 access.pern.edu.pk.
+3600 IN SRV 20 0 443 access2.pern.edu.pk.
+lyncdiscover.um 3600 IN CNAME lhr-ws13.pern.edu.pk.
+cimr 3600 IN A 107.155.83.16
+udc 3600 IN A 72.29.75.137
+chemistrypu 3600 IN A 75.98.17.62
+webconf.um 3600 IN A 111.68.107.15
+pugc 3600 IN A 202.83.170.99
+pulibrary 3600 IN A 209.172.54.212

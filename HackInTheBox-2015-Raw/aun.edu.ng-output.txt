@@ -1,0 +1,48 @@
+@ 300 IN SOA ns1 aunhostmaster.gmail.com. 2014050219 21600 3600 1814400 300
+@ 300 IN TXT "v=spf1 MX include:aspmx.googlemail.com ~all"
+@ 300 IN A 41.223.136.5
+@ 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+@ 300 IN NS ns1
+300 IN NS ns2
+300 IN NS ns1188.dns.dyn.com.
+300 IN NS ns2130.dns.dyn.com.
+300 IN NS ns3129.dns.dyn.com.
+300 IN NS ns4198.dns.dyn.com.
+sitc.liferay 300 IN A 41.223.136.251
+ns1 300 IN A 41.223.136.5
+ns2 300 IN A 41.223.138.5
+carePlus 300 IN A 41.223.138.37
+openerp 300 IN A 41.223.138.52
+google294b14a51746ad1f 300 IN CNAME google.com.
+calendar 300 IN CNAME ghs.google.com.
+support5 300 IN A 41.223.136.28
+portals 300 IN A 41.223.136.247
+moodle 300 IN A 41.223.136.4
+acit 300 IN A 75.126.213.59
+mail 300 IN CNAME ghs.google.com.
+liferay 300 IN A 41.223.136.251
+ga.liferay 300 IN A 41.223.136.251
+banner 300 IN A 41.223.136.21
+registrar 300 IN CNAME ns1
+canvas 300 IN A 41.223.136.250
+www 300 IN CNAME ns1
+my 300 IN A 41.223.136.22
+support2 300 IN A 41.223.136.18
+support3 300 IN A 41.223.136.26
+support4 300 IN A 41.223.136.27
+bannerxxb2 300 IN CNAME banner
+support6 300 IN A 41.223.136.29
+cislab 300 IN A 41.223.136.242
+myPortal 300 IN A 41.223.136.51
+myAUN 300 IN CNAME my
+canvas2 300 IN A 41.223.136.67
+voice 300 IN A 41.223.136.254
+gsdlserver 300 IN A 41.223.136.136
+library 300 IN A 41.223.136.3
+squad 300 IN A 41.223.136.246
+support 300 IN A 41.223.136.19
+dissupport 300 IN A 41.223.136.18

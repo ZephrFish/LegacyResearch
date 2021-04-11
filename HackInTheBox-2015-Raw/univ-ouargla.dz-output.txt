@@ -1,0 +1,32 @@
+@ 86400 IN SOA ns1 root 0 3600 3600 604800 10800
+@ 86400 IN TXT "google-site-verification=TtuE9lpUKw9ghwWJGZhf75ryZvsHndaaep8jzp6Egeg"
+@ 86400 IN NS ns1
+@ 86400 IN MX 10 mail
+@ 86400 IN A 193.194.92.29
+fm 86400 IN CNAME facultes
+ns1 86400 IN A 193.194.92.2
+istaps 86400 IN CNAME facultes
+ocs 86400 IN A 193.194.92.27
+fdsp 86400 IN CNAME facultes
+labo 86400 IN A 193.194.92.4
+it 86400 IN CNAME facultes
+fntic 86400 IN CNAME facultes
+fsnv 86400 IN CNAME facultes
+fsa 86400 IN CNAME facultes
+mail 86400 IN A 193.194.92.3
+86400 IN A 192.168.10.203
+elearn2013 86400 IN A 193.194.92.5
+facultes 86400 IN A 193.194.92.25
+ojs 86400 IN A 193.194.92.22
+www 86400 IN A 193.194.92.29
+old 86400 IN A 193.194.92.28
+revues 86400 IN A 193.194.92.20
+elearn 86400 IN A 193.194.92.8
+dspace 86400 IN A 193.194.92.7
+fmsm 86400 IN CNAME facultes
+bu 86400 IN A 193.194.92.6
+manifest 86400 IN A 193.194.92.19
+fshs 86400 IN CNAME facultes
+fhertu 86400 IN CNAME facultes
+fsecg 86400 IN CNAME facultes
+fll 86400 IN CNAME facultes

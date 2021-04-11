@@ -1,0 +1,34 @@
+@ 86400 IN SOA ns.rslrs17-server.com. root.rslrs17.rslrs17-server.com. 2014092801 86400 7200 3600000 86400
+@ 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+@ 86400 IN NS ns.rslrs17-server.com.
+86400 IN NS ns2.rslrs17-server.com.
+86400 IN NS ns3.silkyitproduction.com.
+86400 IN NS ns4.silkyitproduction.com.
+@ 14400 IN A 66.49.210.219
+webmail 14400 IN A 66.49.210.219
+_autodiscover._tcp.new 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.new 14400 IN A 66.49.210.219
+webdisk.new 14400 IN A 66.49.210.219
+autoconfig.gallery 14400 IN A 66.49.210.219
+autoconfig.new 14400 IN A 66.49.210.219
+mail 14400 IN CNAME @
+autodiscover 14400 IN A 66.49.210.219
+whm 14400 IN A 66.49.210.219
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk 14400 IN A 66.49.210.219
+ftp 14400 IN CNAME @
+cpanel 14400 IN A 66.49.210.219
+www.gallery 14400 IN A 66.49.210.219
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+new 14400 IN A 66.49.210.219
+autodiscover.new 14400 IN A 66.49.210.219
+_autodiscover._tcp.gallery 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.gallery 14400 IN A 66.49.210.219
+gallery 14400 IN A 66.49.210.219
+webdisk.gallery 14400 IN A 66.49.210.219
+autoconfig 14400 IN A 66.49.210.219

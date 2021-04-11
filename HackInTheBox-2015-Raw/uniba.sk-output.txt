@@ -1,0 +1,396 @@
+@ 3600 IN SOA nsmaster hostmaster 1430577601 600 300 2419200 3600
+@ 3600 IN MX 10 mailcheck
+3600 IN MX 20 mailcheck-backup
+@ 3600 IN A 158.195.6.138
+@ 3600 IN NS dns1
+3600 IN NS dns2
+3600 IN NS dns3
+3600 IN NS dns4
+@ 3600 IN TXT "@MS=ms23426125"
+3600 IN TXT "zgP0qgDkePol5U2PncKqqTpuych3lE5LREsUO+R29P2Ce8MbobtA5h937eqM8WoM6rIgcpvZxwx1zv1NXwAS4A=="
+pbx2-rec 3600 IN A 158.195.4.58
+cepit-beta 3600 IN A 158.195.4.42
+filestore 3600 IN A 158.195.4.92
+vdp-fmfi 3600 IN A 158.195.6.29
+monitor 3600 IN A 158.195.4.68
+ais-db 3600 IN A 158.195.4.50
+mailroot 3600 IN A 158.195.6.83
+iskam 3600 IN A 158.195.4.127
+oracle-dev 3600 IN A 158.195.4.77
+parafin2 3600 IN A 158.195.6.79
+tlac 3600 IN A 158.195.4.82
+cmdb 3600 IN A 158.195.5.5
+konto2008 3600 IN A 158.195.4.80
+openvpn-group 3600 IN A 158.195.4.72
+ut-rec 3600 IN A 158.195.2.248
+esx1 3600 IN A 10.4.4.1
+esx2 3600 IN A 10.4.4.2
+_sip._udp 3600 IN SRV 0 0 5060 sip
+esx4 3600 IN A 10.4.4.4
+esx5 3600 IN A 10.4.4.5
+esx6 3600 IN A 10.4.4.6
+esx7 3600 IN A 10.4.4.7
+esx8 3600 IN A 10.4.4.8
+cepit 3600 IN A 158.195.4.42
+flaw 3600 IN NS dns1
+3600 IN NS dns2
+3600 IN NS dns3
+3600 IN NS dns4
+mssql3 3600 IN A 158.195.6.8
+sip 3600 IN A 158.195.6.86
+sipadmin 3600 IN CNAME sip
+ruk 3600 IN MX 20 cyril.fmph
+em.fedu 3600 IN A 158.195.62.3
+starespf 3600 IN TXT "v=spf1" "mx" "ip4:158.195.4.4" "ip4:158.195.4.6" "ip4:158.195.4.99" "ip4:158.195.4.100" "ip4:158.195.4.107" "ip4:158.195.6.82" "ip4:158.195.6.83" "ip4:158.195.6.84" "ip4:158.195.6.92" "ip4:158.195.6.93" "ip4:158.195.104.150" "include:outlook.com" "-all"
+filestore2 3600 IN A 158.195.4.192
+filestore3 3600 IN A 158.195.4.193
+login 3600 IN A 158.195.4.12
+3600 IN A 158.195.4.13
+votr-api 3600 IN A 158.195.4.22
+www.cit 3600 IN A 158.195.4.131
+jas1 3600 IN A 158.195.6.66
+jas2 3600 IN A 158.195.4.66
+jas4 3600 IN A 158.195.15.80
+mffuk 3600 IN MX 20 cyril.fmph
+ns.fmed 3600 IN A 158.195.55.226
+fmed 3600 IN NS ns.fmed
+3600 IN NS ns1
+3600 IN NS ns2
+ksba 3600 IN MX 20 paulus
+ksbb 3600 IN MX 20 paulus
+autodesk-lic 3600 IN A 158.195.4.78
+vjas1 3600 IN A 10.4.4.8
+vjas2 3600 IN A 10.4.4.9
+diraccess 3600 IN A 158.195.4.113
+vc1 3600 IN A 158.195.4.70
+novamoja 3600 IN A 158.195.6.161
+vc3 3600 IN A 158.195.4.71
+ucts 3600 IN A 158.195.3.140
+fpharm 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS fafstx.fpharm
+3600 IN NS fafstw2.fpharm
+dev2 3600 IN A 158.195.4.163
+dev3 3600 IN A 158.195.4.163
+vdp-fmfi2 3600 IN A 158.195.6.31
+dev5 3600 IN A 158.195.4.164
+dirsync 3600 IN A 158.195.4.79
+fsport 3600 IN NS ns1
+3600 IN NS ns2
+mail 3600 IN A 158.195.4.110
+e164 3600 IN NS sip
+ubytovanie 3600 IN A 158.195.4.22
+konto-test 3600 IN A 158.195.4.83
+mgmtwin 3600 IN A 158.195.6.100
+shsp-skid 3600 IN A 158.195.4.122
+fmph 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS gauss.fmph
+jfmed.novyweb 3600 IN A 158.195.6.41
+upc 3600 IN NS ns1.upc
+3600 IN NS ns2.upc
+esx1-kpi 3600 IN A 10.41.8.7
+updates 3600 IN CNAME deploy
+ksnr 3600 IN MX 20 paulus
+eubytovanie 3600 IN A 158.195.4.171
+student 3600 IN CNAME student.rec
+vc-kpi 3600 IN A 10.41.8.15
+sip-jfmed 3600 IN A 193.87.84.10
+e-prihlaska 3600 IN A 158.195.4.56
+uvp 3600 IN A 158.195.6.138
+rezervator 3600 IN A 158.195.4.37
+vdp-ruk-win1 3600 IN A 158.195.6.32
+ais2 3600 IN A 158.195.4.51
+konto 3600 IN A 158.195.6.78
+ais-app1 3600 IN A 158.195.4.52
+ais-app2 3600 IN A 158.195.4.53
+ais-app3 3600 IN A 158.195.4.54
+ais-app4 3600 IN A 158.195.4.59
+ais-app5 3600 IN A 158.195.4.60
+ais-app6 3600 IN A 158.195.4.61
+pbx-rec 3600 IN A 158.195.4.35
+tlaciarne 3600 IN A 158.195.6.5
+test365 3600 IN TXT "MS=ms47373915"
+3600 IN TXT "i6yXok3VNOQ8T8h8jNVuSZpTiMcUlAUaqXtmcUJvuFKe6FBIS0HTcfIzl28beEB0germWDF/jVW+BodJaYCBCQ=="
+test365 3600 IN MX 10 fed2.test
+www-backup 3600 IN A 158.195.6.130
+parafin 3600 IN A 158.195.6.77
+mssql 3600 IN A 158.195.6.4
+ns.fm 3600 IN A 158.195.106.3
+hpbackup-uxis 3600 IN A 158.195.6.43
+int-dev-idm 3600 IN A 158.195.4.177
+testxp 3600 IN A 158.195.5.183
+mailcheck 3600 IN A 158.195.6.90
+wok 3600 IN CNAME wok.vili
+sklad 3600 IN A 158.195.4.194
+80205ffb-68cb-43e5-ab29-c418139fb560._msdcs 3600 IN CNAME gauss.fmph
+ut-mlyny-ada 3600 IN A 158.195.104.131
+ut-mlyny-adr 3600 IN A 158.195.104.132
+wpad 3600 IN CNAME www
+ut-prif 3600 IN A 158.195.2.249
+sklad2 3600 IN A 158.195.4.195
+mail.jfmed 3600 IN A 193.87.84.3
+proxy-rec 3600 IN CNAME proxy.rec
+testwin7-2 3600 IN A 158.195.4.251
+www 3600 IN A 158.195.6.138
+pbx-lf 3600 IN A 158.195.55.245
+dcuniba 3600 IN A 158.195.4.28
+student.mffuk 3600 IN MX 20 cyril.fmph
+1933027568.test2-live 3600 IN CNAME domains.live.com.
+7b3d5190-9afe-4ab9-8d8c-e0f49967383e._msdcs 3600 IN CNAME placka.rec
+vmbackup 3600 IN A 10.4.4.250
+www-test2 3600 IN A 158.195.6.141
+pms-uk 3600 IN A 158.195.6.73
+staryweb 3600 IN A 158.195.4.138
+*.cosign 3600 IN A 158.195.6.65
+sync365 3600 IN A 158.195.4.93
+esx3 3600 IN A 10.4.4.3
+openvpn3 3600 IN A 158.195.4.72
+alis 3600 IN A 158.195.4.49
+ssphpsp-skid 3600 IN A 158.195.4.124
+helpdesk-ubyt 3600 IN A 158.195.32.52
+int-app 3600 IN A 158.195.4.22
+955d3e5d-892b-4574-9136-ab7fcd1ba077._msdcs 3600 IN CNAME master
+st.mffuk 3600 IN MX 20 cyril.fmph
+debian 3600 IN A 158.195.4.22
+moodle 3600 IN A 158.195.4.168
+autodiscover 3600 IN CNAME mail
+cosign1 3600 IN A 158.195.6.65
+alvao 3600 IN A 158.195.6.18
+autodiscover.test365 3600 IN A 158.195.4.102
+ais 3600 IN CNAME ais2
+int-test 3600 IN A 158.195.4.22
+forum 3600 IN CNAME parafin
+proxy 3600 IN A 158.195.6.7
+_VLMCS 3600 IN SRV 0 0 1688 kms
+www-test 3600 IN A 158.195.6.41
+ut-mlyny 3600 IN A 158.195.104.133
+diskusie 3600 IN A 158.195.6.80
+esx2-kpi 3600 IN A 10.41.8.8
+wayf-skid 3600 IN A 158.195.4.120
+mssql2 3600 IN A 158.195.4.26
+ujop 3600 IN MX 20 cyril.fmph
+www-migracia 3600 IN A 158.195.6.138
+istec 3600 IN A 158.195.4.22
+1851568389.live 3600 IN CNAME domains.live.com.
+cas 3600 IN A 158.195.4.99
+int-dev 3600 IN A 158.195.6.72
+sepia.fns 3600 IN A 158.195.40.1
+wmserver 3600 IN A 158.195.4.8
+granty 3600 IN A 158.195.4.22
+cdo 3600 IN A 158.195.4.22
+cdp 3600 IN A 158.195.6.14
+ais2-beta 3600 IN A 158.195.4.55
+cepit-test 3600 IN A 158.195.4.42
+ut-lf 3600 IN A 158.195.2.246
+cit 3600 IN A 158.195.4.131
+winca 3600 IN A 158.195.4.112
+hpbackup-fmfi 3600 IN A 158.195.6.42
+trixbox 3600 IN A 158.195.6.88
+ujopke 3600 IN MX 20 cyril.fmph
+e-ubytovanie 3600 IN A 158.195.4.171
+mgmt 3600 IN A 158.195.6.99
+01554073-a885-4a12-b8bd-687343fe0089._msdcs 3600 IN CNAME globe
+dev 3600 IN A 158.195.4.132
+gauss.fmph 3600 IN A 158.195.16.240
+autodiscover.test-live 3600 IN CNAME autodiscover.outlook.com.
+int-esb1 3600 IN A 158.195.6.6
+hyper-v1 3600 IN A 158.195.4.188
+hyper-v2 3600 IN A 158.195.4.189
+mainserver.fevth 3600 IN A 158.195.4.96
+dns1 3600 IN A 158.195.4.3
+person 3600 IN A 158.195.35.1
+safeq 3600 IN A 158.195.4.82
+dns4 3600 IN A 158.195.6.2
+paulus 3600 IN A 158.195.72.2
+ujopsn 3600 IN MX 20 cyril.fmph
+edo 3600 IN A 158.195.6.96
+dom1 3600 IN A 158.195.4.111
+dom2 3600 IN A 158.195.6.111
+esx21 3600 IN A 10.4.4.21
+esx22 3600 IN A 10.4.4.22
+esx23 3600 IN A 10.4.4.23
+www.webmail 3600 IN CNAME webmail
+kokoska 3600 IN A 158.195.5.70
+testwin8 3600 IN A 158.195.4.175
+prieskum 3600 IN CNAME fsportweb1.fsport
+fm 3600 IN NS ns.fm
+3600 IN NS ns1
+3600 IN NS ns2
+deploy 3600 IN A 158.195.4.43
+wok.vili 3600 IN CNAME vili
+test2008r2 3600 IN A 158.195.4.186
+ij 3600 IN MX 10 mailcheck
+root 3600 IN A 158.195.2.2
+snort 3600 IN A 158.195.4.15
+1290727610 3600 IN CNAME domains.live.com.
+kurzy 3600 IN A 158.195.4.136
+era 3600 IN A 158.195.4.78
+antivir 3600 IN A 158.195.4.30
+globe 3600 IN A 158.195.2.2
+ut-faf 3600 IN A 158.195.2.247
+e-learn 3600 IN A 158.195.4.159
+cosign2 3600 IN A 158.195.4.65
+ts 3600 IN A 158.195.6.101
+gauss-mx 3600 IN A 158.195.16.240
+fns 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS sepia.fns
+www.cuces 3600 IN A 158.195.16.243
+test-live 3600 IN MX 10 mailgw.fmph
+ezp 3600 IN A 158.195.4.63
+dpuk 3600 IN A 158.195.3.132
+iax-jfmed 3600 IN A 193.87.84.9
+fed1 3600 IN A 158.195.4.101
+vdp-ruk1 3600 IN A 158.195.6.30
+gkp 3600 IN CNAME nic.fns
+DC.rec 3600 IN A 158.195.4.74
+ns1.upc 3600 IN A 158.195.189.3
+cas1 3600 IN A 158.195.4.108
+cas2 3600 IN A 158.195.4.109
+cas3 3600 IN A 158.195.4.107
+cas4 3600 IN A 158.195.4.99
+cosign 3600 IN A 158.195.4.65
+3600 IN A 158.195.6.65
+educateme 3600 IN A 158.195.4.22
+iscsi1435 3600 IN A 158.195.6.15
+remail 3600 IN A 158.195.6.82
+stella 3600 IN A 158.195.6.94
+unifi 3600 IN A 158.195.6.12
+www.moja 3600 IN CNAME moja
+fafstw2.fpharm 3600 IN A 158.195.64.50
+lanmgmt 3600 IN CNAME gizmo.rec
+idm 3600 IN A 158.195.4.22
+idp 3600 IN A 158.195.6.28
+forestdnszones 3600 IN A 158.195.2.2
+3600 IN A 158.195.2.6
+3600 IN A 158.195.4.38
+vili 3600 IN MX 10 mailcheck
+3600 IN MX 15 mailcheck-backup
+3600 IN MX 20 vili
+vili 3600 IN A 158.195.6.95
+sipadmin-jfmed 3600 IN A 193.87.84.10
+jfmed 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS mail.jfmed
+3600 IN NS dean4.jfmed
+_mediaproxy 3600 IN SRV 0 25 25060 sip
+racianska.fedu 3600 IN A 158.195.60.2
+mgmtwin2008 3600 IN A 158.195.4.81
+moja 3600 IN A 158.195.4.161
+shidp-skid 3600 IN A 158.195.4.121
+testrepozitar1 3600 IN A 158.195.6.36
+testrepozitar2 3600 IN A 158.195.6.37
+testrepozitar3 3600 IN A 158.195.6.38
+testrepozitar4 3600 IN A 158.195.6.39
+kca 3600 IN A 158.195.6.138
+sp.cit 3600 IN A 158.195.4.32
+www.ij.uniba.sk 3600 IN CNAME www.ij.fses
+mailcheck-backup 3600 IN A 158.195.6.93
+gsmgw 3600 IN A 158.195.6.89
+zazrak 3600 IN A 158.195.4.165
+vdp-ruk-linux1 3600 IN A 158.195.6.34
+ut-fsev 3600 IN A 158.195.2.250
+fafsafeq.fpharm 3600 IN A 158.195.4.126
+starwind1 3600 IN A 158.195.4.125
+starwind2 3600 IN A 158.195.6.125
+jfmed.www-test 3600 IN A 158.195.6.41
+security.cit 3600 IN A 158.195.15.73
+votr 3600 IN A 158.195.3.144
+fafstx.fpharm 3600 IN A 158.195.64.60
+saiodes 3600 IN A 158.195.6.13
+ut-jlf 3600 IN A 193.87.9.135
+vc2 3600 IN A 158.195.4.69
+esxm12 3600 IN A 10.4.4.32
+fed2 3600 IN A 158.195.4.102
+kms 3600 IN A 158.195.4.74
+helpdesk 3600 IN A 158.195.32.55
+esxm34 3600 IN A 10.4.4.31
+sluzby-hotline 3600 IN A 158.195.104.151
+e-prihlaska-beta 3600 IN A 158.195.4.55
+salto 3600 IN A 158.195.4.170
+testwin2008r2 3600 IN A 158.195.4.187
+1495865903.test-live 3600 IN CNAME domains.live.com.
+www.bz 3600 IN A 158.195.4.139
+esx24 3600 IN A 10.4.4.24
+anketa 3600 IN CNAME svt3.fmph
+ns.fedu 3600 IN A 158.195.62.2
+domaindnszones 3600 IN A 158.195.2.2
+3600 IN A 158.195.15.25
+fedu 3600 IN NS em.fedu
+3600 IN NS ns.fedu
+3600 IN NS racianska.fedu
+hodnotenie 3600 IN CNAME parafin
+cdrom 3600 IN A 158.195.6.71
+dev4 3600 IN A 158.195.4.163
+log 3600 IN A 158.195.4.162
+smtp 3600 IN CNAME metod.fmph
+radius1 3600 IN A 158.195.4.33
+radius2 3600 IN A 158.195.6.85
+radius3 3600 IN A 158.195.4.34
+radius4 3600 IN A 10.6.4.1
+webmail 3600 IN CNAME cas
+kerberos.krb 3600 IN CNAME jas1
+ais2-test 3600 IN A 158.195.4.62
+gopher 3600 IN CNAME center.fmph
+login1 3600 IN A 10.4.5.12
+login2 3600 IN A 10.4.5.13
+idep.cuces 3600 IN CNAME idep.infovek.sk.
+opapa 3600 IN CNAME zazrak
+sip-backup 3600 IN A 158.195.6.87
+cd-rom 3600 IN A 158.195.6.71
+absolventi 3600 IN A 158.195.4.22
+pbx-prif 3600 IN A 158.195.47.250
+new 3600 IN A 158.195.6.138
+video 3600 IN A 158.195.15.11
+dns2 3600 IN A 158.195.4.2
+www.uvp 3600 IN CNAME uvp
+dns3 3600 IN A 158.195.6.3
+autodiscover.office365 3600 IN CNAME office365
+openvpn 3600 IN A 158.195.4.36
+www.jfmed.novyweb 3600 IN A 158.195.6.11
+3600 IN A 158.195.6.41
+autodiscover.live 3600 IN CNAME autodiscover.outlook.com.
+ns1 3600 IN A 158.195.2.2
+ns2 3600 IN A 158.195.2.6
+hpbackup-ruk 3600 IN A 158.195.4.84
+pieskovisko 3600 IN A 158.195.6.41
+novyweb 3600 IN A 158.195.6.41
+ntp 3600 IN A 158.195.4.68
+ubuntu 3600 IN A 158.195.4.22
+nsmaster 3600 IN A 158.195.4.5
+spss 3600 IN A 158.195.4.78
+a1ea8192-1bff-41d1-8e21-2e2d20a62d61._msdcs 3600 IN CNAME dc.rec
+9668589b-c100-4697-aa58-290fa8b58efc._msdcs 3600 IN CNAME root
+dean4.jfmed 3600 IN A 193.87.84.4
+testwin2003 3600 IN A 158.195.4.172
+openvpn-pc 3600 IN A 158.195.4.166
+bz 3600 IN A 158.195.4.139
+testwin2012 3600 IN A 158.195.4.174
+2976760 3600 IN CNAME domains.live.com.
+ssphpidp-skid 3600 IN A 158.195.4.123
+fevth 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS mainserver.fevth
+mirasys1 3600 IN A 158.195.6.27
+mirasys2 3600 IN A 158.195.6.49
+mirasys3 3600 IN A 158.195.6.50
+mirasys4 3600 IN A 158.195.6.51
+ns2.upc 3600 IN A 158.195.191.98
+pms 3600 IN A 158.195.6.73
+fpharm-temp-mx 3600 IN A 158.195.64.50
+awstats 3600 IN A 158.195.4.156
+test-mssql 3600 IN A 158.195.4.97
+radius 3600 IN A 10.1.1.101
+office365 3600 IN MX 10 mailcheck
+3600 IN MX 20 mailcheck-backup
+office365 3600 IN TXT "G9W3zgh37qeX5Y3WS87t2Wxppf0uN8QWofm/avua6d9//auNHmkiIi9pq6///I0DJvVj4yMroh6IS9Brli1K8A=="
+office365 3600 IN A 158.195.4.157
+int-app4 3600 IN A 158.195.4.171
+int-app5 3600 IN A 158.195.6.75
+int-app6 3600 IN A 158.195.6.76
+int-app7 3600 IN A 158.195.4.22
+live 3600 IN MX 10 mailgw.fmph
+live 3600 IN TXT "v=spf1" "+mx" "include:outlook.com" "-all"
+index 3600 IN A 158.195.15.38
+vdp-fmfi-win2 3600 IN A 158.195.6.33

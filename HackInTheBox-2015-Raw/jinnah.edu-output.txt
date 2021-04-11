@@ -1,0 +1,8 @@
+@ 86400 IN SOA ns3.worldcall.net.pk. admin.worldcall.net.pk. 2013110102 28800 7200 864000 86400
+@ 86400 IN NS ns3.worldcall.net.pk.
+86400 IN NS ns9.worldcall.net.pk.
+@ 86400 IN A 115.186.92.66
+@ 86400 IN MX 10 mail
+majuaawaz 86400 IN A 115.186.92.69
+mail 86400 IN A 115.186.92.67
+www 86400 IN CNAME @

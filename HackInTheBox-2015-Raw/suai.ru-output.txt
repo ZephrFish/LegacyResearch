@@ -1,0 +1,12 @@
+@ 86400 IN SOA ns1.guap.ru. dns.aanet.ru. 2011111212 900 600 604800 3600
+@ 86400 IN NS ns1.guap.ru.
+86400 IN NS ns4.aanet.ru.
+@ 72000 IN A 194.226.199.243
+@ 7200 IN MX 10 mx1.guap.ru.
+@ 7200 IN TXT "v=spf1 ip4:91.151.188.3 ip4:194.226.199.243 ip4:194.226.199.49 ip6:2a01:8380:3:1::2 -all"
+media 86400 IN A 194.226.199.244
+default._domainkey 7200 IN TXT "v=DKIM1; g=*; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3+dzg0L7DbWvywMBIwPmSq1rby3PinMsBwBtBYEBKEJ+muSkvjdi/CufTFo9s79UCjhfmJnxZJLKQa9dvL45jGUjJ6x2tMBUCs5R5hEvCYL0R2F4U2blqvznDtamqLjWOzS+cbiA4w7+7w/SKpBJU1FaqqMzFus9H6mqXMfO7owIDAQAB"
+_adsp._domainkey 72000 IN TXT "dkim=all"
+www 3600 IN CNAME @
+spacewire 600 IN A 194.226.199.247
+spacewire 1440 IN MX 10 mx1.guap.ru.

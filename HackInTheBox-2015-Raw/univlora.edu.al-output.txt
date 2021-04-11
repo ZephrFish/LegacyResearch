@@ -1,0 +1,23 @@
+@ 86400 IN SOA ns1 kompjuterijuaj.hotmail.com. 2015021820 86400 7200 3600000 86400
+@ 86400 IN NS ns1
+86400 IN NS ns2
+@ 86400 IN MX 10 c4e154d44b1a7cbf974352a9561fac.pamx1.hotmail.com.
+@ 86400 IN A 64.50.179.188
+mail.menaxhoumsnew 86400 IN A 64.50.179.188
+server 86400 IN A 64.50.179.188
+mail.ums 86400 IN A 64.50.179.188
+ftp 86400 IN CNAME @
+ns2 86400 IN A 64.50.179.189
+www.menaxhoumsnew 86400 IN CNAME menaxhoumsnew
+menaxhoums 86400 IN MX 0 mail.menaxhoums
+menaxhoums 86400 IN A 64.50.179.188
+ums 86400 IN MX 0 mail.ums
+ums 86400 IN A 64.50.179.188
+mail.menaxhoums 86400 IN A 64.50.179.188
+www.ums 86400 IN CNAME ums
+mail 86400 IN A 64.50.179.188
+menaxhoumsnew 86400 IN MX 0 mail.menaxhoumsnew
+menaxhoumsnew 86400 IN A 64.50.179.188
+ns1 86400 IN A 64.50.179.188
+www.menaxhoums 86400 IN CNAME menaxhoums
+www 86400 IN CNAME @

@@ -1,0 +1,108 @@
+@ 86400 IN SOA nserver1.hs-koblenz.de. root 2015021802 10800 3600 604800 86400
+@ 86400 IN MX 10 mailgate
+86400 IN MX 20 smtpout
+@ 86400 IN TXT "v=spf1 mx ip4:143.93.243.5/32 ip4:143.93.243.11/32 ?all"
+@ 86400 IN A 143.93.243.6
+@ 86400 IN NS ns1.uni-koblenz.de.
+86400 IN NS deneb.dfn.de.
+86400 IN NS smtpout.hs-koblenz.de.
+86400 IN NS nserver1.hs-koblenz.de.
+home 86400 IN CNAME mserver
+mserver 86400 IN A 143.93.144.2
+mserver 86400 IN MX 10 mserver2
+86400 IN MX 20 mailgate
+mserver2 86400 IN A 143.93.144.3
+mserver2 86400 IN MX 10 mserver2
+86400 IN MX 20 mailgate
+ldap 86400 IN A 143.93.152.42
+ldap 86400 IN MX 20 mserver2
+86400 IN MX 30 mailgate
+sophosav 86400 IN A 143.93.144.86
+cnfhko21 86400 IN A 143.93.159.250
+rz-wiki 86400 IN CNAME smbsrvow
+rzkarthause 86400 IN CNAME smbsrvnb
+cnfhko1 86400 IN A 143.93.159.230
+cnfhko2 86400 IN A 143.93.159.231
+cnfhko3 86400 IN A 143.93.159.232
+bib 86400 IN NS nserver1.hs-koblenz.de.
+cnfhko5 86400 IN A 143.93.159.234
+cnfhko6 86400 IN A 143.93.159.235
+cnfhko7 86400 IN A 143.93.159.236
+cnfhko8 86400 IN A 143.93.159.237
+cnfhko9 86400 IN A 143.93.159.238
+baugis 86400 IN A 143.93.154.179
+smtpouto 86400 IN CNAME smtpout
+bwl 86400 IN NS nserver1.hs-koblenz.de.
+wpad 86400 IN CNAME www2006.hs-koblenz.de.
+alab 86400 IN CNAME smbsrvow
+kserver 86400 IN A 143.93.145.1
+cnfhko20 86400 IN A 143.93.159.249
+master 86400 IN CNAME mserver
+fbm 86400 IN NS nserver1.hs-koblenz.de.
+office 86400 IN CNAME verwsrv2.verw
+sogo 86400 IN CNAME mailgate
+cache 86400 IN CNAME cachenb
+www2012 86400 IN A 143.93.144.73
+idp 86400 IN A 143.93.144.46
+chat2015 86400 IN CNAME cdserv2
+wgk 86400 IN NS nserver1.hs-koblenz.de.
+timehost 86400 IN CNAME mserver
+vpn 86400 IN A 143.93.243.3
+smbsrvnb 86400 IN A 143.93.152.4
+campusnews 86400 IN CNAME www2006.hs-koblenz.de.
+webmail 86400 IN CNAME mailgate
+intern 86400 IN CNAME smbsrvow
+newshost 86400 IN CNAME news.uni-koblenz.de.
+elearning 86400 IN A 143.93.155.243
+wpad.tcp 86400 IN SRV 0 0 80 143.93.152.9
+wpad.tcp 86400 IN TXT "service: wpad:http://143.93.152.9/wpad.dat"
+www-kuni 86400 IN A 143.93.152.20
+mailgate 86400 IN A 143.93.243.11
+mailgate 86400 IN MX 30 mserver2
+86400 IN MX 50 mailgate
+ftp 86400 IN CNAME ftpn3
+smtpout 86400 IN A 143.93.243.5
+www 86400 IN CNAME wserver1.hs-koblenz.de.
+nserver1 86400 IN A 143.93.243.2
+rzneubau 86400 IN CNAME smbsrvnb
+localhost 86400 IN A 127.0.0.1
+cnfhko10 86400 IN A 143.93.159.239
+cnfhko11 86400 IN A 143.93.159.240
+cnfhko12 86400 IN A 143.93.159.241
+cnfhko13 86400 IN A 143.93.159.242
+cnfhko14 86400 IN A 143.93.159.243
+cnfhko15 86400 IN A 143.93.159.244
+cnfhko16 86400 IN A 143.93.159.245
+cnfhko17 86400 IN A 143.93.159.246
+cnfhko18 86400 IN A 143.93.159.247
+cnfhko19 86400 IN A 143.93.159.248
+cachenb 86400 IN A 143.93.152.1
+cnfhko22 86400 IN A 143.93.159.251
+cnfhko23 86400 IN A 143.93.159.252
+cnfhko24 86400 IN A 143.93.159.253
+cnfhko25 86400 IN A 143.93.159.254
+news 86400 IN CNAME news.uni-koblenz.de.
+proxy 86400 IN CNAME cachenb
+ftpn3 86400 IN A 143.93.152.19
+www2006 86400 IN A 143.93.152.9
+www2006 86400 IN MX 10 www2006
+86400 IN MX 20 mserver2
+86400 IN MX 30 mailgate
+www2008 86400 IN A 143.93.144.8
+www2008 86400 IN MX 10 smtpout
+86400 IN MX 20 mserver2
+86400 IN MX 30 mailgate
+fbwgk 86400 IN NS nserver1.hs-koblenz.de.
+loghost 86400 IN CNAME mserver
+wwwbpmerp 86400 IN CNAME wserver5.hs-koblenz.de.
+baugis01 86400 IN A 143.93.154.196
+ntp 86400 IN CNAME cachenb
+smbsrvow 86400 IN A 143.93.144.40
+mailhost 86400 IN CNAME mserver2
+verw 86400 IN NS nserver1.hs-koblenz.de.
+dns 86400 IN CNAME kserver
+qisserver 86400 IN A 143.93.243.9
+eui 86400 IN NS nserver1.hs-koblenz.de.
+modellfabrik 86400 IN CNAME wserver5.hs-koblenz.de.
+cache01 86400 IN A 143.93.144.7
+cnfhko4 86400 IN A 143.93.159.233

@@ -1,0 +1,26 @@
+@ 3600 IN SOA parmenion. hostmaster 2012091242 900 600 86400 3600
+@ 3600 IN NS rns0.grnet.gr.
+3600 IN NS parmenion
+3600 IN NS rns1.grnet.gr.
+3600 IN NS rns2.grnet.gr.
+3600 IN NS parmenion.
+@ 3600 IN MX 10 mail
+parmenion. 3600 IN A 195.251.96.2
+moodle2 3600 IN A 195.251.96.8
+www.lib 3600 IN CNAME lib
+alumni 3600 IN A 195.251.96.8
+parmenion 3600 IN A 195.251.96.2
+ermis 3600 IN A 195.251.96.8
+mail 3600 IN A 195.251.96.3
+mail 3600 IN MX 10 mail
+gitlab 3600 IN A 195.251.96.8
+www 3600 IN CNAME ektoras
+rns2.grnet.gr 3600 IN A 194.177.210.210
+moodle 3600 IN A 195.251.96.8
+ektoras 3600 IN A 195.251.96.11
+alumnae 3600 IN A 195.251.96.8
+om 3600 IN A 195.251.96.9
+rns1.grnet.gr. 3600 IN A 194.177.210.211
+moodle_new 3600 IN A 195.251.96.8
+rns0.grnet.gr. 3600 IN A 194.177.210.10
+lib 3600 IN A 195.251.96.6

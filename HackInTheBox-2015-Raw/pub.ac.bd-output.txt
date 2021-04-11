@@ -1,0 +1,15 @@
+@ 86400 IN SOA ns1.sineris.net. hostmaster 2013121901 3600 600 604800 86400
+@ 86400 IN A 69.13.47.101
+@ 86400 IN NS ns1.sineris.net.
+86400 IN NS ns2.sineris.net.
+@ 86400 IN MX 51 bkpmx.sineris.net.
+86400 IN MX 10 mail
+86400 IN MX 21 mail2
+@ 86400 IN TXT "v=spf1 a mx a:mail.sineris.com -all" ""
+webmail 86400 IN A 69.13.47.3
+* 86400 IN A 69.13.47.101
+cp 86400 IN A 69.13.47.20
+www 86400 IN A 69.13.47.101
+mail2 86400 IN A 69.13.47.6
+mail 86400 IN A 69.13.47.3
+ftp 86400 IN A 69.13.47.101

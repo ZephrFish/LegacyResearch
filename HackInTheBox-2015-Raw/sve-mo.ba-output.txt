@@ -1,0 +1,62 @@
+@ 3600 IN SOA uni-mo postmaster.uni-mo 2015012902 28800 7200 604800 86400
+@ 3600 IN NS ls2.tel.net.ba.
+3600 IN NS duje.st.carnet.hr.
+3600 IN NS uni-mo
+@ 3600 IN A 212.39.96.70
+@ 3600 IN MX 10 uni-mo
+fzs 3600 IN A 212.39.96.70
+gf 3600 IN A 212.39.96.70
+gf 3600 IN MX 10 uni-mo
+kampus 3600 IN A 212.39.115.215
+farf 3600 IN A 212.39.96.70
+mrtg 3600 IN CNAME uni-mo
+www.mf 3600 IN A 212.69.26.199
+senat 3600 IN A 212.39.96.70
+aptf 3600 IN A 195.29.89.14
+is 3600 IN A 212.39.115.40
+lib.mf 3600 IN A 212.69.26.200
+la 3600 IN MX 10 uni-mo
+sunce 3600 IN CNAME uni-mo
+mail 3600 IN CNAME uni-mo
+aleph.mf 3600 IN A 212.69.26.200
+instalacija 3600 IN A 212.39.96.71
+ito 3600 IN A 176.28.10.18
+zilavka 3600 IN A 212.39.96.72
+pgf 3600 IN MX 10 uni-mo
+fsr 3600 IN A 212.39.96.70
+pop 3600 IN CNAME uni-mo
+ftp 3600 IN CNAME uni-mo
+fsef 3600 IN A 212.39.96.70
+www 3600 IN A 212.39.96.70
+af 3600 IN MX 10 uni-mo
+localhost 3600 IN A 127.0.0.1
+ntp 3600 IN CNAME uni-mo
+pf 3600 IN A 174.120.146.146
+pf 3600 IN MX 10 uni-mo
+grid1 3600 IN A 212.39.115.21
+grid2 3600 IN A 212.39.115.22
+grid3 3600 IN A 212.39.115.23
+grid4 3600 IN A 212.39.115.24
+grid5 3600 IN A 212.39.115.25
+grid6 3600 IN A 212.39.115.26
+grid7 3600 IN A 212.39.115.27
+mail.mf 3600 IN A 212.69.26.199
+bindmaster 3600 IN CNAME uni-mo
+proxy 3600 IN CNAME uni-mo
+mf 3600 IN MX 10 uni-mo
+ero 3600 IN A 212.39.96.69
+www2010 3600 IN CNAME uni-mo
+smtp 3600 IN CNAME uni-mo
+uni-mo 3600 IN A 212.39.96.70
+sc 3600 IN A 95.85.18.21
+mef 3600 IN A 212.39.115.164
+sf 3600 IN MX 10 uni-mo
+alu 3600 IN A 212.39.96.70
+ef 3600 IN A 212.39.96.70
+ef 3600 IN MX 10 uni-mo
+fpmoz 3600 IN A 176.28.10.18
+dns 3600 IN A 212.39.96.70
+grid 3600 IN MX 10 grid1
+milenko 3600 IN A 212.39.96.66
+ff 3600 IN A 212.39.96.70
+isvu 3600 IN A 212.39.96.67

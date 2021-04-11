@@ -1,0 +1,20 @@
+@ 38400 IN SOA ns10.multipledns.com. cvs.everworks.com.my. 1329784241 10800 3600 604800 38400
+@ 38400 IN MX 1 aspmx.l.google.com.
+38400 IN MX 5 alt1.aspmx.l.google.com.
+38400 IN MX 5 alt2.aspmx.l.google.com.
+38400 IN MX 10 aspmx2.googlemail.com.
+38400 IN MX 10 aspmx3.googlemail.com.
+@ 38400 IN TXT "v=spf1 include:aspmx.googlemail.com ~all"
+@ 38400 IN NS ns1.multipledns.com.
+38400 IN NS ns10.multipledns.com.
+@ 38400 IN A 203.10.58.17
+googlef58b8ed0235e6c4b 38400 IN CNAME google.com.
+botswana 38400 IN A 202.76.238.90
+ns1 38400 IN A 210.48.145.35
+ns2 38400 IN A 210.48.145.36
+www 38400 IN A 203.10.58.17
+server1 38400 IN A 203.223.148.172
+mail._domainkey 38400 IN TXT "p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAORakqSwQTKZx1msav//O1poz05ppbdxa4KWvndOp0JDilLU5rTUrAy3O4PbE11nLBXzyDUwDfwq9cGX6gT2OoV0ZTSiYFixGzA18YuwQLhi2t6eGof9xSQk7psHvFTJCwIDAQAB"
+_domainkey.limkokwing.edu.my 38400 IN TXT "t=y; o=~; r=postmaster@limkokwing.edu.my"
+38400 IN TXT "p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAORakqSwQTKZx1msav//O1poz05ppbdxa4KWvndOp0JDilLU5rTUrAy3O4PbE11nLBXzyDUwDfwq9cGX6gT2OoV0ZTSiYFixGzA18YuwQLhi2t6eGof9xSQk7psHvFTJCwIDAQAB"
+portal 38400 IN A 210.48.145.33

@@ -1,0 +1,12 @@
+@ 38400 IN SOA ns.salnet9.net. webmaster.salnet9.net. 1418164591 10800 3600 604800 38400
+@ 38400 IN A 200.31.160.165
+@ 38400 IN NS ns.salnet.net.
+38400 IN NS ns.salnet9.net.
+@ 38400 IN MX 10 spamfw2.salnet.net.
+38400 IN MX 20 barracuda.salnet.net.
+admin 38400 IN A 200.31.160.165
+webmail 38400 IN A 200.31.160.165
+ftp 38400 IN CNAME www
+www 38400 IN A 200.31.160.165
+ns 38400 IN CNAME mail
+mail 38400 IN A 200.31.160.165

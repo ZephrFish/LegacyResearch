@@ -1,0 +1,13 @@
+@ 10800 IN SOA ns.mainnameserver.com. hostmaster.mainnameserver.com. 2013061871 86400 604800 2419200 10800
+@ 10800 IN A 79.170.44.128
+@ 10800 IN NS ns.mainnameserver.com.
+10800 IN NS ns2.mainnameserver.com.
+@ 10800 IN MX 10 mail
+webmail 10800 IN A 79.170.40.67
+* 10800 IN A 79.170.44.128
+* 10800 IN MX 10 mail
+ns2 10800 IN A 79.170.43.3
+www 10800 IN A 79.170.44.128
+mail 10800 IN A 79.170.44.38
+ftp 10800 IN A 79.170.44.29
+ns1 10800 IN A 79.170.40.2

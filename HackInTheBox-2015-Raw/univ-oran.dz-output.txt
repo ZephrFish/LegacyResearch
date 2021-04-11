@@ -1,0 +1,19 @@
+@ 604800 IN SOA @ root 2008011503 604824 86400 2419200 604800
+@ 604800 IN NS dns
+@ 604800 IN MX 10 mail
+604800 IN MX 20 mail.edu
+@ 604800 IN TXT "v=spf1 ip4:193.194.74.4 mx ptr a:mail.univ-oran.dz mx:univ-oran.dz ~all"
+604800 IN TXT "v=spf1 ip4:193.194.74.15 mx ptr a:mail.edu.univ-oran.dz mx:edu.univ-oran.dz ~all"
+labos 604800 IN A 193.194.74.14
+fsea 60 IN A 193.194.74.14
+mail.edu 604800 IN TXT "v=spf1 a -all"
+mail.edu 604800 IN A 193.194.74.15
+lio 604800 IN A 193.194.74.12
+www 604800 IN A 193.194.74.14
+mail 604800 IN TXT "v=spf1 a -all"
+mail 604800 IN A 193.194.74.4
+vpn 604800 IN A 193.194.74.8
+dns 604800 IN A 193.194.74.2
+elearn 30 IN A 193.194.74.26
+pginscript 604800 IN A 193.194.74.11
+traitement 604800 IN A 193.194.74.4

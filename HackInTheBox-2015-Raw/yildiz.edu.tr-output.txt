@@ -1,0 +1,56 @@
+@ 86400 IN SOA asterix.cc root.asterix.cc 2014062301 43200 7200 604800 3600
+@ 86400 IN NS athos.cc
+86400 IN NS obelix.cc
+86400 IN NS asterix.cc
+86400 IN NS porthos.cc
+@ 86400 IN A 193.140.1.4
+@ 86400 IN MX 0 daisy.cc
+@ 86400 IN TXT "v=spf1 ip4:193.140.1.0/24 a mx ~all"
+mobile 86400 IN CNAME mobile.cc
+ts 86400 IN A 193.140.1.15
+86400 IN A 193.140.1.16
+webmail 86400 IN CNAME daisy.cc
+porthos.cc 86400 IN A 194.27.101.249
+ntp0 86400 IN CNAME asterix.cc
+ntp1 86400 IN CNAME obelix.cc
+ts.mkf 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+ts.myo 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+ady0.sf 86400 IN A 193.140.1.25
+athos.cc 86400 IN A 194.27.101.250
+ts.mmf 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+obelix.cc 86400 IN A 193.140.1.249
+pop3 86400 IN CNAME daisy.cc
+mail 86400 IN CNAME daisy.cc
+usis 86400 IN CNAME app-cl0.cc
+ts.iif 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+kenobi.ce 86400 IN A 193.140.4.8
+ce 86400 IN NS anakin.ce
+86400 IN NS kenobi.ce
+ftp 86400 IN CNAME tweety.cc
+iaeste 86400 IN CNAME tweety.cc
+www 86400 IN CNAME tweety.cc
+ts.labktp 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+gsis 86400 IN CNAME scooby.cc
+ts.eef 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+ts.laby 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+gsis-test 86400 IN CNAME scooby.cc
+cc 86400 IN NS asterix.cc
+beehive 86400 IN A 193.140.1.60
+sf 86400 IN NS ady0.sf
+asterix.cc 86400 IN A 193.140.1.250
+anakin.ce 86400 IN A 193.140.4.20
+www2 86400 IN CNAME ogis.cc
+ts.inf 86400 IN A 193.140.1.10
+86400 IN A 193.140.1.11
+library 86400 IN CNAME library.cc
+evrak 86400 IN CNAME evrak.cc
+lls1 86400 IN CNAME lls1.cc
+chemphys5 86400 IN CNAME tweety.cc
+smtp 86400 IN CNAME daisy.cc

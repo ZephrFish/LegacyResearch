@@ -1,0 +1,54 @@
+@ 7200 IN SOA portal root.pou.pl. 2014092801 10800 3600 604800 7200
+@ 7200 IN NS dns.home.pl.
+7200 IN NS dns
+7200 IN NS dns2.home.pl.
+7200 IN NS dns2
+7200 IN NS dns3.home.pl.
+7200 IN NS dns3
+7200 IN NS dns4
+7200 IN NS kirdan.warman.nask.pl.
+7200 IN NS portal
+7200 IN NS dnsnowy
+@ 7200 IN MX 0 wsz
+7200 IN MX 10 mx
+@ 7200 IN TXT "v=spf1 mx a:mix.wsz-pou.edu.pl a:mx.wsz-pou.edu.pl a:wsz.wsz-pou.edu.pl ~all"
+studia-uzupelniajace-magisterskie 7200 IN CNAME www
+uczelnie-wyzsze 7200 IN CNAME www
+webmail 7200 IN A 83.143.42.228
+studia-licencjackie 7200 IN CNAME www
+edu2 7200 IN CNAME neokrakpou.no-ip.org.
+gr 7200 IN A 213.25.91.162
+lipa 7200 IN CNAME neokrakpou.no-ip.org.
+wszpou-2000 7200 IN A 192.168.0.15
+dnsnowy 7200 IN A 83.143.42.238
+cms 7200 IN A 83.143.42.239
+ngwnameserver 7200 IN A 192.168.0.248
+mix 7200 IN A 83.143.42.241
+nas 7200 IN A 192.168.0.22
+wsz 7200 IN A 83.143.42.231
+arch 7200 IN A 192.168.0.15
+mail 7200 IN CNAME wsz
+studia-podyplomowe 7200 IN CNAME www
+poczta 7200 IN CNAME wsz
+zarzadzanie-i-marketing 7200 IN CNAME www
+studia-e-learning 7200 IN CNAME www
+test 7200 IN NS dns.home.pl.
+7200 IN NS dns2.home.pl.
+7200 IN NS dns3.home.pl.
+mx 7200 IN A 83.14.2.74
+dns2 7200 IN CNAME neokrakpou.no-ip.org.
+dns3 7200 IN A 77.79.194.131
+dns4 7200 IN A 83.143.42.240
+man 7200 IN A 83.143.42.232
+hpe45 7200 IN CNAME neokrakpou.no-ip.org.
+wsz-2 7200 IN A 192.168.0.52
+ZENWSIMPORT 7200 IN A 192.168.0.2
+www 7200 IN NS dns.home.pl.
+7200 IN NS dns2.home.pl.
+7200 IN NS dns3.home.pl.
+elear 7200 IN A 83.143.42.240
+portal 7200 IN A 83.143.42.239
+edu 7200 IN A 83.14.2.74
+dns 7200 IN A 83.143.42.238
+ngwnameserver2 7200 IN A 192.168.0.252
+studia-mba 7200 IN CNAME www

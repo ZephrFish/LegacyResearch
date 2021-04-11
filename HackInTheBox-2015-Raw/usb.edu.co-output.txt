@@ -1,0 +1,30 @@
+@ 86400 IN SOA ns2674.dizinc.com. dnsadmin.sco10.hostdime.com.co. 2014011801 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 +ip4:66.7.219.19 +a +mx +ip4:66.7.219.16 -all"
+@ 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+@ 14400 IN A 66.7.219.16
+@ 86400 IN NS ns2674.dizinc.com.
+86400 IN NS ns2675.dizinc.com.
+default._domainkey.usbautoevaluarnos 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDg+01/snlpAJ1qw2tDwkryeS05Cd4At1W69TwxK1gu2waPyPjOzOYRQneJ9DoE+jEm3cxZPVpWtIV1cRplxKJQTP1umdPKXT3OFrDjMwBmzl7ocCh6qVbk5IHryVDdYLFHA8luAev+Z9dUBwTJV0ZytBmDTCGOy/VFlPkK0OqfjQIDAQAB;"
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYhqYw5Q3CLEFxLXlyA4g3yP9RXNAH1Zq3Bd4wK9WzJGGN282pt777fR6hYBo9zi5Gfsu+d2pinoEpEVcbBTRsoy8yLT5jjpKXVDDHXCt/i3AKO82VZUt0Vlv8mL9bKX86kPXkwbZcxD3wdAvQgsB8Hw9xsbVZ7NXxDHbpSjGzxwIDAQAB;"
+autodiscover.usbautoevaluarnos 14400 IN A 66.7.219.16
+webdisk.usbautoevaluarnos 14400 IN A 66.7.219.16
+webmail 14400 IN A 66.7.219.16
+webdisk 14400 IN A 66.7.219.16
+ftp 14400 IN A 66.7.219.16
+cpanel 14400 IN A 66.7.219.16
+www 14400 IN CNAME @
+autoconfig.usbautoevaluarnos 14400 IN A 66.7.219.16
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME @
+_autodiscover._tcp.usbautoevaluarnos 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.usbautoevaluarnos 14400 IN A 66.7.219.16
+autoconfig 14400 IN A 66.7.219.16
+autodiscover 14400 IN A 66.7.219.16
+usbautoevaluarnos 14400 IN TXT "v=spf1 +ip4:66.7.219.19 +a +mx +ip4:66.7.219.16 -all"
+usbautoevaluarnos 14400 IN A 66.7.219.16
+whm 14400 IN A 66.7.219.16
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.

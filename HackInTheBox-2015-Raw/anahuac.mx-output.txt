@@ -1,0 +1,141 @@
+@ 300 IN SOA ursa root 2010022411 10800 3600 604800 300
+@ 300 IN TXT "v=spf1 mx a a:capricornio.anahuac.mx, a:capricornio2.anahuac.mx include:spf.protection.outlook.com -all"
+300 IN TXT "MS=ms53320119"
+300 IN TXT "xuZbylcR/mDuOS4TVxrh6yiFXHKE/SD23krtoQqKCSXdcVxl6pxhrdo4GbzQUT24OLSq66TtbeEVCwQ/YtZA1Q=="
+@ 300 IN MX 10 capricornio
+300 IN MX 20 capricornio2
+@ 600 IN NS pegaso
+600 IN NS dns0
+600 IN NS dns1
+www.iti4.ingenieria 300 IN CNAME iti4.ingenieria
+telemedicina 300 IN A 148.230.12.51
+ww2 300 IN CNAME sites01
+dtimoviltest01 300 IN A 201.131.65.39
+ingenieria 300 IN A 148.230.13.180
+spop1024._domainkey.online 300 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr70NRRTQPKBxQR3mIw8GMydISHSx+cLU4uVJ0DucJy0AkrUjUQcbeLGlBVE4s8dt/sGaGVrkDDUd4l8SclTvQmMl5FLbanyRadhhJ6IUY7XX5Us/WXpiRxhwxoUx62nFUindVoz9v0EvLnR7WO5Oj7M/RNgiSwiQN/3oS82rkDwIDAQAB"
+unid 300 IN A 201.131.65.45
+sap1.cadit 300 IN A 148.230.13.111
+uamnmovil 300 IN A 148.230.12.71
+monitor 300 IN A 201.148.140.3
+uamn 300 IN A 144.202.248.45
+uamnwebdmz 300 IN A 148.230.12.19
+ssbpp 300 IN A 201.131.65.51
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net
+uamnapps 300 IN A 148.230.12.35
+www 300 IN A 148.230.12.40
+sea 300 IN A 144.202.250.36
+sea 300 IN MX 10 mail0.sea
+300 IN MX 20 mail1.sea
+300 IN MX 30 mail2.sea
+sea 300 IN TXT "v=spf1 mx a:caesc.caesc.com -all"
+dtibanssb02 300 IN A 201.144.225.109
+uvaprod 300 IN A 148.230.12.31
+educommons 300 IN A 148.230.12.202
+www.iti3.ingenieria 300 IN CNAME iti3.ingenieria
+catalogotest 300 IN A 200.38.75.83
+anahuacenlinea 300 IN A 23.253.90.120
+orionseg 300 IN CNAME orion
+sip 3600 IN CNAME sipdir.online.lync.com
+vclsalas00 300 IN A 148.230.12.90
+vclsalas04 300 IN A 148.230.12.94
+vclsalas05 300 IN A 148.230.12.95
+vclsalas06 300 IN A 148.230.12.96
+vclsalas07 300 IN A 148.230.12.97
+vclsalas08 300 IN A 148.230.12.98
+vclsalas09 300 IN A 148.230.12.99
+bb1 300 IN CNAME pegaso
+bb2 300 IN CNAME pegaso
+www.ingenieria 300 IN CNAME ingenieria
+evaluaciones 300 IN A 148.230.12.36
+autodiscover 300 IN A 144.202.248.44
+banner 300 IN CNAME orion
+sap2.cadit 300 IN A 148.230.13.112
+mail2.sea 300 IN A 144.202.148.133
+net 300 IN A 201.131.65.222
+luna 300 IN A 148.230.12.72
+camara 300 IN A 148.230.14.30
+banner_uac 300 IN CNAME orion
+correo 300 IN A 144.202.248.44
+capricornio2 300 IN A 201.131.65.55
+universidad1 300 IN CNAME pegaso
+banner_ual 300 IN CNAME orion
+www.iti2.ingenieria 300 IN CNAME iti2.ingenieria
+banner_uan 300 IN CNAME orion
+banner_uao 300 IN CNAME orion
+banner_uap 300 IN CNAME orion
+banner_uaq 300 IN CNAME orion
+banner_uas 300 IN CNAME orion
+banredias 300 IN A 201.148.140.10
+sts 300 IN A 144.202.248.46
+banner_uax 300 IN CNAME orion
+pegaso 300 IN A 148.230.12.28
+salad01 300 IN A 148.230.12.91
+salad02 300 IN A 148.230.12.92
+salad03 300 IN A 148.230.12.93
+__sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com
+orion 300 IN A 201.144.225.106
+uft 300 IN A 201.131.65.45
+mail0.sea 300 IN A 144.202.248.135
+webban7 300 IN A 201.131.65.45
+bid 300 IN A 148.230.12.55
+m.online 300 IN A 38.96.211.206
+m.online 300 IN MX 10 m.online
+m.online 300 IN TXT "v=spf1 ip4: 38.96.211.206 -all"
+aleph 300 IN A 148.230.12.39
+omega 300 IN A 201.144.225.101
+universidad 300 IN A 148.230.12.28
+universidad 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+cca 300 IN CNAME orion
+mail 300 IN A 201.131.65.44
+www.iti.ingenieria 300 IN CNAME iti.ingenieria
+seprad 300 IN CNAME orion
+mobile 300 IN A 201.131.65.36
+banner_uam 300 IN CNAME orion
+cadit 300 IN A 148.230.13.100
+lyncdiscover 3600 IN CNAME webdir.online.lync.com
+www.iti1.ingenieria 300 IN CNAME iti1.ingenieria
+atenea 300 IN A 200.79.25.27
+videoconferencia 300 IN A 148.230.12.114
+dtiban8testssb1 300 IN A 201.131.65.51
+ateneo 300 IN A 201.131.65.45
+dtisiubanmobil1 300 IN A 201.131.65.38
+dtisiubanmobil2 300 IN A 201.131.65.37
+sites01 300 IN A 148.230.12.43
+catalogo 300 IN A 148.230.12.75
+oracle.cadit 300 IN A 148.230.12.151
+cp1 300 IN CNAME orion
+escritorios 300 IN A 148.230.12.100
+auth.net 300 IN A 201.131.65.223
+online 300 IN A 23.253.121.100
+online 300 IN MX 10 reply.higheredholdings.mkt3534.com.
+300 IN MX 20 mail2938.higheredholdings.mkt3534.com.
+300 IN MX 20 mail2954.higheredholdings.mkt3550.com.
+online 300 IN TXT "v=spf1 ip4:208.85.51.183 ip4:208.85.51.199 -all"
+__sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com
+plataformadigital 300 IN A 192.168.21.40
+vidyo 300 IN A 148.230.12.112
+uva 300 IN MX 10 uva
+uva 300 IN A 148.230.12.32
+cne 300 IN CNAME ursa
+banner_ua 300 IN CNAME orion
+capricornio 300 IN A 201.131.65.46
+ursa 300 IN CNAME pegaso
+ssb 300 IN A 201.131.65.49
+ueroma7 300 IN A 201.144.225.103
+alumnos 300 IN A 148.230.13.97
+video1 300 IN CNAME pegaso
+cte 300 IN A 201.131.65.43
+dns0 300 IN A 144.202.248.30
+dns1 300 IN A 144.202.248.31
+norte 300 IN CNAME pegaso
+ssbHA 300 IN A 201.131.65.45
+campuscea 300 IN A 213.134.42.36
+sivale 300 IN CNAME atenea
+dzc 300 IN TXT "EBNGT3F"
+portal 300 IN A 148.230.12.52
+mail1.sea 300 IN A 144.202.248.132
+cs 300 IN A 201.131.65.35

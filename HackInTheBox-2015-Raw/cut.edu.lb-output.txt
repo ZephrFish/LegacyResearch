@@ -1,0 +1,8 @@
+@ 38400 IN SOA ns1.sodetel.net.lb. domreg.sodetel.net.lb. 2012092600 10800 3600 604800 38400
+@ 38400 IN MX 30 bow.sodetel.net.lb.
+38400 IN MX 5 mx.sodetel.net.lb.
+38400 IN MX 20 mx1.sodetel.net.lb.
+@ 38400 IN NS ns1.sodetel.net.lb.
+38400 IN NS ns2.sodetel.net.lb.
+email 38400 IN A 208.184.130.51
+www 38400 IN A 89.108.129.107

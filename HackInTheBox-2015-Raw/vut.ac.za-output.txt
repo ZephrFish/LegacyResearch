@@ -1,0 +1,63 @@
+@ 21600 IN SOA dns attie 2015012901 21600 3600 604800 86400
+@ 21600 IN NS dns
+21600 IN NS disa.tenet.ac.za.
+@ 21600 IN MX 10 vut-ac-za.mail.protection.outlook.com.
+@ 21600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+websrv 21600 IN A 196.21.64.150
+stella 21600 IN A 196.21.64.113
+sip 21600 IN CNAME sipdir.online.lync.com.
+myvut 21600 IN A 196.21.64.55
+ftplou 21600 IN A 196.21.64.27
+vut 21600 IN A 196.21.64.118
+library 21600 IN A 196.21.64.97
+stsfed 21600 IN A 196.21.64.8
+ftpsusan 21600 IN A 196.21.67.62
+ias 21600 IN A 196.21.64.157
+vut-ad 21600 IN A 196.21.64.190
+learning 21600 IN A 196.21.68.102
+medsrv 21600 IN A 196.21.64.151
+vutfm 21600 IN CNAME www
+vutlib.vut.ac.za 21600 IN CNAME bib
+attie 21600 IN A 196.21.64.70
+vaal6 21600 IN A 196.21.64.162
+ftphantie 21600 IN A 196.21.67.61
+vut-mail2 21600 IN A 196.21.64.223
+ftpina 21600 IN A 196.21.64.203
+mail 21600 IN A 196.21.157.3
+mailsvr 21600 IN A 196.21.157.3
+autodiscover 21600 IN CNAME autodiscover.outlook.com.
+ln 21600 IN CNAME cache
+ftpadelaide 21600 IN A 196.21.67.137
+int3prodapp 21600 IN A 196.21.64.251
+vttscreen 21600 IN A 196.21.64.201
+archive 21600 IN A 196.21.157.3
+*.library 21600 IN A 196.21.64.97
+nti 21600 IN A 196.21.64.98
+lyncdiscover 21600 IN CNAME webdir.online.lync.com.
+my 21600 IN CNAME googlea9b95118321ed34d.my
+www 21600 IN A 196.21.64.204
+localhost 21600 IN A 127.0.0.1
+nt 21600 IN CNAME mailsvr
+ariel 21600 IN A 196.21.68.13
+vut-mail 21600 IN A 196.21.64.200
+selfcheck 21600 IN A 196.21.64.60
+digiresearch 21600 IN A 196.21.64.68
+ftpsandra 21600 IN A 196.21.68.55
+cache 21600 IN A 196.21.64.112
+_sipfederationtls._tcp 21600 IN SRV 100 1 5061 sipfed.online.lync.com.
+webwise 21600 IN A 196.21.64.175
+edl 21600 IN A 196.21.64.54
+vut-research 21600 IN A 41.185.8.51
+_sip._tls 21600 IN SRV 100 1 443 sipdir.online.lync.com.
+vut-ad-vdb.internal 21600 IN A 196.21.64.23
+msoid 21600 IN CNAME clientconfig.microsoftonline-p.net.
+pilot2 21600 IN A 196.21.64.69
+vut-ad-vdb2.internal 21600 IN A 196.21.64.35
+library. 21600 IN A 196.21.64.97
+vutlib 21600 IN CNAME bib
+dns 21600 IN A 196.21.64.99
+pilot1 21600 IN A 196.21.64.68
+vhfec 21600 IN CNAME www
+vutmail 21600 IN CNAME vut-mail
+ftpsalome 21600 IN A 196.21.64.111
+bib 21600 IN A 196.21.64.97

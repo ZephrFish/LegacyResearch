@@ -1,0 +1,117 @@
+@ 86400 IN SOA ns1.rumahweb.com. rwsrvlgr.gmail.com. 2015043007 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 14400 IN A 103.247.8.135
+@ 86400 IN NS ns1.rumahweb.com.
+86400 IN NS ns2.rumahweb.com.
+86400 IN NS ns3.rumahweb.net.
+86400 IN NS ns4.rumahweb.net.
+fk 14400 IN MX 10 paparisa
+fk 14400 IN A 103.247.8.135
+fpik 14400 IN MX 10 paparisa
+fpik 14400 IN A 103.247.8.135
+webdisk.staff 14400 IN A 103.247.8.135
+fp 14400 IN MX 10 paparisa
+fp 14400 IN A 103.247.8.135
+www.faperta 14400 IN A 118.97.31.133
+mirror 14400 IN A 118.97.31.134
+fmipa 14400 IN MX 10 paparisa
+fmipa 14400 IN A 103.247.8.135
+www.rektorat 14400 IN A 103.247.8.135
+lemit 14400 IN MX 10 paparisa
+lemit 14400 IN A 103.247.8.135
+puspelkom 14400 IN MX 10 paparisa
+puspelkom 14400 IN A 103.247.8.135
+elearning 14400 IN A 118.97.31.131
+lib 14400 IN A 103.247.8.135
+student 14400 IN MX 10 paparisa
+student 14400 IN A 103.247.8.135
+bnidirect 14400 IN A 118.97.31.133
+mx 14400 IN MX 10 paparisa
+mx 14400 IN A 103.247.8.135
+fhukum 14400 IN MX 10 paparisa
+fhukum 14400 IN A 118.97.31.133
+staff 14400 IN MX 10 paparisa
+staff 14400 IN A 103.247.8.135
+www.fk 14400 IN A 103.247.8.135
+webdisk.fpik 14400 IN A 103.247.8.135
+fkip 14400 IN MX 10 paparisa
+fkip 14400 IN A 103.247.8.135
+webdisk.student 14400 IN A 103.247.8.135
+www.fisip 14400 IN A 103.247.8.135
+lemlit 14400 IN A 118.97.31.131
+webmail 14400 IN A 103.247.8.135
+noc 14400 IN A 118.97.31.130
+www.lpkm 14400 IN A 103.247.8.135
+webdisk.fk 14400 IN A 103.247.8.135
+webdisk.rektorat 14400 IN A 103.247.8.135
+simag 14400 IN A 118.97.31.130
+faperta 14400 IN MX 10 paparisa
+faperta 14400 IN A 118.97.31.133
+www.mx 14400 IN A 103.247.8.135
+thp-faperta 14400 IN A 103.247.10.25
+autodiscover 14400 IN A 103.247.8.135
+karir 14400 IN A 118.97.31.133
+webdisk.fatek 14400 IN A 103.247.8.135
+www.fekon 14400 IN A 103.247.8.135
+ftp 14400 IN A 103.247.8.135
+cpanel 14400 IN A 103.247.8.135
+localhost 14400 IN A 127.0.0.1
+siakad 14400 IN A 118.97.31.133
+webdisk.fkip 14400 IN A 103.247.8.135
+www.student 14400 IN A 103.247.8.135
+webdisk.mx 14400 IN A 103.247.8.135
+www.fmipa 14400 IN A 103.247.8.135
+agroekotek 14400 IN A 118.97.31.133
+www.lemit 14400 IN A 103.247.8.135
+sismik 14400 IN A 118.98.117.131
+fatek 14400 IN MX 10 paparisa
+fatek 14400 IN A 118.97.31.131
+www.pps 14400 IN A 103.247.8.135
+webdisk.perpustakaan 14400 IN A 103.247.8.135
+www.perpustakaan 14400 IN A 103.247.8.135
+www.puspelkom 14400 IN A 103.247.8.135
+www.staff 14400 IN A 103.247.8.135
+lpkm 14400 IN MX 10 paparisa
+lpkm 14400 IN A 103.247.8.135
+pmipafkip 14400 IN A 118.97.31.133
+mail 14400 IN A 103.247.8.135
+mail 14400 IN MX 10 paparisa
+webdisk.pps 14400 IN A 103.247.8.135
+autoconfig 14400 IN A 103.247.8.135
+sismikad 14400 IN A 118.98.117.130
+webdisk.fisip 14400 IN A 103.247.8.135
+www.fpik 14400 IN A 103.247.8.135
+panel 14400 IN A 118.97.31.130
+perpustakaan 14400 IN MX 10 paparisa
+perpustakaan 14400 IN A 103.247.8.135
+paparisa 14400 IN A 118.97.31.132
+webdisk.puspelkom 14400 IN A 103.247.8.135
+www.lib 14400 IN A 103.247.8.135
+webdisk.fhukum 14400 IN A 103.247.8.135
+blog 14400 IN A 118.97.31.130
+rektorat 14400 IN MX 10 paparisa
+rektorat 14400 IN A 103.247.8.135
+webdisk.lpkm 14400 IN A 103.247.8.135
+mikrotik 14400 IN A 118.97.31.130
+hotumese 14400 IN A 118.97.31.131
+webdisk.faperta 14400 IN A 103.247.8.135
+ejournal 14400 IN A 118.97.31.131
+fisip 14400 IN MX 10 paparisa
+fisip 14400 IN A 103.247.8.135
+agribisnis 14400 IN A 118.97.31.130
+whm 14400 IN A 103.247.8.135
+webdisk.fmipa 14400 IN A 103.247.8.135
+webdisk 14400 IN A 103.247.8.135
+www.fhukum 14400 IN A 118.97.31.133
+www 14400 IN A 103.247.8.135
+pps 14400 IN MX 10 paparisa
+pps 14400 IN A 103.247.8.135
+webdisk.fekon 14400 IN A 103.247.8.135
+kimia 14400 IN A 118.97.31.133
+webdisk.lemit 14400 IN A 103.247.8.135
+kemahasiswaan 14400 IN A 118.97.31.133
+www.fkip 14400 IN A 103.247.8.135
+www.fatek 14400 IN A 118.97.31.131
+fekon 14400 IN MX 10 paparisa
+fekon 14400 IN A 103.247.8.135
+kamboti 14400 IN A 118.97.31.131

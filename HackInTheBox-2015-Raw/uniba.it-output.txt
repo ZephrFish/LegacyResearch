@@ -1,0 +1,1284 @@
+@ 86400 IN SOA gauss root.gauss 2015040200 3600 1800 1209600 86400
+@ 86400 IN TXT "v=spf1 a:smtp.uniba.it a:mail.uniba.it a:mx.refero.it -all"
+@ 172800 IN A 192.167.60.25
+@ 172800 IN MX 1 mx.refero.it.
+@ 604800 IN NS ns1.garr.net.
+604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+604800 IN NS weber
+ccl-sc-amb 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+fp6migratoryflows 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ltl 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+anatomia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ssis 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+auth-studenti 172800 IN A 193.204.176.41
+vm0 172800 IN A 193.204.176.34
+ria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+vm1 172800 IN A 193.204.176.36
+paololivrea 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+foniadati 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirgen2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+scienzepolitiche 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+farmchim 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+pariopportunita 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+midim 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+valcini-gw 172800 IN A 193.204.189.13
+172800 IN A 193.204.189.21
+account 172800 IN A 193.204.176.16
+cdlostetricia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+clnp 86400 IN CNAME asia.ict
+biochimclin 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+medicinalegale 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+histology 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+radioprotezione 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+jobplacement 86400 IN CNAME miur-prod-85.cineca.it.
+cultura-di-genere 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+semeiotica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+peace 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+smi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+economiataranto 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dardre 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sol 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+multiverso 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+documenti 178800 IN CNAME documenti.ict
+psico 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dibca 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+statistiche 86400 IN CNAME venus.csi
+anatopat 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+urp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gs2008 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+segrstudenti-giurisp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+istrag 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gaussnew 172800 IN A 193.204.176.12
+smarteducation 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ccl-scienzegeologiche 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+formazione 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+reumbari 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dimimp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+betageomin 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+farmacia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+segr-ta 172800 IN A 193.206.37.227
+avvocatura 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+lilo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+unipiu 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.portale 172800 IN CNAME serversifas.di
+area-pensioni 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+forsci 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+asclepios 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+elearninglingue 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+pediatria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+zoologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.edb 172800 IN CNAME www.edb.di
+www.ecm 86400 IN CNAME Neurol64.neuro
+tredimed 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dermatologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+biochem 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+mail 172800 IN A 193.204.176.10
+farmacol 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+weblearning2 172800 IN A 192.167.61.10
+pippofranco 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+deto 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+isa2006 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+list 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+list 172800 IN A 193.204.176.15
+list 86400 IN MX 1 list
+cogebi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+oerpuglia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+icfhr2012 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dipartimentodue 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirurgiaquinta 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+uniba-gw 172800 IN A 193.204.176.1
+172800 IN A 193.204.180.9
+bibagr 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+presenze 604800 IN NS dns1.ict
+604800 IN NS dns2.ict
+604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chimica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bioetica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ateneo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bioserver 172800 IN CNAME bioserve.biologia
+22echc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+circeos 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+derossi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+weblearning4 172800 IN A 192.167.61.26
+cirlage 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.orariolingue 86400 IN CNAME Cif3.lingue
+faraday 172800 IN A 193.204.176.49
+cittasane-oms 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dacti 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+studenti 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirplast 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+web 172800 IN A 193.204.176.39
+easyweb 172800 IN CNAME easyweb.ateneo
+www.epta 172800 IN CNAME epta.ict
+wmuniba-test 172800 IN A 193.204.176.44
+neurosurgery 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sci 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ciseca 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+vpn 172800 IN A 193.204.180.12
+dssm 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cardio 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ultrapat 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+metalbiolab 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+metea 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sicurlav 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirvasc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+crav 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+polota 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+qsella 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+u-gov-test 172800 IN CNAME ugov-test.ict
+ortopedia1 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cismuslab 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.alma 172800 IN CNAME alma.ict
+gynecology1 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gynecology2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gynecology3 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gynecology4 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sol-lingue 172800 IN CNAME sol.lex
+guida 86400 IN CNAME europa.ict
+llpp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ced-csi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+pediatria2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+pediatria3 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+patrimonisconosciuti 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+wolf 172800 IN A 193.204.176.23
+router-ipv6 172800 IN A 193.204.184.1
+ldap 172800 IN A 193.204.176.20
+172800 IN A 193.204.184.2
+www.elearning-neuroscienze 86400 IN CNAME Neuro21.neuro
+dimo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.oncomedicina 86400 IN CNAME dimo51.medicina
+co2rucadi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+5P 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+uff-gabinetto 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+scienzemotorie 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+igiene 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.edb2 172800 IN CNAME www.edb
+weblearning5 172800 IN A 192.167.61.34
+626 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cimedoc.cimedoc 604800 IN A 193.204.190.2
+agraria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bcfe 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.scrutinio 86400 IN CNAME scrutinio.ict2
+autentica 172800 IN A 193.204.180.10
+172800 IN A 193.204.180.11
+laureastatistica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sams 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+segrstudenti-vet 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sol-lettere 172800 IN CNAME sol.lex
+sc-formaz 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gemmologiascientifica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+restauro 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+servizi-sociali 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+lablex 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bioclin 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+alma 172800 IN CNAME alma.ict
+diritto-pubblico 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ragio 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirurgenzatrauma 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cinmpis 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+persone 172800 IN CNAME persone.ict
+sebastio 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+matfin 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sympa 172800 IN A 193.204.176.17
+medgene 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+prova 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+botanica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+infncloud 86400 IN NS gauss
+86400 IN NS spawn.ba.infn.it.
+weber 172800 IN A 193.204.176.42
+scienze 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+agr 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+medsport 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dns1.ict 86400 IN A 192.167.60.10
+www.titulus 172800 IN CNAME titulus.ict
+depar 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bariparasitology 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+arcan 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+digon 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+medriab 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirurgiavascolare 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sanita 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bear 172800 IN A 193.204.176.46
+mysql 172800 IN A 193.204.176.20
+172800 IN A 193.204.184.2
+as1 172800 IN A 192.167.61.3
+as2 172800 IN A 192.167.61.11
+as3 172800 IN A 192.167.61.19
+as4 172800 IN A 192.167.61.27
+as5 172800 IN A 192.167.61.35
+mail1 172800 IN A 193.204.176.31
+mail2 172800 IN A 193.204.176.32
+chimica2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+veterinaria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+foniacampus 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+mitocomp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirurgiamarinaccio 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sip 172800 IN A 193.204.176.9
+eridlab 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ssta1 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+endobiomol 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ava 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.hmtdb 86400 IN CNAME wn-recas-infn-1.ba.infn.it.
+bemc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sc-edu 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cds 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dilifile 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+opac 172800 IN CNAME easyweb.ateneo
+vcl1 172800 IN A 192.167.61.2
+scienzegeologiche 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+mednucl 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+vcl4 172800 IN A 192.167.61.26
+vcl5 172800 IN A 192.167.61.34
+svil-org 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+spawn.ba.infn.it 86400 IN A 192.135.10.4
+sis2004 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+greenlab 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+catalogo 172800 IN CNAME easycat9.ateneo
+beta 172800 IN CNAME europa1.ict
+das 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cme 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+segrstudenti-sc-polit 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+urologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirtor 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+aos2 172800 IN CNAME aos2.di
+presen 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dem 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+geneticamedica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+4.4.5.0.8.0.9.3.nrenum.net 604800 IN NS gauss
+604800 IN NS sirio.csi
+www.kdde 172800 IN CNAME arch02.di
+u-gov 172800 IN CNAME ugov.ict
+dgm 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+liste.uniba.it 172800 IN MX 1 liste
+giorgionebbia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+auth1 172800 IN A 193.204.176.35
+ufficio-presenze 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+csi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dis 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+liste 172800 IN A 193.204.176.15
+diogene 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+geologia-geofisica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+igiene-seconda 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+edb 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cum 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ragioneria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+arianna 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+clichiru 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+scipuglia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+di 604800 IN NS gaia.di
+604800 IN NS gauss
+doc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dm 604800 IN NS gauss
+604800 IN NS cauchy.dm
+segena 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bunny 172800 IN A 193.204.176.45
+cardiochir 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+campusone 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dispez 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+psichiat 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+lingue 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+circmsb 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+elearninglelia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+campoli-gw 172800 IN A 193.204.180.20
+172800 IN A 193.204.189.17
+dip-statistica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dse 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+apsf 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+rettorato 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dss 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+riprova 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bibo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+diplav 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cipss 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+circc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+laurea_in_fisica 86400 IN CNAME bibliowww.ba.infn.it.
+scienzadeimateriali 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+farmaciatest 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ROSS 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+neuro 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirurgia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ssscienza 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+firbspazisacri 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ns 172800 IN CNAME mail
+risorseumane 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+rtjs 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+riabilitazione 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+presenze1 86400 IN CNAME presenze1.presen
+presenze2 86400 IN CNAME presenze2.presen
+otticafisiopat 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+oftalmo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+polifun 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+biotec 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+emerchir-asclepios 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+loghost 604800 IN CNAME localhost
+fecondazioneassistita 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+server1_sba 172800 IN CNAME easyweb.ateneo
+cisco 172800 IN CNAME garr-gw
+geo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gastro 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+diramm 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ipv6-1 172800 IN A 193.204.184.242
+ipv6-2 172800 IN A 193.204.184.243
+ipv6-3 172800 IN A 193.204.184.244
+ipv6-4 172800 IN A 193.204.184.245
+garr-gw 172800 IN A 193.204.48.9
+172800 IN A 193.204.191.33
+scienzetaranto 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+radius2 172800 IN A 193.204.176.6
+agenzia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ftp 172800 IN A 193.204.176.20
+172800 IN A 193.204.184.2
+geile 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+localhost 604800 IN A 127.0.0.1
+incentivazione 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+uniba-atm-gw 172800 IN A 193.204.180.1
+172800 IN A 193.204.191.36
+fisiopatresp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+relint 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+didasco 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ndgb 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gnp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+nas-vm 172800 IN A 193.204.176.13
+cismus 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+economato 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+neurorad 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+edmedia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cauchy.dm 604800 IN A 193.204.177.8
+plonedocenti 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dscc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+antivirus-csi 86400 IN CNAME web.farmacia
+medicina 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+igiene2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+vcenter51 172800 IN A 193.204.176.24
+ict 86400 IN NS dns1.ict
+86400 IN NS dns2.ict
+86400 IN NS gauss
+veterv 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+idp 172800 IN A 193.204.176.55
+ppppp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.elearning 172800 IN CNAME elearning.ciseca
+loopback-host 604800 IN CNAME localhost
+geomin 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+nano2011 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+medlav 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+allergy 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+grec 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.diretta 172800 IN CNAME streaming.ateneo
+oncologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+webssis 172800 IN A 193.204.176.20
+172800 IN A 193.204.184.2
+area-pers-doc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+area-pers-tecamm 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+callstar 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gruppo-didattica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+titulus 172800 IN CNAME titulus.ict
+htn 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+nephro 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+scrutinio 86400 IN CNAME scrutinio.ict2
+ilo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ils 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+associazioneprevitali 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gauss 172800 IN A 193.204.176.40
+presecon 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+neonatologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dspv 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+idpuniba 172800 IN A 193.204.176.7
+area-dirstud 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+fasf 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dssg 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+gynanestesia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+lspecprevenzione 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dns2.ict 86400 IN A 192.167.60.30
+cittadellamediterraneascienza 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.disba 86400 IN CNAME disba.ict
+dsss 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+diagnosticabeniculturali 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.documenti 178800 IN CNAME documenti.ict
+chirpediatrica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+PalazzoEnel 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.cirisivu 86400 IN CNAME mongelli2.geomin
+libero 172800 IN A 193.204.176.20
+www 172800 IN CNAME adularia.ict
+www.trasparenza 178800 IN CNAME neweuropa.ict
+bioingegneria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+osub 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+weblearning1 172800 IN A 192.167.61.2
+emat2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+informatica 172800 IN CNAME informatica.di
+mitoevents 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+weblearning3 172800 IN A 192.167.61.18
+iama 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+consstud 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+prestito 172800 IN CNAME fx-oas-uniba-test.ateneo
+economiata 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+farmbiol 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.hmdb 86400 IN CNAME attim254.biologia
+lettere 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ecota 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+carso 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+economia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+fdds 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+disag 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+biologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+psico2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.neuroscienze 86400 IN CNAME neurol28.neuro
+ufficio-legale 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+maxwell 172800 IN A 193.204.176.50
+lex 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+pop3 172800 IN CNAME mail
+studieur 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+otrions 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+segreco 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+lanneuro 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+incarichiextraistituzionali 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+work-bcfe 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+docentilex 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+area-formazionepostlaurea 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+paleodays2014 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+endo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sedab 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+scienzedellanatura 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+area-reclutamento 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ortobotanico 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+italianistica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+web2 172800 IN A 193.204.176.22
+lgxserver 172800 IN CNAME lgxserve.ciseca
+smtp 172800 IN A 193.204.176.8
+dipartimentouno 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+webmail 172800 IN A 193.204.176.21
+ortop1 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ortop2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+emec5 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+pneumol 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+area-contrattuale 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ict2 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cimedoc 604800 IN NS gauss
+604800 IN NS cimedoc.cimedoc
+clecsi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+area-segr-studenti 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+elearningneuroscienze 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+semchir 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+neurol 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+selge 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dsebari 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+web-learning 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+test 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+web1 172800 IN A 193.204.176.21
+www.imaap 172800 IN CNAME www.edb
+grupporeti 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+biolgene 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sicurezzainrete 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.lcafood2010 86400 IN CNAME eventi.ict
+campus-gw 172800 IN A 193.204.180.21
+172800 IN A 193.204.184.17
+forensicpath 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+fisica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chim 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ematba 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dipstogeo 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+bioetaev 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+geriatria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+iseud11 172800 IN CNAME iseud11.di
+gestioneIP 172800 IN A 193.204.176.40
+hemoph 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ext-fw1 172800 IN A 193.204.180.10
+ext-fw2 172800 IN A 193.204.180.11
+chirgen 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirges 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+tecbancaria 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ginecologiaoncologica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirurgiaplastica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+siss 86400 IN NS dns1.ict
+86400 IN NS dns2.ict
+86400 IN NS gauss
+secops 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+radiologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+area-tecnica 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+intmed 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+clininf 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.ppnema 86400 IN CNAME attim254.biologia
+sppm 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+opac_umanistiche 172800 IN CNAME corsano.ria
+smtp1 172800 IN A 193.204.176.11
+area-legale 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+segr-studenti-lettere 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+tirca 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+sodalitas 86400 IN CNAME europa.ict
+dcabc 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+swif 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ortop3 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+steresa 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+pec 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+fisiol 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+filosofia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+infettivi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cini 172800 IN CNAME labsi5.di
+dafg 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+trasparenza 178800 IN CNAME neweuropa.ict
+brindisi 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+difarfis 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cisquas 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+epta 172800 IN CNAME epta.ict
+orl 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+www.forpsicom 172800 IN CNAME serverforpsicom.PalazzoEnel
+cirp 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+trapiantorene 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+dimetec 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+cist 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+valbiotec-gw 172800 IN A 193.204.180.19
+segrstudenti-sc-formaz 604800 IN NS gauss
+604800 IN NS sirio.csi
+shibidp 172800 IN A 193.204.176.33
+geologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+chirurg 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+genomena 172800 IN CNAME genomena.di
+eventi 86400 IN CNAME eventi.ict
+proret 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+tossicologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+vcl2 172800 IN A 192.167.61.10
+dd-bcfe 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+qualita 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+wmuniba 172800 IN A 193.204.176.19
+guideforforeignstudents 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+ibattellidelreno 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+rianima 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+vcarta 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+loopback 604800 IN CNAME localhost
+testset 172800 IN A 193.204.176.25
+diretta 172800 IN CNAME streaming.ateneo
+bioinflab 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+verbalizzazionedigitale 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi
+vcl3 172800 IN A 192.167.61.18
+criminologia 604800 IN NS gaia.di
+604800 IN NS gauss
+604800 IN NS sirio.csi

@@ -1,0 +1,73 @@
+@ 3600 IN SOA ns1 admin 2015042905 86400 7200 1209600 3600
+@ 3600 IN MX 10 mail
+3600 IN MX 10 mailexchanger
+@ 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS ns3
+@ 3600 IN SPF "v=spf1 ip4:217.218.98.0/24 ip4:79.127.119.0/24 mx ?all"
+@ 3600 IN TXT "v=spf1 ip4:217.218.98.0/24 ip4:79.127.119.0/24 mx ?all"
+@ 3600 IN A 217.218.98.28
+ims 3600 IN CNAME journals
+book 3600 IN A 217.218.98.144
+jem 3600 IN CNAME journals
+jiee 3600 IN CNAME journals
+reg 3600 IN A 217.218.98.16
+jep 3600 IN CNAME journals
+jplr 3600 IN CNAME journals
+qjma 3600 IN CNAME journals
+ijer 3600 IN CNAME journals
+ns2 3600 IN A 217.218.98.22
+ns3 3600 IN A 79.127.119.170
+rctall 3600 IN CNAME journals
+jcps 3600 IN CNAME journals
+tat 3600 IN CNAME journals
+jier 3600 IN CNAME journals
+mailexchanger 3600 IN A 217.218.98.27
+tssq 3600 IN CNAME journals
+qric 3600 IN CNAME journals
+wph 3600 IN CNAME journals
+lmstech 3600 IN A 217.218.98.143
+qccpc 3600 IN CNAME journals
+jin 3600 IN CNAME journals
+* 3600 IN A 217.218.98.28
+jti 3600 IN CNAME journals
+rjsw 3600 IN CNAME journals
+qjpl 3600 IN CNAME journals
+ltr 3600 IN CNAME journals
+mail 3600 IN A 217.218.98.33
+journals 3600 IN A 217.218.98.142
+qpss 3600 IN CNAME journals
+vc 3600 IN A 217.218.98.149
+ajsm 3600 IN CNAME journals
+ns1 3600 IN A 217.218.98.17
+soece 3600 IN CNAME journals
+lib 3600 IN A 217.218.98.15
+jks 3600 IN CNAME journals
+qjsd 3600 IN CNAME journals
+urdp 3600 IN CNAME journals
+jmsd 3600 IN CNAME journals
+d-lib 3600 IN A 217.218.98.150
+www 3600 IN CNAME @
+vsn 3600 IN A 79.175.172.36
+qjss 3600 IN CNAME journals
+qrsm 3600 IN CNAME journals
+jrlat 3600 IN CNAME journals
+jpe 3600 IN CNAME journals
+dbc 3600 IN A 217.218.98.27
+irisk 3600 IN CNAME journals
+jims 3600 IN CNAME journals
+ilt 3600 IN CNAME journals
+rjqk 3600 IN CNAME journals
+eenr 3600 IN CNAME journals
+erp 3600 IN A 217.218.98.100
+jclr 3600 IN CNAME journals
+llt 3600 IN CNAME journals
+cs 3600 IN CNAME journals
+qjik 3600 IN CNAME journals
+lms 3600 IN A 217.218.98.148
+joer 3600 IN CNAME journals
+e-entesharat 3600 IN A 217.218.98.144
+ls 3600 IN CNAME journals
+tms 3600 IN CNAME journals
+simap 3600 IN A 217.218.98.136
+st 3600 IN MX 10 mailexchanger

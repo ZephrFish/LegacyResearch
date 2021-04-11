@@ -1,0 +1,95 @@
+@ 86400 IN SOA ns ttoida.ofc 2015040306 3600 1800 604800 3600
+@ 86400 IN NS ns
+86400 IN NS ccns.cc
+86400 IN NS ns02.pwd.ne.jp.
+@ 86400 IN MX 10 tackscm
+es 86400 IN NS ccns.cc
+fm 3600 IN CNAME login.microsoftonline.com.
+cyp 86400 IN A 111.171.196.153
+fpse 86400 IN MX 10 tackscm
+websv01 86400 IN A 133.36.1.6
+websv02 86400 IN A 133.36.1.65
+hc 86400 IN NS ns
+tackhp-ups1 86400 IN A 133.36.1.91
+tackhp-ups2 86400 IN A 133.36.1.92
+www.sri 86400 IN A 133.36.1.6
+wrk 86400 IN NS ccns.cc
+id 86400 IN NS ccns.cc
+ccns.cc 86400 IN A 133.36.2.1
+is 86400 IN NS ccns.cc
+bbilo 86400 IN A 133.36.1.44
+la 86400 IN NS ccns.cc
+fcm 86400 IN MX 10 tackscm
+bbdbilo 86400 IN A 133.36.1.45
+lib 86400 IN NS ns
+ml 86400 IN MX 10 tackscm
+ms 86400 IN NS ccns.cc
+www 86400 IN A 111.171.196.153
+tacke500 86400 IN A 133.36.1.110
+ns 86400 IN A 133.36.1.1
+portfolio 86400 IN A 133.36.1.51
+ldapsv 86400 IN A 133.36.1.138
+www.rugby.ritaku 86400 IN A 210.157.28.54
+www.cocs 86400 IN A 133.36.1.6
+tackgp 86400 IN A 133.36.1.41
+tackhp-ups3 86400 IN A 133.36.1.93
+tackapc-ups1 86400 IN A 133.36.1.95
+fis 86400 IN NS ns
+st 3600 IN MX 0 st-takushokuu-ac-jp03b.mail.protection.outlook.com.
+st 3600 IN TXT "v=spf1 include:spf.protection.outlook.com ~all"
+zdns.ofc 86400 IN A 133.36.213.11
+act 86400 IN A 111.171.196.153
+jc 86400 IN NS ns.jc
+autodiscover.st 3600 IN CNAME autodiscover.outlook.com.
+tackutm 86400 IN A 133.36.1.5
+msite 86400 IN A 133.36.1.47
+emg3200 86400 IN A 133.36.1.110
+takudai-gw 86400 IN A 133.36.1.2
+ner 86400 IN NS ns
+sri 86400 IN MX 10 tackscm
+tacksv-gw 86400 IN A 133.36.1.122
+csprosv 86400 IN A 133.36.1.51
+localhost 86400 IN A 127.0.0.1
+mail.rugby.ritaku 86400 IN A 210.157.28.54
+rugby.ritaku 86400 IN MX 10 smtp.rugby.ritaku
+86400 IN MX 100 mail.rugby.ritaku
+stm 3600 IN CNAME login.microsoftonline.com.
+tackvpn 86400 IN A 133.36.1.11
+nerhk 86400 IN MX 10 nerhks.hc
+smtp.rugby.ritaku 86400 IN A 210.157.28.54
+www.kaiken 86400 IN A 133.36.1.6
+tnp 86400 IN A 133.36.1.24
+msite101 86400 IN A 133.36.1.47
+msite102 86400 IN A 133.36.1.48
+mlsv 86400 IN A 133.36.1.189
+www.csr 86400 IN A 133.36.1.6
+www.cnc 86400 IN A 133.36.1.6
+ofc 86400 IN NS ns
+bbtest 86400 IN A 133.36.1.43
+syllabus 86400 IN A 133.36.177.31
+gakucsv 86400 IN A 133.36.1.64
+ntp 86400 IN A 133.36.1.2
+axiole01 86400 IN A 133.36.1.140
+axiole02 86400 IN A 133.36.1.141
+msoid.st 3600 IN CNAME clientconfig.microsoftonline-p.net.
+tackscm 86400 IN A 133.36.1.115
+stmarch 86400 IN A 133.36.1.8
+stmarch 86400 IN MX 10 stmarch
+cnc 86400 IN MX 10 tackscm
+mtsv 86400 IN A 111.171.196.153
+language 86400 IN A 111.171.196.153
+bbtestap 86400 IN A 133.36.1.74
+ns.jc 86400 IN A 133.36.178.1
+bbtestdb 86400 IN A 133.36.1.75
+admissv 86400 IN A 133.36.1.62
+cocs 86400 IN MX 10 tackscm
+rcat 86400 IN NS ccns.cc
+kkgweb 86400 IN A 133.36.1.64
+bb 86400 IN A 133.36.1.41
+cc 86400 IN NS ccns.cc
+msite-ftp 86400 IN A 133.36.1.48
+cs 86400 IN NS ccns.cc
+fc 86400 IN NS ns
+bbdb 86400 IN A 133.36.1.42
+fe 86400 IN NS ccns.cc
+webui.ml 86400 IN CNAME mlsv

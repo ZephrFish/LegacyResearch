@@ -1,0 +1,260 @@
+@ 300 IN SOA odin rvetrovec 2005053790 600 20 600 300
+@ 300 IN TXT "MS=ms82140143"
+300 IN TXT "v=spf1 a mx ptr ip4:64.116.134.192/26 ip4:190.114.244.64/26 include:_spf.google.com include:servest.unimet.edu.ve ~all"
+@ 259200 IN MX 1 ASPMX.L.GOOGLE.COM.
+259200 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+259200 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+259200 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+259200 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+@ 10 IN NS odin
+10 IN NS odin-b
+ceip 300 IN CNAME ares2
+ceiq 300 IN CNAME ceis
+ceis 5 IN A 190.114.244.70
+friga 5 IN A 64.116.134.212
+aerodesign 300 IN CNAME ares2
+cervantes 2 IN A 64.116.134.203
+andromeda 5 IN A 64.116.134.207
+srvest 5 IN CNAME correo
+proyectobbva 300 IN CNAME vorion
+nube 300 IN A 54.234.142.249
+radio 300 IN CNAME ares2
+servest 300 IN CNAME correo
+platum2 5 IN A 190.216.250.165
+monitor 5 IN A 64.116.134.211
+wifiadm 300 IN CNAME ldapserver
+ricardo 5 IN A 64.116.134.197
+fce 300 IN CNAME ares2
+openjournal 300 IN CNAME ares2
+helpdesk 5 IN CNAME medusa2
+enlinea 300 IN A 107.170.11.211
+ruices 300 IN CNAME ldapserver
+novos.oriondev 300 IN A 64.116.134.246
+www.cendeco 300 IN CNAME hermes
+gastronomia 300 IN CNAME ares2
+www.unideportes 300 IN CNAME ares2
+microsoft 300 IN CNAME email
+ugta 300 IN CNAME ghs.googlehosted.com.
+pleyades 300 IN CNAME ares2
+pruebapuentes 300 IN CNAME ghs.googlehosted.com.
+ms 300 IN CNAME ceis
+central 5 IN A 64.116.134.232
+apolo 300 IN CNAME venus
+hermes 5 IN A 190.114.244.125
+platum2-test 5 IN A 190.216.250.165
+email 5 IN A 190.114.244.73
+minerva 300 IN CNAME ceis
+sed 5 IN CNAME venus
+video.biblioteca 300 IN CNAME andromeda
+orfeon 300 IN CNAME ares2
+medusa2 300 IN A 190.114.244.75
+desarrollo 300 IN A 190.114.244.84
+unimet.edu.ve._domainkey 300 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCTWLX+V0X3MFmUosaIJcwHVdeS07PhxuYKZpM7e0RBbkaxvlxTCRZ7Vjhq2kbQx46l7JqJ09ygBMV2I3rHTlhjoaSQitmrhEL5A7n1QW2Rd/YCgRIwAxi+a7Cd/sSturIy7CSSx3fnhyATnPA83D/1AlHLyATb9ICqrr6gBB5RIwIDAQAB"
+ow 300 IN TXT "v=spf1 include:outlook.com ~all"
+ow 5 IN MX 0 ow-unimet-edu-ve.mail.eo.outlook.com.
+calendarios 5 IN A 190.114.244.102
+centrodeayuda 300 IN CNAME ghs.googlehosted.com.
+vorionbd 300 IN A 200.74.204.164
+g 300 IN TXT "google-site-verification=-ha_Ah7kvP_yBEg8z0nuIgTf825UE5sXhlL7WYpvzJM"
+g 259200 IN MX 10 ASPMX.L.GOOGLE.COM.
+55ksxo64spws.correo2 300 IN CNAME gv-yjmdi4uqfvkj6u.dv.googlehosted.com.
+ceum 300 IN CNAME ares2
+1466497603.etest 300 IN CNAME domains.live.com.
+webdisprouter2 300 IN A 64.116.134.239
+sapqas2 300 IN A 190.114.244.110
+unikim._domainkey.g 5 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCioZ3/wiyAe5vwOyVcEXT3KDsuhWwS0V1I08LUPBsWYKgT+KHl8sbj16+NpSn53tlA1fdHTDz2szbRhYzy6O9aVyndmcKF3o4yjSKoWsV274xSDsrYOndNSGxdkTByjfFY2x2cNTg9k1gxgKqGKjwb0P281hl8PmZZKl5FZ+s+VwIDAQAB"
+cedeca 300 IN CNAME hermes
+webdisprouter 300 IN A 190.114.244.105
+mbmnjqaqtwp7.sirius 300 IN CNAME gv-5yniaqyc72r7lc.dv.googlehosted.com.
+_www._tcp 300 IN SRV 0 100 80 www
+anaconda 300 IN A 64.116.134.239
+repositorios 300 IN CNAME andromeda
+_smtps._tcp 300 IN SRV 0 0 465 smtp.gmail.com.
+300 IN SRV 0 100 587 smtp.gmail.com.
+lamp 5 IN A 64.116.134.231
+sapdev 300 IN A 190.114.244.77
+unimetanonline 5 IN CNAME medusa
+matrix 300 IN A 190.114.244.89
+velocidad 300 IN CNAME ldapserver
+webmail 300 IN A 190.114.244.70
+saplogon 300 IN CNAME zero
+wlan2 5 IN A 190.114.244.76
+saperpqa 5 IN A 190.114.244.83
+post 5 IN CNAME correo
+espaciougta 300 IN CNAME ares2
+cisco 300 IN CNAME email
+amarillo2 300 IN A 190.114.244.123
+gcalidad 300 IN CNAME ares2
+prueba 300 IN A 64.116.134.230
+300 IN A 190.114.244.92
+viernesaniversario 300 IN CNAME andromeda
+tgi 300 IN CNAME ghs.googlehosted.com.
+registrowlan 300 IN CNAME wlan
+breeze 300 IN A 190.114.244.79
+fsae 300 IN CNAME ares2
+grupos 300 IN CNAME ghs.googlehosted.com.
+cervantes2 300 IN A 64.116.134.251
+cervantes3 300 IN CNAME ghs.googlehosted.com.
+medusa 5 IN A 190.114.244.75
+moodle 60 IN A 190.114.244.83
+cendeco 300 IN CNAME hermes
+informaticaeducativa 300 IN CNAME ghs.googlehosted.com.
+sapepdes 300 IN A 64.116.134.249
+sapeppro2 300 IN A 190.114.244.119
+google._domainkey 5 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiaVLt8LH39RkjOpaKwfput57Uz5O2fUC7SIGqYhOsrsQp8NL8GniJrchcyPGeygfPptOVcR6VpBByNO4tFC4Xq7dJeswTnPvI8AeCQakmBnLZzjvxrk3jApZEDZSHC5R1JlcfsckPqNRXoYqKwCXozDdac1XR0ce6nWXEyLdRIwIDAQAB"
+extensionedu 300 IN CNAME ares2
+TEGyTG-postgrado 300 IN CNAME ghs.googlehosted.com.
+tsap 300 IN A 190.114.244.107
+congreso 300 IN CNAME email
+saperpprodb 5 IN A 190.114.244.80
+h.correo 259200 IN MX 10 ASPMX.L.GOOGLE.COM.
+estudios.maritimos 300 IN CNAME ares2
+test 300 IN A 190.114.244.118
+sapdev2 300 IN A 190.114.244.81
+rwdfilesrv 300 IN A 64.116.134.239
+agora 300 IN CNAME andromeda
+localhost 300 IN A 127.0.0.1
+localhost 300 IN NS @
+apolo1 5 IN A 64.116.134.209
+ares2 300 IN A 190.114.244.87
+sappro2 300 IN A 190.114.244.80
+dreamminder 5 IN A 64.116.134.252
+correo 259200 IN MX 10 ASPMX.L.GOOGLE.COM.
+259200 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+259200 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+259200 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+259200 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+correo 300 IN TXT "v=spf1 a a:64.116.134.204 include:_spf.google.com -all"
+correo 2 IN A 190.114.244.72
+polycom 300 IN A 190.216.250.166
+ei3fqc4n4mtn.correo 300 IN CNAME gv-sm2gbsouuilgy5.dv.googlehosted.com.
+wlan 300 IN CNAME wlan2
+concurso 300 IN CNAME sapeppro2
+speedtest2 300 IN CNAME odin
+ieee 300 IN CNAME ares2
+pr0gramaci0n 300 IN A 64.116.134.253
+pendrive 300 IN A 190.114.244.96
+fisica 5 IN CNAME ares2
+sapeppro 5 IN A 190.114.244.119
+sinai 300 IN CNAME ticpp
+ldapserver 300 IN MX 10 ldapserver
+ldapserver 5 IN A 190.114.244.78
+Portafolio_Nueva_Carrera 300 IN CNAME ares2
+pizarra 300 IN A 190.114.244.93
+informa 300 IN CNAME ares2
+mail2 5 IN TXT "v=msv1 t=7266ee8bed9e0047a82b8476c30d7d"
+_imap._tcp 5 IN SRV 0 0 993 imap.google.com.
+cervantesold 300 IN A 64.116.134.251
+admision 5 IN CNAME venus
+voriondata 300 IN A 200.74.204.165
+any 5 IN A 190.114.244.124
+video 300 IN CNAME email
+ticpp 300 IN CNAME ares2
+fped51 300 IN CNAME ares2
+_imap._tcp.correo 300 IN SRV 0 0 993 imap.google.com.
+musica 300 IN A 190.114.244.110
+bibliobytes 300 IN CNAME andromeda
+sitios 300 IN CNAME ghs.googlehosted.com.
+sapproas1 5 IN A 190.114.244.74
+sapproas2 5 IN A 190.114.244.88
+ribie2008 300 IN CNAME ares2
+cal 300 IN CNAME ares2
+google-site-verification 5 IN TXT "google-site-verification=jGomEzVxCbrdDATliWAqh1YUIjzWshzJyz28m8hucNg"
+google29c0d929586f0c0d 300 IN CNAME google.com.
+tendiendopuentes 300 IN CNAME ghs.googlehosted.com.
+venus 5 IN A 190.114.244.115
+mail 5 IN MX 10 ASPMX.L.GOOGLE.COM.
+tuceumacademico 300 IN CNAME ceis
+chequeowifi 300 IN CNAME wlan2
+platum22 300 IN A 190.114.244.71
+maratonacm 300 IN CNAME ares2
+tecnologiaprendizaje 300 IN CNAME ghs.googlehosted.com.
+www.ptolacruz 5 IN CNAME venus
+tunube 300 IN CNAME ghs.googlehosted.com.
+fotos 300 IN CNAME investigaciones
+usad 300 IN CNAME ares2
+etest 300 IN CNAME 1466497603.mail.outlook.com.
+bloqueowifi 300 IN CNAME wlan2
+capum2 300 IN A 190.114.244.86
+eduturismo 300 IN CNAME ares2
+sirius 300 IN CNAME sapeppro2
+m.biblioteca 300 IN CNAME mobile.dudamobile.com.
+tallergcl2015 300 IN CNAME ghs.googlehosted.com.
+afrodita 300 IN CNAME ares2
+sapepdes2 300 IN A 64.116.134.249
+pfc 5 IN A 64.116.134.233
+sd3dkirho47z.capum2 5 IN CNAME gv-zxzspzx6d3y6py.dv.googlehosted.com.
+formulasae 300 IN CNAME ares2
+av-serv 300 IN A 190.114.244.111
+tucem 300 IN CNAME ceis
+issueslog 5 IN A 190.114.244.112
+saperpdes 300 IN A 64.116.134.248
+tuceum 300 IN CNAME ceis
+folium 300 IN CNAME andromeda
+sapepdev 300 IN A 64.116.134.230
+capum 300 IN CNAME capum2
+vmendillo 300 IN CNAME guachiman
+documentos 300 IN CNAME ghs.googlehosted.com.
+tucubiculo.biblioteca 300 IN CNAME andromeda
+wap 300 IN A 10.1.8.21
+google20751684da8c8b1 300 IN CNAME google.com.
+dce 300 IN CNAME ghs.googlehosted.com.
+vpn2 300 IN A 64.116.134.249
+correo._domainkey.correo 5 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsLzs7KjUtrNWSanDVoYMGZ+mP8J7bHJ5cubbdURM/f8nPrWL2b08bxMDxWcHq+uYeIXSwSYsQGxCcj1/DGAmrGloDcAytTUWQR2JLIZpPzjKrlGcDoQk55T78XodqVCR3bZi++qqS7B/GlkfjTcyRw01fJTyhcPx0WcYj0QsjGwIDAQAB"
+tallergcl 300 IN CNAME ghs.googlehosted.com.
+_smtps._tcp.correo 300 IN SRV 0 0 465 smtp.gmail.com.
+parlamento 300 IN CNAME ceis
+speedtest 300 IN CNAME email
+yoda 300 IN CNAME ares2
+informacionestudiante 300 IN CNAME ares2
+amarillo 5 IN A 64.116.134.229
+certificadoe 300 IN CNAME ldapserver
+vorion 300 IN A 200.74.204.163
+cetic 300 IN CNAME ares2
+telefonia 300 IN CNAME saperpdes
+espaciovirtual 300 IN CNAME vorion
+mercadeodigital 300 IN A 64.116.134.232
+google 300 IN CNAME ghs.googlehosted.com.
+cdeporte 300 IN CNAME ares2
+envivo 300 IN CNAME ldapserver
+videoasemet 300 IN CNAME email
+vpn 300 IN A 190.114.244.108
+departamento-humanidades 300 IN CNAME ares2
+consultorwts 300 IN A 190.114.244.107
+ceim 300 IN CNAME ceis
+ceca 5 IN CNAME ares2
+microtech 300 IN CNAME ceis
+espaciocultural 300 IN CNAME ares2
+electronica 300 IN CNAME investigaciones
+ares 300 IN CNAME ares2
+epo-v2 300 IN A 190.114.244.125
+investigaciones 5 IN A 64.116.134.200
+webapps 300 IN CNAME webdisprouter
+www 300 IN A 64.116.134.250
+zero 300 IN CNAME ares2
+mario 300 IN A 190.114.244.115
+wsus 5 IN A 190.114.244.120
+eleccionesapum 300 IN CNAME ares2
+sapbwpro 5 IN A 64.116.134.252
+odin 5 IN A 64.116.134.199
+correo2 300 IN MX 10 ASPMX.L.GOOGLE.COM.
+300 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+semanaunimetana 300 IN CNAME ares2
+guachiman 3 IN A 190.114.244.121
+fptpr31 300 IN CNAME ghs.googlehosted.com.
+vpn-test 300 IN A 190.114.244.85
+industrial 5 IN CNAME ares2
+dreamspark 300 IN CNAME ldapserver
+odin-b 5 IN A 190.114.244.122
+biblioteca 5 IN CNAME andromeda
+paz 5 IN CNAME medusa
+ceic 300 IN CNAME ares2
+esega 300 IN CNAME hermes
+ceie 300 IN CNAME ares2
+foros 5 IN CNAME platum
+dt 300 IN CNAME ares2
+_pops._tcp 300 IN SRV 0 100 995 pop.gmail.com.
+pregrado 5 IN CNAME correo
+celaup 5 IN CNAME sapeppro2
+calendario 300 IN CNAME ghs.googlehosted.com.
+cciasyartes 300 IN CNAME zero

@@ -1,0 +1,14 @@
+@ 86400 IN SOA ns.fea.net. admin.fea.net. 2008031823 900 600 604800 86400
+@ 86400 IN A 216.115.245.148
+@ 86400 IN NS ns.fea.net.
+86400 IN NS ns2.fea.net.
+@ 86400 IN MX 10 mail
+@ 86400 IN TXT "v=spf1 ip4:66.147.229.0/24 ip4:216.120.228.0/24 ip4:199.27.239.229 ~all"
+webmail 86400 IN A 216.120.228.150
+law 86400 IN CNAME law.taftu.remote-learner.net.
+m 86400 IN CNAME mobile.dudamobile.com.
+www 86400 IN CNAME @
+mail 86400 IN A 216.120.228.150
+forums 86400 IN A 216.115.245.162
+elearning 86400 IN CNAME whtu-elearning.remote-learner.net.
+stats 86400 IN A 216.115.236.96

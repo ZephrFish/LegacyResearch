@@ -1,0 +1,74 @@
+@ 3600 IN SOA ns1.cc net-admin.isc 2010041572 3600 1800 2419200 1200
+@ 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+3600 IN NS ns3.nz
+@ 3600 IN TXT "v=spf1 include:spf.haihaimail.jp ~all"
+sv 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+fm 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+ns1.cc 3600 IN A 163.136.10.22
+acedrctr2 3600 IN A 163.136.11.231
+tw 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+gm 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+acc 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+3600 IN NS ns3.nz
+psy-gw.psy 3600 IN A 163.136.136.3
+gw 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+sks 3600 IN A 202.213.224.74
+dns01.isc 3600 IN A 163.136.43.10
+search 3600 IN A 163.136.10.112
+vod 3600 IN CNAME senshu-vod.isc
+ns3.nz 3600 IN A 202.212.47.150
+isc 3600 IN NS ns3.nz
+3600 IN NS dns01.isc
+3600 IN NS dns02.isc
+wcgw 3600 IN A 163.136.105.122
+ym 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+netprime.ne 3600 IN A 163.136.108.70
+sites 3600 IN A 219.94.218.225
+webacc 3600 IN A 203.138.237.242
+ikuta 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+psy 3600 IN NS ns3.nz
+3600 IN NS psy-gw.psy
+lib 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+mobile 3600 IN CNAME www
+ne 3600 IN NS www2.ne
+3600 IN NS netprime.ne
+fss 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+gkk 3600 IN NS gkkns.gkk
+sun.six.cc 3600 IN A 163.136.11.22
+www 3600 IN A 111.87.72.133
+shushoku 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+nz 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+3600 IN NS ns3.nz
+ns2.cc 3600 IN A 163.136.10.23
+www2.ne 3600 IN A 163.136.108.74
+iis 3600 IN NS iis1.iis
+cc 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+iis1.iis 3600 IN A 163.136.116.101
+www2 3600 IN A 203.138.237.242
+cs 3600 IN NS ns1.cc
+3600 IN NS ns2.cc
+airwave 3600 IN A 163.136.18.3
+mobile2 3600 IN A 202.225.5.164
+mobile2 3600 IN MX 10 ml.k-sal.jp.
+mobile2 3600 IN TXT "v=spf1" "include:spf.k-sal.jp" "include:spfmcs.biglobe.ne.jp" "include:spfmd.biglobe.ne.jp" "~all"
+wnn 3600 IN A 163.136.11.136
+gouhi 3600 IN CNAME gouhi.acc
+webold 3600 IN A 163.136.11.55
+dns02.isc 3600 IN A 163.136.43.11
+gkkns.gkk 3600 IN A 163.136.106.1
+ss 3600 IN NS ns1.cc
+3600 IN NS ns2.cc

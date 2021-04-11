@@ -1,0 +1,35 @@
+@ 3600 IN SOA ns1.nour.net.sa. admin.nour.net.sa. 367001034 10800 3600 604800 3600
+@ 3600 IN TXT "v=spf1 include:_spf.google.com ~all"
+@ 10800 IN NS ns1.nour.net.sa.
+10800 IN NS ns2.nour.net.sa.
+@ 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+Sip 3600 IN A 212.12.188.42
+sisweb 3600 IN A 46.235.93.171
+rdp 3600 IN A 46.235.93.174
+webmail 3600 IN A 46.235.93.164
+Dialin 3600 IN A 212.12.188.45
+web 3600 IN A 46.235.93.169
+93k-srv 3600 IN A 46.235.93.170
+mail 3600 IN A 46.235.93.165
+dictionary 3600 IN A 46.235.93.167
+autodiscover 3600 IN A 46.235.93.164
+Lyncweb 3600 IN A 212.12.188.45
+elearning 3600 IN A 46.235.93.173
+test 3600 IN A 46.235.93.175
+Lyncdiscover 3600 IN A 212.12.188.45
+Webcon 3600 IN A 212.12.188.44
+www 3600 IN A 46.235.93.163
+DZC 3600 IN TXT "VFo8bUA"
+selfservice 3600 IN A 46.235.93.172
+Meet 3600 IN A 212.12.188.45
+_sipfederationtls._tcp 3600 IN SRV 0 0 5061 sip
+AV 3600 IN A 212.12.188.43
+_sip._tls 3600 IN SRV 0 0 443 sip
+library 3600 IN A 46.235.93.166
+survey 3600 IN A 46.235.93.168

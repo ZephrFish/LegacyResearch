@@ -1,0 +1,216 @@
+@ 10800 IN SOA nsext1 inetmaster 2015031100 10800 3600 604800 3600
+@ 10800 IN A 193.174.105.55
+@ 10800 IN NS nsext1
+10800 IN NS nsext2
+10800 IN NS ws-mue1.win-ip.dfn.de.
+@ 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+pptp01 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+pptp01 10800 IN A 193.174.105.80
+kinderkardiologie 10800 IN CNAME htgate2.mhrz
+pruefdb2.asta 10800 IN CNAME gattaca.stud
+htgate 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+htgate 10800 IN A 193.174.105.21
+www.stud 10800 IN CNAME studweb1.stud
+pruefdb.asta 10800 IN CNAME gattaca.stud
+allocator 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+allocator 10800 IN A 193.174.105.91
+* 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+webhost1 10800 IN CNAME htgate2.mhrz
+webhost2 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+webhost2 10800 IN A 193.174.105.71
+*.mhrz 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+pptp1 10800 IN CNAME htgate2.mhrz
+elearning 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+elearning 10800 IN A 193.174.105.90
+rdebio1 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+rdebio1 10800 IN A 193.174.105.75
+sav 10800 IN CNAME webhost2
+www 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+www 10800 IN A 193.174.105.55
+epi 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+mhhftp 10800 IN CNAME portmap1
+ns 10800 IN CNAME thor.mhrz
+www.eh 10800 IN CNAME htgate2.mhrz
+medicalschoolbook2 10800 IN CNAME htgate2.mhrz
+typo3host1 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+typo3host1 10800 IN A 193.174.105.70
+www.irtg1273 10800 IN CNAME www1.heiss.org.
+ktk 10800 IN CNAME webext
+blogs 10800 IN CNAME webhost2
+bpc.bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-mue1.win-ip.dfn.de.
+wwwentw 10800 IN CNAME thor.mhrz
+dante 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+dante 10800 IN A 193.174.105.54
+eduroam-rad 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+eduroam-rad 10800 IN A 193.174.105.86
+herzkind 10800 IN CNAME htgate2.mhrz
+cag2 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+cag2 10800 IN A 193.174.104.106
+www.asta 10800 IN CNAME studweb1.stud
+webmail 10800 IN CNAME thor.mhrz
+kongress 10800 IN CNAME webhost2
+tyr.mhrz 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+tyr.mhrz 10800 IN A 193.174.104.34
+hch-ml 10800 IN CNAME htgate2.mhrz
+shibboleth 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+shibboleth 10800 IN A 193.174.105.107
+umfrage 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+umfrage 10800 IN A 193.174.105.58
+www.bpc 10800 IN A 193.174.105.57
+www.bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+tcs 10800 IN CNAME portmap1
+gattaca.stud 10800 IN A 193.174.105.74
+wwwtest 10800 IN CNAME htgate2.mhrz
+portal.bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+portal.bpc 10800 IN A 193.174.105.56
+stud 10800 IN A 193.174.105.100
+stud 10800 IN MX 10 studmail1.stud
+factweb-test 10800 IN CNAME factweb
+mhrz.bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-mue1.win-ip.dfn.de.
+webmail.user 10800 IN CNAME thor.mhrz
+internet 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+internet 10800 IN A 193.174.104.20
+10800 IN A 193.174.111.250
+mail.stud 10800 IN CNAME studmail1.stud
+patserv01 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+patserv01 10800 IN A 193.174.105.93
+webext 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+webext 10800 IN A 193.174.105.103
+ftp 10800 IN CNAME tyr.mhrz
+hch 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+hch 10800 IN A 193.174.105.68
+localhost 10800 IN A 127.0.0.1
+genomics1 10800 IN CNAME htgate2.mhrz
+genomics2 10800 IN CNAME htgate2.mhrz
+portal.stud 10800 IN CNAME studweb1.stud
+pedcon 10800 IN CNAME htgate2.mhrz
+www2 10800 IN CNAME www
+www3 10800 IN CNAME htgate2.mhrz
+www4 10800 IN CNAME www
+*.bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+aml 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+aml 10800 IN A 193.174.104.153
+cryptshare 10800 IN CNAME webext
+babble 10800 IN CNAME webhost2
+webmail2 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+webmail2 10800 IN A 193.174.104.132
+gateway.stud 10800 IN CNAME gattaca.stud
+link 10800 IN CNAME webhost2
+asta 10800 IN A 193.174.105.100
+asta 10800 IN MX 10 studmail1.stud
+htgate2.mhrz 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+htgate2.mhrz 10800 IN A 193.174.105.52
+www.kongress 10800 IN CNAME webhost2
+teleradmail 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+teleradmail 10800 IN A 193.174.105.84
+webkard 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+webkard 10800 IN A 193.174.104.147
+cag 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+cag 10800 IN A 193.174.104.97
+www2.bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+www2.bpc 10800 IN A 193.174.104.140
+cagrsa 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+cagrsa 10800 IN A 193.174.104.98
+edok.bib 10800 IN CNAME edok03.tib.uni-hannover.de.
+mail 10800 IN CNAME thor.mhrz
+studweb1.stud 10800 IN A 193.174.105.100
+factweb 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+factweb 10800 IN A 193.174.105.76
+dgsmp2008 10800 IN CNAME htgate2.mhrz
+doctoralacademy 10800 IN CNAME webhost2
+bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+studmail1.stud 10800 IN A 193.174.105.101
+cisco 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+cisco 10800 IN A 193.174.104.1
+evaluation 10800 IN CNAME htgate2.mhrz
+jav 10800 IN CNAME webext
+sb.stud 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+sb.stud 10800 IN A 193.174.105.83
+my.bpc 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+my.bpc 10800 IN A 193.174.104.141
+webmail.bpc 10800 IN CNAME www.bpc
+fotopool 10800 IN CNAME htgate2.mhrz
+thor.mhrz 10800 IN A 193.174.104.33
+thor.mhrz 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+nagios 10800 IN CNAME webhost2
+www.ubicampus 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+www.ubicampus 10800 IN A 193.174.105.81
+www99 10800 IN CNAME webhost2
+medicalschoolbook 10800 IN CNAME htgate2.mhrz
+www.epi 10800 IN CNAME thor.mhrz
+pressewiki 10800 IN CNAME htgate2.mhrz
+vlv 10800 IN CNAME htgate2.mhrz
+weiterbilden-online 10800 IN CNAME webext
+mhrz 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+nsext1 10800 IN A 193.174.104.33
+nsext2 10800 IN A 193.174.104.34
+sftp.bpc 10800 IN CNAME www.bpc
+webmail.stud 10800 IN CNAME studweb1.stud
+portmap1 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+portmap1 10800 IN A 193.174.105.82
+*.epi 10800 IN MX 10 mailext1
+10800 IN MX 50 mailext2
+10800 IN MX 500 ws-han1.win-ip.dfn.de.
+mailext1 10800 IN A 193.174.104.33
+mailext2 10800 IN A 193.174.104.34
+mailext3 10800 IN A 193.174.104.43
+eh 10800 IN CNAME htgate2.mhrz
+www.secutrial 10800 IN CNAME www

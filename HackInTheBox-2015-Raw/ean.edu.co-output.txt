@@ -1,0 +1,159 @@
+@ 38400 IN SOA ns0 hostmaster 2015042402 10800 3600 604800 38400
+@ 3600 IN AAAA 2801:0:100::58
+@ 3600 IN TXT "v=spf1 ip4:200.0.187.11 ip4:208.75.123.0/24 include:_spf.google.com include:servers.mcsv.net ~all"
+3600 IN TXT "google-site-verification=ONuenOHXo3Xe6txsX4YwfT9lOHi7aCqGM7hXI7MDVwQ"
+@ 3600 IN SPF "v=spf1 ip4:200.0.187.11 ip4:208.75.123.0/24 include:_spf.google.com include:servers.mcsv.net ~all"
+@ 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+@ 38400 IN A 192.230.74.147
+38400 IN A 199.83.135.71
+@ 38400 IN NS ns0
+38400 IN NS ns1-auth.etb.net.co.
+38400 IN NS ns2.telmexla.net.co.
+investigacion 38400 IN A 192.81.76.203
+soportetic 38400 IN A 200.0.187.55
+sitios.correo 38400 IN CNAME ghs.google.com.
+congresovirtual 38400 IN CNAME sedi
+fr 38400 IN A 192.81.76.203
+ingenieria 38400 IN A 192.81.76.203
+apps 38400 IN A 200.0.187.58
+revista 38400 IN A 200.0.187.40
+explorador 38400 IN CNAME pdiean
+correo.correo 38400 IN CNAME ghs.google.com.
+eantv 38400 IN A 181.48.106.249
+internacionalizacion 38400 IN A 192.81.76.203
+edicionesean 38400 IN CNAME sedi
+egresadosean 38400 IN A 192.81.76.203
+calendario.correo 38400 IN CNAME ghs.google.com.
+kuage 38400 IN A 200.0.187.40
+newsurvey 38400 IN A 200.0.187.115
+quejas 38400 IN A 200.0.187.115
+block 38400 IN A 200.0.187.28
+congresointernacional 38400 IN CNAME sedi
+surveyvin 38400 IN A 200.0.187.40
+admisiones 38400 IN A 192.81.76.203
+copaso 38400 IN CNAME sedi
+feav 38400 IN A 192.81.76.203
+www 38400 IN CNAME pe7d9.x.incapdns.net.
+autoevaluacion 38400 IN A 200.0.187.115
+virtualplus 38400 IN A 200.0.187.35
+sgc 38400 IN A 200.0.187.44
+pt 38400 IN A 192.81.76.203
+reservasfeav 38400 IN A 200.0.187.115
+sevip 38400 IN A 200.0.187.58
+fitnessean 38400 IN CNAME kuage
+secgral 38400 IN CNAME pdiean
+humanidades 38400 IN A 192.81.76.203
+portalsugar 38400 IN A 200.0.187.53
+cloud 38400 IN CNAME redirectsystem.elasticbeanstalk.com.
+educacioncontinuada 38400 IN CNAME kuage
+sia 38400 IN A 200.0.187.43
+repository 38400 IN A 54.214.244.62
+eanmail 38400 IN A 200.0.187.13
+ausugar 38400 IN A 200.0.187.27
+colaboracion 38400 IN A 200.0.187.34
+faqvin 38400 IN CNAME univirtual
+egresado 38400 IN A 200.0.187.33
+fpg 38400 IN A 200.0.187.40
+gw-ipv6 3600 IN AAAA 2801:0:100::2
+private._domainkey.correo 38400 IN TXT "k=rsa; p=MEwwDQYJKoZIhvcNAQEBBQADOwAwOAIxAL9N+75S3alToxExUmA9l38lrWDSKd3co83MGxE9WLVWlZGbi7hPNSWy3Dek2Q6BMQIDAQAB"
+proyectosideli 38400 IN A 200.0.187.115
+moocs 38400 IN A 200.0.187.45
+sugar1 38400 IN A 200.0.187.24
+sugar2 38400 IN A 200.0.187.25
+proveedores 38400 IN A 200.0.187.85
+investigador 38400 IN CNAME kuage
+google._domainkey 3600 IN TXT "v=DKIM1;t=y;k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCg6pBVZXfHY+NMKqWz0Y/hmKtMWnzBiBWm2ecs80MzSAMVwJUnzkW+aNBoPdiuJk/pqAiYZsxvCPMmJUUzPbeqnkP16dQ1CCfAhOsXP23qF2MuI8w+VA9yAeJotEtQLxL86USQVRFMB1dq1kbqiB3UFo2CLDZJjh9wh6EB4goSmwIDAQAB"
+_domainkey 3600 IN TXT "t=y; o=~; r=postmaster@mx1.ean.edu.co"
+consejeria 38400 IN CNAME integrate
+publicacionesvin 38400 IN CNAME kuage
+mediouniversitario 38400 IN A 200.0.187.55
+votantes2015 38400 IN A 200.0.187.115
+ipv6 3600 IN AAAA 2801:0:100::58
+atvivo 38400 IN A 200.0.187.55
+ticketsvin 38400 IN A 200.0.187.40
+googleapps 38400 IN A 200.0.187.57
+correo 38400 IN MX 1 aspmx.l.google.com.
+38400 IN MX 5 alt1.aspmx.l.google.com.
+38400 IN MX 5 alt2.aspmx.l.google.com.
+38400 IN MX 10 aspmx2.googlemail.com.
+38400 IN MX 10 aspmx3.googlemail.com.
+38400 IN MX 10 aspmx4.googlemail.com.
+38400 IN MX 10 aspmx5.googlemail.com.
+correo 38400 IN SPF "v=spf1 ip4:200.0.187.11 include:_spf.google.com ~all"
+correo 38400 IN TXT "v=spf1 ip4:200.0.187.11 include:_spf.google.com ~all"
+correo 38400 IN A 200.0.187.50
+syllabus2012-ii 38400 IN A 200.0.187.58
+sso 38400 IN A 200.0.187.50
+ojsvin 38400 IN CNAME kuage
+mx1 3600 IN TXT "v=spf1 a mx -all"
+mx1 3600 IN SPF "v=spf1 a mx -all"
+mx1 3600 IN MX 5 mail
+mx1 3600 IN A 200.0.187.11
+dkim._domainkey.correo 38400 IN TXT "v=DKIM1; k=rsa; t=s; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDlpizgonOdDVXa2Txdky7I+V6BcShiHIM/MMltlJzYQDxKe0fEaYkPsvloescC1XDmisvZng+/PqMg3/fEAZJU0gVvhx79SG0PAcxYM4xYgqpzbK5Mrp/bM7guMR+OxlrrCkjrX+2qVIfJeACrJkv3GaLHduJ1++Xq/D8SUPjJgwIDAQAB"
+journal 38400 IN A 200.0.187.30
+mmgo 38400 IN CNAME kuage
+sugar 38400 IN A 200.0.187.23
+hdvirtual 38400 IN CNAME kuage
+aplicavin 38400 IN A 200.0.187.40
+mx1._domainkey.mx1 3600 IN TXT "v=DKIM1;t=s;k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDY5XZh2Py+TuVf8AqsKg37oo5A5M1ZkAlp2k5CMbAfJ0hiV82EvKSBZcz6DWugJYxo8MRJPd0t4981gUDqPWY0cbwsyltSO7mkhhSslBLrI9yKFJpOt5jT5cCfSARPrpecnYWH5CUS/ROYIna8Zd/GerchuUX6G+cSQzY4wCdrTwIDAQAB"
+emprendimiento 38400 IN A 192.81.76.203
+practicasprofesionales 38400 IN A 192.81.76.203
+mx1._domainkey 3600 IN TXT "v=DKIM1;t=s;k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDY5XZh2Py+TuVf8AqsKg37oo5A5M1ZkAlp2k5CMbAfJ0hiV82EvKSBZcz6DWugJYxo8MRJPd0t4981gUDqPWY0cbwsyltSO7mkhhSslBLrI9yKFJpOt5jT5cCfSARPrpecnYWH5CUS/ROYIna8Zd/GerchuUX6G+cSQzY4wCdrTwIDAQAB"
+observatorio 38400 IN A 192.81.76.203
+ns0 3600 IN AAAA 2801:0:100::12
+ns0 38400 IN A 200.0.187.12
+ns1 38400 IN A 200.0.187.14
+univirtual 38400 IN A 200.0.187.45
+paginas.correo 38400 IN CNAME ghs.google.com.
+_dmarc 3600 IN TXT "v=DMARC1; p=none; rua=mailto:postmaster@mx1.ean.edu.co"
+bdigital 38400 IN A 200.0.187.30
+integrate 38400 IN A 200.0.187.33
+appsugar 38400 IN A 200.0.187.54
+mail 3600 IN A 200.0.187.11
+mi.correo 38400 IN CNAME ghs.google.com.
+sugarapp 38400 IN A 200.0.187.27
+investigaciones 38400 IN CNAME kuage
+oportunidadeslaborales 38400 IN CNAME tbjdns.trabajando.com.co.
+lean 38400 IN A 192.81.76.203
+institucion 38400 IN A 192.81.76.203
+sedi 38400 IN A 200.0.187.33
+juridica 38400 IN A 200.0.187.55
+controller 38400 IN A 200.0.187.61
+notes-15n4ebe63vp4w-rules 38400 IN CNAME notes.na.collabserv.com.
+eanbusinessreview 38400 IN CNAME kuage
+chatenlinea 38400 IN A 192.81.76.200
+electivasfeav 38400 IN A 200.0.187.58
+uvirtual 38400 IN A 200.0.187.11
+postgrados 38400 IN A 192.81.76.203
+_domainkey.correo 38400 IN TXT "t=y; o=~; r=postmaster@mx1.ean.edu.co"
+proyectomen 38400 IN A 200.0.187.55
+pdiean 38400 IN A 200.0.187.40
+votaciones2015 38400 IN A 200.0.187.60
+auoidsugar 38400 IN A 200.0.187.51
+_domainkey.mx1 3600 IN TXT "t=y; o=~; r=postmaster@mx1.ean.edu.co"
+movilidadinternacional 38400 IN A 200.0.187.115
+virtual 38400 IN CNAME wekel.x.incapdns.net.
+sugarp 38400 IN A 200.0.187.36
+administracion 38400 IN A 192.81.76.203
+atencionchat 38400 IN A 192.81.76.201
+documentos.correo 38400 IN CNAME ghs.google.com.
+k1._domainkey 38400 IN CNAME dkim.mcsv.net.
+fpgii 38400 IN CNAME fpg
+gestiondocumental 38400 IN A 200.0.187.48
+sibean 38400 IN A 200.38.75.92
+kactus 38400 IN A 200.0.187.43
+solipostgrados 38400 IN CNAME kuage
+egresados 38400 IN A 200.0.187.33
+biblioteca 38400 IN A 192.81.76.203
+inicio.correo 38400 IN CNAME ghs.google.com.
+permite 38400 IN A 200.0.187.33
+google2e51b758574e69ed.correo 38400 IN CNAME google.com.
+bdonline 38400 IN A 200.0.187.30
+iso9000 38400 IN A 200.0.187.39
+en 38400 IN A 192.81.76.203

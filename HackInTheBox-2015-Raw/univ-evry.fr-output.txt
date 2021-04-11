@@ -1,0 +1,309 @@
+@ 3600 IN SOA hyperion2 hostmaster 2015031604 28800 7200 604800 86400
+@ 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+@ 3600 IN MX 10 smtp
+@ 3600 IN TXT "Universite d'Evry Val d'Essonne"
+3600 IN TXT "boulevard Francois Mitterand - 91025 Evry Cedex - France"
+ucopia-idf 3600 IN A 194.199.90.2
+assistance-disi 3600 IN CNAME gemini
+trompette2 3600 IN A 194.199.90.48
+www.elections3conseils 3600 IN CNAME telesto
+ufrlam 3600 IN CNAME multiweb
+imeve86-gw-6509 3600 IN A 194.199.86.250
+cisco-vpn 3600 IN A 195.221.161.149
+www.portail-microsoft 3600 IN CNAME multiweb
+pelvoux-gw-6509 3600 IN A 195.221.158.250
+baie-master 3600 IN A 194.199.89.190
+cles 3600 IN CNAME trompette2
+trompette 3600 IN A 194.199.90.9
+ogp-gmp-gw-6509 3600 IN A 194.199.83.250
+pelvoux-gw-4506 3600 IN A 195.221.158.251
+team 3600 IN CNAME web-hosting
+international 3600 IN CNAME multiweb
+travail.organisation.rt25 3600 IN CNAME multiweb
+eportfolio 3600 IN A 194.199.90.15
+www.saun 3600 IN CNAME multiweb
+web-frontal-vt 3600 IN A 195.221.159.29
+signew-net 3600 IN A 195.221.159.0
+dtt 3600 IN MX 10 smtp
+crld 3600 IN CNAME multiweb
+parkingtst 3600 IN CNAME calypso
+www.culturedelapaix 3600 IN CNAME multiweb
+ssr-gw 3600 IN A 194.199.90.249
+tethys 3600 IN A 194.199.90.11
+bu-net 3600 IN A 195.221.160.0
+www.intranet 3600 IN CNAME telesto
+www.colloqueinspectiondutravail 3600 IN CNAME multiweb
+lmee 3600 IN CNAME gmfe16.cemif
+ogp-gmp-net 3600 IN A 194.199.83.0
+ucopia-shib 3600 IN A 194.199.90.14
+ens 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+imeve87-gw 3600 IN A 194.199.87.249
+idfnew-gw-6509 3600 IN A 194.199.89.250
+bibliopam-evry 3600 IN A 194.199.90.54
+ares 3600 IN A 194.199.90.16
+www 3600 IN CNAME site
+telesto 3600 IN A 194.199.90.43
+webmail 3600 IN CNAME mail
+imeve86-gw-4506 3600 IN A 194.199.86.251
+*.bibliopam-evry 3600 IN A 194.199.90.54
+cisco-3750-dmz-idf 3600 IN A 195.221.161.134
+sphinx1 3600 IN A 194.199.90.24
+chimie 3600 IN MX 10 smtp
+chaos2 3600 IN A 194.199.90.26
+mojito 3600 IN A 194.199.90.35
+srv-gw-4506 3600 IN A 192.168.198.251
+www.mt180 3600 IN CNAME multiweb
+spiderman 3600 IN A 194.199.90.28
+sociologie-filmique-afs 3600 IN CNAME multiweb
+crous1 3600 IN A 194.199.85.19
+crous2 3600 IN A 194.199.85.20
+crous3 3600 IN A 194.199.85.21
+crous4 3600 IN A 194.199.85.22
+crous5 3600 IN A 194.199.85.23
+crous6 3600 IN A 194.199.85.24
+crous7 3600 IN A 194.199.85.25
+crous8 3600 IN A 194.199.85.26
+crous9 3600 IN A 194.199.85.27
+actualites 3600 IN CNAME telesto
+www.numerique 3600 IN CNAME multiweb
+disi 3600 IN CNAME multiweb
+www.cari 3600 IN CNAME ns-quad.ibisc
+edelweiss 3600 IN A 194.199.90.36
+chaos 3600 IN A 194.199.90.27
+gemini 3600 IN A 195.221.159.187
+www.edsds 3600 IN CNAME multiweb
+lami 3600 IN NS ns.lami
+3600 IN NS gip.u-picardie.fr.
+3600 IN NS ns-quad.ibisc.fr.
+smtp 3600 IN A 194.199.90.26
+3600 IN A 194.199.90.27
+stage-emploi 3600 IN CNAME multiweb
+ucopia-imeve 3600 IN A 194.199.90.3
+multicast3 3600 IN A 195.221.157.3
+multicast4 3600 IN A 195.221.157.4
+imeve2-net 3600 IN A 194.199.87.0
+ogp-gmp-gw-4506 3600 IN A 194.199.83.251
+ns.lami 3600 IN A 195.221.162.248
+www.homme-femme 3600 IN CNAME multiweb
+cmartin-portable 3600 IN A 195.221.159.5
+ibisc 3600 IN NS ns.lami
+3600 IN NS gip.u-picardie.fr.
+3600 IN NS ns-quad.ibisc
+switch-net 3600 IN A 192.168.10.0
+www.fetedelascience 3600 IN CNAME multiweb
+idfnew-gw-4506 3600 IN A 194.199.89.251
+maths 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+formation-continue 3600 IN CNAME multiweb
+hyperion2 3600 IN A 194.199.90.52
+audiovideo 3600 IN CNAME streaming
+lsc 3600 IN CNAME gsc11.cemif
+ametys 3600 IN A 194.199.90.10
+emue 3600 IN CNAME web-hosting
+pelvoux-gw 3600 IN A 195.221.158.249
+ns.info 3600 IN A 194.199.85.93
+1er-cycle-net 3600 IN A 194.199.85.0
+calypso 3600 IN A 194.199.90.70
+cisco6509 3600 IN A 195.221.161.131
+resa-salle 3600 IN CNAME telesto
+jrocher 3600 IN A 194.199.88.89
+firepedago 3600 IN A 195.221.161.157
+www.master-fusac 3600 IN CNAME multiweb
+zh 3600 IN CNAME multiweb
+ucopia 3600 IN A 194.199.90.8
+si 3600 IN MX 10 smtp
+ftp 3600 IN CNAME edelweiss
+ppp-net 3600 IN A 194.199.84.0
+vab 3600 IN CNAME web-hosting
+controller.mobile.lan 3600 IN A 194.199.90.4
+mail 3600 IN A 194.199.90.44
+droit 3600 IN MX 10 smtp
+ns-quad.ibisc 3600 IN A 195.221.162.126
+bu-gw 3600 IN A 195.221.160.249
+cisco-3750-dmz-imeve 3600 IN A 195.221.161.133
+localhost 3600 IN A 127.0.0.1
+webmail-secours 3600 IN CNAME ares
+saxo 3600 IN A 195.221.161.153
+postenew-gw-4506 3600 IN A 194.199.88.251
+iut-gw-6509 3600 IN A 192.134.10.250
+smtps2 3600 IN A 194.199.90.73
+srv 3600 IN MX 10 smtp
+bibliopam-ecp 3600 IN A 194.199.90.56
+socio 3600 IN MX 10 smtp
+www.anciens 3600 IN CNAME multiweb
+loulou 3600 IN A 194.199.90.29
+ens-unix-gw 3600 IN A 195.221.157.249
+imeve1-net 3600 IN A 194.199.86.0
+www.departement-biologie 3600 IN CNAME multiweb
+streaming 3600 IN A 194.199.90.23
+ogp-gmp-gw 3600 IN A 194.199.83.249
+www.electionscpe 3600 IN CNAME multiweb
+www.vab 3600 IN CNAME web-hosting
+slam 3600 IN CNAME multiweb
+cisco4506 3600 IN A 195.221.161.132
+ucopia-virtuel-idf 3600 IN A 194.199.90.4
+ens-unix-gw-6509 3600 IN A 195.221.157.250
+web-hosting 3600 IN A 194.199.90.33
+signew-gw-4506 3600 IN A 195.221.159.251
+ssr-net 3600 IN A 194.199.90.0
+ens-net 3600 IN A 172.16.0.0
+mail1 3600 IN A 194.199.90.66
+3600 IN A 194.199.90.67
+iut-net 3600 IN A 192.134.10.0
+epee 3600 IN CNAME multiweb
+testad 3600 IN A 194.199.90.40
+cari 3600 IN CNAME ns-quad.ibisc
+sabnp 3600 IN CNAME multiweb
+voeux 3600 IN CNAME multiweb
+vpn-gw-4506 3600 IN A 192.168.20.251
+site 3600 IN CNAME ametys
+recherche 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+jasac 3600 IN CNAME multiweb
+www.openaccessweek 3600 IN CNAME atlas.biblio
+www.elections-professionnelles 3600 IN CNAME multiweb
+biblio 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+greppo 3600 IN CNAME proxyueve
+scolarite 3600 IN CNAME spiderman
+signew-gw 3600 IN A 195.221.159.249
+iut-gw-4506 3600 IN A 192.134.10.251
+bio 3600 IN MX 10 smtp
+video-utl 3600 IN A 194.199.90.19
+20ans 3600 IN CNAME ametys
+bibliopam-supelec 3600 IN A 194.199.90.55
+srv-gw-6509 3600 IN A 192.168.198.250
+vpn-net 3600 IN A 192.168.20.0
+epee2 3600 IN CNAME multiweb
+helicon 3600 IN A 194.199.90.242
+orientation-active 3600 IN CNAME ametys
+postenew-gw 3600 IN A 194.199.88.249
+sphinx 3600 IN A 194.199.90.22
+bu-gw-6509 3600 IN A 195.221.160.250
+iie-gw 3600 IN A 192.134.10.248
+postenew-gw-6509 3600 IN A 194.199.88.250
+departement-biologie 3600 IN CNAME multiweb
+www.intraduisible 3600 IN CNAME multiweb
+ens-unix-gw-4506 3600 IN A 195.221.157.251
+vpn-gw-6509 3600 IN A 192.168.20.250
+drri 3600 IN CNAME multiweb
+portail 3600 IN A 194.199.90.41
+signew-gw-6509 3600 IN A 195.221.159.250
+idfnew-gw 3600 IN A 194.199.89.249
+imeve87-gw-6509 3600 IN A 194.199.87.250
+servbio1 3600 IN A 194.199.90.65
+dmz-gw 3600 IN A 195.221.161.145
+iut-gw 3600 IN A 192.134.10.249
+assises2012 3600 IN CNAME multiweb
+opac 3600 IN A 195.221.160.10
+1er-cycle-gw-6509 3600 IN A 194.199.85.250
+reseauspo 3600 IN CNAME multiweb
+parking 3600 IN CNAME calypso
+firecache 3600 IN A 195.221.161.155
+3600 IN A 195.221.161.156
+www.masterpcav 3600 IN CNAME suresnes.imeve
+ncherikh 3600 IN A 194.199.88.208
+vpn-gw 3600 IN A 192.168.20.249
+ssr-gw-6509 3600 IN A 194.199.90.250
+www.imageetsociete 3600 IN CNAME ametys
+trombone 3600 IN A 195.221.159.9
+imeve86-gw 3600 IN A 194.199.86.249
+multicast6 3600 IN A 195.221.157.6
+cemif 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+bibliopam 3600 IN A 194.199.90.30
+smtps1 3600 IN A 194.199.90.72
+shibboleth 3600 IN A 194.199.90.12
+semaine-rentree 3600 IN CNAME trompette2
+intranet 3600 IN CNAME telesto
+bu-gw-4506 3600 IN A 195.221.160.251
+gerpisa 3600 IN MX 10 smtp
+identifierlescompetences 3600 IN CNAME multiweb
+remotedesktop 3600 IN A 194.199.90.20
+acff 3600 IN CNAME multiweb
+srv-gw 3600 IN A 192.168.198.249
+ori 3600 IN A 194.199.90.32
+pelvoux-net 3600 IN A 195.221.158.0
+crous-vpn 3600 IN A 194.199.85.37
+idfnew-net 3600 IN A 194.199.89.0
+listes 3600 IN A 194.199.90.64
+listes 3600 IN MX 10 smtp
+www.masterlea 3600 IN CNAME multiweb
+imeve87-gw-4506 3600 IN A 194.199.87.251
+histoire 3600 IN MX 10 smtp
+www.cpgel 3600 IN CNAME multiweb
+cms 3600 IN CNAME helicon
+ufrst 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+ufrst 3600 IN MX 4 aramis.iup
+www.masterdsu 3600 IN CNAME multiweb
+portail-recherche 3600 IN CNAME telesto
+bibliopam-cachan 3600 IN A 194.199.90.57
+1er-cycle-gw-4506 3600 IN A 194.199.85.251
+www.iup-juriste 3600 IN CNAME multiweb
+slm 3600 IN A 195.221.159.15
+virtual 3600 IN A 194.199.90.21
+srv-net 3600 IN A 192.168.198.0
+cpn 3600 IN CNAME multiweb
+sig 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+edsi 3600 IN CNAME ametys
+ssr-gw-4506 3600 IN A 194.199.90.251
+vpn-1 3600 IN A 195.221.161.147
+www.m2if 3600 IN CNAME multiweb
+crous10 3600 IN A 194.199.85.28
+crous11 3600 IN A 194.199.85.29
+dim 3600 IN A 195.221.157.16
+masterifp 3600 IN CNAME multiweb
+ads.ahds.ac.uk 3600 IN A 137.73.142.140
+bu-guides 3600 IN CNAME v2.libguides.com.
+iup 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+pop 3600 IN CNAME mail
+daiquiri 3600 IN A 194.199.90.49
+iut 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+proxyueve 3600 IN A 194.199.90.187
+ibad 3600 IN MX 10 smtp
+postenew-net 3600 IN A 194.199.88.0
+info 3600 IN NS ns.info
+3600 IN NS gip.u-picardie.fr.
+3600 IN NS ns-quad.ibisc
+www.lambe 3600 IN CNAME multiweb
+t2m 3600 IN CNAME st3cycle.eco
+1er-cycle-gw 3600 IN A 194.199.85.249
+gestion 3600 IN MX 10 smtp
+sig-net 3600 IN A 193.105.83.0
+hyperion2-1 3600 IN A 194.199.90.53
+eco 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+physique 3600 IN MX 10 smtp
+bp 3600 IN MX 10 smtp
+ens-unix-net 3600 IN A 195.221.157.0
+dlv 3600 IN MX 10 smtp
+bu 3600 IN MX 10 smtp
+multiweb 3600 IN A 194.199.90.59
+edt 3600 IN CNAME web-frontal-vt
+imeve 3600 IN NS ns.ensiie.fr.
+3600 IN NS ares
+3600 IN NS hyperion2
+di20 3600 IN A 194.199.90.31
+uel 3600 IN CNAME trompette2
+sifac 3600 IN CNAME ametys
+agenda-vt 3600 IN CNAME web-frontal-vt
+www.20ans 3600 IN CNAME ametys
+www.crfmss 3600 IN CNAME multiweb
+ucopia-nat-invite 3600 IN A 194.199.85.2

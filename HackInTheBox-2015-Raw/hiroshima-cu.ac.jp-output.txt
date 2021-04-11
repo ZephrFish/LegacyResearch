@@ -1,0 +1,72 @@
+@ 86400 IN SOA mail.ipc postmaster.mail.ipc 2014091401 10800 3600 3600000 86400
+@ 86400 IN MX 10 cluster6.us.messagelabs.com.
+86400 IN MX 20 cluster6a.us.messagelabs.com.
+@ 86400 IN TXT "v=spf1 +ip4:165.242.0.0/16 include:spf.messagelabs.com ~all"
+@ 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+86400 IN NS ns.supercsi.jp.
+#cs 86400 IN NS hunet.ipc
+lang 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+museum 86400 IN NS twww.ipc
+twww.ipc 86400 IN A 165.242.40.41
+rentai 86400 IN CNAME ult.rea.its
+ipc 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+kyougikai 86400 IN CNAME hpserv2.rea.its
+winterfest 86400 IN NS twww.ipc
+club 86400 IN NS twww.ipc
+86400 IN NS mail.ipc
+wm 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+www.renkei2 86400 IN A 165.242.99.107
+peace 86400 IN NS mail.ipc
+# 86400 IN NS mail.ipc
+region 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+art 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+www.renewal 86400 IN A 165.242.40.39
+#im 86400 IN NS hunet.ipc
+s 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+www.easo 86400 IN A 165.242.73.101
+vc01 86400 IN A 165.242.11.9
+vc02 86400 IN A 165.242.11.10
+vc03 86400 IN A 165.242.11.11
+ichidai-ichi 86400 IN NS twww.ipc
+lib 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+eerw.egate 86400 IN A 165.242.30.7
+www.acac 86400 IN A 165.242.73.6
+mail.ipc 86400 IN A 165.242.40.33
+test 86400 IN NS twww.ipc
+86400 IN NS mail.ipc
+www.geaf 86400 IN A 165.242.73.5
+www.oc 86400 IN A 165.242.99.107
+intl 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+hunet.ipc 86400 IN A 165.242.24.10
+www.renkei 86400 IN A 165.242.99.107
+info 86400 IN NS hunet.ipc
+86400 IN NS mail.ipc
+news 86400 IN CNAME hcunews.ipc
+dcml 86400 IN A 165.242.62.14
+sinfo.info 86400 IN A 165.242.89.33
+www 86400 IN AAAA 2001:2f8:1c2:40::39
+www 86400 IN A 165.242.40.39
+ichipol 86400 IN A 165.242.23.20
+e 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+#its 86400 IN NS hunet.ipc
+m 86400 IN A 165.242.40.38
+vc04 86400 IN A 165.242.11.12
+www.afex 86400 IN A 165.242.73.4
+#ce 86400 IN NS hunet.ipc
+gs4000 86400 IN A 165.242.1.7
+gate 86400 IN A 165.242.1.13
+www.20th 86400 IN A 165.242.99.107
+office 86400 IN NS mail.ipc
+86400 IN NS hunet.ipc
+www.edaf 86400 IN A 165.242.73.3
+triathlon 86400 IN A 165.242.40.39

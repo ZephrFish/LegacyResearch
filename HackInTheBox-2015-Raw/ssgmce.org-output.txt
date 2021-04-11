@@ -1,0 +1,7 @@
+@ 10800 IN SOA ns.balasai.com. support.balasai.com. 2014092300 43200 900 1209600 10800
+@ 86400 IN NS ns.balasai.com.
+86400 IN NS ns2.balasai.com.
+@ 600 IN A 122.252.238.18
+@ 3600 IN MX 10 ms65478936.msv1.invalid.outlook.com.
+@ 3600 IN TXT "MS=ms65478936"
+www 600 IN CNAME @

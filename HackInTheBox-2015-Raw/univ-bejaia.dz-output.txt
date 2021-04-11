@@ -1,0 +1,20 @@
+@ 604800 IN SOA servext admin 2014043024 3600 1200 1209600 86400
+@ 604800 IN TXT "v=spf1 ip4:193.194.94.2 ~all"
+@ 604800 IN NS servext
+@ 604800 IN MX 10 mx1
+@ 604800 IN A 193.194.94.3
+webtv 604800 IN A 193.194.94.11
+bibliomedecine 604800 IN CNAME www
+default._domainkey 604800 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCXaekuuu199tUDADjvzE2fBOFAojg6bVHbxUy30dzYrQ2cFd5fNhss6on73HR+G4iah+DqZIpw/7htmZX+nGgVm0jX+63z0vlXgLUvEfXBmNfpDCWX4Dd1YztRXaEfgemKwGIBgG7xVhYmjjqPJPFHl4Ok/Vawyu4xcvICxiWcQIDAQAB"
+mx1 604800 IN A 193.194.94.2
+servext 604800 IN A 193.194.94.8
+medecine 604800 IN A 193.194.94.12
+www 604800 IN A 193.194.94.3
+biblioCentrale 604800 IN A 193.194.94.29
+recherche 604800 IN CNAME biblioCentrale
+mail 604800 IN A 193.194.94.2
+_dmarc 604800 IN TXT "v=DMARC1; p=none; rua=mailto:abuse@univ-bejaia.dz; ruf=mailto:abuse@univ-bejaia.dz; rf=afrf; pct=100;"
+questionnaire 604800 IN CNAME elearning
+uci 604800 IN A 193.194.94.30
+guamb 604800 IN A 193.194.94.5
+elearning 604800 IN A 193.194.94.10

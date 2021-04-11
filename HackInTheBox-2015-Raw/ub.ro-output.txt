@@ -1,0 +1,96 @@
+@ 3600 IN SOA ns1 sicd 2015012215 10800 900 2419200 86400
+@ 3600 IN TXT "v=spf1" "mx" "ptr" "~all"
+@ 3600 IN NS ns1
+3600 IN NS ns2
+@ 3600 IN MX 10 mail
+@ 3600 IN A 193.231.34.39
+orar 3600 IN A 193.231.34.145
+eie 3600 IN A 193.231.34.39
+*.pruteanue 3600 IN A 193.231.34.144
+pruteanue 3600 IN A 193.231.34.144
+teoro 3600 IN A 193.231.34.39
+*.mike 3600 IN A 193.231.34.82
+intra 3600 IN A 193.231.34.39
+scc 3600 IN A 193.231.34.111
+www.editura 3600 IN A 193.231.34.39
+jiped 3600 IN A 193.231.34.39
+www.eifr 3600 IN A 193.231.34.210
+www 3600 IN A 193.231.34.39
+1572171108.student 3600 IN CNAME domains.live.com.
+pe 3600 IN A 193.231.34.144
+www.liga-sre 3600 IN A 212.83.150.250
+www.cisapm 3600 IN A 193.231.34.39
+autodiscover.student 3600 IN CNAME autodiscover.outlook.com.
+www.icnar 3600 IN A 193.231.34.39
+www.biblioteca 3600 IN A 193.231.34.135
+www.calitate 3600 IN A 193.231.34.39
+www.in2rural 3600 IN A 193.231.34.39
+emsc 3600 IN A 193.231.34.39
+www.ums 3600 IN A 193.231.34.21
+sicd 3600 IN A 193.231.34.39
+www.interstudia 3600 IN A 193.231.34.39
+ads 3600 IN NS dc.ads
+www.jiped 3600 IN A 193.231.34.39
+www.inters 3600 IN A 193.231.34.39
+www.upimif 3600 IN A 193.231.34.39
+www.greenmarket 3600 IN A 193.231.34.81
+dc.ads 3600 IN A 193.231.34.81
+www.ipa 3600 IN A 193.231.34.39
+gymnasium 3600 IN A 193.231.34.39
+editura 3600 IN A 193.231.34.39
+bliss 3600 IN A 193.231.34.39
+www2 3600 IN A 193.231.34.39
+cisapm 3600 IN A 193.231.34.39
+www.plumee 3600 IN A 193.231.34.39
+www.teoro 3600 IN A 193.231.34.39
+svn 3600 IN A 193.231.34.146
+spic 3600 IN A 193.231.34.134
+ns1 3600 IN A 193.231.34.1
+ns2 3600 IN A 193.231.34.2
+bacau 3600 IN A 193.231.34.1
+oproteh2 3600 IN A 193.231.34.39
+interstudia 3600 IN A 193.231.34.39
+sceco 3600 IN A 193.231.34.39
+www.cadredidactice 3600 IN A 193.231.34.39
+spic2 3600 IN A 193.231.34.134
+mail 3600 IN TXT "v=spf1" "a" "-all"
+mail 3600 IN A 193.231.34.131
+eifr 3600 IN A 193.231.34.210
+inters 3600 IN A 193.231.34.39
+www.comunitati-100-sre 3600 IN A 212.83.150.250
+upimif 3600 IN A 193.231.34.39
+www.oproteh 3600 IN A 193.231.34.39
+www.pubs 3600 IN A 193.231.34.79
+ums 3600 IN A 193.231.34.21
+www.eie 3600 IN A 193.231.34.39
+greenpro 3600 IN A 193.231.34.39
+www.didfr.stiinte 3600 IN A 193.231.34.39
+www.imsi 3600 IN A 193.231.34.39
+cadredidactice 3600 IN A 193.231.34.39
+www.imsm 3600 IN A 193.231.34.39
+greenmarket 3600 IN A 193.231.34.81
+www.plumee2013 3600 IN A 193.231.34.39
+student 3600 IN TXT "v=spf1" "include:outlook.com" "~all"
+student 3600 IN MX 1 1572171108.mail.outlook.com.
+plumee 3600 IN A 193.231.34.39
+www.scc 3600 IN A 193.231.34.111
+ipa 3600 IN A 193.231.34.39
+icnar 3600 IN A 193.231.34.39
+*.pe 3600 IN A 193.231.34.144
+www.sceco 3600 IN A 193.231.34.39
+didfr.stiinte 3600 IN A 193.231.34.39
+www.bliss 3600 IN A 193.231.34.39
+imsm 3600 IN A 193.231.34.39
+mike 3600 IN A 193.231.34.82
+www.gymnasium 3600 IN A 193.231.34.39
+pubs 3600 IN A 193.231.34.79
+biblioteca 3600 IN A 193.231.34.135
+www.greenpro 3600 IN A 193.231.34.39
+oproteh 3600 IN A 193.231.34.39
+calitate 3600 IN A 193.231.34.39
+router 3600 IN A 193.231.34.62
+imsi 3600 IN A 193.231.34.39
+_sipfederationtls._tcp.student 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+www.emsc 3600 IN A 193.231.34.39
+plumee2013 3600 IN A 193.231.34.39
+in2rural 3600 IN A 193.231.34.39

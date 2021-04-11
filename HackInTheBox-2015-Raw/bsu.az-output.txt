@@ -1,0 +1,15 @@
+@ 84600 IN SOA ns01.bdu.az. adil.bdu.az. 2009061607 10800 3600 604800 86400
+@ 84600 IN TXT "v=spf1 mx a ~all"
+@ 84600 IN MX 20 mail
+@ 84600 IN NS ns01.bdu.az.
+84600 IN NS ns02.bdu.az.
+84600 IN NS ns03.bdu.az.
+84600 IN NS ns04.bdu.az.
+@ 84600 IN A 217.64.25.100
+static 84600 IN A 217.64.25.100
+eu 84600 IN A 192.168.5.26
+elibrary 84600 IN A 217.64.25.102
+www 84600 IN CNAME bdu.az.
+irbis 84600 IN A 217.64.25.102
+mail 84600 IN A 217.64.25.105
+ysc 84600 IN A 72.167.3.1

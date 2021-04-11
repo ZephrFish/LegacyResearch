@@ -1,0 +1,27 @@
+@ 3600 IN SOA correo netadmin.correo 2015010110 10800 3600 604800 86400
+@ 3600 IN A 187.217.222.70
+@ 3600 IN MX 10 d6a97f365c263748bd88c1b20c4c4e.mail.outlook.com.
+@ 3600 IN NS nmr
+3600 IN NS correo
+@ 3600 IN TXT "sistemas@urse.edu.mx"
+3600 IN TXT "http://www.urse.edu.mx"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+3600 IN TXT "Universidad Regional del Sureste - URSE"
+vdrive 3600 IN A 148.233.6.123
+fca 3600 IN CNAME @
+nma 3600 IN A 187.217.222.71
+idiomas 3600 IN CNAME @
+webmail 3600 IN CNAME mail.office365.com
+medicina 3600 IN CNAME @
+www 3600 IN CNAME @
+moodle 3600 IN CNAME @
+biblioteca 3600 IN A 187.217.222.72
+catedraticos 3600 IN MX 10 d6a97f365c263748bd88c1b20c4c4e.mail.outlook.com.
+catedraticos 3600 IN TXT "v=spf1 include:outlook.com ~all"
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+www.eservicios 3600 IN CNAME @
+correo 3600 IN A 187.217.222.70
+eservicios 3600 IN CNAME @
+_sipfederationtls._tcp 3600 IN SRV 10 2 5061 federation.messenger.msn.com
+_sipfederationtls._tcp.catedraticos 3600 IN SRV 10 2 5061 federation.messenger.msn.com
+nmr 3600 IN A 148.233.6.122

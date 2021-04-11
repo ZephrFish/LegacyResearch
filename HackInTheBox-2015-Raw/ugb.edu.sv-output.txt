@@ -1,0 +1,30 @@
+@ 3600 IN SOA dns quintanj.excite.com. 20130717 10800 3600 1209600 3600
+@ 3600 IN A 190.86.248.2
+@ 3600 IN NS dns
+@ 3600 IN MX 0 ugb-edu-sv.mail.protection.outlook.com.
+3600 IN MX 10 1168382014.mail.outlook.com.
+@ 3600 IN TXT "v=spf1" "include:outlook.com" "~all"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+sip 3600 IN CNAME sipdir.online.lync.com.
+1168382014 3600 IN CNAME domains.live.com.
+biblio2 3600 IN A 190.86.248.5
+soporte 3600 IN A 190.86.248.3
+uonline 3600 IN A 190.86.248.4
+ugbstore 3600 IN A 190.86.248.3
+graduados 3600 IN A 190.86.248.2
+clases2 3600 IN A 173.236.30.220
+humanismo 3600 IN A 190.86.248.2
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+sip.ugb.edu.sv 3600 IN CNAME sipdir.online.lync.com.
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+www 3600 IN CNAME dns
+phpmy 3600 IN A 190.86.248.2
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+biblioteca 3600 IN A 190.86.248.5
+clases 3600 IN A 173.236.30.220
+lyncdiscover.ugb.edu.sv 3600 IN CNAME webdir.online.lync.com.
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+investigaciones 3600 IN A 190.86.248.2
+dns 3600 IN A 190.86.248.2
+academiacisco 3600 IN A 190.86.248.2

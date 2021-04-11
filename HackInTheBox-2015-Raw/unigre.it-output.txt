@@ -1,0 +1,67 @@
+@ 38400 IN SOA dns fattorini 2015021101 10800 3600 604800 38400
+@ 38400 IN MX 1 ASPMX.L.GOOGLE.COM.
+38400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+38400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+38400 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+38400 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+@ 38400 IN NS ns.urbe.it.
+38400 IN NS dns
+@ 38400 IN TXT "v=spf1 include:_spf.google.com ip4:62.101.92.12 ~all"
+pinakes 38400 IN CNAME ip11
+gf 38400 IN CNAME ip3
+rdp 38400 IN CNAME ip11
+pazpar2 38400 IN A 62.191.92.8
+ccpblog 38400 IN CNAME ip9
+owncloud 38400 IN CNAME ip3
+u7mirhpjoaib 38400 IN CNAME gv-6jf6gkaezekj7n.dv.googlehosted.com.
+pop3 38400 IN A 62.101.92.4
+db-esterni 38400 IN CNAME ip3
+web 38400 IN CNAME ip5
+ip10 38400 IN A 62.101.92.10
+mydonor 38400 IN A 62.101.92.3
+suggerimenti 38400 IN A 62.101.92.7
+autodiscover.campus.unigre.it 38400 IN CNAME autodiscover.outlook.com
+brepolis 38400 IN CNAME ip3
+ip3 38400 IN A 62.101.92.3
+calendar 38400 IN CNAME ghs.googlehosted.com.
+librivision 38400 IN CNAME ip12
+ac1 38400 IN A 217.221.244.137
+www.thr 38400 IN CNAME ip6
+sites 38400 IN CNAME ghs.googlehosted.com.
+csrb 38400 IN CNAME ip7
+mail 38400 IN A 62.101.92.4
+ip5 38400 IN A 62.101.92.5
+ip14 38400 IN A 62.101.92.14
+675023726.campus 38400 IN CNAME domains.live.com.
+ip6 38400 IN A 62.101.92.6
+msoid.campus 38400 IN CNAME clientconfig.microsoftonline-p.net.
+bellarmino 38400 IN CNAME ip5
+campus 38400 IN MX 10 campus-unigre-it.mail.eo.outlook.com.
+ccptest 38400 IN CNAME ip9
+oseegenius 38400 IN A 62.101.92.8
+proxy 38400 IN CNAME ip14
+thr 38400 IN CNAME ip6
+www 38400 IN A 62.101.92.2
+docs 38400 IN CNAME ghs.googlehosted.com.
+segreteria 38400 IN CNAME ip3
+imap 38400 IN A 62.101.92.4
+ip1 38400 IN A 62.101.92.1
+ip11 38400 IN A 62.101.92.11
+ip12 38400 IN A 62.101.92.12
+amicus 38400 IN A 62.101.92.8
+ac2 38400 IN A 217.221.244.138
+ac3 38400 IN A 217.221.244.139
+ac4 38400 IN A 217.221.244.140
+ip9 38400 IN A 62.101.92.9
+smtp-auth 38400 IN CNAME ip9
+rdp1 38400 IN CNAME ip12
+www3 38400 IN CNAME amicus
+www4 38400 IN CNAME ip1
+streaming 38400 IN CNAME ip14
+www2 38400 IN CNAME ip1
+ip13 38400 IN A 62.101.92.13
+ip7 38400 IN A 62.101.92.7
+childprotection 38400 IN CNAME ip9
+librivision2 38400 IN CNAME ip6
+dns 38400 IN A 62.101.92.4
+gmail 38400 IN CNAME ghs.googlehosted.com.

@@ -1,0 +1,16 @@
+@ 3600 IN SOA ns5.awardspace.com. hostmaster.awardspace.com. 2012101101 10800 3600 1209600 7200
+@ 3600 IN A 82.197.130.131
+@ 3600 IN MX 10 mx
+@ 3600 IN NS ns5.awardspace.com.
+3600 IN NS ns6.awardspace.com.
+mx.cul 3600 IN A 82.197.130.97
+mail.mag 3600 IN A 82.197.130.204
+mx 3600 IN A 82.197.130.97
+www 3600 IN A 82.197.130.131
+mx.mag 3600 IN A 82.197.130.97
+mail 3600 IN A 82.197.130.204
+mail.cul 3600 IN A 82.197.130.204
+cul 3600 IN A 82.197.130.131
+cul 3600 IN MX 10 mx.cul
+mag 3600 IN A 82.197.130.131
+mag 3600 IN MX 10 mx.mag

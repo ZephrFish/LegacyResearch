@@ -1,0 +1,35 @@
+@ 86400 IN SOA nsa1 root 45 10800 600 604800 86400
+@ 86400 IN TXT "v=spf1 mx ptr ?all"
+@ 86400 IN NS nsa1
+@ 86400 IN MX 10 mailzm
+86400 IN MX 20 mail
+labos 86400 IN CNAME sts
+fmi 86400 IN CNAME sts
+netadmin 86400 IN CNAME lmd
+yolande 86400 IN CNAME sts
+lmdadmin 86400 IN CNAME lmd
+mailsc 86400 IN CNAME mailzm
+ident 86400 IN CNAME lmd
+fdsp 86400 IN CNAME sts
+cms 86400 IN CNAME sts
+dst 86400 IN CNAME sts
+fsnv 86400 IN CNAME sts
+moodle 86400 IN CNAME docs
+fsa 86400 IN CNAME sts
+mail 86400 IN CNAME mailzm
+essai 86400 IN CNAME sts
+nsa1 86400 IN A 193.194.87.99
+telst 86400 IN A 193.194.87.111
+moodle-talbi-omar 86400 IN CNAME docs
+fsm 86400 IN CNAME sts
+www 86400 IN CNAME sts
+docs 86400 IN A 193.194.87.113
+mailzm 86400 IN A 193.194.87.100
+dmc 86400 IN CNAME sts
+lmd 86400 IN A 193.194.87.109
+webadmin 86400 IN CNAME sts
+sts 86400 IN A 193.194.87.107
+webtv 86400 IN CNAME lmd
+vrpg 86400 IN CNAME sts
+dns 86400 IN TXT "v = spf1 a-all"
+bib 86400 IN CNAME sts

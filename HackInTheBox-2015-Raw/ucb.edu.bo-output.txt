@@ -1,0 +1,126 @@
+@ 3600 IN SOA ns hostmaster 2015032617 3600 900 3600 3600
+@ 3600 IN TXT "v=spf1 mx ip4:190.129.73.29 mx:ucbsrvex02.ucb.edu.bo -all"
+@ 3600 IN MX 10 ucbsrvex02
+@ 3600 IN NS cc
+3600 IN NS ns
+@ 3600 IN A 190.129.73.10
+www.fceipostgrado 3600 IN CNAME erebo
+www.mpd 3600 IN CNAME www.mpd.edu.bo.
+www.aymara 3600 IN CNAME osiris
+it 3600 IN TXT "MS=ms82494415"
+le 3600 IN MX 10 0f07f155d1f3448ef608a444421052.mail.outlook.com.
+3600 IN MX 100 0f07f155d1f3448ef608a444421052.msv1.invalid.
+le 3600 IN TXT "v=spf1 include:outlook.com ~all"
+3600 IN TXT "v=msv1 t=0f07f155d1f3448ef608a444421052"
+le 3600 IN A 192.168.18.191
+www.fundraising 3600 IN CNAME erebo
+secrad 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+www.ce 3600 IN CNAME portal
+www.virtual2 3600 IN CNAME erebo
+www.occ 3600 IN CNAME osiris
+epc 3600 IN A 186.121.205.148
+www.lapaz 3600 IN CNAME ns
+ns 3600 IN A 190.129.73.10
+www.cybertesis 3600 IN A 200.105.208.236
+www.alumni 3600 IN CNAME portal
+www.maevirtual 3600 IN CNAME erebo
+www.functec 3600 IN CNAME erebo
+linproxy 3600 IN A 190.129.73.6
+majordomo 3600 IN CNAME ns
+www.democracia 3600 IN CNAME erebo
+smtp 3600 IN CNAME ns
+axon 3600 IN CNAME erebo
+www.cee 3600 IN CNAME orion
+balletfolclorico 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+cisco 3600 IN CNAME erebo
+csinf10 3600 IN A 190.129.73.12
+lpz 3600 IN CNAME portal
+prueba 3600 IN A 190.129.73.12
+prueba 3600 IN MX 10 csinf10
+www.economia 3600 IN CNAME orion
+encuestas 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+ted 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+autodiscover 3600 IN A 190.129.73.30
+www.ucbmail 3600 IN CNAME erebo
+www.ucbmail1 3600 IN CNAME erebo
+www.temaseco 3600 IN CNAME orion
+mail 3600 IN A 190.129.73.30
+mpd 3600 IN MX 10 mpd
+mpd 3600 IN A 200.87.112.227
+mpd 3600 IN TXT "google-site-verification=7icfPCm0K6RmS62sG1mVb8Tx_0LH36j7gnoJanvkXQU"
+3com 3600 IN A 190.129.73.26
+www.rrppint 3600 IN CNAME osiris
+osiris 3600 IN A 190.129.73.14
+www.der 3600 IN CNAME erebo
+www.cpiu 3600 IN CNAME erebo
+www.derecho 3600 IN CNAME erebo
+labproxy 3600 IN A 190.129.73.21
+eurosolar 3600 IN MX 10 mail
+eurosolar 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+erebo 3600 IN A 190.129.73.15
+www.cise 3600 IN CNAME orion
+ucbsrvex02 3600 IN A 190.129.73.29
+mediateca 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+prhd 3600 IN CNAME mpd
+clearsea 3600 IN A 190.129.73.18
+centauro 3600 IN A 190.129.73.7
+misalud 3600 IN A 200.105.212.51
+estudiantes 3600 IN TXT "v=spf1 ip4:190.129.73.11 -all"
+estudiantes 3600 IN A 190.129.73.11
+estudiantes 3600 IN MX 10 estudiantes
+www.exactas 3600 IN CNAME orion
+www.turismo 3600 IN CNAME erebo
+www.iisec 3600 IN CNAME osiris
+www.cic-ucb 3600 IN CNAME erebo
+cc 3600 IN A 190.129.73.14
+videocenter 3600 IN A 190.129.73.20
+arqdgr 3600 IN CNAME osiris
+dep.misalud 3600 IN A 200.105.212.51
+virtual 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+virtual 3600 IN MX 10 mail
+ucb-1 3600 IN A 190.129.73.1
+multipunto 3600 IN A 190.129.73.19
+cacti 3600 IN CNAME erebo
+ucbmain 3600 IN A 190.129.73.10
+switch 3600 IN A 190.129.73.25
+www.iia 3600 IN CNAME portal
+www.estudiosbolivianos 3600 IN CNAME erebo
+www.sisinf 3600 IN CNAME portal
+elearning 3600 IN A 200.105.200.42
+www.derechoteca 3600 IN CNAME orion
+www.tvcom 3600 IN CNAME orion
+www.cpamaestria 3600 IN CNAME osiris
+www.iicc 3600 IN CNAME portal
+www.psicologia 3600 IN CNAME erebo
+www.enlaces 3600 IN CNAME osiris
+pix 3600 IN A 190.129.73.8
+_sipfederationtls._tcp.le 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+killa 3600 IN A 190.129.73.22
+virtual1 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+gdata 3600 IN A 190.129.73.23
+virtual3 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+orfeo 3600 IN A 190.129.73.13
+ucb-2 3600 IN A 190.129.73.4
+email 3600 IN CNAME ucbmain
+www.vlir 3600 IN CNAME portal
+pop 3600 IN CNAME ns
+www 3600 IN CNAME portal
+www.bibvirtual 3600 IN CNAME www.cybertesis
+www.fondo 3600 IN CNAME osiris
+sabermas 3600 IN NS ns1.bluehost.com.
+3600 IN NS ns2.bluehost.com.
+crayon 3600 IN A 200.105.200.2
+www.adm 3600 IN CNAME erebo
+portal 3600 IN A 190.129.73.16
+sisinf 3600 IN CNAME portal
+www.examen 3600 IN CNAME erebo
+dns 3600 IN CNAME ns

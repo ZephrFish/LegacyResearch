@@ -1,0 +1,22 @@
+@ 3600 IN SOA ns1.host-md.net. postmaster 1419598783 14400 7200 1209600 86400
+@ 3600 IN MX 0 mail
+@ 3600 IN TXT "v=spf1 mx -all"
+@ 3600 IN AAAA 2a02:fd0:4:1::23
+@ 3600 IN A 217.26.145.208
+@ 3600 IN NS ns1.host-md.net.
+3600 IN NS ns2.host-md.net.
+webmail 3600 IN CNAME mail
+* 3600 IN A 217.26.145.208
+ipv6 3600 IN AAAA 2a02:fd0:4:1::23
+conf 3600 IN CNAME @
+absolventi 3600 IN CNAME @
+pop3 3600 IN CNAME mail
+mail 3600 IN AAAA 2a02:fd0:4:1::17
+mail 3600 IN A 217.26.147.17
+temp 3600 IN CNAME @
+imap 3600 IN CNAME mail
+ftp 3600 IN CNAME @
+smtp 3600 IN CNAME mail
+11 3600 IN CNAME @
+www 3600 IN CNAME @
+awstats 3600 IN CNAME @

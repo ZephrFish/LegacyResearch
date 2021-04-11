@@ -1,0 +1,13 @@
+@ 3600 IN SOA dns postmaster 2011042701 10800 3600 604800 86400
+@ 3600 IN NS dns
+3600 IN NS moya.gw.hirosaki-u.ac.jp.
+@ 3600 IN MX 10 minori1
+@ 3600 IN A 210.156.52.2
+proxy 3600 IN CNAME dns
+minori1 3600 IN A 210.156.52.3
+www 3600 IN CNAME minori1
+localhost 3600 IN A 127.0.0.1
+mail 3600 IN CNAME minori1
+info 3600 IN NS minori3.info
+dns 3600 IN A 210.156.52.2
+minori3.info 3600 IN A 192.168.0.10

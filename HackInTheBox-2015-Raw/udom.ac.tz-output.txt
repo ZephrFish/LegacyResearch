@@ -1,0 +1,28 @@
+@ 86400 IN SOA dns.ucc.co.tz. hostmaster.udsm.ac.tz. 2013110865 28800 7200 1209600 86400
+@ 86400 IN NS dns.ucc.co.tz.
+86400 IN NS dns.udsm.ac.tz.
+@ 86400 IN A 41.78.64.5
+@ 86400 IN MX 10 smtp
+cnms 86400 IN A 41.78.64.5
+wagosy 86400 IN A 41.73.205.74
+alis 86400 IN A 41.78.64.5
+chas 86400 IN A 41.78.64.5
+mail.msinnovation 86400 IN A 41.223.6.68
+cive 86400 IN A 41.78.64.5
+webmail 86400 IN A 41.73.205.74
+support 86400 IN A 41.59.254.235
+www 86400 IN CNAME @
+education 86400 IN A 41.78.64.5
+chss 86400 IN A 41.78.64.5
+ces 86400 IN A 41.78.64.5
+qualityassurance 86400 IN A 196.43.67.98
+www.aris 86400 IN CNAME @
+dict 86400 IN A 41.78.64.5
+aris 86400 IN A 41.78.64.5
+lms 86400 IN A 41.78.64.5
+msinnovation 86400 IN A 41.223.6.68
+msinnovation 86400 IN MX 10 mail.msinnovation
+student 86400 IN MX 10 9020370.pamx1.hotmail.com.
+student 86400 IN TXT "@"
+smtp 86400 IN A 41.78.64.6
+sr 86400 IN A 41.78.64.5

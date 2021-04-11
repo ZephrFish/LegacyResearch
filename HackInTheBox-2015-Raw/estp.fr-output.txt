@@ -1,0 +1,72 @@
+@ 38400 IN SOA vce support.adm 2014092703 10800 3600 604800 38400
+@ 38400 IN NS vce
+38400 IN NS estpbi
+@ 38400 IN MX 0 estp-fr.mail.eo.outlook.com.
+@ 38400 IN TXT "v=spf1" "include:outlook.com" "~all"
+home 38400 IN A 193.52.201.111
+relay5-1.adm 38400 IN A 213.244.11.228
+sip.sandbox 38400 IN CNAME sipdir.online.lync.com.
+enseignant 38400 IN MX 10 mailhost
+lyncdiscover.sandbox 38400 IN CNAME webdir.online.lync.com.
+fwext1 38400 IN A 193.52.201.6
+webmail 38400 IN A 193.52.201.164
+eleves 38400 IN A 193.52.201.161
+eleves 38400 IN MX 0 eleves-estp-fr.mail.eo.outlook.com.
+webmail1 38400 IN A 213.244.11.231
+papei 38400 IN A 193.52.201.150
+_sipinternaltls._tcp 38400 IN SRV 100 1 5061 sipfed.online.lync.com.
+webmail2 38400 IN A 213.244.11.234
+web 38400 IN A 193.52.201.210
+mailhost 38400 IN A 193.52.201.110
+autodiscover.sandbox 38400 IN CNAME autodiscover.outlook.com.
+sip 38400 IN CNAME sipdir.online.lync.com.
+fad.geomatique 38400 IN A 193.52.201.190
+estpbi 38400 IN A 193.52.201.3
+adm 38400 IN MX 10 mailhost
+vce 38400 IN A 193.52.201.2
+msbim 38400 IN A 193.52.201.191
+ent.sandbox 38400 IN A 89.93.65.209
+cas 38400 IN A 193.52.201.165
+moodle 38400 IN A 193.52.201.41
+externe 38400 IN MX 10 mailhost
+ris 38400 IN A 193.52.201.25
+autodiscover 38400 IN CNAME autodiscover.outlook.com.
+sts.sandbox 38400 IN A 89.93.65.209
+profs 38400 IN A 193.52.201.35
+sandbox 38400 IN MX 0 sandbox-estp-fr.mail.eo.outlook.com.
+sandbox 38400 IN TXT "MS=ms45157459"
+fs.sandbox 38400 IN A 89.93.65.209
+guide-ent 38400 IN CNAME ent
+mail 38400 IN CNAME eleves
+bve.sige 38400 IN A 89.185.44.36
+ent 38400 IN A 193.52.201.161
+test 38400 IN A 193.52.201.246
+entreprise 38400 IN A 193.52.201.162
+ftp 38400 IN A 193.52.201.189
+lyncdiscover 38400 IN CNAME webdir.online.lync.com.
+coupain 38400 IN A 193.52.201.98
+bvp.sige 38400 IN A 89.185.44.36
+qualif-bo 38400 IN A 193.52.201.163
+mailhost1 38400 IN A 193.52.201.115
+estptmg.sandbox 38400 IN A 89.93.65.209
+lune 38400 IN A 193.52.201.40
+qualif-ent 38400 IN A 193.52.201.163
+www.grid.ensam 38400 IN A 193.52.201.25
+conducteur 38400 IN A 193.52.201.5
+relay 38400 IN MX 10 mailhost
+www 38400 IN A 193.52.201.210
+docdev 38400 IN A 193.52.201.156
+qualif-entreprise 38400 IN A 193.52.201.163
+adm2 38400 IN A 213.244.11.235
+_sip._tls 38400 IN SRV 100 1 443 sipdir.online.lync.com.
+partenaire.sandbox 38400 IN A 89.93.65.209
+sts 38400 IN A 193.52.201.160
+www2 38400 IN A 213.244.11.235
+guide-entreprise 38400 IN CNAME entreprise
+new 38400 IN A 193.52.201.39
+doc 38400 IN A 193.52.201.155
+bibliotheque 38400 IN A 193.52.201.155
+pluton 38400 IN A 193.52.201.211
+sige 38400 IN A 89.185.44.36
+sxb 38400 IN A 193.52.201.25
+entadmin.sandbox 38400 IN A 89.93.65.209

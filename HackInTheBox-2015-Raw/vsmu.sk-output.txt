@@ -1,0 +1,51 @@
+@ 3600 IN SOA ns.afad.sk. root.afad.sk. 2015042000 3600 3600 14400 7200
+@ 3600 IN A 193.87.13.10
+@ 3600 IN MX 10 mail
+@ 3600 IN TXT "v=sfp1 mx a:mail.afad.sk a:mail.vsvu.sk -all"
+@ 3600 IN NS ns.afad.sk.
+3600 IN NS ns
+3600 IN NS ns.stuba.sk.
+horse 3600 IN A 193.87.13.11
+webmail2 3600 IN CNAME lizard
+apd 3600 IN CNAME murad
+e-prihlaska 3600 IN A 193.87.13.43
+newftf 3600 IN A 193.87.13.11
+ftfold 3600 IN CNAME murad
+scenografia 3600 IN CNAME murad
+murad 3600 IN A 193.87.13.10
+www.ftf 3600 IN CNAME horse
+paraziti 3600 IN CNAME lizard
+www.htf 3600 IN CNAME murad
+www.acko 3600 IN CNAME murad
+dfnew 3600 IN CNAME murad
+ais2 3600 IN A 193.87.13.41
+mail 3600 IN A 193.87.13.10
+kas 3600 IN A 95.168.194.227
+www.reflektor 3600 IN CNAME 95.168.194.227
+ftfvsmu1 3600 IN CNAME horse
+www.apd 3600 IN CNAME murad
+acko 3600 IN CNAME murad
+ftf 3600 IN CNAME horse
+divadlolab 3600 IN CNAME murad
+vsmu 3600 IN CNAME murad
+reflektor 3600 IN A 95.168.194.227
+www.df 3600 IN CNAME murad
+webmail 3600 IN CNAME murad
+www.ftfvsmu1 3600 IN CNAME horse
+www.ftfvsmu2 3600 IN CNAME horse
+www.ftfvsmu3 3600 IN CNAME horse
+www 3600 IN CNAME murad
+ais2-beta 3600 IN CNAME ais2
+ns 3600 IN A 193.87.57.10
+lizard 3600 IN A 193.87.13.15
+ftp 3600 IN CNAME murad
+htf 3600 IN CNAME murad
+df 3600 IN CNAME murad
+ftfvsmu2 3600 IN CNAME horse
+www.scenografia 3600 IN CNAME murad
+orfeus 3600 IN CNAME murad
+ftfvsmu3 3600 IN CNAME horse
+aistest 3600 IN A 193.87.13.41
+www.edicie 3600 IN CNAME murad
+edicie 3600 IN CNAME murad
+www.kas 3600 IN A 95.168.194.227

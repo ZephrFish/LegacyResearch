@@ -1,0 +1,1243 @@
+@ 86400 IN SOA ns noc 2015042400 10800 900 864000 86400
+@ 86400 IN A 188.44.50.103
+@ 86400 IN MX 10 mx
+86400 IN MX 50 nss
+86400 IN MX 100 mail.orc.ru.
+@ 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns1.orc.ru.
+86400 IN NS ns3.nic.fr.
+area-b 5 IN NS ns
+5 IN NS ns.dorms.msu.net.
+space 86400 IN A 213.131.9.133
+www.tv.philos 86400 IN CNAME clients-fftv.broadcastnow.ru.
+tango 86400 IN A 93.180.19.227
+budo 86400 IN A 93.180.19.227
+www.exams 86400 IN A 188.44.50.111
+www.elics 86400 IN A 93.180.0.4
+ns.ilc 5 IN A 212.192.236.18
+www.olympiada 86400 IN CNAME www.olympiad
+ns.philol 86400 IN A 195.208.217.8
+rgi 86400 IN A 93.180.0.7
+rgi 86400 IN MX 10 mx.virtual
+www.iisi 86400 IN A 93.180.0.17
+www.p220 86400 IN A 93.180.0.17
+ns.imk 86400 IN A 93.180.7.65
+innovation 86400 IN MX 10 mx.virtual
+innovation 86400 IN A 93.180.0.5
+iopsys 86400 IN A 193.232.112.3
+ts.bukh 5 IN A 188.44.49.197
+5 IN A 188.44.49.198
+olympiad.distance 86400 IN A 93.180.0.17
+vmk-edu 86400 IN CNAME vmk-edu.cmc
+geoweb 86400 IN CNAME geo.web.ru.
+new.distance 86400 IN A 93.180.19.227
+www.hsmi 86400 IN A 92.53.125.164
+izf.philos 86400 IN CNAME www.philos
+teacher 86400 IN A 93.180.19.227
+www.rgi 86400 IN A 93.180.0.7
+rki 86400 IN NS ns1.linode.com.
+86400 IN NS ns2.linode.com.
+86400 IN NS ns3.linode.com.
+86400 IN NS ns4.linode.com.
+86400 IN NS ns5.linode.com.
+bukh 86400 IN A 188.44.50.104
+bukh 86400 IN MX 10 mx.virtual
+old.teacher 86400 IN A 93.180.0.17
+www.suny 86400 IN A 93.180.0.4
+sci 86400 IN A 93.180.0.7
+www.cnir 86400 IN A 83.222.31.208
+ns1.ftv 86400 IN A 93.180.20.164
+sbioph.biophys 86400 IN A 93.180.23.83
+www.dissovet 86400 IN A 93.180.3.247
+universiade 86400 IN A 93.180.19.227
+www.letopis 86400 IN A 93.180.0.17
+uisrussia 5 IN A 93.180.9.247
+olimpiada 86400 IN A 93.180.0.7
+olimpiada 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.l.googlemail.com.
+86400 IN MX 30 aspmx3.l.googlemail.com.
+86400 IN MX 30 aspmx4.l.googlemail.com.
+86400 IN MX 30 aspmx5.l.googlemail.com.
+www.cae 86400 IN A 93.180.0.17
+www.bio 86400 IN A 188.120.40.83
+push 86400 IN A 93.180.19.227
+www.ikio 86400 IN A 93.180.0.6
+blisargon.lit 3600 IN A 93.180.7.129
+ilc 5 IN NS ns.ilc
+5 IN NS ns
+5 IN NS ns.phys
+video.nano 86400 IN A 93.180.0.17
+rcst 86400 IN NS ns.srcc
+86400 IN NS ns.secondary.net.ua.
+etis 86400 IN MX 10 mx.virtual
+godliteratury 86400 IN A 188.44.50.115
+www.uta 86400 IN A 93.180.0.4
+esti 5 IN A 93.180.19.227
+esti 5 IN MX 10 mx.virtual
+tennisclub 5 IN A 93.180.0.5
+sip.philos 3600 IN CNAME sipdir.online.lync.com.
+rosstudent 5 IN A 93.180.0.6
+rosstudent 5 IN MX 10 mx.virtual
+museum 86400 IN NS ns.mes
+86400 IN NS ns
+86400 IN NS ns.msu.ru
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+helpdesk.philos 86400 IN CNAME www.philos
+home.ecocenter 86400 IN CNAME home.ecocenter.msu.ru.postman.ru.
+biotech 86400 IN TXT "v=spf1 redirect=_spf.mail.ru"
+biotech 86400 IN MX 10 emx.mail.ru.
+biotech 86400 IN A 93.180.19.227
+ns.hsib 86400 IN A 93.180.10.99
+pushchino 86400 IN A 93.180.0.7
+pushchino 86400 IN MX 10 mx.virtual
+sportclub 86400 IN MX 10 mx.virtual
+sportclub 86400 IN A 93.180.0.5
+mail.biocentr 86400 IN CNAME biz.mail.ru.
+aesc 86400 IN NS ns
+86400 IN NS adsl.aesc
+86400 IN NS romin.aesc
+print 86400 IN NS ns3.nic.ru.
+86400 IN NS ns4.nic.ru.
+86400 IN NS ns8.nic.ru.
+hsib 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns.hsib
+question 86400 IN A 188.44.49.74
+hpcdep 86400 IN MX 10 mx.virtual
+hpcdep 86400 IN A 93.180.0.17
+www.integration 86400 IN CNAME cliff.nmd
+rf.philos 86400 IN CNAME www.philos
+mx.lists 86400 IN A 93.180.0.17
+choir 86400 IN A 93.180.0.5
+choir 86400 IN MX 10 mx.virtual
+iisi 86400 IN A 93.180.0.17
+iisi 86400 IN MX 10 mx.virtual
+bcast1iaasanthro 86400 IN A 93.180.20.47
+info.philos 86400 IN CNAME www.philos
+www.organ 86400 IN A 93.180.0.5
+www.ecocenter 86400 IN CNAME www.ecocenter.msu.ru.postman.ru.
+www.sa 86400 IN A 5.178.86.91
+second.lkm 86400 IN A 193.232.113.230
+www.cip 86400 IN A 93.180.55.134
+park 86400 IN NS ns
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+86400 IN NS sneezy.park
+www.conf 86400 IN A 83.222.3.66
+ns.lcm 86400 IN A 193.232.113.209
+compmod 5 IN A 93.180.0.5
+compmod 5 IN MX 10 mx.virtual
+ns.law 5 IN A 93.180.7.65
+www.studsovet-tmp 86400 IN A 93.180.0.17
+hsmi 86400 IN MX 10 mx.virtual
+hsmi 86400 IN A 92.53.125.164
+c1.dou 86400 IN A 193.232.113.17
+ab0ve 86400 IN MX 10 ip.ab0ve.ru.
+www.vmk-edu 86400 IN CNAME vmk-edu
+proj.ma 86400 IN NS ns3.nic.ru.
+86400 IN NS ns4.nic.ru.
+86400 IN NS ns8.nic.ru.
+polit 86400 IN NS ns
+86400 IN NS ns.msu.net.
+mail._domainkey.cpk 86400 IN TXT "v=DKIM1; k=rsa; s=email; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuGicHJncVZF3+wK9phRazOHGp0S9dP4EcpKYPDIbCucEWwrIICMca74A4dBeA+qdRGptdte617br+qRjfyB7ZncDnRCqpcLTdB0ehudRsZIsu7ZBL8t4yXUQvYD/sA/n0tlOtCQple8ZjqV5WdLHRvM1ONrdNE48RVd8NN0C6jwIDAQAB"
+cnir 86400 IN A 83.222.31.208
+cnir 86400 IN MX 10 mx.virtual
+uta 86400 IN MX 10 mx.virtual
+cnit 3600 IN NS ns
+3600 IN NS ns.cnit
+3600 IN NS nss
+3600 IN NS nss.ras.ru.
+ns.cmts 86400 IN A 195.208.223.65
+new.arts 86400 IN A 93.180.19.227
+old 86400 IN A 93.180.0.18
+*.hsscm 86400 IN A 93.180.0.17
+herba 86400 IN A 188.44.47.143
+www.olympiads 86400 IN CNAME www.olympiad
+socent 86400 IN A 93.180.0.17
+www.dubrovinlab 86400 IN A 176.100.241.5
+cmts 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns.cmts
+86400 IN NS nss.orc.ru.
+www.cpk 86400 IN A 188.44.50.111
+forum.testschool 3600 IN A 93.180.0.17
+ftp.virtual2 3600 IN A 93.180.0.5
+ikio 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.l.googlemail.com.
+86400 IN MX 30 aspmx3.l.googlemail.com.
+86400 IN MX 30 aspmx4.l.googlemail.com.
+86400 IN MX 30 aspmx5.l.googlemail.com.
+ikio 86400 IN A 93.180.0.6
+satco 86400 IN A 193.232.127.61
+iuik.moip 86400 IN A 93.180.0.17
+top 86400 IN A 93.180.10.108
+anthropos 86400 IN MX 10 mx.virtual
+testfpo 86400 IN A 93.180.0.7
+testschool 3600 IN A 93.180.0.17
+www.eas 86400 IN A 193.232.113.235
+www.eau 86400 IN A 93.180.0.6
+cacs.philos 86400 IN CNAME www.philos
+romin.aesc 86400 IN A 158.250.16.26
+composite 86400 IN MX 10 mx.virtual
+composite 86400 IN A 93.180.0.4
+www.ski 86400 IN A 93.180.0.5
+ns.mes 86400 IN A 93.180.19.65
+www.oduvanchik 86400 IN A 93.180.0.7
+expertise 86400 IN NS bioinf.cmm
+86400 IN NS nucleus.uncb.iitp.ru.
+womenmsu 86400 IN MX 10 mx.virtual
+womenmsu 86400 IN A 93.180.0.4
+hsscm 86400 IN A 93.180.0.17
+hsscm 86400 IN MX 10 mx.virtual
+live.philos 86400 IN A 93.180.16.201
+seminar-elchem 86400 IN A 93.180.55.134
+seminar-elchem 86400 IN MX 10 seminar-elchem
+www.edu 86400 IN A 93.180.0.17
+ns2.fmp 86400 IN A 212.192.231.254
+attko 86400 IN A 93.180.19.226
+sai 3600 IN NS ns
+3600 IN NS ns.sai
+3600 IN NS ns2.sai
+3600 IN NS nss
+3600 IN NS nss.ras.ru.
+ns.s2s 86400 IN A 93.180.61.17
+list 86400 IN CNAME top
+www.pg-innovation 86400 IN A 93.180.55.134
+virtual 86400 IN A 93.180.0.4
+virtual 86400 IN MX 10 mx.virtual
+blog 86400 IN A 93.180.0.17
+mail.philos 86400 IN CNAME ghs.google.com.
+conf 86400 IN MX 10 mx.virtual
+conf 86400 IN A 83.222.3.66
+uno 86400 IN MX 10 mx.virtual
+uno 86400 IN A 93.180.0.17
+ns.ltm 86400 IN A 188.44.49.2
+c4.dou 86400 IN A 193.232.113.10
+msoid.philos 3600 IN CNAME clientconfig.microsoftonline-p.net.
+ns.imec 259200 IN AAAA 2a00:f480:6:2::a
+ns.imec 259200 IN A 93.180.3.196
+gw.socio 86400 IN A 93.180.1.238
+bratstvo 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+bratstvo 86400 IN A 93.180.0.7
+www.baku 86400 IN A 93.180.0.7
+nano 86400 IN A 93.180.55.134
+nano 86400 IN MX 10 polly2.phys
+86400 IN MX 20 mail.ngrid.ru.
+antiterror 86400 IN CNAME iisi
+mx2 86400 IN A 93.180.0.1
+en.testfbb 5 IN A 93.180.0.17
+www.testfpo 86400 IN A 93.180.0.7
+imec 259200 IN NS ns
+259200 IN NS ns.msu.net.
+259200 IN NS ns.imec
+259200 IN NS ns2.imec
+kz 86400 IN A 93.180.0.7
+adsl.aesc 86400 IN A 87.118.208.194
+antrop.philos 86400 IN CNAME www.philos
+_25._tcp.mail.cpk 86400 IN TYPE52 \# 35 030001da22247eac37702659c8fd2bc6 fe4b366ba1709fea2ad208c29741ec29 568ce0
+ns1.bsb 5 IN A 193.138.84.67
+www.kargin 86400 IN A 93.180.55.134
+ns.bg 43200 IN A 93.180.22.156
+www.rusypt 86400 IN A 93.180.0.17
+ns.da 86400 IN A 193.232.127.246
+ns.geol 86400 IN A 93.180.10.98
+wci 86400 IN A 93.180.5.226
+baze.ecocenter 86400 IN CNAME baze.ecocenter.msu.ru.postman.ru.
+www.intercoop 86400 IN CNAME cliff.nmd
+studunion 86400 IN A 144.76.186.165
+math 86400 IN NS ns.mm
+86400 IN NS ns
+86400 IN NS ns.msu.net.
+mail._domainkey.mail.cpk 86400 IN TXT "v=DKIM1; k=rsa; s=email; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuGicHJncVZF3+wK9phRazOHGp0S9dP4EcpKYPDIbCucEWwrIICMca74A4dBeA+qdRGptdte617br+qRjfyB7ZncDnRCqpcLTdB0ehudRsZIsu7ZBL8t4yXUQvYD/sA/n0tlOtCQple8ZjqV5WdLHRvM1ONrdNE48RVd8NN0C6jwIDAQAB"
+www.iuik.moip 86400 IN A 93.180.0.17
+geol 86400 IN NS ns
+86400 IN NS ns.geol
+86400 IN NS andris.geol
+www.fgp 86400 IN A 93.180.19.227
+ns.sai 3600 IN A 93.180.26.1
+www.cluster 86400 IN A 93.180.0.4
+sinp 86400 IN NS ns.sinp
+86400 IN NS ns.radio-msu.net.
+86400 IN NS ns1.radio-msu.net.
+86400 IN NS ns2.radio-msu.net.
+ns.genebee 5 IN A 93.180.62.1
+germanc 86400 IN NS ns
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+www.crmp 86400 IN A 93.180.0.7
+tv 86400 IN CNAME purple.ether.tv.
+standart 86400 IN A 93.180.0.17
+www.insurance 86400 IN CNAME cliff.nmd
+_sip._tls.philos 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+imscs 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns1.orc.ru.
+www.hsmi.vd 86400 IN A 92.53.125.164
+www.jcmrb 5 IN A 212.16.7.132
+www.gct 86400 IN CNAME www.gct-msu.ru.
+lomonosov 86400 IN TXT "v=spf1 +mx +a:mx.lomonosov.msu.ru +ip4:188.44.49.162 ~all"
+lomonosov 86400 IN A 188.44.49.71
+lomonosov 86400 IN MX 10 mx.lomonosov
+www.grace 86400 IN A 90.156.201.64
+86400 IN A 90.156.201.80
+86400 IN A 90.156.201.85
+86400 IN A 90.156.201.107
+mail.osk 86400 IN CNAME ghs.google.com.
+testwww 86400 IN A 188.44.50.103
+mail.distance 86400 IN CNAME ghs.google.com.
+sport 86400 IN A 93.180.0.7
+sport 86400 IN MX 10 vniifk.ru.
+meteo 86400 IN A 212.192.253.29
+meteo 86400 IN MX 10 mx.virtual
+ftp.arts 86400 IN A 93.180.0.7
+ns.mm 86400 IN A 188.44.38.1
+sviderskaya.philos 86400 IN CNAME www.philos
+intsys 86400 IN MX 10 mail.intsys
+intsys 86400 IN A 93.95.100.115
+abitur 86400 IN NS ns
+86400 IN NS ns.msu.net.
+www.ipib 86400 IN A 93.180.0.17
+www.bratstvo 86400 IN A 93.180.0.7
+altavista 86400 IN A 195.208.223.209
+baku 86400 IN A 93.180.0.7
+www.question 86400 IN A 188.44.49.74
+ns.psy 86400 IN A 93.180.8.20
+ns.ps 86400 IN A 93.180.22.157
+sdo 5 IN NS ns.sdo
+www.music 86400 IN A 93.180.0.17
+ski 86400 IN A 93.180.0.5
+ns.cnit.cnit 3600 IN A 93.180.7.163
+notes.choir 86400 IN A 188.44.50.112
+www.testschool 3600 IN A 93.180.0.17
+ssk-population 86400 IN NS ns.econ
+86400 IN NS cari.pshenkin.net.
+dev.philos 86400 IN CNAME www.philos
+www.testied 86400 IN A 93.180.0.17
+ns.journ 86400 IN A 81.19.75.65
+86400 IN A 188.44.32.1
+sciencefest 5 IN A 195.128.121.6
+sites.fgp 86400 IN CNAME ghs.google.com.
+ns.internal 86400 IN A 93.180.0.1
+phedu.philos 86400 IN CNAME www.philos
+www.hpcdep 86400 IN A 93.180.0.17
+genotype 86400 IN A 93.180.19.227
+archive.distance 86400 IN A 93.180.0.6
+pop.belozersky 172800 IN A 158.250.34.3
+www.en.arts 86400 IN A 93.180.0.17
+llrs 86400 IN A 193.232.113.227
+mso 86400 IN A 93.180.0.17
+statsoft 86400 IN A 93.180.0.4
+zmmu 86400 IN MX 10 zmmu
+zmmu 86400 IN A 93.180.16.1
+journ 86400 IN NS ns
+86400 IN NS ns.journ
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+mailru._domainkey.biocentr 86400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHJ+y7ZU8xtZJbdgVgkR2yMHQghFGN1i4WQu0GkKg8nPOdoVUl75v7AvGrdm+qSwr30oYru6QSVX+m8G94ZCnvbuiJK3jzdcssGekDTjuqSGiXUSq3s4dgihVRsqGxPbEMeNwOdh4p0bnOMQgSYW8wXis+dvVLBVvdOzwSj2glXwIDAQAB"
+c2.dou 86400 IN A 193.232.113.18
+po 86400 IN A 193.232.127.139
+po 5 IN MX 10 mx.virtual
+sneezy.park 5 IN A 81.13.62.253
+5 IN A 93.180.22.189
+www.standart 86400 IN A 93.180.0.17
+ns.ecosoil 172800 IN A 93.180.62.1
+www.testhri 86400 IN A 93.180.0.17
+crmp 86400 IN A 93.180.0.7
+estet.philos 86400 IN CNAME www.philos
+gate.antropos 86400 IN A 93.180.20.43
+kom-pit 86400 IN A 93.180.0.17
+www.vocal 86400 IN CNAME www.virtual
+ichthyology 86400 IN A 93.180.0.17
+jess 5 IN NS ns
+5 IN NS nss
+5 IN NS sneezy.park
+phpmyadmin.test 5 IN A 93.180.0.17
+ns.belozersky 172800 IN A 93.180.62.1
+calendar.osk 86400 IN CNAME ghs.google.com.
+ns.socio 86400 IN A 93.180.15.1
+ns2.imec 259200 IN AAAA 2a00:f480:6:2::b
+ns2.imec 259200 IN A 93.180.3.197
+www.icc 86400 IN A 93.180.0.4
+mail.uz 86400 IN CNAME domain.mail.yandex.net.
+on.fgp 86400 IN A 93.180.19.227
+www.regionoved 86400 IN A 212.193.247.199
+sev 86400 IN NS ns
+www.socent 86400 IN A 93.180.0.17
+www.ied 86400 IN A 93.180.0.6
+philol.teacher 86400 IN A 93.180.0.17
+docs.osk 86400 IN CNAME ghs.google.com.
+serv.iaas 86400 IN A 93.180.20.44
+www.centersmi 86400 IN A 188.44.49.67
+docs.fgp 86400 IN CNAME ghs.google.com.
+www.culture 86400 IN A 93.180.0.4
+ipib 86400 IN A 93.180.0.17
+newweb2 86400 IN A 93.180.19.227
+gallery.moip 86400 IN A 93.180.0.17
+ns1.econ 86400 IN A 93.180.40.5
+trki 86400 IN A 81.211.19.6
+internat 86400 IN A 93.180.0.17
+internat 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+www.hri 86400 IN A 93.180.0.7
+acm 86400 IN A 158.250.19.15
+ns2.ffl 86400 IN A 188.44.37.11
+www.gracia 86400 IN A 217.16.16.141
+86400 IN A 217.16.16.151
+www.math-congress-2010 86400 IN A 93.180.0.17
+gate.iaas 86400 IN A 93.180.20.42
+logic.philos 86400 IN CNAME www.philos
+www.pushchino 86400 IN A 93.180.0.7
+fiz.teacher 86400 IN A 93.180.0.17
+www.genotype 86400 IN A 93.180.19.227
+youth 86400 IN A 93.180.19.227
+ppp02 86400 IN A 193.232.127.140
+ontol.philos 86400 IN CNAME www.philos
+it.philos 86400 IN CNAME www.philos
+math.teacher 86400 IN A 93.180.0.17
+olympiads 86400 IN CNAME www.olympiad
+ftp.virtual 3600 IN A 93.180.0.4
+answers.intsys 86400 IN CNAME www.answers.intsys
+pr.philos 86400 IN CNAME www.philos
+www.anspa 86400 IN A 93.180.10.124
+www.humus 86400 IN A 93.180.0.4
+ippk 86400 IN MX 10 ippk.cmc
+ippk 86400 IN A 93.180.0.17
+fermi.intsys 86400 IN A 93.180.20.250
+talant 86400 IN A 93.180.19.227
+ps 86400 IN NS ns.ps
+86400 IN NS ns
+ais 86400 IN NS ns
+86400 IN NS terbium.ais
+socio 86400 IN NS gw.socio
+86400 IN NS ns
+86400 IN NS ns.socio
+geography 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.l.googlemail.com.
+86400 IN MX 30 aspmx3.l.googlemail.com.
+86400 IN MX 30 aspmx4.l.googlemail.com.
+86400 IN MX 30 aspmx5.l.googlemail.com.
+50.internat 86400 IN A 93.180.0.17
+milla 86400 IN A 93.180.0.4
+olymp 86400 IN A 188.44.49.71
+www-test 86400 IN A 193.232.112.3
+contacts.fgp 86400 IN CNAME ghs.google.com.
+publishing 86400 IN NS ns1.hc.ru.
+86400 IN NS ns2.hc.ru.
+www.incubator 86400 IN A 93.180.0.7
+letopis 86400 IN A 93.180.0.17
+ecfs 86400 IN NS sneezy.park
+terbium.ais 86400 IN A 93.180.19.210
+ns.sdo 5 IN A 93.180.7.195
+chief.next 86400 IN A 193.232.113.246
+fmppri.fmp 3600 IN A 193.232.127.146
+old.testchronos 86400 IN A 93.180.0.17
+avforum 86400 IN A 195.208.223.210
+math-congress-2010 86400 IN A 93.180.0.17
+next 86400 IN NS ns.next
+86400 IN NS chief.next
+forchina 86400 IN A 93.180.0.5
+google4917565156d67ba.distant 86400 IN CNAME google.com.
+olympiada 86400 IN CNAME www.olympiad
+cae 86400 IN A 93.180.0.17
+www.internat 86400 IN A 93.180.0.17
+www.kge 86400 IN CNAME www.kge.chem
+rchem132 86400 IN A 193.232.127.230
+it.teacher 86400 IN A 93.180.0.17
+www.fund 86400 IN A 93.180.19.227
+www.izd 86400 IN A 93.180.0.7
+www.edst 86400 IN A 93.180.0.4
+lib.philos 86400 IN CNAME www.philos
+andris.geol 86400 IN A 93.180.18.2
+library.moip 86400 IN A 93.180.0.17
+mx.virtual 3600 IN A 93.180.0.4
+newvirtual 86400 IN A 93.180.0.17
+pediatr 3600 IN NS ns
+3600 IN NS nss
+3600 IN NS mripch.
+kge 86400 IN MX 10 mail.kge.chem
+86400 IN MX 50 relay2.chem
+kge 86400 IN A 193.232.127.34
+test.teacher 86400 IN A 93.180.19.227
+www.mmmf 86400 IN A 93.180.0.17
+www.docs 86400 IN A 93.180.19.242
+korean 172800 IN NS ns
+172800 IN NS ns.msu.net.
+172800 IN NS nss.orc.ru.
+172800 IN NS syntol.genebee.msu.su.
+irlc 86400 IN NS ns1.linode.com.
+86400 IN NS ns2.linode.com.
+86400 IN NS ns3.linode.com.
+86400 IN NS ns4.linode.com.
+86400 IN NS ns5.linode.com.
+econ 86400 IN NS ns
+86400 IN NS ns1.econ
+86400 IN NS ns2.econ
+uo 86400 IN MX 10 post
+ns.smi 5 IN A 188.44.32.254
+ftp1 86400 IN A 193.232.112.22
+shitokai 86400 IN NS ns
+86400 IN NS ns.msu.net.
+geoportal 86400 IN A 93.180.19.35
+eng.internat 86400 IN A 93.180.19.227
+bog 36000 IN NS ns.bog
+36000 IN NS ns
+36000 IN NS ns.msu.net.
+36000 IN NS ns.sinp
+36000 IN NS ns.radio-msu.net.
+36000 IN NS ns1.radio-msu.net.
+36000 IN NS ns2.radio-msu.net.
+www.testiaas 86400 IN A 93.180.19.227
+ivlk 86400 IN A 93.180.7.163
+dean.hsmi 86400 IN A 92.53.125.164
+tv.philos 86400 IN CNAME clients-fftv.broadcastnow.ru.
+rsr 86400 IN A 93.180.19.227
+ns.fnm 86400 IN A 93.180.6.130
+ns.spe 86400 IN A 195.216.243.242
+big.lkm 86400 IN A 193.232.113.228
+www.intsys 86400 IN CNAME intsys
+metodol.philos 86400 IN CNAME www.philos
+cdn.media 86400 IN CNAME msu-pdvod.cdn.ngenix.net.
+www.career 86400 IN A 93.180.0.17
+cip 86400 IN A 93.180.55.134
+cip 86400 IN MX 10 cip
+old.philos 86400 IN A 93.180.16.213
+ns.mics 86400 IN A 158.250.28.66
+universe 86400 IN A 93.180.0.17
+www.choir 86400 IN A 93.180.0.5
+www.distant 86400 IN A 93.180.19.248
+pop.belosersky 86400 IN A 158.250.34.3
+cmc 1800 IN NS ns.cs.msu.su.
+1800 IN NS ns.cmc
+1800 IN NS ns
+1800 IN NS ns.msu.net.
+mics 86400 IN NS ns.mics
+www.uobf 86400 IN A 93.180.19.227
+oduvanchik 86400 IN A 93.180.0.7
+cmm 86400 IN NS ns.genebee
+86400 IN NS pop.genebee
+proxy 86400 IN A 193.232.112.28
+jcenter 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS nss.ras.ru.
+ideas 86400 IN A 93.180.0.17
+ly.bio 86400 IN A 188.44.46.6
+www.sciencefest 5 IN A 195.128.121.6
+css 86400 IN A 93.180.40.18
+pedology 5 IN NS ns
+5 IN NS nss
+5 IN NS sneezy.park
+garant 86400 IN A 194.85.116.66
+opinio 86400 IN MX 10 opinio
+opinio 86400 IN A 93.180.5.226
+www.nano 86400 IN A 93.180.55.134
+career 86400 IN A 93.180.0.17
+career 86400 IN MX 1 ASPMX.L.GOOGLE.COM.
+86400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+86400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+86400 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+86400 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+cpk 86400 IN A 188.44.50.111
+cpk 86400 IN MX 10 mail.cpk
+cpk 86400 IN TXT "v=spf1 mx -all"
+culture.of.peace 86400 IN MX 10 mx.direct.ru.
+culture.of.peace 86400 IN A 212.16.0.33
+kiosk.philos 86400 IN CNAME www.philos
+virtual2 86400 IN A 93.180.0.5
+virtual2 86400 IN MX 10 mx.virtual
+virtual4 86400 IN A 93.180.0.7
+virtual4 86400 IN MX 10 mx.virtual
+ns.belosersky 86400 IN A 93.180.62.1
+cps 86400 IN CNAME shade
+geowiki 86400 IN CNAME geowiki.web.ru.
+opkp 86400 IN MX 10 mx.virtual
+models 86400 IN A 93.180.0.4
+fund 86400 IN A 93.180.19.227
+fund 86400 IN MX 10 mx.yandex.ru.
+www.herba 86400 IN CNAME herba
+ecocenter 86400 IN MX 50 mx.ecocenter.msu.ru.postman.ru.
+ecocenter 86400 IN A 195.208.211.201
+Educ 86400 IN MX 10 mx.virtual
+86400 IN MX 20 mx2
+www.mfk 86400 IN A 93.180.19.227
+smi 5 IN NS ns
+5 IN NS ns.smi
+www.archive.distance 86400 IN A 93.180.0.6
+ns2.imk 86400 IN A 158.250.45.2
+narodonaselenie 86400 IN NS ns.econ
+86400 IN NS cari.pshenkin.net.
+www.ichthyology 86400 IN CNAME ichthyology
+docs 86400 IN A 93.180.19.242
+docs 86400 IN MX 10 mx.virtual
+testichthyology 86400 IN A 93.180.19.227
+cuf 86400 IN MX 10 mx.virtual
+lists 86400 IN MX 10 mx.lists
+lists 86400 IN A 93.180.0.17
+www.newstudy 86400 IN A 93.180.0.17
+bg 43200 IN NS ns.bg
+43200 IN NS ns
+ctt 5 IN NS ns
+5 IN NS nss
+5 IN NS sneezy.park
+test.fgp 86400 IN A 93.180.19.227
+cc 86400 IN NS ns.srcc
+86400 IN NS ns.secondary.net.ua.
+da 86400 IN NS ns.da
+86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS nss.orc.ru.
+de 5 IN NS ns
+5 IN NS nss
+5 IN NS sneezy.park
+mail.intsys 86400 IN CNAME intsys
+edu 86400 IN A 93.180.0.17
+ns.ipa-ss 86400 IN A 195.208.216.1
+*.istina 86400 IN A 93.180.19.249
+botsad 86400 IN A 93.180.0.7
+paleopedology 5 IN NS ns
+5 IN NS nss
+5 IN NS sneezy.park
+www.universe 86400 IN A 93.180.0.17
+en.arts 86400 IN A 93.180.0.17
+www.attko 86400 IN A 93.180.19.226
+www.gallery.moip 86400 IN A 93.180.0.17
+historystudies 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns.hist
+86400 IN NS nss.hist
+autodiscover.philos 3600 IN CNAME autodiscover.outlook.com.
+www.teacher 86400 IN A 93.180.19.227
+fbb 5 IN NS ns.genebee
+5 IN NS pop.genebee
+observer 86400 IN CNAME www.virtual
+hsmi.vd 86400 IN A 92.53.125.164
+testiaas 86400 IN A 93.180.19.227
+fbm 3600 IN NS ns.fbm
+p6 86400 IN NS ns
+86400 IN NS ns.msu.net.
+medphys2001 86400 IN MX 10 mx.virtual
+inpro 86400 IN MX 10 mx.virtual
+inpro 86400 IN A 93.180.0.6
+ns.srcc 86400 IN A 93.180.9.2
+www.newpolit 86400 IN A 93.180.0.17
+emc 86400 IN A 93.180.23.62
+ns.spa 86400 IN A 195.208.216.1
+ns2.econ 86400 IN A 93.180.40.2
+86400 IN A 93.180.40.12
+www.mse 86400 IN A 93.180.0.7
+etic.philos 86400 IN CNAME www.philos
+ma 86400 IN A 93.180.0.17
+teorpolit.philos 86400 IN CNAME www.philos
+mc 86400 IN NS ns
+86400 IN NS ns.msu.net.
+fdo 5 IN NS ns.fdo
+www.mso 86400 IN A 93.180.0.17
+fds 86400 IN MX 10 copolym.genebee
+www.virtual2 3600 IN A 93.180.0.5
+www.arts 86400 IN A 93.180.0.7
+cluster 86400 IN A 93.180.0.4
+test.esti 5 IN A 93.180.0.17
+ffl 86400 IN NS ns.ffl
+86400 IN NS ns
+86400 IN NS ns2.ffl
+law 5 IN NS ns.law
+5 IN NS ns2.law
+mx 86400 IN A 93.180.0.1
+old.letopis 86400 IN A 93.180.0.17
+ns 86400 IN A 93.180.0.1
+testchronos 86400 IN A 93.180.0.17
+fgp 86400 IN A 93.180.19.227
+fgp 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.l.googlemail.com.
+86400 IN MX 30 aspmx3.l.googlemail.com.
+86400 IN MX 30 aspmx4.l.googlemail.com.
+86400 IN MX 30 aspmx5.l.googlemail.com.
+organ 86400 IN MX 10 mx.virtual
+organ 86400 IN A 93.180.0.5
+tex 86400 IN CNAME shade
+pk 86400 IN CNAME cpkmsu.ru.
+ns2.law 5 IN A 158.250.45.2
+unesco.fgp 86400 IN A 93.180.19.227
+esc 172800 IN NS ns
+172800 IN NS nss
+172800 IN NS nss.ras.ru.
+rc 86400 IN MX 10 rc
+86400 IN MX 15 mx.park
+rc 86400 IN A 212.16.29.250
+www.kom-pit 86400 IN A 93.180.0.17
+inria 86400 IN NS vertex.inria
+sa 86400 IN A 5.178.86.91
+russian 86400 IN A 93.180.19.248
+googleffffffff8b9e4e07.geography 86400 IN CNAME google.com.
+test.iisi 86400 IN A 93.180.0.17
+new.whitelist 5 IN A 93.180.0.98
+new.whitelist 5 IN NS noname.nmd
+so 86400 IN A 93.180.0.7
+so 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+ns.phys 3600 IN A 93.180.48.33
+ss 86400 IN NS ns.ss
+86400 IN NS ns
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+shade 86400 IN MX 10 shade
+86400 IN MX 20 mx1.lcm
+shade 86400 IN A 158.250.33.190
+www.krasnovydovo 86400 IN A 93.180.0.17
+gct 86400 IN CNAME gct-msu.ru.
+mx.lomonosov 86400 IN A 188.44.42.162
+www.fadr 86400 IN CNAME fadr
+fmp 3600 IN NS ns
+3600 IN NS ns2.fmp
+3600 IN NS fmppri.fmp
+phys 3600 IN NS ns
+3600 IN NS ns.msu.net.
+3600 IN NS ns.phys
+3600 IN NS ns1.orc.ru.
+antropos 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns1.orc.ru.
+86400 IN NS serv.antropos
+listentorussian 86400 IN NS ns1.dreamhost.com.
+86400 IN NS ns2.dreamhost.com.
+86400 IN NS ns3.dreamhost.com.
+fnm 86400 IN NS ns.fnm
+86400 IN NS ns
+86400 IN NS ns.msu.net.
+uz 86400 IN A 5.178.86.91
+uz 86400 IN MX 10 mx.yandex.ru.
+chem.teacher 86400 IN A 93.180.0.17
+bsb 5 IN NS ns
+5 IN NS ns1.bsb
+affo.philos 86400 IN CNAME www.philos
+www.pcp 86400 IN A 193.232.112.3
+cmt.teacher 86400 IN A 93.180.19.227
+fpo 3600 IN NS ns
+3600 IN NS ns.msu.net.
+www.sport 86400 IN A 93.180.0.7
+testied 86400 IN A 93.180.0.17
+www.library.moip 86400 IN A 93.180.0.17
+osk 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+osk 86400 IN A 93.180.0.17
+ns.ss 86400 IN A 188.44.39.6
+vocal 86400 IN MX 10 mx.virtual
+www.innovation 86400 IN A 93.180.0.5
+population 86400 IN NS ns.econ
+86400 IN NS cari.pshenkin.net.
+tok.biophys 86400 IN A 93.180.23.89
+almamater 86400 IN MX 10 mx.virtual
+centersmi 86400 IN A 188.44.49.67
+onz 86400 IN A 93.180.24.84
+start.olimpiada 86400 IN CNAME ghs.google.com.
+ftv 86400 IN NS ns
+86400 IN NS ns1.ftv
+localhost 86400 IN A 127.0.0.1
+arts 86400 IN MX 10 mx.virtual
+arts 86400 IN A 93.180.0.7
+www.eng.internat 86400 IN A 93.180.19.227
+small.lkm 86400 IN A 193.232.113.229
+philol 86400 IN NS ns
+86400 IN NS ns.philol
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+www.osk 86400 IN A 93.180.0.17
+testhri 86400 IN A 93.180.0.17
+philos 3600 IN TXT "MS=ms94453393"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+philos 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+philos 86400 IN A 93.180.16.213
+media 86400 IN A 188.44.49.73
+lib.teacher 86400 IN A 93.180.19.227
+pop3.virtual 3600 IN A 93.180.0.4
+newstudy 86400 IN A 93.180.0.17
+www.sovtest 5 IN A 93.180.0.5
+googleffffffffbb8a280e.olimpiada 86400 IN CNAME google.com.
+studsovet 86400 IN TXT "v=spf1 redirect=_spf.mail.ru"
+studsovet 86400 IN MX 10 emx.mail.ru.
+studsovet 86400 IN A 93.180.19.227
+www.ccmr 86400 IN A 193.232.112.3
+ns.sinp 86400 IN A 213.131.0.1
+ecosoil 172800 IN NS ns.ecosoil
+172800 IN NS pop.ecosoil
+www.blog 86400 IN A 93.180.0.17
+kent 86400 IN A 93.180.0.4
+practice 86400 IN A 93.180.0.17
+practice 86400 IN MX 10 mx.virtual
+ckp-nano 86400 IN A 93.180.50.194
+webtv 86400 IN CNAME purple.ether.tv.
+ipa-ss 86400 IN NS ns
+86400 IN NS ns.ipa-ss
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+newvirtual1 86400 IN A 93.180.0.4
+newvirtual2 86400 IN A 93.180.0.5
+newvirtual3 86400 IN A 93.180.0.6
+newvirtual4 86400 IN A 93.180.0.7
+suny 86400 IN MX 10 mx.virtual
+suny 86400 IN A 93.180.0.4
+concom 86400 IN A 93.180.19.226
+lab12 86400 IN MX 10 mx2
+lab12 86400 IN A 193.232.127.34
+www.pansion 5 IN A 93.180.0.6
+icc 86400 IN MX 10 mx.virtual
+conference 86400 IN MX 10 mx.virtual
+conference 86400 IN A 93.180.0.6
+gateiaasanthro 86400 IN A 93.180.20.41
+culture 86400 IN MX 10 mx.virtual
+culture 86400 IN A 93.180.0.4
+fadr 86400 IN MX 10 fadr
+86400 IN MX 15 mx.park
+fadr 86400 IN A 93.180.22.188
+www.rosstudent 5 IN A 93.180.0.6
+pg-innovation 86400 IN A 93.180.55.134
+pg-innovation 86400 IN MX 10 pg-innovation
+phpmyadmin.newweb2 86400 IN A 93.180.19.227
+uap 86400 IN A 93.180.0.17
+exams 86400 IN A 188.44.50.111
+elics 86400 IN MX 10 mx.virtual
+www.webtv 86400 IN CNAME purple.ether.tv.
+hpc 86400 IN NS ns.srcc
+86400 IN NS ns.secondary.net.ua.
+vfc.philos 86400 IN A 93.180.16.206
+phys.teacher 86400 IN A 93.180.0.17
+www.pvg 86400 IN A 93.180.0.7
+nvidia 86400 IN NS ns.srcc
+86400 IN NS ns.secondary.net.ua.
+www2.students 86400 IN CNAME www.virtual
+asm.home 86400 IN A 212.16.9.10
+www.test.physchem 86400 IN A 93.180.0.17
+new.choir 86400 IN A 93.180.19.227
+hri 86400 IN A 93.180.0.7
+hri 86400 IN MX 10 mx.virtual
+www.uisrussia 5 IN A 93.180.9.247
+www.ippk 86400 IN A 93.180.0.17
+stm 86400 IN MX 10 mx.virtual
+stm 86400 IN A 93.180.0.7
+sites.osk 86400 IN CNAME ghs.google.com.
+ip6 86400 IN NS ns
+86400 IN NS ns.msu.net.
+opksport 86400 IN NS ns.chld.ru.
+86400 IN NS ns.km20128.keymachine.de.
+tourism 86400 IN MX 10 mx.virtual
+tourism 86400 IN A 93.180.0.5
+cpk-new 86400 IN A 188.44.50.111
+yamail-2eb5f60cddf1.fund 86400 IN CNAME mail.yandex.ru.
+refal 86400 IN CNAME shade
+vshssn 86400 IN MX 10 mx.virtual
+vshssn 86400 IN A 93.180.0.17
+belozersky 172800 IN NS ns.belozersky
+172800 IN NS pop.belozersky
+lists.nano 86400 IN A 93.180.0.17
+jcmrb 5 IN MX 10 mx.jcmrb
+oupk 86400 IN NS ns3.nic.ru.
+86400 IN NS ns4.nic.ru.
+86400 IN NS ns8.nic.ru.
+imk 86400 IN NS ns.imk
+86400 IN NS ns
+86400 IN NS ns2.imk
+newpolit 86400 IN A 93.180.0.17
+www.mba 5 IN A 93.180.0.5
+www.botsad 86400 IN A 93.180.0.7
+itmk.philos 86400 IN CNAME www.philos
+gsba 86400 IN A 213.221.40.20
+gsba 86400 IN MX 10 mx.virtual
+www.practice 86400 IN A 93.180.0.17
+ccoe 86400 IN NS ns.srcc
+86400 IN NS ns.secondary.net.ua.
+bioinf.cmm 86400 IN A 93.180.63.227
+iaas 86400 IN NS ns
+86400 IN NS serv.iaas
+www.testbench 86400 IN A 158.250.16.100
+smu 5 IN A 93.180.0.4
+smu 5 IN MX 10 mx.virtual
+_sipfederationtls._tcp.philos 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+newweb 86400 IN A 93.180.19.226
+www.seminar-elchem 86400 IN A 93.180.55.134
+mail.so 86400 IN CNAME ghs.google.com.
+tedx 86400 IN A 93.180.19.227
+www.tango 86400 IN A 93.180.19.227
+humus 86400 IN A 93.180.0.4
+moip 86400 IN MX 10 mx.virtual
+moip 86400 IN A 93.180.0.17
+biocentr 86400 IN A 93.180.0.4
+biocentr 86400 IN TXT "v=spf1 redirect=_spf.mail.ru"
+biocentr 86400 IN MX 10 emx.mail.ru.
+www.po 5 IN A 93.180.0.17
+www.gsba 86400 IN A 213.221.40.20
+studsovet-tmp 86400 IN A 93.180.0.17
+www.tedx 86400 IN A 93.180.19.227
+tidex 86400 IN A 193.232.127.145
+www.ibmu 86400 IN CNAME onager.s2s
+www.olymp 86400 IN A 188.44.49.71
+mx.jcmrb 5 IN A 212.16.7.132
+www.getmedia 86400 IN A 93.180.0.4
+amcenter.moscow 86400 IN NS ns
+86400 IN NS nss.ras.ru.
+inf.teacher 86400 IN A 93.180.0.17
+ns.bio 86400 IN A 188.44.46.2
+www.tourism 86400 IN A 93.180.0.5
+testfbb 5 IN A 93.180.0.17
+www 86400 IN A 188.44.50.103
+ns.next 86400 IN A 193.232.127.66
+www.rsr 86400 IN A 93.180.19.227
+www.testchronos 86400 IN A 93.180.0.17
+www.answers.intsys 86400 IN A 93.95.100.115
+oilgas 86400 IN MX 10 oilgas
+oilgas 86400 IN A 93.180.55.134
+old.cpk 86400 IN A 93.180.0.17
+hist 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns.hist
+86400 IN NS nss.hist
+www.top 86400 IN CNAME top
+smtp.virtual 3600 IN A 93.180.0.4
+izd 86400 IN A 93.180.0.7
+mail.cpk 86400 IN TXT "v=spf1 mx -all"
+mail.cpk 86400 IN SSHFP 1 2 f0ee10967ed3e6ff8fd834f0d200bd2f7711b794cfa559d83e67d02d3119f0d8
+mail.cpk 86400 IN AAAA 2a00:f480:0:105::9
+mail.cpk 86400 IN A 188.44.50.116
+www.smu 5 IN A 93.180.0.4
+www.biotech 86400 IN A 93.180.19.227
+new.teacher 86400 IN A 195.208.1.165
+ns.bog 36000 IN A 213.131.20.1
+incubator 86400 IN A 93.180.0.7
+incubator 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.l.googlemail.com.
+86400 IN MX 30 aspmx3.l.googlemail.com.
+86400 IN MX 30 aspmx4.l.googlemail.com.
+86400 IN MX 30 aspmx5.l.googlemail.com.
+www.womenmsu 86400 IN A 93.180.0.4
+www.anthropos 86400 IN A 93.180.0.5
+flc.philos 86400 IN CNAME www.philos
+www.antiterror 86400 IN CNAME www.iisi
+mobilerobots 5 IN MX 10 mx.imec
+mobilerobots 5 IN A 93.180.3.202
+mail.eas 86400 IN A 193.232.113.234
+www.photobiol 86400 IN A 212.57.104.98
+mailru._domainkey.studsovet 86400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9LeXW6Yei71XTKcnupbZZOK6TPfnmVy+59oyOJzXkk+PaxZNz8pYr0sKijT/pdXrK37BX20IrIXUsnruGaq6zyM+KYOleFFgPNzVAiVi7y7aJVDLqgePYqjeJP2+KtukjKgC+BFxEYr86yqPJobaFVu2Rxx1HYlAwjriH7BWNEQIDAQAB"
+ns.tashkent 5 IN A 87.237.233.122
+lcm 86400 IN NS ns.lcm
+86400 IN NS ns.rinet.ru.
+86400 IN NS ns.cronyx.ru.
+86400 IN NS ns.portal.ru.
+86400 IN NS ns2.corbina.net.
+googlefffffffffd470f3e.distance 5 IN CNAME google.com.
+*.newspaper 5 IN A 194.58.30.130
+distant 86400 IN A 93.180.19.248
+distant 86400 IN MX 10 ASPMX.L.GOOGLE.COM.
+86400 IN MX 50 ALT1.ASPMX.L.GOOGLE.COM.
+86400 IN MX 50 ALT2.ASPMX.L.GOOGLE.COM.
+86400 IN MX 100 ASPMX2.GOOGLEMAIL.COM.
+86400 IN MX 100 ASPMX3.GOOGLEMAIL.COM.
+soilinst 86400 IN A 93.180.22.184
+vertex.inria 86400 IN A 193.232.115.1
+www.uap 86400 IN A 93.180.0.17
+www.compmod 5 IN A 93.180.0.5
+academic 86400 IN A 93.180.0.17
+www.stm 86400 IN A 93.180.0.7
+geoschool 86400 IN CNAME geoschool.web.ru.
+www.students 86400 IN CNAME www.virtual
+mx.mse 86400 IN A 93.180.5.104
+ns.cmc 1800 IN A 188.44.40.3
+www.test 5 IN A 93.180.0.5
+squid 86400 IN CNAME devil.nmd
+server.lib.msu.ru.culture.of.peace 86400 IN A 193.232.120.29
+test-pop 86400 IN MX 10 mx2
+veteran 86400 IN A 93.180.0.17
+lib 3600 IN NS ns
+3600 IN NS nss
+3600 IN NS nss.ras.ru.
+3600 IN NS server.lib
+www.dopobr 86400 IN A 93.180.0.4
+www.dopobr 86400 IN MX 10 mx.virtual
+www.mobilerobots 5 IN A 93.180.3.202
+mail.ecocenter 86400 IN CNAME mail.ecocenter.msu.ru.postman.ru.
+test-zaoch.mmmf 86400 IN A 93.180.19.227
+mba 5 IN MX 10 mx.virtual
+lit 3600 IN NS blisargon.lit
+math2015 86400 IN A 188.44.42.200
+www.sportclub 86400 IN A 93.180.0.5
+vestnik 86400 IN A 46.4.64.134
+techbez 86400 IN MX 10 mx.virtual
+www.ieef 86400 IN A 93.180.19.227
+www.philos 86400 IN A 93.180.16.213
+nature 86400 IN CNAME nature.web.ru.
+spa 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns.spa
+www.moip 86400 IN A 93.180.0.17
+test.biocentr 86400 IN A 93.180.19.227
+calendar.fgp 86400 IN CNAME ghs.google.com.
+ns.audit 5 IN A 93.180.7.65
+pop.genebee 5 IN A 158.250.34.3
+www.ideas 86400 IN A 93.180.0.17
+vpn.bukh 86400 IN A 93.180.24.59
+cosmos 86400 IN A 213.131.1.5
+mes 86400 IN NS ns.mes
+86400 IN NS ns.msu.ru
+c3.dou 86400 IN A 193.232.113.9
+socphil.philos 86400 IN CNAME www.philos
+regionoved 86400 IN A 212.193.247.199
+tashkent 5 IN NS ns.cmc
+5 IN NS ns.intelib.org.
+5 IN NS ns.tashkent
+www.css 86400 IN A 93.180.40.18
+www.studunion 86400 IN CNAME studunion
+olympiad 86400 IN CNAME ghs.google.com.
+webanketa 86400 IN A 188.44.50.109
+yamail-157903df8a52.uz 86400 IN CNAME mail.yandex.ru.
+www.concom 86400 IN A 93.180.19.226
+post 86400 IN A 212.16.0.33
+mail.fgp 86400 IN CNAME ghs.google.com.
+new.philos 86400 IN A 93.180.16.213
+www.ma 86400 IN A 93.180.0.17
+geogr 86400 IN NS ns
+86400 IN NS nss
+86400 IN NS nss.ras.ru.
+www.uno 86400 IN A 93.180.0.17
+s2s 86400 IN NS ns
+86400 IN NS ns.s2s
+lambda 86400 IN MX 10 mx.virtual
+emsu 86400 IN A 158.250.18.245
+newspaper 5 IN A 194.58.30.130
+istina 86400 IN A 93.180.19.249
+istina 86400 IN MX 10 mx.virtual
+ns.soil 86400 IN A 188.44.39.6
+www.tennisclub 5 IN A 93.180.0.5
+www.virtual 3600 IN A 93.180.0.4
+ltm 86400 IN NS ns.ltm
+86400 IN NS ns
+86400 IN NS ns.msu.net.
+mmmf 86400 IN A 93.180.0.17
+www.academic 86400 IN A 93.180.0.17
+soil 86400 IN NS ns
+86400 IN NS ns.soil
+86400 IN NS nss
+senat.fgp 86400 IN A 93.180.19.227
+dn.intsys 86400 IN A 80.87.155.2
+catty 86400 IN A 193.232.127.129
+ns.chem 7200 IN A 195.208.208.18
+rector 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns.radio-msu.net.
+www.lomonosov 86400 IN A 188.44.49.71
+www.rc 86400 IN CNAME rc
+test.lib.teacher 86400 IN A 93.180.19.227
+serv.antropos 86400 IN A 93.180.20.45
+ami2006 5 IN A 93.180.0.5
+school 3600 IN NS ns
+3600 IN NS ns.msu.net.
+www.oilgas 86400 IN A 93.180.55.134
+chem 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS ns.chem
+86400 IN NS ns.chem.msu.su.
+ns.fbm 3600 IN NS ns
+ns.fbm 3600 IN A 188.44.48.110
+belosersky 86400 IN NS ns.belosersky
+86400 IN NS pop.belosersky
+krasnovydovo 86400 IN A 93.180.0.17
+www.so 86400 IN A 93.180.0.7
+physchem 86400 IN MX 10 mx.virtual
+physchem 86400 IN A 93.180.0.5
+phpmyadmin.newweb 86400 IN A 93.180.19.226
+spe 86400 IN NS ns.spe
+chgk 86400 IN CNAME mubk.ucoz.net.
+ns.fdo 5 IN A 93.180.7.195
+distance 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+distance 5 IN A 93.180.0.6
+eas 86400 IN MX 10 mx.virtual
+ieef 86400 IN A 93.180.19.227
+www.sci 86400 IN A 93.180.0.7
+www.ciot 86400 IN A 93.180.0.17
+mse 86400 IN A 93.180.0.7
+mse 86400 IN MX 10 mx.mse
+biophys 172800 IN NS ns
+172800 IN NS tok.biophys
+172800 IN NS sbioph.biophys
+cospar 86400 IN AAAA 2a00:f480:0:105::8
+cospar 86400 IN A 188.44.50.107
+ns.ffl 86400 IN A 188.44.37.1
+www.uz 86400 IN A 5.178.86.91
+mfk 86400 IN A 93.180.19.227
+audit 5 IN NS ns
+5 IN NS ns.audit
+5 IN NS ns2.audit
+testiaasanthro 86400 IN A 93.180.20.46
+www.olympiad.distance 86400 IN A 93.180.0.17
+grace 86400 IN A 90.156.201.64
+86400 IN A 90.156.201.80
+86400 IN A 90.156.201.85
+86400 IN A 90.156.201.107
+grace 86400 IN MX 10 mx1.masterhost.ru.
+86400 IN MX 10 mx2.masterhost.ru.
+86400 IN MX 10 mx3.masterhost.ru.
+forum.distance 86400 IN A 93.180.0.17
+www.inpro 86400 IN A 93.180.0.6
+www.push 86400 IN A 93.180.19.227
+pop.ecosoil 172800 IN A 158.250.34.3
+nmd 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS nss.ras.ru.
+www.conference 86400 IN A 93.180.0.6
+lbss 86400 IN MX 10 lbss
+86400 IN MX 20 mx2
+lbss 86400 IN A 193.232.113.232
+www.olympiad 86400 IN A 93.180.0.7
+bio 86400 IN NS ly.bio
+86400 IN NS ns.bio
+86400 IN NS ns
+86400 IN NS nss
+www.veteran 86400 IN A 93.180.0.17
+fpp.philos 86400 IN CNAME www.philos
+npi 86400 IN NS ns.sinp
+86400 IN NS ns.radio-msu.net.
+86400 IN NS ns1.radio-msu.net.
+86400 IN NS ns2.radio-msu.net.
+sovet-etis 86400 IN A 193.232.113.5
+music 86400 IN A 93.180.0.17
+music 86400 IN MX 10 mx.virtual
+bcast0iaasanthro 86400 IN A 93.180.20.40
+human.philos 86400 IN CNAME www.philos
+ns2.audit 5 IN A 158.250.45.2
+relig.philos 86400 IN CNAME www.philos
+astronet 86400 IN CNAME astronet.ru.
+nss 86400 IN A 93.180.0.1
+gracia 86400 IN A 217.16.16.141
+86400 IN A 217.16.16.151
+gracia 86400 IN MX 10 mx1.masterhost.ru.
+86400 IN MX 10 mx2.masterhost.ru.
+86400 IN MX 10 mx3.masterhost.ru.
+getmedia 86400 IN A 93.180.0.4
+_dmarc.cpk 86400 IN TXT "v=DMARC1; p=quarantine"
+www.umo 86400 IN A 93.180.0.4
+testconcom 86400 IN A 93.180.19.226
+lyncdiscover.philos 3600 IN CNAME webdir.online.lync.com.
+lnfm1.sai 3600 IN A 93.180.25.2
+www.physchem 86400 IN MX 10 mx.virtual
+www.physchem 86400 IN A 93.180.0.5
+dubrovinlab 86400 IN A 176.100.241.5
+srcc 86400 IN NS ns.srcc
+86400 IN NS ns.secondary.net.ua.
+www.culture.of.peace 86400 IN A 212.16.0.33
+subsidy.teacher 86400 IN A 93.180.19.227
+www.distance 86400 IN CNAME ghs.google.com.
+avmail 86400 IN A 195.208.223.211
+mat.teacher 86400 IN A 93.180.0.17
+www.budo 86400 IN A 93.180.19.227
+opk 86400 IN NS ns1.brandproduction.ru.
+86400 IN NS ns2.brandproduction.ru.
+pfu 5 IN MX 10 mx.virtual
+ciot 86400 IN A 93.180.0.17
+ciot 86400 IN MX 10 mx.virtual
+techinfo 86400 IN A 93.180.0.4
+exchange 86400 IN MX 10 exchange
+exchange 86400 IN A 93.180.0.3
+press 86400 IN NS ns3.nic.ru.
+86400 IN NS ns4.nic.ru.
+86400 IN NS ns8.nic.ru.
+www.acur 86400 IN A 93.180.0.4
+www.medphys2001 86400 IN A 93.180.0.4
+massmedia 86400 IN NS ns
+86400 IN NS ns.msu.net.
+86400 IN NS nss.ras.ru.
+cs 1800 IN NS ns.cs.msu.su.
+1800 IN NS ns.cmc
+1800 IN NS ns
+1800 IN NS ns.msu.net.
+una 86400 IN CNAME shade
+www.kz 86400 IN A 93.180.0.7
+www.testfbb 5 IN A 93.180.0.17
+test.physchem 86400 IN A 93.180.0.17
+p220 86400 IN A 93.180.0.17
+www.space 86400 IN A 213.131.9.133
+acadeducation 86400 IN NS ns.law
+86400 IN NS ns2.law
+docflow 86400 IN CNAME cliff.nmd
+www.bukh 86400 IN A 188.44.50.104
+pansion 5 IN MX 10 mx.virtual
+search 86400 IN CNAME top
+www.vshssn 86400 IN A 93.180.0.17
+_dmarc.mail.cpk 86400 IN TXT "v=DMARC1; p=quarantine"
+genebee 172800 IN NS ns.genebee
+172800 IN NS pop.genebee
+bio.teacher 86400 IN A 93.180.0.17
+dissovet 86400 IN MX 10 mail.s2s
+dissovet 86400 IN A 93.180.3.247
+icareer 86400 IN NS ns1.hc.ru.
+86400 IN NS ns2.hc.ru.
+chronos 86400 IN NS ns
+86400 IN NS ns.msu.net.
+testbench 86400 IN A 158.250.16.100
+testbench 86400 IN MX 10 mx.virtual
+www.unesco 86400 IN A 212.16.0.33
+physics 86400 IN NS ns
+86400 IN NS ns.msu.net.
+unesco 86400 IN MX 10 mx.direct.ru.
+unesco 86400 IN A 212.16.0.33
+nature.philos 86400 IN CNAME www.philos
+uobf 86400 IN A 93.180.19.227
+mm 86400 IN NS ns.mm
+86400 IN NS ns
+86400 IN NS ns.msu.net.
+www.esti 5 IN A 93.180.19.227
+ecpolit.philos 86400 IN CNAME www.philos
+www.istina 86400 IN A 93.180.19.249
+rcc 86400 IN NS ns.srcc
+86400 IN NS ns.secondary.net.ua.
+geogr.teacher 86400 IN A 93.180.0.17
+anspa 86400 IN A 93.180.10.124
+anspa 86400 IN MX 10 mx.virtual
+psy 86400 IN NS ns
+86400 IN NS ns.psy
+msu-vbns.ipv4-6 86400 IN A 193.232.112.199
+rusypt 86400 IN A 93.180.0.17
+kargin 86400 IN A 93.180.55.134
+kargin 86400 IN MX 10 kargin
+pvg 86400 IN A 93.180.0.7
+cnit1 86400 IN A 193.232.116.170

@@ -1,0 +1,173 @@
+@ 86400 IN SOA rs10.registrar-servers.com. hosting-notifications.namecheaphosting.com. 2014103105 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 ip4:199.188.200.50 ip4:74.53.94.146 a mx include:websitewelcome.com ~all"
+@ 14400 IN MX 50 @
+14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+14400 IN MX 20 aspmx4.googlemail.com.
+14400 IN MX 20 aspmx5.googlemail.com.
+@ 86400 IN NS rs10.registrar-servers.com.
+86400 IN NS rs110.registrar-servers.com.
+@ 14400 IN A 199.188.200.51
+autodiscover.fagric 14400 IN A 199.188.200.51
+webdisk.fagric 14400 IN A 199.188.200.51
+webdisk.medianews 14400 IN A 199.188.200.51
+law 14400 IN MX 1 ASPMX.L.GOOGLE.COM.
+14400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+14400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+14400 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+14400 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+law 300 IN TXT ""
+300 IN TXT "google-site-verification=lfzO3q9FqztiAG1FGFUABGHKwET6BMtME4MJW3z2XAQ"
+law 14400 IN A 199.188.200.51
+webdisk.resources 14400 IN A 199.188.200.51
+autodiscover.law 14400 IN A 199.188.200.51
+_autodiscover._tcp.fedhured 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+fist 14400 IN TXT ""
+fist 14400 IN A 199.188.200.51
+www.students 14400 IN A 199.188.200.51
+_autodiscover._tcp.studentmails 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+medianews 14400 IN A 199.188.200.51
+autoconfig.fhs 14400 IN A 199.188.200.51
+_autodiscover._tcp.accomodation 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.fagric 14400 IN A 199.188.200.51
+www 14400 IN CNAME @
+_autodiscover._tcp.law 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.media 14400 IN A 199.188.200.51
+autodiscover.fhs 14400 IN A 199.188.200.51
+commerce 14400 IN TXT ""
+commerce 14400 IN A 199.188.200.51
+fhs 14400 IN TXT ""
+fhs 14400 IN A 199.188.200.51
+www.research1 14400 IN A 199.188.200.51
+autodiscover.studentmails 14400 IN A 199.188.200.51
+autodiscover.students 14400 IN A 199.188.200.51
+library 14400 IN TXT ""
+library 14400 IN A 199.188.200.51
+autoconfig.media 14400 IN A 199.188.200.51
+_autodiscover._tcp.research1 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.studentmails 14400 IN A 199.188.200.51
+autodiscover.research1 14400 IN A 199.188.200.51
+_autodiscover._tcp.fagric 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.ict 14400 IN A 199.188.200.51
+webdisk.accomodation 14400 IN A 199.188.200.51
+www.accomodation 14400 IN A 199.188.200.51
+www.ict 14400 IN A 199.188.200.51
+webdisk.media 14400 IN A 199.188.200.51
+autoconfig.commerce 14400 IN A 199.188.200.51
+resources 300 IN CNAME ghs.googlehosted.com.
+research 14400 IN TXT ""
+research 14400 IN A 199.188.200.51
+webdisk.fist 14400 IN A 199.188.200.51
+_autodiscover._tcp.fist 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.media 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.fhs 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.students 14400 IN A 199.188.200.51
+autoconfig.library 14400 IN A 199.188.200.51
+_autodiscover._tcp.resources 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.resources 14400 IN A 199.188.200.51
+autodiscover.studentaffairs 14400 IN A 199.188.200.51
+autoconfig.fedhured 14400 IN A 199.188.200.51
+feebalances 300 IN CNAME ghs.googlehosted.com.
+webdisk.research1 14400 IN A 199.188.200.51
+www.kucsu 14400 IN A 199.188.200.51
+autodiscover.kucsu 14400 IN A 199.188.200.51
+autoconfig.planning 14400 IN A 199.188.200.51
+autoconfig.research 14400 IN A 199.188.200.51
+ftp 14400 IN CNAME @
+cpanel 14400 IN A 199.188.200.51
+fagric 14400 IN TXT ""
+fagric 14400 IN A 199.188.200.51
+studentmails 300 IN CNAME ghs.googlehosted.com.
+localhost 14400 IN A 127.0.0.1
+autoconfig.fagric 14400 IN A 199.188.200.51
+research1 14400 IN A 199.188.200.51
+webdisk.research 14400 IN A 199.188.200.51
+autoconfig.kucsu 14400 IN A 199.188.200.51
+_autodiscover._tcp.students 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+media 14400 IN A 199.188.200.51
+accomodation 14400 IN A 199.188.200.51
+fedhured 14400 IN TXT ""
+fedhured 14400 IN A 199.188.200.51
+www.commerce 14400 IN A 199.188.200.51
+webdisk.kucsu 14400 IN A 199.188.200.51
+autoconfig.fist 14400 IN A 199.188.200.51
+autoconfig.ict 14400 IN A 199.188.200.51
+_autodiscover._tcp.kucsu 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.resources 14400 IN A 199.188.200.51
+webdisk.studentaffairs 14400 IN A 199.188.200.51
+www.planning 14400 IN A 199.188.200.51
+autodiscover.alumni 14400 IN A 199.188.200.51
+webdisk.alumni 14400 IN A 199.188.200.51
+autodiscover.ict 14400 IN A 199.188.200.51
+www.research 14400 IN A 199.188.200.51
+autodiscover.commerce 14400 IN A 199.188.200.51
+ict 14400 IN TXT ""
+ict 14400 IN A 199.188.200.51
+mail 14400 IN CNAME @
+webmail 14400 IN A 199.188.200.51
+autodiscover.feebalances 14400 IN A 199.188.200.51
+kucsu 14400 IN TXT ""
+kucsu 14400 IN A 199.188.200.51
+www.law 14400 IN A 199.188.200.51
+_autodiscover._tcp.feebalances 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.planning 14400 IN A 199.188.200.51
+webdisk.feebalances 14400 IN A 199.188.200.51
+planning 14400 IN A 199.188.200.51
+autodiscover.research 14400 IN A 199.188.200.51
+autoconfig.research1 14400 IN A 199.188.200.51
+www.alumni 14400 IN A 199.188.200.51
+webdisk.commerce 14400 IN A 199.188.200.51
+alumni 14400 IN MX 10 aspmx3.googlemail.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 1 aspmx.l.google.com.
+alumni 300 IN TXT "google-site-verification=lfzO3q9FqztiAG1FGFUABGHKwET6BMtME4MJW3z2XAQ"
+300 IN TXT "google-site-verification=sbuWSA4YIsmpbe6j-BLseyXUHbTiGiWo5eP_RTPQpSI"
+autodiscover.library 14400 IN A 199.188.200.51
+_autodiscover._tcp.ict 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.law 14400 IN A 199.188.200.51
+webdisk.library 14400 IN A 199.188.200.51
+www.fedhured 14400 IN A 199.188.200.51
+autodiscover.accomodation 14400 IN A 199.188.200.51
+autoconfig.feebalances 14400 IN A 199.188.200.51
+autoconfig.studentmails 14400 IN A 199.188.200.51
+_autodiscover._tcp.commerce 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.planning 14400 IN A 199.188.200.51
+www.fist 14400 IN A 199.188.200.51
+_autodiscover._tcp.alumni 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.studentaffairs 14400 IN A 199.188.200.51
+autoconfig.accomodation 14400 IN A 199.188.200.51
+www.fhs 14400 IN A 199.188.200.51
+www.medianews 14400 IN A 199.188.200.51
+autodiscover.fedhured 14400 IN A 199.188.200.51
+www.studentaffairs 14400 IN A 199.188.200.51
+www.media 14400 IN A 199.188.200.51
+_autodiscover._tcp.studentaffairs 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.medianews 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+whm 14400 IN A 199.188.200.51
+autodiscover.medianews 14400 IN A 199.188.200.51
+webdisk.fhs 14400 IN A 199.188.200.51
+_autodiscover._tcp.planning 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk 14400 IN A 199.188.200.51
+students 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+students 300 IN TXT "google-site-verification=sbuWSA4YIsmpbe6j-BLseyXUHbTiGiWo5eP_RTPQpSI"
+students 14400 IN A 199.188.200.51
+_autodiscover._tcp.research 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.library 14400 IN A 199.188.200.51
+autoconfig.students 14400 IN A 199.188.200.51
+autoconfig.medianews 14400 IN A 199.188.200.51
+_autodiscover._tcp.library 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.fist 14400 IN A 199.188.200.51
+autoconfig.law 14400 IN A 199.188.200.51
+autoconfig.alumni 14400 IN A 199.188.200.51
+webdisk.fedhured 14400 IN A 199.188.200.51
+studentaffairs 14400 IN TXT ""
+studentaffairs 14400 IN A 199.188.200.51

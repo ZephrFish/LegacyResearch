@@ -1,0 +1,23 @@
+@ 3600 IN SOA ns1 mehrnia 2012031347 1260 120 1209600 3600
+@ 3600 IN NS ns2
+3600 IN NS ns1
+3600 IN NS ns3
+@ 3600 IN A 217.219.199.37
+@ 3600 IN MX 1 webmail
+@ 3600 IN TXT "v=spf1 a mx -all"
+3600 IN TXT "v=DMARC1; p=none; sp=none; rua=mailto:postmaster@malayeru.ac.ir!1m; ruf=mailto:postmaster@malayeru.ac.ir!1m; rf=afrf; pct=100; ri=86400"
+azad 3600 IN A 5.144.130.23
+research 3600 IN A 217.219.199.53
+webmail 3600 IN A 78.39.210.11
+stu 3600 IN A 78.39.210.12
+stu 3600 IN MX 10 stu
+ns1 3600 IN A 78.39.210.10
+ns2 3600 IN A 217.219.199.52
+ns3 3600 IN A 78.39.210.13
+www 3600 IN A 217.219.199.37
+lms 3600 IN A 185.50.39.84
+food 3600 IN A 217.219.199.46
+vc 3600 IN A 185.50.39.85
+network 3600 IN A 217.219.199.45
+amoozesh 3600 IN A 217.219.199.39
+lib 3600 IN A 217.219.199.38

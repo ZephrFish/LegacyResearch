@@ -1,0 +1,44 @@
+@ 86400 IN SOA ns admin 2015010302 3600 900 604800 86400
+@ 86400 IN A 217.23.81.195
+@ 86400 IN NS ns
+86400 IN NS tengwar.vtt.net.
+@ 86400 IN MX 10 mail
+gf 86400 IN CNAME www
+www.justice 86400 IN CNAME www
+kafinf 86400 IN CNAME www
+abi 86400 IN CNAME www
+ipe 86400 IN CNAME www
+www.kafinf 86400 IN CNAME www
+www.ivvo 86400 IN CNAME www
+clx 86400 IN A 217.23.81.220
+www.new 86400 IN CNAME www
+uvr 86400 IN CNAME www
+ns 86400 IN A 217.23.77.54
+irimp 86400 IN CNAME www
+www.af 86400 IN CNAME www
+mail 86400 IN A 217.23.81.196
+clw 86400 IN A 217.23.81.219
+www.proc 86400 IN CNAME www
+lib 86400 IN A 217.23.81.197
+appsrv 86400 IN A 217.23.81.202
+justice 86400 IN CNAME www
+proc 86400 IN CNAME www
+www.uvr 86400 IN CNAME www
+af 86400 IN CNAME www
+www.abi 86400 IN CNAME www
+new 86400 IN CNAME www
+www.ipe 86400 IN CNAME www
+balakovo 86400 IN CNAME www
+forum 86400 IN CNAME www
+old 86400 IN CNAME www
+www 86400 IN A 217.23.81.195
+www.nio 86400 IN CNAME www
+www.gf 86400 IN CNAME www
+www.balakovo 86400 IN CNAME www
+cl 86400 IN A 217.23.81.218
+portal 86400 IN CNAME www
+ivvo 86400 IN CNAME www
+nio 86400 IN CNAME www
+v 86400 IN A 217.23.81.194
+www.old 86400 IN CNAME www
+www.irimp 86400 IN CNAME www

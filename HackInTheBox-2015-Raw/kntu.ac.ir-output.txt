@@ -1,0 +1,173 @@
+@ 38400 IN SOA ns1 postmaster 2013071294 10800 3600 604800 38400
+@ 38400 IN TXT "v=spf1 a mx ip4:217.218.40.0/24 ip4:94.184.176.0/21 -all"
+@ 38400 IN NS ns1
+38400 IN NS ns2
+38400 IN NS ns3
+38400 IN NS ns4
+@ 38400 IN A 94.184.176.4
+@ 38400 IN MX 3 chapar
+library1 38400 IN A 217.218.40.66
+eetd 38400 IN MX 9 vafa
+eetd 900 IN A 217.218.40.148
+computer.ece 38400 IN CNAME www
+handler 38400 IN A 217.218.40.96
+biomed.ece 38400 IN CNAME www
+fish 38400 IN CNAME sepid
+it 38400 IN CNAME www
+roshd1 38400 IN A 217.218.40.21
+icas 38400 IN CNAME www
+confs 38400 IN CNAME www
+roshd 38400 IN CNAME www
+library.ece 38400 IN CNAME www
+elearning 38400 IN CNAME www
+malborz 900 IN A 217.218.40.40
+farhangi 38400 IN CNAME www
+telcom.ece 38400 IN CNAME www
+ssrc 38400 IN CNAME www
+chapar 900 IN A 217.218.40.40
+alumni 38400 IN CNAME www
+stu21 38400 IN CNAME stu1
+www 38400 IN A 94.184.176.4
+daneshjoo 38400 IN CNAME www
+www.ee 900 IN A 217.218.40.154
+email 38400 IN MX 4 chapar
+email 900 IN A 217.218.40.40
+sip.conf 38400 IN CNAME conf
+eps 38400 IN CNAME www
+shahed 38400 IN CNAME www
+pr 38400 IN CNAME www
+edari 38400 IN CNAME www
+erp 38400 IN A 217.218.40.10
+moshavereh 38400 IN CNAME www
+library 38400 IN CNAME www
+webconf.conf 38400 IN CNAME conf
+sepid 38400 IN A 217.218.40.61
+lib.mechanical 38400 IN CNAME www
+itc.mechanical 38400 IN CNAME www
+physics 38400 IN CNAME www
+dialin.conf 38400 IN CNAME conf
+daloradius 38400 IN A 217.218.40.23
+damavand 38400 IN A 94.184.176.7
+mdena 900 IN A 217.218.40.40
+lib.industrial 38400 IN CNAME www
+conference 38400 IN A 217.218.40.24
+share 38400 IN A 217.218.40.19
+jgit 38400 IN A 185.83.208.250
+electrical 38400 IN CNAME www
+physchem17 38400 IN A 79.175.172.36
+malitarh 38400 IN A 217.218.40.96
+aero 38400 IN CNAME www
+stu22 38400 IN CNAME stu1
+stu23 38400 IN CNAME stu1
+alborz 38400 IN A 217.218.40.51
+alborz 38400 IN MX 5 chapar
+stu25 38400 IN CNAME stu1
+msahand 900 IN A 217.218.40.40
+stu24 38400 IN CNAME stu1
+sms 38400 IN A 217.218.40.96
+vafa 900 IN A 217.218.40.148
+visionzero 38400 IN CNAME www
+scope 38400 IN CNAME www
+journals 38400 IN CNAME www
+git 38400 IN CNAME www
+ns4 38400 IN A 94.184.176.6
+test 38400 IN CNAME www
+_sipfederationtls._tcp.conf 38400 IN SRV 0 0 5061 conf
+wp 38400 IN A 217.218.40.51
+chem 38400 IN CNAME www
+mechanical 38400 IN CNAME www
+karafarini 38400 IN CNAME www
+publication 38400 IN CNAME www
+geomatics 38400 IN CNAME www
+mechatronics.ece 38400 IN CNAME www
+amozesh 38400 IN CNAME www
+ieee 38400 IN CNAME www
+mse 38400 IN CNAME www
+stu1 38400 IN A 94.184.176.8
+_sip._tls.conf 38400 IN SRV 0 0 443 conf
+stu2 38400 IN CNAME stu1
+roshdportal 38400 IN CNAME roshd1
+dena 1000 IN A 217.218.40.51
+dena 38400 IN MX 5 chapar
+msina 900 IN A 217.218.40.40
+HqsTik 38400 IN A 94.184.176.12
+golestan 38400 IN A 217.218.40.100
+sahand 38400 IN A 217.218.40.51
+ns1 38400 IN A 94.184.176.5
+ns2 38400 IN A 217.218.40.5
+ns3 38400 IN A 217.218.40.6
+hfcas 38400 IN CNAME www
+control.ece 38400 IN CNAME www
+vumaster 900 IN A 94.184.176.225
+gtg 38400 IN CNAME www
+courses 38400 IN A 217.218.40.18
+bimeh 38400 IN A 217.218.40.96
+cp-ict 38400 IN CNAME www
+www.sahand 38400 IN CNAME sahand
+mphd1 38400 IN A 217.218.40.186
+nezarat 38400 IN A 217.218.40.114
+ntirc 38400 IN CNAME www
+hmtl 38400 IN CNAME www
+nagiosmon 38400 IN A 217.218.40.88
+lyncdiscoverinternal.conf 38400 IN CNAME conf
+research.mechanical 38400 IN CNAME www
+mail 900 IN A 217.218.40.40
+mail 38400 IN MX 5 chapar
+isoee2015 38400 IN A 5.196.187.18
+update 38400 IN A 10.30.2.13
+bml 38400 IN CNAME www
+wmail 38400 IN CNAME wp
+conf 38400 IN A 217.218.40.91
+icrom 38400 IN A 217.218.40.94
+profile 38400 IN A 217.218.40.123
+ijr 38400 IN A 185.83.208.202
+refah 38400 IN CNAME www
+sabamail 900 IN A 217.218.40.148
+hodhod 38400 IN A 217.218.40.60
+tarh 38400 IN CNAME www
+iscisc2010 38400 IN CNAME www
+graph 38400 IN A 217.218.40.89
+phd 38400 IN A 217.218.40.8
+meet.conf 38400 IN CNAME conf
+av.conf 38400 IN CNAME conf
+zmail 38400 IN A 217.218.40.8
+math 38400 IN CNAME www
+srm 38400 IN A 217.218.40.32
+rairo 38400 IN CNAME www
+sida 38400 IN CNAME erp
+edu.mechanical 38400 IN CNAME www
+eduplan 38400 IN A 217.218.40.31
+nmce 38400 IN A 185.83.208.250
+dsss 38400 IN A 144.76.103.253
+winmon 38400 IN A 217.218.40.86
+dmrg 38400 IN CNAME www
+science 38400 IN CNAME www
+itc 38400 IN CNAME www
+sina 38400 IN A 217.218.40.51
+sina 38400 IN MX 5 chapar
+vpn 38400 IN A 217.218.40.12
+civil 38400 IN CNAME www
+electronics.ece 38400 IN CNAME www
+lyncdiscover.conf 38400 IN CNAME conf
+oisc 38400 IN CNAME www
+connect 900 IN A 94.184.176.226
+power.ece 38400 IN CNAME www
+grad 38400 IN CNAME www
+ece 38400 IN CNAME www
+industrial 38400 IN CNAME www
+sport 38400 IN CNAME www
+emce 38400 IN CNAME www
+ce 38400 IN CNAME www
+vubachelor 900 IN A 94.184.176.229
+vpn.ee 900 IN A 217.218.40.151
+setc 38400 IN CNAME sepid
+nasim 900 IN A 217.218.40.149
+portal 38400 IN A 217.218.40.120
+dorm 38400 IN CNAME www
+ecourse 38400 IN CNAME www
+ee 38400 IN MX 9 vafa
+ee 900 IN A 217.218.40.148
+robcontcenter 38400 IN CNAME www
+furnace-high-tech 38400 IN CNAME www
+saba 38400 IN MX 9 vafa
+saba 900 IN A 217.218.40.154

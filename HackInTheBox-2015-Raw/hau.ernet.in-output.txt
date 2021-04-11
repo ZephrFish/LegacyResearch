@@ -1,0 +1,11 @@
+@ 86400 IN SOA e-eihq02.eis.ernet.in. postmast.eis.ernet.in. 2013031902 10800 900 86400 86400
+@ 86400 IN NS dns.ernet.in.
+86400 IN NS e-eihq01.eis.ernet.in.
+86400 IN NS e-eihq02.eis.ernet.in.
+86400 IN NS e-iisc03.iisc.ernet.in.
+@ 86400 IN MX 10 mail1
+86400 IN MX 15 mail.eis.ernet.in.
+@ 86400 IN A 14.139.232.162
+mail 86400 IN A 14.139.232.163
+mail1 86400 IN A 14.139.232.164
+www 86400 IN A 14.139.232.162

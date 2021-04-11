@@ -1,0 +1,102 @@
+@ 3600 IN SOA cus.sihe.ac.uk. hostmaster.swanseamet.ac.uk. 2015032300 10800 3600 604800 86400
+@ 3600 IN NS cus.sihe.ac.uk.
+3600 IN NS king.sihe.ac.uk.
+@ 3600 IN MX 0 smu-ac-uk.mail.protection.outlook.com.
+@ 3600 IN SPF "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+ww2 3600 IN A 193.62.88.197
+halls 3600 IN A 193.62.88.197
+sitalis 3600 IN A 212.219.61.12
+srwebserver 3600 IN A 193.62.88.197
+resourcelink 3600 IN A 172.18.100.44
+studentresults 3600 IN A 193.62.88.197
+enrol 3600 IN A 193.62.88.41
+iCAN 3600 IN CNAME smulta.ning.com.
+msoid.students 3600 IN CNAME clientconfig.microsoftonline-p.net.
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+webcomps 3600 IN A 193.62.91.3
+eduroam 3600 IN A 193.62.88.197
+www.jazzheritagewales 3600 IN A 193.62.88.197
+orion.sid.sihe.ac.uk 3600 IN CNAME mail.sihe.ac.uk.
+registration 3600 IN A 193.62.88.197
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+prawf 3600 IN A 193.62.88.197
+v4 3600 IN A 193.62.88.197
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+vletmp 3600 IN A 193.62.88.197
+ciric 3600 IN A 193.62.88.197
+moodle-int 3600 IN A 193.62.88.197
+blackboardlegacy 3600 IN A 193.62.88.204
+sip 3600 IN A 193.62.88.52
+foi 3600 IN A 193.62.88.197
+celcat 3600 IN A 193.62.88.197
+qualityhandbook 3600 IN A 193.62.88.197
+moodle 3600 IN A 193.62.88.54
+youruni 3600 IN A 193.62.88.197
+hyperion 3600 IN A 193.62.88.218
+mydesktop 3600 IN A 193.62.88.196
+prism 3600 IN A 212.219.61.26
+studentportal 3600 IN A 193.62.88.197
+test 3600 IN TXT "MS=ms10965565"
+phobos 3600 IN A 193.62.88.222
+localhost 3600 IN A 127.0.0.1
+webcon 3600 IN A 193.62.88.182
+dspace 3600 IN A 193.62.88.136
+_sipfederationtls._tcp.students 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www3 3600 IN A 193.62.88.197
+bulldog 3600 IN A 193.62.88.4
+olbs 3600 IN A 193.62.88.197
+simis 3600 IN A 212.219.61.11
+ifind 3600 IN A 137.44.27.24
+orion 3600 IN CNAME mail.sihe.ac.uk.
+swbr 3600 IN A 193.62.88.197
+dropr 3600 IN A 174.129.17.42
+imagearchive 3600 IN A 193.62.88.197
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+hercules 3600 IN A 193.62.88.238
+gregynog 3600 IN A 193.62.88.197
+autodiscover.alumni 3600 IN CNAME autodiscover.outlook.com.
+mail 3600 IN A 193.62.88.190
+sharepoint 3600 IN A 193.62.88.197
+test1 3600 IN TXT "v=msv1 t=3ad927249c9b4cb3dc67bc4e85a432"
+payment 3600 IN CNAME phobos
+accessedge 3600 IN A 193.62.91.11
+newmail 3600 IN CNAME mail
+recruitment 3600 IN A 172.18.100.43
+questionnaires 3600 IN CNAME phobos
+myportal 3600 IN A 193.62.88.41
+autodiscover.students 3600 IN CNAME autodiscover.outlook.com.
+sipint 3600 IN A 172.18.100.17
+accommodation 3600 IN A 193.62.88.197
+pebblepad 3600 IN A 193.62.88.206
+intranet 3600 IN A 193.62.88.38
+graduation 3600 IN CNAME hercules
+avedge 3600 IN A 193.62.88.246
+digitalrepository 3600 IN A 193.62.88.136
+igetit 3600 IN A 137.44.27.24
+olbs2 3600 IN A 193.62.88.197
+watson 3600 IN A 212.219.61.179
+hallsofresidence 3600 IN A 193.62.88.197
+aura 3600 IN A 193.62.88.197
+students 3600 IN MX 0 students-smu-ac-uk.mail.protection.outlook.com.
+students 3600 IN SPF "v=spf1 include:spf.protection.outlook.com -all"
+students 3600 IN TXT "MS=ms83503719"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+webdav 3600 IN A 193.62.88.40
+v-ezproxy 3600 IN A 212.219.61.169
+*.v-ezproxy 3600 IN A 212.219.61.169
+bob 3600 IN A 193.62.89.89
+lyncdiscover.students 3600 IN CNAME webdir.online.lync.com.
+_sip._tls.students 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www 3600 IN A 193.62.88.197
+enrolment 3600 IN A 193.62.88.197
+smeltar 3600 IN A 193.62.88.197
+printunit 3600 IN A 193.62.88.197
+alumni 3600 IN MX 0 alumni-smu-ac-uk.mail.eo.outlook.com.
+alumni 3600 IN TXT "MS=ms63296705"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+alumni 3600 IN SPF "v=spf1 include:outlook.com ~all"
+alumni 3600 IN A 193.62.88.249
+myview 3600 IN A 172.18.100.29
+sip.students 3600 IN CNAME sipdir.online.lync.com.

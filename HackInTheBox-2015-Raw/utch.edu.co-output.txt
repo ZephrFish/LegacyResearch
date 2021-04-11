@@ -1,0 +1,147 @@
+@ 86400 IN SOA ns1.internetya-s1.com. webmaster.internetya.co. 2015041403 86400 7200 604800 86400
+@ 14400 IN MX 0 utch-edu-co.mail.protection.outlook.com.
+14400 IN MX 1 @
+@ 3600 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN A 208.76.84.18
+@ 86400 IN NS ns1.internetya-s1.com.
+86400 IN NS ns2.internetya-s1.com.
+webdisk.download 3600 IN A 208.76.84.18
+www.ctei 14400 IN A 208.76.84.18
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDv+tNnpO5Vl5IcfgDkg0USS0R33m5n/UUmcezgfItzvj4dR9Z2427o3jUnVWQzW7fkliJuJGs27XojWqQCaWWW4uC2Rv0BpgCMNs+5rQze6EG0eUNRoWe0ObUsjAN7G/hNV+mvIZr7smAMnsEkxR9Qj9/aUFIUmkZxBIQiHEscyQIDAQAB;"
+_autodiscover._tcp.mi 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+revista 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+revista 3600 IN A 208.76.84.18
+oficinavirtual 14400 IN CNAME academia
+moodle 14400 IN A 190.66.25.18
+academia 14400 IN A 190.66.25.18
+webdisk.editorial 3600 IN A 208.76.84.18
+autodiscover.eduvirtual 3600 IN A 208.76.84.18
+_autodiscover._tcp.download 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+default._domainkey.revista 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4RMGVk7+I34Ab6se6ytm8WjO6O5mu8goa5HAqpy9EU8w6aLv721s2nLwh44S8QOyVcDr5FfTE5huJJwhUKDmFsT8trgZAP2Z2f8plP61goEusGpK209XQayqtde1POwZbsHWEGz4B0jpNJBPxbE/rECt/mUASy0hsKBVhqfeZEwIDAQAB;"
+autoconfig.eduvirtual 3600 IN A 208.76.84.18
+mi 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+mi 3600 IN A 208.76.84.18
+webdisk.micorreo 3600 IN A 208.76.84.18
+reportes 14400 IN CNAME academia
+autoconfig.etc 3600 IN A 208.76.84.18
+default._domainkey.download 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC55LGBMnwiDFyr5VcvNylAiW48RMhp/cZ1wHG8Sl2TfHVN9qFKAHi2drKkgbd6JsbM08xZdKFU+0Flzcbb2M651seB6Ph+icXVGGHzE/xLGwcEXRF+jW7Zi0TIYdfDC3XZtnwnDlMpHARIRIf+X8edpavn5PM6e5lzz7ziHlxr7wIDAQAB;"
+www 3600 IN A 208.76.84.18
+www.permanencia 3600 IN A 208.76.84.18
+prestamos 14400 IN CNAME academia
+coleccionesbiologicas 1440 IN CNAME academia
+autodiscover.etc 3600 IN A 208.76.84.18
+sgi 14400 IN A 190.66.25.18
+etc 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+etc 3600 IN A 208.76.84.18
+_autodiscover._tcp.micorreo 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.eluniversitario 14400 IN CNAME academia
+_autodiscover._tcp.web 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+sia 14400 IN CNAME academia
+autodiscover.mi 3600 IN A 208.76.84.18
+sie 14400 IN A 190.66.25.18
+sii 14400 IN A 190.66.25.18
+diagnostico 14400 IN A 190.66.25.18
+sis 14400 IN A 190.66.25.18
+webmail 3600 IN A 208.76.84.18
+audiencia 14400 IN CNAME academia
+default._domainkey.micorreo 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtAQnnh4PbjBvXr30f6eSFdvWqgw/iFrZ7OVeeMHxiX3kUNGQVHh2nRN6GJCFaTZrrYwxlAdvXjV+PuG/snEP+rAiPEJzbRY8U3w083zAwoHtZESEgZYS+YhYz0EGxPYPe8+H4Ch7TUNam1ZodQqJTxis5JKLzt4QgQHoGDoB5cQIDAQAB;"
+saber 14400 IN CNAME academia
+ctei 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.84.18 ~all"
+ctei 14400 IN A 208.76.84.18
+prueba 14400 IN A 190.66.25.18
+www.mi 3600 IN A 208.76.84.18
+webdisk.soporte 3600 IN A 208.76.84.18
+webdisk.eduvirtual 3600 IN A 208.76.84.18
+autoconfig.editorial 3600 IN A 208.76.84.18
+default._domainkey.eduvirtual 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+O2CK9Wup84U7n1xz90dUVUt+fP0+Aqy2SAIfAj5eprrRsgfyNQjD0yvIbLjsjjHGjEZxF1IlvLs/YZO29EyeVfgBWRqZYCBnvFQYkKPjxbfOUtpuPelKwQK91toO78BN7H0Yy6Ag+hp7VT1KMs9wTktt546Ol7wRcifLo2+EywIDAQAB;"
+sra 14400 IN A 190.66.25.18
+sgp 14400 IN A 190.66.25.18
+_autodiscover._tcp.etc 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+ryc 14400 IN CNAME academia
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+default._domainkey.etc 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDv3ODIJmZ3zv3GpCa0OuSUQQ4HTWmG4gSEUbJU6Fam+M8ABuhUYKxNW1pDL13e9lsyKIkmj7kZ8GyL8dRnlAoE0bbE6nxHq3FQGSdUzTLY+0dPqLEyqC4n6dZrQPBwXjSWPoQhtz/ghZohrO7HzdUeHYbx97SdxRopTvTF+wblkQIDAQAB;"
+permanencia 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+permanencia 3600 IN A 208.76.84.18
+eduvirtual 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+eduvirtual 3600 IN A 208.76.84.18
+eadutch 14400 IN CNAME academia
+ftp 14400 IN CNAME mail
+cpanel 3600 IN A 208.76.84.18
+archivo 14400 IN CNAME academia
+eluniversitario 14400 IN CNAME academia
+sri 14400 IN A 190.66.25.18
+default._domainkey.editorial 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRPnKvfIVCafMhA9ep6ifWJJPm3umTe2VuxcWH12wspiC7SxDUAiuYCq5tFiS0f/FNzpOT761QZGsx/x/1ah2+RCHeKzMZzA4ewB7ipQXbE02J4Z5B0j+tR7ajWfN3SZw/yW1XtykY1kgV2hHvGcdcVkfEbqHzDe+duf7Ae7RUQwIDAQAB;"
+editorial 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+editorial 3600 IN A 208.76.84.18
+webdisk.mi 3600 IN A 208.76.84.18
+www.web 3600 IN A 208.76.84.18
+autoconfig.mi 3600 IN A 208.76.84.18
+autodiscover.web 3600 IN A 208.76.84.18
+localhost 14400 IN A 127.0.0.1
+carrera 14400 IN CNAME academia
+bienestar 14400 IN CNAME academia
+autodiscover.micorreo 3600 IN A 208.76.84.18
+webdisk.web 3600 IN A 208.76.84.18
+download 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+download 3600 IN A 208.76.84.18
+webdisk.ctei 14400 IN A 208.76.84.18
+www.soporte 14400 IN A 190.66.25.18
+ns1 14400 IN A 190.66.25.18
+ns2 14400 IN A 181.143.38.219
+_autodiscover._tcp.soporte 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+fact 14400 IN A 190.66.25.18
+sip 3600 IN CNAME sipdir.online.lync.com.
+sib 14400 IN A 190.66.25.18
+autoconfig.download 3600 IN A 208.76.84.18
+mail 3600 IN A 208.76.84.18
+micorreo 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+micorreo 14400 IN A 208.76.84.18
+sased 14400 IN A 190.66.25.18
+docencia 14400 IN CNAME academia
+facturacion 14400 IN A 190.66.25.18
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+default._domainkey.ctei 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAW+pJ5oyJm7hJFHU6B42OLAYRqlFdvINNH1qlVKmRv/C6643NlSx6l0ev4LPZGuo33rSqq6qfSDN6UzvpdKA64czx1cmZDjR3S6f5oys0GLmgChL7Q9/0/WEB0Dw/9F4IFKnYb1L9rjHsSAOU/MNflGs7ZPzn+DY+elOBcqceZQIDAQAB;"
+ole 14400 IN CNAME academia
+default._domainkey.permanencia 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD0wkpZPabobIkrg/qPnZ06UhyutQKJJHOh1LDRa28LXNdKgsRmVmvfPx78M5DWsNRYvFjazYF/UVKTDl5rnIIi1/KFQ5vTOHDPFYUEikfrznK4XIle5XVeXBoMscdUutaqwdqUj/iPXdzRn19FvRHFnnyKs6WiISqgr9iRRJXNbwIDAQAB;"
+www.eduvirtual 3600 IN A 208.76.84.18
+_autodiscover._tcp.permanencia 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+webdisk.permanencia 3600 IN A 208.76.84.18
+produccion 14400 IN CNAME academia
+autoconfig.micorreo 3600 IN A 208.76.84.18
+www.revista 3600 IN A 208.76.84.18
+autoconfig.web 3600 IN A 208.76.84.18
+autodiscover.soporte 3600 IN A 208.76.84.18
+www.download 3600 IN A 208.76.84.18
+_autodiscover._tcp.revista 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+aplanos 14400 IN CNAME academia
+siegre 14400 IN CNAME academia
+web 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+web 3600 IN A 208.76.84.18
+soporte 14400 IN TXT "v=spf1 +a +mx +ip4:208.76.87.12 ~all"
+soporte 3600 IN A 208.76.84.18
+bancos 14400 IN CNAME academia
+talentohumano 14400 IN A 190.66.25.18
+www.etc 3600 IN A 208.76.84.18
+social 14400 IN A 190.66.25.18
+email 14400 IN CNAME outlook.com.
+whm 3600 IN A 208.76.84.18
+autodiscover.download 3600 IN A 208.76.84.18
+default._domainkey.soporte 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHRcbHJ+w0kfLi9ZXsPL5zTj2QIYtrn54dI+4z4thiiECrps/89nSOJNbD/cXEOP0SHGWSoUrZA/6QO1tMkenGEO17fjwfyItc5MHQpkEtqXse7skUcBJNPOYtiWhnYzsKCgxu82j3QFOXX8v4osi/5SqlMJlDWcA+qrgDTJgVWQIDAQAB;"
+www.micorreo 14400 IN A 208.76.84.18
+webdisk 3600 IN A 208.76.84.18
+www.editorial 3600 IN A 208.76.84.18
+webdisk.etc 3600 IN A 208.76.84.18
+default._domainkey.mi 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+g2uNw5MG0dFrS61i1Ya9X2PbqNaHCIv5pzruB2WawXoBs3d9spsxHGHbmD1IvwC91ihUhPSLAMjw/Q8okdQBtYACLviLLgdGjgBuca/1Y/Eg6QGLqYtOjurWppSHxqI+H4hPvoOb1eIOGw6IlnxlTags17DeFa50FTU6a3YwqQIDAQAB;"
+autodiscover.permanencia 3600 IN A 208.76.84.18
+_autodiscover._tcp.editorial 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.soporte 3600 IN A 208.76.84.18
+autodiscover.editorial 3600 IN A 208.76.84.18
+default._domainkey.web 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7Njtnfs5TZPx1lQXZqxxAvfqTsxrMn+jkxiA5Bab4XNSk7DFBuQ+uYM2f7uCQlT/HdvyaqFX442VK3+8bcroB+Rd4j8Ol+JDbmEXMFsiFBgKifaGlkL+sSZ4h2G1Uvw71NXGfCEuOpSXLW8sDWvMdyPk8g3uO8GXGYezcrUGcmwIDAQAB;"
+biochoco 14400 IN A 190.66.25.18
+portal 3600 IN A 190.66.25.18
+_autodiscover._tcp.eduvirtual 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.permanencia 3600 IN A 208.76.84.18
+corporaloteca 14400 IN A 190.66.25.22
+cateos 14400 IN CNAME academia

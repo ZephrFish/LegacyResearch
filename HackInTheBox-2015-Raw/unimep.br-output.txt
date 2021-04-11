@@ -1,0 +1,117 @@
+@ 86400 IN SOA iepns root.iepns 2015032600 7200 7200 2419200 86400
+@ 86400 IN NS iepns
+86400 IN NS iepns2
+@ 14400 IN A 177.125.183.21
+@ 86400 IN MX 0 iepsmtp
+@ 86400 IN TXT "v=spf1 ip4:177.125.183.0/24 ip4:177.43.212.160/29 -all"
+smtp 86400 IN CNAME iepsmtp2
+gwieptaq 86400 IN A 10.1.0.1
+iepteste 86400 IN A 10.8.200.200
+iepcen 86400 IN A 10.2.0.6
+wifi 86400 IN CNAME iepfire
+gwiepncc 86400 IN A 10.1.0.70
+iepmail 86400 IN MX 0 iepmail
+iepmail 86400 IN A 177.125.183.21
+www.bkp3.online 86400 IN A 200.18.245.79
+miep-taq 86400 IN CNAME iep-taq
+pop3 86400 IN CNAME iepmail
+gama 86400 IN A 10.1.0.9
+www.bkp2.online 86400 IN A 177.125.183.39
+iepimg 86400 IN A 10.1.0.14
+45anos 86400 IN CNAME iepmail2
+cluster 86400 IN A 177.125.183.53
+www.pro.online 86400 IN A 177.125.183.26
+iepimp 86400 IN A 10.1.0.19
+achalm.scpm 86400 IN CNAME scpm
+www 86400 IN CNAME iepmail
+iepwifi 86400 IN A 10.18.0.3
+dzc 86400 IN TXT "Derqx89"
+dzc 86400 IN A 177.125.183.70
+www.bkp.online 86400 IN A 177.125.183.38
+alfa 86400 IN A 10.1.0.7
+listas 86400 IN CNAME iepmail
+iepns 86400 IN MX 0 iepns
+iepns 86400 IN A 177.125.183.19
+iepdes 86400 IN A 10.1.0.63
+iepcpd 86400 IN A 10.1.0.16
+iepimgc 86400 IN A 10.2.0.17
+www.cce 86400 IN CNAME fcti
+iepvpn 86400 IN A 177.125.183.35
+www.bkp2 86400 IN CNAME iepmail
+www.bkp3 86400 IN CNAME iepmail
+iepsamba 86400 IN A 10.1.0.98
+iepimgs 86400 IN A 10.8.0.2
+m 86400 IN CNAME iepmail
+gpai 86400 IN AAAA 2001:1291:200:231::2
+gpai 86400 IN A 177.125.183.46
+iepbacc 86400 IN A 10.2.0.4
+iepbacl 86400 IN A 10.4.0.4
+ieppro 86400 IN A 10.1.0.3
+aquila 86400 IN A 177.125.183.67
+nassauer 86400 IN A 177.125.183.68
+iepimpc 86400 IN A 10.2.0.19
+gwiepcen 86400 IN A 10.2.0.1
+iepimpl 86400 IN A 10.4.0.19
+localhost 86400 IN A 127.0.0.1
+iepimps 86400 IN A 10.8.0.19
+ftp 86400 IN CNAME iepmail
+epsilon 86400 IN A 10.1.0.28
+www.bkp 86400 IN CNAME iepmail
+andechs 86400 IN A 177.125.183.66
+www.toes 86400 IN CNAME www.cadastronacional.abepro
+proxy 86400 IN CNAME iepproxy
+autodiscover.scpm 86400 IN CNAME scpm
+www2 86400 IN CNAME iepmail2
+www.des 86400 IN CNAME iepmail
+aerohive 86400 IN A 10.18.0.2
+miep-cen 86400 IN CNAME iep-cen
+guiche 86400 IN CNAME lattes
+srvncc-emb 86400 IN A 177.125.183.51
+alpha 86400 IN A 177.125.183.52
+www.ead 86400 IN CNAME iepmail
+iepsbo 86400 IN A 10.8.0.6
+iepfire 86400 IN A 177.125.183.17
+ocs 86400 IN CNAME iepmail2
+ieplin 86400 IN A 10.4.0.6
+www.galeria 86400 IN CNAME iepmail
+#wpad 86400 IN CNAME iepmail
+delta 86400 IN A 10.1.0.10
+www.pro 86400 IN CNAME iepmail
+scpm 86400 IN MX 0 in-mig02.hes.trendmicro.com.
+scpm 86400 IN A 177.125.183.70
+iepsmtp2 86400 IN MX 0 iepsmtp2
+iepsmtp2 86400 IN A 177.125.183.24
+mail.scpm 86400 IN CNAME scpm
+ftp2 86400 IN CNAME iepmail2
+ieptaq 86400 IN A 10.1.0.6
+www.teste 86400 IN CNAME iepmail
+imap 86400 IN CNAME iepmail
+lecc 86400 IN CNAME cluster
+iepsmtp 86400 IN MX 0 iepsmtp
+iepsmtp 86400 IN A 177.125.183.23
+beta 86400 IN A 10.1.0.8
+www.45anos 86400 IN CNAME iepmail2
+iepproxy 86400 IN A 177.125.183.36
+iepmysql 86400 IN A 10.1.0.5
+bkp3.online 86400 IN CNAME www.bkp3.online
+iepbac 86400 IN A 10.1.0.18
+iepmail2 86400 IN MX 0 iepmail2
+iepmail2 86400 IN A 177.125.183.41
+vpn 86400 IN A 177.125.183.40
+webradio 86400 IN A 177.125.183.44
+gwiepsbo 86400 IN A 10.8.0.1
+ead 86400 IN CNAME iepmail
+iepwific 86400 IN A 10.21.0.3
+gwieplin 86400 IN A 10.4.0.1
+ts-csc 86400 IN A 10.11.193.27
+iepfirec 86400 IN A 10.2.0.2
+iepns2 86400 IN MX 0 iepns2
+iepns2 86400 IN A 177.125.183.20
+www.des.online 86400 IN A 177.125.183.25
+iepfirel 86400 IN A 10.4.0.2
+iepwifil 86400 IN A 10.22.0.3
+iepwifis 86400 IN A 10.19.0.3
+miep-lin 86400 IN CNAME iep-lin
+iepbd 86400 IN A 10.1.0.4
+bitdefender 86400 IN A 10.1.0.87
+ftp.cce 86400 IN CNAME fcti

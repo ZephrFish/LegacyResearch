@@ -1,0 +1,7 @@
+@ 86400 IN SOA ns.balasai.com. support.balasai.com. 2012091500 10800 3600 604800 86400
+@ 86400 IN NS ns.balasai.com.
+86400 IN NS ns2.balasai.com.
+@ 600 IN A 203.199.134.28
+@ 86400 IN MX 10 mail
+mail 86400 IN A 210.212.169.36
+www 600 IN CNAME @

@@ -1,0 +1,16 @@
+@ 3600 IN SOA ns1.wsigenesis.com. noc.wsigenesis.com. 3358100 3600 7200 2419200 3600
+@ 3600 IN MX 10 webmail
+@ 3600 IN TXT "v=spf1 a mx ip4:54.187.11.26 ip4:54.187.233.147 ip4:54.187.45.34 ip4:54.186.70.78 ip4:54.186.70.78 ~all"
+3600 IN TXT "v=spf1 a mx ip4:54.187.11.26 ip4:54.187.233.147 ip4:54.187.45.34 ip4:54.186.70.78 ip4:54.186.70.78 include:outlook.com ~all"
+@ 3600 IN A 54.186.70.78
+@ 3600 IN NS ns1.wsigenesis.com.
+3600 IN NS ns2.wsigenesis.com.
+749665379.email 3600 IN CNAME domains.live.com.
+webmail 3600 IN A 37.200.229.26
+ftp 3600 IN CNAME @
+idp 3600 IN A 37.200.229.25
+www 3600 IN CNAME @
+autodiscover.email 3600 IN CNAME autodiscover.outlook.com.
+email 3600 IN MX 10 749665379.mail.outlook.com.
+autodiscover 3600 IN CNAME webmail
+moodle 3600 IN A 37.200.229.24

@@ -1,0 +1,37 @@
+@ 3600 IN SOA ns1.edu.bb. dnsadmin.cavehill.uwi.edu. 2015030902 1200 600 1209600 3600
+@ 3600 IN MX 0 778394749.mail.outlook.com.
+@ 3600 IN NS ns1.uwimona.edu.jm.
+3600 IN NS ns2.uwi.edu.
+3600 IN NS ns2.edu.bb.
+3600 IN NS ns1.edu.bb.
+3600 IN NS ns4.uwi.edu.
+@ 3600 IN A 205.214.198.204
+ns4.uwi.edu. 3600 IN A 192.65.160.8
+nmc 3600 IN A 205.214.198.252
+barbadosseaturtles 3600 IN A 205.214.198.204
+law 3600 IN CNAME www
+ras2 3600 IN A 205.214.198.253
+scmr 3600 IN CNAME www
+culp 3600 IN CNAME webct
+778394749 3600 IN CNAME domains.live.com.
+ns1.edu.bb. 3600 IN A 192.171.127.224
+ns1.uwimona.edu.jm. 3600 IN A 196.2.1.2
+chsb 3600 IN A 192.171.127.72
+pop 3600 IN CNAME mailhub
+test 3600 IN NS ns1.edu.bb.
+3600 IN NS ns2.edu.bb.
+3600 IN NS ns1.uwimona.edu.jm.
+3600 IN NS ns1.dec.uwi.edu.
+3600 IN NS ns2.uwi.edu.
+ftp 3600 IN CNAME www
+www 3600 IN CNAME activewebsrv.cavehill.uwi.edu.
+radius 3600 IN A 192.171.127.58
+scitec 3600 IN CNAME activewebsrv.cavehill.uwi.edu.
+athena 3600 IN A 205.214.198.206
+ns2.uwi.edu. 3600 IN A 64.28.143.8
+gender 3600 IN CNAME activewebsrv.cavehill.uwi.edu.
+ns2.edu.bb. 3600 IN A 192.171.127.225
+electronics300 3600 IN A 192.171.127.142
+www2 3600 IN A 192.171.127.120
+mainlibrary 3600 IN CNAME www
+electronics200 3600 IN A 192.171.127.143

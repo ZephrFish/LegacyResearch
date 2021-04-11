@@ -1,0 +1,10 @@
+@ 86400 IN SOA members.nexlinx.net.pk members.nexlinx.net.pk. 23 14400 3600 604800 86400
+@ 86400 IN NS ns1.nexlinx.net.pk.
+86400 IN NS ns2.nexlinx.net.pk.
+86400 IN NS xenon.nexlinx.net.
+86400 IN NS columbia.nexlinx.net.
+@ 86400 IN A 202.59.89.39
+@ 86400 IN MX 10 niabmail
+86400 IN MX 20 queue.nexlinx.net.pk.
+niabmail 86400 IN A 202.59.89.106
+www 86400 IN A 202.59.89.38

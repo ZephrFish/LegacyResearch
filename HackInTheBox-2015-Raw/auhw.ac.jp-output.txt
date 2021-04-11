@@ -1,0 +1,24 @@
+@ 86400 IN SOA sun postmaster 2015012201 3600 300 3600000 3600
+@ 86400 IN NS sun
+86400 IN NS moya.gw.hirosaki-u.ac.jp.
+@ 86400 IN MX 10 pisces
+ym.auhw.ac.jp 86400 IN TXT "v=spf1 include:yahoo.co.jp~all"
+a-plus 86400 IN A 210.156.49.144
+volans 86400 IN A 210.156.49.161
+researcher 86400 IN A 210.156.49.19
+cprip 86400 IN MX 10 x165.secure.ne.jp.
+campusj-sv-global 86400 IN A 210.156.49.12
+localhost 86400 IN A 127.0.0.1
+pisces 86400 IN A 210.156.49.162
+cna 86400 IN A 157.7.163.196
+sun 86400 IN A 210.156.49.132
+library 86400 IN A 210.156.49.61
+weblearning2 86400 IN A 210.156.49.18
+capricorn 86400 IN A 157.7.163.196
+ceres 86400 IN A 210.156.49.2
+ym 86400 IN MX 10 ptnmx1.mail.yahoo.co.jp.
+weblearning 86400 IN A 210.156.49.17
+virgo 86400 IN A 210.156.49.52
+spica 86400 IN A 210.156.49.160
+campusj-sv 86400 IN A 210.156.49.12
+www 86400 IN A 157.7.163.196

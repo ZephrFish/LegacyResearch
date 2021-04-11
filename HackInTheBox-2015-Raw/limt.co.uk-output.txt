@@ -1,0 +1,12 @@
+@ 86400 IN SOA ns16.webmasters.com. admin.webmasters.com. 952591097 10800 3600 604800 86400
+@ 86400 IN MX 10 mail
+@ 86400 IN TXT "v=spf1 ip4:66.230.196.59 ~all"
+@ 86400 IN NS ns15.webmasters.com.
+86400 IN NS ns16.webmasters.com.
+@ 86400 IN A 66.230.196.62
+joomla 86400 IN A 66.230.196.60
+www 86400 IN A 66.230.196.62
+mak 86400 IN A 66.230.196.60
+mail 86400 IN A 66.230.196.59
+training 86400 IN A 66.230.196.60
+limtdirect 86400 IN A 66.230.196.60

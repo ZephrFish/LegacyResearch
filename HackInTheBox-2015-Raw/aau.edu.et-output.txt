@@ -1,0 +1,45 @@
+@ 3600 IN SOA ns5 nsadmin 2011111802 7200 3600 1209600 3600
+@ 3600 IN A 213.55.95.5
+3600 IN A 213.55.95.15
+@ 3600 IN NS ns1
+3600 IN NS ns4
+3600 IN NS ns5
+3600 IN NS ns6
+@ 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 2 alt1.aspmx.l.google.com.
+3600 IN MX 3 alt2.aspmx.l.google.com.
+3600 IN MX 4 aspmx2.googlemail.com.
+3600 IN MX 5 aspmx3.googlemail.com.
+3600 IN MX 6 aspmx4.googlemail.com.
+nagios 3600 IN A 213.55.95.62
+dlib 3600 IN A 213.55.95.57
+alpha 3600 IN A 213.55.95.54
+ns1 3600 IN A 213.55.95.6
+ns4 3600 IN A 213.55.95.16
+ns5 3600 IN A 213.55.95.17
+ns6 3600 IN A 213.55.95.18
+ieslib 3600 IN A 213.55.95.102
+libcat 3600 IN A 213.55.95.55
+www.ece 3600 IN A 213.55.95.29
+kaliti.aau.edu.et 3600 IN CNAME ns1
+trainisim 3600 IN A 213.55.95.95
+www.vet 3600 IN A 213.55.95.7
+insar1.sc 3600 IN A 213.55.95.59
+ejol.aau.edu.et 3600 IN A 213.55.95.79
+addishpc 3600 IN A 213.55.95.31
+enr 3600 IN A 213.55.95.103
+dis 3600 IN A 213.55.95.47
+www.sc 3600 IN A 213.55.95.118
+www 3600 IN A 213.55.95.5
+3600 IN A 213.55.95.15
+entoto 3600 IN A 213.55.95.17
+ece 3600 IN A 213.55.95.29
+eldis 3600 IN A 213.55.95.47
+ishare 3600 IN A 213.55.95.98
+portal 3600 IN A 213.55.95.96
+wenchi.aau.edu.et 3600 IN CNAME ns5
+etd 3600 IN A 213.55.95.56
+sc 3600 IN A 213.55.95.118
+weather 3600 IN A 213.55.95.19
+lucy.aau.edu.et 3600 IN CNAME ns6
+kolfe.aau.edu.et 3600 IN CNAME ns4

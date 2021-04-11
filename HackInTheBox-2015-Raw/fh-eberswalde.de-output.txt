@@ -1,0 +1,71 @@
+@ 86400 IN SOA ns @ 2001063296 86400 28800 604800 86400
+@ 86400 IN A 80.78.168.123
+@ 3600 IN NS ns.telta.de.
+3600 IN NS ns
+3600 IN NS ns2.telta.de.
+@ 86400 IN MX 5 assp
+86400 IN MX 10 edge2008
+@ 86400 IN TXT "v=spf1" "mx" "ptr:hnee.de" "mx:edge2008.fh-eberswalde.de" "ip4:80.78.168.0/24" "a:hnee.de" "-all" ""
+@ 86400 IN RP sys_mail\@fh-eberswalde.de. administrator.
+webmail2 86400 IN CNAME exchange2007
+imap2 86400 IN CNAME exchange2007
+bfh-auth 86400 IN A 80.78.168.7
+maps11 86400 IN A 80.78.168.131
+imap 86400 IN CNAME exchange2007
+mediasite 86400 IN A 80.78.168.124
+outlook 86400 IN CNAME exchange2007
+mediaserver 86400 IN A 80.78.168.125
+pop3 86400 IN CNAME exchange2007
+pop 86400 IN CNAME exchange2007
+assp 86400 IN A 80.78.168.44
+cms 86400 IN A 80.78.168.122
+dschungeltour 86400 IN A 80.78.168.112
+umfrage 86400 IN A 141.89.67.100
+lanuweb 86400 IN A 80.78.168.30
+prsv-fbg 86400 IN A 80.78.168.43
+bfh-inst7 86400 IN A 80.78.168.9
+hne 86400 IN A 80.78.168.123
+vpn2 86400 IN A 80.78.168.110
+bibsv1679 86400 IN A 80.78.168.18
+owa 86400 IN CNAME exchange2007
+itsv903 86400 IN A 80.78.168.27
+mail 86400 IN CNAME exchange2007.hnee.de.
+vpn 86400 IN A 80.78.168.11
+prsv-pvfassade 86400 IN A 80.78.168.38
+rackstation2013 86400 IN A 80.78.168.133
+autodiscover 86400 IN CNAME exchange2007
+bfh-web 86400 IN A 80.78.168.8
+elearning 86400 IN A 80.78.168.39
+htwk838 86400 IN A 80.78.168.37
+ifeitmodel 86400 IN A 80.78.168.31
+owncloud 86400 IN A 80.78.168.152
+edge 86400 IN A 80.78.168.48
+ifeitweb 86400 IN A 80.78.168.33
+webmail 86400 IN CNAME exchange2007
+ftp 86400 IN CNAME www6
+www 86400 IN CNAME hne
+emma 86400 IN A 80.78.168.103
+ns 86400 IN A 80.78.168.10
+opac 86400 IN A 80.78.168.18
+lync2013 86400 IN CNAME lync2013
+dschungeltour-eberswalde 86400 IN CNAME dschungeltour
+www5 86400 IN CNAME bibsv1679
+visibil 86400 IN A 80.78.168.85
+exchange2007 86400 IN A 80.78.168.16
+edge2008 86400 IN A 80.78.168.4
+bewerbung 86400 IN A 80.78.168.20
+mmonline 86400 IN A 80.78.168.29
+edit 86400 IN CNAME cms
+alumni 86400 IN CNAME www6
+www2 86400 IN CNAME itsv903
+www3 86400 IN CNAME mmonline
+www4 86400 IN CNAME hne
+oab 86400 IN CNAME exchange2007
+www6 86400 IN A 80.78.168.121
+sp-web01 86400 IN A 80.78.168.103
+intranet 86400 IN CNAME cms
+fobo 86400 IN CNAME prsv-fbg
+maps 86400 IN CNAME itsv903
+smtp 86400 IN CNAME exchange2007.hnee.de.
+ilias 86400 IN CNAME elearning
+mathephysik 86400 IN A 80.78.168.32

@@ -1,0 +1,46 @@
+@ 1800 IN SOA avenue postmaster 2015042301 900 1800 3600000 1800
+@ 1800 IN TXT "MS=ms85199098"
+1800 IN TXT "v=spf1 include:spf.protection.outlook.com +ip4:210.154.56.66 +ip4:210.230.217.209 +ip4:114.179.13.209 -all"
+@ 1800 IN NS avenue
+1800 IN NS ns-tk011.ocn.ad.jp.
+@ 1800 IN MX 0 tokai-ac-jp.mail.protection.outlook.com.
+sip 1800 IN CNAME sipdir.online.lync.com.
+press 1800 IN NS ns0.cpi.ad.jp.
+1800 IN NS ns1.cpi.ad.jp.
+search.fuzoku-hosp 1800 IN A 180.233.133.43
+kouyu 1800 IN A 211.5.209.224
+kouyu 1800 IN MX 10 kouyu
+search 1800 IN A 180.233.133.43
+www.fuzoku-hosp 1800 IN A 211.133.244.88
+ext 1800 IN A 124.108.39.224
+ext 1800 IN MX 20 mail.ext
+cache 1800 IN A 210.154.56.68
+* 1800 IN MX 20 avenue
+avenue 1800 IN A 210.154.56.66
+trace-db 1800 IN A 198.66.243.98
+trace-db 1800 IN MX 20 trace-db
+tes 1800 IN A 210.154.56.67
+autodiscover 1800 IN CNAME autodiscover.outlook.com.
+avenue2 1800 IN A 210.154.56.69
+webmail.ext 1800 IN CNAME ext
+timeweb 1800 IN A 210.154.56.78
+webkaigi 1800 IN A 210.154.56.73
+ried 1800 IN NS nsv.ycc.u-tokai.ac.jp.
+www.75th 1800 IN A 202.74.16.206
+lyncdiscover 1800 IN CNAME webdir.online.lync.com.
+test.www 1800 IN A 211.133.244.86
+*.kouyu 1800 IN CNAME kouyu
+mail.ext 1800 IN A 124.108.39.224
+_sipfederationtls._tcp 1800 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 1800 IN A 211.133.244.88
+75th 1800 IN A 202.74.16.206
+pr 1800 IN NS dns4.dion.ne.jp.
+1800 IN NS wgl01.cmpj.co.jp.
+_sip._tls 1800 IN SRV 100 1 443 sipdir.online.lync.com.
+hachioji-hosp 1800 IN NS avenue
+1800 IN NS kamome.u-tokai.ac.jp.
+test.www.fuzoku-hosp 1800 IN A 211.133.244.86
+ftp.75th 1800 IN A 202.74.16.206
+ftptes 1800 IN CNAME tes
+www.kouyu 1800 IN CNAME kouyu
+sslvpn 1800 IN A 210.154.56.74

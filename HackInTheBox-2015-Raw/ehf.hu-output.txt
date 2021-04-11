@@ -1,0 +1,3 @@
+@ 86400 IN SOA ns2.iif.hu. hostmaster.iif.hu. 2015012002 43200 14400 2592000 86400
+@ 86400 IN NS ns2.iif.hu.
+86400 IN NS ns2.sztaki.hbone.hu.

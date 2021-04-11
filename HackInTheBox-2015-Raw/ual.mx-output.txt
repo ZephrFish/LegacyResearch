@@ -1,0 +1,34 @@
+@ 3600 IN SOA @ rpalma 1 604800 86400 2419200 604800
+@ 3600 IN TXT "MS=ms87296545"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN MX 0 ual-mx.mail.protection.outlook.com.
+@ 3600 IN NS dns
+3600 IN NS @
+@ 3600 IN A 200.23.18.1
+aguila.noc 3600 IN A 189.206.112.18
+sip 3600 IN CNAME sipdir.online.lync.com.
+tecnologia 3600 IN A 189.206.112.18
+www.ead 3600 IN CNAME aleto.ead
+sacre.frecuencia 3600 IN A 189.206.112.23
+noc 3600 IN A 189.206.112.18
+nube 3600 IN A 189.206.113.109
+inalambrico.noc 3600 IN CNAME inalambrico.dyndns.org.
+www.tecnologia 3600 IN CNAME tecnologia
+peregrino.admvo 3600 IN A 189.206.112.4
+www.nube 3600 IN CNAME nube
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+mail 3600 IN CNAME outlook.office365.com.
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+wiki.noc 3600 IN CNAME aguila.noc
+www.cit 3600 IN CNAME aguila.cit
+ead 3600 IN CNAME aleto.ead
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+www 3600 IN A 189.206.112.4
+www.noc 3600 IN CNAME aguila.noc
+aguila.cit 3600 IN A 189.206.112.18
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+posgrado 3600 IN A 189.206.112.18
+www.posgrado 3600 IN CNAME posgrado
+dns 3600 IN A 200.23.18.1
+www.frecuencia 3600 IN CNAME sacre.frecuencia
+aleto.ead 3600 IN A 189.206.112.17

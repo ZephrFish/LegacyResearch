@@ -1,0 +1,716 @@
+@ 3600 IN SOA dnsadmin.itea hostmaster 2015042800 28800 3600 2419200 3600
+@ 600 IN TXT "DMlJPQUn7Q3pVlNxCzjBGyOsT20ty8PoSnWtS2S9FL3E/xL6yD7opFi1ozSmELsaPFRqhZSgw8SS8l9vtQnRHA=="
+@ 60 IN MX 10 mx
+@ 60 IN A 129.241.56.200
+@ 3600 IN NS ns1
+3600 IN NS ns2
+_kerberos-adm._tcp 600 IN SRV 10 1 749 fluffy.itea
+artlab 3600 IN CNAME artlab.ark
+www.geomatikk 3600 IN CNAME semper10.itea
+pvv 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS ping.uio.no.
+3600 IN NS dvask.pvv
+studbygg 3600 IN NS ns1
+3600 IN NS ns2
+officefarm 600 IN CNAME officefarm.itea
+komm 60 IN MX 10 mx
+trd-ix-sw 3600 IN A 129.241.77.22
+www.ban 3600 IN CNAME pan.svt
+www.risklab 3600 IN A 129.241.155.33
+mdcs-2.lisens 600 IN CNAME lisensmdcs02.itea
+sslvpn1-ans 3600 IN A 129.241.221.5
+norstore-trd-irods0 600 IN CNAME norstore-trd-irods0.hpc
+renate 60 IN MX 10 mx
+mysite 600 IN A 129.241.190.61
+www.studdemt 3600 IN CNAME studallt.fa-s
+sat 60 IN CNAME ojapp01.itea
+www.ictdev 3600 IN CNAME pan.svt
+_sip._tls.sof 600 IN SRV 10 1 443 sip.sof
+personal 60 IN MX 10 mx
+exchangedelegation 600 IN TXT "6SqYZGFOgp/5geKeeKISdqFEWFQN3dw0UeQ3Er/BruE3BVoVrSzXCNjefzbV4I3LCIf3X9+tbgPIc3W3+WDAVg=="
+sfi 600 IN MX 10 mx
+delfast 3600 IN CNAME sok.itea
+apertura 3600 IN NS ns1
+3600 IN NS ns2
+_sip._tls 600 IN SRV 10 1 443 sip
+www.likt 3600 IN CNAME pan.svt
+petroleum 3600 IN CNAME iptibm1.ipt
+studdem 3600 IN NS ns1
+3600 IN NS ns2
+mysql.ansatt 60 IN CNAME arctos.itea
+jaws.lisens 3600 IN CNAME blekksprut.itea
+hsrp1-vlan916 3600 IN A 129.241.76.65
+utstyrsressurs 60 IN MX 10 mx
+hsrp1-vlan920 3600 IN A 129.241.76.81
+arken 3600 IN CNAME peggy.adm
+hsrp1-vlan924 3600 IN A 129.241.76.97
+mts-ap3 3600 IN A 129.241.196.131
+mts-ap4 3600 IN A 129.241.196.132
+sip 600 IN A 129.241.160.209
+600 IN A 129.241.160.212
+notur 3600 IN A 129.241.21.176
+notur 60 IN MX 10 mx
+iot 3600 IN NS ns1
+3600 IN NS ns2
+biotech 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+dnscache1 3600 IN AAAA 2001:700:300::200
+dnscache1 3600 IN A 129.241.0.200
+dnscache2 3600 IN AAAA 2001:700:300::201
+dnscache2 3600 IN A 129.241.0.201
+sip.sof 600 IN CNAME sip
+kerberos 600 IN CNAME fluffy.itea
+hsrp1-vlan956 3600 IN A 129.241.76.225
+devfarm 600 IN CNAME devfarm.itea
+indecol 3600 IN NS ns1
+3600 IN NS ns2
+samfunn 3600 IN NS ns1
+3600 IN NS ns2
+smtp.alumni 60 IN CNAME alumnimail01.it
+studweb 3600 IN CNAME semper18.itea
+www.elektronikk 3600 IN CNAME moby.iet
+sof 60 IN MX 10 mx
+www.studentradion 3600 IN CNAME semper3.itea
+kyb-ad01.ad.itk 3600 IN A 129.241.10.17
+tev 3600 IN NS ns1
+3600 IN NS ns2
+www.p2005 3600 IN CNAME semper10.itea
+tapir 3600 IN NS ns1
+3600 IN NS ns2
+www.ti 3600 IN CNAME pan.svt
+stash 3600 IN CNAME unicorn.itea
+cristin 600 IN CNAME semper10.itea
+sigmaplot.lisens 3600 IN CNAME itavd-kreps.itea
+starnet.lisens 3600 IN CNAME itavd-hummer.itea
+ntnu-vpn1-pub 3600 IN A 129.241.76.19
+_sip._tls.tto 600 IN SRV 10 1 443 sip.tto
+_sipfederationtls._tcp.kit 600 IN SRV 10 1 5061 sip.kit
+wlan 3600 IN NS ns1
+3600 IN NS ns2
+www.bioethics 3600 IN CNAME mime.hf
+universitetsavisa 3600 IN CNAME semper11.itea
+kerberos-1 600 IN CNAME fang.itea
+www.hunt 3600 IN CNAME semper10.itea
+www.eksplosiv 3600 IN CNAME www.nt
+hyll.item 3600 IN A 129.241.200.3
+flop 3600 IN A 129.241.183.13
+svt 3600 IN NS ns1
+3600 IN NS ns2
+www.indicco 3600 IN CNAME indicco.marin
+arcgis-3.lisens 3600 IN CNAME lisensarcgis03.itea
+nettopp 3600 IN CNAME semper10.itea
+telesentral 3600 IN NS ns1
+3600 IN NS ns2
+webedittest 600 IN CNAME ferdivif.itea
+rapport.tto 3600 IN CNAME cymric.itea
+maple.lisens 3600 IN CNAME rumle.itea
+studentprest 60 IN MX 10 mx
+svt2 3600 IN MX 5 atlas.svt
+www.bevegelsesvitenskap 3600 IN CNAME pan.svt
+sip.tto 600 IN CNAME sip
+arcgis-1.lisens 3600 IN CNAME lisensarcgis01.itea
+clue.lisens 600 IN CNAME itavd-krill.itea
+dev.innsida 3600 IN CNAME semper13.itea
+mail 60 IN AAAA 2001:700:300:3::108
+60 IN AAAA 2001:700:300:3::110
+60 IN AAAA 2001:700:300:3::132
+60 IN AAAA 2001:700:300:3::133
+mail 60 IN A 129.241.56.108
+60 IN A 129.241.56.110
+60 IN A 129.241.56.132
+60 IN A 129.241.56.133
+autodiscover.utstyrsressurs 600 IN CNAME mail
+tto 600 IN A 5.145.153.8
+tto 60 IN MX 10 mx
+tirpitz.ed 3600 IN A 129.241.42.2
+support-test.videre 600 IN CNAME it-supertest.it
+avviktest 600 IN CNAME leica.itea
+avvikupgrade 600 IN CNAME canon.itea
+syllaweb 3600 IN CNAME lobby.itea
+poseidon.orakel 3600 IN A 129.241.14.60
+_nfsv4idmapdomain 600 IN TXT "ntnu.no"
+www.ehr 3600 IN CNAME semper10.itea
+testfix_2014._domainkey 600 IN TXT "v=DKIM1; g=*; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDubkB9Nky3E2zI0ec+synO3xpb75RvPaw5erLUDhHX8xywPZpwCXPZdhhHgCOAoOgf78Kype/gswRVL47MGRwMFRXwZ6Z7UyoEpMnnVpNGTqr+S3SI005EYrOAXV2WtHGR6QAoCMRHkTZwC9GFHy78ShidG+Vi3KLgynXCvaFgxwIDAQAB"
+_sip._tls.fusjon 600 IN SRV 10 1 443 sip.fusjon
+www.eit 3600 IN CNAME semper10.itea
+bygg 3600 IN NS ns1
+3600 IN NS ns2
+win-dc3.win 3600 IN A 129.241.18.27
+vm 3600 IN NS ns1
+3600 IN NS ns2
+hjarl-270-ipmux 3600 IN A 129.241.26.210
+www.bindeleddet 3600 IN CNAME bindeleddet.stud.iot
+www.geolf 3600 IN CNAME semper10.itea
+www.origo 3600 IN CNAME semper10.itea
+ftp.intersek 3600 IN CNAME saint02.adm
+math 3600 IN NS ns.math
+3600 IN NS ns1
+3600 IN NS ns2
+basware 600 IN CNAME itavd-shepard.itea
+www.exphil 3600 IN CNAME mime.hf
+ringve-sa 3600 IN A 129.241.196.184
+lyncdiscover.kit 600 IN CNAME lyncdiscover
+lyncwebext.sof 600 IN CNAME lyncwebext
+caldav.ansatt 600 IN CNAME ntnu-caldav.itea
+utskrift 3600 IN NS ns1
+3600 IN NS ns2
+projects 600 IN A 129.241.59.100
+www.renate 600 IN CNAME semper10.itea
+_sip._tls.kit 600 IN SRV 10 1 443 sip.kit
+pgroup-2.lisens 600 IN CNAME dolor.itea
+www.velferdstinget 3600 IN CNAME studallt.fa-s
+tr-tn-0001-gsw 3600 IN A 129.241.76.68
+3600 IN A 129.241.76.84
+3600 IN A 129.241.76.100
+3600 IN A 129.241.76.228
+datajenter 3600 IN CNAME vhosts.idi
+lyncdiscover.sof 600 IN CNAME lyncdiscover
+win 3600 IN NS win-dc1.win
+3600 IN NS win-dc2.win
+3600 IN NS win-dc3.win
+www.metamorfose 3600 IN CNAME semper10.itea
+folk 600 IN MX 10 mx
+folk 3600 IN A 129.241.56.95
+imap.alumni 60 IN CNAME alumnimail01.it
+radius-pri 3600 IN A 129.241.0.211
+nett-ans-rfb-fw 3600 IN A 129.241.23.4
+info 3600 IN MX 10 mx
+mysite.projects 600 IN A 129.241.60.37
+alumni 3600 IN A 62.245.183.254
+alumni 60 IN MX 10 mx
+tr-tn-0002-gsw 3600 IN A 129.241.76.69
+3600 IN A 129.241.76.85
+3600 IN A 129.241.76.101
+3600 IN A 129.241.76.229
+autoconfig.alumni 600 IN CNAME bulk.itea
+www.sturm 3600 IN CNAME semper3.itea
+spfarm 600 IN A 129.241.190.61
+innovator 60 IN MX 10 mx
+www.omega 3600 IN CNAME vevcom.ed
+chemeng 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+ntp2 3600 IN A 129.241.0.102
+xara.lisens 3600 IN CNAME itavd-krill.itea
+orakel 3600 IN NS ns.orakel
+3600 IN NS ns1
+3600 IN NS ns2
+lyncwebext.tto 600 IN CNAME lyncwebext
+innsidaut 3600 IN CNAME semper11.itea
+gimle-fddi 3600 IN A 129.241.21.103
+tram 600 IN A 129.241.10.18
+innsida 3600 IN CNAME semper11.itea
+www.larer 3600 IN CNAME pan.svt
+fysmat 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+matlab.lisens 60 IN CNAME itavd-reke.itea
+radius-sec 3600 IN A 129.241.0.212
+www.nofoma2002 3600 IN CNAME semper10.itea
+www 60 IN CNAME semper26.itea
+dion 3600 IN NS ns1
+3600 IN NS ns2
+meet 600 IN CNAME itavd-springer.itea
+_sipfederationtls._tcp 600 IN SRV 10 1 5061 sip
+vpn.ansatt 3600 IN A 129.241.76.18
+amos 60 IN MX 10 mx
+www.omegav 3600 IN CNAME omegav.ed
+arcgis.lisens 3600 IN CNAME lisensarcgis01.itea
+studier 3600 IN CNAME semper10.itea
+www.idp 3600 IN CNAME pan.svt
+adam.itk 3600 IN A 129.241.10.24
+ntnu-vpn2-pub 3600 IN A 129.241.76.20
+fusjon 60 IN MX 10 mx
+ntva 60 IN MX 10 mx
+mysite.spfarm 600 IN CNAME itavd-grigori.itea
+romres 3600 IN A 129.241.160.52
+sa 60 IN MX 10 mx
+pat-wlan-gsw 3600 IN A 129.241.61.254
+sit-nt05.sit 3600 IN A 129.241.44.12
+nabla 60 IN MX 10 mx
+sslvpn1 3600 IN A 129.241.77.151
+sslvpn2 3600 IN A 129.241.77.152
+adm 3600 IN NS ns1
+3600 IN NS ns2
+www.nettmaskin.sit 3600 IN CNAME nettmaskin.sit
+smtp.ansatt 60 IN CNAME reddo6.itea
+romressurs 60 IN MX 10 mx
+www.smorekoppen 3600 IN CNAME semper3.itea
+intern.em 3600 IN CNAME eelk0901.elkraft
+s 600 IN CNAME semper28.itea
+autodiscover 600 IN CNAME mail
+gimle-100 3600 IN CNAME gimle
+ta 3600 IN NS ns1
+3600 IN NS ns2
+televpn-gw 3600 IN A 129.241.77.78
+lb._dns-sd._udp 3600 IN PTR \@.
+commonweb 60 IN CNAME semper1.itea
+microstation.lisens 3600 IN CNAME blekksprut.itea
+sol.foa 3600 IN A 129.241.17.21
+sol.foa 3600 IN MX 10 pod.stud.iot
+gisele.iot 3600 IN A 129.241.155.30
+test.start 3600 IN A 129.241.50.121
+newscache 3600 IN CNAME orkan.itea
+www.berg 3600 IN CNAME olivia.studby
+bas 60 IN CNAME pondus.itea
+www.nio 3600 IN CNAME vhosts.idi
+www.etc10 3600 IN CNAME ivtwww.ivt
+concept 3600 IN NS ns1
+3600 IN NS ns2
+trt-gw 3600 IN A 129.241.77.18
+spss.lisens 3600 IN CNAME itavd-kreps.itea
+www.best 3600 IN CNAME semper3.itea
+mtf 3600 IN NS ns1
+3600 IN NS ns2
+ta-a 3600 IN NS ns1
+3600 IN NS ns2
+www.itk 3600 IN CNAME harry.itk
+maple14-1.lisens 3600 IN CNAME lisensmaple1401.itea
+tto-hp.tto 3600 IN A 129.241.78.18
+elkraft 3600 IN NS ns1
+3600 IN NS ns2
+api 600 IN CNAME perpes09.itea
+mail10 60 IN A 129.241.26.58
+ta-s 3600 IN NS ns1
+3600 IN NS ns2
+arcgis10.lisens 3600 IN CNAME itavd-reke.itea
+ftp.omega 3600 IN CNAME invalid.ed
+geomatikk 60 IN A 129.241.56.200
+geomatikk 60 IN MX 10 mx
+fa-a 3600 IN NS ns1
+3600 IN NS ns2
+ark 3600 IN NS ns1
+3600 IN NS ns2
+bil 60 IN MX 10 mx
+bio 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+www.kalender 3600 IN CNAME semper10.itea
+syd-gw2 3600 IN A 129.241.0.113
+3600 IN A 129.241.77.14
+3600 IN A 129.241.77.26
+3600 IN A 129.241.189.1
+db.tto 3600 IN A 195.204.168.11
+fa-s 3600 IN NS ns1
+3600 IN NS ns2
+cbm 3600 IN NS ns1
+3600 IN NS ns2
+bmh 3600 IN NS bmh-dc1.bmh
+3600 IN NS bmh-dc2.bmh
+www.aarhonen 3600 IN CNAME semper3.itea
+www.kit 3600 IN A 129.241.35.11
+vf-felles.ansatt 3600 IN A 129.241.160.146
+www.grunderskolen 3600 IN CNAME semper3.itea
+design 3600 IN NS ns1
+3600 IN NS ns2
+lyncdiscover 600 IN A 129.241.160.139
+varia.ansatt 3600 IN CNAME store01.it
+vpn-gw1 3600 IN A 129.241.161.237
+vpn-gw2 3600 IN A 129.241.161.238
+www.nsp 3600 IN CNAME linux03.infostorm.no.
+webmail.ansatt 3600 IN CNAME semper25.itea
+kvalis 60 IN A 129.241.107.60
+www.alumni 3600 IN CNAME semper10.itea
+www.i-ikt 3600 IN CNAME ivtwww.ivt
+autoconfig 600 IN CNAME bulk.itea
+my.projects 600 IN A 129.241.60.37
+www.fakta 3600 IN CNAME pan.svt
+maple-3.lisens 3600 IN CNAME lisensmaple03.itea
+sip.fusjon 600 IN CNAME sip
+okonomi 60 IN MX 10 mx
+rektorat 60 IN MX 10 mx
+swix.nvg 3600 IN A 129.241.210.66
+svarer.tlf 3600 IN CNAME marmor.itea
+studby 3600 IN NS ns1
+3600 IN NS ns2
+www.buddy 600 IN CNAME semper3.itea
+avvikssystem 600 IN CNAME canon.itea
+maple-1.lisens 3600 IN CNAME lisensmaple01.itea
+dnsadmintest 3600 IN NS ns1
+3600 IN NS ns2
+db.intersek 3600 IN CNAME is.itea
+bygdeforskning 3600 IN NS ns1
+3600 IN NS ns2
+item 3600 IN NS ask.idi
+3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS hyll.item
+mysqladmin.ansatt 600 IN CNAME cura.itea
+elektro 3600 IN MX 10 adm.ed
+elektro 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS tirpitz.ed
+www.moholt 3600 IN CNAME olivia.studby
+ab 3600 IN NS ns1
+3600 IN NS ns2
+www.petronics 3600 IN CNAME www.itk
+imap.ansatt 60 IN CNAME visdom.itea
+b._dns-sd._udp 3600 IN PTR \@.
+at 600 IN A 129.241.56.188
+webmail.alumni 600 IN CNAME semper25.itea
+viten 3600 IN NS ns1
+3600 IN NS ns2
+vpn-gw 3600 IN A 129.241.161.236
+vpn-a 3600 IN NS ns1
+3600 IN NS ns2
+ansatt 60 IN MX 10 mx
+www.prosjektledelse 3600 IN CNAME semper10.itea
+immtek 3600 IN NS ns1
+3600 IN NS ns2
+www.datateknikk 3600 IN CNAME vhosts.idi
+maple14-2.lisens 3600 IN CNAME lisensmaple1402.itea
+www.nav 60 IN CNAME gloshaugen-vk.itea
+autodiscover.kit 600 IN CNAME mail
+ff 60 IN MX 10 mx
+_sipfederationtls._tcp.fusjon 600 IN SRV 10 1 5061 sip.fusjon
+er 3600 IN A 62.245.183.241
+www.komtek 3600 IN CNAME tm-web.item
+pat-wlan-gsw2 3600 IN A 129.241.61.253
+pat-wlan-gsw3 3600 IN A 129.241.61.252
+hc 60 IN MX 10 mx
+bmh-dc2.bmh 3600 IN AAAA 2001:700:300:7::87
+bmh-dc2.bmh 3600 IN A 129.241.14.87
+hf 3600 IN NS ns1
+3600 IN NS ns2
+ehr 3600 IN A 129.241.56.200
+hi 3600 IN NS ns1
+3600 IN NS ns2
+external 3600 IN CNAME ironhead-public.itea
+www.datavoll 3600 IN CNAME data.voll.studby
+mdcs-3.lisens 600 IN CNAME lisensmdcs03.itea
+ig 3600 IN NS ns1
+3600 IN NS ns2
+eit 60 IN MX 10 mx
+innsidautv 600 IN CNAME perpes06.itea
+stud 3600 IN NS ns1
+3600 IN NS ns2
+nettel 3600 IN NS ns1
+3600 IN NS ns2
+it 3600 IN NS ns1
+3600 IN NS ns2
+mdcs-1.lisens 600 IN CNAME lisensmdcs01.itea
+larer 60 IN MX 10 mx
+fagweb 60 IN MX 10 mx
+sok 600 IN CNAME semper10.itea
+itunes 3600 IN CNAME semper10.itea
+calcfarm 600 IN CNAME calcfarm.itea
+intersek 3600 IN CNAME vfmwebserver.itea
+mr 3600 IN NS ns1
+3600 IN NS ns2
+viten-gw 3600 IN A 129.241.54.9
+3600 IN A 129.241.197.105
+mx 600 IN AAAA 2001:700:300:3::226
+600 IN AAAA 2001:700:300:3::234
+mx 600 IN A 129.241.56.67
+felles.ansatt 60 IN CNAME vf-felles.ansatt
+pim-rp 3600 IN A 129.241.0.198
+nt 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+dca.fysel.ime 3600 IN A 129.241.108.108
+www.progdist 60 IN CNAME semper22.itea
+videre 60 IN MX 10 mx
+videre 3600 IN A 88.217.244.21
+webedit 600 IN CNAME webhost.itea
+www.valgstyret 3600 IN CNAME studallt.fa-s
+bergen.lingo 3600 IN CNAME cmc.hf.uib.no.
+www.cesos 3600 IN CNAME ivtwww.ivt
+oa-a 3600 IN NS ns1
+3600 IN NS ns2
+mts-ap 3600 IN A 129.241.196.133
+ub 3600 IN NS ns1
+3600 IN NS ns2
+sv 3600 IN NS ns1
+3600 IN NS ns2
+symmetri 60 IN MX 10 mx
+komtek 3600 IN A 129.241.200.19
+komtek 3600 IN MX 10 samson.item
+3600 IN MX 20 hood.ed
+phys 3600 IN NS ns1
+3600 IN NS ns2
+foa 3600 IN MX 10 pod.stud.iot
+geo 3600 IN NS ns1
+3600 IN NS ns2
+allforsk 3600 IN NS ns1
+3600 IN NS ns2
+adminfarm 600 IN CNAME adminfarm.it
+omegav 3600 IN MX 10 omegav.ed
+cognos 600 IN CNAME itavd-guffen.itea
+itea-ans5-230-fw 3600 IN A 129.241.11.47
+sparx.lisens 600 IN CNAME itavd-krabbe.itea
+medisin 3600 IN NS ns1
+3600 IN NS ns2
+www.anvendtetikk 3600 IN CNAME mime.hf
+apps.projects 600 IN A 129.241.60.37
+microarray 3600 IN NS ns1
+3600 IN NS ns2
+vf-ahome.ansatt 3600 IN A 129.241.160.147
+www.grei 3600 IN CNAME websterii.iot
+drift 3600 IN NS ns1
+3600 IN NS ns2
+ftp 60 IN CNAME spar.itea
+_sipfederationtls._tcp.tto 600 IN SRV 10 1 5061 sip.tto
+oa-s 3600 IN NS ns1
+3600 IN NS ns2
+localhost 3600 IN A 127.0.0.1
+www.intersek 60 IN CNAME semper19.itea
+start 3600 IN CNAME startntnu.no.
+dns.nt 3600 IN A 129.241.192.10
+database.intersek 3600 IN CNAME is.itea
+itorg 60 IN MX 10 mx
+stat 3600 IN NS ns.math
+3600 IN NS ns1
+3600 IN NS ns2
+lyncwebext.fusjon 600 IN CNAME lyncwebext
+ntnu-mp-ilo 3600 IN A 158.38.0.236
+stolav 3600 IN NS ns1
+3600 IN NS ns2
+www.realfag 3600 IN CNAME semper10.itea
+bridge 60 IN MX 10 mx
+arcgis-2.lisens 3600 IN CNAME lisensarcgis02.itea
+bfa.kit 3600 IN A 129.241.35.11
+login.ansatt 600 IN CNAME linuxlogin.ansatt
+_sipfederationtls._tcp.sof 600 IN SRV 10 1 5061 sip.sof
+bevegelsesvitenskap 60 IN MX 10 mx
+idi 3600 IN NS ns1
+3600 IN NS ns2
+hms 60 IN MX 10 mx
+idt 3600 IN NS ns1
+3600 IN NS ns2
+fysel-dc2.fysel.ime 3600 IN A 129.241.108.102
+ifi 3600 IN NS ns1
+3600 IN NS ns2
+mailgw 60 IN CNAME reddo6.itea
+iet 3600 IN NS dca.fysel.ime
+3600 IN NS dcb.fysel.ime
+hpc 3600 IN NS ns1
+3600 IN NS ns2
+gii.tto 3600 IN A 85.252.40.81
+www.pup 3600 IN CNAME ivtwww.ivt
+_kerberos._tcp 600 IN SRV 10 1 88 fang.itea
+600 IN SRV 10 1 88 aragog.itea
+600 IN SRV 10 1 88 fluffy.itea
+win-dc2.win 3600 IN AAAA 2001:700:300:6::120
+win-dc2.win 3600 IN A 129.241.160.120
+www.steinan 3600 IN CNAME olivia.studby
+www.nabla 3600 IN CNAME gauss.nt
+www.petroleum 3600 IN CNAME iptibm1.ipt
+ime 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS tirpitz.ed
+studentweb 600 IN CNAME semper18.itea
+lyncwebext 600 IN A 129.241.160.139
+star.lisens 3600 IN CNAME blekksprut.itea
+www.almatema 3600 IN CNAME websterii.iot
+kerberos-2 600 IN CNAME aragog.itea
+test.nettopp 3600 IN CNAME semper13.itea
+felles 3600 IN NS felles-dc1.felles
+3600 IN NS felles-dc3.felles
+ipk 60 IN MX 10 mx
+farm 60 IN A 129.241.160.25
+pema.itk 3600 IN A 129.241.10.18
+studentradion 3600 IN CNAME semper3.itea
+ipt 3600 IN NS ns1
+3600 IN NS ns2
+pgroup-3.lisens 600 IN CNAME torqueo.itea
+_http._tcp 3600 IN SRV 10 100 80 www
+autodesk.lisens 3600 IN CNAME rumle.itea
+ns.orakel 600 IN A 129.241.14.60
+_kerberos._udp 600 IN SRV 10 1 88 fang.itea
+600 IN SRV 10 1 88 aragog.itea
+600 IN SRV 10 1 88 fluffy.itea
+itk 3600 IN NS ns1
+3600 IN NS ns2
+material 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+pgroup-1.lisens 600 IN CNAME addo.itea
+lyncdiscover.fusjon 600 IN CNAME lyncdiscover
+innsidatest 600 IN CNAME perpes08.itea
+www.puls 3600 IN CNAME www.design
+www.sit 3600 IN A 129.241.44.50
+itea 3600 IN NS ns1
+3600 IN NS ns2
+news 3600 IN CNAME orkan.itea
+skolelab 60 IN MX 10 mx
+peggy 3600 IN CNAME peggy.adm
+sip.kit 600 IN CNAME sip
+erke-sa 3600 IN A 129.241.196.17
+mail.ansatt 60 IN CNAME reddo6.itea
+www.start 3600 IN CNAME www.startntnu.no.
+www.sof 3600 IN CNAME pan.svt
+q2s 3600 IN NS parker.q2s
+3600 IN NS tirpitz.ed
+marin 3600 IN NS ns1
+3600 IN NS ns2
+kje 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+ntnu-mp 3600 IN A 129.241.161.243
+kit 3600 IN A 129.241.35.11
+kit 60 IN MX 10 mx
+sb2-ap 3600 IN A 129.241.196.4
+mediasite 600 IN A 158.38.232.48
+pop.datavoll 3600 IN CNAME data.voll.studby
+ephorte 60 IN CNAME itavd-calypso.itea
+www.marintro 3600 IN CNAME marintro.marin
+kkt 3600 IN NS ns1
+3600 IN NS ns2
+lync 600 IN A 129.241.160.139
+metanav 3600 IN CNAME semper10.itea
+www.universitetsavisa 3600 IN CNAME semper11.itea
+www.ps2000 3600 IN CNAME frigg.ivt
+wwwtest 600 IN CNAME perpes01.itea
+tto-kjemi1.tto 3600 IN A 129.241.78.19
+sb2-ap2 3600 IN A 129.241.196.5
+sb2-ap3 3600 IN A 129.241.196.6
+infoweb 3600 IN CNAME semper10.itea
+fagweb2 3600 IN A 129.241.190.124
+gammelnav 600 IN CNAME fbi.itea
+lists.ansatt 60 IN CNAME bulk02.it
+mfa.kit 3600 IN A 129.241.35.11
+www.em 3600 IN CNAME ivtwww.ivt
+einride 3600 IN A 129.241.21.138
+sb2-ap7 3600 IN A 129.241.196.19
+idrisi.lisens 3600 IN CNAME itavd-krill.itea
+parker.q2s 3600 IN A 129.241.205.17
+ntnu-vpn1 3600 IN A 129.241.190.6
+ntnu-vpn2 3600 IN A 129.241.190.7
+sb2-ap4 3600 IN A 129.241.196.7
+sb2-ap5 3600 IN A 129.241.196.8
+sb2-ap6 3600 IN A 129.241.196.9
+glview.lisens 3600 IN CNAME itavd-reke.itea
+sb2-ap8 3600 IN A 129.241.196.20
+www.hc 3600 IN CNAME www.nt
+gemini 3600 IN A 62.245.183.243
+www.skolelab 3600 IN CNAME pan.svt
+dvask.pvv 3600 IN A 129.241.210.211
+eksplosiv 60 IN MX 10 curie.nt
+tele 3600 IN NS ns1
+3600 IN NS ns2
+www.tto 600 IN A 5.145.153.8
+sslvpn 3600 IN A 129.241.77.150
+dhcp0 3600 IN A 129.241.0.204
+www.natres 3600 IN CNAME www.nt
+webmail 3600 IN CNAME semper4.itea
+www.bfa.kit 3600 IN CNAME bfa.kit
+www.studenttinget 3600 IN CNAME studallt.fa-s
+www.hybrida 3600 IN CNAME semper3.itea
+mgw 600 IN AAAA 2001:700:300:3::56
+syd-gw2-l0 3600 IN A 129.241.0.113
+slp.ansatt 3600 IN CNAME felles.ansatt
+ipv4-mx 600 IN A 129.241.56.67
+webconf 600 IN A 129.241.160.210
+600 IN A 129.241.160.213
+autodiscover.sof 600 IN CNAME mail
+nav 60 IN CNAME gloshaugen-vk.itea
+manvit 3600 IN CNAME netwalker.pvv
+origo 3600 IN CNAME semper10.itea
+_autodiscover._tcp 600 IN SRV 0 1 443 mail
+nec 3600 IN NS ns1
+3600 IN NS ns2
+test.innsida 3600 IN CNAME perpes05.itea
+kyb-ad02.ad.itk 3600 IN A 129.241.10.19
+progdist 60 IN CNAME progdist.itea
+hsrp2-vlan924 3600 IN A 129.241.76.102
+chem 3600 IN NS dns.nt
+3600 IN NS ns1
+3600 IN NS ns2
+wwwutv 60 IN CNAME perpes03.itea
+video 3600 IN CNAME semper10.itea
+audina 3600 IN A 129.241.119.6
+felles-dc3.felles 3600 IN A 129.241.18.116
+wireless 60 IN CNAME semper9.itea
+linuxlogin.ansatt 600 IN AAAA 2001:700:300:7::23
+linuxlogin.ansatt 600 IN A 129.241.14.23
+www.carpet 3600 IN CNAME semper10.itea
+nio 3600 IN NS ns1
+3600 IN NS ns2
+sslvpn1-stud 3600 IN A 129.241.222.5
+lyncwebext.kit 600 IN CNAME lyncwebext
+dhcp-pri 3600 IN A 129.241.0.205
+nito 60 IN MX 10 mx
+felles-dc1.felles 3600 IN A 129.241.190.157
+mtm 3600 IN NS ns1
+3600 IN NS ns2
+www.teknologi 3600 IN CNAME semper10.itea
+autodiscover.too 600 IN CNAME mail
+nll 60 IN MX 10 mx
+ns1 3600 IN AAAA 2001:700:300::208
+ns1 3600 IN A 129.241.0.208
+ns2 3600 IN AAAA 2001:700:300::209
+ns2 3600 IN A 129.241.0.209
+www.nkul 3600 IN CNAME semper10.itea
+fysel 3600 IN NS dca.fysel.ime
+3600 IN NS tirpitz.ed
+3600 IN NS fysel-dc2.fysel.ime
+software 3600 IN CNAME progdistweb01.it
+telestrategi 3600 IN CNAME samson.item
+webmailexchange.ansatt 600 IN CNAME semper25.itea
+omega 3600 IN A 129.241.205.135
+omega 60 IN MX 10 mx
+telestrategy 3600 IN CNAME samson.item
+risiko 600 IN A 129.241.14.141
+bmh-dc1.bmh 3600 IN AAAA 2001:700:300:7::86
+bmh-dc1.bmh 3600 IN A 129.241.14.86
+win-dc1.win 3600 IN AAAA 2001:700:300:6::119
+win-dc1.win 3600 IN A 129.241.160.119
+av 600 IN A 129.241.160.211
+600 IN A 129.241.160.214
+project 600 IN A 129.241.190.61
+autodiscover.romressurs 600 IN CNAME mail
+nsp 3600 IN CNAME linux03.infostorm.no.
+innsidautv2 600 IN CNAME perpes07.itea
+ntl 60 IN MX 10 mx
+geomedia.lisens 3600 IN CNAME blekksprut.itea
+ntp 3600 IN A 129.241.0.99
+susanti 3600 IN A 129.241.119.7
+nvg 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS ns-0.trolltech.net.
+3600 IN NS swix.nvg
+home.ansatt 60 IN CNAME vf-ahome.ansatt
+ravis 3600 IN CNAME ravis.ark
+www.iprat.tto 600 IN CNAME semper10.itea
+dhcp-sec 3600 IN A 129.241.0.206
+solarislogin.ansatt 600 IN A 129.241.56.46
+avvik 600 IN CNAME canon.itea
+lyncdiscover.tto 600 IN CNAME lyncdiscover
+online 3600 IN NS ns1
+3600 IN NS ns2
+kalender 3600 IN CNAME semper10.itea
+org 3600 IN NS ns1
+3600 IN NS ns2
+www.videre 3600 IN CNAME semper10.itea
+nettmaskin.sit 3600 IN A 129.241.44.18
+dialin 600 IN CNAME itavd-springer.itea
+maple-2.lisens 3600 IN CNAME lisensmaple02.itea
+borg 3600 IN A 129.241.119.131
+psykiatri-sa 3600 IN A 129.241.196.185
+ed 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS tirpitz.ed
+www.matek 3600 IN CNAME www.nt
+plu 3600 IN NS ns1
+3600 IN NS ns2
+hsrp2-vlan916 3600 IN A 129.241.76.70
+hsrp2-vlan920 3600 IN A 129.241.76.86
+ntnu-ids 3600 IN A 129.241.160.64
+www.informatikk 3600 IN CNAME vhosts.idi
+workflow 600 IN A 129.241.190.60
+www.studier 3600 IN CNAME semper10.itea
+www.mfa.kit 3600 IN CNAME mfa.kit
+hsrp2-vlan956 3600 IN A 129.241.76.230
+datalos 3600 IN CNAME vhosts.idi
+maple14-3.lisens 3600 IN CNAME lisensmaple1403.itea
+adfs 600 IN CNAME itavd-adfsproxy.win
+vpn-s 3600 IN NS ns1
+3600 IN NS ns2
+data 600 IN CNAME semper10.itea
+ivt 3600 IN NS ns1
+3600 IN NS ns2
+bindeleddet 3600 IN MX 10 bindeleddet.stud.iot
+forskningstorget 3600 IN NS swix.nvg
+3600 IN NS sabre-wulf.nvg

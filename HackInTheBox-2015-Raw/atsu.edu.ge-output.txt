@@ -1,0 +1,24 @@
+@ 86400 IN SOA ns0.grena.ge. nugzar.grena.ge. 2015021101 28800 7200 2419200 86400
+@ 86400 IN NS ns0.grena.ge.
+86400 IN NS ns1.grena.ge.
+@ 86400 IN A 217.147.239.29
+@ 86400 IN MX 0 atsu-edu-ge.mail.eo.outlook.com.
+new 86400 IN A 85.118.97.151
+sip 86400 IN CNAME sipdir.online.lync.com.
+_sip._tls 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+lyncwebappext 86400 IN A 85.118.97.148
+msoid 86400 IN CNAME clientconfig.microsoftonline-p.net.
+library 86400 IN A 217.147.227.90
+doc 86400 IN A 217.147.227.90
+lyncdiscover 86400 IN CNAME webdir.online.lync.com.
+www.library 86400 IN A 217.147.227.90
+join 86400 IN A 85.118.97.147
+english 86400 IN A 217.147.227.90
+www.doc 86400 IN A 217.147.227.90
+www.old 86400 IN A 217.147.227.90
+www.english 86400 IN A 217.147.227.90
+autodiscover 86400 IN CNAME autodiscover.outlook.com.
+old 86400 IN A 217.147.227.90
+lyncweb 86400 IN A 85.118.97.147
+_sipfederationtls._tcp 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 86400 IN A 217.147.239.29

@@ -1,0 +1,28 @@
+@ 86400 IN SOA arane root.arane 2010011225 3600 7200 2419200 86400
+@ 86400 IN NS paraban
+86400 IN NS arane
+@ 86400 IN MX 10 arane
+86400 IN MX 0 usd-ac-id.mail.protection.outlook.com.
+86400 IN MX 10 433591831.mail.outlook.com.
+86400 IN MX 10 1676441650.mail.outlook.com.
+86400 IN MX 10 789966584.mail.outlook.com.
+86400 IN MX 10 887618615.mail.outlook.com.
+@ 86400 IN A 202.94.83.16
+@ 86400 IN TXT "Sanata Dharma University"
+86400 IN TXT "@" "v=spf1 include:spf.protection.outlook.com -all"
+repo 86400 IN A 202.94.83.61
+433591831 86400 IN CNAME domains.live.com.
+voip 86400 IN A 202.94.83.30
+www2 86400 IN A 117.20.50.205
+webmail 86400 IN A 202.94.83.18
+streaming 86400 IN A 202.94.83.28
+www 86400 IN A 202.94.83.16
+paraban 86400 IN A 202.94.83.83
+mrtg 86400 IN A 202.94.83.83
+staff 86400 IN A 202.94.83.18
+sia 86400 IN A 202.94.83.34
+gtsadhar 86400 IN A 202.94.83.49
+arane 86400 IN A 202.94.83.222
+1572616528.student 86400 IN CNAME domains.live.com.
+unicloud 86400 IN A 202.94.83.17
+887618615.mail 86400 IN CNAME domains.live.com.

@@ -1,0 +1,109 @@
+@ 3600 IN SOA dns.mackenzie.com.br. root.mackenzie.com.br. 2013112001 3600 1800 3600 3600
+@ 3600 IN MX 0 mackenzie-br.mail.eo.outlook.com.
+@ 3600 IN TXT "MS=ms44065552"
+3600 IN TXT "v=spf1 a mx include:spf_16961.aknamail.com.br include:spf.protection.outlook.com a:lb.mackenzie.br ip4:177.43.201.200 ip4:200.19.92.200 -all"
+@ 3600 IN A 200.19.92.195
+@ 3600 IN NS dns.mackenzie.com.br.
+3600 IN NS ns2.mackenzie.com.br.
+3600 IN NS ns3.mackenzie.com.br.
+videos 3600 IN CNAME www.x.mackenzista.com.br.
+msoid.craam 3600 IN CNAME clientconfig.microsoftonline-p.net.
+meusite 3600 IN CNAME meusite.x
+usuario 3600 IN CNAME usuario.x
+proxy1 3600 IN CNAME capes.x
+lyncdiscoverinternal 3600 IN CNAME webdir.online.lync.com.
+lb 3600 IN A 200.19.92.200
+www.editora 3600 IN CNAME mackenzie.iplataforma.com.br.
+rio 3600 IN CNAME rio.x
+lfs 3600 IN CNAME lfs.x
+congressoletras 3600 IN CNAME meusite.x
+panorama 3600 IN CNAME meusite.x
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+lspd 3600 IN CNAME lspd.x
+redacao 3600 IN CNAME novo.x
+comunicado 3600 IN CNAME comunicado.x
+www 3600 IN CNAME www.x
+emkt 3600 IN CNAME app.akna.com.br.
+_sipfederationtls._tcp 3600 IN SRV 0 0 5061 sipfed.online.lync.com.
+_sip._tls 3600 IN SRV 0 0 443 sipdir.online.lync.com.
+guia 3600 IN CNAME guia.x
+craam 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+craam 3600 IN MX 5 craam-mackenzie-br.mail.eo.outlook.com.
+x 3600 IN NS marte.x
+3600 IN NS jupiter.x
+poloead 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+poloead 3600 IN MX 5 poloead-mackenzie-br.mail.protection.outlook.com.
+sip 3600 IN CNAME sipdir.online.lync.com.
+tv 3600 IN CNAME www.x.tvmackenzie.com.br.
+up 3600 IN CNAME novo.x
+vw 3600 IN CNAME vw.viewtrk.com.br.
+oracle-ib 3600 IN CNAME oracle-ib.x
+msaf 3600 IN CNAME subdominios.x
+sme 3600 IN CNAME subdominios.x
+hcm-ib 3600 IN CNAME hcm-ib.x
+adm 3600 IN CNAME adm.x
+mackgraphe 3600 IN CNAME www.x
+oracle 3600 IN CNAME oracle.x
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+centrohistoricosp 3600 IN CNAME centrohistoricosp.x
+_domainkey 3600 IN TXT "o=~"
+akna._domainkey 3600 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAMolQkgTC9gaFcC3b3/DY05Ha+6yooa07oNybkA9n5gC2r9tB+n6S843YjalcX2c4S8ippmKeJ9APMCadLPN3rwJco5sNtlzsx5DjMZRpNrilebKV5hRpf0sEfOgD6KKrwIDAQAB"
+tecnologiasfci 3600 IN CNAME subdominios.x
+hcm 3600 IN CNAME hcm.x
+msoid.poloead 3600 IN CNAME clientconfig.microsoftonline-p.net.
+livraria 3600 IN CNAME mackenzie.iplataforma.com.br.
+openvpn 3600 IN CNAME openvpn.x
+www2 3600 IN CNAME www.x.escolhasuaprofissao.com.br.
+www3 3600 IN CNAME www3.x
+capes 3600 IN CNAME capes.x
+labgeo 3600 IN CNAME www.x
+editora 3600 IN CNAME mackenzie.iplataforma.com.br.
+jupiter.x 3600 IN A 200.19.92.202
+3600 IN A 177.43.201.202
+hcm-ren 3600 IN CNAME hcm-ren.x
+engmecanica 3600 IN CNAME meusite.x
+carreiras 3600 IN CNAME carreiras.x
+ns2 3600 IN A 200.19.92.66
+ns3 3600 IN A 177.43.210.66
+oraclehom-ib 3600 IN CNAME oraclehom.x
+dspace 3600 IN CNAME dspace.x
+tede 3600 IN CNAME tede.x
+cpaj 3600 IN CNAME www.x
+colegio-admin 3600 IN CNAME novo.x
+cygnus.craam 3600 IN CNAME craam.x
+www3-test 3600 IN CNAME www3-test.x
+www.craam 3600 IN CNAME www.x
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+pergamum 3600 IN CNAME pergamum.x
+marte.x 3600 IN A 200.19.92.201
+3600 IN A 177.43.201.201
+boletim 3600 IN CNAME boletim.x
+bpm 3600 IN CNAME subdominios.x
+upk 3600 IN CNAME upk.x
+revistadigital 3600 IN CNAME boletim.x
+www.livraria 3600 IN CNAME mackenzie.iplataforma.com.br.
+irpf 3600 IN CNAME www.x
+mackgrafe 3600 IN CNAME www.x
+autodiscover.poloead 3600 IN CNAME autodiscover.outlook.com.
+intranet 3600 IN CNAME intranet.x
+oraclehom 3600 IN CNAME oraclehom.x
+centrohistorico 3600 IN CNAME www.x
+peoplesoft-ib 3600 IN CNAME peoplesoft-ib.x
+radio 3600 IN CNAME www.x
+vpn 3600 IN CNAME vpn.x
+colegio 3600 IN CNAME novo.x
+ead 3600 IN CNAME www.x.uvmack.com.br.
+peoplesoft-ren 3600 IN CNAME peoplesoft-ren.x
+mackgw 3600 IN A 200.136.37.7
+news 3600 IN CNAME www.x.mackenzista.com.br.
+biblioteca 3600 IN CNAME www.x
+professor 3600 IN CNAME meusite.x
+autodiscover.craam 3600 IN CNAME autodiscover.outlook.com.
+spaces 3600 IN CNAME app.aknadata.com.br.
+editorarevistas 3600 IN CNAME subdominios.x
+portal 3600 IN CNAME novo.x
+peoplesoft 3600 IN CNAME peoplesoft.x
+grafeno 3600 IN A 200.19.92.66
+dns 3600 IN A 200.19.92.12
+portal.sme 3600 IN A 74.205.14.65
+erp-ren 3600 IN CNAME erp-ren.x

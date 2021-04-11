@@ -1,0 +1,554 @@
+@ 86400 IN SOA hermes hostmaster 201504231 14400 3600 604800 86400
+@ 86400 IN NS nsbg.zik
+86400 IN NS nsde.zik
+86400 IN NS nskt.zik
+86400 IN NS hermes
+86400 IN NS ws-han1.win-ip.dfn.de.
+@ 86400 IN MX 200 argus.hrz
+86400 IN MX 400 argusx.hrz
+ap-249.lbv 86400 IN A 193.25.37.249
+moe.loel 86400 IN A 193.25.32.158
+mailgate.hrz 86400 IN CNAME argus.hrz
+afg 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+afg 86400 IN A 193.25.43.113
+ap3.y-isdn 86400 IN A 193.25.41.228
+jahrbuch.design 86400 IN A 193.25.44.37
+ftp-intern.hrz 86400 IN A 192.108.32.99
+HP2-BBG.hrz 86400 IN A 193.25.33.131
+student.emw 86400 IN TXT "v=spf1 mx  mx:EMW-SMTPGW1.emw.hs-anhalt.de mx:EMW-SMTPGW2.emw.hs-anhalt.de ~all"
+student.emw 86400 IN SPF "v=spf1 mx  mx:EMW-SMTPGW1.emw.hs-anhalt.de mx:EMW-SMTPGW2.emw.hs-anhalt.de ~all"
+student.emw 86400 IN MX 100 EMW-SMTPGW1.emw
+86400 IN MX 100 EMW-SMTPGW2.emw
+student.emw 86400 IN A 193.25.39.56
+mt.emw 86400 IN A 193.25.39.57
+03test.design 86400 IN A 193.25.44.37
+www.ar.afg 86400 IN A 193.25.44.34
+mib.wi 86400 IN A 193.25.32.158
+autoconfig.wza 86400 IN CNAME mail.emw
+ap1.y-isdn 86400 IN A 193.25.41.226
+autoconfig.student.stk 86400 IN A 193.25.37.131
+erp.verw 86400 IN A 193.25.38.110
+www.kalender.design 86400 IN A 193.25.44.37
+gate-03.network 86400 IN A 193.25.42.174
+zik 86400 IN MX 200 y-mail.hrz
+HP2-BBG 86400 IN CNAME HP2-BBG.hrz
+pc003.lbv 86400 IN A 193.25.37.164
+made.design 86400 IN A 193.25.44.37
+pc12.hrz 86400 IN A 192.108.32.12
+real 86400 IN CNAME argus.hrz
+mprint.afg 86400 IN A 193.25.43.159
+www1.inf 86400 IN CNAME roadrunner.inf
+argusx.zik 86400 IN A 192.108.32.9
+pc07.stk 86400 IN A 193.25.38.200
+www2.afg 86400 IN A 193.25.43.113
+bio001.lbv 86400 IN A 193.25.37.71
+gis3.afg 86400 IN A 193.25.36.150
+tradition.hrz 86400 IN A 193.25.39.198
+www.mwi.emw 86400 IN A 193.25.39.57
+schule 86400 IN MX 200 y-mail.hrz
+autoconfig.afg 86400 IN A 193.25.43.91
+herkules.hrz 86400 IN A 192.108.32.24
+lanzelot.design 86400 IN A 193.25.44.21
+ap2.y-isdn 86400 IN A 193.25.41.227
+secure.design 86400 IN A 193.25.44.37
+pc-7.hrz 86400 IN A 193.25.36.9
+andbs1.hsb 86400 IN A 193.25.41.114
+make.design 86400 IN A 193.25.44.37
+wh6server.studenten 86400 IN A 193.25.41.242
+www.archimedes.design 86400 IN A 193.25.44.21
+ftp.inf 86400 IN CNAME roadrunner.inf
+hermes1.hrz 86400 IN A 192.108.32.101
+hrz-srv-1.hrz 86400 IN A 192.108.32.51
+autodiscover.student.inf 86400 IN A 193.25.37.131
+back-02.hrz 86400 IN A 193.25.37.36
+www.mab.emw 86400 IN A 193.25.39.57
+loel-pw.loel 86400 IN A 193.25.34.124
+mprint.wi 86400 IN A 193.25.32.159
+ldap-11.network 86400 IN A 193.25.37.110
+mla.loel 86400 IN A 193.25.32.158
+hauswirtschaft.loel 86400 IN A 193.25.32.158
+stk 86400 IN MX 200 y-mail.hrz
+student.loel 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+www.bwp 86400 IN A 193.25.37.142
+www.projekte.design 86400 IN A 193.25.44.37
+lau.loel 86400 IN A 193.25.32.158
+team.afg 86400 IN A 193.25.43.117
+ngwnameserver.wi 86400 IN A 193.25.32.136
+str4-vut.lbv 86400 IN A 193.25.37.53
+www4.inf 86400 IN CNAME roadrunner.inf
+phpmyadmin.design 86400 IN A 193.25.44.37
+01test.design 86400 IN A 193.25.44.37
+bio004.lbv 86400 IN A 193.25.37.74
+met.emw 86400 IN A 193.25.39.57
+hrz-koe-ap194.hrz 86400 IN A 192.108.32.194
+www.digitalewerkstatt.design 86400 IN A 193.25.44.37
+hrz-koe-ap3.hrz 86400 IN A 192.108.32.189
+livestream.design 86400 IN A 193.25.44.37
+mef.emw 86400 IN A 193.25.39.57
+EMW-SMTPGW1.emw 86400 IN A 193.25.39.49
+www.motion.design 86400 IN A 193.25.44.37
+bwl.wi 86400 IN A 193.25.32.158
+ftp.lbv 86400 IN CNAME bio003.lbv
+sot.emw 86400 IN A 193.25.39.57
+student.design 86400 IN A 193.25.44.30
+carla.design 86400 IN A 193.25.44.37
+hp-lj4 86400 IN A 192.108.32.21
+ns.10glab-ipv6.emw 86400 IN AAAA 2001:638:914:2::d
+student.inf 86400 IN MX 200 mail.inf
+student.inf 86400 IN A 193.25.37.131
+emedien.design 86400 IN A 193.25.44.37
+manager1.hrz 86400 IN A 193.25.33.227
+mbe.emw 86400 IN A 193.25.39.57
+www.emw 86400 IN A 193.25.39.57
+clientb.10glab-ipv6.emw 86400 IN AAAA 2001:638:914:2::b
+vut06.lbv 86400 IN A 193.25.37.61
+www.absolventenstudie 86400 IN A 193.25.32.158
+bank.hrz 86400 IN CNAME HP2-BBG
+www.webdoku1.design 86400 IN A 193.25.44.37
+papercut.wi 86400 IN A 193.25.32.132
+y-mail.hrz 86400 IN A 193.25.33.233
+pc03.fttz 86400 IN A 193.25.38.130
+testv6 86400 IN AAAA 2001:638:914:1::1
+www.dds2015.design 86400 IN A 193.25.44.37
+fb7.lbv 86400 IN A 193.25.37.76
+gateway01.design 86400 IN A 193.25.44.21
+autodiscover.wza 86400 IN A 193.25.39.56
+fw-bbg.verw 86400 IN A 193.25.33.60
+webdoku2.design 86400 IN A 193.25.44.37
+landschaftsinformatik.loel 86400 IN A 193.25.34.143
+helpdesk.loel 86400 IN A 193.25.43.91
+hermes.hrz 86400 IN CNAME hermes
+www.kolleg.wi 86400 IN A 193.25.32.158
+str1-vut.lbv 86400 IN CNAME vut02.lbv
+sport 86400 IN MX 200 y-mail.hrz
+archimedes.design 86400 IN A 193.25.44.21
+www.mail.design 86400 IN A 193.25.44.30
+ts.inf 86400 IN CNAME roadrunner.inf
+nlp.loel 86400 IN A 193.25.32.158
+db4.design 86400 IN A 193.25.44.47
+schnongs.design 86400 IN A 193.25.44.37
+zik-virus.zik 86400 IN A 193.25.33.232
+autoconfig.student.afg 86400 IN A 193.25.43.91
+sthba-sbk 86400 IN MX 200 hrz-mail.hrz
+str2-vut.lbv 86400 IN CNAME vut03.lbv
+www2.emw 86400 IN A 193.25.39.57
+www.loel 86400 IN A 193.25.37.142
+dla.loel 86400 IN A 193.25.32.194
+www.qisserver.verw 86400 IN A 193.25.38.113
+autoconfig.emw 86400 IN CNAME mail.emw
+ibp.wi 86400 IN A 193.25.32.158
+router.bbg 86400 IN A 193.25.32.1
+mgmt.afg 86400 IN A 193.25.43.56
+ngwnameserver.afg 86400 IN A 193.25.43.151
+autodiscover.emw 86400 IN A 193.25.39.56
+mbu.wi 86400 IN A 193.25.32.158
+pc02.stk 86400 IN A 193.25.38.195
+www.02test.design 86400 IN A 193.25.44.37
+t13.y-hrz 86400 IN A 193.25.41.206
+tim.emw 86400 IN MX 100 EMW-SMTPGW1.emw
+86400 IN MX 100 EMW-SMTPGW2.emw
+cns.emw 86400 IN A 193.25.39.55
+apl12.y-isdn 86400 IN A 193.25.41.221
+hsb-koet-ivs10.hsb 86400 IN A 193.25.42.84
+eit.emw 86400 IN A 193.25.39.57
+t06.y-hrz 86400 IN A 193.25.41.199
+www 86400 IN A 193.25.37.142
+sql-11.network 86400 IN A 193.25.37.110
+wza 86400 IN MX 100 EMW-SMTPGW1.emw
+86400 IN MX 400 EMW-SMTPGW2.emw
+wza 86400 IN A 193.25.39.56
+clienta.10glab-ipv6.emw 86400 IN AAAA 2001:638:914:2::a
+fw-koetloh.verw 86400 IN A 193.25.37.20
+mhr.wi 86400 IN A 193.25.32.158
+www.maid.design 86400 IN A 193.25.44.37
+pc-5.hrz 86400 IN A 193.25.36.5
+fet.emw 86400 IN A 193.25.39.57
+aaa 86400 IN MX 200 y-mail.hrz
+hrz-hs1.hrz 86400 IN A 192.108.32.187
+anas11.hsb 86400 IN A 193.25.41.115
+www.met.emw 86400 IN A 193.25.39.57
+helpdesk.afg 86400 IN A 193.25.43.91
+www.hsb 86400 IN A 193.25.42.70
+dab.afg 86400 IN A 193.25.43.113
+pc001.lbv 86400 IN A 193.25.37.162
+loel 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+www.mef.emw 86400 IN A 193.25.39.57
+av.verw 86400 IN MX 200 hrz-mail.hrz
+www.intranet.design 86400 IN A 193.25.44.37
+zickzackhausen.wi 86400 IN A 193.25.32.158
+wiw.emw 86400 IN A 193.25.39.57
+hrz-de.hrz 86400 IN A 193.25.36.4
+download.design 86400 IN A 193.25.44.37
+www.neighborhoods.design 86400 IN A 193.25.44.37
+pc05.stk 86400 IN A 193.25.38.198
+www.sot.emw 86400 IN A 193.25.39.57
+nskt.zik 86400 IN A 192.108.32.10
+flw.loel 86400 IN A 193.25.32.158
+gis1.afg 86400 IN A 193.25.36.148
+mmb.emw 86400 IN A 193.25.39.57
+ap12.y-isdn 86400 IN A 193.25.41.237
+www.carla.design 86400 IN A 193.25.44.37
+www.dimensions-of.design 86400 IN A 193.25.44.37
+www-test 86400 IN A 193.25.37.141
+www.schnongs2014.design 86400 IN A 193.25.44.37
+www.mbe.emw 86400 IN A 193.25.39.57
+ap10.y-isdn 86400 IN A 193.25.41.235
+www.mt.emw 86400 IN A 193.25.39.57
+apl10.y-isdn 86400 IN A 193.25.41.219
+wre.wi 86400 IN A 193.25.32.158
+www.civicrm.design 86400 IN A 193.25.44.34
+dda3.design 86400 IN A 193.25.44.31
+www.schnongs2012.design 86400 IN A 193.25.44.37
+ibs.wi 86400 IN A 193.25.32.158
+autoconfig.student.wi 86400 IN A 193.25.43.91
+asa 86400 IN MX 200 y-mail.hrz
+hrz-koe-s1.hrz 86400 IN A 192.108.32.50
+argusx.hrz 86400 IN A 192.108.32.9
+ern.loel 86400 IN A 193.25.32.158
+apl09.y-isdn 86400 IN A 193.25.41.218
+pc004.lbv 86400 IN A 193.25.41.40
+persrat 86400 IN MX 200 y-mail.hrz
+hrz-koe-nb1.hrz 86400 IN A 192.108.32.104
+student.wi 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+pc-50.hrz 86400 IN CNAME hrz-koe-s1.hrz
+apl07.y-isdn 86400 IN A 193.25.41.216
+design 86400 IN MX 200 mail.design
+design 86400 IN A 193.25.44.37
+www2.inf 86400 IN CNAME roadrunner.inf
+prometheus.design 86400 IN A 193.25.44.47
+pc08.stk 86400 IN A 193.25.38.201
+www.gateway01.design 86400 IN A 193.25.44.21
+autoconfig.inf 86400 IN A 193.25.37.131
+pollux.hrz 86400 IN A 193.25.36.3
+schnongs2014.design 86400 IN A 193.25.44.37
+apl05.y-isdn 86400 IN A 193.25.41.214
+dez-k.verw 86400 IN MX 200 hrz-mail.hrz
+digitalewerkstatt.design 86400 IN A 193.25.44.37
+filr.afg 86400 IN A 193.25.43.170
+autodiscover.inf 86400 IN A 193.25.37.131
+dpg.kat 86400 IN MX 200 y-mail.hrz
+dpg.kat 86400 IN A 85.214.135.227
+ivs-3.hsb 86400 IN A 193.25.42.86
+schnongs2012.design 86400 IN A 193.25.44.37
+apl03.y-isdn 86400 IN A 193.25.41.212
+blog2.design 86400 IN A 193.25.44.37
+test-mail.emw 86400 IN A 193.25.39.49
+motion.design 86400 IN A 193.25.44.37
+vut03.lbv 86400 IN A 193.25.37.52
+autoconfig.student.emw 86400 IN CNAME mail.emw
+t12.y-hrz 86400 IN A 193.25.41.205
+argus.hrz 86400 IN A 192.108.32.102
+bwp 86400 IN MX 200 bwp-mail.bwp
+apl01.y-isdn 86400 IN A 193.25.41.210
+loel-flb-pit.loel 86400 IN A 193.25.33.18
+webloel.design 86400 IN A 193.25.44.34
+bernburg.alumni 86400 IN A 193.25.32.158
+bio009.lbv 86400 IN A 193.25.37.66
+wsus.afg 86400 IN A 193.25.43.103
+pc01.hssz 86400 IN A 193.25.38.135
+mab.emw 86400 IN A 193.25.39.57
+fttz 86400 IN MX 200 y-mail.hrz
+iwi.wi 86400 IN A 193.25.32.158
+www0.bwp 86400 IN A 193.25.37.77
+erp-csg.verw 86400 IN A 193.25.38.111
+lw.loel 86400 IN A 193.25.32.158
+www.eit.emw 86400 IN A 193.25.39.57
+liste 86400 IN MX 200 y-mail.hrz
+ap8.y-isdn 86400 IN A 193.25.41.233
+service.network 86400 IN A 193.25.37.108
+www.jahrbuch.design 86400 IN A 193.25.44.37
+www5.inf 86400 IN CNAME roadrunner.inf
+bio005.lbv 86400 IN A 193.25.37.75
+hrz-de 86400 IN CNAME hrz-de.hrz
+ap6.y-isdn 86400 IN A 193.25.41.231
+befragung.praes 86400 IN A 193.25.38.157
+www.fet.emw 86400 IN A 193.25.39.57
+ngwnameserver2.wi 86400 IN A 193.25.32.137
+qisserver.verw 86400 IN A 193.25.38.113
+hrz-bbg.hrz 86400 IN A 193.25.33.228
+ap4.y-isdn 86400 IN A 193.25.41.229
+EMW-SMTPGW2.emw 86400 IN A 193.25.39.60
+www.sport 86400 IN A 193.25.32.158
+hrz-koe.hrz 86400 IN A 192.108.32.29
+mok.wi 86400 IN A 193.25.32.158
+gz 86400 IN MX 200 y-mail.hrz
+itl.wi 86400 IN A 193.25.32.158
+autodiscover.student.stk 86400 IN A 193.25.37.131
+fax 86400 IN MX 200 hrz-mail.hrz
+de-nb.hrz 86400 IN A 193.25.36.8
+mlm.wi 86400 IN A 193.25.32.158
+wache 86400 IN MX 200 y-mail.hrz
+www.wiw.emw 86400 IN A 193.25.39.57
+fmb.emw 86400 IN A 193.25.39.57
+ire.wi 86400 IN A 193.25.32.158
+www-proj.loel 86400 IN A 193.25.32.141
+emw 86400 IN SPF "v=spf1 mx mx:EMW-SMTPGW1.emw.hs-anhalt.de mx:EMW-SMTPGW2.emw.hs-anhalt.de ~all"
+emw 86400 IN MX 100 EMW-SMTPGW1.emw
+86400 IN MX 100 EMW-SMTPGW2.emw
+emw 86400 IN TXT "v=spf1 mx mx:EMW-SMTPGW1.emw.hs-anhalt.de mx:EMW-SMTPGW2.emw.hs-anhalt.de ~all"
+emw 86400 IN A 193.25.39.56
+terminologie.design 86400 IN A 193.25.44.47
+hermes 86400 IN A 192.108.32.1
+www.lanzelot.design 86400 IN A 193.25.44.21
+www.mmb.emw 86400 IN A 193.25.39.57
+moodle-igv.afg 86400 IN A 193.25.36.155
+repro.afg 86400 IN A 193.25.36.151
+herodes.afg 86400 IN A 193.25.43.254
+pc01.stk 86400 IN A 193.25.38.194
+maf.loel 86400 IN A 193.25.32.158
+verw 86400 IN MX 200 y-mail.hrz
+www.emedien.design 86400 IN A 193.25.44.37
+kalender.design 86400 IN A 193.25.44.37
+biomed.emw 86400 IN A 193.25.39.62
+ip-193-25-33-39 86400 IN A 193.25.33.39
+hrz-koe-ap7.hrz 86400 IN A 192.108.32.184
+mtr.wi 86400 IN A 193.25.32.158
+mailgate 86400 IN CNAME argus.hrz
+media.afg 86400 IN A 193.25.43.99
+timelab.design 86400 IN A 193.25.44.37
+saalesommer.wi 86400 IN A 193.25.32.158
+fof 86400 IN A 193.25.32.158
+02test.design 86400 IN A 193.25.44.37
+wi 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+fszul 86400 IN MX 200 y-mail.hrz
+www.interaction.design 86400 IN A 193.25.44.37
+hrz-koe-ap10.hrz 86400 IN A 192.108.32.182
+HP1-BBG.hrz 86400 IN A 193.25.33.130
+autoconfig.student.loel 86400 IN A 193.25.43.91
+nsde.zik 86400 IN A 193.25.36.34
+file-01.hrz 86400 IN A 193.25.37.35
+imt.emw 86400 IN MX 100 EMW-SMTPGW1.emw
+86400 IN MX 100 EMW-SMTPGW2.emw
+ngwnameserver2.afg 86400 IN A 193.25.43.155
+service.asa 86400 IN A 193.25.37.98
+ariadne.hrz 86400 IN CNAME HP1-BBG.hrz
+student.stk 86400 IN MX 200 mail.inf
+student.stk 86400 IN A 193.25.37.131
+www.design 86400 IN A 193.25.44.37
+gate-02.network 86400 IN A 193.25.42.176
+spz 86400 IN MX 200 y-mail.hrz
+autoconfig.student.inf 86400 IN A 193.25.37.131
+bmt.emw 86400 IN A 193.25.39.57
+www3.inf 86400 IN CNAME roadrunner.inf
+ftp.emw 86400 IN A 193.25.39.57
+mail.afg 86400 IN A 193.25.43.136
+t11.y-hrz 86400 IN A 193.25.41.204
+mail.zik 86400 IN A 193.25.33.230
+pc193.hrz 86400 IN A 192.108.32.193
+www.made.design 86400 IN A 193.25.44.37
+oe.loel 86400 IN A 193.25.32.158
+t04.y-hrz 86400 IN A 193.25.41.197
+andbs2.hsb 86400 IN A 193.25.41.116
+bwp-mail.bwp 86400 IN A 193.25.37.76
+gyrocopter.afg 86400 IN A 193.25.43.107
+hs-01-111.inf 86400 IN A 193.25.41.86
+astaro.wi 86400 IN A 193.25.32.137
+bemastergis.afg 86400 IN A 193.25.43.111
+www.blog2.design 86400 IN A 193.25.44.37
+lfh.loel 86400 IN A 193.25.32.158
+www.goldenlichtung.loel 86400 IN A 193.25.44.34
+pc10.stk 86400 IN A 193.25.38.203
+mwr.wi 86400 IN A 193.25.32.158
+www.fotografie.design 86400 IN A 193.25.44.37
+pc03.stk 86400 IN A 193.25.38.196
+loel-gis-serv.loel 86400 IN A 193.25.34.190
+www.vorort.design 86400 IN A 193.25.44.37
+hrz-koe-ap13.hrz 86400 IN A 192.108.32.106
+daf.afg 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+projekte.design 86400 IN A 193.25.44.37
+wr.wi 86400 IN A 193.25.32.158
+autoconfig.wi 86400 IN A 193.25.43.91
+xenophon.design 86400 IN A 193.25.44.21
+pc-6.hrz 86400 IN A 193.25.36.6
+www.make.design 86400 IN A 193.25.44.37
+mail.design 86400 IN A 193.25.44.30
+www.stp.emw 86400 IN A 193.25.39.57
+ar.afg 86400 IN A 193.25.44.34
+hsb 86400 IN MX 200 y-mail.hrz
+gremien 86400 IN MX 200 y-mail.hrz
+ical.afg 86400 IN A 193.25.43.137
+roadwarrior.inf 86400 IN A 193.25.37.130
+paula.design 86400 IN A 193.25.44.22
+pc002.lbv 86400 IN A 193.25.37.163
+beschreibung.design 86400 IN A 193.25.44.47
+inf 86400 IN MX 200 mail.inf
+inf 86400 IN A 193.25.37.131
+fw-de.verw 86400 IN A 193.25.36.141
+filr3.afg 86400 IN A 193.25.43.173
+www.webdoku2.design 86400 IN A 193.25.44.37
+goldenlichtung.loel 86400 IN A 193.25.44.34
+str3-vut.lbv 86400 IN A 193.25.37.50
+flk.loel 86400 IN A 193.25.32.158
+neighborhoods.design 86400 IN A 193.25.44.37
+mfa.loel 86400 IN A 193.25.32.158
+pc06.stk 86400 IN A 193.25.38.199
+gis2.afg 86400 IN A 193.25.36.147
+hrz-mail.hrz 86400 IN A 193.25.33.230
+www.schnongs.design 86400 IN A 193.25.44.37
+www.fmb.emw 86400 IN A 193.25.39.57
+mail.wi 86400 IN A 193.25.32.136
+t07.y-hrz 86400 IN A 193.25.41.200
+dhcp.10glab-ipv6.emw 86400 IN AAAA 2001:638:914:2::2
+praes 86400 IN MX 200 y-mail.hrz
+maid.design 86400 IN A 193.25.44.37
+lehre.afg 86400 IN A 193.25.43.32
+adminforsch.design 86400 IN A 193.25.44.31
+www-bbg.hrz 86400 IN CNAME HP1-BBG.hrz
+igv.afg 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+igv.afg 86400 IN A 193.25.43.113
+ivs-1.hsb 86400 IN A 193.25.42.72
+www.03test.design 86400 IN A 193.25.44.37
+t05.y-hrz 86400 IN A 193.25.41.198
+webdoku1.design 86400 IN A 193.25.44.37
+blog01.wi 86400 IN A 193.25.32.156
+mail.bwp 86400 IN A 193.25.37.76
+xanten.afg 86400 IN A 193.25.43.99
+t03.y-hrz 86400 IN A 193.25.41.196
+ftp.afg 86400 IN A 193.25.43.147
+tom.studenten 86400 IN A 193.25.41.250
+back-01.hrz 86400 IN A 193.25.37.34
+ikhq.emw 86400 IN MX 100 EMW-SMTPGW1.emw
+86400 IN MX 100 EMW-SMTPGW2.emw
+www.xenophon.design 86400 IN A 193.25.44.21
+y-test 86400 IN MX 200 hrz-koe-ap13.hrz
+mlp.loel 86400 IN A 193.25.32.158
+argusy.hrz 86400 IN A 192.108.32.105
+db3.design 86400 IN A 193.25.44.31
+pc005.lbv 86400 IN A 193.25.37.166
+stp.emw 86400 IN A 193.25.39.57
+vut02.lbv 86400 IN A 193.25.37.51
+argusz.zik 86400 IN A 192.108.32.120
+pc09.stk 86400 IN A 193.25.38.202
+erntefest.wi 86400 IN A 193.25.32.158
+bio003.lbv 86400 IN A 193.25.37.73
+t09.y-hrz 86400 IN A 193.25.41.202
+fotografie.design 86400 IN A 193.25.44.37
+fw-koet.verw 86400 IN A 193.25.38.124
+www.secure.design 86400 IN A 193.25.44.37
+www.bmt.emw 86400 IN A 193.25.39.57
+vibe.afg 86400 IN A 193.25.43.117
+hsb-koet-ivs02.hsb 86400 IN A 193.25.42.79
+pc01.fttz 86400 IN A 193.25.38.132
+mail.student.bwp 86400 IN A 193.25.37.99
+loel-mle-serv.loel 86400 IN A 193.25.32.204
+www.gz 86400 IN A 193.25.37.142
+mail.emw 86400 IN A 193.25.39.56
+www.download.design 86400 IN A 193.25.44.37
+hrz-koe-nb.hrz 86400 IN A 192.108.32.103
+tzk-1.hrz 86400 IN A 193.25.41.29
+student.afg 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+hrz-dom1.hrz 86400 IN CNAME hrz-srv-1.hrz
+sam.emw 86400 IN A 193.25.39.43
+dds2015.design 86400 IN A 193.25.44.37
+www1.bwp 86400 IN A 193.25.37.76
+mr.emw 86400 IN MX 100 EMW-SMTPGW1.emw
+86400 IN MX 100 EMW-SMTPGW2.emw
+ldap-31.network 86400 IN A 193.25.36.40
+hs-01-121.inf 86400 IN A 193.25.39.199
+HP1-BBG 86400 IN CNAME HP1-BBG.hrz
+www.01test.design 86400 IN A 193.25.44.37
+lebensmitteltechnologie.loel 86400 IN A 193.25.32.158
+test.emw 86400 IN MX 100 mfilter-144-1-1.mx.srv.dfn.de.
+86400 IN MX 100 mfilter-144-1-2.mx.srv.dfn.de.
+86400 IN MX 100 mfilter-144-1-3.mx.srv.dfn.de.
+monitor.wi 86400 IN A 193.25.32.158
+www.webloel.design 86400 IN A 193.25.44.34
+bios01.lbv 86400 IN CNAME bio001.lbv
+test 86400 IN AAAA 2001:638:914:1::24
+test 86400 IN A 192.108.32.24
+ap13.y-isdn 86400 IN A 193.25.41.238
+t10.y-hrz 86400 IN A 193.25.41.203
+dib.afg 86400 IN MX 200 mail.afg
+86400 IN MX 250 mail2.afg
+dib.afg 86400 IN A 193.25.43.113
+xterm3.hrz 86400 IN A 192.108.32.27
+mail2.afg 86400 IN A 193.25.43.33
+hrz-koe-ap5.hrz 86400 IN A 192.108.32.188
+webgis.loel 86400 IN A 193.25.34.40
+dimensions-of.design 86400 IN A 193.25.44.37
+ap11.y-isdn 86400 IN A 193.25.41.236
+gate-mail.zik 86400 IN A 193.25.33.233
+www.wi 86400 IN A 193.25.37.142
+intranet.design 86400 IN A 193.25.44.37
+www.paula.design 86400 IN A 193.25.44.22
+apl13.y-isdn 86400 IN A 193.25.41.222
+hsb-web.hsb 86400 IN A 193.25.42.81
+mwi.emw 86400 IN A 193.25.39.57
+stura 86400 IN MX 200 y-mail.hrz
+stura 86400 IN A 193.25.37.142
+cms.afg 86400 IN A 193.25.43.91
+jerry.studenten 86400 IN A 193.25.41.251
+apl11.y-isdn 86400 IN A 193.25.41.220
+www.kolleg.loel 86400 IN A 193.25.34.143
+nsbg.zik 86400 IN A 193.25.33.226
+ap7.y-isdn 86400 IN A 193.25.41.232
+tr-zweiDdreiD.design 86400 IN A 193.25.44.47
+spam-mail.afg 86400 IN A 193.25.43.254
+ip-193-25-42-150 86400 IN A 193.25.42.150
+spam-mail.zik 86400 IN A 193.25.33.231
+fb7.bwp 86400 IN A 193.25.37.76
+apl08.y-isdn 86400 IN A 193.25.41.217
+helpdesk.wi 86400 IN A 193.25.43.91
+filr1.afg 86400 IN A 193.25.43.171
+bio010.lbv 86400 IN A 193.25.37.67
+www.igv.afg 86400 IN A 193.25.43.113
+interaction.design 86400 IN A 193.25.44.37
+apl06.y-isdn 86400 IN A 193.25.41.215
+nas.verw 86400 IN A 193.25.41.6
+hrz-koe-ap8.hrz 86400 IN A 192.108.32.183
+ldap-21.network 86400 IN A 193.25.33.228
+ip-193-25-33-33 86400 IN A 193.25.33.33
+ip-193-25-33-34 86400 IN A 193.25.33.34
+ip-193-25-33-35 86400 IN A 193.25.33.35
+ip-193-25-33-36 86400 IN A 193.25.33.36
+ip-193-25-33-37 86400 IN A 193.25.33.37
+ip-193-25-33-38 86400 IN A 193.25.33.38
+ip-193-25-33-40 86400 IN A 193.25.33.40
+ip-193-25-33-41 86400 IN A 193.25.33.41
+ip-193-25-33-42 86400 IN A 193.25.33.42
+ip-193-25-33-43 86400 IN A 193.25.33.43
+ip-193-25-33-44 86400 IN A 193.25.33.44
+86400 IN A 193.25.33.45
+ip-193-25-33-46 86400 IN A 193.25.33.46
+apl04.y-isdn 86400 IN A 193.25.41.213
+vorort.design 86400 IN A 193.25.44.37
+autoconfig.loel 86400 IN A 193.25.43.91
+student.bwp 86400 IN MX 200 mail.student.bwp
+mediendidaktik.design 86400 IN A 193.25.44.47
+autodiscover.student.emw 86400 IN A 193.25.39.56
+roadrunner.inf 86400 IN A 193.25.37.130
+mail.hsb 86400 IN A 193.25.42.66
+apl02.y-isdn 86400 IN A 193.25.41.211
+www.inf 60 IN A 193.25.37.130
+t08.y-hrz 86400 IN A 193.25.41.201
+mail.hrz 86400 IN CNAME hrz-mail.hrz
+www.timelab.design 86400 IN A 193.25.44.37
+t02.y-hrz 86400 IN A 193.25.41.195
+ftp.loel 86400 IN A 193.25.32.157
+mail.inf 60 IN A 193.25.37.131
+ap9.y-isdn 86400 IN A 193.25.41.234
+mer.loel 86400 IN A 193.25.32.158
+emw-quarantine.emw 86400 IN A 193.25.39.58
+argus 86400 IN CNAME argus.hrz
+www.phpmyadmin.design 86400 IN A 193.25.44.37
+events 86400 IN MX 200 y-mail.hrz
+kloster.wi 86400 IN A 193.25.32.158
+hrz-koe-ap30.hrz 86400 IN A 192.108.32.30
+cdres.afg 86400 IN A 193.25.43.106
+gate-01.network 86400 IN A 193.25.37.103
+pc01.tzk 86400 IN A 193.25.41.30
+pc04.stk 86400 IN A 193.25.38.197
+www.afg 86400 IN A 193.25.43.113
+www.livestream.design 86400 IN A 193.25.44.37
+civicrm.design 86400 IN A 193.25.44.34
+ap5.y-isdn 86400 IN A 193.25.41.230
+www.zik 86400 IN A 193.25.41.3
+pc02.fttz 86400 IN A 193.25.38.131

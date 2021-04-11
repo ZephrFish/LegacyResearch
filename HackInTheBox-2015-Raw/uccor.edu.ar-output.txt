@@ -1,0 +1,65 @@
+@ 86400 IN SOA risc root.linux2 2014020602 28800 7200 604800 86400
+@ 86400 IN NS risc
+86400 IN NS linux2
+@ 86400 IN A 200.45.112.13
+@ 86400 IN MX 10 wally
+@ 86400 IN TXT "v=spf1 mx ip4:200.45.112.15 ~all"
+wally 86400 IN A 200.45.112.13
+linux2 86400 IN A 200.45.112.13
+www.intranet.icda 86400 IN CNAME icda
+www.proetica 86400 IN CNAME campus.icda
+siuc1 86400 IN A 200.45.112.16
+siuc2 86400 IN A 200.45.112.29
+siuc3 86400 IN A 200.45.112.36
+siuc4 86400 IN A 200.45.112.37
+webmail 86400 IN CNAME wally
+blog 86400 IN CNAME lenny
+marvin 1 IN A 200.45.112.14
+cisco 86400 IN A 200.45.112.1
+mafalda 86400 IN A 200.45.112.18
+campus.icda 86400 IN A 190.210.68.65
+produccion.bibdigital 86400 IN A 200.45.112.31
+aleph 86400 IN A 200.45.112.40
+www.cipeap-profim 86400 IN CNAME icda
+proxy1 86400 IN A 200.45.112.6
+proxy2 86400 IN A 200.45.112.10
+invernadero 86400 IN A 200.45.112.49
+www.icda 86400 IN CNAME icda
+gb._domainkey.icda 86400 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8PXtphLSZy0BIFHnKl6U+CRw3dczXngDoUcMGXqQ8Or6HR995B0YqkIbQgy4PkkG+Xp+uOcsUyNVfFl0l+/kfYn/wssNhmXyU8O2hjDjzRGsJ3Vw9CMBvieMDYb5iI/NQRg7OGUd8Fel0kHv/0BpJzK4Eoh+qOx1cGiWcv02sNwIDAQAB"
+soa 86400 IN A 200.45.112.9
+lenny 86400 IN A 200.45.112.15
+moodle 86400 IN CNAME lenny
+vlf 86400 IN A 200.45.112.61
+pop3 86400 IN CNAME wally
+bibdigital 86400 IN A 200.45.112.31
+siuc 86400 IN A 200.45.112.7
+www.campus.icda 86400 IN CNAME campus.icda
+icda 86400 IN A 200.58.112.230
+icda 86400 IN MX 35 correoicda
+icda 86400 IN TXT "v=spf1 a mx include:fastgb.com ~all"
+indacor 86400 IN A 200.45.112.47
+agro 86400 IN A 200.45.112.12
+mail 86400 IN A 200.45.112.3
+evalua 86400 IN A 200.45.112.20
+comun-2 86400 IN A 200.45.112.2
+ftp 86400 IN A 200.45.112.2
+tesis.bibdigital 86400 IN A 200.45.112.31
+mail.icda 86400 IN MX 40 correoicda
+w3 86400 IN A 200.45.112.18
+www 86400 IN A 200.45.112.18
+www.int 86400 IN A 200.45.112.18
+localhost 86400 IN A 127.0.0.1
+correoicda 86400 IN A 190.210.68.65
+intranet.icda 86400 IN CNAME icda
+moodledev 86400 IN CNAME lenny
+correo 86400 IN A 200.45.112.5
+proxy 86400 IN A 200.45.112.42
+risc 86400 IN A 200.45.112.15
+compras.bibdigital 86400 IN A 200.45.112.31
+cordobaebt 86400 IN A 200.45.112.33
+exchsrvr.mail 86400 IN A 200.45.112.3
+tesisabuc 86400 IN A 200.45.112.31
+campus1 86400 IN MX 15 lenny
+campus2 86400 IN A 200.45.112.8
+smtp 86400 IN CNAME wally
+proyectos 86400 IN CNAME lenny

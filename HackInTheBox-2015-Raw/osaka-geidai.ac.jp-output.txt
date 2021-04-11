@@ -1,0 +1,105 @@
+@ 1800 IN SOA renoir root 2015020501 7200 3600 1209600 1800
+@ 1800 IN NS klee
+1800 IN NS degas
+1800 IN NS renoir
+@ 1800 IN MX 10 mailgw
+Design-ID 1800 IN A 10.1.10.27
+Fine-Cubic 1800 IN A 10.1.20.5
+Photography 1800 IN A 10.1.16.7
+ribra 1800 IN A 10.1.23.52
+jc 1800 IN NS klee
+1800 IN NS degas
+1800 IN NS renoir
+sav-sv 1800 IN A 10.1.36.11
+it 1800 IN NS klee
+1800 IN NS degas
+1800 IN NS renoir
+oua-net 1800 IN A 10.1.23.109
+511file-sv1 1800 IN A 10.1.36.7
+511file-sv2 1800 IN A 10.1.36.8
+pop3 1800 IN CNAME mail-sv
+works 1800 IN A 118.151.165.152
+lib 1800 IN A 210.162.156.136
+renoir 1800 IN MX 10 mailgw
+renoir 1800 IN A 210.162.156.130
+Bradcasting 1800 IN A 10.1.6.4
+www 1800 IN CNAME degas
+OUALIB 1800 IN A 192.168.200.129
+Stage 1800 IN A 10.1.2.5
+Design-SD 1800 IN A 10.1.28.160
+i 1800 IN CNAME syllabus
+LIBRARY 1800 IN A 192.168.200.129
+monet 1800 IN CNAME mail-sv
+gogh 1800 IN A 210.162.156.163
+Design-VD 1800 IN A 10.1.27.40
+univision 1800 IN A 210.162.156.183
+abc 1800 IN A 10.1.9.46
+webmail 1800 IN A 210.162.156.140
+Crafts-Metalwork 1800 IN A 10.1.10.34
+Literary 1800 IN A 10.1.7.10
+print 1800 IN A 10.0.1.51
+OUA-N 1800 IN A 10.1.23.25
+mmdb 1800 IN A 10.1.30.48
+test 1800 IN A 10.1.30.90
+mail 1800 IN CNAME mail-sv
+ftp 1800 IN CNAME degas
+klee 1800 IN A 10.0.1.3
+arts 1800 IN A 10.1.9.33
+Crafts-D-and-W 1800 IN A 10.1.19.5
+uvbksv 1800 IN A 210.162.156.181
+proxy 1800 IN CNAME ocn
+jordan 1800 IN A 210.162.156.130
+localhost 1800 IN A 127.0.0.1
+picasso 1800 IN A 210.162.156.147
+Musicology 1800 IN A 10.1.2.4
+nettutorserver 1800 IN A 10.1.13.23
+degas 1800 IN A 210.162.156.163
+mail-sv 1800 IN A 210.162.156.139
+webmail2 1800 IN CNAME picasso
+webmail3 1800 IN CNAME webmail
+ocn 1800 IN A 10.0.1.40
+chagall 300 IN A 210.162.156.146
+myqs 1800 IN A 192.168.105.250
+pcroomserver 1800 IN A 10.1.13.16
+grad 1800 IN NS klee
+1800 IN NS degas
+1800 IN NS renoir
+Crafts-Textile 1800 IN A 10.1.17.7
+Architecture 1800 IN A 10.1.15.8
+mailgw 1800 IN A 210.162.156.138
+jouhou 1800 IN A 10.1.59.80
+Visual 1800 IN A 10.1.7.9
+syllabus 1800 IN A 210.162.156.166
+tandai 1800 IN MX 10 mailgw
+pippen 1800 IN A 210.162.156.131
+General 1800 IN A 10.1.9.32
+klimt 1800 IN MX 10 mailgw
+klimt 300 IN A 210.162.156.162
+amano 1800 IN A 192.168.106.53
+jcc 1800 IN NS klee
+1800 IN NS degas
+1800 IN NS renoir
+webcollabo 1800 IN A 10.1.26.2
+cord 1800 IN NS klee
+1800 IN NS degas
+1800 IN NS renoir
+Fine-Plane 1800 IN A 10.1.20.14
+OUA-NMAC 1800 IN A 10.1.23.24
+ocn2 1800 IN A 10.0.1.40
+511mac-sv1 1800 IN A 10.1.36.9
+511mac-sv2 1800 IN A 10.1.36.10
+Environmental 1800 IN A 10.1.9.30
+Crafts-Ceramics 1800 IN A 10.1.17.6
+oua 1800 IN A 210.162.156.167
+dali 1800 IN A 10.0.2.10
+syllabus2 1800 IN A 210.162.156.174
+uvdbsv 1800 IN A 210.162.156.176
+M-Performance 1800 IN A 10.1.3.5
+Graduate-C 1800 IN A 10.1.28.12
+dufy 1800 IN A 210.162.156.148
+Graduate-S 1800 IN A 10.1.23.14
+Music-Education 1800 IN A 10.1.5.4
+kids 1800 IN NS klee
+1800 IN NS degas
+1800 IN NS renoir
+Design-FO 1800 IN A 10.1.28.151

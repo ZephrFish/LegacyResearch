@@ -1,0 +1,20 @@
+@ 86400 IN SOA ns1.secure.net. hostmaster.secure.net. 2014010829 86400 7200 2592000 86400
+@ 86400 IN NS ns1.secure.net.
+86400 IN NS ns2.secure.net.
+@ 3600 IN MX 10 @
+@ 3600 IN A 208.55.217.138
+pop 3600 IN CNAME @
+mail 86400 IN CNAME @
+* 86400 IN CNAME @
+server 3600 IN A 197.211.39.211
+exchage 86400 IN A 197.211.39.211
+elearning 86400 IN A 41.222.41.2
+localhost 3600 IN A 127.0.0.1
+library 86400 IN A 197.211.39.210
+news 3600 IN CNAME @
+imap 3600 IN CNAME @
+admissions 86400 IN A 208.55.217.138
+koha 86400 IN A 41.87.81.138
+smtp 3600 IN CNAME @
+ftp 3600 IN CNAME @
+www 3600 IN CNAME @

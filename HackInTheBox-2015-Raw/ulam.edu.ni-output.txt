@@ -1,0 +1,18 @@
+@ 3600 IN SOA ns.tigobusiness.com.ni. sysadmin.tigobusiness.com.ni. 2014092903 7200 7200 1209600 10800
+@ 3600 IN NS ns.tigobusiness.com.ni.
+3600 IN NS ns2.tigobusiness.com.ni.
+3600 IN NS ns3.tigobusiness.com.ni.
+@ 3600 IN A 190.53.36.109
+@ 3600 IN MX 0 ulam-edu-ni.mail.protection.outlook.com.
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+stu 3600 IN NS ns.tigobusiness.com.ni.
+3600 IN NS ns2.tigobusiness.com.ni.
+3600 IN NS ns3.tigobusiness.com.ni.
+www 3600 IN A 190.53.36.109
+docente 3600 IN NS ns.tigobusiness.com.ni.
+3600 IN NS ns2.tigobusiness.com.ni.
+3600 IN NS ns3.tigobusiness.com.ni.
+dbadmin 3600 IN A 165.98.132.8
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+correo 3600 IN CNAME autodiscover.outlook.com.
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.

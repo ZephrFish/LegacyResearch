@@ -1,0 +1,1239 @@
+@ 86400 IN SOA dns1 soa 2015042903 10800 3600 604800 86400
+@ 86400 IN A 132.181.106.1
+@ 86400 IN TXT "v=spf1 ip4:132.181.2.0/24 mx include:_spf.createsend.com ~all"
+@ 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+@ 86400 IN NS dns1
+86400 IN NS dns2
+86400 IN NS pubsec.domainz.net.nz.
+ng2hpc 86400 IN A 132.181.39.22
+www.euperceptions 86400 IN A 132.181.106.94
+autodiscover.o365test 86400 IN CNAME autodiscover.outlook.com.
+argos.clas 86400 IN A 132.181.214.71
+eshd 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psyc857.psyc 86400 IN A 132.181.250.183
+ucpeople 86400 IN A 132.181.106.133
+svn.elec 86400 IN A 132.181.50.86
+vader 86400 IN A 132.181.4.1
+www.libr 86400 IN CNAME library
+ng2hpcdev 86400 IN A 132.181.39.31
+linux1.cosc 86400 IN A 132.181.10.42
+www.conversations 86400 IN A 132.181.106.82
+www.regy 86400 IN A 132.181.223.194
+civ-kuhn09 86400 IN A 132.171.71.143
+86400 IN A 132.181.71.143
+moodle 86400 IN CNAME learn
+www.ucr3 86400 IN A 132.181.109.33
+www.maori 86400 IN A 132.181.106.52
+www.scc.ucanask 86400 IN CNAME csse-ucanask3
+ucsptestapp01 86400 IN A 132.181.7.59
+* 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+learn1 86400 IN A 132.181.109.37
+learn2 86400 IN A 132.181.109.10
+bsecweb 86400 IN A 132.181.190.11
+devel.ucanask 86400 IN CNAME csse-ucanask3
+quakestudiesuat 86400 IN A 132.181.106.214
+www.multi 86400 IN A 132.181.109.115
+p1n14 86400 IN A 132.181.39.71
+jobe2.cosc 86400 IN A 132.181.16.63
+wiki.cosc 86400 IN A 132.181.17.9
+elearning 86400 IN CNAME uctlapps
+uccomnaptest 86400 IN A 132.181.7.115
+hapuka.mech 86400 IN A 132.181.60.220
+campusliving1 86400 IN A 132.181.2.129
+wiki 86400 IN A 132.181.106.167
+myuctest 86400 IN A 132.181.109.43
+lecturedl 86400 IN A 132.181.7.96
+www.bioengineering 86400 IN A 132.181.106.128
+www.ucanask 86400 IN CNAME ucanask
+ucrhnproxy2 86400 IN A 132.181.39.224
+akaroa2 86400 IN CNAME akaroa
+cantuc.it 86400 IN A 132.181.2.215
+health 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+931711318.student 86400 IN CNAME domains.live.com.
+www.bic 86400 IN A 132.181.106.28
+englab3 86400 IN A 132.181.36.38
+www.edplus 86400 IN A 132.181.106.38
+cmds 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psyc747.psyc 86400 IN A 132.181.250.90
+_sip._tls 86400 IN SRV 0 100 443 lyncaccess
+www.cae 86400 IN A 132.181.99.5
+selfservice.it 86400 IN A 132.181.39.191
+www.demo 86400 IN A 132.181.39.209
+telnetgate 86400 IN A 132.181.3.234
+shc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.cbe 86400 IN A 132.181.106.14
+test.services.is 86400 IN CNAME ucisdev0001
+www.compeng 86400 IN A 132.181.106.196
+www.civilstaff.civil 86400 IN CNAME civilac.civil
+www.blackboard 86400 IN CNAME learn
+uctempvacancies 86400 IN A 132.181.106.174
+csse-s302g10 86400 IN A 132.181.16.67
+afis-vweb 86400 IN A 132.181.190.13
+extras.csse 86400 IN CNAME csse-auxweb
+uccheckout 86400 IN A 132.181.106.169
+postgres.cosc 86400 IN CNAME cssedb1.cosc
+www.music 86400 IN A 132.181.106.59
+quake 86400 IN A 132.181.70.14
+www.civil 86400 IN A 132.181.106.124
+donkey.mang 86400 IN CNAME pophost.mang
+www.nzilbb 86400 IN A 132.181.106.123
+www.avs 86400 IN A 132.181.106.33
+www.cem 86400 IN A 132.181.33.17
+gram5bgp 86400 IN A 132.181.39.77
+www.uciswww1 86400 IN A 132.181.2.72
+www.uciswww2 86400 IN A 132.181.2.73
+it-agtablet 86400 IN A 132.181.4.20
+www.cad 86400 IN CNAME lore.cad
+psyc819.psyc 86400 IN A 132.181.250.169
+afis 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+afis 86400 IN A 132.181.190.1
+ictg.cosc 86400 IN A 132.181.16.57
+libr 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psyc749.psyc 86400 IN A 132.181.250.209
+hazsim.geol 86400 IN A 132.181.229.100
+www.webstandards-dev 86400 IN A 132.181.6.9
+regy 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+test 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ims.geog 86400 IN A 132.181.180.8
+sem 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+domserver.cosc 86400 IN A 132.181.7.114
+defi 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+login 86400 IN A 132.181.109.70
+redmine.cosc 86400 IN A 132.181.16.60
+itgate 86400 IN A 132.181.39.59
+cantns1 86400 IN A 132.181.7.4
+cantns2 86400 IN A 132.181.7.5
+agilefant.cosc 86400 IN CNAME csse-agile2
+idpdev 86400 IN A 132.181.106.180
+UCUniMarketWS 86400 IN A 132.181.152.131
+spendvision 86400 IN A 132.181.106.187
+ir 86400 IN A 132.181.36.194
+lyncav 86400 IN A 132.181.109.94
+rels 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cosc110.cosc 86400 IN A 132.181.13.96
+profiler 86400 IN A 132.181.106.172
+lyncdiscover.o365test 86400 IN CNAME webdir.online.lync.com.
+gram5p7dev 86400 IN A 132.181.39.112
+www.hums 86400 IN A 132.181.106.25
+wcmsuat 86400 IN A 132.181.109.121
+www.cosc 86400 IN A 132.181.17.3
+claude.elec 86400 IN A 132.181.54.133
+visitor3.chem 86400 IN A 132.181.173.80
+ucsa 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+uccron 86400 IN A 132.181.39.120
+uco 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+secure.ucportal 86400 IN A 132.181.2.187
+cosc451.cosc 86400 IN A 132.181.9.65
+www.gend 86400 IN A 132.181.106.20
+psyc761.psyc 86400 IN A 132.181.250.184
+rideshare 86400 IN CNAME www.rideshare
+www.pacs 86400 IN A 132.181.106.65
+mytimetable 86400 IN CNAME allocate
+www.geog 86400 IN A 132.181.109.113
+okains.dmz 86400 IN A 132.181.3.226
+hmc01 86400 IN A 132.181.39.4
+rsiccam1 86400 IN A 132.181.246.4
+ilam 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.geol 86400 IN A 132.181.106.88
+www.csc 86400 IN A 132.181.106.111
+mydocuments 86400 IN A 132.181.2.132
+blog.libr 86400 IN A 132.181.36.20
+ling 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+gaines.zool 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+gaines.zool 86400 IN A 132.181.221.126
+ears2 86400 IN A 132.181.2.55
+ucmailman 86400 IN A 132.181.39.135
+ucmailman 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+quiz.cosc 86400 IN A 132.181.109.34
+www.leadershipprogramme 86400 IN A 132.181.106.14
+www.academicskills 86400 IN A 132.181.106.14
+www.inbi 86400 IN A 132.181.106.49
+www.scienceheadstart 86400 IN A 132.181.106.14
+shac 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cape3.cape 86400 IN A 132.181.80.235
+quakestudiesuatapi 86400 IN A 132.181.106.9
+www.research 86400 IN A 132.181.106.67
+vpnserver 86400 IN CNAME ucvpn
+gocert 86400 IN A 202.36.179.84
+www.dmg 86400 IN A 132.181.106.156
+stouffer 86400 IN A 132.181.220.12
+webct.afis 86400 IN A 132.181.190.202
+zool 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+zool 86400 IN A 132.181.221.2
+myuc 86400 IN A 132.181.109.21
+bardeen.phys 86400 IN A 132.181.40.16
+jour 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+bsec-game 86400 IN A 132.181.36.32
+csse-s202g5 86400 IN A 132.181.16.45
+yukawa.phys 86400 IN A 132.181.40.11
+pukeko.cosc 86400 IN A 132.181.12.13
+hitlag.karen 86400 IN A 202.36.178.10
+laws 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+laws 86400 IN A 132.181.200.239
+csse-extweb2 86400 IN A 132.181.7.101
+edplus 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+beeby.educ 86400 IN A 132.181.232.199
+zserver 86400 IN CNAME ipac
+ucvacancies 86400 IN A 132.181.106.134
+uctlwiki 86400 IN A 132.181.39.28
+www.ensoc 86400 IN A 132.181.210.222
+ssrc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psyc712.psyc 86400 IN A 132.181.250.118
+csse-ucanask1 86400 IN A 132.181.7.123
+cdb.cosc 86400 IN A 132.181.17.3
+ucconnecttest 86400 IN A 132.181.33.37
+password 86400 IN A 132.181.106.56
+www.pams 86400 IN CNAME www.biol
+telecommunications 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+csse-ucanask3 86400 IN A 132.181.7.125
+mang 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mang 86400 IN A 132.181.155.239
+cont 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+hitlfs 86400 IN A 132.181.227.10
+cantuc.csc 86400 IN CNAME cantuc.its
+lore.cad 86400 IN A 132.181.210.84
+hitlspiceworks 86400 IN A 132.181.227.11
+ucanask 86400 IN A 132.181.36.23
+cadms 86400 IN CNAME cad
+www.fore 86400 IN A 132.181.106.46
+staffclub 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ucspdev01 86400 IN A 132.181.7.61
+ucotp1 86400 IN A 132.181.39.238
+math 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ucsmstest 86400 IN A 132.181.2.236
+wiki3.cosc 86400 IN CNAME csse-wiki4
+rsic-cam2 86400 IN A 132.181.93.11
+fmst 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.elm 86400 IN A 132.181.106.157
+hums 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mgmt-vweb 86400 IN A 132.181.190.12
+surveyrequests.erau 86400 IN A 132.181.249.5
+cosc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cosc 86400 IN A 132.181.17.3
+maps 86400 IN A 132.181.152.130
+bitbucket.it 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.hapuka 86400 IN CNAME hapuka.mech
+www.ffc 86400 IN A 132.181.106.43
+exec 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+gend 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+libguides 86400 IN CNAME libguides.com.
+p2n14 86400 IN A 132.181.39.72
+pacs 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+econ-bsr15-srv2 86400 IN A 132.181.39.90
+geog 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+geog 86400 IN A 132.181.180.4
+www.rels 86400 IN A 132.181.106.14
+emat.mech 86400 IN A 132.181.62.30
+gotest 86400 IN A 202.36.179.83
+geol 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+geol 86400 IN A 132.181.229.100
+labbcat 86400 IN A 132.181.106.191
+bpfen1 86400 IN A 132.181.39.44
+db.psyc 86400 IN A 132.181.250.11
+maul 86400 IN A 132.181.4.2
+web.test.is 86400 IN CNAME ucisdev0001
+ftp.phys 86400 IN CNAME tycho.phys
+_sipfederationtls._tcp.o365test 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+www.nzsac 86400 IN A 132.181.106.23
+www.mech 86400 IN A 132.181.106.126
+ucojs 86400 IN A 132.181.7.45
+langstream 86400 IN A 132.181.109.41
+www.math 86400 IN A 132.181.26.35
+www.entre 86400 IN A 132.181.106.116
+www.conference 86400 IN A 132.181.106.14
+www.ucqc 86400 IN A 132.181.106.217
+physdesk36.phys 86400 IN A 132.181.43.175
+inco 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+linux2.cosc 86400 IN A 132.181.16.47
+vrc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+aied2011 86400 IN A 132.181.17.8
+onzeplus 86400 IN A 132.181.2.12
+stuwebg4.erau 86400 IN A 132.181.249.1
+mentoring 86400 IN CNAME server.ibdg.co.nz.
+www.ntrc 86400 IN A 132.181.106.186
+pophost.elec 86400 IN CNAME claude.elec
+release.ucanask 86400 IN CNAME ucanask
+connect 86400 IN A 132.181.36.197
+kohika 86400 IN A 132.181.36.112
+mechub.mech 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mechub.mech 86400 IN A 132.181.62.154
+www.library 86400 IN CNAME library
+msoid.student 3600 IN CNAME clientconfig.microsoftonline-p.net.
+shop.icts 86400 IN A 132.181.106.14
+uctlapps 86400 IN A 132.181.39.186
+ngdata 86400 IN A 132.181.39.14
+qtss 86400 IN A 132.181.2.48
+nzfvcweb 86400 IN A 132.181.2.13
+sheep.mang 86400 IN A 132.181.155.73
+www.iss 86400 IN CNAME www.isc
+aspiring.it 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.fren 86400 IN CNAME www.lanc
+science 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+greymatter 86400 IN A 132.181.36.17
+ucspapp01 86400 IN A 132.181.7.46
+ucunimarket1p 86400 IN A 132.181.33.160
+chemwatch 86400 IN A 132.181.106.178
+studweb.cosc 86400 IN A 132.181.17.4
+kaka.cosc 86400 IN A 132.181.10.25
+communicator 86400 IN A 132.181.151.204
+planetlabnz 86400 IN A 132.181.17.8
+surveys.cem 86400 IN A 132.181.33.17
+nggums 86400 IN A 132.181.39.18
+ucspweb01 86400 IN A 132.181.7.47
+ucspweb02 86400 IN A 132.181.7.48
+orac.psyc 86400 IN A 132.181.250.5
+test.sites.bss 86400 IN A 132.181.2.216
+quakestudiesapi 86400 IN A 132.181.106.115
+ucweb 86400 IN A 132.181.2.104
+legacy.tdomain 86400 IN A 132.181.39.34
+www.bsec-studentadvisor 86400 IN A 132.181.36.32
+mars-dicom 86400 IN A 132.181.40.17
+www.hcu 86400 IN A 132.181.106.131
+mysql.cosc 86400 IN CNAME cssedb1.cosc
+surveyserver 86400 IN A 132.181.4.2
+ucar 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+anta-gamma 86400 IN A 132.181.181.170
+ucmysites 86400 IN A 132.181.106.14
+ucpsyc686 86400 IN A 132.181.135.236
+ucmedshare 86400 IN A 132.181.7.81
+www.csse 86400 IN CNAME www.cosc
+lego.mech 86400 IN CNAME www.mech
+open.grc 86400 IN A 132.181.86.22
+cscweb 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ucvpn 86400 IN A 132.181.39.54
+www.gridc 86400 IN A 132.181.106.84
+psyc748.psyc 86400 IN A 132.181.250.236
+www.ipv6 86400 IN CNAME ipv6
+webservices.libr 86400 IN A 132.181.2.68
+design.it 86400 IN A 132.181.2.193
+staffdocs.cosc 86400 IN A 132.181.17.7
+www.tepunatoi 86400 IN A 132.181.106.118
+firth 86400 IN A 132.181.231.1
+www.grc 86400 IN A 132.181.106.90
+altfp 86400 IN A 202.36.179.73
+www.nzcsrsc08 86400 IN A 132.181.17.8
+www.zool 86400 IN CNAME www.bio
+lcapy.elec 86400 IN A 132.181.51.220
+www.buslaw 86400 IN A 132.181.109.25
+www.aied2011 86400 IN A 132.181.17.8
+psyc-gfl18.psyc 86400 IN A 132.181.251.201
+ssh.elec 86400 IN A 132.181.50.15
+erau-ogier.erau 86400 IN A 132.181.249.8
+www.lawsoc 86400 IN A 132.181.93.71
+viz0 86400 IN A 132.181.39.28
+megellan.phys 86400 IN A 132.181.42.54
+securemail 86400 IN A 132.181.2.27
+86400 IN A 132.181.2.28
+meet 86400 IN CNAME lyncexternalweb
+_sipfederationtls._tcp 86400 IN SRV 0 100 5061 lyncaccess
+ucfinance 86400 IN A 132.181.2.41
+blogs 86400 IN A 132.181.109.77
+lyncaccess 86400 IN A 132.181.109.92
+viz2 86400 IN A 132.181.39.16
+www.akaroa 86400 IN CNAME akaroa
+www.geohealth 86400 IN A 132.181.109.109
+csseldap1.cosc 86400 IN CNAME cosc870.cosc
+drama 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+sociag.karen 86400 IN A 202.36.179.196
+autodiscover.student 3600 IN CNAME autodiscover.outlook.com.
+beimsrequest 86400 IN A 132.181.106.184
+ucstreamtime 86400 IN A 132.181.7.78
+logindev 86400 IN A 132.181.109.71
+antivirusupdates 86400 IN A 132.181.106.158
+ucportal 86400 IN A 132.181.2.59
+86400 IN A 132.181.2.92
+bonds 86400 IN A 132.181.106.31
+www.ucnow 86400 IN CNAME canterburyac-ssl.shuttlerock.com.
+fren 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ucmirror 86400 IN A 132.181.7.179
+sage.math 86400 IN A 132.181.26.35
+saps 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.scpe 86400 IN A 132.181.106.77
+280996351.pg 86400 IN CNAME domains.live.com.
+regyexch.regy 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+regyexch.regy 86400 IN A 132.181.219.113
+forms 86400 IN A 132.181.106.177
+autodiscover.ext 86400 IN CNAME autodiscover.outlook.com.
+hsci 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+adg 86400 IN A 132.181.106.164
+www.cult 86400 IN A 132.181.106.14
+cssecs2 86400 IN A 132.181.16.30
+www.amst 86400 IN A 132.181.106.14
+compsoc 86400 IN CNAME csse-auxweb
+www.dipl 86400 IN A 132.181.106.20
+www.web 86400 IN A 132.181.106.80
+coweb.elec 86400 IN A 132.181.50.87
+learn 86400 IN A 132.181.109.10
+abacus 86400 IN A 132.181.29.10
+mathxeon7.math 86400 IN A 132.181.26.53
+ipls 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.econ 86400 IN A 132.181.106.100
+hearing 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ucmoodle 86400 IN CNAME learn
+autodiscover 86400 IN A 132.181.107.25
+secure.math 86400 IN A 132.181.26.36
+aha 86400 IN CNAME uctlapps
+sentinel1.geog 86400 IN A 132.181.180.10
+csse 86400 IN A 132.181.7.101
+csse 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+hapuka 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ears 86400 IN A 132.181.2.80
+www.ling 86400 IN A 132.181.106.14
+ipv6 86400 IN AAAA 2404:6a00:4:2::1023
+vivian.libr 86400 IN A 132.181.2.58
+sharedev15 86400 IN A 132.181.33.62
+www.bridges 86400 IN A 132.181.17.8
+www.cutc 86400 IN A 132.181.250.5
+www.ucsc 86400 IN A 132.181.106.75
+csse-s202g0 86400 IN A 132.181.16.40
+csse-s202g1 86400 IN A 132.181.16.41
+csse-s202g2 86400 IN A 132.181.16.42
+csse-s202g3 86400 IN A 132.181.16.43
+csse-s202g4 86400 IN A 132.181.16.44
+anta-sunshine 86400 IN A 132.181.181.223
+csse-s202g6 86400 IN A 132.181.16.46
+mail.chem 86400 IN A 132.181.173.162
+physgrid1.phys 86400 IN A 132.181.40.201
+mjuo 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+sabbatical 86400 IN A 132.181.106.207
+lyncdiscover 86400 IN CNAME lyncexternalweb
+uchrwebtest 86400 IN A 132.181.7.39
+www.anta 86400 IN A 132.181.106.86
+exchange.tdomain 86400 IN A 132.181.107.17
+ucgridgw 86400 IN A 132.181.39.10
+pophost 86400 IN A 132.181.2.27
+86400 IN A 132.181.2.28
+www.ecats 86400 IN A 132.181.70.1
+itss-cjh92 86400 IN A 132.181.4.233
+bgfen1 86400 IN A 132.181.39.9
+apriori 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cantvi2 86400 IN A 132.181.2.69
+ucweb3 86400 IN A 132.181.2.47
+psyc837.psyc 86400 IN A 132.181.251.214
+www.goldenkey 86400 IN A 132.181.7.44
+ucgridserver 86400 IN A 132.181.39.109
+psyc555a.psyc 86400 IN A 132.181.250.148
+shop.it 86400 IN CNAME shop.icts
+loghost 86400 IN CNAME localhost
+www.its 86400 IN A 132.181.106.111
+www.communityeducation 86400 IN A 132.181.106.14
+myproxydev 86400 IN A 132.181.39.46
+www.webct 86400 IN CNAME learn
+www.wiki.ucanask 86400 IN CNAME csse-ucanask1
+bgl 86400 IN CNAME bgfen1
+www.nzac 86400 IN A 132.181.106.144
+cosc614.cosc 86400 IN A 132.181.9.156
+csse-auxweb 86400 IN A 132.181.7.108
+sip 86400 IN CNAME lyncaccess
+modcom 86400 IN A 132.181.2.80
+eclc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cad 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cad 86400 IN A 132.181.210.1
+cae 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+tycho.phys 86400 IN A 132.181.40.12
+joxnam 86400 IN A 132.181.32.235
+shannon.elec 86400 IN A 132.181.54.235
+www.nzi3 86400 IN A 132.181.106.14
+cosc955.cosc 86400 IN A 132.181.10.46
+ng2sge 86400 IN A 132.181.39.23
+www.engf 86400 IN A 132.181.106.129
+cult 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ras 86400 IN A 132.181.2.13
+amst 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.phed 86400 IN A 132.181.106.89
+spl-cam1 86400 IN A 132.181.80.3
+ucchargelog 86400 IN A 132.181.39.187
+www.education 86400 IN A 132.181.106.39
+www.serc 86400 IN A 132.181.106.200
+hitllifesize 86400 IN A 132.181.246.11
+econ 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www1.afis 86400 IN A 132.181.191.201
+avs 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+gforge.elec 86400 IN A 132.181.50.88
+www.eatsclinic 86400 IN A 132.181.106.103
+cem 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+student 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+student 3600 IN MX 10 student-canterbury-ac-nz.mail.protection.outlook.com.
+hs 86400 IN A 132.181.109.48
+www.devel.ucanask 86400 IN CNAME csse-ucanask3
+caswell.dmz 86400 IN CNAME caswell
+europe 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cetf-cam1 86400 IN A 132.181.93.10
+linux3.cosc 86400 IN A 132.181.10.44
+cfs 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+uc-avcc 86400 IN A 132.181.2.42
+login.phys 86400 IN A 132.181.43.152
+www.phil 86400 IN A 132.181.106.66
+www.alumni 86400 IN CNAME 16594a.bbnc.bbcust.com.
+cutc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+panda.phys 86400 IN A 132.181.40.10
+shop.its 86400 IN CNAME shop.icts
+ecewiki.elec 86400 IN A 132.181.51.29
+studentservices 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cerberus.geog 86400 IN A 132.181.180.6
+jira 86400 IN A 132.181.106.209
+www.learningskills 86400 IN A 132.181.106.14
+callpilotreport 86400 IN A 132.181.2.98
+student.afis 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+student.afis 86400 IN A 132.181.190.1
+anta 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+research 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+recovery1 86400 IN A 130.123.2.70
+recovery2 86400 IN A 130.123.2.68
+staffdocs.csse 86400 IN CNAME csse-staffdocs
+cantma 86400 IN A 132.181.2.70
+cantmc 86400 IN A 132.181.2.30
+cantmd 86400 IN A 132.181.2.193
+www.planetlabnz 86400 IN A 132.181.17.8
+cantmf 86400 IN A 132.181.2.81
+www.comsdev 86400 IN A 132.181.106.36
+www.bsec-accreditation 86400 IN A 132.181.36.32
+accom 86400 IN A 132.181.2.10
+www.mba 86400 IN A 132.181.106.204
+eng-svn 86400 IN A 132.181.36.14
+editions 86400 IN A 132.181.7.14
+www.mbm 86400 IN A 132.181.106.117
+www.bsec-executivedevelopment 86400 IN A 132.181.36.32
+psycres 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+sturaic1.erau 86400 IN A 132.181.249.4
+geotranz 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ftp.mech 86400 IN CNAME www.mech
+jblunt.chem 86400 IN A 132.181.173.99
+www.med 86400 IN A 132.181.62.11
+mangweb.mang 86400 IN A 132.181.190.12
+allocate 86400 IN A 132.181.106.190
+ucisdev0001 86400 IN A 132.181.2.93
+cantsb 86400 IN A 132.181.30.11
+www.mem 86400 IN A 132.181.106.125
+events.conference 86400 IN CNAME eventspro
+ucstudentweb 86400 IN A 132.181.2.9
+educ 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.met 86400 IN A 132.181.106.14
+canttc 86400 IN A 132.181.30.167
+www.help 86400 IN CNAME help.it
+cgi.phys 86400 IN CNAME yukawa.phys
+artsf 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+phed 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.znuel 86400 IN A 132.181.106.148
+dns1 86400 IN A 132.181.7.4
+dns2 86400 IN A 132.181.7.5
+itil 86400 IN A 132.181.2.88
+slt 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+clock 86400 IN A 132.181.2.72
+cantva 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cantva 86400 IN A 132.181.2.27
+cantvb 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cantvb 86400 IN A 132.181.2.28
+lists 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+lists 86400 IN A 132.181.7.79
+mailhost 86400 IN A 132.181.2.27
+86400 IN A 132.181.2.28
+transcript 86400 IN A 132.181.106.163
+www.extras.cosc 86400 IN CNAME csse-auxweb
+cantvi 86400 IN A 132.181.2.61
+cd 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cup 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+_sip._tls.o365test 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+uctl-jeo22imac.erau 86400 IN A 132.181.249.6
+www.mjuo 86400 IN A 132.181.40.3
+fore 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+fore 86400 IN A 132.181.154.239
+dh 86400 IN A 132.181.106.183
+nimbus.geog 86400 IN A 132.181.180.5
+goldenkey 86400 IN A 132.181.7.44
+goldenkey 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+dmz 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+gram5bgpdev 86400 IN A 132.181.39.87
+phil 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.rosecentre 86400 IN A 132.181.106.26
+www.bsec-projects 86400 IN A 132.181.36.32
+psyc750.psyc 86400 IN A 132.181.250.182
+ucrecovery1 86400 IN A 130.123.2.70
+proudlydismal 86400 IN A 132.181.106.14
+unha 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mathrds3 86400 IN A 132.181.33.138
+fp 86400 IN A 202.36.179.71
+akowiki 86400 IN CNAME webapps.cce.ac.nz.
+csseldap2.cosc 86400 IN CNAME cosc850.cosc
+www.biol 86400 IN A 132.181.106.81
+gmailtest 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+go 86400 IN A 202.36.179.82
+uccardax 86400 IN A 132.181.39.21
+id 86400 IN A 132.181.106.97
+googleffffffffd12bb4da.gmailtest 86400 IN CNAME google.com.
+www.asia 86400 IN CNAME www.lanc
+nzcsrsc08 86400 IN A 132.181.17.8
+*.ezproxy 86400 IN A 132.181.2.66
+it 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.litarts 86400 IN A 132.181.106.51
+uclecturesys1 86400 IN A 132.181.7.95
+cem.educ 86400 IN A 132.181.96.234
+admission 86400 IN A 132.181.106.132
+cantsl.it 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.arth 86400 IN A 132.181.106.14
+psyc743.psyc 86400 IN A 132.181.250.83
+www2.civil 86400 IN CNAME civil
+mathlab3 86400 IN A 132.181.36.28
+sharetest 86400 IN A 132.181.7.97
+john.chem 86400 IN A 132.181.173.1
+hpclogin1 86400 IN CNAME l3n01
+www.arts 86400 IN A 132.181.106.32
+econ-vubuntu 86400 IN A 132.181.184.14
+umwl 86400 IN A 132.181.109.80
+openslat 86400 IN A 132.181.16.54
+ccc.cosc 86400 IN A 132.181.17.6
+www.bat.inbi 86400 IN A 132.181.220.184
+www.afromontane 86400 IN A 132.181.109.46
+www.hamlet 86400 IN A 132.181.62.7
+cad2 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cad2 86400 IN A 132.181.210.2
+foster 86400 IN CNAME bpfen1
+pg 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+help 86400 IN CNAME help.it
+www.cant 86400 IN A 132.181.106.14
+www.cape 86400 IN CNAME cape
+pams 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+smeagol.mech 86400 IN A 132.181.62.12
+webct 86400 IN CNAME learn
+myucgate 86400 IN A 132.181.109.62
+planetdrac3 86400 IN A 132.181.10.58
+planetdrac4 86400 IN A 132.181.10.59
+spth 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+library 86400 IN A 132.181.36.20
+ucgoldenkey 86400 IN A 132.181.7.44
+uconebridge 86400 IN A 132.181.2.238
+starbug.mech 86400 IN A 132.181.60.4
+grcproject.mech 86400 IN A 132.181.61.229
+csse-s302g0 86400 IN A 132.181.16.29
+csse-s302g1 86400 IN A 132.181.16.11
+csse-s302g2 86400 IN A 132.181.16.12
+csse-s302g3 86400 IN A 132.181.16.13
+www.careerhub 86400 IN A 132.181.106.12
+csse-s302g5 86400 IN A 132.181.16.15
+csse-s302g6 86400 IN A 132.181.16.16
+csse-s302g7 86400 IN A 132.181.16.17
+csse-s302g8 86400 IN A 132.181.16.18
+csse-s302g9 86400 IN A 132.181.16.66
+lync 86400 IN A 132.181.109.92
+1534405810.uclivepilot 86400 IN CNAME domains.live.com.
+www.bsec-portal 86400 IN A 132.181.36.32
+www.pic 86400 IN A 132.181.106.194
+phys 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+phys 86400 IN A 132.181.40.1
+fptest 86400 IN A 202.36.179.79
+cosc610.cosc 86400 IN A 132.181.14.21
+sky.geog 86400 IN CNAME geog
+gen 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+starrez 86400 IN A 132.181.106.19
+dev.math 86400 IN A 132.181.26.35
+biol 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+scc.ucanask 86400 IN CNAME csse-ucanask3
+ext 86400 IN TXT "v=msv1 t=29607e6071f54fb9d96b389b121109"
+86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ext 3600 IN MX 10 ext-canterbury-ac-nz.mail.protection.outlook.com.
+www.blds 86400 IN A 132.181.218.2
+www.teachlearn 86400 IN A 132.181.106.73
+hitlwebresearch 86400 IN A 132.181.227.13
+iss 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+octfolio 86400 IN A 132.181.33.108
+asia 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+pocketbeimsworkorders 86400 IN A 132.181.106.199
+www.mang 86400 IN A 132.181.106.203
+gridgwtest 86400 IN A 132.181.39.11
+tika.cosc 86400 IN A 132.181.12.59
+gis 86400 IN A 132.181.109.38
+sip.o365test 86400 IN CNAME sipdir.online.lync.com.
+arth 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+gps.geog 86400 IN A 132.181.180.57
+newton.phys 86400 IN A 132.181.40.1
+corpus 86400 IN A 132.181.17.8
+physgrid2.phys 86400 IN A 132.181.40.202
+localhost 86400 IN A 127.0.0.1
+arts 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.mscs 86400 IN A 132.181.106.58
+www.europe 86400 IN A 132.181.106.42
+ag2bridge.karen 86400 IN A 202.36.178.14
+whiteboard.math 86400 IN A 132.181.26.5
+www.famt 86400 IN A 132.181.106.14
+www.unplugged 86400 IN A 132.181.17.8
+www.commerce 86400 IN A 132.181.190.9
+agvenue.karen 86400 IN A 202.36.178.11
+hpcinstall 86400 IN A 132.181.39.5
+ucstream 86400 IN A 132.181.2.190
+cant 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+intranet 86400 IN CNAME ucweb3
+test-surveys.cem 86400 IN A 132.181.33.17
+cape 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+cape 86400 IN A 132.181.106.130
+www2.phys 86400 IN CNAME tycho.phys
+www.jour 86400 IN CNAME www.posc
+wibble2 86400 IN A 132.181.4.161
+digital-library 86400 IN A 132.181.2.68
+bldg.blds 86400 IN A 132.181.222.239
+hpcpwd 86400 IN CNAME hpcms
+www.merc 86400 IN A 132.181.106.53
+mossdev02 86400 IN A 132.181.5.70
+ag3.karen 86400 IN A 202.36.179.195
+tafs 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.grmn 86400 IN CNAME www.lanc
+chemgold2 86400 IN A 132.181.106.178
+conference 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.nzchas 86400 IN A 132.181.106.62
+kerr 86400 IN CNAME p1n14
+uclecturedl1 86400 IN A 132.181.7.96
+popper 86400 IN CNAME viz0
+red-dwarf.mech 86400 IN CNAME mech
+www.extras.csse 86400 IN CNAME csse-auxweb
+ucmoodleflash 86400 IN A 132.181.39.58
+www.elec 86400 IN A 132.181.54.131
+www.stu 86400 IN A 132.181.106.14
+www.bluefern 86400 IN A 132.181.106.75
+csse-wiki4 86400 IN A 132.181.7.102
+idp 86400 IN A 132.181.106.179
+www.elearning 86400 IN CNAME uctlapps
+ucweblogic 3600 IN CNAME ucweblogic1
+blds 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+blds 86400 IN A 132.181.222.238
+login01.phys 86400 IN A 132.181.40.21
+connectold 86400 IN A 132.181.39.61
+stufmsg4.erau 86400 IN A 132.181.249.2
+hpc 86400 IN CNAME hpcinstall
+planetlab1.cosc 86400 IN A 132.181.10.54
+canta.ucsa 86400 IN A 132.181.37.3
+autodiscover.tdomain 86400 IN A 132.181.107.17
+test.cosc 86400 IN CNAME usa.cosc
+uctlgarden 86400 IN A 132.181.249.9
+fr-gateway.dmz 86400 IN A 132.181.3.217
+psyc742.psyc 86400 IN A 132.181.250.71
+planetlab1 86400 IN A 132.181.19.1
+marksbirdie 86400 IN A 132.181.250.6
+planetlab3 86400 IN A 132.181.10.56
+planetlab4 86400 IN A 132.181.10.57
+www.hist 86400 IN A 132.181.106.14
+erau 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+maori 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.shortcourses 86400 IN A 132.181.106.14
+www.bonds 86400 IN A 132.181.106.31
+civ-tonny09 86400 IN A 132.181.71.120
+academicskills 86400 IN A 132.181.106.14
+education-studentadvisors 86400 IN A 132.181.36.32
+www.nzeel 86400 IN A 132.181.106.135
+ivcnz10.elec 86400 IN A 132.181.51.162
+webct6 86400 IN CNAME learn
+www.summer 86400 IN A 132.181.106.98
+pophost.mang 86400 IN A 132.181.155.20
+www.ictg 86400 IN A 132.181.7.116
+akaroa 86400 IN A 132.181.17.5
+webresearch.hitl 86400 IN A 132.181.227.13
+eventspro 86400 IN A 132.181.2.24
+ipac 86400 IN A 132.181.36.58
+famt 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+grid 86400 IN A 132.181.39.19
+german 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ucgoogle1 86400 IN CNAME search
+www.learn 86400 IN CNAME learn
+ezproxy 86400 IN A 132.181.2.66
+ezproxy 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ftpgate 86400 IN A 132.181.3.234
+www.release.ucanask 86400 IN CNAME ucanask
+csse-quiz1 86400 IN A 132.181.109.34
+csse-quiz4 86400 IN A 132.181.16.65
+www.health 86400 IN A 132.181.109.65
+wikitest 86400 IN A 132.181.106.166
+physdesk135.phys 86400 IN A 132.181.41.234
+www.lacl 86400 IN A 132.181.106.24
+agile202.cosc 86400 IN CNAME csse-agile2
+stu-dev-emac.erau 86400 IN A 132.181.249.7
+ucsharepoint 86400 IN A 132.181.106.14
+www.ict 86400 IN A 132.181.106.111
+fina-xserve 86400 IN A 132.181.209.1
+www.sem 86400 IN CNAME sem-book.botn
+www.jrnl 86400 IN CNAME www.posc
+grmn 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mail.geog 86400 IN CNAME geog
+visitor1.chem 86400 IN A 132.181.173.77
+isc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+uclivepilot 86400 IN MX 0 1534405810.mail.outlook.com.
+ccelbanking 86400 IN A 132.181.7.158
+access 86400 IN A 132.181.106.224
+www.exec 86400 IN CNAME www.mba
+ngportaldev 86400 IN A 132.181.39.25
+www.ceps 86400 IN A 132.181.106.27
+quakestudies 86400 IN A 132.181.106.197
+www.eric 86400 IN CNAME cutc.ucsa
+www.akaroa2 86400 IN CNAME akaroa
+civil 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+civil 86400 IN A 132.181.70.1
+elec 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+elec 86400 IN A 132.181.50.31
+viz1 86400 IN A 132.181.39.2
+www.pols 86400 IN CNAME www.posc
+viz3 86400 IN A 132.181.39.17
+viz4 86400 IN A 132.181.39.26
+viz5 86400 IN A 132.181.39.115
+uclecturefl1 86400 IN CNAME uclecturedl1
+its 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+itss-pja51 86400 IN A 132.181.4.112
+akaroa.dmz 86400 IN CNAME csseextweb
+psyc751.psyc 86400 IN A 132.181.251.14
+conf.elec 86400 IN A 132.181.50.85
+linux.cosc 86400 IN A 132.181.16.31
+86400 IN A 132.181.16.47
+www.laws 86400 IN A 132.181.106.50
+www.help.it 86400 IN CNAME help.it
+psyc717.psyc 86400 IN A 132.181.251.124
+psyc834.psyc 86400 IN A 132.181.250.222
+www 86400 IN A 132.181.106.1
+uclive 86400 IN A 132.181.106.122
+myproxyplusdev 86400 IN A 132.181.39.69
+l3n01 86400 IN A 132.181.39.1
+l3n02 86400 IN A 132.181.39.2
+course 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+earsweb.cont 86400 IN A 132.181.5.227
+hist 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.engl 86400 IN A 132.181.106.14
+www.psychclinic 86400 IN A 132.181.106.143
+its-accounts 86400 IN A 132.181.2.34
+exchangehost.elec 86400 IN CNAME claude.elec
+csse-agile2 86400 IN A 132.181.16.37
+bridges 86400 IN A 132.181.17.8
+www.sowk 86400 IN A 132.181.106.69
+www.posc 86400 IN A 132.181.106.20
+www.soci 86400 IN A 132.181.106.20
+www.rideshare 86400 IN A 132.181.106.14
+cssedb1.cosc 86400 IN A 132.181.10.6
+www.biotech 86400 IN A 132.181.106.34
+www.nhrc 86400 IN A 132.181.106.60
+nzsars 86400 IN A 132.181.106.29
+grounds 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.bsec-contractors 86400 IN A 132.181.36.32
+mech 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mech 86400 IN A 132.181.62.9
+www.sofa 86400 IN A 132.181.106.54
+uctv 86400 IN CNAME proudlydismal
+abacus-gw 86400 IN A 132.181.29.9
+survey.it 86400 IN A 132.181.5.104
+finearts 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psyc709.psyc 86400 IN A 132.181.251.216
+mirror 86400 IN CNAME ucmirror
+uclecturegen 86400 IN A 132.181.7.29
+ucgoogle2 86400 IN A 132.181.39.52
+gm-selector 86400 IN A 132.181.16.54
+ionosonde 86400 IN A 132.181.48.30
+csse-staffdocs 86400 IN A 132.181.7.109
+ucrhn1 86400 IN A 132.181.7.83
+mechnfs2.mech 86400 IN CNAME mech
+neil.chem 86400 IN A 132.181.173.24
+www.ssrc 86400 IN A 132.181.106.70
+eportfolio 86400 IN A 132.181.7.110
+lacl 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+russ 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+langlab 86400 IN A 132.181.109.39
+ag3bridge.karen 86400 IN A 202.36.179.193
+www.span 86400 IN CNAME www.lanc
+icts-dc2 86400 IN A 132.181.3.129
+www.foresteng 86400 IN A 132.181.106.47
+obelix.cosc 86400 IN A 132.181.10.53
+www.uco 86400 IN A 132.181.106.14
+jrnl 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.chem 86400 IN A 132.181.106.87
+beimssupervisordashboard 86400 IN A 132.181.106.215
+224098475.liveedutest2 86400 IN CNAME domains.live.com.
+search 86400 IN A 132.181.109.124
+starcourse.math 86400 IN A 132.181.20.19
+www.ci 86400 IN A 132.181.106.137
+ceps 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+weblogicdev1 86400 IN A 132.181.39.122
+ucpocketbeims 86400 IN A 132.181.106.185
+www.icts 86400 IN A 132.181.106.111
+www.corpus 86400 IN A 132.181.17.8
+education 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.booksale 86400 IN CNAME www.goldenkey
+pols 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psycdb 86400 IN A 132.181.39.43
+mba 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+public.apssdev 86400 IN A 132.181.7.232
+regynt1.regy 86400 IN A 132.181.219.120
+www.sustain 86400 IN A 132.181.106.71
+ucstream2 86400 IN A 132.181.2.208
+www.staffclub 86400 IN A 132.181.106.108
+www.fm 86400 IN A 132.181.106.45
+llabserver1 86400 IN A 132.181.109.39
+www.tafs 86400 IN A 132.181.106.72
+ng2dev 86400 IN A 132.181.39.30
+cache.dmz 86400 IN A 132.181.3.189
+engf 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+physgrid3.phys 86400 IN A 132.181.40.203
+meccano.mech 86400 IN A 132.181.62.3
+engl 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+test-www.cem 86400 IN A 132.181.33.17
+www.olympicstudies 86400 IN A 132.181.106.21
+acad-lvo11 86400 IN A 132.181.223.146
+googleffffffffd12bb4da 86400 IN CNAME google.com.
+imaphost 86400 IN A 132.181.2.27
+86400 IN A 132.181.2.28
+met 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+idptest 86400 IN A 132.181.109.42
+www.ir 86400 IN CNAME ir
+www.it 86400 IN A 132.181.106.111
+csc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+gram5p7 86400 IN A 132.181.39.95
+ucwikitest 86400 IN A 132.181.7.41
+uctwp 86400 IN A 132.181.39.48
+assist 86400 IN A 132.181.106.216
+www.finearts 86400 IN CNAME www.fina
+www2.research 86400 IN A 132.181.94.117
+psyc744.psyc 86400 IN A 132.181.250.235
+ucgooglebot2 86400 IN A 132.181.39.97
+www.rebrand 86400 IN A 132.181.2.91
+ng1 86400 IN A 132.181.39.12
+ng2 86400 IN A 132.181.39.13
+ftp.geol 86400 IN CNAME geol
+ucgooglebot4 86400 IN A 132.181.2.145
+enmg 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+liveedutest2 86400 IN MX 0 224098475.mail.outlook.com.
+www.nzige 86400 IN A 132.181.106.14
+psyc746.psyc 86400 IN A 132.181.250.139
+www.mechatronics 86400 IN A 132.181.106.127
+gatekeeper 86400 IN A 132.181.3.193
+reccentremembership 86400 IN A 132.181.106.192
+botn 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+botn 86400 IN A 132.181.220.100
+neb-cam1 86400 IN A 132.181.181.2
+mbeacon 86400 IN A 202.36.179.200
+ucstarnet 86400 IN A 132.181.2.10
+mathlab 86400 IN A 132.181.36.28
+ucphoto 86400 IN A 132.181.2.21
+cantywww.regy 86400 IN A 132.181.2.75
+_autodiscover._tcp 86400 IN SRV 0 100 443 exchange
+spam 86400 IN A 132.181.2.27
+span 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+hstest 86400 IN A 132.181.39.144
+rax 86400 IN A 132.181.106.120
+www.innovators 86400 IN A 132.181.109.28
+psyc716.psyc 86400 IN A 132.181.250.124
+chem 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+chem 86400 IN A 132.181.173.2
+ictg 86400 IN A 132.181.7.116
+ictg 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.bsec 86400 IN A 132.181.106.202
+cantuc 86400 IN CNAME cantuc.it
+login02.phys 86400 IN A 132.181.40.5
+cantud 86400 IN A 132.181.3.193
+planetlab2.cosc 86400 IN A 132.181.10.55
+entre 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.cup 86400 IN A 132.181.106.37
+surveys 86400 IN A 132.181.223.6
+acad-hsm40 86400 IN A 132.181.223.83
+csse-ucanask2 86400 IN A 132.181.7.124
+aspire.cosc 86400 IN A 132.181.16.56
+mx1 86400 IN A 132.181.2.27
+mx2 86400 IN A 132.181.2.28
+ucedpluscontacts 86400 IN A 132.181.2.214
+cm._domainkey 86400 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTMmeMj79GVXwmQVOo3SK7e1ccUzAy6PIfYUBB9fGporV2Vq/dJucK71WEH95jO20lgjc7bvIcv/C92aoWUvX9G7oaZlny0n6Dlp2K7pb/72v2Sru9DViqwXFv4ewsdq7VLYqN5pAuxBya6rjeOB1CTUH2CSUIfdXC5LGCP5qYzQIDAQAB"
+ucsptestweb01 86400 IN A 132.181.7.60
+submituc 86400 IN A 132.181.39.65
+soci 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.ucsa 86400 IN A 132.181.106.14
+www.german 86400 IN CNAME www.lanc
+cantui 86400 IN A 132.181.2.100
+www.erau 86400 IN CNAME www.uctl
+topup 86400 IN A 132.181.109.101
+is-services.test 86400 IN A 132.181.5.215
+www.vrc 86400 IN A 132.181.106.76
+ucweblogic1 86400 IN A 132.181.39.168
+ucweblogic2 86400 IN A 132.181.7.42
+cosc438.cosc 86400 IN A 132.181.9.135
+ucenvi 86400 IN A 132.181.2.133
+ldap 86400 IN A 132.181.106.230
+wiki.ucanask 86400 IN CNAME csse-ucanask1
+lyncexternalweb 86400 IN A 132.181.109.96
+ocs 86400 IN A 132.181.106.18
+histelm 86400 IN A 132.181.215.1
+www.reccentre 86400 IN CNAME www.phed
+ngcompute 86400 IN A 132.181.39.20
+outreach 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+woodtech 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+www.acis 86400 IN A 132.181.106.205
+ucgooglebot1 86400 IN A 132.181.39.96
+beatrice 86400 IN CNAME p2n14
+englab 86400 IN CNAME englab3
+kohika-test 86400 IN A 132.181.36.111
+nzfvcuat 86400 IN A 132.181.2.121
+oehoeboeroe.cad 86400 IN A 132.181.210.220
+psyc713.psyc 86400 IN A 132.181.251.231
+blackboard 86400 IN CNAME learn
+cuspm 86400 IN A 132.181.40.18
+music 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mahara 86400 IN CNAME uctlapps
+sowk 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+nre 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+pocketbeims 86400 IN A 132.181.152.129
+csse-extweb 86400 IN A 132.181.7.101
+regyuc 86400 IN A 132.181.2.41
+pac 86400 IN CNAME ipac
+o365test 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+o365test 86400 IN MX 10 o365test-canterbury-ac-nz.mail.protection.outlook.com.
+extras.cosc 86400 IN CNAME csse-auxweb
+irodsdev 86400 IN A 132.181.39.36
+static 86400 IN A 132.181.109.79
+visitor2.chem 86400 IN A 132.181.173.79
+hpcgrid1 86400 IN A 132.181.39.6
+sentinel1 86400 IN A 132.181.180.10
+www.civilunrest 86400 IN A 132.181.93.71
+hitlweb 86400 IN A 132.181.227.12
+www.wrc 86400 IN A 132.181.106.142
+mathrds1 86400 IN A 132.181.33.136
+mathrds2 86400 IN A 132.181.33.137
+imaphost.elec 86400 IN CNAME claude.elec
+www.science 86400 IN A 132.181.106.68
+eng-git 86400 IN A 132.181.106.198
+lecture 86400 IN CNAME uclecturesys1
+dataservicesdev 86400 IN A 132.181.109.23
+www.clas 86400 IN A 132.181.106.25
+ucsurveys 86400 IN A 132.181.2.17
+www.psyc 86400 IN A 132.181.106.22
+bsec 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+transfer 86400 IN A 132.181.109.30
+sofa 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+tdomain 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+webmaster.cae 86400 IN A 132.181.90.11
+csse-s302g4 86400 IN A 132.181.16.14
+foresteng 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+share 86400 IN A 132.181.7.94
+svn.math 86400 IN A 132.181.26.33
+www.eshd 86400 IN A 132.181.106.40
+bluefern-bi 86400 IN A 132.181.39.237
+msoid.ext 3600 IN CNAME clientconfig.microsoftonline-p.net.
+ucspweb03 86400 IN A 132.181.7.49
+www.telecommunications 86400 IN A 132.181.30.143
+www.webct6 86400 IN CNAME learn
+psyc695.psyc 86400 IN A 132.181.250.58
+exchange 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+exchange 86400 IN A 132.181.107.25
+mathlab1.math 86400 IN CNAME mathlab3
+uctlweb 86400 IN A 132.181.128.7
+arthur 86400 IN A 132.181.30.16
+ldaphost.elec 86400 IN CNAME claude.elec
+careerhub 86400 IN A 132.181.106.12
+careerhub 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+maonze 86400 IN A 132.181.2.12
+www.drama 86400 IN CNAME www.tafs
+dialin 86400 IN CNAME lyncexternalweb
+fina 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+ucgooglebot5 86400 IN A 132.181.39.91
+planetlab2 86400 IN A 132.181.19.2
+www.outreach 86400 IN A 132.181.106.64
+www.woodtech 86400 IN A 132.181.106.78
+www.clin 86400 IN A 132.181.106.14
+physgps 86400 IN A 132.181.40.19
+www.culs 86400 IN A 132.181.106.14
+files.cosc 86400 IN A 132.181.16.47
+ucnow 86400 IN CNAME canterburyac-ssl.shuttlerock.com.
+shibdev 86400 IN A 132.181.106.181
+acis 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+hpcms 86400 IN A 132.181.39.3
+ucsde 86400 IN A 132.181.39.191
+ariel.libr 86400 IN A 132.181.224.159
+civl 86400 IN CNAME civil
+wcmsdemo 86400 IN A 132.181.109.119
+www.lps 86400 IN A 132.181.106.160
+www.ucmoodle 86400 IN CNAME learn
+mathopt10 86400 IN A 132.181.26.52
+coursereaders 86400 IN CNAME uctlapps
+smtphost 86400 IN A 132.181.2.27
+86400 IN A 132.181.2.28
+eric 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+mathopt16 86400 IN A 132.181.26.51
+ucgooglebot3 86400 IN A 132.181.39.49
+ucconmaptest 86400 IN A 132.181.7.115
+muggle 86400 IN A 132.181.109.100
+www.ucar 86400 IN A 132.181.106.74
+sharedev15e 86400 IN A 132.181.33.62
+ucomeka1p 86400 IN A 132.181.33.15
+ucisfac1 86400 IN A 132.181.2.46
+www.cmds 86400 IN A 132.181.106.35
+gollum.mech 86400 IN A 132.181.62.200
+bobinz.cem 86400 IN A 132.181.33.17
+ariel 86400 IN CNAME ariel.libr
+www.phys 86400 IN A 132.181.106.101
+unplugged 86400 IN A 132.181.17.8
+www.hsci 86400 IN A 132.181.106.48
+www.saps 86400 IN A 132.181.106.147
+ngportal 86400 IN A 132.181.39.15
+oldwebmail 86400 IN A 132.181.2.26
+www.adg 86400 IN A 132.181.106.164
+civilac.civil 86400 IN A 132.181.70.10
+www.nre 86400 IN A 132.181.70.3
+www.fina 86400 IN A 132.181.106.44
+callpilot 86400 IN A 132.181.31.2
+www.usa.cosc 86400 IN CNAME usa.cosc
+clas 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psycweb 86400 IN A 132.181.250.11
+psyc 86400 IN MX 10 mx1
+86400 IN MX 10 mx2
+psyc 86400 IN A 132.181.250.1
+ucisfac2 86400 IN A 132.181.2.29
+lyncwebconf 86400 IN A 132.181.109.93
+unihall 86400 IN MX 10 mx1
+86400 IN MX 10 mx2

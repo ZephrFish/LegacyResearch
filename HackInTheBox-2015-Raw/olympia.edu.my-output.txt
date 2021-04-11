@@ -1,0 +1,192 @@
+@ 3600 IN SOA olympiadns. @ 25101010 900 600 86400 3600
+@ 600 IN A 112.137.163.134
+@ 3600 IN NS ncs
+3600 IN NS ns3
+3600 IN NS ns2
+@ 3600 IN MX 10 mail
+@ 3600 IN TXT "v=spf1 a mx ip4:219.95.235.58 ip4:219.95.235.59 ip4:219.95.235.60 ip4:219.95.235.61 ip4:219.95.235.62 a:olympia.my a:olympia.edu.my ptr:raffles.olympia.edu.my ~all"
+@ 3600 IN RP mail .
+@ 600 IN AAAA 2002:db5f:eb3b::db5f:eb3b
+600 IN AAAA 2002:db5f:eb3d::db5f:eb3d
+reb 3600 IN A 219.95.235.61
+_ldap._tcp.default-first-site-name._sites.forestdnszones 600 IN SRV 0 100 389 olympiaemail2k3
+600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+_kpasswd._udp 600 IN SRV 0 100 464 olympiaemail2k3
+600 IN SRV 0 100 464 misgrvserver
+600 IN SRV 0 100 464 webserver
+sharepointh2 3600 IN A 219.95.235.62
+fs 3600 IN A 219.92.53.108
+61c1d35c-7f80-490e-b80c-5e05c59f4e58._msdcs.rnd 600 IN CNAME databasebk.rnd
+manual 3600 IN A 219.95.235.62
+_ldap._tcp.pdc._msdcs 600 IN SRV 0 100 389 olympiaemail2k3
+newsletter.newsletter 3600 IN A 219.92.53.109
+jb 3600 IN A 60.49.24.194
+olympiamail01 3600 IN A 219.95.235.60
+raffles 3600 IN A 115.134.221.235
+3600 IN A 219.95.235.58
+raffles 3600 IN MX 10 mail
+raffles 3600 IN TXT "v=spf1 a mx ip4:219.95.235.58 ip4:219.95.235.59 ip4:219.95.235.60 ip4:219.95.235.61 ip4:219.95.235.62 a:olympia.my a:olympia.edu.my mx:raffles.olympia.edu.my mx:olympia.edu.my ~all"
+kb 3600 IN A 219.95.235.61
+_ldap._tcp.domaindnszones 600 IN SRV 0 100 389 olympiaemail2k3
+600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+ocex001 3600 IN A 219.95.235.58
+ocex002 3600 IN A 219.95.235.59
+websitetest 3600 IN A 119.110.108.91
+_ldap._tcp.default-first-site-name._sites.gc._msdcs 600 IN SRV 0 100 3268 misgrvserver
+600 IN SRV 0 100 3268 webserver
+600 IN SRV 0 100 3268 olympiaemail2k3
+_kerberos._tcp.dc._msdcs.rnd 600 IN SRV 0 100 88 databasebk.rnd
+_ldap._tcp.dc._msdcs 600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+600 IN SRV 0 100 389 olympiaemail2k3
+_ldap._tcp.default-first-site-name._sites.gc._msdcs.rnd 600 IN SRV 0 100 3268 databasebk.rnd
+elearning 3600 IN A 219.95.235.58
+olympiaemail2k3 3600 IN A 219.95.235.62
+www 3600 IN A 112.137.163.134
+rnd 600 IN A 192.168.61.101
+databasebk.rnd 1200 IN A 192.168.61.101
+sds 3600 IN A 119.110.108.94
+_ldap._tcp.a550c3d8-b005-4754-87a3-e4bc3c294de7.domains._msdcs 600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+600 IN SRV 0 100 389 olympiaemail2k3
+imperial 3600 IN A 219.92.53.107
+domaindnszones 600 IN A 219.95.235.62
+600 IN A 219.95.235.61
+600 IN A 219.95.235.59
+domaindnszones 600 IN AAAA 2002:db5f:eb3d::db5f:eb3d
+600 IN AAAA 2002:db5f:eb3b::db5f:eb3b
+kiss 3600 IN A 219.95.235.59
+library 3600 IN A 119.110.108.93
+_kerberos._tcp.default-first-site-name._sites 600 IN SRV 0 100 88 webserver
+600 IN SRV 0 100 88 olympiaemail2k3
+600 IN SRV 0 100 88 misgrvserver
+icsharepoint 3600 IN A 219.95.235.61
+newsletter2 3600 IN A 219.92.53.109
+ss 3600 IN A 119.110.108.94
+ocln001 3600 IN A 219.92.53.108
+outgoingsmtp 3600 IN A 119.110.108.91
+_gc._tcp.default-first-site-name._sites.rnd 600 IN SRV 0 100 3268 databasebk.rnd
+gc._msdcs.rnd 600 IN A 192.168.61.101
+_gc._tcp.rnd 600 IN SRV 0 100 3268 databasebk.rnd
+test-moodle 3600 IN A 219.92.53.107
+_ldap._tcp.default-first-site-name._sites.forestdnszones.rnd 600 IN SRV 0 100 389 databasebk.rnd
+_ldap._tcp.default-first-site-name._sites.domaindnszones.rnd 600 IN SRV 0 100 389 databasebk.rnd
+webserver 1200 IN A 219.95.235.59
+webserver 1200 IN AAAA 2002:db5f:eb3b::db5f:eb3b
+sandbox 3600 IN A 219.92.53.110
+ss2 3600 IN A 119.110.108.94
+_ldap._tcp.gc._msdcs 600 IN SRV 0 100 3268 webserver
+600 IN SRV 0 100 3268 olympiaemail2k3
+600 IN SRV 0 100 3268 misgrvserver
+_gc._tcp.default-first-site-name._sites 600 IN SRV 0 100 3268 webserver
+600 IN SRV 0 100 3268 olympiaemail2k3
+600 IN SRV 0 100 3268 misgrvserver
+staffjb 3600 IN A 60.54.195.222
+webkiss4reports 3600 IN A 175.139.188.174
+mkt 3600 IN A 219.95.235.62
+autodiscover 3600 IN A 219.95.235.58
+sop 3600 IN A 219.95.235.61
+discuss 3600 IN A 219.95.235.59
+ncs 3600 IN A 119.110.108.91
+_autodiscover._tcp 3600 IN SRV 0 0 443 mail
+c2f07997-fbc0-41af-96bb-6ffe017deb2f._msdcs 600 IN CNAME olympiaemail2k3
+test 3600 IN A 119.110.108.91
+mail 3600 IN A 219.95.235.58
+ru 3600 IN A 219.92.53.108
+_gc._tcp 600 IN SRV 0 100 3268 webserver
+600 IN SRV 0 100 3268 olympiaemail2k3
+600 IN SRV 0 100 3268 misgrvserver
+_ldap._tcp.gc._msdcs.rnd 600 IN SRV 0 100 3268 databasebk.rnd
+olympiamail 3600 IN A 219.95.235.62
+kiosk 3600 IN A 119.110.108.94
+oldmail 3600 IN A 219.95.235.62
+www2 3600 IN A 219.92.53.106
+_ldap._tcp.dc._msdcs.rnd 600 IN SRV 0 100 389 databasebk.rnd
+_kerberos._tcp.default-first-site-name._sites.rnd 600 IN SRV 0 100 88 databasebk.rnd
+kisshelp 3600 IN A 119.110.108.94
+ns2 3600 IN A 219.92.53.106
+ns3 3600 IN A 219.95.235.60
+ns4 3600 IN A 219.95.235.58
+_ldap._tcp.default-first-site-name._sites.domaindnszones 600 IN SRV 0 100 389 olympiaemail2k3
+600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+_ldap._tcp.rnd 600 IN SRV 0 100 389 databasebk.rnd
+forestdnszones.rnd 600 IN A 192.168.61.101
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs 600 IN SRV 0 100 88 misgrvserver
+600 IN SRV 0 100 88 webserver
+600 IN SRV 0 100 88 olympiaemail2k3
+ocln002 3600 IN A 219.92.53.110
+ocln003 3600 IN A 219.92.53.107
+domaindnszones.rnd 600 IN A 192.168.61.101
+_ldap._tcp.forestdnszones 600 IN SRV 0 100 389 olympiaemail2k3
+600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+autodiscover.raffles 3600 IN A 219.95.235.58
+sharepoint 3600 IN A 219.95.235.61
+_kerberos._tcp.dc._msdcs 600 IN SRV 0 100 88 misgrvserver
+600 IN SRV 0 100 88 webserver
+600 IN SRV 0 100 88 olympiaemail2k3
+_ldap._tcp.pdc._msdcs.rnd 600 IN SRV 0 100 389 databasebk.rnd
+gc._msdcs 600 IN A 219.95.235.59
+600 IN A 219.95.235.62
+600 IN A 219.95.235.61
+gc._msdcs 600 IN AAAA 2002:db5f:eb3d::db5f:eb3d
+600 IN AAAA 2002:db5f:eb3b::db5f:eb3b
+cdn 3600 IN A 219.92.53.109
+wepkiss 3600 IN A 219.95.235.62
+forestdnszones 600 IN A 219.95.235.59
+600 IN A 219.95.235.62
+600 IN A 219.95.235.61
+forestdnszones 600 IN AAAA 2002:db5f:eb3d::db5f:eb3d
+600 IN AAAA 2002:db5f:eb3b::db5f:eb3b
+_kerberos._tcp 600 IN SRV 0 100 88 olympiaemail2k3
+600 IN SRV 0 100 88 misgrvserver
+600 IN SRV 0 100 88 webserver
+newsletter 3600 IN A 219.92.53.109
+newsletter 3600 IN MX 10 newsletter
+_ldap._tcp.b7400e78-6a0a-4e99-ad05-bc962231b61c.domains._msdcs.rnd 600 IN SRV 0 100 389 databasebk.rnd
+oclibrary 3600 IN A 219.92.53.108
+_ldap._tcp.default-first-site-name._sites.rnd 600 IN SRV 0 100 389 databasebk.rnd
+_kpasswd._tcp.rnd 600 IN SRV 0 100 464 databasebk.rnd
+share 3600 IN CNAME kb
+_ldap._tcp.forestdnszones.rnd 600 IN SRV 0 100 389 databasebk.rnd
+student 3600 IN A 219.92.53.107
+_ldap._tcp.domaindnszones.rnd 600 IN SRV 0 100 389 databasebk.rnd
+galsync1.raffles 3600 IN A 219.95.235.60
+kb2 3600 IN A 219.95.235.61
+wap 3600 IN A 219.95.235.62
+_ldap._tcp.default-first-site-name._sites.dc._msdcs.rnd 600 IN SRV 0 100 389 databasebk.rnd
+php 3600 IN A 119.110.108.94
+blog 3600 IN A 219.92.53.108
+kisslecturer 3600 IN A 219.95.235.59
+newolympiaweb 3600 IN A 119.110.108.94
+_kerberos._tcp.rnd 600 IN SRV 0 100 88 databasebk.rnd
+jack.kl 3600 IN MB \# 7 046d61696cc00c
+students 3600 IN A 219.92.53.107
+_kpasswd._tcp 600 IN SRV 0 100 464 olympiaemail2k3
+600 IN SRV 0 100 464 misgrvserver
+600 IN SRV 0 100 464 webserver
+_kerberos._udp 600 IN SRV 0 100 88 olympiaemail2k3
+600 IN SRV 0 100 88 misgrvserver
+600 IN SRV 0 100 88 webserver
+_kpasswd._udp.rnd 600 IN SRV 0 100 464 databasebk.rnd
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs.rnd 600 IN SRV 0 100 88 databasebk.rnd
+_ldap._tcp.default-first-site-name._sites.dc._msdcs 600 IN SRV 0 100 389 webserver
+600 IN SRV 0 100 389 olympiaemail2k3
+600 IN SRV 0 100 389 misgrvserver
+ad 3600 IN A 219.95.235.60
+info 3600 IN A 119.110.108.91
+_ldap._tcp.default-first-site-name._sites 600 IN SRV 0 100 389 olympiaemail2k3
+600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+_kerberos._udp.rnd 600 IN SRV 0 100 88 databasebk.rnd
+cn 3600 IN A 219.92.53.107
+_ldap._tcp 600 IN SRV 0 100 389 misgrvserver
+600 IN SRV 0 100 389 webserver
+600 IN SRV 0 100 389 olympiaemail2k3
+dl 3600 IN A 119.110.108.94
+webkiss4 3600 IN A 175.139.188.174
+fb 3600 IN A 219.92.53.107
+dos 3600 IN A 219.95.235.61

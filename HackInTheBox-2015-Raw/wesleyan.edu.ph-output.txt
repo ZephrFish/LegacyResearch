@@ -1,0 +1,23 @@
+@ 3600 IN SOA ns1 webadmin.wesleyan.org. 123 900 600 86400 3600
+@ 3600 IN A 65.49.80.83
+@ 3600 IN NS ns1
+3600 IN NS ns2
+@ 3600 IN MX 10 wesleyan-edu-ph.mail.protection.outlook.com.
+3600 IN MX 10 ms90527099.msv1.invalid.outlook.com.
+3600 IN MX 10 ns1
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+mailer 3600 IN A 121.97.242.233
+solid 3600 IN A 121.97.242.233
+wupautomate 3600 IN A 203.177.169.213
+wupmail 3600 IN A 121.97.242.233
+wumc 3600 IN A 122.52.229.64
+ftp 3600 IN A 121.97.242.233
+ns2 3600 IN A 121.97.242.234
+learntheo 3600 IN A 121.97.242.233
+www 3600 IN A 65.49.80.83
+sampler 3600 IN A 121.97.242.233
+student 3600 IN A 121.97.242.233
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+ns1 3600 IN A 121.97.242.233
+wds 3600 IN A 121.97.242.233

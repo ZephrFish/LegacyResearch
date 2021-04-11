@@ -1,0 +1,81 @@
+@ 120 IN SOA ns root 2015042201 600 1200 3600 3600
+@ 120 IN NS ns
+120 IN NS secundario.nic.cl.
+@ 120 IN MX 5 mail
+120 IN MX 10 proxmox
+@ 120 IN TXT "v=spf1 ip4:200.54.76.237 ip4:200.68.28.102 include:spf.masterbase.com ~all"
+vpnac 120 IN A 186.67.30.195
+anuarioegresados 120 IN A 200.68.28.97
+gespost 120 IN A 200.54.76.238
+wsc 120 IN A 200.54.76.253
+escuelapedagogiabasica 120 IN A 200.68.28.107
+uss-28-102 120 IN CNAME mail
+vprd 120 IN A 200.54.76.244
+solicitudhoras 120 IN A 200.54.76.251
+capacitaciones 120 IN CNAME aulavirtual2
+dialin 120 IN A 200.54.76.249
+rms 120 IN A 200.68.28.108
+#_domainkey 120 IN TXT "t=y; o=~;"
+www.educacioncontinua 120 IN CNAME tbjdns.trabajando.cl.
+www.postgrados 120 IN CNAME tbjdns.trabajando.cl.
+pagosprueba 120 IN A 200.54.76.253
+sip 120 IN A 200.54.76.233
+pagos 120 IN A 200.54.76.253
+curriculum 120 IN A 200.68.28.98
+ensayoexamen 120 IN A 200.68.28.107
+canaldegobierno 120 IN A 200.68.28.106
+_xmpp-server._tcp 120 IN SRV 1 100 5269 sip
+magistergestion 120 IN A 200.68.28.106
+encuestas 120 IN A 200.68.28.105
+docencia 120 IN A 200.54.76.228
+capacita 120 IN A 200.54.76.242
+ssb01 120 IN A 200.54.76.240
+120 IN A 200.54.76.241
+formacionintegral 120 IN A 200.54.76.225
+claveunica 120 IN A 200.68.28.98
+#epexo._domainkey 120 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC92DPEfr8M28KVopiGVgDo3uYLBtSgNIsarAUjOTLiW2LGC+k2WrEBTIyk/XM+N6mUZc9mf7hlrw3zG2T975IPKk1eg4XnqDj45xpKplqyvDFgehuARlSzv1dp2NlqayECXihlFwrtzvXXoEv/9QiH3Efaii/GeMsVqYrxBNSHmQIDAQAB"
+icainivelacion 120 IN A 200.68.28.105
+_sipfederationtls._tcp 120 IN SRV 0 0 5061 sip
+confirmaciones 120 IN A 200.68.28.99
+miportal 120 IN A 200.54.76.234
+internodafa 120 IN A 200.68.28.105
+postulacion 120 IN A 200.68.28.99
+autodiscover 120 IN A 200.54.76.227
+vcm 120 IN A 200.68.28.98
+ns 120 IN A 200.54.76.237
+solicitudcae 120 IN A 200.54.76.251
+horariomovil 120 IN A 200.68.28.99
+induccion 120 IN A 200.68.28.99
+owa 120 IN A 200.54.76.227
+adendum 120 IN A 200.54.76.251
+certificados 120 IN A 200.68.28.105
+mail 120 IN A 200.68.28.102
+educacioncontinua 120 IN A 200.68.28.107
+LYNCdiscover 120 IN A 200.54.76.249
+www 120 IN A 200.54.76.229
+simulador 120 IN A 200.54.76.250
+micorreo 120 IN A 200.54.76.227
+lyncserver 120 IN A 200.54.76.249
+v1 120 IN A 200.54.76.239
+aulavirtual 120 IN A 200.68.28.107
+meet 120 IN A 200.54.76.249
+aulavirtual2 120 IN A 200.68.28.107
+autoservicio 120 IN CNAME v1
+ussdtcsrvssb03 120 IN A 200.54.76.241
+www.psuonline 120 IN A 200.54.76.248
+_sip._tls 120 IN SRV 0 0 5061 sip
+logistica 120 IN A 200.54.76.251
+psufacebook 120 IN A 70.32.97.32
+pruebaspago2 120 IN A 200.54.76.245
+dafa 120 IN A 200.54.76.251
+potencial 120 IN A 200.54.76.236
+cursolaboral 120 IN CNAME platform-access.modyo.io.
+personas 120 IN A 200.68.28.105
+testwsc 120 IN A 200.54.76.245
+redegresados 120 IN A 200.54.76.238
+ussdtcsrvowa02 120 IN A 200.54.76.249
+interescolares 120 IN A 200.68.28.99
+janium 120 IN A 200.54.76.244
+colegios 120 IN A 200.68.28.105
+vinculacionconelmedio 120 IN A 200.68.28.99
+proxmox 120 IN CNAME mail

@@ -1,0 +1,20 @@
+@ 604800 IN SOA ns1.rcil.gov.in. admin.rcil.gov.in. 2014070502 3600 600 604800 3600
+@ 604800 IN MX 10 aspmx.l.google.com.
+604800 IN MX 20 alt1.aspmx.l.google.com.
+604800 IN MX 20 alt2.aspmx.l.google.com.
+604800 IN MX 30 aspmx2.googlemail.com.
+604800 IN MX 30 aspmx3.googlemail.com.
+604800 IN MX 30 aspmx4.googlemail.com.
+604800 IN MX 30 aspmx5.googlemail.com.
+@ 604800 IN A 14.139.124.100
+604800 IN A 122.252.236.146
+@ 604800 IN NS ns1.rcil.gov.in.
+604800 IN NS ns2.rcil.gov.in.
+604800 IN NS ns3.sns1.nkn.in.
+ezproxy 604800 IN A 14.139.124.102
+ns1 604800 IN A 203.153.43.65
+ns2 604800 IN A 203.153.43.66
+ns3 604800 IN A 180.149.57.10
+www 604800 IN A 122.252.236.146
+604800 IN A 14.139.124.100
+*.ezproxy 604800 IN A 14.139.124.102

@@ -1,0 +1,253 @@
+@ 60 IN SOA dns1 hostmaster 2015043000 60 60 60 60
+@ 60 IN NS dns1
+60 IN NS dns2
+60 IN NS dns3
+60 IN NS dns3.arnes.si.
+@ 60 IN TXT "MS=ms48515661"
+60 IN TXT "4RZX/vxp/yqr0wmsVgEKEUK6zQkr99dov32wGMUKvQgbKwaYvvysrRpNJXL4/q7yhrSbrEMKoMXQ0/mGgvHrJg=="
+60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 ip4:212.235.192.0/23 ip4:212.235.194.0/26" " ip4:194.249.81.128/26 ip4:194.249.81.192/27 ip4:194.2.22.0/24 ip4:194.249.224.0/24 ip4:88.200.64.0/24 ip4:193.2.61.224/28" " ip4:194.249.168.8/29 ip4:194.249.150.0/26 ip4:88.200.63.64/26 ip4:88.200.63.128/25 ip4:212.235.194.50/31 ip4:212.235.194.52/30" " ip4:212.235.194.56/30 ip4:212.235.194.60/31 ip4:212.235.194.62/32 ip4:193.2.1.0/8 include:spf.protection.outlook.com include:sharepointonline.com -all"
+@ 60 IN MX 10 Zaliv
+tisi 60 IN A 88.200.63.137
+tisi 60 IN MX 10 sympa.tisi
+cjup 60 IN CNAME zaliv
+fm 60 IN MX 10 mx.fm
+dev.hup 60 IN A 88.200.63.206
+obmorje 60 IN A 212.235.226.73
+forum.turistica 60 IN CNAME virt.turistica.si.
+potni_nalogi 60 IN CNAME pn
+starwww.pef 60 IN CNAME Perun2.pef
+www.turistica 60 IN CNAME zaliv
+moodle.fvz 60 IN A 212.235.194.53
+uk 60 IN MX 10 zaliv
+Perun2.pef 60 IN A 88.200.64.65
+upload 60 IN A 212.235.226.144
+ric 60 IN NS zaliv
+ric 60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+projekti 60 IN CNAME Morje
+www.ac 60 IN CNAME Morje
+www.fvz 60 IN CNAME www.vszi
+jt 60 IN A 88.200.63.137
+www2.fhs 60 IN A 194.249.81.196
+gradiva.cjmk 60 IN A 194.249.81.201
+labicum 60 IN CNAME Morje
+mc 60 IN CNAME Primorje
+nabiralnik.studenti 60 IN CNAME Primorje
+fds 60 IN A 193.2.97.28
+unet 60 IN A 176.9.127.11
+lt 60 IN A 88.200.63.137
+mx.fm 60 IN A 194.249.224.99
+famnit-iam 60 IN MX 10 zaliv
+posta2.vszi 60 IN A 88.200.63.134
+odun 60 IN A 212.235.226.95
+www2.cjup 60 IN CNAME zaliv
+zrsmaps.zrs 60 IN A 193.2.22.13
+www 60 IN A 195.246.15.93
+pef 60 IN TXT "hZM92or0Ng09QZtm5sN2xW1Bx20Nikgb8P0W8TusoFd+i7wJiVosoyHwrdcLJs31lWwvTZbRcRMxy3IZOQLf/w=="
+60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+pef 60 IN MX 10 zaliv
+fgo 60 IN A 88.200.63.147
+fgo 60 IN MX 10 zaliv
+ankete 60 IN A 88.200.63.148
+amebis 60 IN A 212.235.226.135
+urnik.fhs 60 IN A 194.249.81.196
+sigma2 60 IN A 193.2.22.10
+ftp.turistica 60 IN CNAME izmir.turistica.si.
+pn 60 IN A 88.200.63.177
+_autodiscover._tcp.student 60 IN SRV 0 0 443 mail
+www.fm 60 IN A 194.249.224.50
+fhs 60 IN TXT "dF9M0FWNqgQucqXZ2+WLf1InADTKeVUj3jP2PghVFv8GIPRdT4W2VYYw9L5ApbZVGDh5BvhqGS0nXtmoIpmHpQ=="
+60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+fhs 60 IN MX 5 smtp2
+60 IN MX 10 smtp1
+dev2.hic 60 IN A 88.200.63.168
+_autodiscover._tcp.famnit 60 IN SRV 0 0 443 posta.famnit
+e.fts 60 IN A 88.200.63.147
+oskarserver 60 IN A 193.2.22.10
+sd 60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+sd 60 IN MX 10 zaliv
+sdomovi.sd 60 IN CNAME primorje
+authsmtp 60 IN A 212.235.226.144
+60 IN A 212.235.226.147
+dev2.tos 60 IN A 88.200.63.168
+csasc2013 60 IN A 88.200.63.147
+lili.turistica 60 IN A 193.2.61.230
+studentski-svet 60 IN CNAME zaliv
+malus 60 IN A 193.2.97.50
+wiki.turistica 60 IN CNAME suzi.turistica.si.
+zalivturistica 60 IN CNAME Zaliv
+sis 60 IN CNAME vis
+abuse 60 IN MX 10 obmorje
+60 IN MX 20 Uprava
+www.vszi 60 IN A 212.235.194.52
+www.vpis 60 IN CNAME www
+www.jt 60 IN CNAME jt
+smtp1 60 IN A 212.235.226.153
+smtp2 60 IN A 212.235.226.154
+virt.turistica 60 IN A 193.2.241.146
+share 60 IN A 212.235.226.148
+refosk2 60 IN A 212.235.226.71
+prijava.turistica 60 IN A 193.2.61.233
+posta.zrs 60 IN A 193.2.22.5
+mail.fhs 60 IN A 212.235.226.131
+zrs 60 IN TXT "v=spf1 mx a:posta.zrs.upr.si a:mail.zrs.upr.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+zrs 60 IN MX 20 posta.zrs
+60 IN MX 30 mail.zrs
+testpint 60 IN MX 10 malus
+_autodiscover._tcp.fhs 60 IN SRV 0 0 443 mail
+www.pef 60 IN A 91.216.54.5
+redni.turistica 60 IN CNAME suzi.turistica.si.
+famnit 60 IN NS zaliv
+sympa 60 IN CNAME zaliv
+radius2 60 IN A 212.235.226.139
+autodiscover 600 IN A 212.235.226.144
+600 IN A 212.235.226.147
+peskovnik.primorje 60 IN CNAME Primorje
+_autodiscover._tcp 60 IN SRV 0 0 443 mail
+sympa.testpint 60 IN CNAME malus
+sympa.sd 60 IN CNAME zaliv
+poletnasolakomen 60 IN A 195.246.15.93
+test 60 IN MX 10 zaliv
+www.sd 60 IN A 91.216.54.5
+fts 60 IN MX 10 zaliv
+fts 60 IN TXT "whh9wlCi7qRfKLthdqRDBRQK/C2ZbNfdgJ0tm6mjx/WmaGusvWDFEywTNgzWQWpY4tLI0AYSmNHlBkPwXhr/Qg=="
+60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+peskovnik 60 IN CNAME Morje
+turs 60 IN A 88.200.63.137
+forum 60 IN CNAME Morje
+srvfw.fm 60 IN A 194.249.224.2
+www.student 60 IN CNAME nabiralnik.studenti
+radius 60 IN A 212.235.226.71
+Nabiralnik 60 IN CNAME Primorje
+_autodiscover._tcp.pint 60 IN SRV 0 0 443 posta.pint
+fvz 60 IN MX 10 zaliv
+fvz 60 IN TXT "ke7Lq7y+W+yuXkxzDcnvsICxcYK2GmUDh5ZxRba0deFr9lObeK0OLoHQlamaPbJRDbPTFspFdQ7sQbhRtJmoyQ=="
+60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+www2 60 IN CNAME Zaliv
+gosp 60 IN A 88.200.63.137
+ftp.zrs 60 IN CNAME www.zrs
+ironport 60 IN A 212.235.226.152
+Perun.pef 60 IN A 88.200.64.66
+oskar.zrs 60 IN A 193.2.22.10
+prevoz 60 IN CNAME zaliv
+download 60 IN CNAME zaliv
+ankete.fhs 60 IN A 194.249.81.197
+hic 60 IN A 88.200.63.168
+motel-port.sd 60 IN CNAME zaliv
+e.pef 60 IN A 88.200.63.147
+klepetalnice.studenti 60 IN CNAME famnitstudenti
+ojs.zrs 60 IN A 194.249.0.64
+famnitstudenti 60 IN A 193.2.97.22
+ldap 60 IN CNAME upvm
+drupal.turistica 60 IN CNAME suzi.turistica.si.
+csg.zrs 60 IN CNAME oskar.zrs
+ocs 60 IN A 212.235.226.143
+iam 60 IN NS zaliv
+_autodiscover._tcp.fts 60 IN SRV 0 0 443 mail
+ica 60 IN CNAME zaliv
+vszi 60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/27 ip4:212.235.192.0/23 ip4:212.235.194.0/26" " ip4:194.249.81.128/26 ip4:194.249.81.192/27 ip4:194.2.22.0/24 ip4:194.249.224.0/24 ip4:88.200.64.0/24 ip4:193.2.61.224/28" " ip4:194.249.168.8/29 ip4:194.249.150.0/26 ip4:88.200.63.64/26 ip4:88.200.63.128/25 ip4:212.235.194.50/31 ip4:212.235.194.52/30" " ip4:212.235.194.56/30 ip4:212.235.194.60/31 ip4:212.235.194.62/32 ip4:193.2.1.0/8  a:avs1.arnes.si a:avs2.arnes.si -all"
+vszi 60 IN MX 50 zaliv
+suzi.turistica 60 IN A 193.2.61.231
+turistica 60 IN NS zaliv
+turistica 60 IN MX 10 suzi.turistica.si.
+ric04 60 IN A 212.235.226.140
+www.cjmk 60 IN CNAME zaliv
+iam-famnit 60 IN MX 10 zaliv
+mail.fm 60 IN A 194.249.224.2
+spamtest 60 IN MX 10 obmorje
+_autodiscover._tcp.fvz 60 IN SRV 0 0 443 mail
+idp 60 IN CNAME refosk2
+upvm 60 IN A 212.235.226.77
+feniks 60 IN MX 10 zaliv
+feniks 60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+mail 600 IN A 212.235.226.144
+600 IN A 212.235.226.147
+jabber.studenti 60 IN CNAME famnitstudenti
+mailint.fhs 60 IN A 10.20.10.5
+kribel.turistica 60 IN CNAME suzi.turistica.si.
+imenik.studenti 60 IN CNAME famnitstudenti
+dev.pn 60 IN CNAME pn
+mobile 60 IN A 212.235.226.142
+pef.primorje 60 IN CNAME Primorje
+Zaliv 60 IN A 212.235.226.73
+Zaliv 60 IN MX 10 Zaliv
+www3.turistica 60 IN CNAME suzi.turistica.si.
+mail.zrs 60 IN A 193.2.22.2
+btps-forum.turistica 60 IN CNAME virt.turistica.si.
+_autodiscover._tcp.iam 60 IN SRV 0 0 443 posta.iam
+posta.student 60 IN CNAME nabiralnik.studenti
+Posta 60 IN CNAME Morje
+www.kariernicenter 60 IN A 195.246.15.93
+WWW1 60 IN CNAME Zaliv
+posta.vszi 60 IN CNAME primorje
+primorje 60 IN MX 10 primorje
+primorje 60 IN A 212.235.226.74
+www.unet 60 IN CNAME unet
+www.cjup 60 IN CNAME zaliv
+jabberbot.studenti 60 IN CNAME famnitstudenti
+hup 60 IN A 88.200.63.206
+student 60 IN TXT "jor96Za+xukJF4Nux8mqIxzSuVsZx9q/RP5aMWqHG6SXBgJ1YEZ5+1SZbBNEcP+PQAnn9K+wjfseOR/aI8Aqaw=="
+60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+student 60 IN MX 10 zaliv
+vis 60 IN A 212.235.226.157
+_autodiscover._tcp.Uprava 60 IN SRV 0 0 443 mail
+intranet 60 IN CNAME Morje
+slavnik 60 IN A 212.235.226.136
+_autodiscover._tcp.feniks 60 IN SRV 0 0 443 mail
+ldap1 60 IN CNAME ldap
+ldap2 60 IN CNAME zaliv
+Uprava 60 IN MX 5 smtp1
+60 IN MX 10 smtp2
+Uprava 60 IN A 212.235.226.131
+60 IN A 212.235.226.134
+Uprava 60 IN TXT "AMxsRNKP6V9kCRqyjkthgBYJmi2LrhgqUMioH52zSkKsQ9W62Y5nytisRXXfZQ55hoBU3ghabL55Y2nWOQrlUg=="
+60 IN TXT "v=spf1 ip4:212.235.226.64/26 ip4:212.235.226.128/17 a:avs1.arnes.si a:avs2.arnes.si include:spf.protection.outlook.com include:sharepointonline.com -all"
+urnik.turistica 60 IN CNAME prijava.turistica.si.
+dev.hic 60 IN A 88.200.63.168
+dev1.hic 60 IN A 88.200.63.168
+refosk 60 IN A 212.235.226.139
+_sipinternaltls._tcp 60 IN SRV 0 0 5061 ocs
+pint 60 IN NS zaliv
+pint 60 IN MX 10 malus
+intranet2 60 IN CNAME zaliv
+studenti 60 IN MX 10 primorje
+www.fgo 60 IN A 88.200.63.147
+ftp.fhs 60 IN CNAME www.fhs
+dev1.tos 60 IN A 88.200.63.168
+www.fhs 60 IN A 88.200.63.148
+_autodiscover._tcp.pef 60 IN SRV 0 0 443 mail
+repozitorij 60 IN A 212.235.226.95
+projects 60 IN CNAME Morje
+mail.turistica 60 IN CNAME suzi.turistica.si.
+ovg 60 IN CNAME zaliv
+izmir.turistica 60 IN A 193.2.61.234
+cjmk 60 IN MX 10 zaliv
+posta.studenti 60 IN CNAME nabiralnik.studenti
+localhost.turistica 60 IN A 127.0.0.1
+novwww 60 IN CNAME Morje
+ows 60 IN A 212.235.226.155
+nabiralnik.student 60 IN CNAME nabiralnik.studenti
+remote 60 IN A 212.235.226.81
+turk 60 IN CNAME jt
+vis.pef 60 IN CNAME Perun2.pef
+dns1 60 IN A 212.235.226.73
+dns2 60 IN A 88.200.63.131
+dns3 60 IN A 88.200.63.134
+_autodiscover._tcp.fm 60 IN SRV 0 0 443 mail
+sis.pef 60 IN CNAME Perun2.pef
+Morje 60 IN A 212.235.226.73
+www.sigma2 60 IN CNAME sigma2
+as 60 IN CNAME projektni.pint
+pop.turistica 60 IN CNAME suzi.turistica.si.
+izredni.turistica 60 IN CNAME suzi.turistica.si.
+ric03 60 IN MX 10 ric03
+ric03 60 IN A 212.235.226.131
+portal 60 IN A 212.235.226.138
+ftp.fm 60 IN A 194.249.224.2
+imap.turistica 60 IN CNAME suzi.turistica.si.
+sympa.tisi 60 IN A 88.200.63.134
+dos 60 IN A 212.235.226.144
+www.zrs 60 IN A 195.246.15.93
+apps.jt 60 IN A 88.200.63.168
+www2.cjmk 60 IN CNAME zaliv
+e.fhs 60 IN A 88.200.63.147
+www2.turistica 60 IN CNAME izmir.turistica.si.

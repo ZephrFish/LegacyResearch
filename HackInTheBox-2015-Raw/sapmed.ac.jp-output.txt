@@ -1,0 +1,139 @@
+@ 120 IN SOA ns postmaster 2014121901 3600 600 36000 3600
+@ 120 IN NS ns
+120 IN NS ns2
+120 IN NS nopporo.north.ad.jp.
+120 IN NS dns-x.sinet.ad.jp.
+@ 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+@ 120 IN TXT "v=spf1 +ip4:163.130.151.132 +ip4:163.130.201.114 ~all"
+120 IN TXT "MS=ms12105558"
+es 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+www.mmm 120 IN A 163.130.17.7
+kuma.unc 120 IN A 163.130.175.30
+pathway 120 IN A 163.130.155.254
+hosuukei 120 IN CNAME hosuukei.cc
+isilon 120 IN A 163.130.25.221
+groupware 120 IN A 163.130.201.179
+_sipfederationtls._tcp 120 IN SRV 100 1 5061 sipfed.online.lync.com.
+selene 120 IN A 163.130.151.132
+medialx.cc 120 IN A 163.130.151.191
+www.rains 120 IN CNAME wall.rains
+it-undou.cc 120 IN A 163.130.25.152
+helios 120 IN A 163.130.151.131
+www 120 IN CNAME narcissus
+ns 120 IN A 163.130.151.200
+agape 120 IN A 163.130.151.12
+xerxes 120 IN A 163.130.19.251
+sakon.cc 120 IN A 163.130.201.117
+mediawms.cc 120 IN A 163.130.151.192
+mmm16 120 IN A 163.130.17.6
+webct 120 IN A 163.130.85.153
+mmm21 120 IN A 163.130.151.27
+_sip._tls 120 IN SRV 100 1 443 sipdir.online.lync.com.
+mec 120 IN A 163.130.10.9
+bizmate.cc 120 IN A 163.130.25.65
+smtp 120 IN CNAME rg.cc
+wall.rains 120 IN A 163.130.190.252
+shs 120 IN A 163.130.151.106
+nobunaga.cc 120 IN A 163.130.201.114
+nobunaga.cc 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+nobunaga.cc 120 IN TXT "v=spf1 +ip4:163.130.201.114 ~all"
+*.hes 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+sip 120 IN CNAME sipdir.online.lync.com.
+webmail 120 IN CNAME ssl-vip
+izumi.unc 120 IN A 163.130.175.32
+me-learning 120 IN A 163.130.151.22
+ir.cc 120 IN A 163.130.22.7
+consa.cc 120 IN A 163.130.204.104
+snow.cc 120 IN A 163.130.175.1
+ssl-vip 120 IN A 163.130.201.178
+subaru.cc 120 IN A 163.130.22.1
+misty.cc 120 IN A 163.130.102.98
+mmm 120 IN A 163.130.17.7
+infonavi 120 IN A 163.130.22.141
+kotan.cc 120 IN A 163.130.22.4
+sso 120 IN A 163.130.22.140
+*.unc 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+hes 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+narcissus 120 IN A 163.130.151.101
+mmm8 120 IN A 163.130.17.5
+corelab1 120 IN A 163.130.150.110
+ssauth 120 IN A 163.130.22.143
+kurione.cc 120 IN A 163.130.22.5
+echo 120 IN A 163.130.151.112
+ns2 120 IN A 163.130.151.201
+rg.cc 120 IN A 163.130.201.170
+core4.cc 120 IN A 163.130.150.113
+hamanasu.cc 120 IN A 163.130.22.6
+ganpro 120 IN A 163.130.151.16
+researcher 120 IN A 163.130.151.107
+j-lab1 120 IN A 163.130.150.111
+core4 120 IN CNAME core4.cc
+core5 120 IN CNAME core5.cc
+hokuto.cc 120 IN A 163.130.22.2
+seminardb 120 IN A 163.130.201.183
+unc 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+iportfolio 120 IN A 163.130.151.235
+*.es 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+lyncdiscover 120 IN CNAME webdir.online.lync.com.
+*.ezproxy 120 IN A 163.130.22.142
+it-undou 120 IN CNAME it-undou.cc
+solomon 120 IN A 163.130.151.14
+portal1 120 IN A 163.130.204.54
+core5.cc 120 IN A 163.130.150.114
+hcp-meeting 120 IN A 163.130.155.10
+handbook 120 IN A 163.130.151.114
+ezproxy 120 IN A 163.130.22.142
+u-treat 120 IN CNAME agape
+biblio1.cc 120 IN A 163.130.24.30
+puray 120 IN A 163.130.22.133
+hosuukei.cc 120 IN A 163.130.151.210
+hosuukei.cc 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+kamui.cc 120 IN A 163.130.22.3
+web 120 IN CNAME agape
+show.cc 120 IN CNAME snow.cc
+namara.unc 120 IN A 163.130.175.31
+handbook2 120 IN A 163.130.151.115
+pirka 120 IN A 163.130.22.8
+icecan.cc 120 IN A 163.130.201.140
+solomon-db 120 IN A 163.130.151.15
+echom 120 IN A 163.130.151.113
+mail-vip 120 IN A 163.130.201.175
+drive 120 IN A 163.130.201.10
+ssohost 120 IN A 163.130.22.144
+pop 120 IN CNAME mail-vip
+ssobk 120 IN A 163.130.22.145
+cplan-vpn 120 IN A 163.130.204.52
+wiz 120 IN A 163.130.201.128
+bb 120 IN A 163.130.151.111
+hogan.cc 120 IN A 163.130.101.168
+bizmate 120 IN CNAME bizmate.cc
+cc 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.
+cc 120 IN TXT "v=spf1 +ip4:163.130.151.132 +ip4:163.130.201.114 ~all"
+pirka-s 120 IN A 163.130.22.12
+btnode 120 IN A 163.130.150.112
+el1 120 IN A 163.130.151.108
+el 120 IN A 163.130.151.105
+teine.cc 120 IN A 163.130.161.20
+teine.cc 120 IN MX 10 helios
+120 IN MX 15 selene
+120 IN MX 30 inaho.north.ad.jp.

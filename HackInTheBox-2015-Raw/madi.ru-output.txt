@@ -1,0 +1,193 @@
+@ 3600 IN SOA ns1.madihost.ru. root 2013121276 3600 3600 604800 3600
+@ 3600 IN MX 5 mail.madihost.ru.
+@ 3600 IN NS ns1.madihost.ru.
+3600 IN NS ns2.madihost.ru.
+@ 3600 IN A 80.250.166.6
+@ 3600 IN TXT "v=spf1 ip4:80.250.166.6 a mx ~all"
+hydra 3600 IN MX 5 mail.madihost.ru.
+fl 3600 IN A 92.53.118.64
+vestnik 3600 IN A 80.250.166.6
+fu 3600 IN A 80.250.166.6
+stat 3600 IN CNAME titan
+gp 3600 IN MX 5 mail.madihost.ru.
+gt 3600 IN A 80.250.166.22
+gt 3600 IN MX 5 mail.madihost.ru.
+foto 3600 IN MX 5 mail.madihost.ru.
+dsm 3600 IN MX 5 mail.madihost.ru.
+os 3600 IN MX 5 mail.madihost.ru.
+it 3600 IN MX 5 mail.madihost.ru.
+profkom 3600 IN MX 5 mail.madihost.ru.
+mail.dms 3600 IN A 80.250.166.6
+umch 3600 IN MX 5 mail.madihost.ru.
+barinov 3600 IN A 80.250.166.6
+rus-test 3600 IN A 80.250.166.6
+termeh 3600 IN MX 5 mail.madihost.ru.
+kom 3600 IN MX 5 mail.madihost.ru.
+rio 3600 IN MX 5 mail.madihost.ru.
+lg 3600 IN MX 5 mail.madihost.ru.
+lk 3600 IN A 80.250.166.4
+teachplan 3600 IN A 80.250.166.6
+prepfac 3600 IN MX 5 mail.madihost.ru.
+alan 3600 IN A 80.250.166.22
+dvs 3600 IN MX 5 mail.madihost.ru.
+lib 3600 IN A 80.250.166.6
+rmcigip 3600 IN A 80.250.166.6
+priem 3600 IN A 80.250.166.6
+ms 3600 IN MX 5 mail.madihost.ru.
+ms 3600 IN A 80.250.166.6
+mt 3600 IN MX 5 mail.madihost.ru.
+smtp.asu 3600 IN A 80.250.166.6
+ns 3600 IN A 80.250.166.6
+sed 3600 IN MX 5 mail.madihost.ru.
+sed 3600 IN A 80.250.166.6
+pf 3600 IN MX 5 mail.madihost.ru.
+pf 3600 IN A 80.250.166.6
+seg 3600 IN MX 5 mail.madihost.ru.
+nich 3600 IN MX 5 mail.madihost.ru.
+tplantest 3600 IN A 80.250.166.6
+zp 3600 IN A 80.250.166.6
+www 3600 IN A 80.250.166.6
+www.fl 3600 IN A 92.53.118.64
+vmat 3600 IN MX 5 mail.madihost.ru.
+ruslang 3600 IN MX 5 mail.madihost.ru.
+ftp.asu 3600 IN A 80.250.166.6
+library 3600 IN MX 5 mail.madihost.ru.
+sd 3600 IN MX 5 mail.madihost.ru.
+netview 3600 IN MX 5 mail.madihost.ru.
+lefmo 3600 IN MX 5 mail.madihost.ru.
+www.asu 3600 IN A 80.250.166.6
+mater 3600 IN MX 5 mail.madihost.ru.
+smtp 3600 IN A 80.250.166.6
+titan 3600 IN A 80.250.166.61
+tm 3600 IN MX 5 mail.madihost.ru.
+telematica 3600 IN MX 5 mail.madihost.ru.
+ui 3600 IN MX 5 mail.madihost.ru.
+hq-pix515e 3600 IN A 80.250.166.10
+tt 3600 IN MX 5 mail.madihost.ru.
+tu 3600 IN MX 5 mail.madihost.ru.
+cmis 3600 IN MX 5 mail.madihost.ru.
+sb 3600 IN MX 5 mail.madihost.ru.
+sb 3600 IN A 80.250.166.6
+spravochnik 3600 IN A 80.250.166.6
+lsa 3600 IN MX 5 mail.madihost.ru.
+adi 3600 IN CNAME fend.neicon.ru.
+aero 3600 IN A 80.250.166.6
+tea 3600 IN MX 5 mail.madihost.ru.
+www.rmcigip 3600 IN A 80.250.166.6
+tacis 3600 IN MX 5 mail.madihost.ru.
+fpp 3600 IN A 80.250.166.6
+mcado 3600 IN A 80.250.166.6
+maditest 3600 IN A 80.250.166.6
+warum 3600 IN MX 5 mail.madihost.ru.
+zf 3600 IN MX 5 mail.madihost.ru.
+etech 3600 IN MX 5 mail.madihost.ru.
+futest 3600 IN A 80.250.166.6
+aspirant 3600 IN MX 5 mail.madihost.ru.
+imap 3600 IN A 80.250.166.6
+ftp 3600 IN A 80.250.166.6
+chem 3600 IN MX 5 mail.madihost.ru.
+cama 3600 IN MX 5 mail.madihost.ru.
+socio 3600 IN MX 5 mail.madihost.ru.
+pop.asu 3600 IN A 80.250.166.6
+safety 3600 IN MX 5 mail.madihost.ru.
+philosophy 3600 IN MX 5 mail.madihost.ru.
+sopromat 3600 IN MX 5 mail.madihost.ru.
+stranoved 3600 IN MX 5 mail.madihost.ru.
+www.mcado 3600 IN A 80.250.166.6
+plan 3600 IN A 80.250.166.22
+otd 3600 IN MX 5 mail.madihost.ru.
+obd 3600 IN MX 5 mail.madihost.ru.
+logistics 3600 IN MX 5 mail.madihost.ru.
+hq-gw-vl5 3600 IN A 80.250.166.70
+ecology 3600 IN MX 5 mail.madihost.ru.
+mtt 3600 IN MX 5 mail.madihost.ru.
+testing 3600 IN A 80.250.166.22
+hq-gw-vl6 3600 IN A 80.250.166.30
+smtp.dms 3600 IN A 80.250.166.6
+app 3600 IN MX 5 mail.madihost.ru.
+noc 3600 IN A 80.250.166.1
+hq-pix515e-noc 3600 IN A 80.250.166.50
+ftp.dms 3600 IN A 80.250.166.6
+asu 3600 IN MX 5 mail.madihost.ru.
+asu 3600 IN A 80.250.166.6
+uis 3600 IN MX 5 mail.madihost.ru.
+atf 3600 IN MX 5 mail.madihost.ru.
+asp 3600 IN MX 5 mail.madihost.ru.
+cat 3600 IN A 80.250.166.19
+www.dms 3600 IN A 80.250.166.6
+mail 3600 IN A 80.250.166.6
+cdo 3600 IN A 80.250.166.15
+db2 3600 IN A 80.250.166.2
+uo 3600 IN MX 5 mail.madihost.ru.
+db6 3600 IN A 80.250.166.6
+conf 3600 IN A 80.250.166.13
+old 3600 IN A 80.250.166.6
+ntp 3600 IN CNAME pyro
+erzion 3600 IN MX 5 mail.madihost.ru.
+tkm 3600 IN MX 5 mail.madihost.ru.
+terminal 3600 IN A 80.250.166.6
+intra 3600 IN CNAME titan
+proekt 3600 IN MX 5 mail.madihost.ru.
+omm 3600 IN MX 5 mail.madihost.ru.
+pre-reg 3600 IN A 80.250.166.6
+alumni 3600 IN A 80.250.166.22
+mail.asu 3600 IN A 80.250.166.6
+lptat 3600 IN MX 5 mail.madihost.ru.
+opb 3600 IN MX 5 mail.madihost.ru.
+student 3600 IN MX 5 mail.madihost.ru.
+cota 3600 IN A 80.250.166.6
+expert 3600 IN MX 5 mail.madihost.ru.
+dat 3600 IN MX 5 mail.madihost.ru.
+hq-gw-vl7 3600 IN A 80.250.166.62
+hq-gw 3600 IN CNAME hq-gw-vl7
+eatic 3600 IN A 80.250.166.6
+buh 3600 IN MX 5 mail.madihost.ru.
+gsm-lab 3600 IN MX 5 mail.madihost.ru.
+ipd 3600 IN MX 5 mail.madihost.ru.
+ovspf 3600 IN A 80.250.166.6
+managment 3600 IN MX 5 mail.madihost.ru.
+math 3600 IN MX 5 mail.madihost.ru.
+ddm 3600 IN MX 5 mail.madihost.ru.
+cnf 3600 IN MX 5 mail.madihost.ru.
+oops 3600 IN MX 5 mail.madihost.ru.
+pop.dms 3600 IN A 80.250.166.6
+students 3600 IN MX 5 mail.madihost.ru.
+geotrans 3600 IN A 80.250.166.6
+kanc 3600 IN MX 5 mail.madihost.ru.
+niimk 3600 IN MX 5 mail.madihost.ru.
+pyro 3600 IN A 80.250.166.65
+pradm 3600 IN MX 5 mail.madihost.ru.
+mcep 3600 IN A 80.250.166.6
+kat 3600 IN A 80.250.166.19
+igip 3600 IN MX 5 mail.madihost.ru.
+auto 3600 IN A 80.250.166.6
+dil 3600 IN MX 5 mail.madihost.ru.
+pop 3600 IN A 80.250.166.6
+security 3600 IN MX 5 mail.madihost.ru.
+pre-admission 3600 IN MX 5 mail.madihost.ru.
+pix-l2tp-01 3600 IN A 80.250.166.53
+pix-l2tp-02 3600 IN A 80.250.166.54
+pix-l2tp-03 3600 IN A 80.250.166.55
+igip2008 3600 IN A 80.250.166.6
+ap 3600 IN MX 5 mail.madihost.ru.
+cc 3600 IN MX 5 mail.madihost.ru.
+hist 3600 IN MX 5 mail.madihost.ru.
+metalls 3600 IN MX 5 mail.madihost.ru.
+metalls 3600 IN A 80.250.166.6
+egg 3600 IN MX 5 mail.madihost.ru.
+da 3600 IN MX 5 mail.madihost.ru.
+edm 3600 IN MX 5 mail.madihost.ru.
+tplan 3600 IN A 80.250.166.6
+eef 3600 IN MX 5 mail.madihost.ru.
+uchsovet 3600 IN MX 5 mail.madihost.ru.
+dms 3600 IN A 80.250.166.6
+metotdel 3600 IN MX 5 mail.madihost.ru.
+dm 3600 IN MX 5 mail.madihost.ru.
+voip 3600 IN MX 5 mail.madihost.ru.
+voip 3600 IN A 80.250.166.3
+zakupki 3600 IN MX 5 mail.madihost.ru.
+zdaniya 3600 IN MX 5 mail.madihost.ru.
+du 3600 IN MX 5 mail.madihost.ru.
+en 3600 IN A 80.250.166.6
+kip 3600 IN MX 5 mail.madihost.ru.
+konturs 3600 IN MX 5 mail.madihost.ru.

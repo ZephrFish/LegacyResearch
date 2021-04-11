@@ -1,0 +1,157 @@
+@ 900 IN SOA animas hostmaster 2015042100 3600 3600 360000 86400
+@ 900 IN NS ns1.riu.edu.ar.
+900 IN NS ns-1
+900 IN NS ns-2
+@ 900 IN A 200.5.106.10
+@ 900 IN MX 10 mx-1
+900 IN MX 10 mx-2
+900 IN MX 30 mx-3
+900 IN MX 30 mx-4
+@ 900 IN TXT "v=spf1 mx ~all"
+rec 900 IN NS ns-1
+900 IN NS ns-2
+most 900 IN A 200.5.106.254
+expoempleo 900 IN CNAME pasantias
+rafam 900 IN CNAME chato
+proyectos.extension 900 IN CNAME web
+biblio-polim 900 IN CNAME biblio
+faa 900 IN NS ns-1
+900 IN NS ns-2
+kolla-vet 900 IN CNAME web
+www.veterinariasvirtual 900 IN CNAME veterinariasvirtual
+evaluadores.extension 900 IN CNAME web
+comedorolavarria 900 IN CNAME web
+mx-1 900 IN A 200.5.106.11
+mx-2 900 IN A 200.5.106.12
+comedortandil 900 IN A 200.5.106.205
+mx-4 900 IN A 200.5.106.12
+drupal 900 IN A 200.5.106.10
+fch 900 IN NS ns-1
+900 IN NS ns-2
+graduados 900 IN A 200.5.106.192
+sabato 900 IN NS ns-1
+900 IN NS ns-2
+www.atuncpba 900 IN CNAME pasantias
+vc 900 IN A 200.5.106.95
+salud 900 IN NS ns-1
+900 IN NS ns-2
+www.sigeva 900 IN CNAME sigeva
+prueba.biblio 900 IN CNAME web
+lenguas 900 IN CNAME web
+www 900 IN A 200.5.106.10
+topologia 900 IN CNAME web
+www.seminariorueda2010 900 IN CNAME drupal
+www.metalurgico.integrando 900 IN CNAME integrando
+fio 900 IN NS ns-1
+900 IN NS ns-2
+nagiosriu 900 IN A 170.210.2.47
+www.extension 900 IN CNAME pasantias
+becas 900 IN A 200.5.106.199
+integrando 900 IN A 200.5.106.50
+radiouniversidadolavarria 900 IN CNAME belgrado.fio
+vcazul 900 IN A 170.210.119.22
+portada-tasa 900 IN A 200.5.106.20
+exa 900 IN NS ns-1
+900 IN NS ns-2
+mailman 900 IN A 200.5.106.93
+portada-riu 900 IN A 170.210.119.20
+animas 900 IN A 170.210.112.131
+900 IN A 200.5.106.12
+animas 900 IN TXT "v=spf1 a -all"
+aulasv2 900 IN CNAME web
+www.biblio 900 IN CNAME biblio
+museo 900 IN CNAME web
+consultas.biblio 900 IN CNAME biblio
+_xmpp-server._tcp 900 IN SRV 20 0 5269 chato
+chato 900 IN A 200.5.106.18
+www.expoempleo 900 IN CNAME pasantias
+lineaa1.secat 900 IN A 200.5.106.59
+soc 900 IN NS ns-1
+900 IN NS ns-2
+rehto 900 IN CNAME integrando
+encuentroespaciosenblanco 900 IN CNAME web
+sigeva 900 IN A 200.5.106.101
+seminariorueda2010 900 IN CNAME drupal
+arte 900 IN NS ns-1
+900 IN NS ns-2
+enape 900 IN NS ns-1
+900 IN NS ns-2
+ftp 900 IN A 200.5.106.10
+www.empleo 900 IN CNAME pasantias
+isistan 900 IN NS ns-1
+900 IN NS ns-2
+pct-1 900 IN A 200.5.106.197
+mxweb 900 IN A 170.210.119.95
+vcexactas 900 IN A 170.210.119.25
+mx-3 900 IN A 200.5.106.11
+veterinariasvirtual 900 IN A 200.5.106.164
+xgap 900 IN CNAME web
+productora 900 IN NS ns-1
+900 IN NS ns-2
+vc2 900 IN A 200.5.106.96
+cice 900 IN NS ns-1
+900 IN NS ns-2
+www.movediza.integrando 900 IN CNAME integrando
+www.huellaspioneras 900 IN CNAME web
+www.aulaextension 900 IN CNAME web
+www.integrando 900 IN CNAME integrando
+biblio 900 IN CNAME web
+wiki.biblio 900 IN CNAME web
+indicadores 900 IN A 200.5.106.148
+admin.secat 900 IN A 200.5.106.59
+pasantias 900 IN A 200.5.106.15
+webmail 900 IN CNAME web
+aulas 900 IN CNAME web
+metalurgico.integrando 900 IN CNAME integrando
+sigeva-prueba 900 IN CNAME web
+webmaster.secat 900 IN A 200.5.106.59
+www.becas 900 IN CNAME becas
+monitordesa 900 IN CNAME web
+wgap.secat 900 IN A 200.5.106.59
+proxy-biblio 900 IN A 200.5.106.13
+vcolavarria 900 IN A 170.210.119.23
+beta.sage.pages 900 IN CNAME beta.sage.pages.unicen.edu.ar.s3-website-us-east-1.amazonaws.com.
+red.extension 900 IN CNAME web
+empleo 900 IN CNAME pasantias
+portada 900 IN A 170.210.119.20
+900 IN A 200.5.106.20
+vet 900 IN NS ns-1
+900 IN NS ns-2
+ns-1 900 IN A 200.5.106.11
+ns-2 900 IN A 200.5.106.12
+ns-3 900 IN A 200.5.106.11
+ns-4 900 IN A 200.5.106.12
+centinela 900 IN A 200.5.106.13
+extension 900 IN CNAME pasantias
+movediza.integrando 900 IN CNAME integrando
+nagios 900 IN A 200.5.106.97
+asterisk 900 IN A 200.5.106.98
+huellaspioneras 900 IN CNAME web
+ihlla 900 IN NS ns-1
+900 IN NS ns-2
+vctandil 900 IN A 170.210.119.21
+web 900 IN A 200.5.106.91
+comedorazul 900 IN CNAME web
+econ 900 IN NS ns-1
+900 IN NS ns-2
+der 900 IN NS ns-1
+900 IN NS ns-2
+atuncpba 900 IN CNAME pasantias
+vcquequen 900 IN A 170.210.119.24
+www.radiouniversidadolavarria 900 IN CNAME belgrado.fio
+vpn 900 IN A 200.5.106.190
+discover 900 IN CNAME web
+redondo 900 IN A 170.210.112.130
+900 IN A 200.5.106.11
+redondo 900 IN TXT "v=spf1 a -all"
+enred 900 IN CNAME federacion
+federacion 900 IN A 200.5.106.14
+aula.veterinariasvirtual 900 IN CNAME veterinariasvirtual
+empresar 900 IN A 200.5.106.249
+adjuntos 900 IN CNAME web
+extension03 900 IN A 200.5.106.92
+quequen 900 IN NS ns-1
+900 IN NS ns-2
+www.museo 900 IN CNAME web
+aulaextension 900 IN CNAME web
+lineaa3.secat 900 IN A 200.5.106.59

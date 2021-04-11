@@ -1,0 +1,5 @@
+@ 28800 IN SOA dns1.uni-erfurt.de. hostmaster.uni-erfurt.de. 2014052301 10800 3600 604800 28800
+@ 28800 IN NS dns1.uni-erfurt.de.
+28800 IN NS dns2.uni-erfurt.de.
+28800 IN NS deneb.dfn.de.
+www 28800 IN CNAME www2.uni-erfurt.de.

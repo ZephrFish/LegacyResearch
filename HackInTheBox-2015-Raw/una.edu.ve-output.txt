@@ -1,0 +1,105 @@
+@ 38400 IN SOA ciiuna2 ns1 2015040801 10800 3600 1296000 3600
+@ 38400 IN MX 10 pegaso
+@ 38400 IN NS ciiuna
+38400 IN NS ciiuna2
+@ 38400 IN SPF "v=spf1 mx ip4:150.187.90.15 mx:pegaso.una.edu.ve ~all"
+@ 38400 IN TXT "v=spf1 mx ip4:150.187.90.15 mx:pegaso.una.edu.ve ~all"
+38400 IN TXT "google-site-verification=VemgKakmPWGFACZ_gv3-DFnoFjUF9VYPL_rFhHSRHO4"
+cursoampliacion 38400 IN CNAME poseidon
+equivalencias 38400 IN CNAME hefesto
+web 38400 IN A 150.187.90.6
+serviciosalestudiante 38400 IN CNAME hefesto
+aragua 38400 IN CNAME hefesto
+ns1 38400 IN CNAME ciiuna2
+imap 38400 IN CNAME pegaso
+blog 38400 IN CNAME hefesto
+dcp 38400 IN A 150.187.90.25
+vs2 38400 IN A 150.187.90.112
+preescolar 38400 IN CNAME hefesto
+poseidon 38400 IN A 150.187.90.12
+cultura 38400 IN CNAME hefesto
+vs 38400 IN A 150.187.90.56
+estudiante 38400 IN CNAME poseidon
+soporte 38400 IN CNAME hefesto
+fundauna 38400 IN CNAME hefesto
+profesores 38400 IN CNAME hefesto
+lara 38400 IN CNAME hefesto
+ulmai 38400 IN CNAME hefesto
+revistadip 38400 IN CNAME poseidon
+ciiuna2 38400 IN AAAA 2001:1338:101a:800::3
+ciiuna2 38400 IN A 150.187.90.3
+www.ciberesquina 38400 IN A 150.187.90.4
+matematicas 38400 IN CNAME hefesto
+bolivar 38400 IN CNAME hefesto
+barinas 38400 IN A 150.187.90.97
+ciiuna 38400 IN AAAA 2001:1338:101a:800::2
+ciiuna 38400 IN A 150.187.90.2
+espaciovirtual 38400 IN CNAME poseidon
+pop3 38400 IN CNAME pegaso
+videoconferencia 38400 IN CNAME hefesto
+www.launiversidadquequeremos 38400 IN CNAME www.ciberesquina
+venus 38400 IN CNAME listas
+clamoodle 38400 IN CNAME hefesto
+ctic 38400 IN MX 1 ASPMX.L.GOOGLE.COM.
+38400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+38400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+38400 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+38400 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+ctic 38400 IN TXT "google-site-verification=YZmy9xWM9vWy-mMicN8YCJ-H9NQ0u4h0Hfiehv8Dg6w"
+formacionvirtual 38400 IN CNAME poseidon
+mda 38400 IN CNAME hefesto
+unacenit 38400 IN A 150.187.91.254
+ciberesquina 38400 IN MX 15 ciberesquina
+ciberesquina 38400 IN A 150.187.90.5
+doctorado 38400 IN CNAME poseidon
+fenix 38400 IN A 150.187.90.10
+metropolitano 38400 IN A 150.187.90.105
+www.unasec 38400 IN CNAME unasec
+hefesto 38400 IN AAAA 2001:1338:101a:800::9
+hefesto 38400 IN A 150.187.90.9
+planificacion 38400 IN CNAME hefesto
+listas 38400 IN MX 10 listas
+listas 38400 IN A 150.187.90.20
+listas 38400 IN SPF "v=spf1 mx ip4:150.187.90.12 mx:listas.una.edu.ve ~all"
+listas 38400 IN TXT "v=spf1 mx ip4:150.187.90.12 mx:listas.una.edu.ve ~all"
+jornadas 38400 IN CNAME poseidon
+ns2 38400 IN CNAME ciiuna
+rrhh 38400 IN CNAME hefesto
+dip 38400 IN CNAME poseidon
+mail 38400 IN CNAME ghs.googlehosted.com
+audiovisual 38400 IN CNAME hefesto
+unasec 38400 IN A 200.74.218.195
+ipv6 38400 IN CNAME hefesto
+postgrado 38400 IN CNAME poseidon
+academico 38400 IN CNAME hefesto
+afpe 38400 IN CNAME hefesto
+iperf 38400 IN A 150.187.90.13
+calvarado 38400 IN AAAA 2001:1338:101a:800::221
+www.correo 38400 IN CNAME pegaso
+correo 38400 IN CNAME pegaso
+merida 38400 IN CNAME hefesto
+www 38400 IN CNAME hefesto
+egresados 38400 IN CNAME hefesto
+biblo 38400 IN CNAME fenix
+ampliacion 38400 IN CNAME poseidon
+finanzas 38400 IN CNAME hefesto
+telematica 38400 IN MX 10 listas
+regsec 38400 IN CNAME unasec
+cp 38400 IN CNAME hefesto
+directorio 38400 IN CNAME hefesto
+cii 38400 IN A 216.239.32.21
+38400 IN A 216.239.34.21
+38400 IN A 216.239.36.21
+38400 IN A 216.239.38.21
+pegaso 38400 IN MX 10 pegaso
+pegaso 38400 IN AAAA 2001:1338:101a:800::15
+pegaso 38400 IN A 150.187.90.15
+#admin-dir 38400 IN TXT "Coord. de Telematica (58) 212 - 555 2382/2342"
+carabobo 38400 IN A 150.187.90.41
+cipmi 38400 IN CNAME hefesto
+cip 38400 IN CNAME poseidon
+sugau 38400 IN CNAME hefesto
+especializacion 38400 IN CNAME poseidon
+foros 38400 IN CNAME hefesto
+smtp 38400 IN CNAME pegaso
+opei 38400 IN CNAME hefesto

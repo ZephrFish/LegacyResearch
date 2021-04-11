@@ -1,0 +1,187 @@
+@ 86400 IN SOA ns1 dnsmaster.univ-amu.fr. 2014072301 28800 7200 3600000 1200
+@ 3600 IN MX 10 mmx.pj.univ-amu.fr.
+@ 86400 IN NS dns.irisa.fr.
+86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS cnudns.cines.fr.
+ibdml 86400 IN NS ns1
+86400 IN NS ns2
+ibdml 86400 IN MX 0 mx0
+86400 IN MX 0 mx1
+questest 86400 IN CNAME questionnaire
+gk 86400 IN A 139.124.132.16
+pg 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS servun.phocean.fr.
+entdlm 86400 IN A 139.124.132.172
+webmel 86400 IN CNAME ent1
+wifi 86400 IN CNAME wifi.pr
+ecume 86400 IN A 139.124.132.117
+esil 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS servun.phocean.fr.
+ent1 86400 IN A 139.124.132.66
+dud 86400 IN A 139.124.196.88
+zizou 86400 IN A 139.124.132.71
+imap-perso 86400 IN A 139.124.132.191
+ehm 86400 IN CNAME guru.pg
+patrimoinemedical 86400 IN CNAME patrimoine.timone.univ-mrs.fr.
+crmbm 86400 IN CNAME crmbm.timone.univ-mrs.fr.
+scd 86400 IN NS ns1
+86400 IN NS servun.phocean.fr.
+vpnu2 86400 IN CNAME vpn
+edsvs 86400 IN CNAME guru.pg
+ent 86400 IN A 139.124.132.69
+www.iecj 86400 IN A 139.124.196.107
+dpig 86400 IN A 139.124.196.147
+www 600 IN CNAME mozart.pg
+marchespublics 86400 IN CNAME dosi
+map 86400 IN CNAME ciml-153.univ-mrs.fr.
+dosi 86400 IN A 139.124.196.40
+pharmacie 86400 IN NS ns1
+86400 IN NS ns2
+pharmacie 86400 IN MX 0 mmx.pj.univ-amu.fr.
+pr 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS servun.phocean.fr.
+staps 86400 IN MX 0 mmx.pj.univ-amu.fr.
+esm 86400 IN CNAME guru.pg
+gap 86400 IN NS ns1
+86400 IN NS ns2
+rusty1 86400 IN CNAME ent1
+rusty2 86400 IN CNAME ent2
+www.realite-virtuelle 86400 IN A 139.124.68.168
+planning-test 86400 IN A 139.124.132.183
+hordetest 86400 IN A 139.124.132.182
+listes 86400 IN A 139.124.132.115
+listes 86400 IN MX 0 listes
+ged 86400 IN A 139.124.196.90
+wikam 86400 IN A 139.124.196.71
+medecine 86400 IN NS ns1
+86400 IN NS ns2
+medecine 86400 IN MX 0 mmx.pj.univ-amu.fr.
+smtp2 86400 IN CNAME smtp.univ-amu.fr.
+planning 86400 IN A 139.124.132.173
+fondationfmt 86400 IN CNAME www
+jeudentreprise 86400 IN CNAME sos-pharo.pg
+plantest 86400 IN CNAME adetest.pr
+jds2010 86400 IN A 139.124.196.46
+pftsv-paca 86400 IN CNAME crfb.univ-mrs.fr.
+moodle 86400 IN A 139.124.196.17
+ent2 86400 IN A 139.124.132.67
+ent3 86400 IN A 139.124.132.68
+ent4 86400 IN A 139.124.132.120
+ent5 86400 IN A 139.124.132.121
+odontologie 86400 IN NS ns1
+86400 IN NS ns2
+odontologie 86400 IN MX 0 mmx.pj.univ-amu.fr.
+agl 86400 IN NS ns1
+86400 IN NS ns2
+iut 86400 IN NS ns1
+86400 IN NS ns2
+iut 86400 IN MX 0 mmx.pj.univ-amu.fr.
+fss 86400 IN NS ns1
+86400 IN NS ns2
+ftp 86400 IN CNAME nftp.pr
+fondation 86400 IN CNAME www
+iecj 86400 IN CNAME www
+rusty3 86400 IN CNAME ent3
+diamant 86400 IN A 139.124.253.73
+dosi-timone 86400 IN CNAME infocigr.timone.univ-mrs.fr.
+ipro 86400 IN A 139.124.196.50
+mx0 86400 IN A 139.124.132.122
+mx1 86400 IN A 139.124.132.181
+smtp 600 IN A 139.124.132.70
+smtp 86400 IN MX 0 smtp
+graal 86400 IN A 139.124.196.45
+valorpaca 86400 IN MX 0 mmx.pj.univ-amu.fr.
+valorpaca 86400 IN A 139.124.196.73
+c2i 86400 IN A 139.124.196.74
+www.ism 86400 IN A 139.124.68.1
+manga.pharoadmin 86400 IN A 139.124.196.153
+ftp-nicn 86400 IN A 139.124.132.140
+ns1 86400 IN AAAA 2001:660:5402:801::1
+ns1 86400 IN A 139.124.1.1
+ns2 86400 IN A 139.124.196.2
+ejcm 86400 IN NS ns1
+86400 IN NS ns2
+sceco 86400 IN NS ns1
+86400 IN NS ns2
+sceco 86400 IN A 139.124.196.41
+ehess 86400 IN MX 0 mx0
+wmelperso 86400 IN CNAME ent
+quelmel 600 IN A 139.124.132.78
+logcri 86400 IN A 139.124.132.142
+pharoadmin 86400 IN NS manga.pharoadmin
+idp 86400 IN A 139.124.132.114
+im2 86400 IN NS ns1
+86400 IN NS ns2
+im2 86400 IN MX 0 mmx.pj.univ-amu.fr.
+ori-oai 86400 IN CNAME ori-oai.pg
+acuns 86400 IN MX 0 mmx.pj.univ-amu.fr.
+portail 86400 IN CNAME akira.pg
+etumel 86400 IN A 139.124.132.128
+etumel 86400 IN TXT "v=spf1 ip4:139.124.132.0/24 ip6:2001:660:5402:800::/64 -all"
+ipro-test 86400 IN A 139.124.196.52
+srv-univweb 86400 IN CNAME www
+cep 86400 IN CNAME www
+bu2 86400 IN CNAME bu
+ntp 86400 IN CNAME gw.pr
+imap 600 IN CNAME bureau-imapp2.univ-amu.fr.
+filex 86400 IN A 139.124.196.102
+iutrt 86400 IN CNAME web.luminy.univ-mrs.fr.
+timone 86400 IN MX 0 mmx.pj.univ-amu.fr.
+timone 86400 IN NS ns1
+86400 IN NS ns2
+arcusceres 86400 IN A 139.124.196.47
+saphir 86400 IN A 139.124.253.13
+annuaire 86400 IN A 139.124.132.110
+horde4 86400 IN A 139.124.132.126
+node000001 86400 IN CNAME saphir
+vmlistes 86400 IN A 139.124.132.64
+ftp-cartes 86400 IN A 139.124.132.143
+anubis 86400 IN CNAME akira.pg
+int 86400 IN NS ns1
+86400 IN NS ns2
+int 86400 IN MX 0 mmx.pj.univ-amu.fr.
+inscriptions 86400 IN CNAME guru.pg
+polka.adaix 86400 IN A 139.124.182.3
+srv-sqlserver 86400 IN CNAME srv-sqlserver.pg
+horloge 86400 IN CNAME gw.pr
+wmelperso1 86400 IN CNAME ent1
+marches-consult 86400 IN CNAME beethoven.pg
+metiersdelamontagne 86400 IN A 139.124.196.101
+adaix 86400 IN NS polka.adaix
+86400 IN NS rumba.adaix
+horde42 86400 IN A 139.124.132.128
+portail-recherche 86400 IN A 139.124.196.100
+oldetumel 86400 IN A 139.124.132.123
+ecopubchair 86400 IN CNAME sos-pharo.pg
+rumba.adaix 86400 IN A 139.124.184.145
+com 86400 IN NS ns1
+86400 IN NS ns2
+moveonline 86400 IN A 139.124.196.19
+netconfmedecine 86400 IN A 139.124.132.61
+irt 86400 IN CNAME www
+vpn 86400 IN A 139.124.135.37
+ftp-ejcm 86400 IN A 139.124.132.141
+cverte 86400 IN CNAME sos-pharo.pg
+auth 3600 IN A 139.124.132.146
+horde41 86400 IN A 139.124.132.127
+enquetes 86400 IN CNAME www
+ovpn 86400 IN A 139.124.132.124
+rusty 86400 IN CNAME ent
+transmedeast 86400 IN A 139.124.196.72
+luminy 86400 IN MX 0 mmx.pj.univ-amu.fr.
+luminy 86400 IN NS ns1
+86400 IN NS ns2
+h4 86400 IN CNAME horde41
+osu 86400 IN MX 0 mmx.pj.univ-amu.fr.
+bu 86400 IN A 139.124.135.68
+buaccesdistant 86400 IN A 139.124.132.36
+sciences 86400 IN NS ns1
+86400 IN NS ns2
+sciences 86400 IN MX 0 mmx.pj.univ-amu.fr.
+ratatouille 86400 IN A 139.124.196.49
+questionnaire 86400 IN A 139.124.196.18
+voyage 86400 IN CNAME beethoven.pg

@@ -1,0 +1,33 @@
+@ 38400 IN SOA cosmos dsi.ensinus.pt. 1360775395 10800 3600 604800 38400
+@ 38400 IN MX 10 ASPMX.L.GOOGLE.COM.
+38400 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+38400 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+38400 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+38400 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+@ 38400 IN TXT "v=spf1 include:_spf.google.com ~all"
+38400 IN TXT "google-site-verification=xU39uPFPlWmID9_BM-lvYtRD18obpd6jI2nFri-R1-M"
+@ 38400 IN NS cosmos
+38400 IN NS galileu
+iber 38400 IN CNAME gvelho.ulusofona.pt.
+sites 38400 IN CNAME ghs.google.com.
+webmail 38400 IN CNAME ghs.google.com.
+lamp 38400 IN A 193.137.222.68
+galileu 38400 IN A 193.137.222.101
+phpmyadmin 38400 IN CNAME lamp
+calendar 38400 IN CNAME ghs.google.com.
+moodle 38400 IN CNAME fpo.ulusofona.pt.
+mail 38400 IN CNAME ghs.google.com.
+candidaturas 38400 IN CNAME acesso.grupolusofona.pt.
+acesso 38400 IN CNAME amcoelho.ulusofona.pt.
+www 38400 IN CNAME amcoelho.ulusofona.pt.
+ae 38400 IN CNAME gvelho.ulusofona.pt.
+netpa 38400 IN CNAME fpo.ulusofona.pt.
+ns 38400 IN CNAME cosmos
+criarsaberes 38400 IN CNAME gvelho.ulusofona.pt.
+alumni 38400 IN NS cosmos.isg.pt
+38400 IN NS galileu.isg.pt
+internacional 38400 IN CNAME amcoelho.ulusofona.pt.
+mobserv 38400 IN CNAME aaaguiar.ulusofona.pt.
+excelenciaorganizacional 38400 IN CNAME gvelho.ulusofona.pt.
+aaa 38400 IN CNAME gvelho.ulusofona.pt.
+cosmos 38400 IN A 193.137.222.100

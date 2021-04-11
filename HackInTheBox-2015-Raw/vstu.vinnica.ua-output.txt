@@ -1,0 +1,12 @@
+@ 3600 IN SOA ns1.nnsss.ru. root.on-host.ru. 2015040301 10800 3600 604800 86400
+@ 3600 IN TXT "v=spf1 ip4:178.63.22.68 a mx ~all"
+@ 3600 IN NS ns1.nnsss.ru.
+3600 IN NS ns2.nnsss.ru.
+@ 3600 IN MX 10 mail
+3600 IN MX 20 mail
+@ 3600 IN A 178.63.22.106
+pop 3600 IN A 178.63.22.106
+ftp 3600 IN A 178.63.22.106
+www 3600 IN A 178.63.22.106
+mail 3600 IN A 178.63.22.106
+smtp 3600 IN A 178.63.22.106

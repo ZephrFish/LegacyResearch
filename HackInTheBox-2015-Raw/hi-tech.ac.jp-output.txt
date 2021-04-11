@@ -1,0 +1,109 @@
+@ 900 IN SOA helene postmaster 416 3600 900 2419200 900
+@ 900 IN MX 10 aspmx.l.google.com.
+900 IN MX 20 alt1.aspmx.l.google.com.
+900 IN MX 20 alt2.aspmx.l.google.com.
+900 IN MX 30 aspmx2.googlemail.com.
+900 IN MX 30 aspmx3.googlemail.com.
+@ 900 IN NS moya.gw.hirosaki-u.ac.jp.
+900 IN NS dione
+900 IN NS helene
+@ 900 IN TXT "MS=ms78984467" "3600"
+web.stud 900 IN A 133.98.4.26
+archi 900 IN NS ns.archi
+kerrigan 900 IN A 133.98.4.18
+garoon 900 IN A 133.98.3.60
+wpad 900 IN AAAA 2001:2f8:d3:1010::52
+wpad 900 IN A 133.98.3.19
+* 900 IN MX 10 mex
+900 IN MX 30 mail
+ns.mech 900 IN A 133.98.65.7
+orlanth 900 IN A 133.98.4.131
+cvsup 900 IN A 133.98.4.15
+www.cc 900 IN A 133.98.4.17
+mech 900 IN NS ns.mech
+methone.sol 900 IN A 133.98.3.101
+lib 900 IN NS pan
+ml 900 IN A 133.98.4.52
+anthe.sol 900 IN A 133.98.3.102
+mx 900 IN A 133.98.3.8
+y6hjohi277wh 900 IN CNAME gv-tahiptufidekud.dv.googlehosted.com.
+elec 900 IN NS ns.elec
+balor 900 IN A 133.98.3.31
+g 900 IN CNAME ghs.google.com.
+gak 900 IN A 133.98.3.32
+ntp.kansei 900 IN A 133.98.161.7
+rs 900 IN NS dione
+900 IN NS helene
+gcal 900 IN CNAME ghs.google.com.
+smtp 900 IN A 133.98.3.16
+mex 900 IN A 133.98.3.8
+k 900 IN CNAME www
+webmail 900 IN A 133.98.3.55
+_vlmcs._tcp 3600 IN SRV 0 0 1688 kms01
+sns 900 IN A 133.98.10.9
+sol 900 IN NS anthe.sol
+900 IN NS methone.sol
+lus 900 IN A 133.98.11.12
+ftp 900 IN A 133.98.4.16
+ns.pow 900 IN A 133.98.129.7
+ngy 900 IN A 133.98.10.100
+ngy 900 IN NS dione
+900 IN NS helene
+www2 900 IN CNAME www
+oberon 900 IN A 133.98.3.58
+www.lees 900 IN CNAME lees
+helene 900 IN AAAA 2001:2f8:d3:1010::51
+helene 900 IN A 133.98.3.51
+gsite 900 IN CNAME ghs.google.com.
+gmail 900 IN CNAME ghs.google.com.
+valleria 900 IN AAAA 2001:2f8:d3:1020::2
+valleria 900 IN A 133.98.4.16
+hercules 900 IN A 133.98.4.30
+machining-shop 900 IN CNAME ghs.google.com.
+www.elec260 900 IN A 133.98.82.8
+bio 900 IN NS ns.bio
+blog.cc 900 IN A 133.98.10.100
+mimir 900 IN A 133.98.3.71
+ns.civil 900 IN A 133.98.97.7
+kimuraken.kansei 900 IN A 133.98.167.180
+mail 900 IN A 133.98.3.16
+att 900 IN A 133.98.18.97
+phoebe 900 IN A 133.98.3.124
+cea 900 IN NS pan
+psee 900 IN A 133.98.13.55
+pan 900 IN A 133.98.3.53
+ntp 900 IN A 133.98.4.16
+imap 900 IN A 133.98.3.16
+exam 900 IN A 133.98.18.110
+www.riis 900 IN A 133.98.13.65
+adas 900 IN A 133.98.13.199
+google6731ed86193705db 900 IN CNAME google.com.
+www.riees 900 IN A 133.98.13.65
+ns.archi 900 IN A 133.98.113.7
+lees 900 IN A 133.242.142.219
+nagaya 900 IN A 133.98.4.26
+blog 900 IN NS dione
+900 IN NS helene
+gdocs 900 IN CNAME ghs.google.com.
+student-life 900 IN CNAME ghs.google.com.
+cethlenn 900 IN A 133.98.3.30
+ns.elec 900 IN A 133.98.81.7
+dione 900 IN AAAA 2001:2f8:d3:1010::52
+dione 900 IN A 133.98.3.52
+exim 900 IN A 133.98.18.110
+civil 900 IN NS ns.civil
+www.kansei 900 IN A 133.98.161.7
+kms01 900 IN A 133.98.3.33
+auth 900 IN A 133.98.3.105
+ns.info 900 IN A 133.98.145.7
+pop 900 IN A 133.98.3.16
+ns.bio 900 IN A 133.98.129.7
+pow 900 IN NS ns.pow
+www 900 IN AAAA 2001:2f8:d3:1010::80
+www 900 IN A 133.98.3.18
+job 900 IN A 133.98.18.74
+info 900 IN NS ns.info
+ns.clat 900 IN A 133.98.49.7
+alumni 900 IN MX 10 alumni
+alumni 900 IN A 133.98.4.29
+clat 900 IN NS ns.clat

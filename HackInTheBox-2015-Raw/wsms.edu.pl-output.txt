@@ -1,0 +1,13 @@
+@ 1800 IN SOA ns1.ionic.pl. hostmaster 2014071602 1800 3600 1209600 86400
+@ 1800 IN MX 10 mail
+@ 1800 IN TXT "v=spf1 a mx ip4:78.46.70.53 ~all"
+@ 1800 IN A 78.46.70.53
+@ 1800 IN NS ns1.ionic.pl.
+1800 IN NS ns2.ionic.pl.
+pop 1800 IN A 78.46.70.53
+ftp 1800 IN A 78.46.70.53
+www 1800 IN A 78.46.70.53
+localhost 1800 IN AAAA ::1
+localhost 1800 IN A 127.0.0.1
+mail 1800 IN A 78.46.70.53
+smtp 1800 IN A 78.46.70.53

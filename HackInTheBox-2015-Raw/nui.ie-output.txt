@@ -1,0 +1,14 @@
+@ 3600 IN SOA ns1.kerna.ie. hostmaster.kerna.ie. 2012021600 3600 600 2419200 3600
+@ 3600 IN NS ns.heanet.ie.
+3600 IN NS ns1.kerna.ie.
+3600 IN NS ns2.kerna.ie.
+@ 3600 IN MX 5 nui.mailsecure.net.
+3600 IN MX 5 nui2.mailsecure.net.
+3600 IN MX 15 mail.heanet.ie.
+qube 3600 IN A 193.1.192.196
+merrion 3600 IN A 193.1.192.193
+www 3600 IN CNAME nui.fusio.net.
+pearse 3600 IN A 193.1.192.254
+mail 3600 IN A 193.1.192.196
+shiva 3600 IN A 193.1.192.194
+interscan 3600 IN A 193.1.192.195

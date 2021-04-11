@@ -1,0 +1,7 @@
+@ 3600 IN SOA ns1.marstu.net. bindmaster.marstu.net. 2010072901 28800 7200 604800 86400
+@ 3600 IN NS ns1.marstu.net.
+3600 IN NS ns2.marstu.net.
+3600 IN NS ns3.marstu.net.
+@ 3600 IN A 85.143.16.17
+@ 3600 IN MX 10 mail.marstu.net.
+www 3600 IN A 85.143.16.17

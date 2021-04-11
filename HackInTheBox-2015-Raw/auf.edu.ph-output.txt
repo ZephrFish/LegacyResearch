@@ -1,0 +1,23 @@
+@ 172800 IN SOA cbc root. 120201500 10800 3600 604800 172800
+@ 172800 IN NS cbc
+@ 172800 IN MX 1 aspmx.l.google.com.
+172800 IN MX 5 alt1.aspmx.l.google.com.
+172800 IN MX 5 alt2.aspmx.l.google.com.
+172800 IN MX 10 aspmx2.googlemail.com.
+172800 IN MX 10 aspmx3.googlemail.com.
+www 172800 IN A 210.4.97.195
+pioneer 172800 IN A 210.4.97.201
+graduate 172800 IN A 210.4.97.201
+alumni 172800 IN A 210.4.97.201
+cbc 172800 IN A 210.4.97.195
+sbpass 172800 IN A 210.4.97.201
+library 172800 IN A 210.4.97.195
+sbdashboard 172800 IN A 210.4.97.201
+evaluation 172800 IN A 210.4.97.201
+stata 172800 IN A 172.16.22.243
+mail 172800 IN CNAME ghs.google.com.
+forms 172800 IN A 210.4.97.201
+confuciusinstitute 172800 IN A 210.4.97.195
+opac 172800 IN A 210.4.97.198
+sblive 172800 IN A 210.4.97.202
+survey 172800 IN A 210.4.97.201

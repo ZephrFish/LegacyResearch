@@ -1,0 +1,18 @@
+@ 86400 IN SOA ns1.1stcambodia.com. borin.pcspgroup.com. 2010031226 10800 3600 604800 86400
+@ 86400 IN NS ns1.1stcambodia.com.
+86400 IN NS ns2.1stcambodia.com.
+86400 IN NS ns3.1stcambodia.com.
+@ 86400 IN A 208.70.160.11
+@ 86400 IN MX 10 mail3.1stcambodia.com.
+*.boreyseangnam 86400 IN A 208.70.160.11
+mail.elearning 86400 IN CNAME mail2.1stcambodia.com.
+* 86400 IN A 208.70.160.11
+boreyseangnam 86400 IN A 208.70.160.11
+boreyseangnam 86400 IN MX 10 mail3.1stcambodia.com.
+boreyseangnam 86400 IN TXT "v=spf1 a mx -all"
+mail 86400 IN CNAME mail3.1stcambodia.com.
+mail.boreyseangnam 86400 IN CNAME mail3.1stcambodia.com.
+*.elearning 86400 IN A 208.70.160.11
+elearning 86400 IN A 208.70.160.11
+elearning 86400 IN MX 10 mail2.1stcambodia.com.
+elearning 86400 IN TXT "v=spf1 a mx -all"

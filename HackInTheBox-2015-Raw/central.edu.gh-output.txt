@@ -1,0 +1,98 @@
+@ 86400 IN SOA @ root 2015042302 10800 900 604800 86400
+@ 86400 IN TXT "v=spf1 ip4:41.204.63.80/28 mx ptr ~all"
+86400 IN TXT "google-site-verification=WIk0sVg3evisKmMmbbUBdVnJm1ryEX4ciOGx1yWB88E"
+86400 IN TXT "google-site-verification=mXq6enGp_mRVUF0exOeVq0Dh_YY3zM0QEZVwkEoSz9w"
+@ 86400 IN A 197.253.16.133
+@ 86400 IN NS prudence
+86400 IN NS righteous
+@ 86400 IN MX 1 ASPMX.L.GOOGLE.COM.
+86400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+86400 IN MX 10 peace
+86400 IN MX 10 fidelity
+hrmsvr.hrm 86400 IN A 172.16.8.11
+survey 86400 IN CNAME faith
+elists 86400 IN A 197.253.16.135
+smail 86400 IN TXT "google-site-verification=K1ix5dJ39R1re8yK4XPOZMKf6app2v81HHvoG6ajVmk"
+smail 86400 IN MX 1 ASPMX.L.GOOGLE.COM.
+cucinfo 86400 IN CNAME faith
+cupac 86400 IN CNAME excellence
+service 86400 IN A 172.16.8.31
+woaii 86400 IN CNAME faith
+blog 86400 IN CNAME faith
+reset 86400 IN CNAME faith
+myportal 86400 IN CNAME excellence
+dev1 86400 IN CNAME faith
+dev2 86400 IN CNAME dev
+dev3 86400 IN CNAME faith
+dev4 86400 IN CNAME dev
+faith 86400 IN A 197.253.16.133
+truth 86400 IN A 197.253.16.138
+sip 86400 IN CNAME faith
+admissions 86400 IN CNAME faith
+osis 86400 IN A 197.253.16.131
+services 86400 IN A 197.253.16.141
+payments 86400 IN CNAME faith
+apply 86400 IN CNAME faith
+dev 86400 IN A 197.253.16.137
+excellence 86400 IN A 197.253.16.134
+learn 86400 IN CNAME excellence
+pop 86400 IN A 197.253.16.135
+chap 86400 IN CNAME faith
+prudence 86400 IN A 197.253.16.131
+moodle 86400 IN A 197.253.16.134
+equity 86400 IN CNAME excellence
+mail 86400 IN CNAME peace
+stud 86400 IN TXT "google-site-verification=xQhMXwf7-SSF1LgKoN4HzITbk2taMTB4YOVhr06r5DE"
+peace 86400 IN MX 1 peace
+peace 86400 IN TXT "v=spf1 a -all"
+peace 86400 IN A 197.253.16.135
+love 86400 IN A 172.16.9.19
+webmail 86400 IN CNAME fidelity
+mailman1 86400 IN CNAME courage
+studentservices 86400 IN CNAME faith
+internship 86400 IN CNAME excellence
+search 86400 IN CNAME faith
+mymail 86400 IN CNAME ghs.GOOGLE.COM.
+educate 86400 IN CNAME blackboard
+www.scsp 86400 IN CNAME love
+justice 86400 IN A 197.253.16.130
+src 86400 IN CNAME faith
+scsp 86400 IN CNAME love
+audit 86400 IN CNAME faith
+ppl 86400 IN CNAME love
+archcloud 86400 IN CNAME faith
+old 86400 IN CNAME faith
+www.interns 86400 IN CNAME love
+student 86400 IN CNAME faith
+webservices 86400 IN CNAME excellence
+aseda 86400 IN A 197.253.16.140
+imap 86400 IN A 197.253.16.135
+dspace 86400 IN CNAME truth
+mycuc 86400 IN CNAME faith
+notice 86400 IN CNAME excellence
+icts 86400 IN CNAME faith
+elib 86400 IN A 197.253.16.132
+blackboard 86400 IN A 197.253.16.139
+www 86400 IN CNAME faith
+mydocs 86400 IN CNAME ghs.GOOGLE.COM.
+moodle2 86400 IN CNAME excellence
+popnation 86400 IN CNAME ghs.GOOGLE.COM.
+courage 86400 IN A 41.204.63.87
+www.ppl 86400 IN CNAME love
+de 86400 IN CNAME faith
+fidelity 86400 IN A 197.253.16.136
+interns 86400 IN CNAME love
+asag 86400 IN CNAME ghs.GOOGLE.COM.
+library 86400 IN CNAME faith
+helpdesk 86400 IN CNAME faith
+righteous 86400 IN A 197.253.16.132
+code 86400 IN CNAME excellence
+frontpage 86400 IN A 172.16.5.7
+cmail 86400 IN CNAME aseda
+bdc 86400 IN CNAME prudence
+mycalendar 86400 IN CNAME ghs.GOOGLE.COM.
+pastor 86400 IN A 197.253.16.140
+smtp 86400 IN A 197.253.16.135
+86400 IN A 197.253.16.136
+online 86400 IN A 68.169.60.238
+dos 86400 IN CNAME faith

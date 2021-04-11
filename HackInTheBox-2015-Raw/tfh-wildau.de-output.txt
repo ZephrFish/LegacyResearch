@@ -1,0 +1,130 @@
+@ 3600 IN SOA fresie.hrz postmaster 2014011301 10800 3600 604800 3600
+@ 3600 IN NS deneb.dfn.de.
+3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+@ 3600 IN MX 5 post.th-wildau.de.
+@ 3600 IN A 193.175.213.162
+_kerberos-adm._tcp 3600 IN SRV 0 0 749 nessel.hrz
+_kpasswd._udp 3600 IN SRV 0 0 464 nessel.hrz
+fs 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+netbeam 3600 IN CNAME netbeam.wi.ads
+hh 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+elmu 3600 IN CNAME clix1.elearning.ads
+ip 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+upload 3600 IN CNAME canisminor.hrz
+helpdesk 3600 IN A 194.95.45.192
+bibs 3600 IN CNAME joda11.combi
+mb 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+vpn 3600 IN CNAME vpn.th-wildau.de.
+elearning 3600 IN CNAME mohn.hrz
+wvr 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+mp 3600 IN A 194.95.44.121
+rkt 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+ares 3600 IN A 194.95.44.100
+www 3600 IN CNAME @
+meet 3600 IN A 194.95.44.52
+ox 3600 IN CNAME forsythie.hrz
+pt 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+bkh 3600 IN A 194.95.46.158
+bscw 3600 IN CNAME lilie.hrz
+_kerberos._tcp.Default-First-Site-Name._sites 3600 IN SRV 0 0 88 nessel.hrz
+gate 3600 IN A 193.175.213.1
+tf 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+smtp 3600 IN CNAME mistel.hrz
+tm 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+sip 3600 IN CNAME majestix.hrz
+ogo 3600 IN CNAME lilie.hrz
+post 3600 IN CNAME post.th-wildau.de.
+kerberos 3600 IN CNAME nessel.hrz
+pop 3600 IN CNAME mistel.hrz
+vt 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+filter 3600 IN CNAME filter.th-wildau.de.
+community 3600 IN CNAME pad
+_kapasswd._tcp 3600 IN SRV 0 0 464 nessel.hrz
+moodle 3600 IN CNAME mohn.hrz
+dokupload 3600 IN CNAME panisminor.hrz
+webedit 3600 IN CNAME reddot.hrz
+fst 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+eval 3600 IN CNAME krokus.hrz
+ftp 3600 IN CNAME akelei.hrz
+tgz 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+meetingplace 3600 IN A 194.95.44.120
+ares.bw-wi 3600 IN CNAME ares
+_kerberos-master._tcp 3600 IN SRV 0 0 88 nessel.hrz
+schiller 3600 IN CNAME akelei.hrz
+wi-bw 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+_kapasswd._udp 3600 IN SRV 0 0 464 nessel.hrz
+ldap 3600 IN CNAME sonnentau.hrz
+typo3 3600 IN CNAME @
+bib 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+secure 3600 IN CNAME akelei.hrz
+telematik 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+gate-x25 3600 IN A 193.175.213.250
+mail 3600 IN A 193.175.213.240
+mail 3600 IN MX 4 mail
+dimdim 3600 IN CNAME troubadix.hrz
+pad 3600 IN A 194.95.45.239
+_kerberos-master._udp 3600 IN SRV 0 0 88 nessel.hrz
+senatftp 3600 IN CNAME akelei.hrz
+coliop 3600 IN A 194.95.48.88
+cisco1 3600 IN CNAME gate
+igw 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+_kerberos._tcp 3600 IN SRV 0 0 88 nessel.hrz
+zimbra 3600 IN CNAME zinnie.hrz
+hrz 3600 IN NS deneb.dfn.de.
+3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+sprz 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+kerberos1 3600 IN CNAME sonnentau.hrz
+kerberos2 3600 IN CNAME fuchsie.hrz
+netbeam-server 3600 IN CNAME netbeam-server.wi.ads
+www.netbeam 3600 IN CNAME netbeam.wi.ads
+workspace 3600 IN CNAME lilie.hrz
+horde 3600 IN CNAME efeu.hrz
+wan 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+home 3600 IN CNAME home.hrz
+ldap1 3600 IN CNAME nessel.hrz
+org 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+blupol 3600 IN CNAME vdpserv.blupol.igw.ads
+web 3600 IN CNAME krokus.hrz
+update 3600 IN CNAME sus.hrz
+ilias 3600 IN CNAME ilias.wi-bw
+zbwkw 3600 IN CNAME akelei.hrz
+combi 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+_kerberos._udp 3600 IN SRV 0 0 88 nessel.hrz
+itk 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+scalix 3600 IN CNAME mimose.hrz
+time 3600 IN CNAME narzisse.hrz
+security 3600 IN CNAME akelei.hrz
+radius 3600 IN CNAME fuchsie.hrz
+al 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+projektron 3600 IN A 194.95.45.238
+suche 3600 IN CNAME ginster.hrz
+data 3600 IN CNAME akelei.hrz
+loopback 3600 IN CNAME localhost
+ds 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz
+kawe 3600 IN NS fresie.hrz
+3600 IN NS krokus.hrz

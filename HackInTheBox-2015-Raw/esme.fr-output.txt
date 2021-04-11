@@ -1,0 +1,46 @@
+@ 3600 IN SOA fw POSTMASTER 2015040998 21600 3600 604800 86400
+@ 3600 IN A 94.125.163.145
+@ 3600 IN TXT "v=spf1 mx ip4:92.103.16.80/28 -all"
+@ 3600 IN NS fw
+3600 IN NS ns6.gandi.net.
+@ 3600 IN MX 10 web
+mips 3600 IN A 127.0.0.1
+gauss 3600 IN A 172.16.0.6
+ns2 3600 IN A 163.5.247.101
+fw 3600 IN A 92.103.16.83
+exchange 3600 IN A 92.103.16.85
+web 3600 IN A 92.103.16.82
+wpad 3600 IN CNAME web
+parents 3600 IN CNAME web
+vms 3600 IN A 127.0.0.1
+epita 3600 IN A 92.103.16.86
+vms-cluster 3600 IN A 127.0.0.1
+associations 3600 IN CNAME web
+kelvin 3600 IN A 127.0.0.1
+* 3600 IN MX 10 web
+3600 IN MX 20 gauss
+3600 IN MX 20 ampere
+video 3600 IN CNAME esme.fr.ionis.storage11.brainsonic.com.
+owa 3600 IN A 92.103.16.85
+*.web 3600 IN CNAME web
+mail 3600 IN CNAME fw
+blade1 3600 IN A 127.0.0.1
+blade2 3600 IN A 127.0.0.1
+wiki 3600 IN A 127.0.0.1
+w 3600 IN A 127.0.0.1
+proxy 3600 IN A 127.0.0.1
+apprentissage 3600 IN CNAME web
+www 3600 IN CNAME @
+localhost 3600 IN A 127.0.0.1
+wap 3600 IN CNAME web
+imap 3600 IN A 127.0.0.1
+pbx 3600 IN A 127.0.0.1
+visio 3600 IN A 163.5.247.240
+blogs 3600 IN A 31.3.142.135
+ampere 3600 IN A 172.16.0.5
+vcenter 3600 IN A 127.0.0.1
+i 3600 IN A 127.0.0.1
+vmsi 3600 IN A 127.0.0.1
+wwwtst 3600 IN A 127.0.0.1
+smtp 3600 IN A 127.0.0.1
+intranet 3600 IN CNAME web

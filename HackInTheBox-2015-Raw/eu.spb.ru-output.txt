@@ -1,0 +1,40 @@
+@ 86400 IN SOA gate milu 2015031701 21600 3600 1468800 86400
+@ 86400 IN NS ns1.spnogilvy.ru.
+86400 IN NS gate
+@ 86400 IN MX 10 ixy
+@ 86400 IN A 89.179.117.37
+@ 86400 IN TXT "v=spf1 mx ~all"
+@ 86400 IN SPF "v=spf1 mx ~all"
+pugovka 86400 IN A 89.179.117.35
+ez 86400 IN A 89.179.117.36
+var-soc-ecs 0 IN CNAME ramp
+post 86400 IN A 89.179.117.34
+limit 86400 IN A 89.179.117.37
+univer-cs1 86400 IN A 89.179.113.2
+ramp 86400 IN A 89.179.117.46
+wlib 0 IN CNAME wp
+wp 86400 IN A 89.179.117.41
+anthropology 0 IN CNAME ramp
+imares 0 IN CNAME ramp
+alumnidb 0 IN CNAME pugovka
+tsr 86400 IN A 89.179.117.42
+pop3 0 IN CNAME post
+mail 0 IN CNAME wp
+virt 0 IN CNAME ramp
+mp 86400 IN A 89.179.117.43
+zenit 86400 IN A 89.179.117.36
+www 0 IN CNAME limit
+old 0 IN CNAME ramp
+*.ez 86400 IN A 89.179.117.36
+irbix 0 IN CNAME wp
+imap 0 IN CNAME post
+zzz 86400 IN NS gate
+proxy 86400 IN A 89.179.117.36
+ixy 86400 IN A 89.179.117.38
+ixy 86400 IN TXT "v=spf1 a -all"
+library 0 IN CNAME wp
+conf6 86400 IN A 89.179.117.49
+sm 0 IN CNAME pugovka
+gate 86400 IN A 89.179.117.39
+smtp 0 IN CNAME post
+sm2 0 IN CNAME pugovka

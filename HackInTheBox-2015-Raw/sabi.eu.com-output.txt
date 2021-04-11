@@ -1,0 +1,19 @@
+@ 86400 IN SOA nsa.creamarketing.com. kim.stahl.creamarketing.com. 2014080704 86400 7200 3600000 86400
+@ 14400 IN MX 0 mail
+@ 86400 IN NS nsa.creamarketing.com.
+86400 IN NS nsb.creamarketing.com.
+@ 14400 IN A 81.209.23.158
+localhost 14400 IN A 127.0.0.1
+webdisk 14400 IN A 81.209.23.190
+ftp 14400 IN A 81.209.23.190
+www 14400 IN CNAME @
+conference.xmpp 14400 IN A 81.209.23.158
+conference 14400 IN A 81.209.23.158
+mail 14400 IN A 81.209.23.190
+sabipost 14400 IN A 81.209.23.158
+ecampus 14400 IN A 81.209.23.158
+autoconfig 14400 IN A 81.209.23.190
+autodiscover 14400 IN A 81.209.23.190
+ehour 14400 IN A 81.209.23.158
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+xmpp 14400 IN A 81.209.23.158

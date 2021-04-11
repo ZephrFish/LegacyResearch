@@ -1,0 +1,477 @@
+@ 28800 IN SOA ns2 netmgmt 880 10800 1080 2592000 900
+@ 28800 IN NS ns0
+28800 IN NS ns1
+28800 IN NS ns2
+@ 3600 IN A 137.92.97.52
+@ 3600 IN MX 40 rouge
+3600 IN MX 40 baton
+@ 3600 IN TXT "j2671V2XWAPfGA4JCWdUFcXgm+skMIeYgAg74hC+gVN29WKtSJiu7lQqzeKVVBKVUeXRomw4TUo5Ql1YpX5NLw=="
+3600 IN TXT "MS=ms72605173"
+hprm 28800 IN A 137.92.98.184
+mackeyserver 3600 IN A 137.92.97.94
+guard 3600 IN CNAME www
+kirinari 3600 IN CNAME www
+portcluster 10 IN A 137.92.7.204
+10 IN A 137.92.7.203
+thredbo 3600 IN A 137.92.98.145
+e360intake 3600 IN A 137.92.98.120
+chiron 3600 IN CNAME chiron.win
+tomakin 3600 IN A 137.92.1.10
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+sas 3600 IN A 137.92.98.67
+e360download 3600 IN A 137.92.98.120
+cranky 3600 IN CNAME cranky.ucstaff.win
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+sg1-ids 3600 IN A 137.92.248.5
+_sip._udp 3600 IN SRV 1 1 5060 ser.nsw.aarnet.edu.au.
+3600 IN SRV 0 1 5060 ser.yarralumla.aarnet.edu.au.
+netserf-252 3600 IN A 137.92.252.254
+ausrivas4 3600 IN CNAME ausrivas-server
+timetable-tst 28800 IN A 137.92.98.122
+comedu-od 3600 IN A 137.92.98.100
+ucfm 3600 IN A 137.92.98.34
+sip 3600 IN CNAME sipdir.online.lync.com.
+datanow 3600 IN A 137.92.98.108
+necdrs1 3600 IN A 137.92.128.10
+ucic 3600 IN CNAME chiron.win
+bashful 3600 IN CNAME bashful.ucstaff.win
+aerg 28800 IN A 174.143.158.168
+aerg 28800 IN MX 10 aerg
+wtest 3600 IN A 137.92.97.52
+mailfilter 28800 IN A 137.92.98.124
+voip-gw 3600 IN A 137.92.103.5
+stud 3600 IN CNAME student
+uc2 3600 IN A 137.92.1.7
+uctrim 3600 IN CNAME uctrim.ucstaff.win
+genomics 3600 IN CNAME www
+cmpi 3600 IN CNAME www
+stargate 3600 IN A 137.92.252.1
+idpdev 28800 IN A 137.92.98.153
+www.pilot 3600 IN A 137.92.32.184
+portalvpn-mgmt 3600 IN A 137.92.253.26
+customscentre 28800 IN CNAME customscentre.com.
+centipede 3600 IN A 137.92.97.86
+happy 3600 IN CNAME happy.ucstaff.win
+madrid 3600 IN CNAME madrid.win
+ucc 3600 IN MX 10 rouge
+3600 IN MX 10 baton
+www.ewater 3600 IN CNAME www
+amtns1 28800 IN A 137.92.112.11
+amtns2 3600 IN A 137.92.112.12
+ucsw 3600 IN CNAME www
+nec-pc41 3600 IN A 137.92.90.41
+nec-pc42 3600 IN A 137.92.90.42
+nec-pc43 3600 IN A 137.92.90.43
+nec-pc44 3600 IN A 137.92.90.44
+nec-pc45 3600 IN A 137.92.90.45
+desire2learn 3600 IN CNAME chiron.win
+caldevas 3600 IN CNAME thredbo
+caldevdb 3600 IN CNAME thredbo
+jerrabedc 3600 IN A 137.92.98.165
+thedhm 3600 IN CNAME chiron.win
+queen 3600 IN A 137.92.97.49
+leopard 3600 IN A 137.92.97.52
+docuteks 3600 IN CNAME docutek.ucstaff.win
+mail 3600 IN A 137.92.7.23
+3600 IN A 137.92.97.24
+3600 IN A 137.92.97.23
+mail 3600 IN MX 40 rouge
+3600 IN MX 40 baton
+servicedeskstudents 3600 IN A 137.92.98.25
+diamond 3600 IN CNAME diamond.ise
+enterpriseenrollment 28800 IN CNAME enterpriseenrollment.manage.microsoft.com.
+istanbul 28800 IN A 137.92.96.200
+lrmtest 28800 IN CNAME millenniumtst
+list 3600 IN CNAME lists
+rattlesnake 3600 IN A 137.92.97.68
+agrecon 28800 IN NS pas
+werewolf 3600 IN A 137.92.97.30
+uni 28800 IN NS ns0
+28800 IN NS ns1
+28800 IN NS ns2
+inplace-dev 28800 IN A 114.111.130.233
+london 3600 IN A 137.92.98.50
+guard-test 3600 IN CNAME www
+vc-246 3600 IN A 137.92.24.246
+mapserver 3600 IN CNAME ausrivas-server
+cicada 3600 IN CNAME lists
+appsci9 3600 IN A 137.92.26.45
+gloomy 3600 IN CNAME gloomy.ucstaff.win
+atlantis 3600 IN A 137.92.252.2
+student 3600 IN A 137.92.97.126
+student 3600 IN MX 10 683460203.mail.outlook.com.
+docutest 3600 IN CNAME docutek.ucstaff.win
+ucvc1 3600 IN A 137.92.78.78
+ucvc2 3600 IN A 137.92.78.79
+ucvc3 3600 IN A 137.92.78.80
+ucvc4 3600 IN A 137.92.78.81
+ucvc5 3600 IN A 137.92.78.82
+uc-sentry252 3600 IN A 137.92.252.3
+testmx 3600 IN MX 20 rouge
+3600 IN MX 20 baton
+loms-dev 3600 IN CNAME jinan.win
+testwebhost 3600 IN A 137.92.97.91
+flexmasters 3600 IN CNAME www
+learnonlinetest 28800 IN CNAME stage.uc.moodle.svc.netspot.com.au.
+tatooine-156 3600 IN A 137.92.156.13
+inplace-test 28800 IN A 114.111.130.233
+agrecon-gw2 3600 IN A 137.92.111.1
+win 28800 IN NS paris
+28800 IN NS london
+lrmprod 28800 IN CNAME millenniumprd
+netman 3600 IN A 137.92.102.0
+ausrivas 28800 IN A 137.92.97.52
+sleepy 3600 IN CNAME sleepy.ucstaff.win
+uc-wifi 3600 IN A 137.92.176.1
+octopus 28800 IN A 137.92.99.124
+lyncadmin 28800 IN A 137.92.99.92
+proxyhost 3600 IN A 137.92.97.211
+studentliststest 28800 IN MX 10 taiyan.win
+real.slie 3600 IN CNAME www.slie
+brumby 3600 IN A 137.92.32.67
+modelusageausrivas 3600 IN CNAME ausrivas-server
+*.ezproxytest 28800 IN A 137.92.98.46
+modelusageausrivas2 3600 IN CNAME ausrivas-server
+ntp1 3600 IN CNAME ntp
+ntp2 3600 IN CNAME ntp
+ntp3 3600 IN CNAME ntp
+ntp4 3600 IN CNAME ntp
+idp-dev 28800 IN A 137.92.99.199
+jumpgate 3600 IN A 137.92.97.82
+e360access 3600 IN A 137.92.98.120
+*.wateronline 3600 IN A 137.92.14.75
+ucmail 3600 IN A 137.92.7.23
+3600 IN A 137.92.97.24
+3600 IN A 137.92.97.23
+ucvpn 28800 IN A 137.92.115.250
+vpn 28800 IN A 137.92.97.205
+chatty 3600 IN CNAME chatty.ucstaff.win
+ucphpprd 28800 IN A 137.92.98.113
+appsci-front-hp 3600 IN CNAME bastion
+www 3600 IN A 137.92.97.52
+recordsdev 28800 IN A 137.92.99.227
+millenniumprd 28800 IN A 137.92.99.86
+www.ausrivas 28800 IN CNAME ausrivas
+_sipfederationtls._tcp 3600 IN SRV 100 10 5061 sipfed.online.lync.com.
+andorra 3600 IN CNAME andorra.win
+careersdb 3600 IN CNAME chiron.win
+ucphpdev 28800 IN A 137.92.99.80
+comedprn 3600 IN A 137.92.91.12
+scoresby 28800 IN A 137.92.99.79
+*.ausrivas 3600 IN A 137.92.14.75
+helium 3600 IN A 137.92.145.11
+wlc-01 3600 IN A 137.92.254.4
+wlc-02 3600 IN A 137.92.254.5
+cruz 3600 IN A 137.92.97.24
+voipdhcp 3600 IN A 137.92.128.2
+grouchy 3600 IN CNAME grouchy.ucstaff.win
+lectures 28800 IN A 137.92.97.52
+moodle 3600 IN CNAME prod.uc.moodle.svc.netspot.com.au.
+sbli 3600 IN A 137.92.99.24
+autodiscover 3600 IN CNAME ucemail
+nabol 3600 IN CNAME nabol.ucstaff.win
+laserbeak 3600 IN A 137.92.8.22
+ftp.slie 3600 IN CNAME www.slie
+karma 3600 IN A 137.92.156.18
+ip-telephone-gw 3600 IN A 137.92.128.1
+uc-gw 3600 IN A 137.92.2.2
+zombie 3600 IN A 137.92.97.28
+loki 3600 IN A 137.92.98.254
+subnet78 3600 IN CNAME lecture-net
+lllnetwork 3600 IN A 137.92.78.195
+paris 3600 IN A 137.92.98.47
+portalint 3600 IN A 137.92.98.78
+blis-staff-gw 3600 IN A 137.92.31.1
+printer.slie 3600 IN CNAME www.slie
+www-test 3600 IN CNAME www
+d2l 3600 IN CNAME chiron.win
+hodgepodge 3600 IN CNAME chiron.win
+www.educationcapital 3600 IN CNAME www
+loms 3600 IN CNAME nanjing.win
+amt 28800 IN NS amtns1
+zibo 28800 IN A 137.92.98.43
+isd2 3600 IN A 137.92.97.45
+frankenstein 3600 IN A 137.92.97.29
+sigma 28800 IN A 59.167.237.129
+ise2 28800 IN A 137.92.33.175
+cairo 3600 IN CNAME cairo.win
+www.flexmasters 3600 IN CNAME www
+teststudentlists 28800 IN MX 10 taiyan.win
+sg1-catos 3600 IN A 137.92.250.1
+maple 3600 IN CNAME budapest
+net-redun-net 3600 IN A 137.92.126.0
+rafels6wtmav 28800 IN CNAME gv-WDQTGIRIU3USUV.dv.googlehosted.com.
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+loldev 3600 IN CNAME dev.uc.moodle.svc.netspot.com.au.
+cmstraining 28800 IN A 202.9.94.223
+bos 3600 IN CNAME chiron.win
+www.governance 3600 IN CNAME www
+testcts 3600 IN CNAME mail
+lpx1 28800 IN A 137.92.97.83
+lpx2 3600 IN A 137.92.97.87
+www.pas 3600 IN CNAME pas
+rait1 3600 IN CNAME rait1.ucstaff.win
+rait2 3600 IN CNAME rait2.ucstaff.win
+rait3 3600 IN CNAME rait3.ucstaff.win
+pogona 28800 IN A 137.92.26.91
+bastion 3600 IN A 137.92.26.20
+bug 3600 IN CNAME bug.win
+unitest 28800 IN NS ns0
+28800 IN NS ns1
+28800 IN NS ns2
+cms 3600 IN CNAME florence.win
+e360admin 3600 IN A 137.92.98.120
+baghdad 3600 IN CNAME baghdad.win
+wwwcache 3600 IN A 137.92.98.114
+3600 IN A 137.92.98.111
+millenniumtst 28800 IN A 137.92.99.96
+dhm 3600 IN CNAME chiron.win
+ise-servers-gw 3600 IN A 137.92.33.1
+grumpy 3600 IN CNAME grumpy.ucstaff.win
+swwork1 3600 IN A 137.92.90.7
+heimdall 3600 IN A 137.92.248.10
+lecture-net 3600 IN A 137.92.78.0
+mannofield 28800 IN A 137.92.99.134
+lists 3600 IN A 137.92.97.2
+capetown2 3600 IN A 137.92.97.127
+capetown3 3600 IN A 137.92.97.128
+ucupdates-r2 28800 IN A 137.92.99.92
+www.customscentre 28800 IN CNAME customscentre.com.
+dmt 28800 IN NS paris
+28800 IN NS london
+doc 3600 IN CNAME doc.ucstaff.win
+envmg 3600 IN A 137.92.35.2
+starphn 28800 IN CNAME penrith
+horse 3600 IN A 137.92.32.68
+midmar 28800 IN A 137.92.99.133
+capetownx 3600 IN A 137.92.97.210
+*.ezproxy 3600 IN A 137.92.98.118
+corona 3600 IN A 137.92.252.10
+disabilitysupport 3600 IN CNAME www
+lyncdiscoverinternal 28800 IN A 137.92.99.92
+lolstage 3600 IN CNAME stage.uc.moodle.svc.netspot.com.au.
+keeper 3600 IN CNAME cairo.win
+kkk 28800 IN A 137.92.8.34
+keyserver 3600 IN CNAME budapest
+matlab 3600 IN CNAME budapest
+capetownxwww 3600 IN A 137.92.97.210
+webpac 3600 IN CNAME www
+angry 3600 IN CNAME angry.ucstaff.win
+echo360access 3600 IN A 137.92.98.62
+portfolio 28800 IN CNAME uc-dev.maharasites.com.
+teaching 3600 IN A 137.92.97.52
+erl 28800 IN A 137.92.97.52
+smartforce 3600 IN CNAME chiron.win
+datanownew 28800 IN A 137.92.98.127
+sa 3600 IN A 137.92.97.129
+sa 3600 IN MX 5 dawkins.theucsa.org.au.
+library 3600 IN CNAME www
+webdevelopers 3600 IN CNAME chiron.win
+hwgatewaydev1 28800 IN A 137.92.99.223
+rt 3600 IN A 137.92.97.80
+cedbdev 3600 IN A 137.92.40.222
+adldsprd 28800 IN A 137.92.97.50
+docutek 28800 IN A 137.92.97.52
+gcm10 3600 IN A 137.92.10.225
+jestest 3600 IN A 137.92.97.17
+net-redun-gw 3600 IN A 137.92.126.1
+uc103-gw 3600 IN A 137.92.103.1
+narooma 28800 IN A 137.92.7.77
+hnossa 3600 IN A 137.92.248.11
+hrtrnwc 3600 IN CNAME leopard
+mlle 3600 IN CNAME ausrivas-server
+echo360admin 3600 IN A 137.92.98.62
+softserver 3600 IN MX 20 rouge
+3600 IN MX 20 baton
+ise-play-gw 3600 IN A 137.92.32.1
+backbone-net 3600 IN A 137.92.1.0
+dakar 3600 IN CNAME dakar.win
+ictimmunise 3600 IN CNAME baghdad.win
+budapest 3600 IN A 137.92.98.64
+mailhub1 3600 IN CNAME vampire
+baton 28800 IN A 137.92.7.23
+www2 28800 IN A 137.92.97.53
+www3 3600 IN CNAME chiron.win
+www4 28800 IN A 137.92.97.55
+e360streaming 3600 IN A 137.92.98.120
+www.ucc 3600 IN CNAME www
+newuc 3600 IN A 137.92.98.77
+windowsupdate 3600 IN CNAME windowsupdate.win
+healthy 3600 IN CNAME healthy.ucstaff.win
+joffa 3600 IN CNAME joffa.ise
+iae 3600 IN A 174.143.158.168
+iae 28800 IN MX 10 iae
+surly 3600 IN CNAME surly.ucstaff.win
+uc-border252 3600 IN A 137.92.252.4
+sg1-248 3600 IN A 137.92.248.1
+webhost 3600 IN A 137.92.97.90
+ucfw1 3600 IN CNAME heimdall
+ucfw2 3600 IN CNAME hnossa
+www.slie 3600 IN A 137.92.92.20
+vc-247 3600 IN A 137.92.24.247
+vc-248 3600 IN A 137.92.24.248
+idp 28800 IN A 137.92.99.16
+stargate254 3600 IN A 137.92.254.1
+testisd 3600 IN CNAME mail
+plantbiosec 3600 IN A 137.92.97.25
+ptest 3600 IN A 137.92.93.253
+3600 IN A 137.92.78.253
+3600 IN A 137.92.67.253
+3600 IN A 137.92.41.253
+3600 IN A 137.92.35.253
+3600 IN A 137.92.28.253
+3600 IN A 137.92.26.253
+3600 IN A 137.92.14.253
+vampire 3600 IN A 137.92.97.3
+coral 3600 IN CNAME coral.ise
+natsem 28800 IN NS natsemns1
+moloch 28800 IN A 137.92.33.27
+sharefile 28800 IN A 137.92.98.45
+ucspace 3600 IN CNAME www
+union 3600 IN CNAME ucu
+blis 28800 IN NS london
+28800 IN NS paris
+studentlists 3600 IN MX 0 hoover.win
+www.natsem2 3600 IN CNAME www
+sneezy 3600 IN CNAME sneezy.ucstaff.win
+freshwater 3600 IN A 137.92.97.52
+freshwater 3600 IN MX 10 ewatersvr
+jec 3600 IN CNAME www
+ezproxy 3600 IN A 137.92.98.118
+governancetest 3600 IN CNAME www
+_sipinternaltls._tcp 28800 IN SRV 0 0 5061 sip
+subnet1 3600 IN CNAME backbone-net
+irc 3600 IN A 137.92.97.84
+havana 3600 IN A 137.92.98.133
+isd 3600 IN A 137.92.97.52
+ise 28800 IN NS ns0
+28800 IN NS ns1
+28800 IN NS ns2
+immunise 3600 IN CNAME santur.ucstaff.win
+deldem 3600 IN CNAME www
+mole 3600 IN CNAME mole.ucstudent.win
+pandonia 3600 IN CNAME pandonia.ise
+station1 3600 IN A 137.92.136.16
+thebos 3600 IN CNAME chiron.win
+uclist 28800 IN A 137.92.98.216
+uclist 3600 IN MX 10 rouge
+3600 IN MX 10 baton
+uc-int-trunk 3600 IN A 137.92.2.0
+collaborate 3600 IN A 137.92.99.31
+news 3600 IN CNAME herald
+hedgehog 3600 IN CNAME hedgehog.win
+dhcp2.slie 3600 IN CNAME www.slie
+rmprddb 28800 IN CNAME orlando
+ezproxytest 28800 IN A 137.92.98.46
+loltest 3600 IN CNAME test.uc.moodle.svc.netspot.com.au.
+snowwhite 3600 IN CNAME snowwhite.ucstaff.win
+cities 3600 IN CNAME www
+_ntp._udp 28800 IN SRV 0 0 123 ntp
+campusdashboard 28800 IN CNAME sigma
+ucu 3600 IN CNAME www
+hearty 3600 IN CNAME hearty.ucstaff.win
+iosmdm 28800 IN A 137.92.98.235
+gcm02 3600 IN A 137.92.78.225
+gcm09 3600 IN A 137.92.91.226
+janisonlms 3600 IN CNAME chiron.win
+ausrivas-server 3600 IN A 137.92.14.75
+meet 28800 IN A 137.92.99.92
+stuappserv 3600 IN CNAME budapest
+helpdesk 3600 IN CNAME bug.win
+ucemail 3600 IN A 137.92.7.15
+lyncweb 28800 IN A 137.92.97.114
+cmstest 28800 IN A 137.92.96.224
+cfusion.slie 3600 IN CNAME www.slie
+ucity 3600 IN CNAME www
+oldservicedesk 3600 IN A 202.139.166.161
+clubtourism 3600 IN CNAME chiron.win
+weatherstn 3600 IN A 137.92.78.251
+cert 3600 IN A 137.92.97.10
+sammy 3600 IN CNAME sammy.ucstaff.win
+servicedeskstaff 3600 IN A 137.92.98.25
+pony 3600 IN A 137.92.32.66
+herald 3600 IN A 137.92.97.4
+santur 3600 IN CNAME santur.ucstaff.win
+dopey 3600 IN CNAME dopey.ucstaff.win
+webpactc 3600 IN CNAME www
+idcd 28800 IN A 137.92.98.51
+wdev 3600 IN A 137.92.97.52
+inplace-uat 28800 IN A 114.111.130.241
+post 3600 IN MX 10 aspmx5.googlemail.com.
+3600 IN MX 10 aspmx4.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+lpx 28800 IN NS lpx1
+python 3600 IN CNAME python.ise
+search 28800 IN A 137.92.98.205
+cetest 3600 IN CNAME cetest.ucstaff.win
+bigip-dc1 28800 IN A 137.92.97.4
+janison 3600 IN CNAME chiron.win
+governance 3600 IN CNAME www
+echo360admin-test 28800 IN A 137.92.99.153
+www.sa 3600 IN CNAME sa
+santa 3600 IN A 137.92.97.23
+rouge 28800 IN A 137.92.7.24
+usageausrivas 3600 IN CNAME ausrivas-server
+acs-01 28800 IN A 137.92.99.50
+acs-02 3600 IN A 137.92.99.51
+inplace-sandbox 28800 IN A 114.111.130.241
+idph 28800 IN CNAME penrith
+inplace 28800 IN A 114.111.130.249
+ns0 28800 IN A 137.92.1.1
+ns1 28800 IN A 137.92.1.10
+ns2 28800 IN A 137.92.1.4
+vc-249 3600 IN A 137.92.24.249
+ucshare 28800 IN A 137.92.99.227
+natsemns1 28800 IN A 137.92.113.13
+nottingham 3600 IN A 137.92.96.12
+huxley 28800 IN A 115.146.93.236
+huxley 28800 IN MX 10 huxley
+sahara 3600 IN CNAME dakar.win
+zanzibar 28800 IN CNAME zanzibar.win
+echo360admin-dev 28800 IN A 137.92.99.204
+eshare 28800 IN A 137.92.99.171
+pas 28800 IN A 137.92.111.101
+ausrivas-dataserver 3600 IN CNAME ausrivas-server
+ntp 3600 IN A 137.92.251.3
+creative 3600 IN CNAME creative.ucstaff.win
+catalogue 3600 IN A 137.92.97.32
+ictmail 3600 IN A 137.92.7.23
+3600 IN A 137.92.97.23
+3600 IN A 137.92.97.24
+ictmail 3600 IN MX 10 rouge
+3600 IN MX 10 baton
+jeanpworld 3600 IN A 137.92.91.19
+group.mail 3600 IN MX 10 mail
+spss 3600 IN CNAME budapest
+rumble 3600 IN A 137.92.8.21
+rait 3600 IN CNAME rait.ucstaff.win
+testzone 28800 IN NS testzonens.
+stargate-2 3600 IN A 137.92.2.1
+ceprint 3600 IN CNAME ceprint.ucstaff.win
+ldap2 3600 IN CNAME mail
+learnonline 3600 IN CNAME prod.uc.moodle.svc.netspot.com.au.
+oliver 3600 IN A 137.92.98.97
+servicedesk 3600 IN A 137.92.98.25
+dialin 28800 IN A 137.92.99.92
+web-auth.lpx2 3600 IN CNAME lpx2
+penrith 28800 IN A 137.92.99.2
+orlando 28800 IN A 137.92.99.14
+adtest 28800 IN NS istanbul
+newshost 3600 IN CNAME herald
+celts-orms 3600 IN CNAME chiron.win
+echo360streaming-test 28800 IN A 137.92.99.17
+greenland 3600 IN A 137.92.97.98
+office365 3600 IN CNAME portal.microsoftonline.com.
+natsemns2 3600 IN A 137.92.113.5
+desktop 28800 IN CNAME narooma
+stonehaven 28800 IN A 137.92.99.109
+adfs 28800 IN A 137.92.98.49
+seeker 3600 IN A 137.92.8.90
+igpa 28800 IN A 202.146.209.231
+echo360streaming 3600 IN A 137.92.98.63
+pilot 3600 IN A 137.92.33.184
+trillian 3600 IN A 137.92.1.50

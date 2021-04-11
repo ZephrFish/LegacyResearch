@@ -1,0 +1,248 @@
+@ 43200 IN SOA zaaba zaimi 2014101503 3600 3600 604800 7200
+@ 1800 IN NS zaaba
+1800 IN NS extdns1
+1800 IN NS ns1.jaring.my.
+@ 43200 IN A 202.45.132.95
+@ 43200 IN MX 10 aspmx.l.google.com.
+@ 43200 IN TXT "google-site-verification=jsScd3UCrQmUSrqtZu_CpUF60Uq1yYfZxA_T_jdIFOk"
+43200 IN TXT "v=spf1 include:_spf.google.com ~all"
+ptpm 43200 IN CNAME webhost
+epayment2 43200 IN A 202.45.135.55
+oerthinking 43200 IN CNAME kappaweb
+mirror 43200 IN A 202.45.132.220
+ajelp 43200 IN CNAME kappaweb
+extdns1 1800 IN A 202.45.133.4
+canselori 43200 IN CNAME webhost
+_sip._tcp 43200 IN SRV 5 5 5060 vcse
+43200 IN SRV 5 5 5061 vcse
+kappaweb 43200 IN A 202.45.132.87
+kanu 43200 IN CNAME webhost
+vccs 43200 IN A 202.45.132.117
+mrj.fpe 43200 IN CNAME webhost
+myupsi 43200 IN A 202.45.135.18
+international 43200 IN CNAME kappaweb
+eportfolio 43200 IN A 202.45.132.29
+martabat 43200 IN CNAME kappaweb
+syscpd 43200 IN A 202.45.132.121
+konvokesyen 43200 IN CNAME kappaweb
+kpa 43200 IN CNAME kappaweb
+fsskj 43200 IN A 202.45.132.87
+fsskj 43200 IN MX 10 aspmx.l.google.com.
+arpue2013 43200 IN CNAME kappaweb
+icpes.fsskj 43200 IN CNAME kappaweb
+upsiholdings 43200 IN CNAME kappaweb
+kualiti 43200 IN CNAME webhost
+kz 43200 IN CNAME webhost
+jpsmm 43200 IN CNAME kappaweb
+docs.siswa 43200 IN CNAME ghs.google.com.
+fppm 43200 IN A 202.45.132.87
+fppm 43200 IN MX 10 aspmx.l.google.com.
+wiki 43200 IN CNAME webhost
+pecipta 43200 IN CNAME rmc
+apps 43200 IN CNAME waris
+rmc 43200 IN A 202.45.132.30
+akademik 43200 IN CNAME kappaweb
+buli 43200 IN CNAME webhost
+www 43200 IN A 202.45.132.95
+jictie 43200 IN CNAME kappaweb
+jurnalpedagogi 43200 IN CNAME kappaweb
+muzium 43200 IN CNAME kappaweb
+myems 43200 IN A 202.45.135.62
+bpaq 43200 IN CNAME kappaweb
+open4learn 43200 IN A 202.187.160.110
+pewaris 43200 IN CNAME webhost
+kuo 43200 IN CNAME webhost
+iilb 43200 IN CNAME kappaweb
+impac2014 43200 IN CNAME kappaweb
+_sip._udp 43200 IN SRV 5 5 5060 vcse
+m 43200 IN CNAME waris
+fptv 43200 IN A 202.45.132.87
+fptv 43200 IN MX 10 aspmx.l.google.com.
+inovasi 43200 IN CNAME webhost
+bendahari 43200 IN A 202.45.132.87
+bendahari 43200 IN MX 10 aspmx.l.google.com.
+ncdc 43200 IN A 202.45.135.20
+jpphb 43200 IN A 202.45.132.87
+jpphb 43200 IN MX 10 aspmx.l.google.com.
+mx1info 43200 IN A 202.45.132.10
+postgrad 43200 IN CNAME waris
+survey 43200 IN CNAME kappaweb
+eduineri 43200 IN CNAME kappaweb
+pusatislam 43200 IN CNAME kappaweb
+_h323._tcp 43200 IN SRV 5 5 1720 vcse
+anakperak 43200 IN CNAME webhost
+ppa 43200 IN CNAME webhost
+myfis 43200 IN A 202.45.135.14
+portal2 43200 IN A 202.45.135.16
+ppkk 43200 IN CNAME webhost
+groups 43200 IN CNAME ghs.google.com.
+stemmalaysia 43200 IN CNAME kappaweb
+pbm 43200 IN CNAME webhost
+fpe 43200 IN A 202.45.132.87
+fpe 43200 IN MX 10 aspmx.l.google.com.
+eksposains2014 43200 IN CNAME webhost
+tanjongmalim 43200 IN CNAME webhost
+pustaka2 43200 IN A 202.45.132.21
+epayment-staging 43200 IN A 202.45.135.54
+bpka 43200 IN CNAME webhost
+calendar 43200 IN CNAME ghs.google.com.
+blog.siswa 43200 IN CNAME ghs.google.com.
+login 43200 IN CNAME waris
+fsk 43200 IN A 202.45.132.87
+fsk 43200 IN MX 10 aspmx.l.google.com.
+kebudayaan 43200 IN CNAME kappaweb
+verify 43200 IN A 202.45.134.21
+fss 43200 IN CNAME webhost
+fst 43200 IN CNAME webhost
+pnibp 43200 IN CNAME kappaweb
+zaaba 1800 IN A 202.45.133.5
+merp 43200 IN CNAME webhost
+ncdrc 43200 IN A 202.45.132.87
+ncdrc 43200 IN TXT "MS=ms89283069"
+43200 IN TXT "MS=ms89"
+ebuli 43200 IN CNAME webhost
+fbk 43200 IN A 202.45.132.87
+fbk 43200 IN MX 10 aspmx.l.google.com.
+ictl 43200 IN CNAME kappaweb
+icbc2015 43200 IN CNAME kappaweb
+pendeta 43200 IN CNAME kappaweb
+mpn 43200 IN A 202.45.135.102
+mpp 43200 IN CNAME webhost
+_h323._udp 43200 IN SRV 5 5 1719 vcse
+www.ips 43200 IN CNAME wixdns
+jsspj 43200 IN CNAME kappaweb
+ikict 43200 IN CNAME webhost
+hep 43200 IN CNAME kappaweb
+mx1 43200 IN A 202.45.132.77
+terc2012 43200 IN CNAME kappaweb
+capeu 43200 IN CNAME kappaweb
+myguru2 43200 IN A 202.45.132.70
+mybhea 43200 IN A 202.45.132.203
+myguru3 43200 IN A 202.190.252.244
+kupasseni 43200 IN CNAME kappaweb
+www.uerl 43200 IN A 216.185.152.144
+tnca 43200 IN CNAME webhost
+webtv 43200 IN CNAME webhost
+alpha 43200 IN A 202.45.132.82
+peka 43200 IN CNAME webhost
+api 43200 IN CNAME waris
+ncsp 43200 IN CNAME webhost
+takwim 43200 IN CNAME verify
+palapes 43200 IN CNAME webhost
+siswa 43200 IN MX 10 aspmx.l.google.com.
+siswa 43200 IN TXT "google-site-verification=q6heddcuv2fq-w5dGgG3BHdy18p-QsXoM5jBmMliaew"
+icteupiupsi 43200 IN CNAME kappaweb
+apcemal.fpe 43200 IN CNAME webhost
+pusatsukan 43200 IN CNAME kappaweb
+pendaftar 43200 IN CNAME webhost
+webhost 43200 IN A 202.45.132.84
+jcit.fpe 43200 IN CNAME webhost
+epelaporan 43200 IN A 202.45.135.80
+bkk 43200 IN CNAME kappaweb
+fsmt 43200 IN A 202.45.132.87
+fsmt 43200 IN MX 10 aspmx.l.google.com.
+pkpi 43200 IN CNAME webhost
+seminar 43200 IN CNAME webhost
+ict 43200 IN A 202.45.132.87
+ict 43200 IN MX 10 aspmx.l.google.com.
+pustaka 43200 IN A 202.45.132.24
+fippro 43200 IN CNAME kappaweb
+jpbu 43200 IN CNAME kappaweb
+mail 43200 IN A 216.239.32.21
+staf-digital 43200 IN A 202.45.135.51
+prestasivote 43200 IN A 202.45.135.149
+trilog2013 43200 IN CNAME kappaweb
+pupp 43200 IN CNAME webhost
+kpj 43200 IN CNAME webhost
+mobile 43200 IN CNAME waris
+medsi 43200 IN CNAME kappaweb
+mmj 43200 IN CNAME kappaweb
+wixdns 43200 IN A 216.185.153.187
+journalsfpe 43200 IN CNAME webhost
+courseoutline 43200 IN CNAME waris
+*.pustaka2 43200 IN CNAME pustaka2
+efamily 43200 IN CNAME kappaweb
+ktagb 43200 IN CNAME webhost
+palumni 43200 IN A 202.45.132.88
+permata 43200 IN MX 10 aspmx.l.google.com.
+upsirebranding 43200 IN CNAME webhost
+fmspdev 43200 IN CNAME kappaweb
+openvpn 43200 IN A 202.45.132.23
+alpha1 43200 IN CNAME alpha
+fbkv2 43200 IN CNAME kappaweb
+myhris 43200 IN A 202.45.135.10
+portal3 43200 IN A 202.45.135.114
+fmsp 43200 IN A 202.45.132.87
+fmsp 43200 IN MX 10 aspmx.l.google.com.
+mjog 43200 IN CNAME kappaweb
+panel 43200 IN CNAME kappaweb
+*.ezpustaka 43200 IN CNAME ezpustaka
+mail.permata 43200 IN CNAME ghs.google.com.
+khar 43200 IN CNAME webhost
+student 43200 IN CNAME webhost
+ezpustaka 43200 IN A 202.45.132.22
+bsm 43200 IN CNAME kappaweb
+uklk 43200 IN CNAME webhost
+ictgroup 43200 IN CNAME webhost
+pedagogi 43200 IN CNAME kappaweb
+calendar.siswa 43200 IN CNAME ghs.google.com.
+googleffffffff85ba659f.permata 43200 IN CNAME google.com.
+alphavin 43200 IN A 202.45.132.83
+blog 43200 IN CNAME webhost
+tcexam 43200 IN A 202.45.132.146
+computing 43200 IN A 202.45.132.5
+computing 43200 IN MX 10 computing
+mybook 43200 IN A 202.45.135.148
+pjj 43200 IN CNAME kappaweb
+ipm 43200 IN A 202.45.132.87
+ipm 43200 IN MX 10 aspmx.l.google.com.
+fskik 43200 IN A 202.45.132.87
+fskik 43200 IN MX 10 aspmx.l.google.com.
+jrpptte 43200 IN CNAME kappaweb
+openlearning 43200 IN A 202.45.132.103
+ips 43200 IN A 23.236.62.147
+praktikum 43200 IN CNAME kappaweb
+badmintonstaf 43200 IN CNAME webhost
+pkq 43200 IN CNAME webhost
+waris 43200 IN A 202.45.132.45
+isc 43200 IN CNAME webhost
+mystudatt 43200 IN A 202.45.135.56
+imec2013 43200 IN CNAME kappaweb
+apew 43200 IN CNAME kappaweb
+ictblog 43200 IN CNAME ghs.google.com.
+awan 43200 IN A 202.190.252.250
+bbb2 43200 IN A 202.45.135.53
+e-sensormaths 43200 IN CNAME webhost
+suksis 43200 IN CNAME webhost
+prestasi 43200 IN CNAME kappaweb
+ergs 43200 IN CNAME kappaweb
+ppgab 43200 IN CNAME webhost
+ipcsm 43200 IN CNAME kappaweb
+konvo 43200 IN CNAME kappaweb
+vcse 43200 IN A 202.45.133.7
+groups.siswa 43200 IN CNAME ghs.google.com.
+pap 43200 IN CNAME webhost
+docs 43200 IN CNAME ghs.google.com.
+apcemal2014 43200 IN CNAME kappaweb
+info 43200 IN MX 10 mx1info
+fskpm 43200 IN CNAME webhost
+labschool 43200 IN CNAME kappaweb
+tncpi 43200 IN CNAME webhost
+mysis 43200 IN A 202.45.135.12
+tnchep 43200 IN CNAME webhost
+studentpwd 43200 IN CNAME waris
+fpp 43200 IN CNAME webhost
+alumni 43200 IN A 202.45.132.87
+alumni 43200 IN MX 10 aspmx.l.google.com.
+alumni 43200 IN TXT "google-site-verification=pZwBoyLDt1NVT71-JgPnkrPkpKaOtTdFkK0UR7mO0Mo"
+myjobs 43200 IN A 202.45.135.47
+penerbit 43200 IN CNAME kappaweb
+mail.siswa 43200 IN CNAME ghs.google.com.
+chevna 43200 IN CNAME kappaweb
+kik 43200 IN CNAME kappaweb
+fb 43200 IN CNAME webhost
+wpc 43200 IN CNAME kappaweb
+epayment 43200 IN A 202.45.135.147
+umpc 43200 IN A 202.45.135.52
+mysis1 43200 IN A 202.45.135.22
+eportal 43200 IN A 202.45.135.18

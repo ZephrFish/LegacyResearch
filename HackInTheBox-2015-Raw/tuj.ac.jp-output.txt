@@ -1,0 +1,26 @@
+@ 3600 IN SOA emu serveradmin.emu 2013062701 3600 1200 3600 900
+@ 3600 IN NS emu
+3600 IN NS cs
+@ 3600 IN A 49.212.166.73
+@ 3600 IN MX 10 emu
+@ 3600 IN TXT "v=spf1 ip4:113.43.84.130 ip4:113.43.84.140 ip4:49.212.166.73 a:cs.tuj.ac.jp ip4:113.43.84.139 a:emu.tuj.ac.jp ~all"
+www 3600 IN CNAME emu
+test01 3600 IN CNAME azabu3
+www2 3600 IN A 113.43.84.132
+shopping 3600 IN CNAME shopping.netsuite.com.
+blog 3600 IN CNAME emu
+streaming 3600 IN CNAME azabu1
+cs-testweb2 3600 IN CNAME azabu6
+azabu1 3600 IN A 113.43.84.137
+azabu2 3600 IN A 113.43.84.138
+azabu3 3600 IN A 113.43.84.139
+azabu4 3600 IN A 113.43.84.134
+azabu5 3600 IN A 113.43.84.135
+azabu6 3600 IN A 113.43.84.133
+cs 3600 IN A 113.43.84.130
+tokyo 3600 IN A 113.43.84.140
+forms 3600 IN CNAME forms.netsuite.com.
+mediasite 3600 IN A 113.43.84.136
+m 3600 IN CNAME emu
+testweb 3600 IN CNAME cs
+emu 3600 IN A 49.212.166.73

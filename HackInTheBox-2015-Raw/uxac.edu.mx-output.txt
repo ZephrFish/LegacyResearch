@@ -1,0 +1,90 @@
+@ 300 IN SOA ns1.alojate5.com. soportes.alojate.com. 2014092405 300 7200 3600000 300
+@ 300 IN TXT "v=spf1 ip4:72.52.225.70 ip4:192.168.0.237 +a +mx + ?all"
+@ 300 IN MX 0 @
+@ 86400 IN NS ns1.alojate5.com.
+86400 IN NS ns2.alojate5.com.
+@ 300 IN A 72.52.225.70
+autodiscover.simitrio 300 IN A 72.52.225.70
+_autodiscover._tcp.cursos 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.cursos 300 IN A 72.52.225.70
+webmail 300 IN A 72.52.225.70
+_autodiscover._tcp.eleazar 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.eleazar 300 IN A 72.52.225.70
+_autodiscover._tcp.sheila 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.edgar 300 IN A 72.52.225.70
+autoconfig.xicobach 300 IN A 72.52.225.70
+_autodiscover._tcp.calidad 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.calidad 300 IN A 72.52.225.70
+autoconfig.andres 300 IN A 72.52.225.70
+autodiscover.gerardo 300 IN A 72.52.225.70
+rey 300 IN A 72.52.225.70
+calidad 300 IN TXT "v=spf1 ip4:72.52.225.70 ip4:192.168.0.237 +a +mx + ?all"
+calidad 300 IN A 72.52.225.70
+webdisk.calidad 300 IN A 72.52.225.70
+_autodiscover._tcp.xicobach 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.gerardo 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.andres 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.live 300 IN A 72.52.225.70
+autoconfig.webquest 300 IN A 72.52.225.70
+autodiscover.xicobach 300 IN A 72.52.225.70
+autodiscover.webquest 300 IN A 72.52.225.70
+autodiscover.cursos 300 IN A 72.52.225.70
+www.webquest 300 IN A 72.52.225.70
+autoconfig.sheila 300 IN A 72.52.225.70
+webeduca 300 IN TXT "v=spf1 ip4:72.52.225.70 ip4:192.168.0.237 +a +mx + ?all"
+webeduca 300 IN A 72.52.225.70
+autodiscover.live 300 IN A 72.52.225.70
+250408561.live 300 IN CNAME domains.live.com.
+_autodiscover._tcp.juanmanuel 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.xicobach 300 IN A 72.52.225.70
+webdisk 300 IN A 72.52.225.70
+autodiscover 300 IN A 72.52.225.70
+autoconfig.aridai 300 IN A 72.52.225.70
+_autodiscover._tcp.live 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+edgar 300 IN A 72.52.225.70
+whm 300 IN A 72.52.225.70
+_autodiscover._tcp 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.simitrio 300 IN A 72.52.225.70
+www.webeduca 300 IN A 72.52.225.70
+mail 300 IN CNAME @
+autodiscover.andres 300 IN A 72.52.225.70
+_autodiscover._tcp.webquest 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+xicobach 300 IN TXT "v=spf1 ip4:72.52.225.70 ip4:192.168.0.237 +a +mx + ?all"
+xicobach 300 IN A 72.52.225.70
+www.cursos 300 IN A 72.52.225.70
+ftp 300 IN A 72.52.225.70
+cpanel 300 IN A 72.52.225.70
+autoconfig.bolsadetrabajo 300 IN A 72.52.225.70
+www.antonio 300 IN A 72.52.225.70
+cursos 300 IN TXT "v=spf1 ip4:72.52.225.70 ip4:192.168.0.237 +a +mx + ?all"
+cursos 300 IN A 72.52.225.70
+live 300 IN TXT "v=spf1 ip4:72.52.225.70 ip4:192.168.0.237 +a +mx + ?all"
+live 300 IN A 72.52.225.70
+localhost 300 IN A 127.0.0.1
+autoconfig.eleazar 300 IN A 72.52.225.70
+autodiscover.sheila 300 IN A 72.52.225.70
+autoconfig.cursos 300 IN A 72.52.225.70
+webdisk.live 300 IN A 72.52.225.70
+autoconfig.calidad 300 IN A 72.52.225.70
+webdisk.webeduca 300 IN A 72.52.225.70
+www.rey 300 IN A 72.52.225.70
+autodiscover.bolsadetrabajo 300 IN A 72.52.225.70
+_autodiscover._tcp.bolsadetrabajo 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webquest 300 IN TXT "v=spf1 ip4:72.52.225.70 ip4:192.168.0.237 +a +mx + ?all"
+webquest 300 IN A 72.52.225.70
+www 300 IN CNAME @
+autoconfig.webeduca 300 IN A 72.52.225.70
+antonio 300 IN A 72.52.225.70
+_autodiscover._tcp.webeduca 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.aridai 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.juanmanuel 300 IN A 72.52.225.70
+www.xicobach 300 IN A 72.52.225.70
+www.live 300 IN A 72.52.225.70
+_autodiscover._tcp.simitrio 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.gerardo 300 IN A 72.52.225.70
+autoconfig 300 IN A 72.52.225.70
+autodiscover.webeduca 300 IN A 72.52.225.70
+webdisk.webquest 300 IN A 72.52.225.70
+autoconfig.juanmanuel 300 IN A 72.52.225.70
+autodiscover.aridai 300 IN A 72.52.225.70
+www.calidad 300 IN A 72.52.225.70

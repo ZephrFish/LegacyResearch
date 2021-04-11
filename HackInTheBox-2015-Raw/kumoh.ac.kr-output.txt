@@ -1,0 +1,527 @@
+@ 6600 IN SOA ns root 20150107 3600 300 6600 604800
+@ 6600 IN TXT "google-site-verification=Q4N36WgnWXw7ivDa4W4_xE57rZc58RaDG_cWR-ALSyk"
+6600 IN TXT "v=spf1 ip4:202.31.128.4 ip4:202.31.128.5 ip4:202.31.128.6 ip4:202.31.193.146 ~all"
+@ 6600 IN NS ns
+@ 6600 IN A 202.31.128.3
+@ 6600 IN MX 0 mail
+kit 6600 IN A 202.31.128.8
+eecvlab 6600 IN A 202.31.135.171
+eecvlab 6600 IN MX 0 eecvlab
+battery 6600 IN A 202.31.128.8
+lincedu 6600 IN A 202.31.128.3
+DW2 6600 IN A 202.31.195.244
+DW2 6600 IN MX 0 DW2
+kbaek 6600 IN A 202.31.131.85
+kbaek 6600 IN MX 0 kbaek
+archi 6600 IN A 202.31.128.3
+smart 6600 IN A 202.31.202.37
+smart 6600 IN MX 0 smart
+dnsl 6600 IN A 202.31.202.229
+dnsl 6600 IN MX 0 dnsl
+kle 6600 IN A 202.31.202.199
+kle 6600 IN MX 0 kle
+vlsi7 6600 IN A 202.31.136.164
+vlsi7 6600 IN MX 0 vlsi7
+selab 6600 IN A 202.31.130.90
+selab 6600 IN MX 0 selab
+gp 6600 IN A 202.31.197.184
+mbook 6600 IN A 202.31.195.250
+mbook 6600 IN MX 10 mbook
+knut 6600 IN A 202.31.128.7
+iplec 6600 IN A 202.31.128.3
+ie 6600 IN A 202.31.128.3
+cadlab 6600 IN A 202.31.136.24
+cadlab 6600 IN MX 0 cadlab
+mosaic 6600 IN A 202.31.202.148
+mosaic 6600 IN MX 0 mosaic
+hrdwebzine 6600 IN A 210.221.154.136
+hrdwebzine 6600 IN MX 0 hrdwebzine
+grid-1 6600 IN A 202.31.130.245
+grid-1 6600 IN MX 0 grid-1
+im 6600 IN A 210.221.154.83
+im 6600 IN MX 0 im
+kitin 6600 IN A 202.31.128.8
+polymer 6600 IN A 202.31.134.203
+polymer 6600 IN MX 0 polymer
+gifted 6600 IN A 202.31.128.3
+kummir 6600 IN A 202.31.128.69
+pdaebook 6600 IN A 202.31.193.147
+80 6600 IN A 202.31.130.23
+80 6600 IN MX 0 80
+bk21design 6600 IN A 202.31.128.8
+kaiser 6600 IN A 202.31.128.65
+kaiser 6600 IN MX 0 kaiser
+eejcad 6600 IN A 202.31.135.56
+eejcad 6600 IN MX 0 eejcad
+power 6600 IN A 202.31.135.71
+power 6600 IN MX 0 power
+arch 6600 IN A 202.31.128.77
+world 6600 IN A 202.31.128.86
+ebook 6600 IN A 202.31.128.15
+rrc 6600 IN A 202.31.207.184
+rrc 6600 IN MX 0 rrc
+awon 6600 IN A 202.31.201.130
+awon 6600 IN MX 0 awon
+vlsi3 6600 IN A 202.31.135.188
+vlsi3 6600 IN MX 0 vlsi3
+mc 6600 IN A 202.31.128.3
+md 6600 IN A 202.31.128.3
+eng 6600 IN A 202.31.128.8
+setser 6600 IN A 202.31.130.60
+setser 6600 IN MX 0 setser
+kitwebzine 6600 IN A 202.31.128.229
+ems 6600 IN A 202.31.128.4
+ems 6600 IN MX 0 ems
+lib 6600 IN A 202.31.193.148
+savannah 6600 IN A 202.31.203.112
+savannah 6600 IN MX 0 ee
+6600 IN MX 10 savannah
+mm 6600 IN A 202.31.141.241
+mm 6600 IN MX 0 mm
+appmath 6600 IN A 202.31.128.3
+kumoh 6600 IN A 202.31.128.3
+kumoh 6600 IN MX 0 mail
+cemkit 6600 IN A 202.31.206.55
+cemkit 6600 IN MX 0 cemkit
+sip1 6600 IN A 202.31.130.32
+sip1 6600 IN MX 0 sip1
+ksb 6600 IN A 202.31.194.211
+env 6600 IN A 202.31.128.3
+lim 6600 IN A 202.31.128.57
+lim 6600 IN MX 0 lim
+kobs 6600 IN A 202.31.128.8
+cegpc2 6600 IN A 202.31.130.67
+cegpc2 6600 IN MX 0 cegpc2
+shannon 6600 IN A 202.31.136.48
+shannon 6600 IN MX 0 shannon
+my 6600 IN A 202.31.143.51
+my 6600 IN MX 0 my
+emhub 6600 IN A 202.31.200.90
+cegpc8 6600 IN A 202.31.130.73
+cegpc8 6600 IN MX 0 cegpc8
+math1 6600 IN A 202.31.128.3
+math2 6600 IN A 202.31.135.53
+math2 6600 IN MX 0 math2
+see 6600 IN A 202.31.128.3
+vlsi2 6600 IN A 202.31.135.184
+vlsi2 6600 IN MX 0 vlsi2
+seob 6600 IN A 202.31.202.156
+wind 6600 IN A 202.31.206.6
+libsrch 6600 IN A 202.31.193.150
+cespc10 6600 IN A 202.31.136.100
+cespc10 6600 IN MX 0 cespc10
+ready 6600 IN A 202.31.142.138
+ready 6600 IN MX 0 ready
+president 6600 IN A 202.31.128.3
+myksb 6600 IN A 202.31.194.212
+cespc20 6600 IN A 202.31.130.56
+cespc20 6600 IN MX 0 cespc20
+cic 6600 IN A 202.31.128.3
+scms 6600 IN A 202.31.128.142
+library 6600 IN A 202.31.128.195
+sd 6600 IN A 202.31.128.3
+27thsuperman 6600 IN A 202.31.194.90
+27thsuperman 6600 IN MX 0 27thsuperman
+kaiser2 6600 IN A 202.31.128.66
+kaiser2 6600 IN MX 0 kaiser2
+vibme 6600 IN A 202.31.199.209
+vibme 6600 IN MX 0 vibcon
+lms 6600 IN A 202.31.128.221
+lms 6600 IN MX 0 lms
+SGS 6600 IN A 202.31.135.51
+SGS 6600 IN MX 0 SGS
+bong 6600 IN A 202.31.128.52
+cespc1 6600 IN A 202.31.200.86
+cespc1 6600 IN MX 0 ce
+cespc2 6600 IN A 202.31.136.91
+cespc2 6600 IN MX 0 cespc2
+cespc3 6600 IN A 202.31.137.55
+cespc3 6600 IN MX 0 cespc3
+cespc4 6600 IN A 202.31.130.36
+cespc4 6600 IN MX 0 cespc4
+cespc5 6600 IN A 202.31.137.60
+cespc5 6600 IN MX 0 cespc5
+cosmos 6600 IN A 202.31.135.31
+cosmos 6600 IN MX 0 cosmos
+physics 6600 IN A 202.31.197.184
+physics 6600 IN MX 0 physics
+cespc9 6600 IN A 202.31.136.82
+cespc9 6600 IN MX 0 cespc9
+sip2 6600 IN A 202.31.201.97
+sip2 6600 IN MX 0 sip2
+sim 6600 IN A 202.31.140.189
+sim 6600 IN MX 0 sim
+sgi 6600 IN A 202.31.132.201
+sgi 6600 IN MX 0 sgi
+prime 6600 IN A 202.31.193.145
+prime 6600 IN MX 0 prime
+cecom 6600 IN A 202.31.200.87
+cecom 6600 IN MX 0 cecom
+web 6600 IN A 202.31.128.128
+web 6600 IN MX 0 mail
+circle 6600 IN A 202.31.128.193
+textile 6600 IN A 202.31.128.3
+conrd 6600 IN A 203.251.80.85
+conrd 6600 IN MX 0 conrd
+m 6600 IN A 202.31.128.3
+cnrl1 6600 IN A 202.31.135.129
+cnrl1 6600 IN MX 0 cnrl1
+ace 6600 IN A 202.31.128.3
+nachos 6600 IN A 202.31.200.181
+nachos 6600 IN MX 0 nachos
+iseman 6600 IN CNAME ieman
+club 6600 IN CNAME job
+eesubPC 6600 IN A 202.31.202.47
+eesubPC 6600 IN MX 0 eesubPC
+sonamoo 6600 IN A 202.31.134.38
+sonamoo 6600 IN MX 0 sonamoo
+ftpmath 6600 IN A 202.31.135.52
+ftpmath 6600 IN MX 0 ftpmath
+job2 6600 IN A 202.31.193.244
+job2 6600 IN MX 0 job2
+physics3 6600 IN A 202.31.139.140
+physics3 6600 IN MX 0 physics3
+latt 6600 IN A 202.31.128.3
+kaiser1 6600 IN A 202.31.128.65
+kaiser1 6600 IN MX 0 kaiser1
+nplab 6600 IN A 202.31.139.21
+nplab 6600 IN MX 0 nplab
+sylot 6600 IN A 202.31.202.207
+sylot 6600 IN MX 0 sylot
+tec 6600 IN A 202.31.128.3
+vlsi 6600 IN A 202.31.136.251
+vlsi 6600 IN MX 0 vlsi
+starlab 6600 IN A 202.31.128.9
+kit-cons 6600 IN A 202.31.128.251
+lec 6600 IN A 202.31.128.3
+gic 6600 IN A 202.31.128.8
+medicalIT 6600 IN A 202.31.128.3
+mksb 6600 IN A 202.31.194.213
+mksb 6600 IN MX 0 mksb
+jbond 6600 IN A 202.31.204.127
+jbond 6600 IN MX 0 jbond
+venture 6600 IN A 202.31.142.25
+venture 6600 IN MX 0 venture
+vivaldi 6600 IN A 202.31.203.117
+vivaldi 6600 IN MX 0 vivaldi
+iphak 6600 IN A 202.31.128.3
+ck-mse 6600 IN A 202.31.128.3
+kolla 6600 IN A 202.31.128.234
+dongyun 6600 IN A 202.31.142.34
+dongyun 6600 IN MX 0 dongyun
+wjsim 6600 IN A 202.31.134.124
+wjsim 6600 IN MX 0 wjsim
+me 6600 IN A 222.103.87.96
+me 6600 IN MX 0 me
+jhkim 6600 IN A 202.31.129.19
+jhkim 6600 IN MX 0 jhkim
+kicit 6600 IN A 202.31.128.8
+kumdcoll 6600 IN A 202.31.128.245
+kumdcoll 6600 IN MX 0 kumdcoll
+test 6600 IN A 202.31.128.100
+test 6600 IN MX 0 test
+assistkorea 6600 IN A 202.31.138.68
+assistkorea 6600 IN MX 0 assistkorea
+virus 6600 IN A 202.31.128.74
+guru 6600 IN A 202.31.202.208
+guru 6600 IN MX 0 guru
+mechsys 6600 IN A 202.31.128.3
+vlsi6 6600 IN A 202.31.135.186
+vlsi6 6600 IN MX 0 vlsi6
+libapp 6600 IN A 202.31.193.149
+libapp 6600 IN MX 0 libapp
+cegpc10 6600 IN A 202.31.130.63
+cegpc10 6600 IN MX 0 cegpc10
+cyber 6600 IN A 202.31.141.238
+cyber 6600 IN MX 0 cyber
+ait 6600 IN A 202.31.202.140
+ait 6600 IN MX 0 ait
+libproxy 6600 IN A 202.31.128.191
+kitforum 6600 IN A 202.31.128.8
+jeong 6600 IN A 202.31.128.56
+jeong 6600 IN MX 0 jeong
+eduup 6600 IN A 202.31.128.3
+commons 6600 IN CNAME circle
+ejchoi 6600 IN A 202.31.134.227
+ejchoi 6600 IN MX 0 ejchoi
+kumconf 6600 IN A 202.31.193.152
+gms 6600 IN A 202.31.128.58
+bk21 6600 IN A 121.78.255.18
+bk21 6600 IN MX 0 bk21
+zero 6600 IN A 202.31.140.116
+zero 6600 IN MX 0 zero
+gdec 6600 IN A 202.31.192.12
+sugang 6600 IN A 202.31.128.81
+iccad1 6600 IN A 202.31.135.41
+iccad1 6600 IN MX 0 iccad1
+iccad2 6600 IN A 202.31.135.42
+iccad2 6600 IN MX 0 iccad2
+iccad3 6600 IN A 202.31.135.43
+iccad3 6600 IN MX 0 iccad3
+cespc6 6600 IN A 202.31.130.22
+cespc6 6600 IN MX 0 cespc6
+optics 6600 IN A 202.31.128.3
+mse 6600 IN A 202.31.128.3
+onestop 6600 IN A 202.31.128.77
+mcse 6600 IN A 202.31.140.99
+mcse 6600 IN MX 0 mcse
+applchem 6600 IN A 202.31.128.3
+job 6600 IN A 202.31.128.86
+job 6600 IN MX 0 job
+chip 6600 IN A 202.31.139.15
+chip 6600 IN MX 0 chip
+svl 6600 IN A 202.31.128.8
+molecule 6600 IN A 202.31.197.200
+molecule 6600 IN MX 0 molecule
+kumpdf 6600 IN A 202.31.193.144
+kumpdf 6600 IN MX 0 kumpdf
+ieman 6600 IN A 202.31.206.67
+ieman 6600 IN MX 0 ieman
+gcm 6600 IN A 202.31.128.3
+cseob 6600 IN A 202.31.202.156
+libweb 6600 IN A 202.31.193.148
+hdi 6600 IN A 202.31.200.55
+hdi 6600 IN MX 0 hdi
+abeek 6600 IN A 202.31.128.3
+vod 6600 IN A 202.31.128.79
+vod 6600 IN MX 0 vod
+eesub 6600 IN A 202.31.202.44
+eesub 6600 IN MX 0 eesub
+frog 6600 IN A 202.31.130.47
+frog 6600 IN MX 0 frog
+linc 6600 IN A 202.31.128.3
+smartee 6600 IN A 202.31.203.73
+any 6600 IN A 202.31.207.143
+newton 6600 IN A 202.31.197.206
+newton 6600 IN MX 0 newton
+malledu 6600 IN A 202.31.128.3
+gator 6600 IN A 202.31.136.80
+gator 6600 IN MX 0 gator
+libart 6600 IN A 202.31.128.199
+app 6600 IN A 202.31.128.67
+dynacon 6600 IN A 202.31.198.95
+dynacon 6600 IN MX 0 dynacon
+bic 6600 IN A 202.31.128.8
+bic 6600 IN MX 0 bic
+cary 6600 IN A 202.31.203.113
+cary 6600 IN MX 0 cary
+vibcon 6600 IN A 202.31.199.209
+software 6600 IN A 202.31.202.42
+software 6600 IN MX 0 software
+dept 6600 IN A 202.31.206.230
+dept 6600 IN MX 0 dept
+pintos 6600 IN A 202.31.200.195
+pintos 6600 IN MX 0 pintos
+maxwell 6600 IN A 202.31.136.47
+maxwell 6600 IN MX 0 maxwell
+wens 6600 IN A 202.31.128.8
+robot 6600 IN A 202.31.137.71
+robot 6600 IN MX 0 robot
+ict 6600 IN A 202.31.128.3
+cam 6600 IN A 202.31.128.3
+gec 6600 IN A 202.31.128.8
+biz 6600 IN A 202.31.128.3
+oversea 6600 IN A 210.221.154.103
+oversea 6600 IN MX 0 oversea
+6600 IN MX 0 mse
+6600 IN MX 0 gifted
+koths 6600 IN A 202.31.196.100
+koths 6600 IN MX 0 koths
+npt 6600 IN A 222.103.87.81
+npt 6600 IN MX 0 npt
+mail 6600 IN A 202.31.128.5
+mail 6600 IN MX 0 mail
+gokit 6600 IN A 202.31.128.9
+rs3bt 6600 IN A 202.31.136.31
+rs3bt 6600 IN MX 0 rs3bt
+wordpress 6600 IN A 202.31.128.100
+sanhack 6600 IN A 202.31.195.113
+sanhack 6600 IN MX 0 sanhack
+eemwl 6600 IN A 202.31.135.194
+eemwl 6600 IN MX 0 eemwl
+multimedia 6600 IN A 202.31.200.226
+multimedia 6600 IN MX 0 multimedia
+mphan 6600 IN A 202.31.132.52
+mphan 6600 IN MX 0 mphan
+mobile 6600 IN A 202.31.135.232
+6600 IN A 202.31.201.80
+mobile 6600 IN MX 0 mobile
+comirang 6600 IN A 202.31.129.187
+comirang 6600 IN MX 0 comirang
+edge 6600 IN A 202.31.200.249
+edge 6600 IN MX 0 edge
+rcs 6600 IN A 202.31.136.50
+rcs 6600 IN MX 0 rcs
+se 6600 IN A 202.31.202.156
+se 6600 IN MX 0 se
+smt 6600 IN A 202.31.128.3
+web2 6600 IN A 202.31.128.78
+ums 6600 IN A 202.31.128.61
+cdw 6600 IN A 202.31.206.56
+cdw 6600 IN MX 0 cdw
+old 6600 IN A 202.31.128.3
+newhrd 6600 IN A 202.31.128.8
+polychem 6600 IN A 202.31.128.3
+mmse 6600 IN A 202.31.138.186
+mmse 6600 IN MX 0 mmse
+dormq 6600 IN A 202.31.128.8
+dormq 6600 IN MX 0 kicit
+ECRC 6600 IN A 202.31.194.216
+cilf 6600 IN A 202.31.136.49
+cilf 6600 IN MX 0 cilf
+mkice 6600 IN A 202.31.128.3
+yebigun 6600 IN A 202.31.128.3
+kumohweb 6600 IN A 202.31.128.129
+kumohweb 6600 IN MX 0 mail
+pro-mecha 6600 IN A 202.31.128.3
+ipsi 6600 IN A 202.31.128.3
+eearch 6600 IN A 202.31.137.85
+eearch 6600 IN MX 0 eearch
+control 6600 IN A 202.31.137.15
+control 6600 IN MX 0 control
+chi 6600 IN A 202.31.128.3
+ucampus 6600 IN A 202.31.128.142
+a255a 6600 IN A 202.31.136.43
+a255a 6600 IN MX 0 a255a
+alpha1 6600 IN A 202.31.136.42
+alpha1 6600 IN MX 0 alpha1
+indisk 6600 IN A 202.31.128.88
+indisk 6600 IN MX 5 indisk
+labsafety 6600 IN A 202.31.128.200
+smf 6600 IN A 202.31.128.6
+phonon 6600 IN CNAME physics
+iesql 6600 IN A 202.31.140.190
+iesql 6600 IN MX 0 iesql
+alledu 6600 IN A 202.31.128.3
+mignon 6600 IN A 202.31.132.32
+mignon 6600 IN MX 0 mignon
+ime 6600 IN A 202.31.128.3
+grid 6600 IN A 202.31.136.98
+grid 6600 IN MX 0 grid
+human 6600 IN A 202.31.206.102
+human 6600 IN MX 0 human
+ktic 6600 IN A 210.221.154.136
+ktic 6600 IN MX 0 ktic
+ceppc10 6600 IN A 202.31.136.96
+ceppc10 6600 IN MX 0 ceppc10
+portal 6600 IN A 202.31.128.3
+home 6600 IN A 202.31.141.229
+home 6600 IN MX 0 home
+sirius 6600 IN A 202.31.140.222
+sirius 6600 IN MX 0 sirius
+press 6600 IN A 202.31.128.8
+press 6600 IN MX 0 press
+edms 6600 IN A 202.31.128.62
+edms 6600 IN MX 0 edms
+secom 6600 IN A 202.31.202.152
+secom 6600 IN MX 0 secom
+odva 6600 IN A 202.31.200.89
+odva 6600 IN MX 0 odva
+learning 6600 IN A 202.31.128.68
+learning 6600 IN MX 0 learning
+bus 6600 IN A 202.31.128.142
+iacf 6600 IN A 202.31.128.243
+iacf 6600 IN MX 0 iacf
+edu 6600 IN A 202.31.128.3
+kitweb 6600 IN A 202.31.128.53
+kitweb 6600 IN MX 0 kitweb
+dcollection 6600 IN A 202.31.128.245
+mo 6600 IN A 202.31.128.3
+cms 6600 IN A 202.31.128.8
+ipu 6600 IN A 202.31.200.234
+ipu 6600 IN MX 0 ipu
+nsl 6600 IN A 202.31.128.8
+linda 6600 IN A 202.31.202.217
+linda 6600 IN MX 0 linda
+hjseo 6600 IN A 202.31.128.35
+knutec 6600 IN A 202.31.142.32
+knutec 6600 IN MX 0 knutec
+projectD 6600 IN A 202.31.200.78
+projectD 6600 IN MX 0 projectD
+con 6600 IN A 202.31.128.3
+jin 6600 IN A 202.31.128.59
+jin 6600 IN MX 0 jin
+gckim 6600 IN A 202.31.128.41
+gckim 6600 IN MX 0 gckim
+jun 6600 IN A 202.31.128.64
+jun 6600 IN MX 0 jun
+ee 6600 IN A 202.31.203.117
+ee 6600 IN MX 0 ee
+6600 IN MX 10 savannah
+jis 6600 IN A 202.31.203.63
+jis 6600 IN MX 0 jis
+msal 6600 IN A 202.31.206.101
+msal 6600 IN MX 0 msal
+itc 6600 IN A 202.31.128.3
+jikwon 6600 IN A 202.31.128.36
+jikwon 6600 IN MX 0 jikwon
+search 6600 IN A 202.31.141.217
+search 6600 IN MX 0 search
+aram212 6600 IN A 202.31.140.221
+aram212 6600 IN MX 0 aram212
+civil 6600 IN A 202.31.128.3
+jobstudy 6600 IN A 211.239.124.140
+jobstudy 6600 IN MX 0 jobstudy
+semtle 6600 IN A 202.31.203.254
+semtle 6600 IN MX 0 semtle
+physics4 6600 IN A 202.31.197.201
+physics4 6600 IN MX 0 physics4
+indi 6600 IN A 202.31.128.71
+indi 6600 IN MX 5 indi
+fund 6600 IN A 202.31.128.3
+eac 6600 IN A 202.31.204.253
+eac 6600 IN MX 0 eac
+cse 6600 IN A 202.31.128.3
+cheong 6600 IN A 202.31.134.77
+cheong 6600 IN MX 0 cheong
+csi 6600 IN A 202.31.128.85
+sensation 6600 IN A 202.31.200.203
+sensation 6600 IN MX 0 sensation
+eeknit2 6600 IN A 202.31.135.30
+eeknit2 6600 IN MX 0 eeknit2
+csm 6600 IN A 202.31.206.228
+csm 6600 IN MX 0 csm
+kice 6600 IN A 202.31.128.3
+sechan26 6600 IN A 202.31.194.93
+sechan26 6600 IN MX 0 sechan26
+www 6600 IN A 202.31.128.3
+radius 6600 IN A 202.31.128.73
+ctl 6600 IN A 202.31.128.8
+ece 6600 IN A 202.31.135.244
+ece 6600 IN MX 0 ece
+jobserve 6600 IN A 202.31.128.89
+jobserve 6600 IN MX 0 jobserve
+mlibrary 6600 IN A 202.31.128.195
+prof 6600 IN A 202.31.128.3
+eemw 6600 IN A 202.31.135.21
+eemw 6600 IN MX 0 eemw
+ce 6600 IN A 202.31.128.3
+helium 6600 IN A 202.31.197.201
+kumohlib 6600 IN A 202.31.193.148
+mini 6600 IN A 202.31.128.142
+sanhak 6600 IN A 202.31.128.3
+ns 6600 IN A 202.31.128.2
+ns 6600 IN MX 0 mail
+ran 6600 IN A 202.31.128.51
+ran 6600 IN MX 0 kumohlib
+news 6600 IN A 202.31.128.60
+news 6600 IN MX 0 news
+dorm 6600 IN A 202.31.128.3
+cs 6600 IN A 202.31.128.3
+mecheng 6600 IN A 202.31.128.3
+erel 6600 IN A 202.31.204.250
+erel 6600 IN MX 0 erel
+ceppc7 6600 IN A 202.31.136.81
+ceppc7 6600 IN MX 0 ceppc7
+ceppc8 6600 IN A 202.31.136.86
+ceppc8 6600 IN MX 0 ceppc8
+kumi 6600 IN A 202.31.128.54
+kumi 6600 IN MX 0 kumi
+study 6600 IN A 202.31.128.79
+study 6600 IN MX 0 study
+kphan 6600 IN A 202.31.137.65
+kphan 6600 IN MX 0 kphan
+DW 6600 IN A 202.31.195.192
+DW 6600 IN MX 0 DW
+fluid001 6600 IN A 203.255.252.67
+fluid001 6600 IN MX 0 fluid001

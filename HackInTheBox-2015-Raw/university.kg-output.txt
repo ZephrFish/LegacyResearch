@@ -1,0 +1,47 @@
+@ 86400 IN SOA ns tjamakeev\@university.kg. 201504221 86400 7200 3600000 86400
+@ 86400 IN NS ns
+86400 IN NS ns2
+@ 14400 IN MX 10 mail
+@ 14400 IN A 178.217.170.83
+@ 14400 IN TXT "v=spf1 a mx ptr ~all"
+sdo 14400 IN NS ns1.hosting
+kki 14400 IN NS ns1.hosting
+ldap 14400 IN A 178.217.170.82
+ns2 14400 IN A 178.217.170.84
+ns1.hosting 14400 IN A 178.217.170.94
+nauka 14400 IN NS ns1.hosting
+geo 14400 IN NS ns1.hosting
+abiturient 14400 IN CNAME video
+fict 14400 IN NS ns1.hosting
+umk 14400 IN NS ns1.hosting
+gsdl 14400 IN A 178.217.170.94
+omega 14400 IN A 178.217.170.83
+video 14400 IN A 178.217.170.89
+moodle 14400 IN CNAME www
+mail 14400 IN A 178.217.170.82
+mail 14400 IN TXT "v=spf1 a -all"
+vc 14400 IN CNAME video
+login 14400 IN CNAME portal
+agile 14400 IN A 212.112.104.85
+git 14400 IN CNAME ftp
+lib 14400 IN NS ns1.hosting
+service 14400 IN CNAME proxy
+avn 14400 IN A 178.217.170.85
+webmail 14400 IN CNAME ftp
+ftp 14400 IN A 178.217.170.86
+www 14400 IN A 178.217.170.83
+ns 14400 IN A 178.217.170.83
+hosting 14400 IN NS ns1.hosting
+jabber 14400 IN CNAME video
+developer 14400 IN NS ns1.hosting
+sakai 14400 IN CNAME www
+giews 14400 IN A 212.42.101.98
+abit 14400 IN CNAME video
+proxy 14400 IN A 178.217.170.87
+e 14400 IN NS ns1.hosting
+portal 14400 IN A 178.217.170.86
+evrazfit 14400 IN NS ns1.hosting
+milli 14400 IN A 178.217.170.84
+gaz 14400 IN NS ns1.hosting
+mtk 14400 IN NS ns1.hosting
+dos 14400 IN NS ns1.hosting

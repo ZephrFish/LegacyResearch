@@ -1,0 +1,2616 @@
+@ 3600 IN SOA vmd1.ddi hostmaster 363047925 7200 3600 1209600 3600
+@ 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+@ 3600 IN A 152.1.226.10
+3600 IN A 152.1.227.241
+3600 IN A 152.1.227.242
+3600 IN A 152.1.227.243
+@ 3600 IN MX 10 ncsu.edu.s9a1.psmtp.com.
+3600 IN MX 20 ncsu.edu.s9a2.psmtp.com.
+3600 IN MX 30 ncsu.edu.s9b1.psmtp.com.
+3600 IN MX 40 ncsu.edu.s9b2.psmtp.com.
+@ 3600 IN TXT "MS=ms39026538"
+3600 IN TXT "google-site-verification=fSHCradKUg5OO0kZGGn5ONLgolMiguHOkdNQoRV0HXg"
+@ 3600 IN AAAA 2605:100:10::10
+www.bioinformatics 3600 IN CNAME weir.statgen
+bp02ro 3600 IN CNAME bp02ro.unity
+www.cnec 3600 IN CNAME multires.eos
+ifolder.ced.ncsu.edu.gwced 3600 IN CNAME ced1.coe
+canadagoose 3600 IN CNAME uni208v.unity
+cims.poole 3600 IN CNAME uni208v.unity
+the-pc 3600 IN CNAME the-pc.che
+classtech.oit-dev 3600 IN CNAME web01cp.unity
+sensory 3600 IN CNAME web00wph.unity
+testshib 3600 IN CNAME uni365v.unity
+www.feedmill 3600 IN CNAME uni208v.unity
+stat 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+jbnesbi2-wifi-feb2015-test 3600 IN A 10.121.64.254
+wtprinter2 3600 IN A 152.14.43.21
+stuaff 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+voicemail 3600 IN CNAME net122vip.comtech
+time-rr 3600 IN A 152.1.227.236
+3600 IN A 152.1.227.237
+3600 IN A 152.1.227.238
+packapalooza 3600 IN CNAME web03cp.unity
+www.plantbreedingworkshop 3600 IN CNAME cs-ws1-2.cropsci
+transaeroreader 3600 IN A 152.7.136.103
+m 3600 IN CNAME uni206v.unity
+fyc-231-card-1 3600 IN A 152.7.136.25
+nccia 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+uni00ba 3600 IN CNAME uni00cvs.unity
+jor-isar-accessctrl 3600 IN A 152.7.136.27
+techies 3600 IN CNAME ip-ncsu-techies.eos
+pc03-wl179 3600 IN CNAME pc03-wl179.bae
+registrar 3600 IN CNAME web00cp.unity
+metasys 3600 IN CNAME facops2.oit
+futureshock.dev.webtools 3600 IN CNAME futureshock.eos
+uni00di 3600 IN CNAME uni00di.unity
+humanitiescomputinglabs 3600 IN CNAME web.chass
+ascad 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+print 3600 IN CNAME uni027v.unity
+studentconduct 3600 IN CNAME web00cp.unity
+cnec 3600 IN CNAME redirect.eos
+NCVPSChaninMac 3600 IN A 152.14.22.45
+solarordinance.nccleantech 3600 IN CNAME web04cp.unity
+housing 3600 IN CNAME uni236v.unity
+futureshock.freedm 3600 IN CNAME futureshock.eos
+github 3600 IN CNAME engr-git-201.eos
+myip 3600 IN CNAME net02w.comtech
+futureshock.cae-r 3600 IN CNAME futureshock.eos
+gtihpprinter2840 3600 IN CNAME GLOTRAIN-HA-242A-HPColorLaserJet2840.oitclients
+NCVPSJohnsMAC2 3600 IN A 152.14.22.61
+Admin3SnackVend 3600 IN A 10.116.64.8
+sulshopsiiback0050f9083df2 3600 IN A 152.7.136.156
+www.corn 3600 IN CNAME cs-ws1-2.cropsci
+uni01di 3600 IN CNAME uni01di.unity
+kerberos-1 3600 IN CNAME uni10k.unity
+joynercardaccess1 3600 IN A 152.7.136.65
+kerberos-3 3600 IN CNAME uni12k.unity
+kerberos-4 3600 IN CNAME uni10k.unity
+kerberos-5 3600 IN CNAME uni11k.unity
+kerberos-6 3600 IN CNAME uni12k.unity
+code 3600 IN CNAME web02cp.unity
+mubetapsi 3600 IN CNAME mubetapsi.fis
+cent-nomad-1 3600 IN A 10.252.100.2
+cent-nomad-2 3600 IN A 10.252.100.3
+norocore 3600 IN CNAME web03cp.unity
+substratesymposium 3600 IN CNAME uni208v.unity
+nprg 3600 IN CNAME redirect.eos
+www.seniors 3600 IN CNAME uni208v.unity
+postdocs 3600 IN CNAME uni208v.unity
+CMPENTF0-B3:B0:ED 3600 IN A 10.68.8.16
+ps-istar-1 3600 IN A 152.7.135.37
+ps-istar-2 3600 IN A 152.7.135.38
+nomad-nac-cent-1 3600 IN A 10.252.100.101
+nomad-nac-cent-2 3600 IN A 10.252.100.102
+www.soybeans 3600 IN CNAME cs-ws1-2.cropsci
+uni02di 3600 IN CNAME uni02di.unity
+oied 3600 IN CNAME web00cp.unity
+g2c-sonitrol 3600 IN A 152.1.131.89
+plantsforhumanhealth 3600 IN CNAME web04cp.unity
+iphone 3600 IN CNAME uni06apcp.unity
+ug-istar-acp 3600 IN A 152.7.136.105
+uni01ns 3600 IN CNAME ns3
+www.texed 3600 IN CNAME uni208v.unity
+leadership 3600 IN CNAME web00cp.unity
+catering 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+AlexanderCokeVending 3600 IN A 10.116.64.52
+expertiza 3600 IN CNAME expertiza.csc
+www.csc2 3600 IN CNAME ip-csc2-www.eos
+scih 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ncstate-sda-01 3600 IN A 152.1.50.20
+uni06f 3600 IN CNAME uni06f.unity
+oitfs02fwsm 3600 IN CNAME oitfs02fwsm.oit
+www.park 3600 IN CNAME uni208v.unity
+www.crim 3600 IN CNAME redirect.eos
+ncgap 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+macro 3600 IN CNAME redirect.eos
+rid-257 3600 IN A 152.7.135.21
+unity 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+smtp-vip 3600 IN CNAME uni373v.unity
+upwardbound 3600 IN CNAME trio-ef385c.oitclients
+uni02ns 3600 IN CNAME ns4
+www.cvmpacstest 3600 IN CNAME amicasbackup.cvm
+www.networking 3600 IN CNAME ip-ncsu-networking.eos
+tmos-remote 3600 IN A 152.1.7.146
+nathan 3600 IN A 152.14.22.157
+nrrc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+broadcaster 3600 IN A 152.7.106.8
+broadcaster 3600 IN MX 10 mail00s.unity
+cuacs9 3600 IN A 152.1.51.156
+oirp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+imsei 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+imsei 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+cwise 3600 IN CNAME cwise.meas
+wtprinter3 3600 IN A 152.14.43.22
+www.alumniblog 3600 IN CNAME uni223v.unity
+wtprinter4 3600 IN A 152.14.43.23
+identity-management 3600 IN CNAME web00cp.unity
+eps42 3600 IN CNAME bu-2114-1.wc
+www.designgraphics 3600 IN CNAME ghs.google.com.
+pams03f 3600 IN CNAME pams03f.pams
+pams 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+iep.oia-temp 3600 IN CNAME web04cp.unity
+unity00ba 3600 IN CNAME uni00cvs.unity
+moderator 3600 IN CNAME ghs.google.com.
+uni03ns 3600 IN CNAME ns5
+careers 3600 IN CNAME web01cp.unity
+treejam 3600 IN CNAME uni208v.unity
+csc2 3600 IN CNAME redirect.eos
+www.gapserve 3600 IN CNAME metacomet.zo
+park 3600 IN CNAME web05cp.unity
+futureshock.iasmirt.org 3600 IN CNAME futureshock.eos
+becton-card-1 3600 IN A 152.7.136.22
+crim 3600 IN CNAME redirect.eos
+www.ece2 3600 IN CNAME ip-ece2-www.eos
+cvmris 3600 IN CNAME risserver2.cvm
+eadc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+c00361-227dan 3600 IN CNAME c00361-227dan.eos
+accessibility 3600 IN CNAME web04cp.unity
+uni04ns 3600 IN CNAME ns6
+linux 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+studentengagement 3600 IN CNAME web03cp.unity
+www.webhadss 3600 IN CNAME cs-ws1-2.cropsci
+nomad-nac-cent 3600 IN A 10.252.100.100
+www.sorghum 3600 IN CNAME cs-ws1-2.cropsci
+bp03ro 3600 IN CNAME bp03ro.unity
+cokevendinngwestdeckasset562748 3600 IN A 152.7.136.134
+gatecontrollerdan-old 3600 IN A 152.1.247.10
+invdiscunity 3600 IN CNAME oitttrans.oit
+futureshock.freeda.org 3600 IN CNAME futureshock.eos
+survey 3600 IN A 152.1.168.37
+www.escop 3600 IN CNAME cipmcf8-1.ent
+amx2100-4105-wired 3600 IN A 152.14.145.21
+temp.potatoes 3600 IN A 204.84.1.79
+www.provost 3600 IN CNAME uni312v.unity
+mmw-110-multi1.opitclients 3600 IN CNAME min7ca8f1.wc
+www.ctuonline 3600 IN CNAME ctuonline.mck
+maneevent 3600 IN CNAME vip-maneevent.delta
+achieve 3600 IN CNAME uni221v.unity
+3102 3600 IN A 152.14.22.28
+acs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+acs 3600 IN MX 50 acsprod1.acs
+dev.sports-turf 3600 IN CNAME cs-ws5-2.cropsci
+aec 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+googlebes 3600 IN CNAME googlebes1wdm1.oit
+wolfvillage-h-vendingcontroller 3600 IN A 152.7.136.82
+www.firechasers 3600 IN CNAME uni208v.unity
+staff-21302 3600 IN A 152.1.211.12
+NCVPS_nate15mac 3600 IN A 152.14.22.59
+accreditation 3600 IN CNAME web00dh.unity
+printdev 3600 IN A 152.1.226.55
+projects.ei 3600 IN CNAME web00cp.unity
+futureshock.assist 3600 IN CNAME futureshock.eos
+waketech14 3600 IN A 152.14.43.34
+bodysystems 3600 IN CNAME bodysystems.eos
+aif 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+scheduler 3600 IN CNAME serial.cc
+bae 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+bae 3600 IN A 152.1.16.16
+www.studyabroad 3600 IN CNAME web00wph.unity
+cmast 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+bas 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+fleetservices 3600 IN CNAME web05cp.unity
+bch 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+smdfhub-6509-1-vl393 3600 IN A 152.1.210.65
+drwhite-powermac2 3600 IN A 152.7.252.14
+www.open 3600 IN CNAME web.iaa
+bef 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+tickets 3600 IN CNAME uni208v.unity
+backup 3600 IN A 152.7.129.58
+tutorial 3600 IN CNAME web00dh.unity
+talleysnackvend 3600 IN A 152.7.136.59
+cnrtemp 3600 IN CNAME uni228v.unity
+c30001-2411 3600 IN CNAME c30001-2411br.mae
+arb 3600 IN CNAME uni208v.unity
+globalchange 3600 IN CNAME web03cp.unity
+are 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.nprg 3600 IN CNAME ip-nprg-www.eos
+waketech17 3600 IN A 152.14.43.37
+asc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+SmoothieUTV1-Left 3600 IN A 10.116.0.32
+cam 3600 IN CNAME uni208v.unity
+golinks 3600 IN CNAME uni314v.unity
+cbl 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dvrsty-19ab1 3600 IN A 152.1.146.76
+bme 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+trn-gate-ctl-peele 3600 IN A 152.7.135.10
+epsghl 3600 IN CNAME epsghl.bae
+ced 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cdn 3600 IN CNAME uni350v.unity
+cdp 3600 IN CNAME redirect.eos
+design 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+boc 3600 IN CNAME web03cp.unity
+telemedvetris 3600 IN CNAME telemedvetris.cvm
+ceo 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cep 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+wolfmeeting 3600 IN A 152.7.139.249
+ces 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cgc 3600 IN CNAME uni208v.unity
+bop 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cfr 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+chd 3600 IN CNAME web.chass
+che 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dev.sysnews 3600 IN CNAME web80sys.unity
+pest 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.invasives 3600 IN CNAME cs-ws1-2.cropsci
+brc 3600 IN CNAME web01cp.unity
+3dvetanatomy 3600 IN CNAME cvm05rh.cvm
+cim 3600 IN CNAME net105vip.comtech
+bsp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ptway-chargingstation 3600 IN A 152.14.11.205
+open 3600 IN CNAME web.iaa
+selfserviceidm 3600 IN A 152.1.18.53
+cotton 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+vulpia 3600 IN CNAME uni208v.unity
+distance-dev 3600 IN CNAME vip-d03-gen.delta
+ddi 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dcs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+search.ms-pilot 3600 IN CNAME go.domains.live.com.
+md91.ddi 3600 IN A 152.1.14.221
+cng 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+confluence 3600 IN CNAME shs02lamp.unity
+coe 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cno 3600 IN CNAME cno.unity
+cnr 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+des 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+com 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cos 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+krb-rotate 3600 IN A 152.1.18.68
+3600 IN A 152.1.18.69
+3600 IN A 152.1.18.101
+csc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+futureshock.ibm 3600 IN CNAME futureshock.eos
+cte 3600 IN CNAME itreweb.oit
+ad 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+camal 3600 IN CNAME ip-ncsu-camal.eos
+docs 3600 IN A 152.1.226.18
+bb 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ece 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+uni10ns 3600 IN CNAME ns2
+lists 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+rdd41.ddi 3600 IN A 152.1.14.69
+eda 3600 IN CNAME redirect.eos
+ctu 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ce 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cf 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+bp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+speilberg 3600 IN CNAME dhl2112cap2.ittc
+cvm 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+turlingtonbuildingcontroller 3600 IN A 152.7.136.76
+dd 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ct 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+eep 3600 IN CNAME web04cp.unity
+ei 3600 IN CNAME web04cp.unity
+ds 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+internationalservices 3600 IN CNAME web00dh.unity
+tclabs 3600 IN CNAME web.chass
+dw 3600 IN CNAME hagar.unity
+pa-mat05 3600 IN CNAME mse-dt-06.mse
+et 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+litre 3600 IN CNAME uni293v.unity
+globalchange-temp 3600 IN CNAME www.theglobalchangeforum.org.
+go 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+maridia 3600 IN CNAME bp02db.unity
+futureshock.engineeringonline 3600 IN CNAME futureshock.eos
+ie 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dsi 3600 IN CNAME lin-res01.csc
+esking-card1 3600 IN A 152.7.136.129
+fao 3600 IN CNAME uni208v.unity
+dsp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+futureshock.atec 3600 IN CNAME futureshock.eos
+it 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+turfid 3600 IN CNAME cs-ws5-2.cropsci
+emc 3600 IN CNAME web00wph.unity
+cisco-phone-tftp._tcp 3600 IN SRV 0 0 69 net53cms.comtech
+dvm 3600 IN CNAME uni346v.unity
+eng 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ne 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+robodog 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+robodog 3600 IN A 152.1.9.35
+solaris8 3600 IN CNAME uni00i.unity
+ent 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+OE 3600 IN CNAME web05cp.unity
+eos 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+pa 3600 IN CNAME uni208v.unity
+waketec27 3600 IN A 152.14.43.7
+futureshock.casl 3600 IN CNAME futureshock.eos
+or 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ot 7200 IN A 152.1.227.183
+pp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+erm 3600 IN CNAME web03cp.unity
+fis 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ermdev 3600 IN CNAME web03cp.unity
+sa 3600 IN CNAME sasw.chass
+etd 3600 IN CNAME uni208v.unity
+sd 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+wolfalert 3600 IN CNAME uni208v.unity
+gcg 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+itdapps5 3600 IN CNAME uni238v.unity
+www.nrmasters 3600 IN CNAME uni285v.unity
+ss 3600 IN NS rdd41.ddi
+3600 IN NS rdd42.ddi
+3600 IN NS rdd31.ddi
+3600 IN NS rdd32.ddi
+3600 IN NS rdd21.ddi
+3600 IN NS rdd22.ddi
+3600 IN NS rdd11.ddi
+3600 IN NS rdd12.ddi
+_xmpp-client._tcp.jabber 3600 IN SRV 30 30 5222 uni95ja.unity
+3600 IN SRV 30 30 5222 uni96ja.unity
+tx 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.campaign 3600 IN CNAME uni257v.unity
+wc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+designgraphics 3600 IN CNAME ghs.google.com.
+douglasbouglas 3600 IN A 152.14.43.60
+rh 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ug-1351-fis 3600 IN CNAME TRANSPOR-AS1-1351-HPLaserJet4100TN.oitclients
+wq 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+reiker 3600 IN CNAME reiker.cc
+budget 3600 IN CNAME web04cp.unity
+studentinvolvement 3600 IN CNAME web00dh.unity
+lebanesestudies 3600 IN CNAME web-vip.chass
+www2.analytics 3600 IN CNAME web.iaa
+www.datalab 3600 IN CNAME web.iaa
+zo 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+fsi 3600 IN CNAME webserv1.tx
+gis 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+businessmarketinged 3600 IN CNAME uni208v.unity
+researchpark 3600 IN CNAME uni258v.unity
+www.peanutgenomics 3600 IN CNAME cs-ws1-2.cropsci
+ftp 3600 IN A 152.7.108.32
+res-emcj1 3600 IN A 152.1.99.56
+ehps 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+gpc 3600 IN CNAME uni208v.unity
+oirp-temp 3600 IN CNAME web02cp.unity
+cashier 3600 IN CNAME web02cp.unity
+got 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nomad-nac-west 3600 IN A 10.251.100.100
+oucc 3600 IN CNAME web01cp.unity
+healthcenter 3600 IN CNAME web00cp.unity
+cucurbitbreeding 3600 IN CNAME uni208v.unity
+iaa 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+grl 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+newgregg 3600 IN CNAME web03cp.unity
+coachescorner 3600 IN CNAME uni340v.unity
+dev.broadcaster 3600 IN CNAME web00wph.unity
+www.allcampus 3600 IN A 199.238.156.206
+oufa 3600 IN CNAME uni208v.unity
+ibm 3600 IN CNAME redirect.eos
+bobby-laptop 3600 IN A 152.14.145.45
+schoolipm 3600 IN CNAME cipmcf8-1.ent
+innovationdesign 3600 IN CNAME web00wph.unity
+cuacsvid 3600 IN A 152.1.51.89
+provost 3600 IN CNAME uni312v.unity
+drpc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+itgw20 3600 IN A 152.7.252.129
+crp42520set 3600 IN A 152.7.93.45
+iei 3600 IN CNAME web04cp.unity
+icecream 3600 IN CNAME uni208v.unity
+www.forages 3600 IN CNAME cs-ws1-2.cropsci
+www.rb2c 3600 IN CNAME uni208v.unity
+ies 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+multimedia 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+resnetap2 3600 IN A 152.1.131.132
+ncfreshproducesafety 3600 IN CNAME web00cp.unity
+vissta 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+plantbio 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+wolfcast 3600 IN CNAME uni208v.unity
+generalcounsel 3600 IN CNAME web00wph.unity
+vxwzs66fpmub 3600 IN CNAME gv-wymo3skdxbjpcr.dv.googlehosted.com.
+www.games 3600 IN CNAME arbiter.csc
+sc.oit-dev 3600 IN CNAME web01cp.unity
+news.designgraphics 3600 IN CNAME ghs.google.com.
+waketech8 3600 IN A 152.14.43.17
+dev.recreation 3600 IN A 152.1.227.198
+waketech9 3600 IN A 152.14.43.18
+lib 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+wataugavendingbuildingcontroller 3600 IN A 152.7.136.77
+jen 3600 IN A 152.7.106.7
+kerberos-2 3600 IN CNAME uni11k.unity
+nomad 3600 IN CNAME net104vip.comtech
+turfselect 3600 IN CNAME cs-ws5-2.cropsci
+university-communications 3600 IN CNAME web06cp.unity
+ipm 3600 IN CNAME cipmcf8-1.ent
+transform 3600 IN CNAME uni208v.unity
+irc 3600 IN CNAME web00wph.unity
+ClarkDiningNUCGreeterBoard 3600 IN A 10.116.64.30
+duap 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+alexandervendingbuildingcontro 3600 IN A 152.7.136.66
+kurzweil 3600 IN CNAME dso.oit
+jordanistaredge0050f9083f61 3600 IN A 152.7.136.158
+ise 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+jordanistaredge0050f9083f64 3600 IN A 152.7.136.160
+jordanistaredge0050f9083f65 3600 IN A 152.7.136.161
+0050f90814e1 3600 IN A 152.7.136.121
+mail.google 3600 IN CNAME uni208v.unity
+itd 3600 IN CNAME uni316v.unity
+clubs 3600 IN CNAME uni261v.unity
+vl2215-dc2-6509-2-fwsm-1 3600 IN A 152.1.18.2
+mae 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+fbns 3600 IN CNAME web05cp.unity
+pestdata 3600 IN CNAME cipm5.ent
+staff-21309 3600 IN A 152.1.211.19
+comparch 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+grilled-cheesus 3600 IN CNAME augur.pams
+www.soybean 3600 IN CNAME cs-ws1-2.cropsci
+www.webtools 3600 IN CNAME ip-webtools-www.eos
+gwced 3600 IN A 152.1.23.190
+emailcampaigns 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+pragueinstitute 3600 IN CNAME web00wph.unity
+uni00ns 3600 IN CNAME ns1
+emas 3600 IN CNAME web05cp.unity
+weisegerbrown12oz 3600 IN A 152.7.136.48
+chem 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ncvpscopier 3600 IN A 152.14.22.166
+www.freedm 3600 IN CNAME ip-freedm-www.eos
+mirror 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+CVMVendingCokeoutsidePCJ 3600 IN A 10.116.192.14
+www.mypack 3600 IN CNAME mypack
+tl300-winslow 3600 IN A 152.1.146.110
+westdunn-istr-new 3600 IN A 152.7.136.8
+c00301-414poe 3600 IN CNAME c00301-414poe.eos
+lawncare 3600 IN CNAME cs-ws5-2.cropsci
+tourismextension 3600 IN CNAME uni208v.unity
+kms 3600 IN CNAME kms1.oit
+video 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+landscapedynamics 3600 IN CNAME uni208v.unity
+waketech1 3600 IN A 152.14.43.10
+bagwell-card1 3600 IN A 152.7.136.23
+waketech3 3600 IN A 152.14.43.12
+waketech4 3600 IN A 152.14.43.13
+waketech5 3600 IN A 152.14.43.14
+waketech6 3600 IN A 152.14.43.15
+waketech7 3600 IN A 152.14.43.16
+cinemaconcessions 3600 IN A 152.7.136.108
+NCVPSChaninMac1 3600 IN A 152.14.22.67
+890-022050 3600 IN A 152.14.43.57
+mac 3600 IN CNAME uni208v.unity
+pos1 3600 IN A 152.7.129.60
+pos2 3600 IN A 152.7.129.61
+oitdesign 3600 IN CNAME web02cp.unity
+mba 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nomadic 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+kss 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+mat 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+aftechnologycentercokeupstairs 3600 IN A 152.7.136.101
+mck 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ncseagrant 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+w4atc 3600 IN CNAME redirect.eos
+texed 3600 IN CNAME uni208v.unity
+engr 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+caldwellfellows 3600 IN CNAME uni263v.unity
+vidyocast 3600 IN CNAME poly-dma.delta
+webmail 3600 IN CNAME uni207v.unity
+giving 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+lps 3600 IN CNAME web00cp.unity
+mgt 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+min7ed331 3600 IN A 152.14.114.255
+turner 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nag 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.pa 3600 IN CNAME uni208v.unity
+waketec120 3600 IN A 152.14.43.5
+lug 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+rdd42.ddi 3600 IN A 152.1.14.78
+shop.bookstore 3600 IN CNAME ncsu.collegestoreonline.com.
+lts 3600 IN CNAME uni208v.unity
+realtest 3600 IN CNAME realtest.unity
+tinker 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+willhooker 3600 IN CNAME uni208v.unity
+www.epartners 3600 IN CNAME uni208v.unity
+execportal 3600 IN CNAME oitttrans.oit
+ncs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+water 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+foodsafety 3600 IN CNAME web00cp.unity
+mnr 3600 IN CNAME web00wph.unity
+nomad-v5 3600 IN A 152.7.239.254
+dev.webtools 3600 IN CNAME ip-webtools-dev.eos
+wireless 3600 IN CNAME uni208v.unity
+wakewtech24 3600 IN A 152.14.43.48
+distance 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+futureshock.quantum 3600 IN CNAME futureshock.eos
+msa 3600 IN CNAME web.iaa
+mse 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.coned 3600 IN CNAME uni208v.unity
+futureshock.vcl 3600 IN CNAME futureshock.eos
+mte 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nomad-nac-east 3600 IN A 10.254.100.100
+ocl 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ns1 600 IN A 152.1.14.149
+ns1 600 IN AAAA 2605:100:10::224
+ns2 600 IN A 152.1.14.157
+ns2 600 IN AAAA 2605:100:10::225
+ns3 3600 IN A 152.1.1.206
+ns4 3600 IN A 152.1.1.161
+ns5 3600 IN A 152.1.1.248
+ns6 3600 IN A 152.1.2.22
+geospatial 3600 IN CNAME web05cp.unity
+nnf 3600 IN CNAME redirect.eos
+ofb 3600 IN CNAME web04cp.unity
+dsodragon 3600 IN A 152.1.25.207
+res-for-lsf-acess-controller 3600 IN A 152.7.136.39
+nrhh.housing 3600 IN CNAME web00wph.unity
+public.intellimedia 3600 IN CNAME ip-intellimedia-public.eos
+jordanistaredge0050f9083fa3 3600 IN A 152.7.136.159
+www.plantbreedingcenter 3600 IN CNAME cs-ws1-2.cropsci
+ohm 3600 IN CNAME ohm.che
+marinesci 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+tc0050f9081b79 3600 IN A 152.7.136.205
+futureshock.3dic-conf.org 3600 IN CNAME futureshock.eos
+oit 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+esk-vfstb-1 3600 IN A 152.1.44.216
+dashboard.ofb 3600 IN CNAME uni275v.unity
+datalab 3600 IN CNAME web.iaa
+_xmpp-server._tcp.jabber 3600 IN SRV 30 30 5269 uni90ja.unity
+amx2100-4104-wired 3600 IN A 152.14.145.23
+pec 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+wolfvillage-d-vendingcontroller 3600 IN A 152.7.136.70
+west-nomad 3600 IN A 10.251.100.1
+hortcertificate 3600 IN CNAME uni208v.unity
+drwhite-powermac 3600 IN A 152.7.252.11
+sulmor0050f90819e3 3600 IN A 152.7.136.202
+eprc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+oscar 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+pgm 3600 IN CNAME uni208v.unity
+dev.shib 3600 IN CNAME uni036v.unity
+pgp 3600 IN CNAME uni325v.unity
+itecs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+NCVPSjohnmac1 3600 IN A 152.14.22.4
+redirect 3600 IN CNAME uni208v.unity
+herbarium 3600 IN CNAME uni208v.unity
+carmichaelistaredge651s1202004231 3600 IN A 152.7.136.146
+www.peanutdocs 3600 IN CNAME cs-ws1-2.cropsci
+www.techincubator 3600 IN CNAME redirect.eos
+escop 3600 IN A 152.14.68.8
+hsssh1 3600 IN CNAME hsssh1.oit
+hsssh2 3600 IN CNAME hsssh2.oit
+search 3600 IN CNAME uni208v.unity
+psrc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+poe 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+qep 3600 IN CNAME web05cp.unity
+myitd 3600 IN CNAME uni208v.unity
+ppp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.opensource 3600 IN CNAME uni368v.unity
+uni01nt 3600 IN CNAME sweetness.unity
+rave 3600 IN CNAME uni208v.unity
+file 3600 IN NS md91.ddi
+3600 IN NS rdd12.ddi
+3600 IN NS rdd21.ddi
+3600 IN NS rdd22.ddi
+3600 IN NS rdd31.ddi
+3600 IN NS rdd32.ddi
+3600 IN NS rdd41.ddi
+3600 IN NS rdd42.ddi
+3600 IN NS rdd11.ddi
+scrcdev 3600 IN CNAME uni327v.unity
+precisionag 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+psy 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+witherspoonvendingbuildingcontroller 3600 IN A 152.7.136.79
+transcoder 3600 IN CNAME uni208v.unity
+turfgrass 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+live-events 3600 IN CNAME uni01wm.unity
+NCVPS_Leslie\032Comp 3600 IN A 152.14.22.12
+crp42521set 3600 IN A 152.7.93.46
+recycling 3600 IN CNAME web02cp.unity
+hwservices 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+development.centennial 3600 IN CNAME web00wph.unity
+eittestclinic 3600 IN A 152.1.217.227
+c30001 3600 IN CNAME c30001-2411br.mae
+install.solaris 3600 IN CNAME uni352v.unity
+vista-dev 3600 IN CNAME vip-d03-gen.delta
+sh1 3600 IN A 152.1.122.146
+sh2 3600 IN A 152.1.122.147
+sh3 3600 IN A 152.1.122.148
+loislt-wom 3600 IN A 152.1.241.21
+computertraining 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+scj 3600 IN A 152.1.51.171
+williams 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+scm 3600 IN CNAME uni326v.unity
+sea 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+sdm 3600 IN CNAME sdm.csc
+hoban 3600 IN CNAME uni208v.unity
+dasa-temp 3600 IN CNAME web03cp.unity
+futureshock.nprg 3600 IN CNAME futureshock.eos
+polk-fms00 3600 IN A 152.1.46.109
+_sip._udp 43200 IN SRV 10 10 5060 proxy.fi
+eos00db 3600 IN CNAME eos00db.unity
+gcal 3600 IN A 152.1.226.18
+dagateistaredge0050f9084664 3600 IN A 152.7.136.167
+sma 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.cvmpacs 3600 IN CNAME amicas09.cvm
+tde 3600 IN CNAME linux104.ced
+tec 3600 IN CNAME uni208v.unity
+regp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+flex 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dataold 3600 IN A 152.1.166.199
+tds 3600 IN A 152.1.168.25
+sod 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+baemdb 3600 IN CNAME designjet.bae
+sh4 3600 IN A 152.1.122.149
+turfweedmanagement 3600 IN CNAME cs2.cropsci
+genomics 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+arksee 3600 IN CNAME web01cp.unity
+eos01db 3600 IN CNAME eos01db.unity
+data3 3600 IN A 152.1.166.203
+etss 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+uab 3600 IN CNAME web00cp.unity
+125 3600 IN CNAME uni279v.unity
+ssl 3600 IN CNAME uni205v.unity
+eos00ns 3600 IN CNAME eos00ns.eos
+sss 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ag-econ 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+streaming 3600 IN CNAME uni01wm.unity
+_cisco-phone-tftp._tcp 3600 IN SRV 10 0 69 net53cms.comtech
+gwmac 3600 IN CNAME ced1.coe
+citrix 3600 IN A 152.1.20.111
+gmail 3600 IN A 152.1.226.18
+vnet 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+stctr 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+sze 3600 IN CNAME sze.che
+tox 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ugs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+tpt 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+sustainability 3600 IN CNAME web02cp.unity
+shared.email 3600 IN CNAME uni01msh.unity
+gradprogramreview 3600 IN CNAME uni208v.unity
+delta 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+firechasers 3600 IN CNAME uni208v.unity
+btl0050f9081428 3600 IN A 152.7.136.132
+btl0050f9081429 3600 IN A 152.7.136.125
+biochem 3600 IN CNAME uni225v.unity
+mckimmonedge0050f90823fa 3600 IN A 152.7.136.140
+comtech 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+btl0050f9081438 3600 IN A 152.7.136.128
+CVMVendingSnackoutsidePCJ 3600 IN A 10.116.192.15
+tts 3600 IN CNAME uni208v.unity
+vcl 3600 IN CNAME uni246v.unity
+futureshock.csc2 3600 IN CNAME futureshock.eos
+btl0050f9081448 3600 IN A 152.7.136.127
+financialaid 3600 IN CNAME web02cp.unity
+vcs 3600 IN CNAME uni208v.unity
+reyn 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+society 3600 IN CNAME uni261v.unity
+studyabroad 3600 IN CNAME web00wph.unity
+upa 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+vet 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+bookstores 3600 IN CNAME uni208v.unity
+ccmc6 3600 IN CNAME tigris.unity
+futureshock.crim 3600 IN CNAME futureshock.eos
+webapps 3600 IN CNAME uni238v.unity
+phyto 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+pageme 3600 IN A 152.1.226.110
+urj 3600 IN CNAME uni208v.unity
+usc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+sharedmaildev 3600 IN CNAME uni349v.unity
+cropsci 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+twitter 3600 IN CNAME uni358v.unity
+itunes 3600 IN CNAME web01cp.unity
+www.springboard 3600 IN CNAME uni208v.unity
+www.scibls 3600 IN CNAME uni208v.unity
+engrforward 3600 IN MX 10 engr00mb.eos
+web 3600 IN CNAME web06cp.unity
+entrepreneurshipclinic 3600 IN CNAME web04cp.unity
+mckimmon 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+comsymposium 3600 IN CNAME uni208v.unity
+sftp 3600 IN A 152.7.108.32
+smtp-in 3600 IN A 152.1.225.225
+3600 IN A 152.1.225.224
+3600 IN A 152.1.2.225
+3600 IN A 152.1.2.224
+vpn 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dev.terc 3600 IN CNAME cs-ws5-2.cropsci
+attendanceproject 3600 IN CNAME web06cp.unity
+wic 3600 IN CNAME resnet01srv.unity
+www.mrimyhorse 3600 IN CNAME telemedvetris.cvm
+baepm3 3600 IN CNAME laptop-wl112.bae
+wis 3600 IN CNAME cuacs2.mck
+wit 3600 IN CNAME cezanne.csc
+futureshock.dev.wolftech 3600 IN CNAME futureshock.eos
+www.centennial 3600 IN CNAME uni258v.unity
+890-023282 3600 IN A 152.14.43.53
+north-nomad-1 3600 IN A 10.255.100.2
+north-nomad-2 3600 IN A 10.255.100.3
+sustainncpork 3600 IN CNAME uni208v.unity
+alumni 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+microbiology 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+aventferrydcoke281 3600 IN A 152.7.136.87
+aventferrydcoke282 3600 IN A 152.7.136.88
+aventferrydcoke283 3600 IN A 152.7.136.89
+science 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+tmp-threatenedforests 3600 IN CNAME web00cp.unity
+sul0050f9081b0b 3600 IN A 152.7.136.200
+ftpnds 3600 IN CNAME itd01cfr.unity
+lakew 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+drive.google 3600 IN CNAME uni208v.unity
+agroclimatenc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ncvpsJohnsMac2wired 3600 IN A 152.14.22.65
+nthanos-xp 3600 IN A 152.14.22.207
+ed11.ddi 3600 IN A 152.1.14.149
+wdistar 3600 IN A 152.7.136.33
+ldapshib 3600 IN CNAME uni021v.unity
+rdd31.ddi 3600 IN A 152.1.14.53
+admin2-cam2 3600 IN A 172.24.2.11
+ed31.ddi 3600 IN A 152.46.13.45
+wolfprint 3600 IN CNAME uni03ps.unity
+materialsmgmt.ofb 3600 IN CNAME web03cp.unity
+www.ncrc 3600 IN CNAME uni208v.unity
+www.itre1-dev 3600 IN CNAME itreweb.oit
+ccnx1 3600 IN CNAME ccnx1.cc
+ccnx2 3600 IN CNAME ccnx2.cc
+allcampus-tmp188 3600 IN A 152.1.78.188
+allcampus-tmp189 3600 IN A 152.1.78.189
+docs.g-pilot 3600 IN A 152.1.226.18
+g2c-simplex-dialer 3600 IN A 152.7.136.190
+history 3600 IN CNAME web04cp.unity
+communicators 3600 IN CNAME ncsucommunicators.ning.com.
+dgrc 3600 IN CNAME arbiter.csc
+baerp2 3600 IN CNAME 03-wl201a.bae
+ncvpsjohnb 3600 IN A 152.14.22.123
+www.opd 3600 IN CNAME cpe.mck
+bostianmicro 3600 IN A 152.1.173.11
+ofd 3600 IN CNAME web01cp.unity
+www.chancellor 3600 IN CNAME uni208v.unity
+quad 3600 IN CNAME uni283v.unity
+staff-senate-temp 3600 IN CNAME web01cp.unity
+sasw 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+security 3600 IN TXT "google-site-verification=IhxYtoLjoPy02FtnbE4J-P4EL12RVxFyXxY7Th0Cqcs"
+security 3600 IN MX 10 security.ncsu.edu.s9a1.psmtp.com.
+3600 IN MX 20 security.ncsu.edu.s9a2.psmtp.com.
+3600 IN MX 30 security.ncsu.edu.s9b1.psmtp.com.
+3600 IN MX 40 security.ncsu.edu.s9b2.psmtp.com.
+www.gisacademy 3600 IN CNAME solum.soil
+www.sdla 3600 IN CNAME web.iaa
+www.secc 3600 IN CNAME cs-ws1-2.cropsci
+tdonline 3600 IN CNAME uni282v.unity
+uni01t 3600 IN CNAME uni01t.unity
+v3.news 3600 IN CNAME uni250v.unity
+casediningaero 3600 IN A 152.7.136.124
+plantbreeding 3600 IN CNAME uni208v.unity
+uni03t 3600 IN CNAME uni03t.unity
+www.intellimedia 3600 IN CNAME ip-intellimedia-www.eos
+converge 3600 IN CNAME itreweb.oit
+bowenvendingcontrol 3600 IN A 152.7.136.68
+jvc-vfstb-1 3600 IN A 152.1.115.18
+accesscontrol-af-212-1 3600 IN A 152.7.136.84
+accesscontrol-af-212-2 3600 IN A 152.7.136.85
+uni08f 3600 IN CNAME uni08f.unity
+qtss 3600 IN CNAME uni25aafp.unity
+emconnect.emc 3600 IN CNAME web02cp.unity
+tops 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+turf-ims 3600 IN CNAME cs-ws5-2.cropsci
+epin 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+uni11f 3600 IN CNAME uni11f.unity
+webauth 3600 IN CNAME uni204v.unity
+give 3600 IN CNAME ncsuas-live.convio.net.
+hp4m-274wl 3600 IN CNAME ps274.bae
+oia 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+clarkdiningaeroreader 3600 IN A 152.7.136.37
+scrc 3600 IN CNAME uni208v.unity
+futureshock.cadence 3600 IN CNAME futureshock.eos
+saaesd 3600 IN CNAME cipmcf8-1.ent
+resnetap 3600 IN A 152.1.131.131
+nathan10 3600 IN A 152.14.22.233
+nathan11 3600 IN A 152.14.22.234
+transition 3600 IN CNAME uni208v.unity
+sdla 3600 IN CNAME web.iaa
+tedx.uab 3600 IN CNAME uni208v.unity
+secc 3600 IN CNAME cs-ws1.cropsci
+istarfrontblueridge0050f9083af9 3600 IN A 152.7.138.36
+sdmc 3600 IN CNAME sdm.csc
+woodhallvendingcontroller 3600 IN A 152.7.136.83
+freescan 3600 IN CNAME uni208v.unity
+glbt 3600 IN CNAME uni208v.unity
+fungalgenomics 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+studentservices 3600 IN CNAME web03cp.unity
+admservice2-card 3600 IN A 152.7.136.6
+southasia 3600 IN CNAME web05cp.unity
+futureshock.mindsetproject.org 3600 IN CNAME futureshock.eos
+www.login 3600 IN CNAME uni208v.unity
+net86webexa 3600 IN A 152.7.139.227
+kfeneley 3600 IN A 152.14.22.223
+rivernet 3600 IN CNAME balder.meas
+net86webexm 3600 IN A 152.7.139.228
+NCVPSTracymac 3600 IN A 152.14.22.54
+net86webexp 3600 IN A 152.7.139.244
+energy 3600 IN CNAME uni231v.unity
+bookstore 3600 IN CNAME uni360v.unity
+google 3600 IN CNAME uni265v.unity
+ncgrowingtogether 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+0050f90818dbsull 3600 IN A 152.7.136.122
+sciencehouse 3600 IN CNAME uni355v.unity
+hp8100-110wl 3600 IN CNAME ps110.bae
+www.rave 3600 IN CNAME wciadmin109.wingswept.com.
+futureshock.eda 3600 IN CNAME futureshock.eos
+www.help 3600 IN CNAME uni303v.unity
+sftpnew 3600 IN CNAME uni032v.unity
+jbnesbi2-wired-feb2015-test 3600 IN A 10.121.66.254
+catalog 3600 IN CNAME ncsu-public.courseleaf.com.
+cinematicketoffice1 3600 IN A 152.7.136.106
+cinematicketoffice2 3600 IN A 152.7.136.107
+dso.dasa-temp 3600 IN CNAME web03cp.unity
+current-catalog 3600 IN CNAME ncsu-curr.courseleaf.com.
+sgcp 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.telemedvet 3600 IN CNAME telemedvetris.cvm
+coned 3600 IN CNAME uni208v.unity
+tatooine 3600 IN CNAME tatooine.pams
+mba-dev 3600 IN CNAME uni212v.unity
+www.organicbreeding 3600 IN CNAME cs-ws1-2.cropsci
+waldenradio 3600 IN CNAME uni208v.unity
+www.tedx 3600 IN CNAME uni208v.unity
+keyserver 3600 IN CNAME uni23aafp.unity
+wpogate 3600 IN CNAME wpogate.bas
+neuse 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+extensiongardener 3600 IN CNAME uni208v.unity
+cat3200-polk 3600 IN A 152.1.46.110
+basic 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cctrp 3600 IN CNAME uni208v.unity
+help 3600 IN TXT "google-site-verification=6eod0N2mynxgYBnQFFCWsnF-1fcWIjhqzrOkE2mfBp0"
+help 3600 IN A 152.1.226.113
+help 3600 IN MX 10 help.ncsu.edu.s9a1.psmtp.com.
+3600 IN MX 20 help.ncsu.edu.s9a2.psmtp.com.
+3600 IN MX 30 help.ncsu.edu.s9b1.psmtp.com.
+3600 IN MX 40 help.ncsu.edu.s9b2.psmtp.com.
+www.safety 3600 IN CNAME safety.oit
+www.steed 3600 IN CNAME multires.eos
+NCStateAuditor_NCVPS 3600 IN A 152.14.22.68
+6483 3600 IN A 152.1.217.229
+shib 3600 IN CNAME uni023v.unity
+developers 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+relief 3600 IN CNAME uni208v.unity
+net70vmp 3600 IN A 152.7.139.50
+tourian 3600 IN CNAME bp00db.unity
+glider 3600 IN CNAME glider.che
+pc01-4212wolfprep 3600 IN A 152.1.253.67
+carm-card 3600 IN A 152.7.136.7
+wpc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+tmos-campus 3600 IN A 152.1.7.221
+onecedev-staff 3600 IN A 152.1.8.75
+CMPENTFO-29-52-DB 3600 IN A 10.68.8.13
+webregistry 3600 IN CNAME uni379v.unity
+sunjava 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.innovation 3600 IN CNAME uni208v.unity
+vmimap 3600 IN A 152.1.29.121
+TalleyiStarEdge0050F9084466 3600 IN A 152.7.136.166
+gvideo 3600 IN CNAME ghs.google.com.
+uni01rdb 3600 IN CNAME uni01rdb.unity
+ombuds 3600 IN CNAME uni208v.unity
+ergonomics 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+welchvendingcontroller 3600 IN A 152.7.136.78
+msupdates 3600 IN CNAME wt-wsus-02.wolftech.ad
+prague 3600 IN CNAME uni208v.unity
+owenvendingbuildingcontroller 3600 IN A 152.7.136.30
+lists-dev 3600 IN A 152.1.4.115
+shc-istar-01 3600 IN A 152.7.136.109
+greeklife 3600 IN CNAME uni208v.unity
+metrics 3600 IN CNAME web.iaa
+networking 3600 IN CNAME ip-ncsu-networking.eos
+rdafc2-hrl 3600 IN A 152.1.162.78
+rdd32.ddi 3600 IN A 152.1.14.62
+editstore 3600 IN CNAME editstore.ced
+spatiallab 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ugsa 3600 IN CNAME uni315v.unity
+sharedmail 3600 IN CNAME uni215v.unity
+carmichaelistarpro0050f90139ea 3600 IN A 152.7.136.143
+aftechnologycentersnackupstairs 3600 IN A 152.7.136.100
+grad 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+890-024454 3600 IN A 152.14.43.62
+www.dining 3600 IN CNAME wciadmin114.wingswept.com.
+hhmi 3600 IN CNAME web01cp.unity
+nomad-nac-north 3600 IN A 10.255.100.100
+interpath 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nexux 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+studentsofconcern 3600 IN CNAME web00dh.unity
+futureshock.colloids2008.org 3600 IN CNAME futureshock.eos
+pipesanddrums 3600 IN CNAME web05cp.unity
+ncvpscomp 3600 IN A 152.14.22.39
+mlynx266 3600 IN CNAME mlynx266.chem
+www.foragedocs 3600 IN CNAME cs-ws1-2.cropsci
+baszonelptp1-ppa 3600 IN A 152.1.221.136
+graduate.society 3600 IN CNAME uni261v.unity
+www2.sdla 3600 IN CNAME web.iaa
+private.cnec 3600 IN CNAME multires.eos
+www4 3600 IN CNAME uni202v.unity
+wolfmeetingtemp 3600 IN CNAME wolfmeetingadmin
+www2.datalab 3600 IN CNAME web.iaa
+gnets 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+zone1bas2-ppa 3600 IN A 152.1.221.145
+cmdfhub-6509-1-vl468 3600 IN A 152.14.46.193
+streamtest 3600 IN CNAME realtest.unity
+entomology 3600 IN CNAME uni208v.unity
+maedialup 3600 IN CNAME c30001-2411br.mae
+leevendingbuildingcontroller 3600 IN A 152.7.136.42
+www.cuacsvid 3600 IN CNAME cuacsvid
+*.drupal 3600 IN CNAME web00dh.unity
+golinks.oitdesign 3600 IN A 74.55.59.34
+wolftv 3600 IN A 152.1.51.171
+dev.carboncalculator 3600 IN CNAME cs-ws5-2.cropsci
+fmmcenter 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.ibri 3600 IN CNAME ip-ibri-www.eos
+gti3 3600 IN A 152.1.180.241
+gti4 3600 IN A 152.1.180.244
+gti5 3600 IN A 152.1.180.246
+scale-up 3600 IN CNAME scaleupserver.physics
+distance-test 3600 IN CNAME vip-t02-gen.delta
+nofrills 3600 IN CNAME web00wph.unity
+adac 3600 IN CNAME redirect.eos
+www.qep 3600 IN CNAME web05cp.unity
+test.oit-dev 3600 IN CNAME web01cp.unity
+www.terc 3600 IN CNAME cs-ws5-2.cropsci
+hforward 3600 IN MX 10 ars00srv.unity
+remedy 3600 IN A 152.1.226.114
+remedy 3600 IN MX 10 remedy.ncsu.edu.s9a1.psmtp.com.
+3600 IN MX 20 remedy.ncsu.edu.s9a2.psmtp.com.
+3600 IN MX 30 remedy.ncsu.edu.s9b1.psmtp.com.
+3600 IN MX 40 remedy.ncsu.edu.s9b2.psmtp.com.
+shc-istar-02 3600 IN A 152.7.136.110
+resources.word.press 3600 IN CNAME web01wph.unity
+www.icse 3600 IN CNAME ip-icse-www.eos
+labwrite 3600 IN CNAME uni234v.unity
+min7ef956 3600 IN A 152.1.183.194
+tedx 3600 IN CNAME uni208v.unity
+www.spec 3600 IN CNAME ip-spec-www.eos
+nhand 3600 IN A 152.14.22.40
+packabroad 3600 IN CNAME ncsu-sa.terradotta.com.
+2014.accreditation 3600 IN CNAME web02cp.unity
+pams-cokeglass 3600 IN A 152.1.221.188
+webassign 3600 IN CNAME uni208v.unity
+ws.forages 3600 IN CNAME cs-ws1-2.cropsci
+podtest 3600 IN CNAME uni21aafp.unity
+cuacsvid2 3600 IN A 152.1.168.119
+nomad-nac-south 3600 IN CNAME wired-nomad
+potatoes 3600 IN CNAME web04cp.unity
+keyhaven 3600 IN CNAME web00wph.unity
+smtp 3600 IN A 152.1.2.228
+3600 IN A 152.1.2.229
+3600 IN A 152.1.225.228
+3600 IN A 152.1.225.229
+nclive-org 3600 IN A 152.1.2.251
+crsc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+hp3800dn-eskv.fin 3600 IN CNAME krv-1101-color1.oitclients
+ticketcentral 3600 IN CNAME uni208v.unity
+xrx222779431 3600 IN A 152.1.112.111
+poweron 3600 IN A 152.1.21.5
+qbook 3600 IN A 152.14.127.16
+continuinged 3600 IN CNAME uni208v.unity
+biltmorevendingsandwich 3600 IN A 152.7.136.63
+dev.turfweedmanagement 3600 IN CNAME cs-ws5-2.cropsci
+www.lawncare 3600 IN CNAME cs-ws5-2.cropsci
+scaleup 3600 IN CNAME scaleupserver.physics
+soil 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+onlinedir 3600 IN CNAME uni203v.unity
+custqdb 3600 IN CNAME uni01rdb.unity
+icse 3600 IN CNAME redirect.eos
+waketechbiovc 3600 IN A 152.14.43.28
+webmail-sm 3600 IN CNAME uni207v.unity
+iei1 3600 IN CNAME iei1.oit
+iei2 3600 IN CNAME iei2.oit
+landapplication 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+mailarchive 3600 IN CNAME uni208v.unity
+windowsofopportunity 3600 IN CNAME uni208v.unity
+dev-password 3600 IN A 152.7.112.115
+nccommunitygardens 3600 IN CNAME ararat.ces
+newstudents 3600 IN CNAME web00dh.unity
+ipmnet 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+download 3600 IN CNAME uni218v.unity
+www.tourismextension 3600 IN CNAME uni208v.unity
+futureshock.nnf 3600 IN CNAME futureshock.eos
+sandc-test 3600 IN CNAME web05cp.unity
+goodnight 3600 IN CNAME web05cp.unity
+rent.bookstore 3600 IN CNAME ncstatebookstore.bookrenterstore.com.
+software 3600 IN CNAME web00cp.unity
+rover 3600 IN CNAME dhl2112cap.ittc
+poulsci 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+map1-431mn 3600 IN CNAME ccee-gdt-120.ce
+www.time 3600 IN CNAME uni295v.unity
+pager 3600 IN CNAME uni300v.unity
+mobile 3600 IN CNAME web02cp.unity
+pcms 3600 IN CNAME web05cp.unity
+dev.peanut 3600 IN CNAME cs-ws1-2.cropsci
+www.nilie 3600 IN CNAME web00wph.unity
+treasurer.ofb 3600 IN CNAME web02cp.unity
+nubian 3600 IN A 152.1.51.171
+design-dev 3600 IN CNAME uni320v.unity
+wolfmeeting-admin 3600 IN A 152.7.139.229
+bch00f 3600 IN CNAME bch00f.bch
+net71vms 3600 IN A 152.7.139.80
+www.wireless 3600 IN CNAME uni208v.unity
+www.wildfirecommunities 3600 IN CNAME uni208v.unity
+nathan2 3600 IN A 152.14.22.158
+nathan3 3600 IN A 152.14.22.195
+nathan4 3600 IN A 152.14.22.210
+nathan5 3600 IN A 152.14.22.208
+nathan6 3600 IN A 152.14.22.220
+nathan7 3600 IN A 152.14.22.231
+nathan8 3600 IN A 152.14.22.222
+nathan9 3600 IN A 152.14.22.106
+gwtv 3600 IN CNAME ced1.coe
+cokemachine20oz 3600 IN A 152.1.95.38
+healthweb 3600 IN CNAME healthweb.oit
+res07 3600 IN CNAME laptop2.eos
+trio.dasa-temp 3600 IN CNAME web03cp.unity
+www.caribbean-doc 3600 IN CNAME cipmcf8-1.ent
+ithub-6509-2-vl126 3600 IN A 152.1.222.3
+cuacs15 3600 IN A 152.1.168.20
+NCVPSRouter2NGac 3600 IN A 152.14.22.72
+nccommunitygarden 3600 IN CNAME ararat.ces
+allen 3600 IN A 152.1.89.39
+oitclients 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+beyond-help 3600 IN CNAME web05cp.unity
+hort 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+conference.conference 3600 IN CNAME uni01ja.unity
+time 3600 IN CNAME uni295v.unity
+onece-staff 3600 IN A 152.1.8.102
+dev.vcl 3600 IN CNAME uni246v.unity
+analytics 3600 IN CNAME web.iaa
+cuacs56 3600 IN A 152.1.166.220
+tims 3600 IN CNAME timspublic.tims.ad
+pharma 3600 IN CNAME uni208v.unity
+wolfmeetingadmin 3600 IN A 152.7.139.233
+bioen6 3600 IN CNAME bioen6.bae
+min66f834 3600 IN A 152.1.152.198
+north-nomad 3600 IN A 10.255.100.1
+new-students 3600 IN CNAME web02cp.unity
+scaleupstem 3600 IN A 72.167.232.225
+renci 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+springboard 3600 IN CNAME uni208v.unity
+alertus 3600 IN CNAME alertus.oit
+techfinder 3600 IN CNAME oitttrans.oit
+SmoothieUTV3-Right 3600 IN A 10.116.0.34
+apachetest 3600 IN CNAME cedtest1.coe
+parents 3600 IN CNAME web05cp.unity
+stem 3600 IN CNAME uni354v.unity
+futureshock.photonics 3600 IN CNAME futureshock.eos
+www.agbusinesslaw 3600 IN CNAME uni208v.unity
+crystalisland 3600 IN CNAME 210-intelli-nano.fi
+epscals 3600 IN CNAME epsghl.bae
+dinaeroreader15 3600 IN A 152.7.136.92
+www.peanuts 3600 IN CNAME cs-ws1-2.cropsci
+www.dbgroup 3600 IN CNAME lin-res01.csc
+snowbird 3600 IN A 152.14.126.249
+onboarding 3600 IN CNAME uni299v.unity
+leegw2 3600 IN A 152.1.182.193
+ceprinter-0 3600 IN CNAME l-leming-01.ce
+uctestwin7 3600 IN CNAME OITCOM-363906.oitclients
+secureftp 3600 IN CNAME timspublic.tims.ad
+jaee 3600 IN CNAME web03cp.unity
+www.bells 3600 IN CNAME uni343v.unity
+waketech20 3600 IN A 152.14.43.40
+jaer 3600 IN CNAME web03cp.unity
+www.candacehaiglerlab 3600 IN CNAME cs-ws1-2.cropsci
+kerberos 3600 IN CNAME uni01km.unity
+rdd21.ddi 3600 IN A 152.1.14.37
+futureshock.billboard 3600 IN CNAME futureshock.eos
+ncprvscd 3600 IN CNAME aaccrr-prv.bas
+ed21.ddi 3600 IN A 152.1.14.157
+waketech26 3600 IN A 152.14.43.49
+www.emconnect.emc 3600 IN CNAME web02cp.unity
+majorsandcareers 3600 IN CNAME web00dh.unity
+tompkinscomputinglab 3600 IN CNAME web.chass
+www.tnlc 3600 IN CNAME ip-tnlc-www.eos
+continuingeducation 3600 IN CNAME uni208v.unity
+wiki.expertiza 3600 IN CNAME expertiza.csc
+communityfordiversity 3600 IN CNAME uni208v.unity
+pams00ps 3600 IN CNAME cups00.pams
+stars 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+c10022-208mn 3600 IN CNAME l-leming-01.ce
+udev 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dvr-cf-1 3600 IN A 152.1.182.12
+www.police 3600 IN CNAME uni208v.unity
+pams00ss 3600 IN CNAME pams00ss.pams
+itdapps5-stage 3600 IN CNAME uni336v.unity
+zoomtext 3600 IN CNAME dso.oit
+www.tobacco 3600 IN CNAME cs-ws1-2.cropsci
+webapps-stage 3600 IN CNAME uni336v.unity
+www.jcra 3600 IN CNAME uni208v.unity
+ecommerce 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+onecampus 3600 IN CNAME uni287v.unity
+uni03qss 3600 IN CNAME uni03qss.unity
+dev.wolftech 3600 IN CNAME ip-wolftech-dev.eos
+www.onecard 3600 IN A 198.104.188.168
+www-125 3600 IN CNAME uni201v.unity
+testad 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+wilres0 3600 IN A 152.1.151.70
+bulletin 3600 IN CNAME web04cp.unity
+echo360 3600 IN A 152.14.43.56
+jaws 3600 IN CNAME dso2.oit
+CVMCafeVendingSnack1 3600 IN A 10.116.192.12
+CVMCafeVendingSnack2 3600 IN A 10.116.192.13
+_cuplogin._tcp 3600 IN SRV 10 0 8443 net80cupp.comtech
+pams01ss 3600 IN CNAME pams01ss.pams
+CVMCafeVendingCoke1 3600 IN A 10.116.192.7
+CVMCafeVendingCoke2 3600 IN A 10.116.192.8
+CVMCafeVendingCoke3 3600 IN A 10.116.192.9
+CVMCafeVendingCoke4 3600 IN A 10.116.192.10
+CVMCafeVendingCoke5 3600 IN A 10.116.192.11
+howlingcow 3600 IN CNAME web00wph.unity
+gardner 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cgibin 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+futureshock.jilp.org 3600 IN CNAME futureshock.eos
+homefoodpreservation 3600 IN CNAME uni208v.unity
+tnlc 3600 IN CNAME redirect.eos
+junkmail 3600 IN CNAME uni208v.unity
+futureshock.macro 3600 IN CNAME futureshock.eos
+www.gaming 3600 IN CNAME xvolley-2.csc
+summer 3600 IN CNAME web05cp.unity
+sample.dasa-temp 3600 IN CNAME web03cp.unity
+grains 3600 IN CNAME uni208v.unity
+myphone 3600 IN CNAME net02w.comtech
+rlt41670 3600 IN A 152.1.210.76
+sas 3600 IN CNAME uni208v.unity
+metcalfistaredge0050f90836ff 3600 IN A 152.7.136.137
+chouse-1924-1 3600 IN A 152.7.252.5
+steed 3600 IN CNAME redirect.eos
+jcra 3600 IN CNAME web06cp.unity
+scholars.dasa-temp 3600 IN CNAME web03cp.unity
+www.sdm 3600 IN CNAME sdm.csc
+donotuseissuesonthisip 3600 IN A 152.7.136.144
+ccure3 3600 IN A 152.7.238.50
+rlt41677 3600 IN A 152.1.210.83
+g-pilot 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+www.grad2 3600 IN CNAME gradschoolprod.oit
+alcohol.dasa-temp 3600 IN CNAME web03cp.unity
+rlt41680 3600 IN A 152.1.210.86
+radresidents 3600 IN CNAME radfileshare.cvm
+kmbizhub 3600 IN A 152.1.157.36
+print-rr 3600 IN A 152.1.227.185
+3600 IN A 152.1.227.186
+3600 IN A 152.1.227.187
+3600 IN A 152.7.114.8
+kenscomputer 3600 IN A 152.1.183.158
+center 3600 IN A 152.1.51.68
+info 3600 IN CNAME web01cp.unity
+cisco-lwapp-controller 3600 IN CNAME wmdfhub-wism-9-1.ncstate.net.
+rlt41688 3600 IN A 152.1.210.94
+rlt41690 3600 IN A 152.1.210.96
+tloportal 3600 IN CNAME oitttrans.oit
+staffsenate 3600 IN CNAME web00wph.unity
+imse 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+carrollvendingbuildingcontroller 3600 IN A 152.7.136.36
+sullivanelevatorjuicemachine 3600 IN A 152.7.136.113
+www.nextgen 3600 IN CNAME uni208v.unity
+bjcross-chn 3600 IN A 152.7.252.12
+jabber 3600 IN A 152.1.1.62
+3600 IN A 152.1.1.63
+g2c-sonitrol-nvr 3600 IN A 152.1.131.88
+radcases 3600 IN CNAME cvmrad04ms.cvm
+bigdavelaptop-temp 3600 IN A 152.14.22.85
+mountainhort 3600 IN CNAME ararat.ces
+casperfw 3600 IN A 152.1.217.207
+submit 3600 IN CNAME uni213v.unity
+sites.google 3600 IN CNAME uni208v.unity
+macpro1-tss 3600 IN A 152.1.11.113
+honors 3600 IN CNAME uni208v.unity
+net89webxp 3600 IN A 152.7.139.251
+sullivanlobbycoke20oz 3600 IN A 152.7.136.111
+turfdiseasemanagement 3600 IN CNAME cs-ws5-2.cropsci
+socialgaming 3600 IN CNAME nfsamato-server.csc
+ipmwww 3600 IN CNAME uni208v.unity
+futureshock.wolftech 3600 IN CNAME futureshock.eos
+schaub 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+uae-encoder 3600 IN A 152.1.131.201
+zimride 3600 IN CNAME www.zimride.com.
+nomad-nac-south-1 3600 IN CNAME wired-nomad-1
+nomad-nac-south-2 3600 IN CNAME wired-nomad-2
+cuacsmail 3600 IN A 152.1.168.30
+gforward 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+juniper 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+natural-resources 3600 IN CNAME uni208v.unity
+moodle 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+eitfw5 3600 IN A 152.1.217.201
+www.admissions 3600 IN CNAME uni232v.unity
+amx2100-4101-wired 3600 IN A 152.14.145.22
+net79-cr-base.oit 3600 IN CNAME net79-cr-base.comtech
+webdisclosures 3600 IN CNAME oitttrans.oit
+oncampus 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+g-second 3600 IN TXT "google-site-verification=fSHCradKUg5OO0kZGGn5ONLgolMiguHOkdNQoRV0HXg"
+g-second 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+ipv6 3600 IN CNAME net111vip.comtech
+futureshock.intellimedia 3600 IN CNAME futureshock.eos
+ncsoybeancontest 3600 IN CNAME cs-ws1-2.cropsci
+hostreg 3600 IN CNAME ipam11.ddi
+ncvpsnate 3600 IN A 152.14.22.37
+k1000 3600 IN MX 10 kmail.lib
+vcenter 3600 IN CNAME vm-vc-200.oit
+dbgroup 3600 IN CNAME lin-res01.csc
+iaeste-pc1 3600 IN A 152.1.157.4
+kerberos-master 3600 IN CNAME uni01km.unity
+c10009-416mn 3600 IN CNAME c10009-416mn.ce
+classscape 3600 IN A 152.1.166.38
+wolfvillage-a-vendingcontroller 3600 IN A 152.7.136.80
+vbee 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+iptv 3600 IN CNAME uni208v.unity
+wakettech23 3600 IN A 152.14.43.47
+lez-vfstb-1 3600 IN A 152.1.246.252
+disclosures 3600 IN CNAME oitttrans.oit
+waterquality 3600 IN CNAME uni208v.unity
+svvetwkjbgqa.g-second 500 IN CNAME gv-sve25ht4q7ze3b.dv.googlehosted.com.
+oneceqa-staff 3600 IN A 152.1.8.77
+dancemarathon 3600 IN CNAME uni208v.unity
+www2.metrics 3600 IN CNAME web.iaa
+equella 3600 IN CNAME uni208v.unity
+opensource 3600 IN CNAME uni368v.unity
+services 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.education 3600 IN CNAME education.csc
+provost-temp 3600 IN CNAME web05cp.unity
+billboard 3600 IN CNAME ip-ncsu-billboard.eos
+www.cei 3600 IN CNAME ip-cei-www.eos
+isdn 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+globalplantbreeding 3600 IN CNAME uni208v.unity
+donate 3600 IN CNAME ncsuas-live.convio.net.
+cde 3600 IN CNAME xvolley-2.csc
+shared-mail 3600 IN CNAME uni215v.unity
+rdd22.ddi 3600 IN A 152.1.14.46
+futureshock.tnlc 3600 IN CNAME futureshock.eos
+east-nomad 3600 IN A 10.254.100.1
+www.peanut 3600 IN CNAME cs-ws1-2.cropsci
+www.turf-ims 3600 IN CNAME cs-ws5-2.cropsci
+cimnet 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nathmrg 3600 IN CNAME griegom.bas
+sccm-reports 3600 IN CNAME oit100sccm-rp.oit
+www.socialwork 3600 IN CNAME web.chass
+ncvpscomp1 3600 IN A 152.14.22.41
+des-shopbot 3600 IN A 152.1.246.37
+col-istr-1 3600 IN A 152.7.136.31
+onecard 3600 IN A 198.104.188.168
+weavervendingbuildingcontroller 3600 IN A 152.7.136.72
+nathmsl 3600 IN CNAME labarberam.bas
+cmpentfo-1c0214 3600 IN A 10.68.8.25
+www.nccleantech 3600 IN CNAME web02cp.unity
+gwmini 3600 IN CNAME ced1.coe
+perc 3600 IN A 152.1.122.158
+turf 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+legacy 3600 IN CNAME uni209v.unity
+ipm-www 3600 IN CNAME uni208v.unity
+norfair 3600 IN CNAME bp01db.unity
+hlb105-1924-1 3600 IN A 152.1.11.51
+v3prod.news 3600 IN A 152.1.226.83
+v3prod.news 3600 IN AAAA 2605:100:10::10
+policies 3600 IN CNAME web04cp.unity
+FountainMenuDisplay2 3600 IN A 10.116.64.43
+FountainMenuDisplay3 3600 IN A 10.116.64.44
+www.oldalumnisite 3600 IN CNAME uni223v.unity
+FountainMenuDisplay5 3600 IN A 10.116.64.46
+FountainMenuDisplay6 3600 IN A 10.116.64.47
+FountainMenuDisplay7 3600 IN A 10.116.64.48
+FountainMenuDisplay8 3600 IN A 10.116.64.49
+studentaffairs 3600 IN CNAME web04cp.unity
+itng 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.survey 3600 IN CNAME farnsworth.ctu
+DiningSmoothieUDisplay1 3600 IN A 152.1.90.98
+DiningSmoothieUDisplay2 3600 IN A 152.1.90.99
+DiningSmoothieUDisplay3 3600 IN A 152.1.90.100
+www.poisonousplants 3600 IN CNAME uni208v.unity
+internalaudit 3600 IN CNAME web04cp.unity
+hclabs 3600 IN CNAME web.chass
+itre 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+editor.turfdiseasemanagement 3600 IN CNAME cs-ws5-2.cropsci
+ittc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+delta-dev 3600 IN CNAME vip-d10-wordpress.delta
+uscnomad18 3600 IN A 152.1.63.218
+windhover 3600 IN A 152.1.51.171
+physec 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+tabic 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.continuinged 3600 IN CNAME uni208v.unity
+renoir 3600 IN CNAME renoir.csc
+bioinformatics 3600 IN CNAME weir.statgen
+jordanvizistaredge0050f90846a3 3600 IN A 152.7.136.172
+jordanvizistaredge0050f90846a4 3600 IN A 152.7.136.171
+sysnews 3600 IN TXT "google-site-verification=Ko1CmMWyd-J7fILSBC6SOp489H48bwHb2I1Cesje25U"
+sysnews 3600 IN A 152.1.226.128
+sysnews 3600 IN MX 10 sysnews.ncsu.edu.s9a1.psmtp.com.
+3600 IN MX 20 sysnews.ncsu.edu.s9a2.psmtp.com.
+3600 IN MX 30 sysnews.ncsu.edu.s9b1.psmtp.com.
+3600 IN MX 40 sysnews.ncsu.edu.s9b2.psmtp.com.
+northhallvendingcontroller 3600 IN A 152.7.136.73
+830-031937 3600 IN A 152.14.43.27
+talley 3600 IN CNAME uscservr-usc.usc
+uctestwin81 3600 IN CNAME OITCOM-363907.oitclients
+www.meatgoats 3600 IN CNAME cs-ws1-2.cropsci
+gtismartboard 3600 IN A 152.1.180.203
+constitutionday 3600 IN CNAME uni208v.unity
+g-third 500 IN TXT "google-site-verification=rA2B5PNGyHFQGX2YnOPzhXJdSp5QVx6OMGYSnWM03Yc"
+g-third 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+wired-nomad 3600 IN A 10.253.100.100
+nilie 3600 IN CNAME web00wph.unity
+SmoothieUTV2-Center 3600 IN A 10.116.0.33
+dev.lawncare 3600 IN CNAME cs-ws5-2.cropsci
+freedm 3600 IN CNAME redirect.eos
+snap.cifr 3600 IN CNAME uni208v.unity
+ws.peanut 3600 IN CNAME cs-ws1-2.cropsci
+ci.oia-temp 3600 IN CNAME web04cp.unity
+www3.dbgroup 3600 IN CNAME lin-res01.csc
+sg.students 3600 IN CNAME web00wph.unity
+mypack 3600 IN A 152.1.8.87
+nextgen 3600 IN CNAME uni208v.unity
+chass 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+admissions 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nomad-nac-west-1 3600 IN A 10.251.100.101
+nomad-nac-west-2 3600 IN A 10.251.100.102
+nctest 3600 IN A 152.1.168.115
+www.poole 3600 IN CNAME uni239v.unity
+futureshock.networking 3600 IN CNAME futureshock.eos
+controller1 3600 IN A 152.14.69.31
+controller2 3600 IN A 152.14.69.32
+www.waterquality 3600 IN CNAME uni208v.unity
+www2.msa 3600 IN CNAME web.iaa
+dingo 3600 IN CNAME dingo.che
+uscnomad24 3600 IN A 152.1.63.224
+getontheweb 3600 IN CNAME web00wph.unity
+dsoxserv2 3600 IN A 152.1.25.209
+futureshock.nanospd.org 3600 IN CNAME futureshock.eos
+cvmimageview 3600 IN CNAME risserver2.cvm
+jobs 3600 IN CNAME ncsu.peopleadmin.com.
+advising 3600 IN CNAME web00dh.unity
+dev.billboard 3600 IN CNAME dev.wolftech
+bc21116-din 3600 IN A 152.1.66.115
+www.vulpia 3600 IN CNAME uni208v.unity
+courses 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+capstone 3600 IN CNAME capstonectu.mck
+blogs.biochem 3600 IN CNAME web03cp.unity
+wolfpackpickup.students 3600 IN CNAME web04cp.unity
+agromeck 3600 IN A 152.1.51.171
+ldrps 3600 IN CNAME ldrpsprod.oit
+mrimyhorse 3600 IN CNAME telemedvetris.cvm
+cmsbesmgr 3600 IN CNAME cmsbesmgr.fis
+oia-temp 3600 IN CNAME web04cp.unity
+wordpress 3600 IN CNAME web00wpb.unity
+foamv 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+womhp4650dtalley 3600 IN CNAME WOMENCEN-HA-324-RicohC831DN.oitclients
+net11954set 3600 IN A 152.7.136.91
+netlabs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+unit3 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dev.google 3600 IN CNAME uni317v.unity
+jori 3600 IN CNAME web05cp.unity
+crops 3600 IN CNAME cs-ws1-2.cropsci
+scibls 3600 IN CNAME uni208v.unity
+gubbins 3600 IN CNAME chumba.che
+usda 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+sts 3600 IN CNAME adfs-px01.wolftech.ad
+print-boot 3600 IN A 152.1.227.185
+3600 IN A 152.1.227.186
+3600 IN A 152.1.227.187
+3600 IN A 152.7.114.8
+classeval 3600 IN CNAME clev.oit
+vims 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nctenpercent 3600 IN CNAME web02cp.unity
+im112qa-loginupd 3600 IN A 152.1.18.58
+gatecontroller 3600 IN A 152.1.76.55
+textbook 3600 IN A 152.7.129.62
+phyplt 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ctuonline 3600 IN CNAME ctuonline.mck
+wtprinter1 3600 IN A 152.14.43.20
+ncffa-temp 3600 IN CNAME web00cp.unity
+students 3600 IN CNAME uni208v.unity
+tllomax-grd 3600 IN A 152.1.210.20
+wtprinter5 3600 IN A 152.14.43.24
+wtprinter6 3600 IN A 152.14.43.25
+bells 3600 IN CNAME uni343v.unity
+futureshock.ibri 3600 IN CNAME futureshock.eos
+sullivanelevatorwatermachine 3600 IN A 152.7.136.114
+mckimmoncenter 3600 IN CNAME mckimmoncenter.mck
+bc2105 3600 IN A 152.1.109.21
+sullivanvendingbuildingcontroller 3600 IN A 152.7.136.74
+bc2108 3600 IN A 152.7.136.24
+south-nomad-2 3600 IN A 10.253.100.3
+_xmpp-server._tcp.conference 3600 IN SRV 5 0 5269 uni01ja.unity
+wks2 3600 IN A 152.14.216.21
+polk-1900-2-bch 3600 IN A 152.1.46.123
+rlt39120 3600 IN A 152.1.122.174
+bc2135 3600 IN A 152.7.136.11
+groups.google 3600 IN CNAME uni208v.unity
+bc2145 3600 IN A 152.7.136.14
+bc2146 3600 IN A 152.7.136.15
+bc2147 3600 IN A 152.7.136.16
+rlt39123 3600 IN A 152.1.122.177
+www.planttransformation 3600 IN CNAME cs-ws1-2.cropsci
+wolfxpress 3600 IN CNAME uni208v.unity
+bc2163 3600 IN A 152.7.136.12
+chancellor 3600 IN CNAME uni208v.unity
+nathvdp 3600 IN CNAME parkerd.bas
+futureshock.icse 3600 IN CNAME futureshock.eos
+NCVPSRouter1NGac 3600 IN A 152.14.22.69
+projects.intellimedia 3600 IN CNAME intellimedia.csc
+aerocard13reader 3600 IN A 152.7.136.86
+docs.google 3600 IN CNAME uni208v.unity
+futureshock.spec 3600 IN CNAME futureshock.eos
+www.budget 3600 IN CNAME web04cp.unity
+rlt39134 3600 IN A 152.1.122.188
+sheltonleadership 3600 IN CNAME web03cp.unity
+hvc-card-1 3600 IN A 152.7.136.20
+www.genetics 3600 IN CNAME uni208v.unity
+rlt39136 3600 IN A 152.1.122.190
+seniors 3600 IN CNAME uni208v.unity
+opt-ed 3600 IN CNAME uni208v.unity
+cedweb 3600 IN CNAME ced5.ced
+eos00f 3600 IN CNAME eos00f.unity
+nomad-nac-east-1 3600 IN A 10.254.100.101
+nomad-nac-east-2 3600 IN A 10.254.100.102
+CMPENTFO-05-96-4E 3600 IN A 10.68.8.10
+CMPENTFO-05-96-5B 3600 IN A 10.68.8.9
+3600 IN A 10.68.9.65
+partners1 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+eos02b 3600 IN CNAME eos01db.unity
+packpulse 3600 IN CNAME uni362v.unity
+wolftech 3600 IN CNAME redirect.eos
+www.telemedvetris 3600 IN CNAME telemedvetris.cvm
+history-temp 3600 IN CNAME web00cp.unity
+usc-wsc-macmini1 3600 IN A 152.1.91.190
+eos05f 3600 IN CNAME eos00db.unity
+studentmedia 3600 IN CNAME web05cp.unity
+ncvps-polycom 3600 IN A 152.14.22.165
+www.ldap 3600 IN CNAME uni235v.unity
+www.quantum 3600 IN CNAME ip-quantum-www.eos
+webmail-test 3600 IN CNAME uni207v.unity
+assist 3600 IN CNAME ip-ncsu-assist.eos
+ibri 3600 IN CNAME redirect.eos
+_xmpp-server._tcp 3600 IN SRV 5 0 5269 xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt1.xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt2.xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt3.xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt4.xmpp-server.l.google.com.
+cbt-training 3600 IN CNAME uni208v.unity
+ws.turfid 3600 IN CNAME cs-ws5-2.cropsci
+uhp 3600 IN CNAME web04cp.unity
+undergradresearch.dasa-temp 3600 IN CNAME web03cp.unity
+_xmpp-server._tcp.conference.conference 3600 IN SRV 5 0 5269 uni01ja.unity
+statgen 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+mckimmonistar0050f9013ac0 3600 IN A 152.7.136.141
+grad2 3600 IN CNAME gradschoolprod.oit
+CMPENTFO-13-20-C6 3600 IN A 10.68.8.12
+recreation 3600 IN CNAME web00cp.unity
+ae 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nagios-ng 3600 IN CNAME uni308v.unity
+uni01wct 3600 IN CNAME uni01wct.unity
+baz1-ppa 3600 IN A 152.1.221.135
+eas 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+worms 3600 IN CNAME uni208v.unity
+kenan-temp 3600 IN CNAME web03cp.unity
+rdd11.ddi 3600 IN A 152.1.14.21
+www.aces 3600 IN CNAME web.chass
+technologytrainingsolutions 3600 IN CNAME uni208v.unity
+ns98-ipv6 3600 IN AAAA 2605:100:10::224
+chips 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+sites 3600 IN A 152.1.226.18
+ldap 3600 IN A 152.1.226.117
+cdata 3600 IN A 152.1.166.200
+chiro 3600 IN CNAME uni208v.unity
+www.adac 3600 IN CNAME ip-adac-www.eos
+libraries-staging.online 3600 IN A 152.1.0.232
+invalidhosts 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+brand 3600 IN CNAME web06cp.unity
+turfpathology.plantpath 3600 IN CNAME web00wph.unity
+cmdfhub-6509msfc-2 3600 IN A 152.14.12.1
+jordanistaredge0050f9084031 3600 IN A 152.7.136.163
+jordanistaredge0050f9084033 3600 IN A 152.7.136.162
+jordanistaredge0050f9084034 3600 IN A 152.7.136.164
+globalhealth 3600 IN CNAME uni208v.unity
+kfp-temp 3600 IN CNAME web03cp.unity
+acce 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+csleps 3600 IN CNAME uni208v.unity
+telemedvet 3600 IN CNAME telemedvetris.cvm
+FountainMenuDisplay1 3600 IN A 10.116.64.42
+graph 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+diningcash 3600 IN A 152.14.69.228
+www.climate 3600 IN CNAME pbl.meas
+FountainMenuDisplay4 3600 IN A 10.116.64.45
+seccam 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+nrmasters 3600 IN CNAME uni285v.unity
+www.webmail 3600 IN CNAME uni207v.unity
+vote 3600 IN CNAME uni216v.unity
+disclosureauthorization 3600 IN CNAME oitttrans.oit
+net85webxm 3600 IN A 152.7.139.231
+www.software 3600 IN CNAME software.csc
+athletics 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+feedmill 3600 IN CNAME uni208v.unity
+calendar.google 3600 IN CNAME uni208v.unity
+turffiles 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.gradprod 3600 IN CNAME gradschoolprod.oit
+entrepreneurship 3600 IN CNAME uni208v.unity
+physics 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+futureshock.techies 3600 IN CNAME futureshock.eos
+adfs 3600 IN CNAME adfs-px02.wolftech.ad
+delta-test 3600 IN CNAME vip-t10-wordpress.delta
+fi 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+vista-test 3600 IN CNAME vip-t02-gen.delta
+www.giving 3600 IN CNAME web02cp.unity
+pop-in 3600 IN MX 5 mailer.unity
+honors-temp 3600 IN CNAME web03cp.unity
+waketech10 3600 IN A 152.14.43.30
+waketech11 3600 IN A 152.14.43.31
+waketech12 3600 IN A 152.14.43.32
+waketech13 3600 IN A 152.14.43.33
+c00027-131dan 3600 IN CNAME c00027-131dan.eos
+waketech15 3600 IN A 152.14.43.35
+waketech16 3600 IN A 152.14.43.36
+rollout-mgr 3600 IN A 152.1.217.219
+waketech18 3600 IN A 152.14.43.38
+waketech19 3600 IN A 152.14.43.39
+waketech21 3600 IN A 152.14.43.41
+waketech22 3600 IN A 152.14.43.46
+allcampus 3600 IN A 199.238.156.206
+waketech25 3600 IN A 152.14.43.50
+acsad 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+innovation 3600 IN CNAME uni208v.unity
+drupal 3600 IN CNAME web02cp.unity
+waketech42 3600 IN A 152.14.43.8
+waketech43 3600 IN A 152.14.43.9
+itdapps 3600 IN CNAME uni302v.unity
+onecedev 3600 IN A 152.1.8.74
+dagate2istaredge0050f9084679 3600 IN A 152.7.136.168
+acsdr 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+bc2118-din 3600 IN A 152.1.162.81
+cc00db 3600 IN CNAME uni00db.unity
+wins 3600 IN CNAME uni00smb.unity
+www.cam 3600 IN CNAME uni208v.unity
+webtools 3600 IN CNAME redirect.eos
+anabaena 3600 IN A 152.1.174.44
+wolfvillage-c-vendingcontroller 3600 IN A 152.7.136.64
+www.aeres 3600 IN CNAME aeres-fpd.fis
+bu-2130-card 3600 IN A 10.118.32.91
+www.cdp 3600 IN CNAME multires.eos
+ppath 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+biotech 3600 IN CNAME shs03lamp.unity
+bc3101 3600 IN A 152.7.136.13
+poehub-6509msfc-1 3600 IN A 152.1.2.10
+3600 IN A 152.1.9.56
+www.lgtag 3600 IN CNAME cs-ws1-2.cropsci
+research 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.cfl 3600 IN CNAME uni208v.unity
+aerl 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cims 3600 IN CNAME web01cp.unity
+cc01db 3600 IN CNAME uni01db.unity
+carestream 3600 IN CNAME befsupport.bef
+serial 3600 IN CNAME serial.cc
+aeroallcampusreader-vetschoolterryctr 3600 IN A 152.7.138.30
+CMPENTFO-73-A3-D4 3600 IN A 10.68.8.7
+6ucnem6dad6t 3600 IN CNAME gv-j5gxjipllnpkcd.dv.googlehosted.com.
+www.sports-turf 3600 IN CNAME cs-ws5-2.cropsci
+usi 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+btec-card-019 3600 IN A 152.7.137.51
+dnstest 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+fbm 3600 IN CNAME web00dh.unity
+www.scaleupstem 3600 IN A 72.167.232.225
+glbt-temp 3600 IN CNAME web03cp.unity
+wired-nomad-1 3600 IN A 10.253.100.101
+wired-nomad-2 3600 IN A 10.253.100.102
+futureshock.microarch.org 3600 IN CNAME futureshock.eos
+rlt39097 3600 IN A 152.1.122.151
+rlt39109 3600 IN A 152.1.122.163
+rlt39112 3600 IN A 152.1.122.166
+cicsnc 3600 IN CNAME cicsnc.org.
+rlt39114 3600 IN A 152.1.122.168
+south-nomad-1 3600 IN A 10.253.100.2
+rlt39116 3600 IN A 152.1.122.170
+rlt39117 3600 IN A 152.1.122.171
+rlt39119 3600 IN A 152.1.122.173
+wknc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+pcsetup 3600 IN A 152.1.210.51
+rlt39124 3600 IN A 152.1.122.178
+rlt39126 3600 IN A 152.1.122.180
+rlt39127 3600 IN A 152.1.122.181
+rlt39128 3600 IN A 152.1.122.182
+rlt39130 3600 IN A 152.1.122.184
+rlt39131 3600 IN A 152.1.122.185
+rlt39133 3600 IN A 152.1.122.187
+cc02db 3600 IN CNAME uni02db.unity
+rlt39135 3600 IN A 152.1.122.189
+AlexanderSnackVending 3600 IN A 10.116.64.51
+transportationlnxbuildingcontroller 3600 IN A 152.7.136.71
+cuacs 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+cuacs 3600 IN A 152.1.84.235
+www.cte 3600 IN CNAME itreweb.oit
+usc-wsc-macmini2 3600 IN A 152.1.91.191
+usc-wsc-macmini3 3600 IN A 152.1.91.192
+www2.dbgroup 3600 IN CNAME lin-res01.csc
+quantum 3600 IN CNAME redirect.eos
+www.eda 3600 IN CNAME ip-eda-www.eos
+futureshock.advancedspacetech.org 3600 IN CNAME futureshock.eos
+spec 3600 IN CNAME redirect.eos
+advancement-services 3600 IN CNAME uni374v.unity
+cybersecurity 3600 IN CNAME multisite.eos
+mail 3600 IN NS md91.ddi
+3600 IN NS rdd12.ddi
+3600 IN NS rdd21.ddi
+3600 IN NS rdd22.ddi
+3600 IN NS rdd31.ddi
+3600 IN NS rdd32.ddi
+3600 IN NS rdd41.ddi
+3600 IN NS rdd42.ddi
+3600 IN NS rdd11.ddi
+map1 3600 IN CNAME ccee-gdt-120.ce
+insects 3600 IN CNAME uni208v.unity
+whois 3600 IN CNAME ldap
+east-nomad-1 3600 IN A 10.254.100.2
+east-nomad-2 3600 IN A 10.254.100.3
+protectthepack 3600 IN CNAME web03cp.unity
+Tammywindowslaptop 3600 IN A 152.14.22.9
+www.dsi 3600 IN CNAME lin-res01.csc
+west-nomad-2 3600 IN A 10.251.100.3
+dev.turf-ims 3600 IN CNAME cs-ws5-2.cropsci
+bp00db 3600 IN CNAME bp00db.unity
+www.emc 3600 IN CNAME emc.cvm
+www.wolftech 3600 IN CNAME ip-wolftech-www.eos
+maps 3600 IN CNAME ip-webtools-www.eos
+www.dvm 3600 IN CNAME uni346v.unity
+*.wordpress 3600 IN CNAME web00wpb.unity
+mbio 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+smdfhub-6509-2 3600 IN A 152.1.210.66
+www.smallgrains 3600 IN CNAME cs-ws1-2.cropsci
+oit-dev 3600 IN CNAME web01cp.unity
+math 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+workthatmatters 3600 IN CNAME web04cp.unity
+www.canadagoose 3600 IN CNAME uni208v.unity
+updates.solaris 3600 IN CNAME uni352v.unity
+www.erm 3600 IN CNAME uni208v.unity
+social 3600 IN CNAME web01cp.unity
+designtech 3600 IN CNAME xvolley-2.csc
+jordanvizistaredge0050f90846a2 3600 IN A 152.7.136.170
+epartners 3600 IN CNAME uni208v.unity
+crp42515set 3600 IN A 152.7.93.40
+rdd12.ddi 3600 IN A 152.1.14.30
+waketech19cap 3600 IN A 152.14.43.44
+poole 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+getinvolved 3600 IN CNAME clvanity5.collegiatelink.net.
+nc-climate 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+onece 3600 IN A 152.1.8.101
+fgl 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+spia 3600 IN CNAME spia-ncsu-edu.secure39.ezhostingserver.com.
+sciences 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+wssnc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+moderator.g-pilot 3600 IN CNAME ghs.google.com.
+nomad-nac-north-1 3600 IN A 10.255.100.101
+nomad-nac-north-2 3600 IN A 10.255.100.102
+www.fsi 3600 IN CNAME webserv1.tx
+dinsnackvend 3600 IN A 152.1.221.190
+trn-gate-ctl-coliseum 3600 IN A 152.7.136.10
+cent-nomad 3600 IN A 10.252.100.1
+tuckervendingcontroller 3600 IN A 152.7.136.75
+technician 3600 IN A 152.1.51.171
+www.ftp 3600 IN CNAME uni208v.unity
+www.sustainable-ag 3600 IN CNAME cs-ws1-2.cropsci
+climate 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+itre1-dev 3600 IN CNAME itreweb.oit
+test2gator 3600 IN A 152.1.58.195
+spaces.ms-pilot 3600 IN CNAME go.domains.live.com.
+dev.golinks 3600 IN CNAME uni297v.unity
+_xmpp-server._tcp.g-pilot 3600 IN SRV 5 0 5269 xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt1.xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt2.xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt3.xmpp-server.l.google.com.
+3600 IN SRV 20 0 5269 alt4.xmpp-server.l.google.com.
+jordannewcoke20oz 3600 IN A 152.7.136.55
+nccleantech 3600 IN CNAME web02cp.unity
+meas 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+acnvend20 3600 IN A 152.7.136.40
+execportal2 3600 IN CNAME oitttrans.oit
+families 3600 IN CNAME web05cp.unity
+report 3600 IN A 152.1.168.120
+www.cae-r 3600 IN CNAME ip-cae-r-www.eos
+www.ibm 3600 IN CNAME ip-ibm-www.eos
+www.converge 3600 IN CNAME itreweb.oit
+amx2100-4107-wired 3600 IN A 152.14.145.20
+globalhealth.apps.oia 3600 IN CNAME web02cp.unity
+nom0036852 3600 IN A 152.14.21.140
+nom0036853 3600 IN A 152.14.21.141
+nom0036854 3600 IN A 152.14.21.142
+nom0036855 3600 IN A 152.14.21.143
+wolfbytes 3600 IN CNAME web05cp.unity
+test.oit-dev.ncsu.edu 3600 IN CNAME web01cp.unity
+jabberupdate 3600 IN CNAME net01vbkup2.comtech
+www.cadence 3600 IN CNAME ip-cadence-www.eos
+cg-2614-card 3600 IN A 152.7.136.32
+meso 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+mcklobby3 3600 IN A 152.1.84.88
+te 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+forum 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+onecedev-webservices 3600 IN A 152.1.8.80
+safety 3600 IN CNAME safety.oit
+mackaylab 3600 IN CNAME uni208v.unity
+th 3600 IN CNAME astaroth.unity
+classtech 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+waketech20cap 3600 IN A 152.14.43.45
+ua 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+www.itd 3600 IN CNAME uni316v.unity
+cmdfhub-6509-1 3600 IN A 152.14.46.194
+engineeringonline 3600 IN CNAME ip-ncsu-engineeringonline.eos
+csleps.dasa-temp 3600 IN CNAME web03cp.unity
+tcell 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+mgim 3600 IN CNAME uni208v.unity
+futureshock.activedirectory 3600 IN CNAME futureshock.eos
+dsoxserv 3600 IN A 152.1.25.208
+fellowships 3600 IN CNAME web00dh.unity
+cates-plant1 3600 IN A 152.1.93.162
+cates-plant2 3600 IN A 152.1.93.161
+cates-plant3 3600 IN A 152.1.93.163
+techincubator 3600 IN CNAME multisite.eos
+gdrive 3600 IN CNAME uni208v.unity
+ws.turfselect 3600 IN CNAME cs-ws5-2.cropsci
+sca 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+kludgehold 3600 IN A 152.1.215.248
+fms-bostian1 3600 IN A 152.1.173.3
+fms-bostian2 3600 IN A 152.1.173.4
+c00027 3600 IN CNAME c00027-131dan.eos
+wls 3600 IN CNAME wls.csc
+extensionnews 3600 IN CNAME uni208v.unity
+av00 3600 IN CNAME av00.oit
+av01 3600 IN CNAME av01.oit
+av02 3600 IN CNAME av02.oit
+futureshock.webtools 3600 IN CNAME futureshock.eos
+wildfirecommunities 3600 IN CNAME uni208v.unity
+bc-allcampus 3600 IN A 152.7.136.26
+www.carboncalculator 3600 IN CNAME cs-ws5-2.cropsci
+www.windowsofopportunity 3600 IN CNAME uni208v.unity
+cimsdev.poole 3600 IN CNAME uni332v.unity
+www.miso 3600 IN CNAME miso.fi
+www.mac 3600 IN CNAME uni208v.unity
+jordannewcoke20oz2ndmachine 3600 IN A 152.7.136.67
+keyserver-11 3600 IN CNAME uni24bafp.unity
+btec-120-vc 3600 IN A 152.14.43.55
+velocity 3600 IN CNAME ip-ncsu-velocity.eos
+biltmorevendingcoffee 3600 IN A 152.7.136.62
+seccsrvcs 3600 IN CNAME cs-ws1.cropsci
+horticulture 3600 IN CNAME uni208v.unity
+mail.g-pilot 3600 IN A 152.1.226.18
+ldap-master 3600 IN CNAME uni00ds.unity
+dining 3600 IN CNAME wciadmin114.wingswept.com.
+www.weedscience 3600 IN CNAME cs-ws1-2.cropsci
+pdp-temp-davetest 3600 IN A 152.14.11.204
+fms-dan319lab 3600 IN A 152.1.157.3
+www.lps 3600 IN CNAME uni208v.unity
+inventiondisclosure 3600 IN CNAME oitttrans.oit
+wolfvillage-g-vendingcontroller 3600 IN A 152.7.136.81
+wol 3600 IN CNAME net109vip.comtech
+cokevendinngwestdeckasset566771 3600 IN A 152.7.136.133
+qepblog.accreditation 3600 IN CNAME web00wph.unity
+campaign 3600 IN CNAME uni257v.unity
+wolfpaw 3600 IN CNAME admprosweb4.oit
+pams-cokebott 3600 IN A 152.1.221.189
+www.mnr 3600 IN CNAME uni285v.unity
+admin01.drupal 3600 IN CNAME web01dh.unity
+miso 3600 IN CNAME miso.fi
+schaub-card-1 3600 IN A 152.7.136.17
+schaub-card-2 3600 IN A 152.7.136.18
+west-nomad-1 3600 IN A 10.251.100.2
+www.msa 3600 IN CNAME web.iaa
+admission 3600 IN CNAME uni232v.unity
+googleffffffffb917fd5c.gforward 3600 IN CNAME google.com.
+berry-card-1 3600 IN A 152.7.136.21
+www-records 3600 IN CNAME regweb.oit
+polk-1900-1-bch 3600 IN A 152.1.46.118
+whatisthis001 3600 IN A 152.7.136.130
+whatisthis002 3600 IN A 152.7.136.131
+c00301 3600 IN CNAME c00301-414poe.eos
+trottotrophy 3600 IN CNAME vip-trottotrophy.delta
+www.atec 3600 IN CNAME ip-atec-www.eos
+go.oitdesign 3600 IN A 74.55.59.34
+www.nnf 3600 IN CNAME ip-nnf-www.eos
+www.continuingeducation 3600 IN CNAME uni208v.unity
+www.macro 3600 IN CNAME ip-macro-www.eos
+genetics 3600 IN CNAME uni208v.unity
+ncai 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ncai 3600 IN A 152.1.51.101
+ncbg 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+library 3600 IN A 152.14.136.38
+webapps-dev 3600 IN CNAME uni337v.unity
+bsetser 3600 IN A 152.14.22.169
+c00361 3600 IN CNAME c00361-227dan.eos
+cacc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+soyvar 3600 IN CNAME cs-ws1-2.cropsci
+asci 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+turfdiseaseid 3600 IN CNAME cs-ws5-2.cropsci
+pa-ce02 3600 IN CNAME ccee-dt-07.ce
+_xmpp-client._tcp.conference 3600 IN SRV 5 0 5222 uni01ja.unity
+admin02.drupal 3600 IN CNAME web02dh.unity
+iccrime 3600 IN CNAME arbiter.csc
+kenan 3600 IN CNAME web03cp.unity
+ncvpsprinter1 3600 IN A 10.146.32.83
+ncvpsprinter2 3600 IN A 152.14.22.138
+caribbean-doc 3600 IN A 152.14.68.8
+rlt39096 3600 IN A 152.1.122.150
+info.broadcaster 3600 IN CNAME web00wph.unity
+campusrec 3600 IN CNAME crecsrvr-ped.usc
+www.ccee 3600 IN CNAME ip-ccee-www.eos
+geneticengsoc 3600 IN CNAME uni208v.unity
+emaildev 3600 IN A 152.1.226.140
+bilmoresnackmachine 3600 IN A 152.7.136.61
+crp42516set 3600 IN A 152.7.93.41
+arrc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+aventferrydvendingsnack 3600 IN A 152.7.136.90
+www.analytics 3600 IN CNAME web.iaa
+www.cchs 3600 IN CNAME cno.unity
+allcamptmp40 3600 IN A 152.1.71.40
+allcamptmp41 3600 IN A 152.1.71.41
+ncb-prepared-tmp 3600 IN CNAME web01cp.unity
+ccht.ccee 3600 IN CNAME multires.eos
+dairy 3600 IN CNAME uni208v.unity
+arts 3600 IN CNAME web00cp.unity
+uimprove 3600 IN CNAME uni208v.unity
+cals 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+atec 3600 IN CNAME redirect.eos
+bigdave-laptop-temp 3600 IN A 152.14.75.240
+www.news.designgraphics 3600 IN CNAME ghs.google.com.
+caldwell.temp 3600 IN CNAME uni263v.unity
+aspsa.dasa-temp 3600 IN CNAME web03cp.unity
+workmatters 3600 IN CNAME web02cp.unity
+homecoming 3600 IN CNAME uni251v.unity
+ncrc 3600 IN CNAME uni208v.unity
+www.forage 3600 IN CNAME cs-ws1-2.cropsci
+www.ovt 3600 IN CNAME cs-ws1-2.cropsci
+ncsc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+NCVPSElizabeth\032comp1 3600 IN A 152.14.22.57
+gmail.google 3600 IN CNAME uni208v.unity
+hitec 3600 IN CNAME uni208v.unity
+ws.turfweedmanagement 3600 IN CNAME cs-ws5-2.cropsci
+casl 3600 IN CNAME ip-ncsu-casl.eos
+agbusinesslaw 3600 IN CNAME uni208v.unity
+www.xray 3600 IN CNAME xray.chem
+wolf 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+vl2215-dc-6509-fwsm-1 3600 IN A 152.1.18.1
+catv 3600 IN CNAME cable.unity
+c900v2-dialer-104c 3600 IN A 152.7.137.100
+oneceqa 3600 IN A 152.1.8.76
+www.google 3600 IN CNAME uni208v.unity
+bks-cam-2 3600 IN A 172.24.2.8
+bernold 3600 IN A 152.1.93.160
+bp02db 3600 IN CNAME bp02db.unity
+ccfn 3600 IN CNAME uni031v.unity
+mmrc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+btec-card1 3600 IN A 152.7.137.50
+cr1-cpp-conf.voip 3600 IN A 10.145.46.254
+google.oit-dev 3600 IN CNAME web01cp.unity
+www.cefs 3600 IN CNAME cs-ws1-2.cropsci
+carmichaelistarpro0050f900808d 3600 IN A 152.7.136.145
+myacdreports 3600 IN CNAME nbvhost-1.comtech
+cadence 3600 IN CNAME redirect.eos
+CVMVendingSmallAnimalCoke 3600 IN A 10.116.192.16
+www.t2i2 3600 IN CNAME hn7nxq1.ced
+panhellenic.greeklife 3600 IN CNAME web00wph.unity
+fyc 3600 IN CNAME web00dh.unity
+ccure-monitor 3600 IN A 152.1.90.14
+CVMVendingSmallAnimalSnack 3600 IN A 10.116.192.17
+nagios 3600 IN CNAME uni308v.unity
+camraleigh 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+dample.dasa-temp 3600 IN CNAME web03cp.unity
+rlt41664 3600 IN A 152.1.210.70
+rlt41665 3600 IN A 152.1.210.71
+rlt41666 3600 IN A 152.1.210.72
+rlt41667 3600 IN A 152.1.210.73
+rlt41668 3600 IN A 152.1.210.74
+rlt41669 3600 IN A 152.1.210.75
+rlt41671 3600 IN A 152.1.210.77
+rlt41672 3600 IN A 152.1.210.78
+rlt41673 3600 IN A 152.1.210.79
+rlt41674 3600 IN A 152.1.210.80
+rlt41675 3600 IN A 152.1.210.81
+rlt41676 3600 IN A 152.1.210.82
+compliance 3600 IN CNAME web00wph.unity
+rlt41678 3600 IN A 152.1.210.84
+rlt41679 3600 IN A 152.1.210.85
+rlt41681 3600 IN A 152.1.210.87
+rlt41682 3600 IN A 152.1.210.88
+rlt41683 3600 IN A 152.1.210.89
+rlt41684 3600 IN A 152.1.210.90
+rlt41685 3600 IN A 152.1.210.91
+rlt41686 3600 IN A 152.1.210.92
+rlt41687 3600 IN A 152.1.210.93
+goldvendingbuildingcontroller 3600 IN A 152.7.136.38
+rlt41689 3600 IN A 152.1.210.95
+rlt41691 3600 IN A 152.1.210.97
+rlt41692 3600 IN A 152.1.210.98
+rlt41693 3600 IN A 152.1.210.99
+rlt41694 3600 IN A 152.1.210.100
+ns99-ipv6 3600 IN AAAA 2605:100:10::225
+sbpoctst.oit 3600 IN A 10.32.11.31
+aeres 3600 IN CNAME aeres-fpd.fis
+nets 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+c13104 3600 IN CNAME bdphilli-182.bae
+www 3600 IN A 152.1.227.241
+3600 IN A 152.1.226.10
+3600 IN A 152.1.227.243
+3600 IN A 152.1.227.242
+www 3600 IN AAAA 2605:100:10::10
+c13109 3600 IN CNAME clscache-wl203.bae
+c13111 3600 IN CNAME boyette-111.bae
+news 3600 IN A 152.1.226.83
+news 3600 IN AAAA 2605:100:10::10
+sim.scm 3600 IN CNAME sim.com
+cedialup 3600 IN CNAME l-leming-01.ce
+brickyard 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+mosa 3600 IN CNAME mosa.unity
+metalpc 3600 IN A 152.1.122.157
+www.organicgrains 3600 IN CNAME cs-ws1-2.cropsci
+calendar.g-pilot 3600 IN A 152.1.226.18
+t2i2 3600 IN CNAME hn7nxq1.ced
+ubo.ofb 3600 IN CNAME web03cp.unity
+waketech-cam-1 3600 IN A 152.14.43.51
+waketech-cam-2 3600 IN A 152.14.43.52
+c13201 3600 IN CNAME weaver04.bae
+wic-stage 3600 IN CNAME resnet01srv.unity
+c13205 3600 IN CNAME weaver11.bae
+c13206 3600 IN CNAME weaver10.bae
+wolfware 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+hesiod 3600 IN CNAME eos00ns.eos
+realaudio 3600 IN CNAME uni01wm.unity
+radstudents 3600 IN CNAME radfileshare.cvm
+net86webxa 3600 IN A 152.7.139.232
+ontrack 3600 IN CNAME cezanne.csc
+cesr 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+bragawvendingcontrol 3600 IN A 152.7.136.69
+pdp-comtrol 3600 IN A 152.14.11.200
+time-3 3600 IN CNAME uni02ntp.unity
+mail-relay 3600 IN A 152.1.2.228
+3600 IN A 152.1.2.229
+3600 IN A 152.1.225.228
+3600 IN A 152.1.225.229
+itdapps5-dev 3600 IN CNAME uni337v.unity
+gatecontrollercol 3600 IN A 152.1.134.10
+researchpark.centennial 3600 IN CNAME uni258v.unity
+sul0050f90818ea 3600 IN A 152.7.136.201
+conference 3600 IN CNAME uni01ja.unity
+NCVPSMichellesComp 3600 IN A 152.14.22.66
+www.cifr 3600 IN CNAME fastlinux.cms500.com.
+facultyombuds 3600 IN CNAME web00wph.unity
+afc-istar-magnolia 3600 IN A 152.7.136.104
+honors-vfstb-1 3600 IN A 152.1.43.200
+istarrearblueridge0050f9083cab 3600 IN A 152.7.138.37
+www.invasivespecies 3600 IN CNAME cs-ws1-2.cropsci
+jbnesbi2-fd130-test 3600 IN A 152.7.212.10
+*.ofb 3600 IN CNAME web04cp.unity
+activedirectory 3600 IN CNAME ip-ncsu-activedirectory.eos
+cedvideo 3600 IN CNAME ced-vid-200.ced
+qa.selfserviceidm 3600 IN CNAME uni208v.unity
+dev.turfdiseasemanagement 3600 IN CNAME cs-ws5-2.cropsci
+ahecohort 3600 IN CNAME uni322v.unity
+next-catalog 3600 IN CNAME ncsu-next.courseleaf.com.
+assessment.dasa-temp 3600 IN CNAME web03cp.unity
+bb-boot 3600 IN CNAME bb-boot.unity
+testwebk 3600 IN A 152.1.51.71
+economics 3600 IN CNAME uni208v.unity
+km360 3600 IN A 152.1.228.151
+googleffffffffb97139a3.g-pilot 3600 IN CNAME google.com.
+futureshock.adac 3600 IN CNAME futureshock.eos
+metcalfvendingbuildingcontroller 3600 IN A 152.7.136.43
+msr3 3600 IN MX 10 1906108907.mail.exchangelabs.com.
+socialwork 3600 IN CNAME web.chass
+Admin3CokeVend 3600 IN A 10.116.64.9
+yourwildlife 3600 IN CNAME uni208v.unity
+www.wit 3600 IN CNAME cezanne.csc
+CMPENTFO-B5-51-3C 3600 IN A 10.68.10.246
+3600 IN A 10.68.8.6
+3600 IN A 152.14.144.76
+smdfhub-6509msfc-1 3600 IN A 152.1.91.1
+centeralt 3600 IN A 152.1.51.95
+education 3600 IN CNAME education.csc
+890-031718 3600 IN A 152.14.43.61
+890-031720 3600 IN A 152.14.43.4
+890-031721 3600 IN A 152.14.43.6
+intellimedia 3600 IN CNAME redirect.eos
+akhande-113dan 3600 IN A 152.1.58.9
+cifr 3600 IN CNAME fastlinux.cms500.com.
+tempwolfmeeting 3600 IN A 152.7.139.245
+tvkingsb-temp-iptv-test 3600 IN A 152.1.91.254
+bp01db 3600 IN CNAME bp01db.unity
+sports-turf 3600 IN CNAME cs-ws5-2.cropsci
+centennial 3600 IN CNAME uni258v.unity
+hpc 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+police 3600 IN CNAME uni208v.unity
+ocl2 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+data1 3600 IN A 152.1.166.201
+data2 3600 IN A 152.1.166.202
+wphtest.oitdesign 3600 IN CNAME web00wph.unity
+data4 3600 IN A 152.1.166.204
+data5 3600 IN A 152.1.166.205
+data7 3600 IN A 152.1.166.207
+bp00ro 3600 IN CNAME bp00ro.unity
+cae-r 3600 IN CNAME redirect.eos
+crp42517set 3600 IN A 152.7.93.42
+online 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+keyserver-1 3600 IN CNAME uni24aafp.unity
+south-nomad 3600 IN A 10.253.100.1
+magnoliaapctest00204a6857d4 3600 IN A 152.7.136.148
+cipm 3600 IN CNAME cipmcf8-1.ent
+ns10 600 IN A 152.1.14.149
+ns11 600 IN A 152.1.14.157
+ns12 3600 IN A 152.46.13.39
+fountainpcfrontcounterdisplay 3600 IN A 152.7.136.93
+sullivanlobbysnack20oz 3600 IN A 152.7.136.112
+admisstmp 3600 IN CNAME uni232v.unity
+aerothompsonticketreader 3600 IN A 152.7.136.46
+ithub-6509msfc-1 3600 IN A 152.1.2.7
+3600 IN A 152.1.3.12
+3600 IN A 152.1.9.160
+3600 IN A 152.1.78.129
+btec 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+ns60 3600 IN A 10.36.1.5
+ns61 3600 IN A 10.32.1.5
+time-1 3600 IN CNAME uni00ntp.unity
+time-2 3600 IN CNAME uni01ntp.unity
+campusenterprises 3600 IN CNAME web04cp.unity
+bp01ro 3600 IN CNAME bp01ro.unity
+webmaildev 3600 IN CNAME uni214v.unity
+www2.open 3600 IN CNAME web.iaa
+890-031936 3600 IN A 152.14.43.11
+bp00d 3600 IN CNAME bp00db.unity
+smdf-apclight-1 3600 IN A 152.7.136.28
+ns98 3600 IN A 152.1.5.224
+ns99 3600 IN A 152.1.5.225
+bp01d 3600 IN CNAME bp01db.unity
+dasa 3600 IN NS ed11.ddi
+3600 IN NS ed21.ddi
+3600 IN NS ed31.ddi
+bp02d 3600 IN CNAME bp02db.unity
+data 3600 IN A 152.1.168.199
+www.natural-resources 3600 IN CNAME uni228v.unity
+engr-min-hp5n 3600 IN CNAME pa-235-2.eos
+bks-1cam 3600 IN A 172.24.2.7
+www.achieve 3600 IN CNAME uni221v.unity
+mailserv 3600 IN CNAME mstor100.oit

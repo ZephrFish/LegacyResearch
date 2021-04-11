@@ -1,0 +1,35 @@
+@ 100 IN SOA dns admin 2014050501 10800 900 604800 86400
+@ 100 IN A 212.34.239.162
+@ 100 IN NS ns1
+100 IN NS ns2
+@ 100 IN MX 10 seua-am.mail.protection.outlook.com.
+@ 100 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+tm 100 IN A 212.34.239.162
+mul 100 IN A 212.34.239.166
+ns1 100 IN A 212.34.239.165
+ns2 100 IN A 212.34.239.179
+math 100 IN A 212.34.239.162
+electrical 100 IN A 212.34.239.162
+www.mail 100 IN CNAME mail
+mail 100 IN CNAME mail.office365.com.
+www.electrical 100 IN CNAME electrical
+www.qa 100 IN CNAME qa
+autodiscover 100 IN CNAME autodiscover.outlook.com.
+www.vestnik 100 IN CNAME banber
+www.garden 100 IN CNAME garden
+garden 100 IN A 212.34.239.162
+www.eltech 100 IN CNAME eltech
+eltech 100 IN A 212.34.239.162
+ftp 100 IN A 212.34.239.162
+www.mul 100 IN CNAME mul
+www 100 IN A 212.34.239.162
+vestnik 100 IN CNAME banber
+www.exam 100 IN CNAME exam
+qa 100 IN A 212.34.239.171
+www.tm 100 IN CNAME tm
+exam 100 IN A 212.34.239.162
+www.banber 100 IN CNAME banber
+banber 100 IN A 212.34.239.162
+proceedings 100 IN CNAME banber
+www.proceedings 100 IN CNAME banber
+www.math 100 IN CNAME math

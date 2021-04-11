@@ -1,0 +1,17 @@
+@ 86400 IN SOA ns201.arfitech.com. devnull.sourcedns.com. 2014041301 86400 7200 3600000 86400
+@ 300 IN TXT "v=spf1 a mx ip4:50.28.18.39 ?all"
+@ 300 IN MX 10 mx3.aamranetworks.com.
+300 IN MX 0 mail
+300 IN MX 20 mx1.aamranetworks.com.
+@ 86400 IN NS ns201.arfitech.com.
+86400 IN NS ns202.arfitech.com.
+@ 14400 IN A 67.225.146.147
+default._domainkey 300 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAK7hfGWHFAWOgDppg+Nh/KqaYupnh8bR41OzDhrHJTEvQ1MIEGkluvmLrDMvcSofJMmEZrU9MOg9nUUeaNIiVDM3zQjtS7f8gdK0iRHsrzfZWe6A1Hc4yxrd9oUij6k0twIDAQAB;"
+webdisk 14400 IN A 67.225.146.147
+ftp 14400 IN A 67.225.146.147
+cpanel 14400 IN A 67.225.146.147
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN A 103.4.67.67
+webmail 14400 IN A 103.4.67.67
+whm 300 IN A 67.225.146.147

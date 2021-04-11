@@ -1,0 +1,36 @@
+@ 3600 IN SOA sirio hfhernan 2013030220 14400 3600 1209600 3600
+@ 3600 IN TXT "google-site-verification=AReEM5T6mtDLhzFz7aVj1aY-By9vi7pTYykCAv2BXkI"
+@ 3600 IN NS vega
+3600 IN NS sirio
+@ 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+@ 3600 IN A 200.33.171.77
+sagitario8 3600 IN CNAME sagitario
+sirio 3600 IN A 200.33.171.1
+sistemas 3600 IN CNAME dsc
+dsc 3600 IN A 200.33.171.20
+denebvirtual 3600 IN A 200.33.171.77
+abasicas 3600 IN CNAME deneb
+calendar 3600 IN CNAME ghs.googlehosted.com.
+antares 3600 IN A 200.33.171.2
+mail 3600 IN CNAME ghs.googlehosted.com.
+elec 3600 IN CNAME deneb
+deneb 3600 IN A 200.33.171.7
+aldebaran 3600 IN A 200.33.171.15
+hypothalamus 3600 IN A 200.33.171.59
+ccomputo 3600 IN CNAME deneb
+www 3600 IN CNAME denebvirtual
+cursos 3600 IN CNAME deneb
+docs 3600 IN CNAME ghs.googlehosted.com.
+libra 3600 IN A 200.33.171.54
+edudistancia 3600 IN A 200.33.171.67
+i2 3600 IN CNAME deneb
+sagitario 3600 IN A 200.33.171.65
+NHZVGO74SH24 3600 IN CNAME gv-ZUCFBKIXS4TGS4.dv.googlehosted.com.
+clima 3600 IN A 200.33.171.58
+tekhne 3600 IN CNAME deneb
+delfin 3600 IN A 200.33.171.21
+vega 3600 IN A 200.33.171.8

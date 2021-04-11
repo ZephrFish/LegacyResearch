@@ -1,0 +1,6 @@
+@ 604800 IN SOA ns root.ucad.sn. 2014020703 604800 86400 2419200 604800
+@ 604800 IN NS ns.adie.sn.
+604800 IN NS ns.ucad.sn.
+@ 604800 IN MX 10 mail
+mail 604800 IN A 196.1.94.19
+www 604800 IN CNAME www.uadb.univ.sn.

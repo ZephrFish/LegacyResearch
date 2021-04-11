@@ -1,0 +1,47 @@
+@ 86400 IN SOA ns1 root.ns1 2014070108 28800 3600 1209600 86400
+@ 86400 IN A 94.74.162.10
+@ 86400 IN TXT "v=spf1 a mx ip4:94.74.162.7 ~all"
+@ 86400 IN NS ns1
+86400 IN NS ns2
+@ 86400 IN MX 10 mail
+86400 IN MX 20 mail
+stu 86400 IN CNAME ns1
+ns1 86400 IN A 94.74.162.10
+ns2 86400 IN A 94.74.162.10
+n2 86400 IN A 94.74.162.10
+ecomgr 86400 IN CNAME ns1
+sida 86400 IN A 94.74.162.66
+international 86400 IN CNAME ns1
+fish 86400 IN A 94.74.162.19
+construction 86400 IN CNAME ns1
+it 86400 IN CNAME ns1
+emptech 86400 IN CNAME ns1
+rayvarz 86400 IN A 94.74.162.8
+english 86400 IN CNAME ns1
+architecture 86400 IN CNAME ns1
+webmail 86400 IN A 94.74.162.7
+engineering 86400 IN CNAME ns1
+auctions 86400 IN CNAME ns1
+research 86400 IN CNAME ns1
+herasat 86400 IN CNAME ns1
+cultural 86400 IN CNAME ns1
+mail 86400 IN A 94.74.162.7
+ftp 86400 IN CNAME ns1
+education 86400 IN CNAME ns1
+www 86400 IN A 94.74.162.10
+conf 86400 IN A 94.74.162.9
+cseit2012 86400 IN CNAME ns1
+basij 86400 IN CNAME ns1
+private._domainkey 86400 IN TXT "k=rsa; p=MEwwDQYJKoZIhvcNAQEBBQADOwAwOAIxAMMhSXVMxT/8BTXa/nwk070X8uwh+SVetu3bj9ZGQg3KXWxh9nP8dt/v0hFrScMzjwIDAQAB"
+newstd 86400 IN CNAME ns1
+pr 86400 IN CNAME ns1
+relation 86400 IN CNAME ns1
+human 86400 IN CNAME ns1
+economy 86400 IN CNAME ns1
+college 86400 IN CNAME ns1
+finance 86400 IN CNAME ns1
+science 86400 IN CNAME ns1
+dentistry 86400 IN CNAME ns1
+student 86400 IN CNAME ns1
+chancellor 86400 IN CNAME ns1
+agriculture 86400 IN CNAME ns1

@@ -1,0 +1,1217 @@
+@ 1800 IN SOA cluster-0 hostmaster 2015040805 3600 3600 3600 3600
+@ 1800 IN NS cluster-0
+1800 IN NS cluster-1
+1800 IN NS secondary
+@ 1800 IN TXT "v=spf1 a mx " " ip4:138.236.127.23 ip4:138.236.127.65 ip4:138.236.127.103 ip4:138.236.127.65 ip4:138.236.127.68 ip4:138.236.128.36 " " ip4:138.236.128.35 ip4:138.236.128.37 ip4:138.236.128.39 ip4:138.236.128.65 ip4:138.236.128.56 " " ip6:2620:46:8000:127::23 ip6:2620:46:8000:127::103 ip6:2620:46:8000:127::104 ip6:2620:46:8000:127::65 ip6:2620:46:8000:127::68 " "ip6:2620:46:8000:127::124 ip6:2620:46:8000:127::125 ip6:2620:46:8000:127::165 ip6:2620:46:8000:127::168 ip6:2620:46:8000:128::35 ip6:2620:46:8000:128::59" " include:_spf.google.com" " ~all"
+1800 IN TXT "MS=ms20505863"
+@ 1800 IN MX 10 mx1.virtual
+1800 IN MX 10 mx2.virtual
+@ 1800 IN AAAA 2620:46:8000:127::126
+@ 1800 IN A 138.236.127.126
+webmail-0 1800 IN A 138.236.128.128
+space 1800 IN AAAA 2620:46:8000:127::97
+space 1800 IN A 138.236.127.97
+ha-test 1800 IN A 138.236.128.115
+stats2 1800 IN AAAA 2620:46:8000:128::61
+stats2 1800 IN A 138.236.128.61
+_sip._udp.pbx 43200 IN SRV 10 10 5060 pbx
+_sip._tcp 43200 IN SRV 10 10 5060 pbx
+res 1800 IN NS cluster-0
+1800 IN NS cluster-1
+VanHecke.stu-affairs 1800 IN A 138.236.195.36
+psych 1800 IN NS cluster-0
+1800 IN NS cluster-1
+printer.church-relation 1800 IN A 138.236.197.97
+minibuster 1800 IN A 138.236.128.33
+narya 1800 IN CNAME narya.gustie
+mediaservices 1800 IN MX 5 mx0
+mediaservices 1800 IN NS cluster-0
+1800 IN NS cluster-1
+confer-office 1800 IN A 138.236.196.105
+timehost 1800 IN A 138.236.128.113
+ispace 1800 IN CNAME wraeclast
+mailroom 1800 IN NS cluster-0
+1800 IN NS cluster-1
+cspace 1800 IN MX 5 mx0
+1800 IN MX 5 mx1
+cspace 1800 IN A 138.236.128.24
+nfs 1800 IN CNAME vearth.virtual
+scand 1800 IN NS cluster-0
+1800 IN NS cluster-1
+arafel 1800 IN A 138.236.128.130
+lisa-blogs 1800 IN AAAA 2620:46:8000:128::12
+lisa-blogs 1800 IN A 138.236.128.12
+meeting-maker.admin 1800 IN CNAME eric.admin
+theatre 1800 IN NS cluster-0
+1800 IN NS cluster-1
+datatel-fw 1800 IN A 138.236.128.147
+optimus.gustie 1800 IN A 138.236.128.233
+perdition-live 1800 IN A 138.236.128.63
+cronscripts 1800 IN CNAME alteran
+client-migration 1800 IN A 138.236.128.157
+wowza 1800 IN A 138.236.127.24
+routan-mgmt 1800 IN A 138.236.128.174
+pc-29.registration 1800 IN A 138.236.192.29
+cftest 1800 IN CNAME charlotte
+phys-print 1800 IN CNAME cdrom.physics
+telcom 1800 IN NS cluster-0
+1800 IN NS cluster-1
+meow 1800 IN A 138.236.128.86
+macimage 1800 IN CNAME routan
+student.sac 1800 IN A 138.236.196.67
+voicemail 1800 IN A 138.236.150.75
+status 1800 IN A 66.6.44.4
+pc-20.registration 1800 IN A 138.236.192.20
+student.mailroom 1800 IN A 138.236.193.197
+sync-ml 1800 IN CNAME webmail-2
+phoebe.gustie 1800 IN A 138.236.128.194
+chapel 1800 IN NS cluster-0
+1800 IN NS cluster-1
+temp-2.int-ed 1800 IN A 138.236.196.55
+ipkvm 1800 IN A 138.236.128.195
+mx4.virtual 1800 IN TXT "v=spf1 a -all"
+wins 1800 IN A 138.236.128.231
+_sip._udp 43200 IN SRV 10 10 5060 pbx
+kermit 1800 IN A 138.236.128.202
+hvcluster 1800 IN A 138.236.128.179
+aragorn 1800 IN A 138.236.128.6
+ernst 1800 IN CNAME ernst.chem
+gandalf-snmp 1800 IN A 138.236.64.1
+winprism 1800 IN A 138.236.128.153
+kormeister 1800 IN CNAME kormeister.acc
+student-3.int-ed 1800 IN A 138.236.196.58
+mssql1 1800 IN A 138.236.128.181
+mssql2 1800 IN A 138.236.128.182
+temp-0.int-ed 1800 IN A 138.236.196.59
+wise 1800 IN A 138.236.127.48
+printer.community-service 1800 IN CNAME Genelin-printer.acc
+six 1800 IN A 138.236.128.30
+johnsonG5.printshop 1800 IN A 138.236.193.212
+student-1.pres 1800 IN A 138.236.195.57
+outgoing 1800 IN MX 5 callisto
+moridin.gustie 1800 IN A 138.236.128.194
+printer-01.registration 1800 IN A 138.236.196.127
+gacnet-gw-mgmt 1800 IN A 138.236.128.79
+scratchy 1800 IN CNAME scratchy.virtual
+chapelroom 1800 IN CNAME thebe.virtual
+wowzav6 1800 IN AAAA 2620:46:8000:127::24
+Cha.int-ed 1800 IN A 138.236.196.50
+fs-0 1800 IN CNAME home
+fs-1 1800 IN A 138.236.128.106
+none 1800 IN AAAA 2620:46:8000:128::66
+none 1800 IN A 138.236.128.66
+webmail-old 1800 IN A 138.236.127.127
+chemdraw 1800 IN CNAME phoebe
+chase.gustie 1800 IN A 138.236.125.15
+ill 1800 IN CNAME fargate
+blimp 1800 IN CNAME space
+bilbo 1800 IN CNAME unix-admin-switch.netmgmt
+hangout 1800 IN A 138.236.127.126
+takima 1800 IN A 138.236.128.158
+login 1800 IN CNAME shib.virtual
+xraid2-1 1800 IN A 138.236.128.72
+CAB-new.sac 1800 IN A 138.236.196.72
+tear.gustie 1800 IN A 138.236.128.193
+support 1800 IN A 138.236.127.100
+beta-secure 1800 IN CNAME bart
+_iax._udp 43200 IN SRV 10 10 5060 pbx
+fluffy 1800 IN CNAME res-hall-fw-campus-side.res-hall
+mx2.virtual 1800 IN TXT "v=spf1 a -all"
+sqlcluster 1800 IN A 138.236.128.169
+gonzoles 1800 IN CNAME photon
+cas-beta 1800 IN CNAME cas-beta.virtual
+itchy 1800 IN CNAME itchy.virtual
+ssh 1800 IN CNAME baal
+xerox.admin 1800 IN A 138.236.192.235
+loial.gustie 1800 IN A 138.236.127.47
+profiles 1800 IN CNAME io
+squid-2 1800 IN A 138.236.128.108
+stats 1800 IN CNAME stats.it
+scribe 1800 IN CNAME scribe.virtual
+tlc 1800 IN A 138.236.127.105
+oldmain 1800 IN NS cluster-0
+1800 IN NS cluster-1
+webmail-was 1800 IN A 138.236.127.96
+thebe 1800 IN A 138.236.128.42
+robin 1800 IN A 138.236.128.247
+McMoran.sac 1800 IN A 138.236.196.66
+sup 1800 IN A 138.236.127.32
+masteryproblems 1800 IN CNAME thebe.virtual
+snmp 1800 IN NS cluster-0
+1800 IN NS cluster-1
+mailhost-backup 1800 IN CNAME supertanker
+forestdnszones.gustie 1800 IN NS rand.gustie
+1800 IN NS perrin.gustie
+buster-core 1800 IN A 138.236.128.9
+office 1800 IN A 138.236.127.128
+ssc 1800 IN NS cluster-0
+1800 IN NS cluster-1
+Lipke.community-service 1800 IN A 138.236.196.86
+Pehrson.church-relation 1800 IN A 138.236.197.99
+crash 1800 IN A 138.236.128.169
+informer-beta 1800 IN A 138.236.127.29
+imap-0 1800 IN CNAME cluster-0
+mailroom3.mailroom 1800 IN A 138.236.193.196
+printer.pres 1800 IN A 138.236.195.51
+guest.church-relation 1800 IN A 138.236.197.98
+_msdcs.gustie 1800 IN NS rand.gustie
+1800 IN NS perrin.gustie
+admission 1800 IN A 138.236.127.126
+lectcap 1800 IN CNAME lecap
+Martens.outreach 1800 IN A 138.236.224.4
+Riebesell.stu-affairs 1800 IN A 138.236.195.35
+secure2 1800 IN A 138.236.128.25
+lanfear 1800 IN A 138.236.128.159
+cont-ed 1800 IN NS cluster-0
+1800 IN NS cluster-1
+reflection 1800 IN NS cluster-0
+1800 IN NS cluster-1
+#joker.gustie 1800 IN CNAME print
+tapes 1800 IN A 138.236.128.143
+lisa 1800 IN AAAA 2620:46:8000:128::15
+lisa 1800 IN A 138.236.128.15
+print-server 1800 IN CNAME print
+mail 1800 IN A 138.236.127.124
+1800 IN A 138.236.127.125
+gusmail-mx 1800 IN MX 1 ASPMX.l.google.com.
+1800 IN MX 5 ALT1.ASPMX.l.google.com.
+1800 IN MX 5 ALT2.ASPMX.l.google.com.
+1800 IN MX 10 ALT3.ASPMX.l.google.com.
+1800 IN MX 10 ALT4.ASPMX.l.google.com.
+wireless 1800 IN CNAME charlotte
+imap-beta 1800 IN A 138.236.128.63
+jabber 1800 IN AAAA 2620:46:8000:128::17
+jabber 1800 IN A 138.236.128.11
+callisto 1800 IN HINFO "PC" "LINUX"
+callisto 1800 IN A 138.236.128.19
+pc-21.registration 1800 IN A 138.236.192.21
+ldap-3 1800 IN A 138.236.127.110
+vcr 1800 IN A 138.236.128.197
+secretary.cont-ed 1800 IN A 138.236.193.161
+spamdb2 1800 IN A 138.236.128.88
+alumni2 1800 IN CNAME acdev
+res-fw 1800 IN CNAME res-hall-fw-campus-side.res-hall
+mssql1.gustie 1800 IN A 138.236.128.181
+toolbox 1800 IN CNAME toolbox.virtual
+comm 1800 IN NS cluster-0
+1800 IN NS cluster-1
+nic 1800 IN MX 5 mx0
+wildcat 1800 IN A 138.236.128.57
+crash.gustie 1800 IN A 138.236.128.169
+smtp-auth 1800 IN A 138.236.127.165
+1800 IN A 138.236.127.168
+Cha-desktop.int-ed 1800 IN A 138.236.196.63
+pc-11.registration 1800 IN A 138.236.196.140
+console21 1800 IN CNAME console
+imap 1800 IN TXT "google-site-verification=Uec1YccgrjIWzTyz6V3NbB6mFCjKwKngr6FT5d1Gx-o"
+imap 1800 IN MX 5 mx0
+1800 IN MX 5 mx1
+imap 1800 IN AAAA 2620:46:8000:127::122
+imap 1800 IN A 138.236.127.122
+student-senate-pc 1800 IN A 138.236.196.99
+moridin 1800 IN A 138.236.128.194
+podtc.gustie 1800 IN A 138.236.128.229
+fram 1800 IN MX 5 viruscheck0
+fram 1800 IN A 138.236.128.240
+phonecfg 1800 IN CNAME baal
+admin 1800 IN NS cluster-0
+1800 IN NS cluster-1
+GUSTAAM 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+GUSTAAM 1800 IN A 138.236.150.75
+tarabon.gustie 1800 IN A 138.236.128.207
+homepages 1800 IN CNAME baal
+mx2 1800 IN A 138.236.127.104
+pc-01.registration 1800 IN A 138.236.196.130
+perdition 1800 IN CNAME webmail-1-old
+airwave 1800 IN AAAA 2620:46:8000:127::142
+airwave 1800 IN A 138.236.127.142
+steam 1800 IN NS cluster-0
+1800 IN NS cluster-1
+wix-ipmi 1800 IN A 138.236.128.243
+printer-02.registration 1800 IN A 138.236.196.128
+boardroom-temp0 1800 IN A 138.236.193.90
+boardroom-temp1 1800 IN A 138.236.193.91
+gimli 1800 IN A 138.236.128.5
+verin 1800 IN A 138.236.128.142
+switch-0.church-relation 1800 IN A 138.236.197.96
+titan.test190 1800 IN A 138.236.190.16
+temp.church-relation 1800 IN A 138.236.197.101
+hangouts 1800 IN A 138.236.127.126
+crash2 1800 IN A 138.236.128.169
+asterisk 1800 IN CNAME bender
+libguides 1800 IN CNAME www.libguides.com.
+rodimus 1800 IN A 138.236.128.34
+gandalf-transparent 1800 IN A 138.236.16.88
+pandora 1800 IN CNAME www
+geog 1800 IN NS cluster-0
+1800 IN NS cluster-1
+geol 1800 IN NS cluster-0
+1800 IN NS cluster-1
+baal 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+baal 1800 IN A 138.236.128.17
+titan.test191 1800 IN A 138.236.191.16
+_tcp.gustie 1800 IN NS rand.gustie
+1800 IN NS perrin.gustie
+Johnson.pres 1800 IN A 138.236.195.58
+tworivers 1800 IN A 138.236.128.135
+ldap-4servers 1800 IN A 138.236.127.102
+1800 IN A 138.236.128.104
+mrtg 1800 IN CNAME lunen
+DL1620-printer 1800 IN CNAME oh112pc00.physics
+rodimus.gustie 1800 IN A 138.236.128.34
+merry 1800 IN A 138.236.128.10
+earth 1800 IN A 138.236.128.31
+ldap1 1800 IN A 138.236.128.104
+CAB-student-pc-00.sac 1800 IN A 138.236.196.74
+asgard 1800 IN MX 5 mx0
+1800 IN MX 5 mx1
+asgard 1800 IN A 138.236.128.38
+althor.gustie 1800 IN A 138.236.128.138
+eaton 1800 IN CNAME datacenter-ebladeups.netmgmt
+printer-stu.deans 1800 IN CNAME printer.stu-affairs
+routan 1800 IN A 138.236.128.173
+connect 1800 IN A 138.236.240.2
+spamdb 1800 IN CNAME spamdb2
+telecom-server 1800 IN A 138.236.193.120
+devtest 1800 IN CNAME devtest.virtual
+freighter 1800 IN MX 5 mx0
+freighter 1800 IN A 138.236.128.98
+creep 1800 IN CNAME creep.virtual
+fone 1800 IN A 138.236.127.119
+smtp-0 1800 IN A 138.236.128.124
+printer-fac.deans 1800 IN CNAME printer.academics
+student.church-relation 1800 IN A 138.236.197.100
+pals 1800 IN CNAME pals.msus.edu.
+wm 1800 IN CNAME liquidmatrix
+marshtomp 1800 IN A 138.236.128.85
+stu-affairs 1800 IN NS cluster-0
+1800 IN NS cluster-1
+alumni 1800 IN NS cluster-0
+1800 IN NS cluster-1
+news 1800 IN CNAME news.hickorytech.net.
+moderator 1800 IN CNAME gustavus.edu.
+ipv4-gts 1800 IN A 138.236.127.10
+res-life 1800 IN NS cluster-0
+1800 IN NS cluster-1
+viruscheck1 1800 IN MX 5 138.236.128.241
+viruscheck1 1800 IN A 138.236.128.241
+gusmailhost1 1800 IN CNAME destiny
+career 1800 IN NS cluster-0
+1800 IN NS cluster-1
+switch-3.admin 1800 IN A 138.236.192.6
+gusmailhost5 1800 IN CNAME human
+*.blog 1800 IN A 138.236.127.126
+Yunkers.sac 1800 IN A 138.236.196.64
+reg 1800 IN NS cluster-0
+1800 IN NS cluster-1
+tardis 1800 IN A 138.236.128.224
+fprotd 1800 IN A 138.236.128.241
+oachs-ipv6 1800 IN AAAA 2620:46:8000:64:222:4dff:fe4f:f5e2
+cliff 1800 IN CNAME cliff.virtual
+Douglas.cont-ed 1800 IN A 138.236.193.162
+datatel 1800 IN A 138.236.128.145
+Moline.int-ed 1800 IN A 138.236.196.51
+charlotte 1800 IN HINFO "PC" "LINUX"
+charlotte 1800 IN MX 5 mx0
+charlotte 1800 IN AAAA 2620:46:8000:128::22
+charlotte 1800 IN A 138.236.128.22
+tanker 1800 IN MX 5 mx0
+tanker 1800 IN A 138.236.128.29
+mnpals 1800 IN CNAME aleph.mnpals.net.
+forums 1800 IN CNAME www
+food-serv 1800 IN NS cluster-0
+1800 IN NS cluster-1
+wraeclast 1800 IN A 138.236.128.175
+alteran 1800 IN MX 5 mx0
+1800 IN MX 5 mx1
+alteran 1800 IN A 138.236.128.39
+smtp-auth-v6 1800 IN AAAA 2620:46:8000:127::165
+1800 IN AAAA 2620:46:8000:127::168
+pc-22.registration 1800 IN A 138.236.192.22
+gandalf-osgalith 1800 IN CNAME osgalith
+boardroom-temp-printer 1800 IN A 138.236.193.92
+sphs-gw 1800 IN A 138.236.208.9
+Reichstadt.sac 1800 IN A 138.236.196.68
+lm 1800 IN CNAME liquidmatrix
+joker2.gustie 1800 IN A 138.236.128.164
+xserve 1800 IN CNAME space
+sites 1800 IN CNAME gustavus.edu.
+nbuhmann.community-service 1800 IN A 138.236.196.81
+whitebear 1800 IN CNAME jmiller6-13.physics
+Reichel.cont-ed 1800 IN A 138.236.193.163
+pc-12.registration 1800 IN A 138.236.196.141
+bart 1800 IN AAAA 2620:46:8000:128::16
+bart 1800 IN A 138.236.128.16
+fargate 1800 IN A 138.236.128.75
+nobel 1800 IN NS cluster-0
+1800 IN NS cluster-1
+mscluster 1800 IN A 138.236.128.177
+linus 1800 IN CNAME linus.chem
+pc-02.registration 1800 IN A 138.236.196.131
+Clifton.hr 1800 IN A 138.236.197.19
+destiny-6 1800 IN AAAA 2620:46:8000:128::59
+smtp-4 1800 IN A 138.236.127.168
+mcs-mysql 1800 IN CNAME thebe.virtual
+printer-03.registration 1800 IN A 138.236.196.129
+wa-dev 1800 IN CNAME webadvisor1.virtual
+auth 1800 IN CNAME fedora9.virtual
+chilcosle 1800 IN HINFO "NeXTstation" "BSD-UNIX"
+chilcosle 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+chilcosle 1800 IN A 138.236.64.20
+blogs 1800 IN CNAME charlotte
+static0 1800 IN AAAA 2620:46:8000:127::126
+static0 1800 IN A 138.236.127.126
+Quiram-old.j-board 1800 IN A 138.236.196.89
+pplant-server 1800 IN A 138.236.193.80
+puro 1800 IN CNAME purolator
+Quiram2.mailroom 1800 IN A 138.236.193.203
+Haukoos.hr 1800 IN A 138.236.197.21
+caphost 1800 IN CNAME solen
+mcs-jsp 1800 IN CNAME thebe.virtual
+McKnight.scand 1800 IN TXT "CH227"
+McKnight.scand 1800 IN A 138.236.40.163
+static4 1800 IN A 138.236.127.126
+static4 1800 IN AAAA 2620:46:8000:127::126
+history 1800 IN NS cluster-0
+1800 IN NS cluster-1
+labels.mailroom 1800 IN A 138.236.193.193
+timeclock 1800 IN A 138.236.127.146
+survey 1800 IN CNAME toolbox.virtual
+thecardweb 1800 IN CNAME thebe
+mscluster.gustie 1800 IN A 138.236.128.177
+kmssrv 1800 IN CNAME loial.virtual
+mathwin 1800 IN A 138.236.128.89
+magla 1800 IN A 138.236.128.167
+ldap-lm 1800 IN CNAME ldap-master
+marco 1800 IN A 138.236.128.76
+acc 1800 IN NS cluster-0
+1800 IN NS cluster-1
+office-pc.gyo 1800 IN A 138.236.196.79
+olin 1800 IN NS cluster-0
+1800 IN NS cluster-1
+static9 1800 IN AAAA 2620:46:8000:127::126
+static9 1800 IN A 138.236.127.126
+podcast2 1800 IN CNAME macvm1
+xraid2-2 1800 IN A 138.236.128.73
+linode 1800 IN A 96.126.102.106
+deepfreeze 1800 IN CNAME man.virtual
+File-server 1800 IN A 138.236.192.201
+xraid-1 1800 IN A 138.236.128.70
+cluster-0 1800 IN AAAA 2620:46:8000:128::100
+cluster-0 1800 IN A 138.236.128.100
+cluster-1 1800 IN AAAA 2620:46:8000:128::101
+cluster-1 1800 IN A 138.236.128.101
+secure 1800 IN CNAME webadvisor
+datatel-hmc 1800 IN A 138.236.128.146
+krusty 1800 IN CNAME krusty.virtual
+moodle 1800 IN CNAME moodle.virtual
+live-update 1800 IN CNAME deep13
+labman 1800 IN CNAME baal
+lecap 1800 IN A 138.236.127.86
+sqlcluster.webservices 1800 IN A 138.236.128.169
+afp 1800 IN CNAME vearth.virtual
+autodiscover 1800 IN CNAME toolbox.virtual
+agelmar 1800 IN A 138.236.128.235
+diversity 1800 IN NS cluster-0
+1800 IN NS cluster-1
+dp-admin 1800 IN CNAME charlotte
+student.hr 1800 IN A 138.236.197.17
+Sammelson.pres 1800 IN A 138.236.195.52
+virtual-lab 1800 IN A 138.236.127.78
+student.community-service 1800 IN A 138.236.196.84
+aid 1800 IN NS cluster-0
+1800 IN NS cluster-1
+rad.gustie 1800 IN A 138.236.127.161
+fusion6 1800 IN A 138.236.127.100
+baa 1800 IN A 138.236.128.54
+ipv6 1800 IN AAAA 2620:46:8000:127::126
+scheduler 1800 IN CNAME clatter
+mailhost0 1800 IN CNAME cluster-0
+mailhost1 1800 IN CNAME destiny
+mailhost3 1800 IN CNAME nox
+mailhost4 1800 IN CNAME alteran
+mailhost5 1800 IN CNAME human
+Nieme.church-relation 1800 IN A 138.236.197.102
+vendprint 1800 IN CNAME phoebe
+safety 1800 IN NS cluster-0
+1800 IN NS cluster-1
+musicroom 1800 IN CNAME thebe.virtual
+peanuts 1800 IN CNAME peanuts.mcs.gac.edu
+all 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+all 1800 IN HINFO "SUN" "SOLARIS"
+all 1800 IN A 138.236.128.13
+rstudio 1800 IN A 138.236.127.126
+ds-0 1800 IN A 138.236.128.117
+ds-1 1800 IN A 138.236.128.118
+leagjeld.pres 1800 IN A 138.236.195.55
+socks 1800 IN CNAME ganymede
+fusion 1800 IN A 138.236.125.19
+secretary.diversity 1800 IN A 138.236.193.242
+smtp-1 1800 IN A 138.236.128.125
+inbox-cleaner 1800 IN CNAME woof
+moodle-beta 1800 IN CNAME moodle-pure.virtual
+beef 1800 IN A 138.236.128.62
+qtss 1800 IN CNAME marshtomp
+imagenowtest 1800 IN A 138.236.127.109
+pc-23.registration 1800 IN A 138.236.192.23
+int-ed 1800 IN NS cluster-0
+1800 IN NS cluster-1
+sqlcluster.gustie 1800 IN A 138.236.128.169
+static-beta2 1800 IN CNAME bart
+ftp-local 1800 IN CNAME ganymede
+katar 1800 IN A 138.236.128.87
+ard 1800 IN CNAME tuareg
+pc-16.registration 1800 IN A 138.236.196.145
+eric.admin 1800 IN A 138.236.192.17
+convoy 1800 IN A 138.236.128.97
+webmail-1 1800 IN A 138.236.128.128
+stu-acc 1800 IN NS cluster-0
+1800 IN NS cluster-1
+webmail-3 1800 IN A 138.236.128.128
+bio 1800 IN NS cluster-0
+1800 IN NS cluster-1
+art 1800 IN NS cluster-0
+1800 IN NS cluster-1
+laptop1.int-ed 1800 IN A 138.236.196.49
+robin.webservices 1800 IN A 138.236.128.247
+register 1800 IN A 138.236.240.2
+pc-03.registration 1800 IN A 138.236.196.132
+cas 1800 IN CNAME cas.virtual
+student-senate-student 1800 IN A 138.236.196.98
+purolator 1800 IN MX 5 viruscheck1
+purolator 1800 IN A 138.236.128.241
+pc-15.registration 1800 IN A 138.236.196.144
+development 1800 IN NS cluster-0
+1800 IN NS cluster-1
+printserver 1800 IN CNAME print
+wirelesswatch 1800 IN CNAME stats2
+webmail-beta 1800 IN A 138.236.127.96
+phoebe 1800 IN A 138.236.128.194
+andor 1800 IN A 138.236.128.171
+supertanker 1800 IN A 138.236.128.29
+judoon 1800 IN A 138.236.128.230
+archives 1800 IN A 138.236.128.151
+andra 1800 IN A 138.236.128.81
+db1 1800 IN CNAME woof
+perrin 1800 IN A 138.236.128.231
+jupiter 1800 IN CNAME baal
+switch-2.admin 1800 IN A 138.236.192.13
+stu-cent 1800 IN NS cluster-0
+1800 IN NS cluster-1
+europa 1800 IN CNAME baal
+cfl 1800 IN CNAME oachs.it
+db-slave 1800 IN CNAME asgard
+mcs-server 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+mcs-server 1800 IN HINFO "NeXT" "BSD-UNIX"
+mcs-server 1800 IN A 138.236.64.17
+password-announce.mcast 1800 IN A 224.0.2.42
+batman 1800 IN A 138.236.128.161
+gustiecloud2 1800 IN A 138.236.127.178
+monitor.stu-cent 1800 IN A 138.236.193.14
+finance 1800 IN NS cluster-0
+1800 IN NS cluster-1
+console 1800 IN CNAME liquidmatrix
+buster 1800 IN MX 5 mx0
+1800 IN MX 5 mx1
+buster 1800 IN A 138.236.9.9
+printer.cont-ed 1800 IN A 138.236.193.164
+autoconfig 1800 IN CNAME toolbox.virtual
+dam 1800 IN CNAME baal
+beta 1800 IN CNAME bart
+netreg 1800 IN CNAME netreg.res-hall
+sftp 1800 IN CNAME baal
+printers 1800 IN A 138.236.128.204
+imap-old 1800 IN A 138.236.127.19
+woof 1800 IN MX 5 mx0
+woof 1800 IN A 138.236.128.47
+macsoft 1800 IN CNAME routan
+webassign-secure 1800 IN A 138.236.66.35
+acdev 1800 IN A 138.236.128.220
+mssqlc1.gustie 1800 IN A 138.236.128.180
+voicemailwebmail 1800 IN CNAME voicemailwebmail.virtual
+viruscheck0 1800 IN MX 5 138.236.128.240
+viruscheck0 1800 IN A 138.236.128.240
+mil2 1800 IN A 138.236.128.58
+smb 1800 IN CNAME vearth.virtual
+ldap-0 1800 IN A 138.236.127.102
+econ 1800 IN NS cluster-0
+1800 IN NS cluster-1
+ldap-2 1800 IN A 138.236.127.102
+perrin.gustie 1800 IN A 138.236.128.231
+aruba-master 1800 IN A 138.236.12.8
+joker2 1800 IN A 138.236.128.164
+mattson 1800 IN NS cluster-0
+1800 IN NS cluster-1
+_submission._tcp 1800 IN SRV 1 1 587 smtp-auth
+1800 IN SRV 1 5 587 smtp-auth-v6
+1800 IN SRV 5 10 465 smtp-auth
+1800 IN SRV 5 15 465 smtp-auth-v6
+Stoor.scand 1800 IN TXT "CH228"
+Stoor.scand 1800 IN A 138.236.40.166
+timemachine 1800 IN CNAME tuareg
+oort 1800 IN AAAA 2620:46:8000:128::48
+oort 1800 IN A 138.236.128.48
+google 1800 IN CNAME gustavus.edu.
+print 1800 IN A 138.236.128.204
+english 1800 IN NS cluster-0
+1800 IN NS cluster-1
+matrim.gustie 1800 IN A 138.236.128.196
+cps 1800 IN CNAME sftp
+nfshome 1800 IN CNAME vearth.virtual
+saerin 1800 IN A 138.236.128.82
+packages.mailroom 1800 IN A 138.236.193.199
+station.kgsm 1800 IN A 138.236.196.113
+static-beta8 1800 IN CNAME bart
+andra.gustie 1800 IN A 138.236.128.81
+ldap-master 1800 IN CNAME badwolf
+laptop.community-service 1800 IN A 138.236.196.85
+titan 1800 IN A 138.236.128.25
+data-card 1800 IN A 138.236.192.203
+dayport 1800 IN CNAME charlotte
+msdtc.gustie 1800 IN A 138.236.128.183
+csp 1800 IN CNAME cspace
+studio 1800 IN CNAME baal
+docs 1800 IN CNAME gustavus.edu.
+wsus 1800 IN A 138.236.128.194
+pop-server 1800 IN CNAME cluster-0
+lists 1800 IN MX 5 138.236.127.23.
+1800 IN MX 10 mx1.virtual
+1800 IN MX 10 mx2.virtual
+lists 1800 IN A 138.236.127.23
+lists 1800 IN TXT "v=spf1 a -all"
+student.dean-stu 1800 IN A 138.236.195.38
+illian 1800 IN A 138.236.128.172
+cb 1800 IN A 138.236.128.239
+kandor 1800 IN A 138.236.128.131
+locker 1800 IN A 138.236.127.97
+cf 1800 IN CNAME coldfusion.virtual
+i2 1800 IN A 192.42.152.93
+gallery 1800 IN CNAME charlotte
+gustavusca1 1800 IN A 138.236.128.49
+director.community-service 1800 IN A 138.236.196.87
+sets 1800 IN CNAME toolbox.virtual
+ek 1800 IN CNAME eastern-kingdoms
+pippen 1800 IN A 138.236.128.7
+homer 1800 IN AAAA 2620:46:8000:127::145
+homer 1800 IN A 138.236.127.145
+wa-0 1800 IN CNAME ldap
+fl 1800 IN CNAME oachs.it
+printer-assistant.pres 1800 IN A 138.236.195.54
+alumni-hall-lights 1800 IN A 138.236.17.73
+printer-new.pres 1800 IN A 138.236.195.61
+ha 1800 IN CNAME thebe.virtual
+amasao 1800 IN A 138.236.196.56
+philo 1800 IN NS cluster-0
+1800 IN NS cluster-1
+health 1800 IN NS cluster-0
+1800 IN NS cluster-1
+pc-04.registration 1800 IN A 138.236.196.133
+Holz-G4Tower.printshop 1800 IN A 138.236.193.215
+faile.gustie 1800 IN A 138.236.127.32
+aruba-rap-master 1800 IN A 138.236.12.8
+andrej-playing 1800 IN A 138.236.189.17
+hr 1800 IN NS cluster-0
+1800 IN NS cluster-1
+Orth.stu-acc 1800 IN A 138.236.195.195
+never 1800 IN AAAA 2620:46:8000:128::64
+never 1800 IN A 138.236.128.64
+kgsm-stream 1800 IN A 138.236.94.64
+it 1800 IN NS cluster-0
+1800 IN NS cluster-1
+sandsts 1800 IN MX 5 mx0
+sandsts 1800 IN A 138.236.125.16
+moodlebeta 1800 IN CNAME moodle-pure.virtual
+env-stud 1800 IN NS cluster-0
+1800 IN NS cluster-1
+*.blog-beta 1800 IN CNAME beta
+destiny 1800 IN A 138.236.128.59
+secure3 1800 IN CNAME netreg
+fcs 1800 IN A 138.236.128.26
+databas 1800 IN A 138.236.128.94
+always 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+always 1800 IN HINFO "SUN" "SOLARIS"
+always 1800 IN A 138.236.128.14
+logain 1800 IN A 138.236.128.162
+orgs 1800 IN CNAME baal
+dvr 1800 IN A 138.236.128.40
+mcs-server-alias 1800 IN CNAME mcs-server
+legolas 1800 IN A 138.236.128.4
+res-hall 1800 IN NS cluster-0
+1800 IN NS cluster-1
+imap4 1800 IN A 138.236.127.122
+imap6 1800 IN AAAA 2620:46:8000:127::122
+cardweb 1800 IN CNAME thebe
+vent 1800 IN CNAME oachs.it
+www21 1800 IN CNAME www2
+oscar 1800 IN CNAME cliff
+ldapadmin 1800 IN CNAME toolbox
+andor.gustie 1800 IN A 138.236.128.171
+outland 1800 IN A 138.236.128.134
+_udp.gustie 1800 IN NS rand.gustie
+1800 IN NS perrin.gustie
+nimda.gustie 1800 IN A 138.236.128.156
+phanson 1800 IN CNAME phanson.it
+datatel-new 1800 IN A 138.236.128.145
+po 1800 IN CNAME smtp-0
+eastern-kingdoms 1800 IN A 138.236.128.132
+rb 1800 IN CNAME bart
+printers.gustie 1800 IN A 138.236.128.204
+weekly 1800 IN CNAME www
+tarabon 1800 IN A 138.236.128.207
+qt 1800 IN CNAME xserve
+housing 1800 IN A 138.236.127.173
+temp-1.int-ed 1800 IN A 138.236.196.60
+oachs 1800 IN CNAME oachs.it
+printshop 1800 IN NS cluster-0
+1800 IN NS cluster-1
+bookmark-server 1800 IN A 138.236.128.139
+st 1800 IN CNAME baal
+loghost 1800 IN CNAME logger
+swanson 1800 IN NS cluster-0
+1800 IN NS cluster-1
+imap-test 1800 IN AAAA 2620:46:8000:127::122
+imap-test 1800 IN A 138.236.127.122
+chaplain 1800 IN NS cluster-0
+1800 IN NS cluster-1
+jryan 1800 IN MX 5 mx0
+jryan 1800 IN A 138.236.128.253
+tv 1800 IN A 138.236.127.10
+chase 1800 IN A 138.236.125.15
+pc-25.registration 1800 IN A 138.236.192.25
+fms 1800 IN CNAME baal
+student-2.int-ed 1800 IN A 138.236.196.57
+wa 1800 IN A 138.236.127.60
+nimda 1800 IN A 138.236.128.156
+crestronlog 1800 IN CNAME toolbox.virtual
+Thilges.health 1800 IN A 138.236.193.232
+crashplan 1800 IN A 138.236.127.177
+verin.gustie 1800 IN A 138.236.128.142
+library.int-ed 1800 IN A 138.236.196.54
+hanson 1800 IN CNAME hanson.it
+golf 1800 IN NS cluster-0
+1800 IN NS cluster-1
+switch-1.admin 1800 IN A 138.236.192.12
+wa-live 1800 IN CNAME webadvisorlive.virtual
+intern.sac 1800 IN A 138.236.196.83
+_sites.gustie 1800 IN NS rand.gustie
+1800 IN NS perrin.gustie
+student.diversity 1800 IN A 138.236.193.241
+Anderson.int-ed 1800 IN A 138.236.196.52
+sqlserver 1800 IN A 138.236.128.247
+mediaserv 1800 IN NS cluster-0
+1800 IN NS cluster-1
+Jannusch.community-service 1800 IN A 138.236.196.88
+podcast 1800 IN CNAME routan
+spamprefsdb 1800 IN CNAME db-master
+GACnet 1800 IN PTR 0.0.236.138.in-addr.arpa.
+git 1800 IN CNAME bart
+sblack.health 1800 IN A 138.236.193.225
+datatelnew 1800 IN CNAME datatel
+amadicia 1800 IN A 138.236.128.134
+printshop-pc.printshop 1800 IN A 138.236.193.211
+nursing 1800 IN NS cluster-0
+1800 IN NS cluster-1
+AdCC-testing 1800 IN A 138.236.192.243
+printer.diversity 1800 IN A 138.236.193.244
+dan-laptop 1800 IN A 138.236.128.80
+ftp 1800 IN CNAME baal
+Voss.scand 1800 IN TXT "CH227"
+Voss.scand 1800 IN A 138.236.40.164
+fmpro-server 1800 IN CNAME filemaker
+localhost 1800 IN A 127.0.0.1
+news-serv 1800 IN NS cluster-0
+1800 IN NS cluster-1
+lifesize 1800 IN A 138.236.128.86
+jerry 1800 IN MX 5 mx0
+jerry 1800 IN A 138.236.128.252
+electro2 1800 IN A 138.236.125.17
+cas2 1800 IN A 138.236.128.137
+datatel-old 1800 IN A 138.236.192.193
+sentry 1800 IN A 138.236.128.198
+Thorstensen.scand 1800 IN TXT "CH229"
+Thorstensen.scand 1800 IN A 138.236.40.161
+church-relation 1800 IN NS cluster-0
+1800 IN NS cluster-1
+genelin-laptop.community-service 1800 IN A 138.236.196.80
+homepages3 1800 IN CNAME baal
+advising 1800 IN NS cluster-0
+1800 IN NS cluster-1
+bookmark 1800 IN NS cluster-0
+1800 IN NS cluster-1
+CAB-student-pc-01.sac 1800 IN A 138.236.196.75
+custodial 1800 IN NS cluster-0
+1800 IN NS cluster-1
+human 1800 IN A 138.236.128.35
+scout 1800 IN A 138.236.128.199
+mx3.virtual 1800 IN TXT "v=spf1 a -all"
+pc-05.registration 1800 IN A 138.236.196.134
+physics-lj4 1800 IN CNAME physics-lj4.physics
+lund 1800 IN NS cluster-0
+1800 IN NS cluster-1
+electro 1800 IN A 138.236.125.17
+skyrim 1800 IN A 138.236.128.136
+printer.mailroom 1800 IN A 138.236.193.200
+threepo 1800 IN A 138.236.128.242
+winsoft 1800 IN CNAME moridin
+station2.kgsm 1800 IN A 138.236.196.115
+printer-stu.stu-affairs 1800 IN CNAME printer.stu-affairs
+spamd-0 1800 IN A 138.236.128.112
+eddie 1800 IN CNAME eddie.virtual
+soc-anth 1800 IN NS cluster-0
+1800 IN NS cluster-1
+wraith 1800 IN A 138.236.128.65
+wraith 1800 IN TXT "v=spf1 a -all"
+macvm2-mgmt 1800 IN A 138.236.128.45
+granlund 1800 IN CNAME charlotte
+domaindnszones.gustie 1800 IN NS rand.gustie
+1800 IN NS perrin.gustie
+mirror 1800 IN CNAME baal
+telecom 1800 IN NS cluster-0
+1800 IN NS cluster-1
+nater 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+ldap2 1800 IN A 138.236.127.102
+morita 1800 IN HINFO "NeXTstation" "BSD-UNIX"
+morita 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+morita 1800 IN A 138.236.64.19
+jeremy.webservices 1800 IN A 138.236.128.250
+dongle 1800 IN A 138.236.128.192
+ldap3 1800 IN A 138.236.127.110
+license 1800 IN CNAME man.virtual
+gts 1800 IN MX 5 mx1
+1800 IN MX 5 mx2
+gts 1800 IN AAAA 2620:46:8000:127::10
+gts 1800 IN A 138.236.127.10
+static-beta0 1800 IN CNAME bart
+pc-02.mailroom 1800 IN A 138.236.193.202
+msdtc 1800 IN A 138.236.128.183
+static-beta3 1800 IN CNAME bart
+printer.hr 1800 IN A 138.236.197.20
+static-beta5 1800 IN CNAME bart
+static-beta6 1800 IN CNAME bart
+static-beta7 1800 IN CNAME bart
+squid-1 1800 IN A 138.236.128.107
+www.google 1800 IN CNAME google.gustavus.edu.
+bugger 1800 IN A 138.236.127.11
+spamd 1800 IN A 138.236.128.85
+sso 1800 IN CNAME shib.virtual
+spamd-a 1800 IN A 138.236.128.112
+1800 IN A 138.236.128.113
+Kelly.dean-stu 1800 IN A 138.236.195.39
+mssql2.gustie 1800 IN A 138.236.128.182
+pimento 1800 IN HINFO "NeXT" "BSD-UNIX"
+pimento 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+pimento 1800 IN A 138.236.64.18
+campuscall 1800 IN A 138.236.18.12
+spamd-n 1800 IN A 138.236.128.52
+1800 IN A 138.236.128.53
+dalek 1800 IN A 138.236.128.226
+ellucian 1800 IN MX 5 mx1
+1800 IN MX 5 mx2
+ellucian 1800 IN A 138.236.128.155
+gyo 1800 IN NS cluster-0
+1800 IN NS cluster-1
+scripts 1800 IN CNAME toolbox.virtual
+xorp 1800 IN A 138.236.128.2
+drive 1800 IN CNAME docs.gustavus.edu.
+cfdocs 1800 IN CNAME charlotte
+pc-01.mailroom 1800 IN A 138.236.193.201
+greg 1800 IN A 138.236.240.2
+datenbank 1800 IN CNAME databas
+badwolf 1800 IN A 138.236.127.16
+winprism-nas 1800 IN A 138.236.128.154
+netregtest 1800 IN A 138.236.240.2
+www2 1800 IN A 138.236.128.246
+printer.stu-acc 1800 IN A 138.236.195.193
+telemark 1800 IN NS cluster-0
+1800 IN NS cluster-1
+hes 1800 IN NS cluster-0
+1800 IN NS cluster-1
+informer 1800 IN A 138.236.127.126
+logain.gustie 1800 IN A 138.236.128.162
+logger-old 1800 IN A 138.236.128.46
+img 1800 IN CNAME charlotte
+post-office 1800 IN CNAME smtp-0
+corsair 1800 IN HINFO "PC" "LINUX"
+corsair 1800 IN MX 5 mx0
+corsair 1800 IN A 138.236.128.20
+assistant.pres 1800 IN A 138.236.195.53
+sts 1800 IN A 138.236.127.150
+webmail-1-beta 1800 IN CNAME eddie.virtual
+printer-color.int-ed 1800 IN A 138.236.196.61
+jen 1800 IN A 138.236.128.245
+amandahost 1800 IN CNAME callisto
+althor 1800 IN A 138.236.128.138
+blog 1800 IN A 138.236.127.126
+murandy 1800 IN A 138.236.128.133
+solen 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+solen 1800 IN A 138.236.128.19
+rudi 1800 IN CNAME webmail
+cargo 1800 IN A 138.236.128.144
+moo2 1800 IN MX 10 mx0
+1800 IN MX 20 mx1
+moo2 1800 IN A 138.236.128.170
+CAB-office.sac 1800 IN A 138.236.196.65
+pc-26.registration 1800 IN A 138.236.192.26
+terran 1800 IN A 138.236.128.50
+conference.jabber 1800 IN CNAME jabber
+theory 1800 IN MX 5 mx0
+printer 1800 IN NS cluster-0
+1800 IN NS cluster-1
+confer 1800 IN NS cluster-0
+1800 IN NS cluster-1
+beta-wilbur 1800 IN CNAME wilbur
+librarycds 1800 IN CNAME kermit
+gustiecloud 1800 IN A 138.236.127.176
+_iax._udp.pbx 43200 IN SRV 10 10 5060 pbx
+console-beta 1800 IN CNAME liquidmatrix
+hvcluster.gustie 1800 IN A 138.236.128.179
+gusmail 1800 IN CNAME gustavus.edu.
+ldap-1 1800 IN A 138.236.128.104
+versioncuecs3 1800 IN CNAME jen
+vacuumroom.printshop 1800 IN A 138.236.193.214
+lang-ctr 1800 IN NS cluster-0
+1800 IN NS cluster-1
+kgsm 1800 IN NS cluster-0
+1800 IN NS cluster-1
+bulletin-board.sac 1800 IN A 138.236.196.78
+dean-stu 1800 IN NS cluster-0
+1800 IN NS cluster-1
+printsrv.gustie 1800 IN A 138.236.128.168
+spamd-1 1800 IN A 138.236.128.113
+www 1800 IN CNAME charlotte
+oncampus 1800 IN CNAME charlotte
+pc-06.registration 1800 IN A 138.236.196.135
+ldap-virtual 1800 IN A 138.236.127.102
+1800 IN A 138.236.128.104
+student-senate-office 1800 IN A 138.236.196.97
+gustavusca1.gustie 1800 IN A 138.236.128.49
+joker1 1800 IN A 138.236.128.163
+samba 1800 IN CNAME vearth.virtual
+CAB-student-mac-00.sac 1800 IN A 138.236.196.76
+static-beta1 1800 IN CNAME bart
+gustv 1800 IN A 138.236.127.10
+secondary 1800 IN AAAA 2620:46:8000:128::104
+secondary 1800 IN A 75.149.156.18
+webmail-new 1800 IN A 138.236.127.126
+tms 1800 IN A 138.236.127.158
+man.gustie 1800 IN A 138.236.127.41
+v6dns 1800 IN A 138.236.128.68
+maggie 1800 IN AAAA 2620:46:8000:127::152
+maggie 1800 IN A 138.236.127.152
+webmailsso 1800 IN CNAME caswebmail1.virtual
+switch-0.admin 1800 IN A 138.236.192.11
+sanswitch-0 1800 IN A 138.236.128.237
+sanswitch-1 1800 IN A 138.236.128.238
+_imaps._tcp 1800 IN SRV 1 1 993 imap
+mx1.virtual 1800 IN TXT "v=spf1 a -all"
+logger 1800 IN CNAME scribe.virtual
+smtp 1800 IN A 138.236.127.124
+1800 IN A 138.236.127.125
+lan 1800 IN A 138.236.128.74
+telecomm 1800 IN NS cluster-0
+1800 IN NS cluster-1
+debug 1800 IN A 138.236.128.61
+cascadespace 1800 IN CNAME cspace
+moo-core 1800 IN A 138.236.128.150
+community-service 1800 IN NS cluster-0
+1800 IN NS cluster-1
+oh221-printer 1800 IN CNAME printer.physics
+novell-backup 1800 IN HINFO "Novell" "Netware"
+bender 1800 IN HINFO "PC" "LINUX"
+bender 1800 IN MX 5 mx0
+bender 1800 IN A 138.236.128.23
+admissions 1800 IN CNAME admission
+info-desk.sac 1800 IN A 138.236.196.73
+mumble 1800 IN CNAME oachs.it
+data.gustie 1800 IN A 138.236.127.35
+tear 1800 IN A 138.236.128.193
+oachs-ipv6.it 1800 IN AAAA 2620:46:8000:64:222:4dff:fe4f:f5e2
+informer-old 1800 IN A 138.236.127.29
+vista.community-service 1800 IN A 138.236.196.82
+leo 1800 IN A 138.236.128.78
+databas2 1800 IN A 138.236.128.91
+canspam 1800 IN A 138.236.128.44
+smtp-auth2 1800 IN A 138.236.127.65
+1800 IN A 138.236.127.68
+webadvisor 1800 IN A 138.236.127.60
+printer.nh234 1800 IN CNAME NH236PB00.bio
+blog-beta 1800 IN CNAME beta
+terminal-server 1800 IN CNAME chase
+joe.webservices 1800 IN A 138.236.128.251
+joker1.gustie 1800 IN A 138.236.128.163
+lib 1800 IN NS cluster-0
+1800 IN NS cluster-1
+Thilges-old.health 1800 IN A 138.236.193.229
+mailroom2.mailroom 1800 IN A 138.236.193.194
+shiny 1800 IN A 138.236.128.225
+saldaea 1800 IN A 138.236.128.132
+netgear-AP.pres 1800 IN A 138.236.195.60
+wireless-watch 1800 IN CNAME stats2
+convoy-6 1800 IN AAAA 2620:46:8000:128::97
+broadcast 1800 IN CNAME sportsinfo-RA-server.lund
+argus2 1800 IN CNAME scout
+desk.health 1800 IN A 138.236.193.228
+MailDiskArray 1800 IN A 138.236.128.236
+webassign 1800 IN A 138.236.127.128
+Iverson-Payne.stu-affairs 1800 IN A 138.236.195.37
+wowza-amazon 1800 IN CNAME d2mpqblgpllzlq.cloudfront.net.
+student.printshop 1800 IN A 138.236.193.210
+mcs 1800 IN NS cluster-0
+1800 IN NS cluster-1
+liquidmatrix 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+liquidmatrix 1800 IN A 138.236.128.248
+kvm 1800 IN A 138.236.128.200
+supportsuite 1800 IN MX 3 supportsuite
+supportsuite 1800 IN A 138.236.127.100
+static7 1800 IN AAAA 2620:46:8000:127::126
+static7 1800 IN A 138.236.127.126
+optimus 1800 IN A 138.236.128.233
+art-board-temp 1800 IN A 138.236.68.104
+matrim 1800 IN A 138.236.128.196
+mssqlc1 1800 IN A 138.236.128.180
+mssqlc2 1800 IN A 138.236.128.178
+mfl 1800 IN NS cluster-0
+1800 IN NS cluster-1
+filemaker 1800 IN CNAME routan
+Peterson-laptop.pres 1800 IN A 138.236.195.59
+batman.gustie 1800 IN A 138.236.128.161
+adcrl 1800 IN A 138.236.127.48
+clatter 1800 IN A 138.236.128.244
+lou 1800 IN CNAME lou.virtual
+webmail 1800 IN A 138.236.127.126
+blizzard 1800 IN A 138.236.64.129
+eventservices 1800 IN A 138.236.127.22
+mcraft 1800 IN CNAME oachs.it
+xraid-2 1800 IN A 138.236.128.71
+kalimdor 1800 IN A 138.236.128.130
+_xmpp-server._tcp 1800 IN SRV 5 0 5269 xmpp-server.l.google.com.
+1800 IN SRV 20 0 5269 alt1.xmpp-server.l.google.com.
+1800 IN SRV 20 0 5269 alt2.xmpp-server.l.google.com.
+1800 IN SRV 20 0 5269 alt3.xmpp-server.l.google.com.
+1800 IN SRV 20 0 5269 alt4.xmpp-server.l.google.com.
+station3.kgsm 1800 IN A 138.236.196.112
+pc-09.registration 1800 IN A 138.236.196.138
+podtc 1800 IN A 138.236.128.229
+nobel-wirecast 1800 IN A 138.236.128.165
+calendar 1800 IN CNAME baal
+time 1800 IN AAAA 2620:46:8000:128::112
+time 1800 IN A 138.236.128.112
+lan.gustie 1800 IN A 138.236.128.74
+pc-07.registration 1800 IN A 138.236.196.136
+clockwork 1800 IN A 138.236.127.137
+cadof02.pres 1800 IN A 138.236.195.49
+ob1 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+ob1 1800 IN A 138.236.128.51
+magla.gustie 1800 IN A 138.236.128.167
+sac 1800 IN NS cluster-0
+1800 IN NS cluster-1
+chem 1800 IN NS cluster-0
+1800 IN NS cluster-1
+webmail-beta-1 1800 IN A 138.236.127.25
+mom 1800 IN A 138.236.128.222
+moo 1800 IN MX 10 mx0
+1800 IN MX 20 mx1
+moo 1800 IN A 138.236.240.2
+gandalf 1800 IN A 138.236.128.1
+imagenow 1800 IN A 138.236.127.109
+gonzoles-old 1800 IN MX 5 mx0
+gonzoles-old 1800 IN A 138.236.128.99
+smtp-virt 1800 IN AAAA 2620:46:8000:127::124
+1800 IN AAAA 2620:46:8000:127::125
+smtp-virt 1800 IN A 138.236.127.124
+1800 IN A 138.236.127.125
+static-beta4 1800 IN CNAME bart
+pc-01.proclaim 1800 IN A 138.236.196.121
+mathwin.gustie 1800 IN A 138.236.128.89
+Kelly-PC.dean-stu 1800 IN A 138.236.195.40
+assistant.scand 1800 IN TXT "CH228"
+assistant.scand 1800 IN A 138.236.40.162
+mx0 1800 IN A 138.236.127.125
+mx0 1800 IN TXT "v=spf1 a -all"
+mx1 1800 IN A 138.236.127.103
+mx1 1800 IN TXT "v=spf1 a -all"
+Beyer.hr 1800 IN A 138.236.197.18
+mx3 1800 IN A 138.236.127.65
+mx4 1800 IN A 138.236.127.68
+middleman 1800 IN A 138.236.128.90
+observium 1800 IN CNAME alteran
+licenseserver 1800 IN CNAME phoebe
+student-0.pres 1800 IN A 138.236.195.56
+stanker 1800 IN CNAME supertanker
+pjohnso3.health 1800 IN A 138.236.193.231
+webail 1800 IN CNAME webmail
+appleshare 1800 IN CNAME vearth.virtual
+apollo 1800 IN CNAME apollo.fpen.org.
+printer-temp.int-ed 1800 IN A 138.236.196.62
+Toutain.stu-affairs 1800 IN A 138.236.195.34
+printer.health 1800 IN A 138.236.193.227
+printer.sac 1800 IN A 138.236.196.71
+static-beta9 1800 IN CNAME bart
+dan-home 1800 IN AAAA 2001:470:1f10:d22::2
+pres 1800 IN NS cluster-0
+1800 IN NS cluster-1
+smtp-3 1800 IN A 138.236.127.165
+printer-studentorg.sac 1800 IN A 138.236.196.77
+Tollefson.stu-acc 1800 IN A 138.236.195.194
+collections 1800 IN CNAME archives
+Christensen.pres 1800 IN A 138.236.195.50
+ldap 1800 IN A 138.236.127.110
+ns1 1800 IN A 138.236.128.100
+ns2 1800 IN A 138.236.128.101
+ns3 1800 IN AAAA 2620:46:8000:128::104
+ns3 1800 IN A 138.236.128.104
+tuareg-magic 1800 IN A 138.236.1.5
+pc-13.registration 1800 IN A 138.236.196.142
+static1 1800 IN AAAA 2620:46:8000:127::126
+static1 1800 IN A 138.236.127.126
+static2 1800 IN AAAA 2620:46:8000:127::126
+static2 1800 IN A 138.236.127.126
+static3 1800 IN AAAA 2620:46:8000:127::126
+static3 1800 IN A 138.236.127.126
+Shaw.int-ed 1800 IN A 138.236.196.53
+static5 1800 IN AAAA 2620:46:8000:127::126
+static5 1800 IN A 138.236.127.126
+static6 1800 IN AAAA 2620:46:8000:127::126
+static6 1800 IN A 138.236.127.126
+mailhost 1800 IN CNAME smtp-0
+static8 1800 IN AAAA 2620:46:8000:127::126
+static8 1800 IN A 138.236.127.126
+pc-27.registration 1800 IN A 138.236.192.27
+rand.gustie 1800 IN A 138.236.128.232
+education 1800 IN NS cluster-0
+1800 IN NS cluster-1
+illian.gustie 1800 IN A 138.236.128.172
+bothmailhost1 1800 IN CNAME destiny
+religion 1800 IN NS cluster-0
+1800 IN NS cluster-1
+vdi 1800 IN CNAME virtual-lab
+bothmailhost5 1800 IN CNAME human
+nox 1800 IN MX 5 mx0
+1800 IN MX 5 mx1
+nox 1800 IN A 138.236.128.37
+music 1800 IN NS cluster-0
+1800 IN NS cluster-1
+Johnson.printshop 1800 IN A 138.236.193.209
+pc-14.registration 1800 IN A 138.236.196.143
+db-master 1800 IN CNAME photon
+nsethura.diversity 1800 IN A 138.236.193.243
+print-server.sac 1800 IN A 138.236.196.69
+voip 1800 IN CNAME bender
+pc-24.registration 1800 IN A 138.236.192.24
+projector 1800 IN CNAME toolbox.virtual
+dean-students.stu-affairs 1800 IN A 138.236.195.33
+four10 1800 IN AAAA 2620:46:8000:128::36
+four10 1800 IN MX 5 mx0
+1800 IN MX 5 mx1
+four10 1800 IN A 138.236.128.36
+four11 1800 IN A 138.236.128.104
+four12 1800 IN AAAA 2620:46:8000:127::102
+four12 1800 IN A 138.236.127.102
+four13 1800 IN A 138.236.127.110
+oldpbx 1800 IN CNAME mars
+ntp 1800 IN AAAA 2620:46:8000:128::100
+1800 IN AAAA 2620:46:8000:128::101
+ntp 1800 IN A 138.236.128.112
+1800 IN A 138.236.128.113
+megatron 1800 IN A 138.236.128.223
+pdc 1800 IN CNAME badwolf
+pbx 1800 IN CNAME bender
+shipping.bulk.mailroom 1800 IN A 138.236.193.205
+webmail-2 1800 IN A 138.236.128.128
+negative-0 1800 IN A 138.236.128.52
+negative-1 1800 IN A 138.236.128.53
+pc-28.registration 1800 IN A 138.236.192.28
+linodev6 1800 IN AAAA 2600:3c01::f03c:91ff:fedf:f44b
+tuareg 1800 IN A 138.236.128.27
+photon 1800 IN MX 5 mx0
+photon 1800 IN A 138.236.128.96
+Quiram.mailroom 1800 IN A 138.236.193.192
+sos 1800 IN A 138.236.128.28
+lanfear.gustie 1800 IN A 138.236.128.159
+classics 1800 IN NS cluster-0
+1800 IN NS cluster-1
+moodletest 1800 IN CNAME moodle-pure.virtual
+Ruble.sac 1800 IN A 138.236.196.70
+Beyer.church-relation 1800 IN A 138.236.197.104
+home 1800 IN CNAME vearth.virtual
+datatel-storage1 1800 IN A 138.236.128.148
+datatel-storage2 1800 IN A 138.236.128.149
+human-6 1800 IN AAAA 2620:46:8000:128::35
+mssqlc2.gustie 1800 IN A 138.236.128.178
+sanders2.health 1800 IN A 138.236.193.230
+ori 1800 IN A 138.236.128.56
+ori 1800 IN TXT "v=spf1 a -all"
+speedtest 1800 IN CNAME baal
+vearth 1800 IN CNAME vearth.virtual
+pc-08.registration 1800 IN A 138.236.196.137
+rand 1800 IN A 138.236.128.232
+poforward2.mailroom 1800 IN A 138.236.193.206
+physical-plant 1800 IN NS cluster-0
+1800 IN NS cluster-1
+zeus 1800 IN MX 5 mx0
+1800 IN MX 10 mx1
+zeus 1800 IN A 138.236.128.23
+pc-17.registration 1800 IN A 138.236.196.146
+dsign 1800 IN CNAME jerry
+smtp-test 1800 IN A 138.236.128.100
+shell 1800 IN CNAME baal
+webdav 1800 IN CNAME devtest.virtual
+switch-0.chapel 1800 IN A 138.236.198.8
+printer.stu-affairs 1800 IN A 138.236.192.234
+wa-1 1800 IN CNAME ldap
+saturn 1800 IN A 138.236.64.5
+#joker 1800 IN CNAME print
+moodle-archive 1800 IN CNAME moodle-archive.virtual
+lecturecapture 1800 IN CNAME lecap
+popserver 1800 IN CNAME cluster-0
+vspheredp0 1800 IN CNAME vspheredp0.virtual
+_sip._tcp.pbx 43200 IN SRV 10 10 5060 pbx
+pop 1800 IN CNAME imap
+Beckstrom-laptop.church-relation 1800 IN A 138.236.197.103
+faile 1800 IN A 138.236.127.32
+argus 1800 IN A 138.236.128.84
+radius 1800 IN A 138.236.127.164
+campuscall-server 1800 IN A 138.236.18.12
+academics 1800 IN NS cluster-0
+1800 IN NS cluster-1
+physics 1800 IN NS cluster-0
+1800 IN NS cluster-1
+pre-sort.bulk.mailroom 1800 IN A 138.236.193.204
+ariel 1800 IN CNAME fargate
+syncml 1800 IN CNAME webmail-2
+moodle-pure 1800 IN CNAME moodle-pure.virtual
+odin 1800 IN CNAME odin.it
+rad 1800 IN A 138.236.127.161
+static 1800 IN AAAA 2620:46:8000:127::126
+static 1800 IN A 138.236.127.126
+osgalith 1800 IN A 138.236.128.1
+sentry.gustie 1800 IN A 138.236.128.198
+win.scand 1800 IN A 138.236.40.165
+pandora-fileserver 1800 IN A 138.236.128.43
+data 1800 IN A 138.236.127.35
+polisci 1800 IN NS cluster-0
+1800 IN NS cluster-1
+Westphal.health 1800 IN A 138.236.193.226
+curriclab 1800 IN A 138.236.75.34
+printsrv 1800 IN A 138.236.128.168
+ads 1800 IN CNAME charlotte
+g-reg 1800 IN A 138.236.240.2
+davram 1800 IN A 138.236.128.234
+ganymede 1800 IN HINFO "PC" "LINUX"
+ganymede 1800 IN MX 5 mx0
+ganymede 1800 IN A 138.236.128.21
+gacnet-gw 1800 IN HINFO "cisco-2501" "ios"
+gacnet-gw 1800 IN A 138.236.128.32
+titanarum 1800 IN A 138.236.128.110

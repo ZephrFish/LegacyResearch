@@ -1,0 +1,39 @@
+@ 86400 IN SOA n1.comsats.net.pk. root.isb.comsats.net.pk. 2015030104 10800 3600 604800 86400
+@ 86400 IN NS n1.comsats.net.pk.
+86400 IN NS n2.comsats.net.pk.
+@ 86400 IN A 111.68.97.150
+@ 86400 IN MX 5 mailf.comsats.net.pk.
+86400 IN MX 10 isbfil.comsats.net.pk.
+@ 86400 IN AAAA ::ffff:111.68.97.150
+reg 86400 IN A 111.68.97.147
+webmail 86400 IN A 203.124.44.20
+gadmission 86400 IN A 111.68.97.147
+www.iyc 86400 IN A 111.68.97.150
+ics 86400 IN A 192.169.56.64
+ics 86400 IN MX 5 mail-mx
+* 86400 IN A 111.68.97.150
+www.my 86400 IN A 111.68.97.147
+mail 86400 IN A 111.68.97.151
+calendar.grel 86400 IN CNAME ghs.googlehosted.com.
+mail-mx 86400 IN A 111.68.97.151
+ftp 86400 IN A 203.124.44.20
+docs.grel 86400 IN CNAME ghs.googlehosted.com.
+www 86400 IN A 111.68.97.150
+my 86400 IN A 111.68.97.147
+members 86400 IN A 111.68.97.150
+testmail.mail 86400 IN A 111.68.97.147
+grel 86400 IN A 111.68.97.148
+grel 86400 IN MX 5 aspmx.l.google.com.
+86400 IN MX 10 ALT1.aspmx.l.google.com.
+86400 IN MX 10 ALT2.aspmx.l.google.com.
+86400 IN MX 20 ASPMX2.GOOGLEMAIL.com.
+86400 IN MX 20 ASPMX3.GOOGLEMAIL.com.
+iyc 86400 IN A 111.68.97.150
+sites.grel 86400 IN CNAME ghs.googlehosted.com.
+alumni 86400 IN A 111.68.97.147
+beta 86400 IN A 111.68.97.150
+cp 86400 IN A 203.124.44.20
+sa 86400 IN A 111.68.97.153
+mail.grel 86400 IN CNAME ghs.googlehosted.com.
+ugadmission 86400 IN A 111.68.97.147
+ireas 86400 IN A 111.68.97.148

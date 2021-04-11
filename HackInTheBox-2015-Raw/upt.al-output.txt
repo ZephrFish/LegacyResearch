@@ -1,0 +1,45 @@
+@ 86400 IN SOA localhost root 2015021901 10800 900 604800 86400
+@ 86400 IN MX 0 upt-al.mail.protection.outlook.com.
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 86400 IN NS complab
+@ 86400 IN A 217.73.131.5
+sip 86400 IN CNAME sipdir.online.lync.com.
+gpu1 86400 IN A 193.254.1.7
+u3mproject 86400 IN A 80.78.71.242
+www.fie 86400 IN A 65.254.248.160
+itc 86400 IN A 193.254.1.6
+www.u3mproject 86400 IN A 80.78.71.242
+mx10.fie 86400 IN A 65.254.254.50
+www.csemsc 86400 IN A 80.78.71.242
+csemsc 86400 IN A 80.78.71.242
+mpi1 86400 IN A 193.254.1.11
+autodiscover 86400 IN CNAME autodiscover.outlook.com.
+fimif 86400 IN NS ns1.keminet.net.
+86400 IN NS ns2.keminet.net.
+msoid 86400 IN CNAME clientconfig.microsoftonline-p.net.
+fti 86400 IN A 193.254.2.4
+fti 86400 IN MX 10 complab
+ftp 86400 IN A 217.73.131.5
+ce.fit 86400 IN A 193.254.2.132
+lyncdiscover 86400 IN CNAME webdir.online.lync.com.
+www 86400 IN A 217.73.131.5
+mpi2 86400 IN A 193.254.1.12
+mx20.fie 86400 IN A 65.254.254.51
+wn0.fit 86400 IN A 193.254.2.140
+se.fit 86400 IN A 193.254.2.133
+fie 86400 IN MX 10 mx10.fie
+86400 IN MX 20 mx20.fie
+fie 86400 IN A 65.254.248.160
+_sipfederationtls._tcp 3600 IN SRV 1 100 5061 sipfed.online.lync.com.
+fim 86400 IN A 80.91.126.4
+_sip._tls 3600 IN SRV 1 100 443 sipdir.online.lync.com.
+lme 86400 IN MX 1 aspmx.l.google.com.
+86400 IN MX 5 alt1.aspmx.l.google.com.
+lme 86400 IN TXT "google-site-verification=qbCmhjKYh3A4PJ3LUuwo1-W5QPbIRv9nDmmZc45Skg4"
+whm 86400 IN A 217.73.131.5
+fit 86400 IN A 193.254.2.4
+fit 86400 IN MX 10 complab
+mon.fit 86400 IN A 193.254.2.135
+complab 86400 IN MX 10 complab
+complab 86400 IN A 193.254.2.4
+cpanel 86400 IN A 217.73.131.5

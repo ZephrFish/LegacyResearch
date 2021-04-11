@@ -1,0 +1,166 @@
+@ 4320 IN SOA ns master.ns 2011083100 4320 1800 259200 4320
+@ 4320 IN NS ns
+@ 4320 IN MX 10 ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+4320 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+4320 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+@ 4320 IN A 168.243.1.4
+@ 4320 IN TXT "google-site-verification=v4GX4TUNM2UPN6M5HfRo7fbv3TIKmhnvKZ66jdRPXqY"
+4320 IN TXT "v=spf1 ip4:190.57.73.69/32 ip4:168.243.1.0/27 ip4:168.243.1.64/27 include:_spf.google.com ~all"
+caloes 4320 IN A 168.243.1.134
+sacb 4320 IN A 168.243.1.201
+webacad 4320 IN A 168.243.1.151
+correos 4320 IN A 168.243.1.88
+correos 4320 IN TXT "v=spf1 ip4:190.57.73.69/32 ip4:168.243.1.0/27 ip4:168.243.1.64/27 include:_spf.google.com ~all"
+formacion 4320 IN A 168.243.1.41
+formacion 4320 IN MX 5 formacion
+periodismo 4320 IN A 168.243.1.41
+periodismo 4320 IN MX 5 periodismo
+genero 4320 IN A 168.243.1.41
+genero 4320 IN MX 5 genero
+buho 4320 IN A 168.243.1.111
+buho 4320 IN MX 10 ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+4320 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+4320 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+buho 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+4320 IN TXT "google-site-verification=0RMbX1qzltk7GN78xDJZMViLQ2zr3fJ28DEZRbueW60"
+sac 4320 IN A 168.243.1.121
+usaldei 4320 IN A 168.243.1.131
+###correo 4320 IN CNAME ghs.GOOGLE.COM.
+scm 4320 IN A 168.243.1.34
+www 4320 IN A 168.243.1.4
+ns 4320 IN A 168.243.1.2
+fia 4320 IN A 168.243.1.133
+moodle2 4320 IN A 168.243.1.41
+moodle2 4320 IN MX 5 moodle2
+moodle3 4320 IN A 168.243.1.35
+moodle4 4320 IN A 168.243.1.41
+moodle4 4320 IN MX 5 moodle4
+moodle5 4320 IN A 168.243.1.41
+moodle5 4320 IN MX 5 moodle5
+moodle6 4320 IN A 168.243.1.41
+moodle6 4320 IN MX 5 moodle6
+moodle7 4320 IN A 168.243.1.41
+moodle7 4320 IN MX 5 moodle7
+moodle8 4320 IN A 168.243.1.41
+moodle8 4320 IN MX 5 moodle8
+moodle9 4320 IN A 168.243.1.41
+moodle9 4320 IN MX 5 moodle9
+saldei 4320 IN A 168.243.1.39
+mailucasv._domainkey 4320 IN TXT "v=DKIM1;" "k=rsa;" "t=y;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8y2OO2un+gxsYKoNidhTTxUY16VF85HCpClu2wswYJr2nDBPehVz2HaYi+4zomV4CM5EpKpp4Te5PdZOBtmQB6iD+oE0qhorupuahrx+aT0hXaMrb4ao2rKqGiHs0Iu2wR+BFTvMDb1YZz6p9vlqHPXAvDUnZkQIDAQAB"
+deslocal 4320 IN A 168.243.1.41
+deslocal 4320 IN MX 5 deslocal
+sim 4320 IN A 168.243.1.83
+nwsia 4320 IN A 168.243.1.86
+violencia 4320 IN A 168.243.1.41
+violencia 4320 IN MX 5 violencia
+prueba 4320 IN A 168.243.1.114
+fefwi 4320 IN CNAME ns
+moodlet 4320 IN A 168.243.1.41
+moodlet 4320 IN MX 5 moodlet
+swsia 4320 IN A 168.243.1.85
+scca 4320 IN A 168.243.1.42
+fefwt 4320 IN CNAME ns
+ssgw10 4320 IN A 168.243.1.7
+moodle 4320 IN A 168.243.1.41
+moodle 4320 IN MX 5 moodle
+r-uca 4320 IN A 168.243.1.1
+gis 4320 IN CNAME doe
+sigI 4320 IN A 168.243.1.14
+gis2 4320 IN A 168.243.1.38
+tic 4320 IN A 168.243.1.40
+ftp 4320 IN A 168.243.1.4
+sondeos 4320 IN A 168.243.1.153
+localhost 4320 IN A 127.0.0.1
+agora 4320 IN A 168.243.1.4
+correo 4320 IN CNAME ghs.L.GOOGLE.COM.
+alum 4320 IN MX 10 ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+4320 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+4320 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+4320 IN MX 30 ASPMX4.GOOGLEMAIL.COM.
+4320 IN MX 30 ASPMX5.GOOGLEMAIL.COM.
+alum 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+4320 IN TXT "google-site-verification=uOu5U9izayhQrMNs41a_E6qz2kIfyc-Bn0gqNl_jqEM"
+admision 4320 IN A 168.243.1.152
+consulta 4320 IN A 168.243.1.114
+gsl 4320 IN A 168.243.1.205
+mapas 4320 IN A 168.243.1.46
+xpec 4320 IN A 168.243.1.171
+testwsia 4320 IN A 168.243.1.42
+asg 4320 IN A 168.243.1.124
+asg 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+wsprb 4320 IN A 168.243.1.117
+cnotas 4320 IN CNAME nwsia
+mail 4320 IN A 168.243.1.12
+mail 4320 IN MX 5 mail
+4320 IN MX 15 asg05
+mail 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+xine 4320 IN A 168.243.1.167
+cef 4320 IN A 168.243.1.35
+virtual 4320 IN A 54.243.199.44
+abaco2 4320 IN A 168.243.1.5
+aula 4320 IN A 54.243.199.44
+vdae 4320 IN A 168.243.1.33
+ing 4320 IN CNAME buho
+cotecoin 4320 IN A 168.243.1.141
+moodle10 4320 IN A 168.243.1.41
+moodle10 4320 IN MX 5 moodle10
+dei 4320 IN A 168.243.1.33
+moodle12 4320 IN A 168.243.1.41
+moodle12 4320 IN MX 5 moodle12
+moodle11 4320 IN A 168.243.1.41
+moodle11 4320 IN MX 5 moodle11
+abaco 4320 IN A 168.243.1.5
+crc 4320 IN A 168.243.1.19
+crc 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+crc 4320 IN MX 5 crc
+xep 4320 IN A 168.243.1.169
+campus 4320 IN CNAME campus2
+consultas 4320 IN CNAME nwsia
+websig 4320 IN A 168.243.1.43
+masculinidades 4320 IN A 168.243.1.41
+masculinidades 4320 IN MX 5 masculinidades
+diplomados 4320 IN A 168.243.1.41
+diplomados 4320 IN MX 5 diplomados
+eco 4320 IN CNAME buho
+educacion 4320 IN A 168.243.1.41
+educacion 4320 IN MX 5 educacion
+generodos 4320 IN A 168.243.1.41
+generodos 4320 IN MX 5 generodos
+migraciones 4320 IN A 168.243.1.41
+migraciones 4320 IN MX 5 migraciones
+di 4320 IN A 168.243.1.4
+di 4320 IN MX 10 ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+4320 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+4320 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+4320 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+di 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+doe 4320 IN A 168.243.1.34
+asg01 4320 IN A 168.243.1.124
+asg01 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+asg02 4320 IN A 168.243.1.27
+asg02 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+asg03 4320 IN A 168.243.1.36
+asg03 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+asg05 4320 IN A 168.243.1.88
+4320 IN A 168.243.1.135
+asg05 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+asg06 4320 IN A 168.243.1.16
+4320 IN A 168.243.1.68
+4320 IN A 168.243.1.88
+asg06 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+4320 IN TXT "v=spf1 ip4:190.57.73.69/32 ip4:168.243.1.0/27 ip4:168.243.1.64/27 include:_spf.google.com ~all"
+asg07 4320 IN A 168.243.1.75
+asg07 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+campus2 4320 IN A 168.243.1.127
+asg09 4320 IN A 168.243.1.3
+4320 IN A 168.243.1.88
+asg09 4320 IN TXT "v=spf1" "redirect=uca.edu.sv"
+4320 IN TXT "v=spf1 ip4:190.57.73.69/32 ip4:168.243.1.0/27 ip4:168.243.1.64/27 include:_spf.google.com ~all"
+dos 4320 IN A 168.243.1.35

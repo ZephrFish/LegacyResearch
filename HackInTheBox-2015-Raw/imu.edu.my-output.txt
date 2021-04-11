@@ -1,0 +1,104 @@
+@ 86400 IN SOA nspp.mykris.net. noc.mykris.net. 1504280004 900 600 86400 3600
+@ 3600 IN NS ns2.afraid.org.
+3600 IN NS nspp.mykris.net.
+3600 IN NS nssp.mykris.net.
+@ 3600 IN A 14.102.151.74
+@ 3600 IN MX 10 imu-edu-my.mail.protection.outlook.com.
+3600 IN MX 30 smtp
+3600 IN MX 80 gate2
+@ 3600 IN TXT "v=spf1 mx ptr mx:smtp.imu.edu.my mx:gate2.imu.edu.my ip4:211.25.200.67 ip4:119.110.110.182 include:spf.protection.outlook.com -all"
+e-photo 3600 IN A 211.25.200.121
+sip.tls.studentpress 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+zoomin 3600 IN A 14.102.151.74
+rep 3600 IN A 14.102.151.191
+sip.tls.student 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+eportfolio 3600 IN A 211.25.200.88
+helpdesk 3600 IN A 211.25.200.77
+imunews 3600 IN A 14.102.151.74
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+elearning 3600 IN A 211.25.200.91
+*.ezp 3600 IN A 211.25.200.68
+www 3600 IN CNAME @
+imubkjexh01 3600 IN A 211.25.200.123
+partnerschool 3600 IN A 211.25.200.76
+hrportal 3600 IN A 211.25.200.115
+sew 3600 IN A 211.25.200.110
+fis 3600 IN A 211.25.200.119
+fit 3600 IN A 211.25.200.103
+gate2 3600 IN A 119.110.110.182
+smtp 3600 IN A 211.25.200.67
+survey 3600 IN A 119.110.110.184
+sip 3600 IN CNAME sipdir.online.lync.com.
+webmail 3600 IN A 211.25.200.95
+smtp1 3600 IN A 211.25.200.89
+i-lib 3600 IN A 14.102.151.74
+amea2011 3600 IN A 211.25.200.110
+ezp 3600 IN A 211.25.200.68
+moodle 3600 IN A 211.25.200.91
+autodiscover 3600 IN A 211.25.200.95
+convo 3600 IN A 211.25.200.76
+fscm 3600 IN A 211.25.200.103
+src 3600 IN A 14.102.151.74
+src 3600 IN MX 40 src-imu-edu-my.mail.eo.outlook.com.
+src 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+mail 3600 IN MX 50 mail-imu-edu-my.mail.protection.outlook.com.
+mail 3600 IN TXT "v=spf1 include:outlook.com ~all"
+forum 3600 IN A 14.102.151.74
+slimuat 3600 IN A 211.25.200.120
+autodiscover.studen 3600 IN CNAME autodiscover.outlook.com.
+activitydb 3600 IN A 211.25.200.124
+vmwareview 3600 IN A 211.25.200.82
+sslvpn 3600 IN A 211.25.200.96
+commed 3600 IN A 211.25.200.96
+staffportal 3600 IN A 211.25.200.97
+3600 IN A 211.25.200.115
+irdi 3600 IN A 14.102.151.74
+imucares 3600 IN A 14.102.151.74
+ns1 3600 IN A 211.25.200.94
+ns2 3600 IN A 119.110.110.168
+studentpress 3600 IN MX 70 studentpress-imu-edu-my.mail.protection.outlook.com.
+studentpress 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+sip.studentpress 3600 IN CNAME sipdir.online.lync.com.
+ice 3600 IN A 14.102.151.74
+icl 3600 IN A 211.25.200.81
+ndssc2013 3600 IN A 211.25.200.113
+imuevents 3600 IN A 211.25.200.113
+test01 3600 IN TXT "adqsd adAD ad"
+cce 3600 IN A 211.25.200.102
+imuportal 3600 IN A 211.25.200.79
+lyncdiscover.studentpress 3600 IN CNAME webdir.online.lync.com.
+primalpictures 3600 IN A 211.25.200.92
+stream 3600 IN A 211.25.200.71
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+fit-uat 3600 IN A 211.25.200.119
+files 3600 IN A 211.25.200.114
+elearn 3600 IN A 211.25.200.112
+starwaltz 3600 IN A 14.102.151.74
+adfs 3600 IN A 211.25.200.104
+student-mobility 3600 IN A 211.25.200.81
+sipfederationtls.tcp.studentpress 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+student 3600 IN A 211.25.200.67
+student 3600 IN MX 20 student-imu-edu-my.mail.protection.outlook.com.
+student 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+feedback 3600 IN A 14.102.151.74
+blog 3600 IN CNAME 219872.webhost13.hubspot.net.
+passwordreset 3600 IN A 211.25.200.106
+web 3600 IN A 211.25.200.74
+rsvp 3600 IN A 211.25.200.76
+i-loc 3600 IN A 211.25.200.70
+sipfederationtls.tcp.student 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+autodiscover.studentpress 3600 IN CNAME autodiscover.outlook.com.
+its 3600 IN A 14.102.151.74
+slim 3600 IN A 211.25.200.117
+itsapps 3600 IN A 211.25.200.76
+umis 3600 IN A 211.25.200.85
+slimdata 3600 IN A 211.25.200.118
+msoid.studentpress 3600 IN CNAME clientconfig.microsoftonline-p.net.
+healthcare 3600 IN A 14.102.151.74
+msoid.student 3600 IN CNAME clientconfig.microsoftonline-p.net.
+info 3600 IN CNAME 219872.group22.sites.hubspot.net.
+tims 3600 IN A 211.25.200.78
+sip.student 3600 IN CNAME sipdir.online.lync.com.
+lyncdiscover.student 3600 IN CNAME webdir.online.lync.com.
+alumni 3600 IN A 14.102.151.74
+studentportal 3600 IN A 211.25.200.117

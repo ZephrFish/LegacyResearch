@@ -1,0 +1,17 @@
+@ 14400 IN SOA vns1.nocdirect.com. admin.nocdirect.com. 2014062900 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS vns1.nocdirect.com.
+86400 IN NS vns2.nocdirect.com.
+@ 14400 IN A 69.73.170.122
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHspqMtD1lab2L4rGNH4INi6u350Wp72pSL69V/7bbqyMyUV5JhvmNmzps4S1aLwkwAafGcGrewXEv3jkhJSjExkDGS4aTzhJNqlvNb310L2bpxzXRyYoYyQnGSf37BfGHSE+Xix4ofXYUvLiydc7n+WiV5IsAzx8bXWCYTjx7JQIDAQAB;"
+webmail 14400 IN A 69.73.170.122
+webdisk 14400 IN A 69.73.170.122
+ftp 14400 IN A 69.73.170.122
+cpanel 14400 IN A 69.73.170.122
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME @
+autoconfig 14400 IN A 69.73.170.122
+autodiscover 14400 IN A 69.73.170.122
+whm 14400 IN A 69.73.170.122
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.

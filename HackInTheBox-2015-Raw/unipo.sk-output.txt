@@ -1,0 +1,148 @@
+@ 86400 IN SOA dubnik hilovsky 2015041700 21600 3600 1209600 86400
+@ 86400 IN NS ns
+86400 IN NS sun.uakom.sk.
+86400 IN NS dubnik
+@ 3600 IN MX 0 unipo-sk.mail.protection.outlook.com.
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+fm 86400 IN NS ns
+86400 IN NS dubnik
+fs 86400 IN NS ns
+86400 IN NS dubnik
+magister 86400 IN CNAME dubnik
+napulze 86400 IN A 194.160.246.99
+fz 86400 IN NS ns
+86400 IN NS dubnik
+galeriapf 86400 IN CNAME dubnik
+redakcia 86400 IN A 194.160.250.126
+studentsmail 3600 IN CNAME dubnik
+ig 86400 IN CNAME dubnik
+iphelp 86400 IN CNAME dubnik
+daphne 86400 IN CNAME dubnik
+sanet 86400 IN CNAME dubnik
+helpdesk 86400 IN CNAME dm
+projekty 86400 IN CNAME dubnik
+bart 86400 IN CNAME dubnik
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+elearning 86400 IN CNAME sekcov
+maistest 86400 IN A 194.160.192.16
+oldwww 86400 IN A 194.160.192.15
+moodle-test 86400 IN CNAME opal
+pafradio 86400 IN CNAME dubnik
+alcnauer 86400 IN CNAME dubnik
+www 86400 IN CNAME dubnik
+ns 86400 IN A 194.160.192.11
+pf 86400 IN NS dns.pf
+86400 IN NS sun.uakom.sk.
+86400 IN NS dubnik
+elearning2 86400 IN A 194.160.192.72
+maisdebata 86400 IN A 194.160.192.17
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+ckvv 86400 IN A 194.160.198.2
+vmware1 86400 IN A 194.160.192.251
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+ais-old 86400 IN A 194.160.192.22
+sb 86400 IN A 194.160.192.200
+espolupraca 86400 IN CNAME dubnik
+portalidm 86400 IN A 194.160.192.95
+smail 3600 IN MX 0 smail-unipo-sk.mail.protection.outlook.com.
+smail 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+sis 86400 IN A 194.160.192.250
+webmail 86400 IN CNAME dubnik
+tv 86400 IN NS ns
+86400 IN NS dubnik
+javor 86400 IN CNAME dubnik
+dubnik 86400 IN A 194.160.192.14
+thales.ff 86400 IN A 193.87.209.34
+pavlus 86400 IN CNAME dubnik
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+rovnak 86400 IN CNAME dubnik
+shop 86400 IN CNAME dubnik
+haj 86400 IN CNAME dubnik
+ftp 86400 IN CNAME dubnik
+gks 86400 IN NS ns
+86400 IN NS dubnik
+rekt 86400 IN NS ns
+86400 IN NS dubnik
+net 86400 IN CNAME dubnik
+connectdb 86400 IN A 194.160.192.27
+ssc 86400 IN NS ns
+86400 IN NS dubnik
+sekcov 86400 IN A 194.160.192.24
+dns.pf 86400 IN A 194.160.198.6
+professionalethics 86400 IN CNAME dubnik
+ecce 86400 IN CNAME dubnik
+oldmail 3600 IN CNAME dubnik
+konferencia 86400 IN CNAME dubnik
+nil 86400 IN CNAME dubnik
+vmware2 86400 IN A 194.160.192.100
+vmware3 86400 IN A 194.160.192.130
+vmware4 86400 IN A 194.160.192.140
+udk 86400 IN CNAME dubnik
+torysa 86400 IN A 194.160.192.13
+vportal 86400 IN A 194.160.250.211
+ufo 86400 IN CNAME dubnik
+term 86400 IN NS ns
+86400 IN NS dubnik
+gtf 86400 IN NS ns
+86400 IN NS dubnik
+sip 3600 IN CNAME sipdir.online.lync.com.
+lcms 86400 IN A 194.160.192.71
+router-fhpv 86400 IN A 194.160.192.3
+dubrava 86400 IN A 194.160.192.11
+mail 3600 IN CNAME dubnik
+fyzika 86400 IN CNAME dubnik
+mais 86400 IN A 194.160.192.19
+rozvrh 86400 IN CNAME mais
+calimero 86400 IN A 194.160.192.86
+seman 86400 IN CNAME dubnik
+pbf 86400 IN NS ns
+86400 IN NS dubnik
+avs 86400 IN CNAME dubnik
+olymp.fhpv 86400 IN A 194.160.193.14
+actapatristica 86400 IN CNAME dubnik
+ktdk 86400 IN CNAME dubnik
+upc 3600 IN CNAME mefanet
+opal 86400 IN A 194.160.192.20
+dmm 86400 IN A 194.160.250.210
+ruc 86400 IN CNAME dubnik
+student 86400 IN A 194.160.192.18
+mefanet 86400 IN A 194.160.192.131
+beta 3600 IN CNAME dubnik
+das 86400 IN CNAME in2.pf
+dynamicassessment 86400 IN CNAME dubnik
+pluto 86400 IN A 194.160.192.25
+iskp 86400 IN A 194.160.192.141
+wiki 86400 IN A 194.160.192.73
+tsmserver1 86400 IN A 194.160.192.45
+tsmserver2 86400 IN A 194.160.192.42
+pks 86400 IN NS ns
+86400 IN NS dubnik
+www.ses 86400 IN CNAME dubnik
+ip-erasmus-presov 86400 IN CNAME dubnik
+dejiny 86400 IN NS ns
+86400 IN NS dubnik
+indi 86400 IN CNAME dubnik
+lexikonpedagogov 3600 IN CNAME dubnik
+moodle-pf 86400 IN CNAME opal
+fhpv 86400 IN NS sun.uakom.sk.
+86400 IN NS olymp.fhpv
+86400 IN NS dubnik
+dis 86400 IN A 194.160.192.30
+connect 86400 IN A 194.160.192.26
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+opal-test 86400 IN CNAME opal
+mamrilla 86400 IN CNAME dubnik
+ecm 86400 IN A 194.160.192.110
+moodle-gtf 86400 IN CNAME opal
+sdj 86400 IN NS ns
+86400 IN NS dubnik
+cvt 86400 IN NS ns
+86400 IN NS dubnik
+test-brisk 86400 IN A 194.160.192.115
+dm 3600 IN A 194.160.192.36
+brisk 86400 IN A 194.160.192.110
+du 86400 IN CNAME dubnik
+ff 86400 IN NS sun.uakom.sk.
+86400 IN NS dubnik
+86400 IN NS thales.ff
+autodiscover.smail 3600 IN CNAME autodiscover.outlook.com.

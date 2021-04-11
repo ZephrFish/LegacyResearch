@@ -1,0 +1,91 @@
+@ 3600 IN SOA a1 florin 2015040249 3600 900 1209600 3600
+@ 3600 IN NS a1
+3600 IN NS ns2
+@ 3600 IN A 78.96.7.7
+3600 IN A 78.96.48.4
+3600 IN A 78.96.59.4
+3600 IN A 95.77.94.77
+@ 3600 IN MX 10 mail
+glass 3600 IN A 78.96.59.98
+vcon 3600 IN A 78.96.59.15
+dppd 3600 IN A 78.96.59.27
+electronica 3600 IN CNAME ee
+balkantrib 3600 IN A 78.96.59.56
+guard 3600 IN A 78.96.59.19
+evaluare 3600 IN A 78.96.59.53
+ipg 3600 IN A 78.96.59.24
+ace 3600 IN A 78.96.59.30
+dse 3600 IN A 78.96.59.26
+conferinte 3600 IN A 78.96.59.50
+trafic 3600 IN A 78.96.59.31
+studenti 3600 IN A 78.96.59.34
+a1 3600 IN A 78.96.59.4
+www.ls 3600 IN CNAME litere-stiinte
+firewall 3600 IN A 78.96.59.8
+bulletin 3600 IN A 78.96.59.45
+msoid.staff 3600 IN CNAME clientconfig.microsoftonline-p.net
+www.dmg 3600 IN CNAME dmg
+tpp 3600 IN A 78.96.59.25
+upp 3600 IN A 78.96.59.46
+www.ac 3600 IN CNAME ace
+im 3600 IN A 78.96.59.52
+www.bulletin 3600 IN CNAME bulletin
+idfr 3600 IN A 78.96.59.48
+dcif 3600 IN A 78.96.59.28
+timf 3600 IN A 78.96.59.51
+litere-stiinte 3600 IN A 78.96.59.41
+mail 3600 IN A 78.96.59.126
+_sip._tls.student 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+editura 3600 IN A 78.96.59.43
+vechi 3600 IN A 78.96.59.49
+www.ime 3600 IN CNAME ime
+www.tipigi 3600 IN CNAME tipigi.upg.ploiesti.ro.
+documente 3600 IN A 78.96.59.54
+jesp 3600 IN A 78.96.59.39
+informatica2 3600 IN A 78.96.59.37
+ns2 3600 IN A 78.96.48.4
+bamse 3600 IN A 78.96.59.35
+autodiscover.staff 3600 IN CNAME autodiscover.outlook.com.
+www.elect 3600 IN CNAME elect
+student 3600 IN MX 10 student-upgploiesti-ro02i.mail.eo.outlook.com.
+student 3600 IN TXT "MS=ms84009796"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+ac 3600 IN CNAME ace
+www.se 3600 IN CNAME se
+tipigi 3600 IN A 78.96.59.21
+www.ee 3600 IN CNAME ee
+inde 3600 IN A 78.96.59.20
+staff 3600 IN MX 10 staff-upgploiesti-ro02c.mail.protection.outlook.com.
+staff 3600 IN TXT "MS=ms27128743"
+3600 IN TXT "v=spf1 a mx ip4:78.96.59.126 ~all"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+www.ipg 3600 IN CNAME ipg
+www.ace 3600 IN CNAME ace
+tfmi 3600 IN A 78.96.59.47
+www.tpp 3600 IN CNAME tpp
+certimf 3600 IN CNAME timf
+portal 3600 IN A 78.96.59.101
+biblioteca 3600 IN A 78.96.59.36
+tppconferinte 3600 IN A 78.96.59.58
+dmg 3600 IN A 78.96.59.44
+www 3600 IN A 78.96.59.6
+rtupg 3600 IN A 78.96.59.1
+termo 3600 IN A 78.96.59.32
+informatica 3600 IN CNAME timf
+www.portal 3600 IN CNAME portal
+www.termo 3600 IN CNAME termo
+www.informatica 3600 IN CNAME timf
+sindicat 3600 IN A 78.96.59.55
+educat 3600 IN A 78.96.59.103
+se 3600 IN A 78.96.59.22
+ee 3600 IN A 78.96.59.42
+ime 3600 IN A 78.96.59.23
+_sipfederationtls._tcp.student 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+elect 3600 IN A 78.96.59.38
+hanibal 3600 IN A 78.96.59.14
+autodiscover.student 3600 IN CNAME autodiscover.outlook.com.
+allumni 3600 IN A 78.96.59.33
+ls 3600 IN CNAME litere-stiinte
+beta 3600 IN CNAME vechi
+jlsl 3600 IN A 78.96.59.40
+cercetare 3600 IN A 78.96.59.100

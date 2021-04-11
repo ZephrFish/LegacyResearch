@@ -1,0 +1,79 @@
+@ 172800 IN SOA ns1 root.ns1 2015050100 10800 3600 604800 86400
+@ 172800 IN NS ns1
+172800 IN NS ns2
+@ 172800 IN MX 1 aspmx.l.google.com.
+172800 IN MX 5 alt1.aspmx.l.google.com.
+172800 IN MX 5 alt2.aspmx.l.google.com.
+172800 IN MX 10 aspmx2.googlemail.com.
+172800 IN MX 10 aspmx3.googlemail.com.
+@ 172800 IN TXT "v=spf1 mx a:gw.dominican.edu ip4:71.156.97.199 ip4:24.104.130.102 include:aspmx.googlemail.com include:technolutions.net ~all"
+@ 172800 IN A 70.36.170.189
+ezproxy 172800 IN A 24.104.53.21
+cards 172800 IN CNAME my
+innopaq 172800 IN CNAME ftp
+alertus 172800 IN A 24.104.53.46
+ns1 172800 IN A 70.36.170.182
+ns2 172800 IN A 24.104.53.10
+leadership 172800 IN A 70.36.170.182
+library 172800 IN A 70.36.170.182
+gw 172800 IN A 24.104.130.102
+admissions 172800 IN CNAME cluster.technolutions.net.
+penguinradio 172800 IN A 24.104.53.7
+_xmpp-server._tcp 172800 IN SRV 5 0 5269 xmpp-server.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server1.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server2.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server3.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server4.l.google.com.
+moodle 172800 IN A 24.104.53.2
+scholar 172800 IN CNAME dcdominican.bepress.com.
+emailreg6aebc340808c9511 172800 IN CNAME emailreg.org
+stuauth 172800 IN A 24.104.53.22
+cal 172800 IN CNAME ghs.google.com.
+athletics 172800 IN A 70.36.170.182
+calendar 172800 IN A 70.36.170.182
+supporting 172800 IN NS ns7.app-info.net.
+172800 IN NS ns8.app-info.net.
+sites 172800 IN CNAME ghs.google.com.
+radio 172800 IN A 199.34.228.47
+groups 172800 IN CNAME ghs.google.com.
+libguides 172800 IN CNAME v2.libguides.com.
+webmeetings 172800 IN A 24.104.53.6
+vpn 172800 IN A 24.104.53.30
+ithelp 172800 IN CNAME ithome
+memories 172800 IN A 70.36.170.182
+auth 172800 IN A 24.104.53.5
+search 172800 IN A 70.36.170.184
+media 172800 IN A 70.36.170.183
+_jabber._tcp 172800 IN SRV 5 0 5269 xmpp-server.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server1.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server2.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server3.l.google.com.
+172800 IN SRV 20 0 5269 xmpp-server4.l.google.com.
+sftp 172800 IN CNAME ftp
+aid 172800 IN A 24.104.53.5
+secure 172800 IN A 70.36.170.182
+ftp 172800 IN A 24.104.53.11
+www 172800 IN A 70.36.170.189
+my 172800 IN A 70.36.170.183
+docs 172800 IN CNAME ghs.google.com.
+academics 172800 IN A 70.36.170.182
+fsauth 172800 IN A 24.104.53.12
+bbb 172800 IN A 24.104.53.4
+video 172800 IN CNAME ghs.google.com.
+pcwebtest 172800 IN A 24.104.53.25
+*.ezproxy 172800 IN A 24.104.53.21
+ihumanities 172800 IN CNAME ghs.google.com.
+surveys 172800 IN A 24.104.53.43
+catalog 172800 IN A 70.36.170.182
+inauguration 172800 IN A 66.135.59.22
+alumni 172800 IN A 24.73.102.180
+helpdesk 172800 IN A 24.104.53.19
+libanswers 172800 IN CNAME v2.libanswers.com.
+passwordmanager 172800 IN A 24.104.53.8
+contacts 172800 IN CNAME ghs.google.com.
+alt 172800 IN A 70.36.170.190
+m.library 172800 IN CNAME ghs.google.com.
+selfservice 172800 IN A 24.104.53.24
+ithome 172800 IN A 70.36.170.182
+gmail 172800 IN CNAME ghs.google.com.
+google8a2b62f67b9b9aae 172800 IN CNAME google.com.

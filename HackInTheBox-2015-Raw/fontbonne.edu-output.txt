@@ -1,0 +1,68 @@
+@ 86400 IN SOA ns1.securityspace.net. mfranz 1033738 21600 3600 604800 86400
+@ 86400 IN TXT "MS=ms23274942"
+86400 IN TXT "  v=spf1 mx:barracuda.fontbonne.edu ip4:68.188.68.12 ?all   "
+86400 IN TXT "google-site-verification=wBuCpp9hkpiUyGXW5dk9-z9Q8Ca_MqfCHSL8QWQnBFo"
+@ 86400 IN A 204.232.170.144
+@ 86400 IN NS ns1.securityspace.net.
+86400 IN NS ns2.securityspace.net.
+86400 IN NS ns3.securityspace.net.
+86400 IN NS ns4.securityspace.net.
+@ 86400 IN MX 15 barracuda
+exchange 86400 IN CNAME fontbonne-exch
+finearts 86400 IN A 68.188.68.9
+admnserv 86400 IN A 68.188.68.14
+webmail 86400 IN A 68.188.73.27
+calculator 86400 IN A 184.73.195.81
+blog 86400 IN A 204.232.170.144
+facultyweb 86400 IN A 68.188.68.10
+lsav01 86400 IN A 68.188.73.23
+86400 IN A 68.188.73.26
+servicedesk 86400 IN A 68.188.68.52
+dialin 86400 IN A 68.188.68.57
+lsrp01 86400 IN A 68.188.68.57
+astra 86400 IN A 68.188.68.17
+fb-vmcars 86400 IN A 68.188.68.61
+owas 86400 IN A 68.188.68.57
+business 86400 IN A 204.232.170.144
+gatekeeper 86400 IN A 68.188.68.17
+bblearn 86400 IN A 68.188.68.56
+classclimate 86400 IN A 68.188.68.28
+passwordreset 86400 IN A 68.188.68.47
+dev 86400 IN CNAME aubrey.websanity.com.
+passwordregistration 86400 IN A 68.188.73.19
+lsaccess01 86400 IN A 68.188.73.21
+86400 IN A 68.188.73.24
+mathcswc 86400 IN A 68.188.68.20
+mail 86400 IN MX 15 barracuda
+fontbanner 86400 IN A 204.232.170.144
+autodiscover 86400 IN A 68.188.73.27
+staging 86400 IN A 204.232.170.144
+lswebconf01 86400 IN A 68.188.73.22
+86400 IN A 68.188.73.25
+fozzie 86400 IN A 68.188.68.41
+bblearn2 86400 IN A 68.188.68.56
+sip 86400 IN A 68.188.73.21
+86400 IN A 68.188.73.24
+wiki 86400 IN A 204.232.170.144
+mdev 86400 IN A 204.232.170.144
+lyncdiscover 86400 IN A 68.188.68.57
+m 86400 IN A 204.232.170.144
+counselors 86400 IN A 204.232.170.144
+griffinnet 86400 IN A 68.188.68.51
+meet 86400 IN A 68.188.68.57
+_sipfederationtls._tcp 86400 IN SRV 0 0 5061 sip
+www 86400 IN A 204.232.170.144
+barracuda 86400 IN A 68.188.68.12
+files.campus 86400 IN A 68.188.68.35
+_sip._tls 86400 IN SRV 0 0 443 lsaccess01
+*.gatekeeper 86400 IN A 68.188.68.17
+re 86400 IN A 68.188.73.20
+kermit 86400 IN A 68.188.68.18
+library 86400 IN CNAME v2.libguides.com.
+webcam 86400 IN A 68.188.68.53
+photos 86400 IN CNAME domains.smugmug.com.
+fb-vmcamsport 86400 IN A 68.188.68.18
+studentweb 86400 IN A 68.188.68.32
+fontbonne-exch 86400 IN A 68.188.68.15
+gonzo 86400 IN A 68.188.68.40
+fsblog 86400 IN A 204.232.170.144

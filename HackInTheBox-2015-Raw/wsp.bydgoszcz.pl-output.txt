@@ -1,0 +1,16 @@
+@ 86400 IN SOA ns1.magnes.pl. kontakt.magnes.pl. 2014052636 10800 3600 604800 10800
+@ 86400 IN MX 10 mail
+@ 86400 IN TXT "v=spf1 +a +mx -all"
+@ 86400 IN A 94.23.95.44
+@ 86400 IN NS ns1.magnes.pl.
+86400 IN NS ns2.magnes.pl.
+*.webmail 86400 IN CNAME @
+pop 86400 IN A 94.23.95.44
+webmail 86400 IN A 94.23.95.44
+ftp 86400 IN CNAME @
+www 86400 IN CNAME @
+ns 86400 IN A 94.23.95.44
+pop3 86400 IN A 94.23.95.44
+mail 86400 IN A 94.23.95.44
+imap 86400 IN A 94.23.95.44
+smtp 86400 IN A 94.23.95.44

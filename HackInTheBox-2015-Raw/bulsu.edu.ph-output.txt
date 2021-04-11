@@ -1,0 +1,33 @@
+@ 86400 IN SOA ns.wsiph2.com. admin.webfocus.ph. 2012090770 10800 3600 604800 86400
+@ 86400 IN NS ns.wsiph2.com.
+86400 IN NS ns2.wsiph2.com.
+@ 86400 IN A 207.198.102.22
+@ 1800 IN MX 1 ASPMX.L.GOOGLE.COM.
+1800 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+1800 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+1800 IN MX 10 mail2.wsiph2.com.
+1800 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+1800 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+google63b2e75dc71d37f1 86400 IN CNAME google.com.
+mail.test 86400 IN CNAME mail6.wsiph2.com.
+mail.opac 86400 IN CNAME mail9.wsiph2.com.
+mail.research 86400 IN CNAME mail2.wsiph2.com.
+default._domainkey.research 86400 IN TXT "t=y; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAJ+YlFPVx4g68eLme2brUX5Z1ZQhXUNPi+cIY2eEmcTW1XP1lpqVnmU5uwdZ4WBjKZ4t4Pe9+3gMH01zlmqMD1JeAp+H9dK6hLO45t2Ii06ihypN0/B6SyXjI3fEPz4JxwIDAQAB;"
+* 86400 IN A 207.198.102.22
+default._domainkey.opac 86400 IN TXT "t=y; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAMOg1qcpPQvSCLT1IzJ7Ee283hwNL53tt8S/236TXlTuiuUNVzlFcpZuTkRr9oMC5psXaRAM7+ONUWNMJfOqY9ILLYoPBcW+lMNPy9cjDG+sbIt/AVNe2RffBO/soHujSwIDAQAB;"
+_domainkey.opac 86400 IN TXT "t=y; o=~; n=http://antispam.yahoo.com/domainkeys"
+*.research 86400 IN A 72.29.85.210
+mail 1800 IN CNAME ghs.googlehosted.com.
+research 86400 IN A 72.29.85.210
+research 86400 IN MX 10 mail2.wsiph2.com.
+research 86400 IN TXT "v=spf1 a mx ip4:207.198.100.186/28 -all"
+_domainkey.research 86400 IN TXT "t=y; o=~; n=http://antispam.yahoo.com/domainkeys"
+test 86400 IN MX 10 mail6.wsiph2.com.
+*.coe 86400 IN A 207.198.102.22
+mail.coe 86400 IN CNAME mail9.wsiph2.com.
+opac 86400 IN A 192.168.2.12
+opac 86400 IN MX 10 mail9.wsiph2.com.
+opac 86400 IN TXT "v=spf1 a mx ip4:216.157.81.73/28 -all"
+*.opac 86400 IN A 192.168.2.12
+coe 86400 IN A 207.198.102.22
+coe 86400 IN MX 10 mail9.wsiph2.com.

@@ -1,0 +1,404 @@
+@ 300 IN SOA shonan root.shonan 314 300 900 3600000 3600
+@ 300 IN NS ktns2.ktokai-u.ac.jp.
+300 IN NS mugen
+300 IN NS kamome
+300 IN NS shonan
+@ 300 IN MX 10 vmta02.cc
+300 IN MX 20 vmta01.cc
+@ 300 IN TXT "v=spf1 +ip4:150.7.0.0/16 +ip4:202.250.0.0/20 ~all"
+saap.sc 300 IN A 150.7.43.162
+sci.meister 300 IN A 150.7.250.13
+www.mnc 300 IN A 150.7.52.44
+www.aim 300 IN A 150.7.250.13
+jack.ss 300 IN A 150.7.21.49
+scc 300 IN NS mugen
+300 IN NS ryugu.scc
+300 IN NS shonan
+bach.office 300 IN A 150.7.25.1
+globedial.slge 300 IN A 150.7.81.60
+tk.jj 300 IN A 150.7.68.1
+tokai-ais.gc 300 IN NS 150.7.74.17
+www.glyco 300 IN A 150.7.250.13
+www12.cyber 300 IN A 150.7.31.220
+ntosyo 300 IN NS ashitaka.ncc
+shc 300 IN NS ns1.shc
+shn 300 IN NS mugen
+300 IN NS kamome
+300 IN NS shonan
+sho 300 IN NS shoyo.sho
+cosmo.sc 300 IN A 150.7.43.167
+sjc 300 IN NS rindow.sjc
+aom.eh 300 IN A 150.7.56.14
+nelson.satntt 300 IN A 150.7.185.254
+tcc 300 IN NS tdns.tcc
+hie.ma 300 IN A 150.7.57.26
+idw051.icc 300 IN A 150.7.150.100
+mplaza.cyber 300 IN A 150.7.2.39
+ftp.hum 300 IN CNAME muse.hum
+yuri00.tsh 300 IN A 150.7.128.1
+smz 300 IN NS ryugu.scc
+bach.office.ee 300 IN A 150.7.25.1
+kb 300 IN NS ryugu.scc
+www2.ab 300 IN A 150.7.122.101
+kurosio.scc 300 IN A 150.7.205.5
+bunsan.media 300 IN MX 10 bunsan.media
+bunsan.media 300 IN A 150.7.36.171
+s.slge 300 IN A 150.7.81.45
+s3.flc 300 IN A 150.7.45.119
+tok 300 IN MX 10 vmta01.cc
+300 IN MX 20 vmta02.cc
+tok 300 IN TXT "v=spf1 +ip4:150.7.0.0/16 +ip4:202.250.0.0/20 ~all"
+kk 300 IN NS ryugu.scc
+_sip._tls.t365 300 IN SRV 100 1 443 sipdir.online.lync.com.
+www.bosei39 300 IN NS 150.7.250.13
+tsc 300 IN NS mugen
+300 IN NS kamome
+300 IN NS shonan
+tsh 300 IN NS yuri00.tsh
+mail 300 IN MX 10 vmta02.cc
+300 IN MX 20 vmta01.cc
+mail 300 IN TXT "v=spf1 +ip4:150.7.0.0/16 +ip4:202.250.0.0/20 ~all"
+agri 300 IN MX 10 vmta02.cc
+300 IN MX 20 vmta01.cc
+agri 300 IN TXT "v=spf1 +ip4:150.7.0.0/16 +ip4:202.250.0.0/20 ~all"
+muse.hum 300 IN A 150.7.36.3
+ryugu.scc 300 IN A 150.7.205.4
+aurora.ea 300 IN A 150.7.44.1
+shimizu 300 IN NS ryugu.scc
+300 IN NS kurosio.scc
+admin 300 IN A 211.133.244.88
+nkj.ds 300 IN A 150.7.97.48
+www.ejp 300 IN A 150.7.142.1
+dasrv.ec 300 IN A 150.7.37.77
+search-news 300 IN A 180.233.133.43
+mars.ru 300 IN A 150.7.47.8
+fuji.ss 300 IN A 150.7.21.62
+www.shugyoryoku 300 IN A 150.7.250.13
+sorindb.sap 300 IN A 150.7.120.43
+nkiso 300 IN NS ashitaka.ncc
+is1.pem 300 IN A 150.7.23.9
+chem.slge 300 IN A 150.7.81.64
+www.ept 300 IN A 150.7.250.13
+www.esc 300 IN A 150.7.250.13
+aurora.ms 300 IN A 150.7.44.1
+h-bosei 300 IN NS takidani.h-bosei
+tokilab8.media 300 IN A 150.7.36.3
+www.flc 300 IN A 150.7.250.13
+www.houkan-c 300 IN A 150.7.250.13
+www.rist 300 IN CNAME mars.rist
+test.www 300 IN A 211.133.244.86
+peacock.rh 300 IN A 150.7.46.2
+athena.hum 300 IN A 150.7.36.29
+www.tric 300 IN A 150.7.204.33
+kuma 300 IN NS ktns1.ktokai-u.ac.jp.
+300 IN NS ktns2.ktokai-u.ac.jp.
+bulletin.soe 300 IN A 150.7.250.13
+xcalatII.cyber 300 IN A 150.7.31.220
+dns.ihs 300 IN A 150.7.150.100
+www.hat 300 IN A 150.7.250.13
+www.kinenkan 300 IN A 150.7.250.13
+shonan 300 IN A 150.7.1.12
+nsv.ycc 300 IN A 150.7.202.3
+ns.ss 300 IN CNAME jack.ss
+ycc 300 IN NS nsv.ycc
+300 IN NS mugen
+300 IN NS shonan
+newgauss.sm 300 IN A 150.7.27.7
+ns.mech 300 IN A 150.7.55.1
+bulletin.soie 300 IN A 150.7.250.13
+e.slge 300 IN A 150.7.81.44
+teacher.flc 300 IN A 150.7.45.107
+www.tsic 300 IN A 219.166.153.90
+www.gpm 300 IN A 150.7.250.13
+mech 300 IN NS ns.mech
+www.50th-shonan 300 IN A 150.7.250.13
+www.sc.gp 300 IN A 150.7.74.71
+www 300 IN A 211.133.244.88
+sd.eb 300 IN A 150.7.65.200
+rist 300 IN MX 10 mars.rist
+www.takanawa-cs.it 300 IN A 150.7.134.237
+mini.rist 300 IN A 150.7.49.37
+n-taiiku 300 IN NS ashitaka.ncc
+systemgw.sys 300 IN A 150.7.28.1
+jsce42kanto.ev 300 IN A 150.7.250.13
+iord 300 IN NS ryugu.scc
+www.housyokukouza 300 IN A 150.7.250.13
+student.flc 300 IN A 150.7.45.107
+lawschool.jjp 300 IN A 150.7.250.13
+alc.cyber 300 IN A 150.7.2.206
+www.hum 300 IN A 150.7.250.13
+flc 300 IN MX 10 s2.flc
+sol.rist 300 IN A 150.7.49.35
+sol.rist 300 IN MX 10 sol.rist
+ictedu 300 IN NS islab.ictedu
+dorothy.ev 300 IN A 150.7.63.64
+ns1.pem 300 IN A 150.7.23.12
+yyg 300 IN NS star.yyg
+300 IN NS mugen
+300 IN NS kamome
+300 IN NS shonan
+yy1.flc 300 IN A 150.7.45.76
+www.itk 300 IN A 150.7.250.13
+news 300 IN CNAME news.cc
+togo.satntt 300 IN A 150.7.185.1
+wave.ss 300 IN A 150.7.21.64
+rsipm.ticc 300 IN A 150.7.250.13
+time.hum 300 IN CNAME iris.hum
+www.hamalab.ji 300 IN A 150.7.250.13
+aso 300 IN NS ktns1.ktokai-u.ac.jp.
+300 IN NS ktns2.ktokai-u.ac.jp.
+www.dobm 300 IN A 150.7.250.13
+mizukankyo.hn 300 IN A 150.7.250.13
+ccp 300 IN NS ccp1.ccp
+www2.hum 300 IN CNAME iris.hum
+ao.df 300 IN A 150.7.25.248
+ao.df 300 IN MX 10 ao.df
+www.kis 300 IN CNAME kiso7.kis
+mugen 300 IN A 150.7.12.1
+sv03.tech.dm 300 IN A 150.7.25.243
+rindow.sjc 300 IN A 150.7.132.34
+kyushu 300 IN NS ktns1.ktokai-u.ac.jp.
+300 IN NS ktns2.ktokai-u.ac.jp.
+kcs.challe 300 IN A 60.32.95.149
+snaito.et 300 IN A 150.7.22.50
+gokudan.ev 300 IN A 150.7.63.39
+www.jssf11thcongress 300 IN A 150.7.250.13
+sip.t365 300 IN CNAME sipdir.online.lync.com.
+coc 300 IN A 157.112.177.129
+robocupproject.ss 300 IN A 150.7.49.26
+www.med 300 IN A 150.7.150.100
+economics.pe 300 IN A 150.7.250.13
+fmp.ab 300 IN A 150.7.122.102
+media-studies.bm 300 IN A 150.7.250.13
+ae 300 IN NS waste.ae
+www.osec 300 IN A 150.7.250.13
+ob.ma 300 IN A 150.7.57.27
+s4.flc 300 IN A 150.7.45.107
+cc 300 IN NS kamome
+300 IN NS shonan
+s1.flc 300 IN A 150.7.45.36
+ns1.shc 300 IN A 150.7.58.30
+de 300 IN NS bach.office.ee
+ea 300 IN NS aurora.ea
+archives.list_search 300 IN A 150.7.28.110
+ec 300 IN NS dasrv.ec
+dm 300 IN NS sv03.tech.dm
+300 IN NS shonan
+ee 300 IN NS bach.office.ee
+300 IN NS chopin.office.ee
+300 IN NS mozart.office.ee
+fb 300 IN NS ashitaka.ncc
+fc 300 IN NS ashitaka.ncc
+fd 300 IN NS ashitaka.ncc
+www.orrc 300 IN A 150.7.250.13
+www.snaito.et 300 IN CNAME snaito.et
+ep 300 IN NS pro.ep
+fh 300 IN NS ashitaka.ncc
+www.t365 300 IN CNAME tokaiuniv.sharepoint.com.
+fm 300 IN NS ashitaka.ncc
+brass-hokkaido.pclub 300 IN A 150.7.250.13
+tricgw2.tric 300 IN A 150.7.203.94
+300 IN A 150.7.204.94
+time1.hum 300 IN CNAME iris.hum
+ka 300 IN NS ryugu.scc
+jk 300 IN NS bach.office.jk
+kf 300 IN NS ryugu.scc
+la 300 IN NS tlaloc.la
+jt 300 IN NS jtbind.jt
+kl 300 IN NS ryugu.scc
+tsunami.ev 300 IN A 150.7.67.39
+www.nkj.ds 300 IN A 150.7.97.48
+ku 300 IN NS ryugu.scc
+kv 300 IN NS ryugu.scc
+ml 300 IN A 150.7.250.203
+ml 300 IN MX 10 vmta02.cc
+300 IN MX 20 vmta01.cc
+ml 300 IN TXT "v=spf1 +ip4:150.7.0.0/16 +ip4:202.250.0.0/20 ~all"
+ms 300 IN NS aurora.ms
+tlaloc.la 300 IN A 150.7.68.72
+oc 300 IN NS ryugu.scc
+od 300 IN NS ryugu.scc
+oe 300 IN NS ryugu.scc
+og 300 IN NS ryugu.scc
+oh 300 IN NS ryugu.scc
+oi 300 IN NS ryugu.scc
+ok 300 IN NS ryugu.scc
+ol 300 IN NS ryugu.scc
+om 300 IN NS ryugu.scc
+on 300 IN NS ryugu.scc
+www.50th-shounan 300 IN A 150.7.250.13
+or 300 IN NS ryugu.scc
+os 300 IN NS ryugu.scc
+ot 300 IN NS ryugu.scc
+www.nmt 300 IN A 211.5.209.201
+kamome 300 IN A 150.7.1.11
+z.slge 300 IN A 150.7.81.43
+rh 300 IN NS shonan
+300 IN NS peacock.rh
+www.bunmei 300 IN A 150.7.74.79
+ru 300 IN NS mars.ru
+sm 300 IN NS newgauss.sm
+waste.ae 300 IN A 150.7.61.13
+sp 300 IN NS mugen
+300 IN NS kamome
+300 IN NS shonan
+star.yyg 300 IN NS 150.7.197.240
+t365 300 IN TXT "v=spf1 +ip4:150.7.0.0/16 include:spf.protection.outlook.com ~all"
+t365 300 IN MX 0 t365-utokai-ac-jp01e.mail.protection.outlook.com.
+fax.mi 300 IN MX 10 fax.mi
+fax.mi 300 IN A 150.7.54.40
+www.plib 300 IN A 150.7.250.13
+mdl.sap 300 IN A 150.7.119.251
+www.system 300 IN A 150.7.250.13
+www.proc.it 300 IN A 150.7.250.13
+test.admin 300 IN A 211.133.244.86
+saturn.sc 300 IN A 150.7.43.165
+ma44.ma 300 IN A 150.7.57.32
+www.tkc 300 IN A 150.7.250.13
+tsicgw.tsic 300 IN A 219.166.153.89
+vb.pclub 300 IN A 150.7.250.13
+impact.ev 300 IN A 150.7.60.26
+www.europe 300 IN A 150.7.250.13
+www.jcdcgg 300 IN A 150.7.250.13
+www.denmark 300 IN A 150.7.197.110
+lyncdiscover.t365 300 IN CNAME webdir.online.lync.com.
+sessame-arc.ejp 300 IN A 150.7.141.21
+iris.hum 300 IN A 150.7.36.10
+pro.ep 300 IN A 150.7.50.123
+icc 300 IN NS idw051.icc
+www.slge 300 IN A 150.7.250.13
+osakana.sap 300 IN A 150.7.120.41
+ashitaka.ncc 300 IN A 150.7.242.11
+mozart.office.ee 300 IN A 150.7.25.3
+ihs 300 IN NS dns.ihs
+chopin.office.ee 300 IN A 150.7.25.2
+www.gtec 300 IN A 150.7.250.13
+enq.eb 300 IN A 150.7.65.188
+sun.hn 300 IN A 150.7.51.83
+www.sap 300 IN A 150.7.250.13
+www.jsap 300 IN A 150.7.250.13
+lb 300 IN NS oz.lb
+300 IN NS iris.hum
+300 IN NS muse.hum
+300 IN NS alice.lb
+www.sci 300 IN A 150.7.250.13
+tokyo-gw.tok 300 IN A 150.7.153.21
+www.sapporo 300 IN A 150.7.250.13
+ite 300 IN NS mugen
+300 IN NS kamome
+300 IN NS shonan
+phys.slge 300 IN A 150.7.81.59
+autodiscover.t365 300 IN CNAME autodiscover.outlook.com.
+cnavi 300 IN A 150.7.6.62
+mars.rist 300 IN A 150.7.49.46
+www.dk 300 IN A 150.7.250.13
+www.hlib 300 IN A 150.7.250.13
+msoid.t365 300 IN CNAME clientconfig.microsoftonline-p.net.
+www.mukailab.ji 300 IN A 150.7.250.13
+www.tec 300 IN A 150.7.250.13
+www.sms 300 IN A 150.7.250.13
+www.shikaku 300 IN A 150.7.250.13
+gw-tokyo 300 IN A 150.7.1.254
+topsgw.sys 300 IN A 150.7.28.2
+_sipfederationtls._tcp.t365 300 IN SRV 100 1 5061 sipfed.online.lync.com.
+mike.sc 300 IN A 150.7.43.161
+jtbind.jt 300 IN A 150.7.136.249
+cafe.ejp 300 IN A 150.7.141.13
+cafe.ejp 300 IN MX 10 cafe.ejp
+www.shoyo 300 IN CNAME www.shoyo.tokai.ed.jp.
+robin.hn 300 IN A 150.7.51.29
+www.ab 300 IN A 150.7.122.101
+s2.flc 300 IN A 150.7.45.117
+www.al 300 IN A 150.7.250.13
+shoyo.sho 300 IN A 150.7.129.1
+www.ao 300 IN A 150.7.250.13
+www.bg 300 IN A 150.7.250.13
+www.ylib 300 IN A 150.7.250.13
+www.ch 300 IN A 150.7.250.13
+www.da 300 IN A 150.7.37.80
+www.cl 300 IN A 150.7.250.13
+www.co 300 IN A 150.7.250.13
+www.cs 300 IN A 150.7.250.13
+www.eb 300 IN A 150.7.250.13
+www.ed 300 IN A 150.7.250.13
+www.dp 300 IN A 150.7.250.13
+www.eh 300 IN A 150.7.250.13
+www.ei 300 IN A 150.7.250.13
+www.ds 300 IN A 150.7.250.13
+www.ek 300 IN A 150.7.250.13
+www.el 300 IN A 150.7.250.13
+www.eo 300 IN A 150.7.250.13
+www.er 300 IN A 150.7.250.13
+www.es 300 IN A 150.7.250.13
+www.ev 300 IN A 150.7.250.13
+www.ex 300 IN A 150.7.250.13
+www.ey 300 IN A 150.7.250.13
+deka.challe 300 IN A 150.7.250.13
+www.tsd 300 IN A 150.7.250.13
+www.gm 300 IN A 49.212.89.143
+www.gp 300 IN A 150.7.250.13
+med 300 IN NS www.med
+www.gs 300 IN A 150.7.250.13
+www.hk 300 IN A 150.7.250.13
+tdns.tcc 300 IN A 150.7.143.11
+www.jj 300 IN A 150.7.250.13
+www.it 300 IN A 150.7.250.13
+snavi.esc 300 IN A 150.7.250.13
+mail.tric 300 IN A 150.7.204.30
+kyu 300 IN NS ktns1.ktokai-u.ac.jp.
+300 IN NS ktns2.ktokai-u.ac.jp.
+www.mi 300 IN MX 10 www.mi
+www.mi 300 IN A 150.7.54.1
+search 300 IN A 180.233.133.43
+www.satreps 300 IN A 150.7.250.13
+www.ttc 300 IN A 210.196.209.208
+mix 300 IN NS mugen
+300 IN NS kamome
+300 IN NS shonan
+ncc 300 IN NS ashitaka.ncc
+www.jura 300 IN A 150.7.250.13
+alice.lb 300 IN A 150.7.36.94
+s5.flc 300 IN A 150.7.45.128
+www.jspehss63 300 IN A 150.7.250.13
+ftp.nkj.ds 300 IN A 150.7.97.48
+globedial.sap 300 IN A 150.7.120.42
+www.ps 300 IN A 150.7.250.13
+kiso7.kis 300 IN A 150.7.50.175
+ccp1.ccp 300 IN A 150.7.97.82
+www.sc 300 IN A 150.7.81.92
+www.ss 300 IN CNAME jack.ss
+archives.list-search 300 IN A 150.7.28.110
+oz.lb 300 IN A 150.7.36.105
+oz.lb 300 IN NS alice.lb
+time2.hum 300 IN CNAME muse.hum
+www.honda 300 IN A 211.5.209.211
+hnmaster.hn 300 IN A 150.7.51.105
+www.wlb 300 IN A 150.7.250.13
+nmz 300 IN NS ashitaka.ncc
+cjob.ev 300 IN A 150.7.63.86
+Hiroumi-VAIO.jm 300 IN A 150.7.57.46
+ie.ma 300 IN A 150.7.57.22
+www.time 300 IN A 150.7.28.80
+shonan-ns 300 IN A 150.7.3.5
+h24taikai.siej 300 IN A 150.7.250.13
+nolpsv.cyber 300 IN A 150.7.2.38
+ntp 300 IN A 150.7.12.1
+takidani.h-bosei 300 IN A 150.7.186.253
+ftp.rist 300 IN CNAME mars.rist
+pem 300 IN NS is1.pem
+300 IN NS ns1.pem
+kn.df 300 IN A 150.7.22.79
+kn.df 300 IN MX 10 kn.df
+ski.pclub 300 IN A 150.7.250.13
+ftp.tric 300 IN A 150.7.204.34
+islab.ictedu 300 IN A 150.7.78.70
+www.cyber 300 IN A 150.7.250.13
+squall.eo 300 IN A 150.7.97.34
+www.matricu 300 IN A 150.7.250.13
+saap.slge 300 IN A 150.7.48.13
+ftp.tsic 300 IN A 219.166.153.91
+www.hokenc 300 IN A 150.7.74.15
+yu.jj 300 IN A 150.7.68.2
+ftp.ev 300 IN CNAME dorothy.ev
+ftp.gp 300 IN CNAME www.sc.gp
+doboku.ev 300 IN A 150.7.63.80

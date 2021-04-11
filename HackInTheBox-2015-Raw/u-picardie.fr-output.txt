@@ -1,0 +1,310 @@
+@ 604800 IN SOA gip postmaster.gip 2150416000 21600 3600 604800 172800
+@ 604800 IN NS gip
+604800 IN NS ns1.syrhano.net.
+604800 IN NS omega
+604800 IN NS orion.utc.fr.
+@ 604800 IN MX 10 mx1
+604800 IN MX 20 mx2
+604800 IN MX 50 orion.utc.fr.
+@ 604800 IN TXT "meei=577255c8d1873241bf0cc04e04bc0bbf"
+604800 IN TXT "en.meei=b9409e6853f143729fe829948cc68406"
+604800 IN TXT "fr.meei=06f27ebba0ad1bbdaf08d3caf58d1cda"
+604800 IN TXT "data.meei=5266d4edc621f8c1648b18d81a23806b"
+604800 IN TXT "v=spf1 a:mx1.u-picardie.fr a:mx2.u-picardie.fr a:gip.u-picardie.fr a:smtp-out-01.u-picardie.fr a:smtp-out-02.u-picardie.fr ?all"
+@ 3600 IN A 194.57.107.117
+smtp 604800 IN CNAME oban
+nat 604800 IN A 195.83.153.15
+sakura 604800 IN A 193.49.184.102
+ldap-rw 600 IN CNAME ldap1
+www-cache 604800 IN CNAME www-cache-01.int
+ama2009-physique 3600 IN CNAME www
+nat-etudsc 604800 IN A 195.83.152.136
+balthazar 604800 IN A 193.49.184.16
+CISCO-CAPWAP-CONTROLLER 604800 IN A 10.25.0.10
+604800 IN A 10.25.0.20
+604800 IN A 10.25.0.30
+604800 IN A 10.26.3.121
+604800 IN A 10.26.3.122
+604800 IN A 10.27.130.122
+604800 IN A 10.29.1.98
+portail1 604800 IN A 10.25.30.1
+pc-nec 604800 IN A 193.49.184.132
+wins 604800 IN CNAME pdc
+eloi 604800 IN MX 10 jeancharles.delepine.info.
+604800 IN MX 20 mx1
+horde-groupware 604800 IN A 193.49.184.39
+port-pres 604800 IN A 193.49.184.173
+jf 604800 IN A 193.49.184.29
+nat-gestart 604800 IN A 195.83.152.143
+jcd-port 604800 IN A 193.49.184.72
+ppp-as12 604800 IN A 194.57.109.124
+ppp-as13 604800 IN A 194.57.109.125
+ppp-as14 604800 IN A 194.57.109.126
+old-tutelec.espe 3600 IN CNAME webfront
+qri 604800 IN CNAME gip2
+amp2005 3600 IN CNAME www
+personnels 3600 IN CNAME www
+pop3 604800 IN CNAME oban
+tutelec.espe 3600 IN CNAME webfront
+fw2500 604800 IN A 193.49.184.120
+passoire 604800 IN A 193.49.184.121
+nat-rechsc 604800 IN A 195.83.152.135
+www.uniso 604800 IN CNAME www.dep
+nautilus 604800 IN CNAME gaia.laria
+nat-gestsante 604800 IN A 195.83.152.149
+webfront 604800 IN A 194.57.107.114
+stic 604800 IN CNAME miage
+wiki 3600 IN CNAME webfront
+mathusalem 3600 IN CNAME omega
+smtp-out-02 604800 IN A 194.57.107.13
+pc-fred-xen 604800 IN A 193.49.184.133
+rsc 604800 IN CNAME rsc-e0.rrt
+eop 604800 IN A 194.57.107.118
+www 3600 IN A 194.57.107.117
+inscription-td.psycho 604800 IN CNAME srv-soko.ca
+evenement 604800 IN CNAME webfront
+linux 604800 IN MX 10 mx1
+604800 IN MX 20 mx2
+nat-gestsc 604800 IN A 195.83.152.131
+nt 604800 IN A 193.49.184.27
+nat-etuddep 604800 IN A 195.83.152.139
+espe 3600 IN CNAME webfront
+nat-etudwifi 604800 IN A 195.83.152.134
+www.coursenligne 604800 IN CNAME coursenligne
+insset 604800 IN NS gip
+604800 IN NS omega
+w3 3600 IN CNAME www
+sifac 3600 IN CNAME www
+lucullus 604800 IN A 193.49.184.1
+lucullus 604800 IN TXT "lucullus"
+nat-invite 604800 IN A 195.83.152.132
+maitre 3600 IN A 193.49.184.4
+nat-etudiuta 604800 IN A 195.83.152.152
+www.lti-eesa 604800 IN CNAME www
+data.meei 604800 IN CNAME gpaas13.dc0.gandi.net.
+phoenix 3600 IN A 193.49.184.6
+reseau 604800 IN CNAME oban
+julti 604800 IN A 193.49.184.107
+bresil 604800 IN A 193.49.184.24
+bresil 604800 IN AAAA 2001:660:4208:100::24
+ppp2 604800 IN A 194.57.109.98
+ppp3 604800 IN A 194.57.109.99
+listes 3600 IN A 194.57.107.114
+listes 604800 IN MX 10 mx1
+604800 IN MX 20 mx2
+listes 604800 IN TXT "v=spf1 include:u-picardie.fr ~all"
+iut-aisne 3600 IN CNAME www
+webmail 3600 IN A 193.49.184.9
+_vlmcs._tcp 604800 IN SRV 0 0 1688 snkms.unistra.fr.
+talisker 604800 IN A 193.49.184.32
+www-cache-out-all 604800 IN A 194.57.107.121
+604800 IN A 194.57.107.122
+604800 IN A 194.57.107.123
+necbsw 604800 IN A 193.49.184.141
+port-marc 604800 IN A 193.49.184.200
+ca-chris-port-wifi 604800 IN A 193.49.184.192
+lamfa 3600 IN CNAME hauy.mathinfo
+nat-gestdep 604800 IN A 195.83.152.140
+xn--SP-jgac 3600 IN CNAME webfront
+mis 604800 IN NS gip
+604800 IN NS omega
+site.espe 3600 IN CNAME webfront
+nat-etudcampus 604800 IN A 195.83.152.146
+transportable 604800 IN A 193.49.184.124
+webespe 604800 IN A 194.57.107.70
+wiki.iut-oise 604800 IN A 194.57.107.210
+coursenligne 604800 IN A 195.83.152.2
+webi 604800 IN CNAME pc-apo79.ca
+ppp4 604800 IN A 194.57.109.100
+podcast 604800 IN A 194.57.107.1
+gip 604800 IN A 193.49.184.17
+gip 604800 IN AAAA 2001:660:4208:100::17
+apogee-services 604800 IN CNAME webfront
+www.c2i 3600 IN CNAME c2i
+radius1 604800 IN A 193.49.184.42
+morzine2106 604800 IN CNAME oban
+chef 604800 IN A 193.49.184.55
+test 604800 IN A 193.49.184.42
+ftp 3600 IN CNAME bresil
+chef-test 604800 IN A 193.49.184.54
+ppp-as10 604800 IN A 194.57.109.122
+www.foad 604800 IN CNAME foad
+nat-gestiuta 604800 IN A 195.83.152.153
+ppp-as11 604800 IN A 194.57.109.123
+iaweb 604800 IN A 193.49.184.75
+www-cache-ha 604800 IN CNAME www-cache-01.int
+chris2 604800 IN A 193.49.184.151
+nat-gestiufm 604800 IN A 195.83.152.154
+www.ama2009-physique 3600 IN CNAME www
+stats 604800 IN CNAME talisker
+ppp-as5 604800 IN A 194.57.109.117
+ppp-as1 604800 IN A 194.57.109.113
+curi-chris-port 604800 IN A 193.49.184.21
+chris-imp 604800 IN A 193.49.184.131
+mailetud 604800 IN A 193.49.184.34
+mx1 604800 IN A 193.49.184.7
+mx2 604800 IN A 193.49.184.13
+ppp-as7 604800 IN A 194.57.109.119
+ppp-as8 604800 IN A 194.57.109.120
+ppp-as9 604800 IN A 194.57.109.121
+oban 604800 IN A 193.49.184.8
+ksup6 3600 IN CNAME extra
+mrtg 604800 IN CNAME talisker
+jabber.iut-oise 604800 IN A 194.57.107.212
+tickets 3600 IN CNAME gip
+fwdmz 604800 IN A 193.49.184.60
+www.arisamiens 604800 IN CNAME webfront
+www.cra 3600 IN CNAME www
+port-fred 604800 IN A 193.49.184.134
+new-tutelec.espe 3600 IN CNAME webfront
+nat1 604800 IN CNAME rbaud-e1.rrt
+cyboot 604800 IN A 193.49.184.43
+nat-rechwifi 604800 IN A 195.83.152.133
+en.meei 604800 IN CNAME gpaas13.dc0.gandi.net.
+guinness 604800 IN A 193.49.184.142
+www.jocair 604800 IN CNAME www.dep
+acdcreil 604800 IN A 194.57.107.211
+rad1 604800 IN CNAME macallan
+ldap 604800 IN CNAME ldap-ro-01.int
+lsa 604800 IN MX 10 mx1
+phoenix-int 604800 IN A 194.57.107.125
+nat-rechsante 604800 IN A 195.83.152.150
+chappai 604800 IN A 194.57.107.97
+ppp-as4 604800 IN A 194.57.109.116
+www-nouv 3600 IN CNAME www
+radius3 604800 IN A 193.49.184.48
+neelix 604800 IN A 193.49.184.105
+enza 604800 IN A 193.49.184.70
+port-jd 604800 IN A 193.49.184.103
+nat-gestcampus 604800 IN A 195.83.152.147
+chris-port 604800 IN A 193.49.184.130
+wpad 3600 IN A 194.57.107.114
+serveur2003 604800 IN A 193.49.184.138
+maj-nav 604800 IN CNAME serveur2003
+nat-wificlassemobile 604800 IN A 195.83.152.155
+nat-etudsante 604800 IN A 195.83.152.148
+www-cache-out1 604800 IN A 194.57.107.121
+omega 604800 IN A 193.49.184.5
+omega 604800 IN AAAA 2001:660:4208:100::5
+ent-vserv0 604800 IN A 193.49.184.73
+gec 604800 IN A 194.57.112.1
+idp 604800 IN A 194.57.107.115
+cas 604800 IN A 193.49.184.45
+laurent 604800 IN A 193.49.184.11
+ssh.mecs 604800 IN A 194.57.107.29
+etudiants 3600 IN CNAME www
+grap 3600 IN CNAME www
+marc 604800 IN A 193.49.184.71
+pad 604800 IN CNAME webfront
+nat-rechart 604800 IN A 195.83.152.141
+mailx 3600 IN CNAME oban
+pdc 604800 IN A 193.49.184.38
+mail1etud 604800 IN A 193.49.184.53
+ldap-ro 604800 IN CNAME ldap-ro-01.int
+www.alfredmanessieralupjv 3600 IN CNAME www
+quadras 604800 IN A 193.49.185.14
+ntp 604800 IN CNAME gip
+ppp-as2 604800 IN A 194.57.109.114
+extra 604800 IN CNAME webfront
+#annuaire 604800 IN CNAME macallan
+imap 604800 IN CNAME oban
+fr.meei 604800 IN CNAME gpaas13.dc0.gandi.net.
+ppp-as3 604800 IN A 194.57.109.115
+radius2 604800 IN A 193.49.184.46
+www2 604800 IN CNAME webfront
+stages-old 604800 IN A 193.49.184.37
+intra 604800 IN CNAME webfront
+esup-demo 604800 IN CNAME dsve
+duvel 604800 IN A 193.49.184.12
+admin 604800 IN A 193.49.184.40
+foad 604800 IN A 195.83.152.1
+www.xn--sp-9iac 3600 IN CNAME webfront
+nat-rechiuta 604800 IN A 195.83.152.151
+centreon.mecs 604800 IN CNAME bb-mecs.mecs
+merlin 604800 IN A 194.57.107.113
+jcd 604800 IN A 80.125.80.254
+ppp-as6 604800 IN A 194.57.109.118
+www.lamfa 3600 IN CNAME hauy.mathinfo
+multisite 3600 IN CNAME www
+bb-mecs.mecs 604800 IN A 194.57.107.17
+bissap 604800 IN A 193.49.184.3
+bissap 604800 IN TXT "bissap"
+console 604800 IN A 193.49.184.109
+ldap3-old 604800 IN A 193.49.184.123
+horde 604800 IN CNAME horde-01.vm
+horde1 604800 IN A 193.49.184.56
+imp 604800 IN A 193.49.184.9
+ldap1 600 IN A 193.49.184.41
+ldap2 604800 IN CNAME ldap-ro-01.int
+ldap3 604800 IN CNAME ldap-ro-01.int
+nat-rmll 604800 IN A 194.57.109.29
+suftlv 604800 IN NS gip
+604800 IN NS omega
+7of9 604800 IN A 193.49.184.106
+macg3-jd 604800 IN A 193.49.184.101
+debian-upjv-old 604800 IN A 193.49.184.26
+rmll 604800 IN NS gip
+604800 IN NS omega
+miage 604800 IN A 193.49.185.249
+www-cache-out3 604800 IN A 194.57.107.123
+chris 604800 IN A 193.49.184.129
+curapp 604800 IN CNAME webfront
+iaweb-dev 604800 IN A 193.49.184.76
+nat-buart 604800 IN A 195.83.152.144
+*.merlin 604800 IN A 194.57.107.113
+smtp-out-01 604800 IN A 194.57.107.12
+stages 604800 IN CNAME webfront
+dsve 3600 IN A 193.49.184.23
+vpn 604800 IN A 193.49.184.50
+www.mecs 604800 IN A 194.57.107.87
+cra 3600 IN CNAME www
+elk.mecs 604800 IN CNAME bb-mecs.mecs
+nat-rechdep 604800 IN A 195.83.152.137
+www.xn--SP-jgac 3600 IN CNAME webfront
+nat-eduroam 604800 IN A 195.83.152.138
+macallan 604800 IN A 193.49.184.33
+www.espe 3600 IN CNAME webfront
+dep 604800 IN NS gip
+604800 IN NS ns1.syrhano.net.
+604800 IN NS omega
+604800 IN NS orion.utc.fr.
+www.virtlab 604800 IN CNAME tp-eea.sc
+nat-rechcampus 604800 IN A 195.83.152.145
+tutelec.xn--sp-9iac 3600 IN CNAME webfront
+ezri 604800 IN A 193.49.184.104
+isri 604800 IN NS gip
+604800 IN NS omega
+wazoo 604800 IN A 193.49.184.2
+wazoo 604800 IN TXT "wazoo"
+tetelec.xn--SP-jgac 3600 IN CNAME webfront
+c2i 3600 IN A 193.49.184.44
+CISCO-LWAPP-CONTROLLER 604800 IN A 10.25.0.10
+604800 IN A 10.25.0.20
+604800 IN A 10.25.0.30
+604800 IN A 10.26.3.121
+604800 IN A 10.26.3.122
+604800 IN A 10.27.130.122
+604800 IN A 10.29.1.98
+ldap2-old 604800 IN A 193.49.184.122
+pci-wifi 604800 IN A 193.49.184.193
+nat-etudart 604800 IN A 195.83.152.142
+as 604800 IN A 193.49.184.31
+xn--sp-9iac 3600 IN CNAME webfront
+meei 604800 IN CNAME gpaas13.dc0.gandi.net.
+echange 604800 IN CNAME horde-groupware
+bu 604800 IN NS gip
+604800 IN NS omega
+news 3600 IN CNAME ftp
+crea 604800 IN NS gip
+604800 IN NS omega
+stef 3600 IN CNAME www
+www-cache-out2 604800 IN A 194.57.107.122
+www.lti 604800 IN CNAME duflos.iut-amiens.fr.
+debian-upjv 604800 IN CNAME ftp
+laurent2 604800 IN A 193.49.184.108
+www.iut-oise 3600 IN CNAME www
+netmet 604800 IN CNAME talisker
+dep-foad 604800 IN A 193.49.184.18
+sonde-amiens-baudelocque 604800 IN A 193.49.184.114
+laserjet4 604800 IN A 193.49.184.19
+laserjet5 604800 IN A 193.49.184.30

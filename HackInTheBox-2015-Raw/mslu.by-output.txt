@@ -1,0 +1,30 @@
+@ 86400 IN SOA @ admin 2013020401 86400 28800 604800 86400
+@ 86400 IN NS @
+@ 86400 IN A 195.50.2.26
+@ 86400 IN MX 10 mail
+tm 86400 IN CNAME @
+www.lib 86400 IN CNAME @
+www.new 86400 IN CNAME @
+www.students 86400 IN A 172.16.0.15
+students 86400 IN A 172.16.0.15
+www.moodle 86400 IN CNAME @
+raspisanie 86400 IN CNAME @
+moodle 86400 IN CNAME @
+www.elearning 86400 IN CNAME @
+mail 86400 IN A 195.50.2.28
+elearning 86400 IN CNAME @
+lib 86400 IN CNAME @
+www.raspisanie 86400 IN CNAME @
+www 86400 IN CNAME @
+www.anketa 86400 IN CNAME @
+www.library 86400 IN A 172.16.0.18
+www.rt 86400 IN CNAME @
+anketa 86400 IN CNAME @
+new 86400 IN CNAME @
+www.tm 86400 IN CNAME @
+proxy 86400 IN A 172.16.0.10
+86400 IN A 172.17.0.10
+web.proxy 86400 IN CNAME @
+library 86400 IN A 172.16.0.18
+www.web.proxy 86400 IN CNAME @
+rt 86400 IN CNAME @

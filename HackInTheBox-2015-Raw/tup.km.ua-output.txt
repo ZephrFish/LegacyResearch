@@ -1,0 +1,69 @@
+@ 3600 IN SOA gamma alex 2008023315 7200 600 604800 3600
+@ 600 IN A 212.111.198.42
+600 IN A 212.111.198.33
+600 IN A 212.111.198.10
+@ 3600 IN NS ns2.uran.net.ua.
+3600 IN NS ns.ic.km.ua.
+3600 IN NS gamma
+@ 3600 IN MX 10 gamma
+@ 3600 IN TXT "v=spf1 +a +mx +all"
+@ 600 IN AAAA 2002:d46f:c60a::d46f:c60a
+600 IN AAAA 2002:d46f:c621::d46f:c621
+600 IN AAAA 2002:d46f:c62a::d46f:c62a
+_kerberos._tcp.Default-First-Site-Name._sites 600 IN SRV 0 100 88 gamma
+ns.ic.km.ua. 3600 IN A 78.152.160.5
+sip 3600 IN CNAME lunc
+_sipinternaltls._tcp 3600 IN SRV 0 0 5061 lunc
+_gc._tcp.Default-First-Site-Name._sites 600 IN SRV 0 100 3268 gamma
+dialin 3600 IN CNAME lunc
+isu2 3600 IN A 212.111.198.59
+isu2 3600 IN MX 10 isu2
+mailhub 3600 IN A 212.111.198.33
+mailhub 3600 IN MX 10 mailhub
+ief 3600 IN A 212.111.198.57
+ief 3600 IN MX 10 ief
+isu1 3600 IN A 212.111.198.58
+_ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones 600 IN SRV 0 100 389 gamma
+DomainDnsZones 600 IN A 212.111.198.10
+600 IN A 212.111.198.33
+600 IN A 212.111.198.42
+DomainDnsZones 600 IN AAAA 2002:d46f:c621::d46f:c621
+600 IN AAAA 2002:d46f:c62a::d46f:c62a
+600 IN AAAA 2002:d46f:c60a::d46f:c60a
+ns2.uran.net.ua. 3600 IN A 212.111.192.35
+_kpasswd._udp 600 IN SRV 0 100 464 gamma
+isu4 3600 IN A 212.111.198.54
+ForestDnsZones 600 IN A 212.111.198.10
+600 IN A 212.111.198.33
+600 IN A 212.111.198.42
+ForestDnsZones 600 IN AAAA 2002:d46f:c621::d46f:c621
+600 IN AAAA 2002:d46f:c62a::d46f:c62a
+600 IN AAAA 2002:d46f:c60a::d46f:c60a
+ikc2 3600 IN A 212.111.198.36
+isu3 3600 IN A 212.111.198.53
+ief2 3600 IN A 212.111.198.55
+www 3600 IN CNAME gamma
+_msdcs 3600 IN NS gamma
+LUNC 1200 IN A 212.111.198.44
+LUNC 1200 IN AAAA 2002:d46f:c62c::d46f:c62c
+gamma 3600 IN A 212.111.198.10
+3600 IN A 212.111.198.33
+3600 IN A 212.111.198.42
+gamma 3600 IN MX 10 gamma
+_gc._tcp 600 IN SRV 0 100 3268 gamma
+_kerberos._udp 600 IN SRV 0 100 88 gamma
+_kpasswd._tcp 600 IN SRV 0 100 464 gamma
+meet 3600 IN CNAME lunc
+_ldap._tcp.DomainDnsZones 600 IN SRV 0 100 389 gamma
+_ldap._tcp.ForestDnsZones 600 IN SRV 0 100 389 gamma
+admin 3600 IN CNAME lunc
+_ldap._tcp.Default-First-Site-Name._sites 600 IN SRV 0 100 389 gamma
+soft260 1200 IN A 192.168.16.26
+library 3600 IN A 78.152.183.40
+_ldap._tcp 600 IN SRV 0 100 389 gamma
+dn 3600 IN A 212.111.198.60
+dn 3600 IN MX 10 dn
+msn 3600 IN A 212.111.198.50
+_ldap._tcp.Default-First-Site-Name._sites.DomainDnsZones 600 IN SRV 0 100 389 gamma
+gclass 3600 IN CNAME gamma
+_kerberos._tcp 600 IN SRV 0 100 88 gamma

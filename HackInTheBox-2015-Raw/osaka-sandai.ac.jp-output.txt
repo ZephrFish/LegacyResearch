@@ -1,0 +1,173 @@
+@ 3600 IN SOA news postmaster 2015050223 1800 600 604800 86400
+@ 3600 IN TXT "adobe-idp-site-verification=0a3fac94-fad2-4a27-9d83-72748ae41a35"
+3600 IN TXT "google-site-verification=IHEz9P6MnizqAFqmi5WR8I7jbasloiS8CZT-dZWBQVs"
+@ 3600 IN MX 20 postman
+3600 IN MX 23 echo-zero
+3600 IN MX 23 echo-zero2
+3600 IN MX 25 echo-one
+@ 3600 IN NS news
+3600 IN NS dns-x.sinet.ad.jp.
+3600 IN NS news2
+@ 3600 IN A 133.64.0.0
+epbl.entre 3600 IN A 133.64.184.117
+g-formula 3600 IN CNAME osutm.sakura.ne.jp.
+ev 3600 IN CNAME osu.sakura.ne.jp.
+ge 3600 IN NS news
+3600 IN NS news2
+las 3600 IN NS news
+3600 IN NS news2
+eic 3600 IN A 133.64.128.2
+eic 3600 IN NS eic
+3600 IN NS news
+3600 IN NS news2
+library.cnt 3600 IN A 133.64.210.9
+he 3600 IN NS news
+3600 IN NS news2
+www.bac 3600 IN CNAME osu.sakura.ne.jp.
+fcmv 3600 IN CNAME osu.sakura.ne.jp.
+due 3600 IN NS news
+3600 IN NS news2
+le24open.isc-edu 3600 IN A 133.64.210.143
+www.cc 3600 IN A 133.64.2.12
+mech 3600 IN NS news
+3600 IN NS news2
+cgi.sp 3600 IN CNAME osu.sakura.ne.jp.
+www 3600 IN MX 10 www
+www 3600 IN A 219.127.205.162
+www.g-formula 3600 IN CNAME osutm.sakura.ne.jp.
+cgi.sac 3600 IN CNAME osu.sakura.ne.jp.
+www.ocv 3600 IN CNAME osu.sakura.ne.jp.
+silkroad 3600 IN CNAME osu.sakura.ne.jp.
+www.ev 3600 IN CNAME osu.sakura.ne.jp.
+le24strm.isc-edu 3600 IN A 133.64.210.146
+postman2 3600 IN A 133.64.2.40
+osugate 3600 IN A 133.64.8.23
+sp 3600 IN CNAME osu.sakura.ne.jp.
+tm 3600 IN NS news
+3600 IN NS news2
+www.solarcar 3600 IN CNAME osu.sakura.ne.jp.
+ed24lb 3600 IN A 133.64.210.125
+club 3600 IN A 133.64.2.12
+subgate 3600 IN A 133.64.210.16
+www.dance 3600 IN CNAME dance
+adm 3600 IN NS news
+3600 IN NS news2
+scan 3600 IN A 133.64.2.21
+news2 3600 IN A 133.64.2.10
+dis 3600 IN NS news
+3600 IN NS news2
+postman 3600 IN MX 10 postman
+3600 IN MX 13 echo-zero
+3600 IN MX 13 echo-zero2
+3600 IN MX 15 echo-one
+postman 3600 IN A 133.64.2.20
+cgi.silkroad 3600 IN CNAME osu.sakura.ne.jp.
+tm2 3600 IN CNAME www6449ua.sakura.ne.jp.
+echo-zero 3600 IN A 133.64.2.24
+www.mobile 3600 IN A 112.78.115.67
+spo 3600 IN NS news
+3600 IN NS news2
+echo-zero2 3600 IN A 133.64.2.43
+localhost 3600 IN A 127.0.0.1
+osu-photo-contest 3600 IN CNAME domains.tumblr.com.
+www.nyushi 3600 IN A 219.127.205.163
+j24-asw 3600 IN A 133.64.210.181
+hope.entre 3600 IN CNAME tanakalab.sakura.ne.jp.
+entre 3600 IN MX 20 postman
+3600 IN MX 23 echo-zero
+3600 IN MX 23 echo-zero2
+3600 IN MX 25 echo-one
+sub 3600 IN TXT "adobe-idp-site-verification=a6e6ee28-3e0f-4e8b-bc68-66e3a1a9d46e"
+sub 3600 IN MX 10 postman
+3600 IN MX 13 echo-zero
+3600 IN MX 13 echo-zero2
+3600 IN MX 15 echo-one
+sub 3600 IN A 133.64.210.13
+wr19 3600 IN A 133.64.2.12
+web.entre 3600 IN CNAME tanakalab.sakura.ne.jp.
+www2 3600 IN A 133.64.210.17
+journal 3600 IN A 121.83.250.120
+cgi.bac 3600 IN CNAME osu.sakura.ne.jp.
+infolib 3600 IN A 133.64.210.98
+www.tm2 3600 IN CNAME www6449ua.sakura.ne.jp.
+kenkyu 3600 IN A 133.64.210.148
+www.blog 3600 IN A 219.127.205.163
+osu-mbox 3600 IN A 133.64.210.13
+ocv 3600 IN CNAME osu.sakura.ne.jp.
+www.sp 3600 IN CNAME osu.sakura.ne.jp.
+cgi.solarcar 3600 IN CNAME osu.sakura.ne.jp.
+wcnts 3600 IN A 133.64.210.15
+osu-contests 3600 IN CNAME domains.tumblr.com.
+le24filegate.isc-edu 3600 IN A 133.64.210.29
+cgi.ocv 3600 IN CNAME osu.sakura.ne.jp.
+www.oxyride-challenge 3600 IN CNAME osu.sakura.ne.jp.
+ojc 3600 IN NS news
+3600 IN NS news2
+mobile 3600 IN A 112.78.115.67
+osu-tour 3600 IN CNAME domains.tumblr.com.
+www.rec 3600 IN A 133.64.2.12
+hrc 3600 IN NS news
+3600 IN NS news2
+cgi.fcmv 3600 IN CNAME osu.sakura.ne.jp.
+koyukai.cnt 3600 IN MX 10 koyukai.cnt
+3600 IN MX 15 postman
+3600 IN MX 20 echo-zero
+3600 IN MX 20 echo-zero2
+3600 IN MX 25 echo-one
+koyukai.cnt 3600 IN A 133.64.72.150
+j24-plw 3600 IN A 133.64.210.180
+demo-yj 3600 IN NS news
+3600 IN NS news2
+www.sac 3600 IN CNAME osu.sakura.ne.jp.
+paris-dakar 3600 IN A 133.64.210.120
+rabbit 3600 IN A 133.64.210.7
+rec 3600 IN A 133.64.2.12
+dce 3600 IN NS news
+3600 IN NS news2
+echo-one2 3600 IN A 133.64.2.42
+web 3600 IN A 133.64.2.12
+cnt 3600 IN TXT "v=spf1 +ip4:133.64.0.0/16 ~all"
+3600 IN TXT "adobe-idp-site-verification=6e7ecb07-0aaa-4fc1-ad51-39c755074ef9"
+cnt 3600 IN MX 10 postman
+3600 IN MX 13 echo-zero
+3600 IN MX 13 echo-zero2
+cnt 3600 IN A 133.64.210.11
+ise 3600 IN A 133.64.169.2
+ise 3600 IN NS ise
+3600 IN NS news
+3600 IN NS news2
+cgi.oxyride-challenge 3600 IN CNAME osu.sakura.ne.jp.
+www.entre 3600 IN CNAME tanakalab.sakura.ne.jp.
+www.nakama 3600 IN A 219.127.205.163
+inec 3600 IN A 133.64.31.2
+inec 3600 IN NS inec
+3600 IN NS news
+3600 IN NS news2
+dynamic-project 3600 IN NS news
+3600 IN NS news2
+ya 3600 IN NS news
+3600 IN NS news2
+web.g-formula 3600 IN A 133.64.164.8
+dance 3600 IN A 210.166.231.52
+windmail 3600 IN MX 10 windmail
+3600 IN MX 15 postman
+3600 IN MX 18 echo-zero
+3600 IN MX 18 echo-zero2
+3600 IN MX 20 echo-one
+windmail 3600 IN A 133.64.169.34
+cgi.ev 3600 IN CNAME osu.sakura.ne.jp.
+news 3600 IN A 133.64.2.9
+edd 3600 IN A 133.64.72.2
+edd 3600 IN NS edd
+3600 IN NS news
+3600 IN NS news2
+eco 3600 IN NS news
+3600 IN NS news2
+ce 3600 IN NS news
+3600 IN NS news2
+oxyride-challenge 3600 IN CNAME osu.sakura.ne.jp.
+echo-one 3600 IN A 133.64.2.101
+cgi.entre 3600 IN CNAME tanakalab.sakura.ne.jp.
+cgi.g-formula 3600 IN CNAME osutm.sakura.ne.jp.
+solarcar 3600 IN CNAME osu.sakura.ne.jp.
+scan2 3600 IN A 133.64.2.41

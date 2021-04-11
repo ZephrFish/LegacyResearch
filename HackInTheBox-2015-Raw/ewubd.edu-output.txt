@@ -1,0 +1,17 @@
+@ 3600 IN SOA ns1.hrctech.net. hostmaster.hrctech.net. 2015020929 28800 7200 1209600 3600
+@ 3600 IN NS ns1.hrctech.net.
+3600 IN NS ns1
+@ 3600 IN A 182.16.159.132
+@ 3600 IN MX 20 mx.hrctech.net.
+@ 3600 IN TXT "v=spf1 +mx +a:mail.ewubd.edu ~all"
+gsdl 3600 IN A 182.16.159.135
+alumni 3600 IN A 182.16.159.136
+result 3600 IN A 182.16.159.136
+ns1 3600 IN A 182.16.159.133
+www 3600 IN CNAME @
+admission 3600 IN A 182.16.159.136
+mail 3600 IN A 182.16.159.130
+mail 3600 IN MX 10 mx.hrctech.net.
+dspace 3600 IN A 182.16.159.135
+opac 3600 IN A 182.16.159.135
+lib 3600 IN A 182.16.159.135

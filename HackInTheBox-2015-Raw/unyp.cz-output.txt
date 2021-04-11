@@ -1,0 +1,35 @@
+@ 3600 IN SOA ns2.wia.cz. hostmaster.wia.cz. 2015042301 10800 3600 259200 3600
+@ 3600 IN MX 90 edge
+@ 3600 IN A 81.0.240.19
+@ 3600 IN NS ns2.wia.cz.
+3600 IN NS ns1.wia.cz.
+exchange 3600 IN A 80.250.2.164
+ts 3600 IN A 80.250.2.166
+webmail 3600 IN CNAME login.microsoftonline.com.
+library 3600 IN A 80.250.2.167
+msoid.faculty 3600 IN CNAME clientconfig.microsoftonline-p.net.
+sharepoint 3600 IN A 80.250.2.171
+think 3600 IN A 91.239.200.220
+scom 3600 IN A 80.250.2.166
+impressions 3600 IN A 82.202.105.58
+_sipfederationtls._tcp.faculty.unyp.cz 3600 IN SRV 10 2 5061 federation.messenger.msn.com
+egnomon 3600 IN A 80.250.2.167
+autodiscover.faculty 3600 IN CNAME autodiscover.outlook.com.
+livetest1 3600 IN MX 0 162589260.mail.outlook.com.
+faculty 3600 IN MX 10 1320747055.mail.outlook.com.
+faculty 3600 IN TXT "v=spf1 include:outlook.com ~all"
+elearning 3600 IN A 81.91.91.23
+edge 3600 IN A 80.250.2.169
+www 3600 IN CNAME @
+email 3600 IN A 80.250.2.168
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+elearning2 3600 IN A 81.91.91.23
+pbx 3600 IN A 80.250.2.190
+hotspot 1800 IN A 80.250.23.243
+m 3600 IN CNAME @
+_https._tcp 3600 IN SRV 99 0 443 exchange
+www.think 3600 IN CNAME think
+_sipfederationtls._tcp.student.unyp.cz 3600 IN SRV 10 2 5061 federation.messenger.msn.com
+student 3600 IN MX 10 1200090854.mail.outlook.com.
+student 3600 IN TXT "v=spf1 include:outlook.com ~all"
+studentcouncil 3600 IN CNAME unypsc.com.

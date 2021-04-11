@@ -1,0 +1,35 @@
+@ 14400 IN SOA ns1.hostingzoom.com. system.hostingzoom.com. 2015011209 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 14400 IN NS ns1.hostingzoom.com.
+14400 IN NS ns2.hostingzoom.com.
+@ 14400 IN A 69.73.181.160
+www.download 14400 IN A 69.73.181.160
+registration 14400 IN A 69.73.181.160
+www.cosomas 14400 IN A 69.73.181.160
+copas 14400 IN A 69.73.181.160
+calebict 14400 IN A 69.73.181.160
+mail 14400 IN CNAME @
+www.calebict 14400 IN A 69.73.181.160
+www.applicant 14400 IN A 69.73.181.160
+www.community 14400 IN A 69.73.181.160
+cosomas 14400 IN A 69.73.181.160
+www.registration 14400 IN A 69.73.181.160
+applicant 14400 IN A 69.73.181.160
+community 14400 IN A 69.73.181.160
+ftp 14400 IN CNAME @
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+www.library 14400 IN A 69.73.181.160
+www.ictcentre 14400 IN A 69.73.181.160
+newsletter 14400 IN A 69.73.181.160
+information 14400 IN A 69.73.181.160
+ictcentre 14400 IN A 69.73.181.160
+www.information 14400 IN A 69.73.181.160
+www.portal 14400 IN A 69.73.181.160
+portal 14400 IN A 69.73.181.160
+library 14400 IN A 69.73.181.160
+colensma 14400 IN A 69.73.181.160
+download 14400 IN A 69.73.181.160
+www.newsletter 14400 IN A 69.73.181.160
+www.copas 14400 IN A 69.73.181.160
+www.colensma 14400 IN A 69.73.181.160

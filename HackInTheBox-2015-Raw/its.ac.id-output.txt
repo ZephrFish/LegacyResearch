@@ -1,0 +1,1382 @@
+@ 3600 IN SOA ns1 itsnet 2015022773 3600 3600 1209600 86400
+@ 3600 IN TXT "MS=ms96912962"
+3600 IN TXT "v=spf1 ip4:202.46.129.0/26 ip6:2001:df0:426::/64 mx ptr -all"
+3600 IN TXT "google-site-verification=S0dHwUdaUC7HUeZapPJuWk0eANeoIT9u8EJ9m87pjhU"
+3600 IN TXT "RqaSWzx3n+LWrUDaqN03aasWAONgUpkNWd4OTrD2UtqK9UjRAPzcHnZ2eAV1OsMzos+fYK7MXA1VMnUtgeox/g=="
+@ 3600 IN AAAA 2001:df0:426::14
+@ 3600 IN A 202.46.129.20
+@ 3600 IN NS ns1
+3600 IN NS salwa
+3600 IN NS olimpus
+@ 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+senta.ftk 3600 IN CNAME zeus
+lptsi 3600 IN CNAME zeus
+gemastik 3600 IN NS ns1.gemastik
+prospektus 3600 IN CNAME zeus
+sapuanginspeed 3600 IN CNAME zeus
+www.lptsi 3600 IN CNAME zeus
+imap 3600 IN CNAME vmail
+www.jmmi 3600 IN CNAME jmmi
+magnet2011 3600 IN CNAME zeus
+seatrans 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+seatrans 3600 IN A 202.46.129.104
+seatrans 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+webmail.telcom-poly 3600 IN CNAME lyra
+webmail.cwq 3600 IN A 202.46.129.20
+webmail.chem-eng 3600 IN CNAME lyra
+lpmp2ki 3600 IN A 202.46.129.108
+phppgadmin 3600 IN CNAME zeus
+www.fasdemik 3600 IN CNAME zeus
+m.share 3600 IN CNAME share
+satelit 3600 IN CNAME zeus
+www.lurik 3600 IN CNAME lyra
+switch.inherent 3600 IN A 167.205.138.2
+international 3600 IN CNAME zeus
+bem.ftsp 3600 IN CNAME zeus
+unduh 3600 IN CNAME ares
+tpkkatolik 3600 IN CNAME zeus
+www.bridge.lmb 3600 IN CNAME zeus
+www.carbon.siklus.lmb 3600 IN CNAME zeus
+tu-arsip 3600 IN CNAME zeus
+www.prs.statistics 3600 IN CNAME zeus
+btsi 3600 IN CNAME lptsi
+www.tpkk 3600 IN CNAME zeus
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+elearning 3600 IN A 202.46.129.103
+approtech 3600 IN CNAME zeus
+sipkd 3600 IN CNAME cerberus
+www.amu 3600 IN CNAME lyra
+www.bem 3600 IN CNAME zeus
+mail.is 3600 IN CNAME vmail
+www.mmt 3600 IN CNAME mmt
+www.beasiswa 3600 IN CNAME beasiswa
+www.iarc.ee 3600 IN CNAME zeus
+matematika 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+matematika 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+blog.mhs.prodes 3600 IN CNAME zeus
+www.karate.lmb 3600 IN CNAME zeus
+semnasmat.matematika 3600 IN CNAME zeus
+www.icommet 3600 IN CNAME zeus
+chem-eng 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+chem-eng 3600 IN A 202.46.129.20
+chem-eng 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.papsi 3600 IN CNAME zeus
+birokeuangan 3600 IN CNAME zeus
+energy-conversion.ee 3600 IN CNAME zeus
+gforge 3600 IN CNAME poss
+personal 3600 IN CNAME lyra
+portal.bem 3600 IN CNAME zeus
+www.blog.mhs.ce 3600 IN CNAME zeus
+webmail.mat-eng 3600 IN CNAME lyra
+mhs.na 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.na 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.bahrul-ilmi.oe 3600 IN CNAME zeus
+www.nogogeni 3600 IN CNAME zeus
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.bio 3600 IN CNAME bio
+bridge.lmb 3600 IN CNAME zeus
+nusantaraview 3600 IN CNAME zeus
+www.blog.mhs.ee 3600 IN CNAME zeus
+predict2 3600 IN A 202.46.129.100
+mhs.prodes 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.prodes 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.blog.mhs.ep 3600 IN CNAME zeus
+vmail 3600 IN AAAA 2001:df0:426::11
+vmail 3600 IN A 202.46.129.11
+vmail 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.forkom_m3ner.me 3600 IN CNAME zeus
+sharing 3600 IN A 202.46.129.13
+www.olimpiadestatistik 3600 IN CNAME zeus
+lurik 3600 IN CNAME lyra
+cacti.noc 3600 IN CNAME lyra
+menwa 3600 IN CNAME zeus
+www.senta.ftk 3600 IN CNAME zeus
+ldap.inherent 3600 IN A 167.205.138.17
+www.blog.mhs.ie 3600 IN CNAME zeus
+www.blog.mhs.if 3600 IN CNAME zeus
+www.gamelan 3600 IN CNAME zeus
+mms.ne 3600 IN CNAME zeus
+mail.oe 3600 IN CNAME vmail
+ns1.devs 3600 IN A 202.46.129.21
+chargingstation 3600 IN CNAME zeus
+www.seatrans 3600 IN CNAME seatrans
+high-voltage.ee 3600 IN CNAME zeus
+tpkfn16 3600 IN CNAME zeus
+www.sapuangin 3600 IN CNAME zeus
+www.lppm 3600 IN CNAME zeus
+sntf10 3600 IN CNAME zeus
+hima.ce 3600 IN CNAME zeus
+www.hima.statistics 3600 IN CNAME zeus
+mediacenter 3600 IN CNAME zeus
+www.oceanweeks 3600 IN CNAME zeus
+www.blog.mhs.me 3600 IN CNAME zeus
+www.cio 3600 IN CNAME zeus
+hima.ee 3600 IN CNAME zeus
+www.icts2 3600 IN CNAME lyra
+www.icts3 3600 IN CNAME lyra
+www.blog.mhs.ne 3600 IN CNAME zeus
+adm.icts 3600 IN A 202.46.129.105
+www.bp2ki2 3600 IN A 202.46.129.108
+io 3600 IN CNAME zeus
+labtelecom.ee 3600 IN CNAME zeus
+www.knm17 3600 IN CNAME zeus
+hima.ep 3600 IN CNAME zeus
+www.lpse-helpdesk 3600 IN CNAME zeus
+mmslab.ne 3600 IN CNAME zeus
+_sipfederationtls._tcp.lab 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www.katalog 3600 IN CNAME katalog
+www.inherent 3600 IN CNAME inherent
+msoid.lab 3600 IN CNAME clientconfig.microsoftonline-p.net.
+oc 3600 IN CNAME zeus
+www.meas.ne 3600 IN CNAME zeus
+statk 3600 IN CNAME zeus
+www.chem-eng 3600 IN CNAME chem-eng
+wwww.arch 3600 IN CNAME arch
+hima.ie 3600 IN CNAME zeus
+www.personal 3600 IN CNAME lyra
+www.coe 3600 IN CNAME zeus
+asrama 3600 IN CNAME lewat
+badminton.lmb 3600 IN CNAME zeus
+webbeta 3600 IN A 202.46.129.21
+www.iptek2 3600 IN CNAME zeus
+hima.is 3600 IN CNAME zeus
+mhs.mb 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.mb 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+psids 3600 IN CNAME zeus
+mail.mku 3600 IN CNAME vmail
+www.chernival 3600 IN CNAME zeus
+www.kemahasiswaan 3600 IN CNAME zeus
+olimpiadestatistik 3600 IN CNAME zeus
+ma.ce 3600 IN CNAME ce
+webmail.elect-poly 3600 IN CNAME lyra
+gmail 3600 IN CNAME lyra
+sdmo 3600 IN A 202.46.129.124
+office 3600 IN CNAME lyra
+hima.mb 3600 IN CNAME zeus
+mail.elect-eng 3600 IN CNAME vmail
+m.digilib 3600 IN CNAME permisi
+www.ptikm 3600 IN CNAME zeus
+www.baak 3600 IN CNAME zeus
+www.baronas.ee 3600 IN CNAME zeus
+hima.na 3600 IN CNAME zeus
+www.simmediacenter 3600 IN CNAME zeus
+www.icompac 3600 IN CNAME zeus
+lewat 3600 IN A 202.46.129.184
+direktori 3600 IN CNAME zeus
+masjid 3600 IN CNAME zeus
+www.labterapan.ee 3600 IN CNAME zeus
+www.icomsc 3600 IN CNAME zeus
+www.blog.mhs.chem 3600 IN CNAME zeus
+itsonlineshop 3600 IN CNAME zeus
+nefertiti 3600 IN A 202.46.129.16
+sac 3600 IN A 202.46.129.107
+esurat 3600 IN A 202.46.129.180
+mpp.ne 3600 IN CNAME zeus
+www.direktori 3600 IN CNAME zeus
+www.soshum 3600 IN CNAME zeus
+mail.geofisika 3600 IN CNAME vmail
+www.youthmagazine 3600 IN CNAME zeus
+www.lbmm.me 3600 IN CNAME zeus
+sikp.ie 3600 IN CNAME zeus
+blog.mhs.ie 3600 IN CNAME zeus
+ns1.exp10 3600 IN A 180.250.170.4
+hima.physics 3600 IN CNAME zeus
+mail 3600 IN CNAME vmail
+www.p3ai 3600 IN CNAME elearning
+www.blog.mhs.chem-eng 3600 IN CNAME zeus
+www.aipi 3600 IN CNAME zeus
+iarc.ee 3600 IN CNAME zeus
+www.schematics 3600 IN CNAME schematics
+www.hima.d3tektro 3600 IN CNAME zeus
+semnastekling 3600 IN CNAME zeus
+www.gerigi.bem 3600 IN CNAME zeus
+mail.elect-poly 3600 IN CNAME vmail
+www.tdc.lmb 3600 IN CNAME zeus
+webmail.interior 3600 IN CNAME lyra
+www.dpm 3600 IN CNAME zeus
+www.iess 3600 IN CNAME zeus
+akheilos 3600 IN A 180.250.170.20
+panorama 3600 IN A 118.98.64.137
+imae 3600 IN CNAME zeus
+proxy1.me 3600 IN A 202.46.129.67
+snfti2011 3600 IN CNAME zeus
+devs 3600 IN NS ns1.devs
+3600 IN NS ns2.devs
+www.tpkb 3600 IN CNAME zeus
+webmail.arch 3600 IN CNAME lyra
+mhs.te 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.te 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.tpkh 3600 IN CNAME zeus
+webmail.statistika 3600 IN CNAME lyra
+www.jurnal_kelautan 3600 IN CNAME zeus
+www.expo 3600 IN CNAME zeus
+ejurnal2 3600 IN CNAME zeus
+www.lpmsatukosong 3600 IN CNAME zeus
+www.integra 3600 IN CNAME integra
+www.jfa.physics 3600 IN CNAME zeus
+webmail.mmt 3600 IN CNAME lyra
+biodiversity 3600 IN CNAME zeus
+oqa 3600 IN CNAME zeus
+power-system.ee 3600 IN CNAME zeus
+www.ise.is 3600 IN CNAME zeus
+p3ai 3600 IN CNAME elearning
+solarcarteam 3600 IN CNAME zeus
+interior 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+interior 3600 IN A 202.46.129.104
+interior 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.roboboat 3600 IN CNAME zeus
+sip.office365 3600 IN CNAME sipdir.online.lync.com
+keubludikti 3600 IN A 202.46.129.179
+www.senta2007 3600 IN CNAME zeus
+www.senta2010 3600 IN CNAME zeus
+www.senta2011 3600 IN CNAME zeus
+www.scs 3600 IN CNAME zeus
+mail.arch 3600 IN CNAME vmail
+enviro 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+enviro 3600 IN A 202.46.129.126
+enviro 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+seminar.physics 3600 IN CNAME zeus
+www.himad3.statistics 3600 IN CNAME zeus
+ne 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+ne 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+ne 3600 IN A 202.46.129.184
+webmail.physics 3600 IN CNAME lyra
+baak 3600 IN CNAME zeus
+www.diplomasipil 3600 IN CNAME zeus
+www.psids 3600 IN CNAME zeus
+dpertimbangan 3600 IN CNAME zeus
+proxy2.me 3600 IN A 202.46.129.68
+inherent 3600 IN A 202.46.129.137
+teatertiyangalit.lmb 3600 IN CNAME zeus
+pop.cwq 3600 IN A 202.46.129.11
+senat 3600 IN CNAME zeus
+www.taekwondo.lmb 3600 IN CNAME zeus
+nirmaladewi 3600 IN A 202.46.129.26
+adfs01 3600 IN A 202.46.129.34
+adfs02 3600 IN A 202.46.129.43
+www.sjpsids 3600 IN CNAME sjpsids
+www.ergonomi.ie 3600 IN CNAME zeus
+www.telematics 3600 IN CNAME telematics
+ecocampus 3600 IN CNAME zeus
+hima.enviro 3600 IN CNAME zeus
+ggl-transport 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+kepegawaian 3600 IN A 202.46.129.44
+exp1 3600 IN A 202.46.129.54
+mar-eng 3600 IN CNAME zeus
+mhs.statistika 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.statistika 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+exp5 3600 IN A 202.46.129.29
+www.kimia 3600 IN CNAME zeus
+www.cse.elect-eng 3600 IN A 202.46.129.104
+mcindonesia 3600 IN CNAME zeus
+www.duniamaritim 3600 IN CNAME lyra
+whs 3600 IN CNAME zeus
+ares 3600 IN A 202.46.129.13
+hima.chem 3600 IN CNAME zeus
+mhs.arch 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.arch 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.analitik.chem 3600 IN CNAME zeus
+traffic.inherent 3600 IN CNAME lyra
+barunastra 3600 IN CNAME zeus
+www.gdl 3600 IN CNAME gdl
+telcom-poly 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+telcom-poly 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+jabber.sby.inherent 3600 IN CNAME aquarius
+www.library 3600 IN CNAME library
+enterpreneurship 3600 IN CNAME zeus
+siklus.lmb 3600 IN CNAME zeus
+www.multimedia 3600 IN CNAME zeus
+www.mcst 3600 IN CNAME zeus
+www.rumahdinas 3600 IN CNAME zeus
+mail.cse.elect-eng 3600 IN CNAME vmail
+aquarius 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+wwww.kji-kbgi 3600 IN CNAME zeus
+alumni 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+alumni 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+alumni 3600 IN A 202.154.56.7
+www.kri2012_reg4 3600 IN CNAME zeus
+ejurnal 3600 IN A 202.46.129.108
+_sip._tls.office365 3600 IN SRV 10 10 443 sipdir.online.lync.com
+www.semnastekling 3600 IN CNAME zeus
+omits-himatika 3600 IN CNAME zeus
+tpkh 3600 IN CNAME zeus
+www.ejurnal2 3600 IN CNAME zeus
+www.dapur 3600 IN CNAME lyra
+m.sac 3600 IN CNAME sac
+expo 3600 IN CNAME zeus
+robotika.lmb 3600 IN CNAME zeus
+mhs.ce 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.ce 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+seminpasca 3600 IN CNAME zeus
+mhs.bio 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.bio 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+lipist.ee 3600 IN CNAME zeus
+sdlog.noc 3600 IN CNAME lyra
+traffic.sby.inherent 3600 IN CNAME aquarius
+www.mentoring.jmmi 3600 IN CNAME zeus
+iccer.ce 3600 IN CNAME zeus
+zeus 3600 IN A 202.46.129.104
+www.fti 3600 IN CNAME fti
+www.interior 3600 IN CNAME zeus
+mhs.ee 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.ee 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+psm.lmb 3600 IN CNAME zeus
+www.pilrek 3600 IN CNAME zeus
+www.lab-lingkungan.lppm 3600 IN CNAME zeus
+www.blog.mhs.matematika 3600 IN CNAME zeus
+mhs.ep 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.ep 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+mail.mat-eng 3600 IN CNAME vmail
+kolab 3600 IN A 202.154.56.7
+www.pramuka.lmb 3600 IN CNAME zeus
+mcu 3600 IN A 202.46.129.7
+v4 3600 IN CNAME www
+ij-eeri.ee 3600 IN CNAME zeus
+chemistryweek.chem 3600 IN CNAME zeus
+wirausaha_mahasiswa 3600 IN CNAME zeus
+kualitaspjm 3600 IN CNAME lyra
+www.poli 3600 IN CNAME zeus
+www.cssc 3600 IN CNAME zeus
+www.spie-sc 3600 IN CNAME zeus
+mhs.ie 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.ie 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+mhs.if 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+rams.ne 3600 IN CNAME zeus
+www.tu-arsip 3600 IN CNAME zeus
+forumppdjatim 3600 IN CNAME zeus
+senta 3600 IN CNAME zeus
+mhs.matematika 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.matematika 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.hima.ee 3600 IN CNAME zeus
+mcst 3600 IN CNAME zeus
+www.blog.mhs.physics 3600 IN CNAME zeus
+mail.te 3600 IN CNAME vmail
+bem.fti 3600 IN CNAME zeus
+mhs.is 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.is 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+ns2.devs 3600 IN A 202.46.129.21
+www.hima.ep 3600 IN CNAME zeus
+www.chargingstation 3600 IN CNAME zeus
+www.gsa 3600 IN CNAME zeus
+www.robotics 3600 IN CNAME zeus
+himad3.chem-eng 3600 IN CNAME zeus
+snitm 3600 IN CNAME zeus
+www 3600 IN AAAA 2001:df0:426::14
+www 3600 IN A 202.46.129.20
+geophysics 3600 IN CNAME zeus
+www.mathematics 3600 IN CNAME mathematics
+www.hima.chem-eng 3600 IN CNAME zeus
+www.hima.chem 3600 IN CNAME zeus
+mhs.me 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.me 3600 IN A 202.46.129.104
+mhs.me 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+exchange01 3600 IN A 202.46.129.28
+exchange02 3600 IN A 202.46.129.30
+webmail.grad 3600 IN CNAME lyra
+elits-ee 3600 IN CNAME zeus
+www.hima.ie 3600 IN CNAME zeus
+smtp.cwq 3600 IN A 202.46.129.11
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+elect-poly 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+elect-poly 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.p2km 3600 IN CNAME zeus
+lpse-helpdesk 3600 IN CNAME zeus
+mhs.oe 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.oe 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+yes 3600 IN CNAME zeus
+dp3.ftif 3600 IN A 202.46.129.93
+www.register2 3600 IN CNAME register2
+blog.mhs.mmt 3600 IN CNAME zeus
+isitia 3600 IN CNAME web.ee
+simkeu.dev 3600 IN CNAME permisi
+www.pasca 3600 IN CNAME pasca
+www.iceedm2011.ce 3600 IN CNAME iceedm2011.ce
+bem.fmipa 3600 IN CNAME zeus
+pwk 3600 IN CNAME zeus
+beta.mca 3600 IN CNAME ares
+itspress 3600 IN CNAME zeus
+www.emissivity.chem-eng 3600 IN CNAME zeus
+mesinitsautosport.me 3600 IN CNAME zeus
+brain 3600 IN A 202.46.129.141
+webmail.cse.elect-eng 3600 IN CNAME lyra
+www.hima.mb 3600 IN CNAME zeus
+www.inkubator 3600 IN CNAME zeus
+www.hima.me 3600 IN CNAME zeus
+irc.sby.inherent 3600 IN CNAME aquarius
+esri 3600 IN CNAME zeus
+www.blog.mhs.urplan 3600 IN CNAME zeus
+mhs.geodesy 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.geodesy 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.lipist.ee 3600 IN CNAME zeus
+www.masjid 3600 IN CNAME masjid
+www.tkpfn16 3600 IN CNAME zeus
+library 3600 IN A 202.46.129.133
+bp2ki 3600 IN CNAME zeus
+www.geofisika 3600 IN CNAME zeus
+www.lmb 3600 IN CNAME zeus
+diplomasipil 3600 IN CNAME zeus
+www.esurat 3600 IN CNAME esurat
+simmediacenter 3600 IN CNAME zeus
+www.keubludikti 3600 IN CNAME keubludikti
+www.senat 3600 IN CNAME zeus
+www.lkmm.bem 3600 IN CNAME zeus
+fasor 3600 IN CNAME zeus
+www.blog.mhs.enviro 3600 IN CNAME zeus
+iptek 3600 IN A 202.46.129.108
+www.hima.despro 3600 IN CNAME zeus
+www.sikp.ie 3600 IN CNAME zeus
+debian 3600 IN CNAME ares
+hima.me 3600 IN CNAME zeus
+www.ftif 3600 IN CNAME if
+lscm.ie 3600 IN CNAME zeus
+aptecs 3600 IN CNAME zeus
+ukafo.lmb 3600 IN CNAME zeus
+mail.pikom 3600 IN CNAME vmail
+www.lms-b301.ee 3600 IN CNAME zeus
+www.hima.physics 3600 IN CNAME zeus
+autodiscover 3600 IN A 202.46.129.28
+mhs.seatrans 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.seatrans 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.p3.me 3600 IN CNAME zeus
+www.qa 3600 IN CNAME zeus
+cssc 3600 IN CNAME zeus
+elearning.inherent 3600 IN A 202.46.129.102
+d3chem-eng 3600 IN CNAME zeus
+mhs.grad 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.grad 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+pusatkelautan 3600 IN CNAME zeus
+phobos 3600 IN A 202.46.129.39
+up3d 3600 IN A 184.82.55.10
+www.umd3 3600 IN CNAME adm.icts
+overseas-telecommunication 3600 IN CNAME zeus
+mhs.mat-eng 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.mat-eng 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+predict 3600 IN A 202.46.129.76
+blog.mhs.geodesy 3600 IN CNAME zeus
+mail.me 3600 IN CNAME vmail
+www.lpse 3600 IN CNAME lpse
+www.jurnal.me 3600 IN CNAME zeus
+milis 3600 IN MX 1 vmail
+sunan 3600 IN CNAME zeus
+mail.chem 3600 IN CNAME vmail
+www.hima.oe 3600 IN CNAME zeus
+www.library.mmt 3600 IN CNAME library.mmt
+www.elits-ee 3600 IN CNAME zeus
+icommet 3600 IN CNAME zeus
+www.teatertiyangalit.lmb 3600 IN CNAME zeus
+pasca 3600 IN A 202.46.129.109
+www.suro 3600 IN CNAME ares
+emissivity.chem-eng 3600 IN CNAME zeus
+labkom.ep 3600 IN CNAME zeus
+www.hima.mathematics 3600 IN CNAME zeus
+www.pasca.geomatika 3600 IN CNAME zeus
+pdpm 3600 IN CNAME zeus
+p2km 3600 IN CNAME zeus
+www.socialdevelopment 3600 IN CNAME zeus
+spmi 3600 IN A 180.250.170.3
+lists.ee 3600 IN A 202.46.129.134
+lists.ee 3600 IN MX 1 lists.ee
+lists.ee 3600 IN TXT "v=spf1 ip4:202.46.129.134/32 a mx -all"
+amu 3600 IN CNAME lyra
+bem 3600 IN CNAME zeus
+mail2 3600 IN CNAME lyra
+www.bem.fmipa 3600 IN CNAME zeus
+labsisman.ie 3600 IN CNAME zeus
+www.nasdec 3600 IN CNAME zeus
+mail.seatrans 3600 IN CNAME vmail
+www.mpp.ne 3600 IN CNAME zeus
+www.enviro 3600 IN CNAME enviro
+geomatika 3600 IN CNAME zeus
+www.ict2013 3600 IN CNAME zeus
+rsce2012 3600 IN CNAME zeus
+semnas.ce 3600 IN CNAME zeus
+serdos 3600 IN CNAME adm.icts
+ikoma 3600 IN CNAME zeus
+www.ftsp 3600 IN CNAME ftsp
+webalizer.noc 3600 IN A 202.46.129.21
+hima.mar-eng 3600 IN CNAME zeus
+dies47 3600 IN CNAME zeus
+sip 3600 IN CNAME sipdir.online.lync.com.
+dies51 3600 IN CNAME zeus
+dies52 3600 IN CNAME zeus
+dies53 3600 IN CNAME zeus
+dies54 3600 IN CNAME zeus
+saracen 3600 IN A 202.46.129.41
+bio 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+bio 3600 IN A 202.46.129.104
+bio 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+sip.lab 3600 IN CNAME sipdir.online.lync.com.
+ars 3600 IN CNAME spmi
+arsip 3600 IN CNAME zeus
+istec 3600 IN CNAME zeus
+www.bem.fti 3600 IN CNAME zeus
+www.icamimia 3600 IN CNAME zeus
+www.seacma 3600 IN CNAME seacma
+gamelan 3600 IN CNAME zeus
+ns.eepis 3600 IN A 202.95.151.130
+www.sebarandbd.ie 3600 IN A 67.222.147.73
+www.iys 3600 IN CNAME zeus
+webmail.noc2 3600 IN CNAME lyra
+www.international 3600 IN CNAME zeus
+dbhimad3.ee 3600 IN CNAME zeus
+login.erp 3600 IN A 202.46.129.93
+www.kepegawaian 3600 IN CNAME kepegawaian
+prokertest 3600 IN A 202.46.129.181
+www.ukafo.lmb 3600 IN CNAME zeus
+mail.chem-eng 3600 IN CNAME vmail
+ftif 3600 IN CNAME if
+pulse 3600 IN A 202.46.129.142
+iefair.ie 3600 IN CNAME zeus
+www.telecom.ee 3600 IN CNAME zeus
+www.pelayaraniptek.bem.ftk 3600 IN CNAME zeus
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+webmail.urplan 3600 IN CNAME lyra
+mmtdc 3600 IN CNAME zeus
+statistika 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+statistika 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+karate.lmb 3600 IN CNAME zeus
+www.klh 3600 IN CNAME zeus
+lppm 3600 IN CNAME zeus
+pilrek 3600 IN CNAME zeus
+www.menwa 3600 IN CNAME zeus
+icts2 3600 IN CNAME lyra
+che 3600 IN A 203.130.237.62
+www.ppstk-ftk 3600 IN CNAME zeus
+bpp 3600 IN CNAME lyra
+www.blog.mhs.bio 3600 IN CNAME zeus
+blog.mhs.ce 3600 IN CNAME zeus
+www.ikoma 3600 IN CNAME zeus
+www.hime.ce 3600 IN CNAME zeus
+pp 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+pp 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.wap.elearning 3600 IN CNAME zeus
+katalog 3600 IN A 202.46.129.104
+lpse 3600 IN A 118.98.64.138
+www.mms.ne 3600 IN CNAME zeus
+nagios.noc 3600 IN CNAME lyra
+cio 3600 IN CNAME zeus
+blog.mhs.ee 3600 IN CNAME zeus
+www.brain 3600 IN CNAME brain
+www.labkom.ep 3600 IN CNAME zeus
+lpmsatukosong 3600 IN CNAME zeus
+beta 3600 IN A 202.46.129.21
+jmmi 3600 IN CNAME zeus
+blog.mhs.ep 3600 IN CNAME zeus
+devl.pmb 3600 IN CNAME pmb
+webmail.enviro 3600 IN CNAME lyra
+www.hima.bio 3600 IN CNAME zeus
+www.snfatk.chem-eng 3600 IN CNAME zeus
+www.hima.matematika 3600 IN CNAME zeus
+www.geospasial06041.geomatika 3600 IN CNAME zeus
+mail.enviro 3600 IN CNAME vmail
+hima.d3tektro 3600 IN CNAME zeus
+telkomsel.sms 3600 IN CNAME lyra
+www.satelit 3600 IN CNAME zeus
+mail.physics 3600 IN CNAME vmail
+administrasi.ftif 3600 IN A 202.46.129.93
+hima.seatrans 3600 IN CNAME zeus
+antropometri.ie 3600 IN CNAME zeus
+blog.mhs.if 3600 IN CNAME zeus
+www.semnas.ce 3600 IN CNAME zeus
+www.lscm.ie 3600 IN CNAME zeus
+www.mca 3600 IN CNAME ares
+coe 3600 IN CNAME zeus
+www.bibv 3600 IN CNAME zeus
+akademik2 3600 IN A 202.46.129.44
+tracerstudy 3600 IN CNAME zeus
+www.hima.mar-eng 3600 IN CNAME zeus
+icompac 3600 IN CNAME zeus
+ftsp 3600 IN A 202.46.129.118
+blog.mhs.is 3600 IN CNAME zeus
+schematics 3600 IN A 128.199.171.14
+www.kualitaspjm 3600 IN CNAME lyra
+mic 3600 IN A 202.46.129.131
+www.statk 3600 IN CNAME zeus
+tpkk 3600 IN CNAME zeus
+sapuangin 3600 IN CNAME zeus
+www.blog.mhs.is 3600 IN CNAME zeus
+www.magnet2011 3600 IN CNAME zeus
+flexi.sms 3600 IN CNAME lyra
+umdes 3600 IN CNAME adm.icts
+eepis 3600 IN NS ns.eepis
+papsi 3600 IN CNAME zeus
+blog.mhs.me 3600 IN CNAME zeus
+www.iefair.ie 3600 IN CNAME zeus
+www.sapuanginspeed 3600 IN CNAME zeus
+station.statistics 3600 IN CNAME zeus
+blog.mhs.ne 3600 IN CNAME zeus
+molina 3600 IN CNAME zeus
+www.event.ee 3600 IN CNAME zeus
+sitia 3600 IN CNAME web.ee
+blog.mhs.physics 3600 IN CNAME zeus
+p3.me 3600 IN CNAME zeus
+himad3.ee 3600 IN CNAME zeus
+www.graha 3600 IN CNAME zeus
+www.itspress 3600 IN CNAME zeus
+gapps 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+al 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+al 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.mic 3600 IN CNAME mic
+ctq 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+ctq 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+ctq 3600 IN NS ns1.ctq
+mmd.ne 3600 IN CNAME zeus
+www.semnasmat4 3600 IN CNAME zeus
+e-learning.pulse 3600 IN A 202.46.129.142
+mina 3600 IN A 180.250.170.12
+cc 3600 IN CNAME zeus
+www.openpaper 3600 IN CNAME zeus
+ce 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+ce 3600 IN A 202.46.129.132
+ce 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.digilib 3600 IN CNAME permisi
+www.birokeuangan 3600 IN CNAME zeus
+sbmptn 3600 IN A 118.97.238.77
+mail.ne 3600 IN CNAME vmail
+www.isitia 3600 IN CNAME web.ee
+industrial-electronics.ee 3600 IN CNAME zeus
+www.bpp 3600 IN CNAME lyra
+www.kri_reg4 3600 IN CNAME zeus
+cs 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+cs 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+elka.ee 3600 IN CNAME zeus
+webmail.prodes 3600 IN CNAME lyra
+ee 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+ee 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+cwq 3600 IN A 202.46.129.11
+cwq 3600 IN MX 1 mail.cwq
+kemitraan 3600 IN CNAME zeus
+webmail.chem 3600 IN CNAME lyra
+taekwondo.lmb 3600 IN CNAME zeus
+icamimia 3600 IN CNAME zeus
+chemeng 3600 IN A 203.130.252.37
+chernival 3600 IN CNAME zeus
+ep 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+ep 3600 IN A 202.46.129.125
+ep 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.seminar.physics 3600 IN CNAME zeus
+dpm 3600 IN CNAME zeus
+integra 3600 IN A 202.46.129.44
+www.labepsk.ie 3600 IN CNAME zeus
+www.mar-eng 3600 IN CNAME zeus
+lbmm.me 3600 IN CNAME zeus
+www.antropometri.ie 3600 IN CNAME zeus
+cse.elect-eng 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+cse.elect-eng 3600 IN A 202.46.129.104
+cse.elect-eng 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+baronas.ee 3600 IN CNAME zeus
+duniamaritim 3600 IN CNAME lyra
+oceanweeks 3600 IN CNAME zeus
+ie 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+ie 3600 IN A 202.46.129.136
+ie 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+if 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+if 3600 IN NS ns1.if
+3600 IN NS ns2.if
+himad3.me 3600 IN CNAME zeus
+www.hima.seatrans 3600 IN CNAME zeus
+analitik.chem 3600 IN CNAME zeus
+agenda 3600 IN CNAME zeus
+hima.mathematics 3600 IN CNAME zeus
+is 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+is 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+is 3600 IN A 118.98.64.137
+lmb 3600 IN CNAME zeus
+www.hmp.pasca 3600 IN CNAME zeus
+www.itsonlineshop 3600 IN CNAME zeus
+www.aptecs 3600 IN CNAME aptecs
+arch 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+arch 3600 IN A 202.46.129.115
+arch 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+prodes 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+prodes 3600 IN A 202.46.129.104
+prodes 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+milis.ee 3600 IN MX 1 vmail
+kopma 3600 IN CNAME zeus
+salwa 3600 IN A 180.250.170.2
+bibv 3600 IN CNAME zeus
+lj 3600 IN CNAME zeus
+mb 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mb 3600 IN A 202.46.129.104
+mc 3600 IN CNAME zeus
+me 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+me 3600 IN A 202.46.129.104
+me 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+journal.ce 3600 IN CNAME zeus
+lyncdiscover.lab 3600 IN CNAME webdir.online.lync.com.
+www.ftk 3600 IN CNAME zeus
+na 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+na 3600 IN A 202.46.129.104
+na 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+imap2 3600 IN A 202.46.129.11
+3600 IN A 202.46.129.54
+mirror 3600 IN CNAME ares
+geofisika 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+geofisika 3600 IN A 202.46.129.104
+umd3 3600 IN CNAME adm.icts
+www.hima.is 3600 IN CNAME zeus
+catur.lmb 3600 IN CNAME zeus
+gerigi.bem 3600 IN CNAME zeus
+oe 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+oe 3600 IN A 202.46.129.104
+oe 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+icome 3600 IN CNAME zeus
+hima.diplomasipil 3600 IN CNAME zeus
+www.blog.mhs.na 3600 IN CNAME zeus
+www.sepakbola.lmb 3600 IN CNAME zeus
+www.satukosong 3600 IN CNAME zeus
+ebiz.is 3600 IN A 202.46.129.20
+lacerta 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.imae 3600 IN CNAME zeus
+labterapan.ee 3600 IN CNAME zeus
+qa 3600 IN CNAME zeus
+klh 3600 IN CNAME zeus
+www.himad3.ee 3600 IN CNAME zeus
+www.high-voltage.ee 3600 IN CNAME zeus
+dimsum 3600 IN CNAME zeus
+infobank 3600 IN CNAME adm.icts
+bem.ftk 3600 IN CNAME zeus
+mhs.chem 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.chem 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+erp 3600 IN A 202.46.129.93
+web.ee 3600 IN A 202.46.129.99
+www.ostn 3600 IN CNAME zeus
+tlingkungan.enviro 3600 IN CNAME enviro
+mail.interior 3600 IN CNAME vmail
+mmt 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mmt 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+mmt 3600 IN A 202.46.129.116
+sns-9 3600 IN CNAME zeus
+www.enterpreneurship 3600 IN CNAME zeus
+www.hima.na 3600 IN CNAME zeus
+umdesain 3600 IN CNAME adm.icts
+www.blog.mhs.prodes 3600 IN CNAME zeus
+labproduksikapal.na 3600 IN CNAME zeus
+te 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+te 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+lautlestari 3600 IN CNAME zeus
+fmipa 3600 IN CNAME zeus
+hera 3600 IN A 180.250.170.17
+www.robotika.lmb 3600 IN CNAME zeus
+spie-sc 3600 IN CNAME zeus
+webmail.elect-eng 3600 IN CNAME lyra
+gdl 3600 IN A 202.46.129.138
+www.predict 3600 IN CNAME predict
+tv 3600 IN A 202.46.129.42
+msoid365.lab365 3600 IN CNAME clientconfig.microsoftonline-p.net.
+senta2007 3600 IN CNAME zeus
+www.serdos 3600 IN CNAME adm.icts
+senta2010 3600 IN CNAME zeus
+senta2011 3600 IN CNAME zeus
+marineicon.ne 3600 IN CNAME zeus
+geospasial06041.geomatika 3600 IN CNAME zeus
+fti 3600 IN A 202.46.129.98
+www.dies47 3600 IN CNAME zeus
+www.snps 3600 IN CNAME zeus
+www.dies51 3600 IN CNAME zeus
+www.dies52 3600 IN CNAME zeus
+www.dies53 3600 IN CNAME zeus
+www.dies54 3600 IN CNAME zeus
+guesthouse 3600 IN CNAME zeus
+www.blog.mhs.oe 3600 IN CNAME zeus
+hima.chem-eng 3600 IN CNAME zeus
+www.himad3.me 3600 IN CNAME zeus
+ww 3600 IN CNAME www
+www.overseas-telecommunication 3600 IN CNAME zeus
+www.pasca.ce 3600 IN CNAME zeus
+prs.statistics 3600 IN CNAME zeus
+geodesy 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+geodesy 3600 IN A 202.46.129.20
+geodesy 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.dpertimbangan 3600 IN CNAME zeus
+imap.cwq 3600 IN A 202.46.129.11
+www.umdes 3600 IN CNAME adm.icts
+www.phppgadmin 3600 IN CNAME zeus
+wiki.sby.inherent 3600 IN CNAME aquarius
+forkom_m3ner.me 3600 IN CNAME zeus
+www.oqa 3600 IN CNAME zeus
+iwwsmssc 3600 IN CNAME zeus
+iceedm2011.ce 3600 IN A 203.217.173.45
+www.upmb 3600 IN CNAME zeus
+ftk 3600 IN CNAME zeus
+register2 3600 IN A 202.46.129.105
+hima.oe 3600 IN CNAME zeus
+blog.mhs.matematika 3600 IN CNAME zeus
+www.tpkkatolik 3600 IN CNAME zeus
+jfa.physics 3600 IN CNAME zeus
+www.webo 3600 IN CNAME zeus
+kajianislam.oe 3600 IN CNAME zeus
+pskb 3600 IN CNAME zeus
+www.icsot2010 3600 IN CNAME icsot2010
+upmb 3600 IN CNAME zeus
+cacti.noc2 3600 IN CNAME lyra
+www.catur.lmb 3600 IN CNAME zeus
+www.prodes 3600 IN CNAME zeus
+www.pjm 3600 IN CNAME zeus
+www.kopma 3600 IN CNAME zeus
+blog.mhs.statistika 3600 IN CNAME zeus
+cintarebana 3600 IN CNAME zeus
+www.solarcarteam 3600 IN CNAME zeus
+www.inovasi_material.mat-eng 3600 IN CNAME zeus
+tpkb 3600 IN CNAME zeus
+mhs.chem-eng 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.chem-eng 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.statistics 3600 IN CNAME lyra
+www.fmipa 3600 IN CNAME fmipa
+www.pmb 3600 IN CNAME pmb
+www.infobank 3600 IN CNAME adm.icts
+humas 3600 IN CNAME zeus
+www.skki 3600 IN CNAME zeus
+www.pasca.is 3600 IN CNAME zeus
+blog.mhs.arch 3600 IN CNAME zeus
+msoid.office365 3600 IN CNAME clientconfig.microsoftonline-p.net
+mail.al 3600 IN CNAME vmail
+mat-eng 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mat-eng 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+mmc.me 3600 IN CNAME zeus
+ostn 3600 IN CNAME zeus
+www.ovs 3600 IN CNAME ares
+cecc.ce 3600 IN CNAME zeus
+www.pmkb 3600 IN CNAME zeus
+cerberus 3600 IN A 202.46.129.10
+jurnal.me 3600 IN CNAME zeus
+web-stream-1 3600 IN CNAME saracen
+testing 3600 IN A 202.46.129.162
+www.senta 3600 IN CNAME zeus
+proker 3600 IN A 202.46.129.185
+pps.pmb 3600 IN CNAME pmb
+ergonomi.ie 3600 IN CNAME zeus
+mail.cs 3600 IN CNAME vmail
+iap 3600 IN CNAME zeus
+www.material 3600 IN CNAME mme
+mail.ee 3600 IN A 202.46.129.134
+www.labproduksikapal.na 3600 IN CNAME zeus
+mail.ep 3600 IN CNAME vmail
+click.lmb 3600 IN CNAME zeus
+www.bem.ftif 3600 IN CNAME zeus
+eepoly 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+eepoly 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+simkp 3600 IN CNAME permisi
+www.tracerstudy 3600 IN CNAME zeus
+webmail.mku 3600 IN CNAME lyra
+seacma 3600 IN CNAME zeus
+webmail.al 3600 IN CNAME lyra
+wisma 3600 IN CNAME permisi
+www.psm.lmb 3600 IN CNAME psm.lmb
+www.approtech 3600 IN CNAME zeus
+www.ew.bem 3600 IN CNAME zeus
+www.physics 3600 IN CNAME zeus
+webmail.ce 3600 IN CNAME lyra
+multimedia 3600 IN CNAME zeus
+lkmm.bem 3600 IN CNAME zeus
+www.puskom2 3600 IN CNAME zeus
+www.ebiz.is 3600 IN CNAME ebiz.is
+rumahdinas 3600 IN CNAME zeus
+www.mediacenter 3600 IN CNAME zeus
+webmail.cs 3600 IN CNAME lyra
+www.ksrpmi.lmb 3600 IN CNAME zeus
+pasca.is 3600 IN CNAME zeus
+bahrul-ilmi.oe 3600 IN CNAME zeus
+www.portal.bem 3600 IN CNAME zeus
+www.iwwsmssc 3600 IN CNAME zeus
+www.pwk 3600 IN CNAME zeus
+lyra 3600 IN AAAA 2001:df0:426::14
+lyra 3600 IN A 202.46.129.20
+www.itsmengajar.bem 3600 IN CNAME zeus
+webmail.ep 3600 IN CNAME lyra
+livestreaming 3600 IN CNAME saracen
+mail.mb 3600 IN CNAME vmail
+ns1.gemastik 3600 IN A 202.46.129.82
+www.marinesolarboat.ne 3600 IN CNAME zeus
+mail.bio 3600 IN CNAME vmail
+uaw 3600 IN CNAME zeus
+mail.prodes 3600 IN CNAME vmail
+webmail.pp 3600 IN CNAME lyra
+mail.na 3600 IN CNAME vmail
+martec2014 3600 IN CNAME zeus
+www.bp2ki 3600 IN CNAME zeus
+www.musik.lmb 3600 IN CNAME zeus
+www.mmtdc 3600 IN CNAME zeus
+statistics 3600 IN CNAME lyra
+www.elka.ee 3600 IN CNAME zeus
+webmail.ie 3600 IN CNAME lyra
+imc 3600 IN CNAME zeus
+lucifer 3600 IN A 202.46.129.4
+www.sac 3600 IN CNAME sac
+pstranslog 3600 IN CNAME zeus
+router.inherent 3600 IN A 167.205.138.1
+www.kemitraan 3600 IN CNAME zeus
+mail.statistika 3600 IN CNAME vmail
+www.badminton.lmb 3600 IN CNAME zeus
+www.iptek 3600 IN A 202.46.129.108
+pramuka.lmb 3600 IN CNAME zeus
+webmail.is 3600 IN CNAME lyra
+osa-sc 3600 IN CNAME zeus
+webmail.eepoly 3600 IN CNAME lyra
+skki 3600 IN CNAME zeus
+mail.pp 3600 IN CNAME vmail
+sebarandbd.ie 3600 IN A 67.222.147.73
+icomsc 3600 IN CNAME zeus
+www.bem.ftsp 3600 IN CNAME zeus
+inkubator 3600 IN CNAME zeus
+mathematics 3600 IN A 202.46.129.20
+mail.eepoly 3600 IN CNAME vmail
+mhs.mku 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.mku 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+pmkb 3600 IN CNAME zeus
+webmail.me 3600 IN CNAME lyra
+_sip._tls.lab 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www2.dies54 3600 IN CNAME zeus
+_sipfederationtls._tcp.office365 3600 IN SRV 10 10 5061 sipfed.online.lync.com
+www.sns-9 3600 IN CNAME zeus
+webmail.na 3600 IN CNAME lyra
+poli 3600 IN CNAME zeus
+webmail.ne 3600 IN CNAME lyra
+www.agenda 3600 IN CNAME zeus
+mhs.mmt 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.mmt 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+tedx 3600 IN CNAME zeus
+roboboat 3600 IN CNAME zeus
+mail._domainkey 3600 IN TXT "k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUPKx/H5JgUxbzp90QhSvlFSnNCfuwdLINAGcfY23l3IYwC4OOtGCNn2Y9ikQIuWetfsFHDexhjjR4dNbKVDeUG8TNQrB4WElBXYXWxQ5PfTu9+/6dIctO315PTXw+W/ULrfIp0vU92j159DBSORVfJmfD+p8+UjoGOfvHk7bPAQIDAQAB"
+webmail.oe 3600 IN CNAME lyra
+ict2013 3600 IN CNAME zeus
+www.seminpasca 3600 IN CNAME zeus
+snps2013 3600 IN CNAME lyra
+mhs.physics 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.physics 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+telematics.ee 3600 IN CNAME web.ee
+www.click.lmb 3600 IN CNAME zeus
+hmp.pasca 3600 IN CNAME zeus
+desdemona 3600 IN A 202.46.129.36
+blog.mhs.mat-eng 3600 IN CNAME zeus
+www.tedx 3600 IN CNAME zeus
+mail.spmb-reg3 3600 IN CNAME vmail
+akademik 3600 IN A 202.46.129.44
+kji-kbgi 3600 IN CNAME zeus
+www.icommet-09 3600 IN CNAME zeus
+www.umdesain 3600 IN CNAME adm.icts
+material 3600 IN CNAME mme
+wap.elearning 3600 IN CNAME zeus
+ad01 3600 IN A 202.46.129.24
+ad02 3600 IN A 202.46.129.25
+si 3600 IN A 118.98.64.137
+kri_reg4 3600 IN CNAME zeus
+telematics 3600 IN A 202.46.129.99
+cctv 3600 IN A 202.46.129.117
+hima.statistics 3600 IN CNAME zeus
+www.rams.ne 3600 IN CNAME zeus
+www.mcindonesia 3600 IN CNAME zeus
+www.aycf 3600 IN CNAME zeus
+ie2 3600 IN CNAME zeus
+webmail.te 3600 IN CNAME lyra
+grad 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+autodiscover.lab365 3600 IN CNAME autodiscover.outlook.com.
+dvillage 3600 IN CNAME zeus
+acs.inherent 3600 IN A 167.205.138.5
+www.ee 3600 IN CNAME zeus
+www.dimsum 3600 IN CNAME zeus
+kemahasiswaan 3600 IN CNAME zeus
+www.bem.ftk 3600 IN CNAME zeus
+www.pusatkelautan 3600 IN CNAME zeus
+isfache2014 3600 IN CNAME zeus
+cweb.noc 3600 IN CNAME lyra
+despro 3600 IN A 202.46.129.104
+icts3 3600 IN CNAME lyra
+scs 3600 IN CNAME zeus
+www.sunan 3600 IN CNAME zeus
+pmb 3600 IN A 202.46.129.38
+telecom 3600 IN CNAME zeus
+iys 3600 IN CNAME zeus
+www.fasor 3600 IN CNAME zeus
+cities 3600 IN CNAME zeus
+kpi.ftif 3600 IN A 202.46.129.93
+lab 3600 IN MX 0 lab-its-ac-id.mail.protection.outlook.com.
+lab 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+bahasa 3600 IN CNAME zeus
+www.poss 3600 IN CNAME poss
+www.devsus 3600 IN CNAME zeus
+www.arsip 3600 IN CNAME zeus
+www.istec 3600 IN CNAME zeus
+blog.mhs.na 3600 IN CNAME zeus
+www.lautlestari 3600 IN CNAME zeus
+resits 3600 IN A 180.250.170.5
+www.mmslab.ne 3600 IN CNAME zeus
+www.labsisman.ie 3600 IN CNAME zeus
+www.himad3.chem-eng 3600 IN CNAME zeus
+www.iap 3600 IN CNAME zeus
+hima.despro 3600 IN CNAME zeus
+olimpus 3600 IN A 118.98.64.133
+fjb.bem 3600 IN CNAME zeus
+hima.geodesy 3600 IN CNAME zeus
+simpasca 3600 IN CNAME pasca
+mail.ce 3600 IN CNAME vmail
+mhs.interior 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.interior 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+lms-b301.ee 3600 IN CNAME zeus
+scm.poss 3600 IN CNAME poss
+www.wirausaha_mahasiswa 3600 IN CNAME zeus
+hima.bio 3600 IN CNAME zeus
+www.adm.icts 3600 IN CNAME adm.icts
+mhs.ne 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.ne 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+marinesolarboat.ne 3600 IN CNAME zeus
+webmail.spmb-reg3 3600 IN CNAME lyra
+www.uaw 3600 IN CNAME zeus
+ptikm 3600 IN CNAME zeus
+mail.cwq 3600 IN A 202.46.129.11
+www.imc 3600 IN CNAME zeus
+pop3 3600 IN CNAME vmail
+www.pdpm 3600 IN CNAME zeus
+www.snps2013 3600 IN CNAME lyra
+lg.inherent 3600 IN CNAME aquarius
+www.icsm 3600 IN CNAME zeus
+www.chem 3600 IN CNAME chem
+www.cc 3600 IN CNAME zeus
+ppste 3600 IN CNAME zeus
+www.ce 3600 IN CNAME ce
+www.chemecar2011.chem-eng 3600 IN CNAME zeus
+ns1.if 3600 IN A 202.46.129.82
+www.akademik 3600 IN CNAME akademik
+www.snfti2011 3600 IN CNAME zeus
+penelitian 3600 IN A 202.154.56.7
+grid.ee 3600 IN A 202.46.129.143
+www.boyo 3600 IN CNAME boyo
+www.hima.enviro 3600 IN CNAME zeus
+simarsip 3600 IN CNAME permisi
+ovs 3600 IN CNAME ares
+telecom.ee 3600 IN CNAME zeus
+www.mmc.me 3600 IN CNAME zeus
+mca 3600 IN CNAME ares
+www.ep 3600 IN CNAME ep
+www.rsce2012 3600 IN CNAME zeus
+www.cintarebana 3600 IN CNAME zeus
+siren 3600 IN A 202.46.129.15
+aycf 3600 IN CNAME zeus
+event.ee 3600 IN CNAME zeus
+www.dvillage 3600 IN CNAME zeus
+www.omits-himatika 3600 IN CNAME zeus
+www.ppste 3600 IN CNAME zeus
+www.barunastra 3600 IN CNAME zeus
+gemini 3600 IN AAAA 2001:df0:426::11
+gemini 3600 IN A 202.46.129.11
+ppstk-ftk 3600 IN CNAME zeus
+icsot2010 3600 IN A 202.46.129.104
+www.labtelecom.ee 3600 IN CNAME zeus
+webmail.geodesy 3600 IN CNAME lyra
+www.ie 3600 IN CNAME ie
+elect-eng 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+elect-eng 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+smartdc 3600 IN CNAME zeus
+www.blog.mhs.arch 3600 IN CNAME zeus
+www.cecc.ce 3600 IN CNAME zeus
+digilib 3600 IN CNAME permisi
+www.io 3600 IN CNAME zeus
+robotics 3600 IN CNAME zeus
+www.is 3600 IN CNAME is
+www.urplan 3600 IN CNAME urplan
+www.testing 3600 IN CNAME testing
+www.ulp 3600 IN CNAME zeus
+webmail 3600 IN CNAME lyra
+carbon.siklus.lmb 3600 IN CNAME zeus
+poss 3600 IN A 202.46.129.137
+javajournal 3600 IN CNAME web.ee
+www.blog.mhs.geodesy 3600 IN CNAME zeus
+ns2.if 3600 IN A 202.46.129.3
+www.lj 3600 IN CNAME zeus
+www.mb 3600 IN CNAME mb
+www.mc 3600 IN CNAME zeus
+www.me 3600 IN CNAME zeus
+webo 3600 IN CNAME zeus
+www.blog.mhs.seatrans 3600 IN CNAME zeus
+www.industrial-electronics.ee 3600 IN CNAME zeus
+www.iemc 3600 IN CNAME zeus
+www.na 3600 IN CNAME na
+mail.ie 3600 IN CNAME vmail
+www.simpasca 3600 IN CNAME pasca
+www.pstranslog 3600 IN CNAME zeus
+www.ne 3600 IN CNAME ne
+urplan 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+urplan 3600 IN A 202.46.129.104
+urplan 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+mhs.enviro 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.enviro 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+hima.urplan 3600 IN CNAME zeus
+www.ecocampus 3600 IN CNAME zeus
+www.hima.urplan 3600 IN CNAME zeus
+www.oc 3600 IN CNAME zeus
+vpnsbmptn 3600 IN A 202.46.129.37
+icommet-09 3600 IN CNAME zeus
+sjpsids 3600 IN A 180.250.170.7
+snps 3600 IN CNAME zeus
+www.mmd.ne 3600 IN CNAME zeus
+www.energy-conversion.ee 3600 IN CNAME zeus
+mail.telcom-poly 3600 IN CNAME vmail
+ndb 3600 IN A 202.46.129.9
+mku 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mku 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+mme 3600 IN CNAME zeus
+forum.ftif 3600 IN A 202.46.129.93
+spmb-reg3 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+spmb-reg3 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.snitm 3600 IN CNAME zeus
+simpel 3600 IN A 202.46.129.186
+www.telecom 3600 IN CNAME zeus
+blog.mhs.bio 3600 IN CNAME zeus
+himad3.statistics 3600 IN CNAME zeus
+mail.geodesy 3600 IN CNAME vmail
+icsm 3600 IN CNAME zeus
+chem 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+chem 3600 IN A 202.46.129.101
+chem 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.smartdc 3600 IN CNAME zeus
+www.si 3600 IN CNAME si
+soshum 3600 IN CNAME zeus
+ns.ajar.me 3600 IN A 202.46.129.66
+www.martec2014 3600 IN CNAME zeus
+www.predict2 3600 IN CNAME predict2
+www.blog.mhs.mat-eng 3600 IN CNAME zeus
+dummy 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+dummy 3600 IN TXT "v=google-site-verification=q0EaTIu7d2sGqiQ9d6EoirMJ1VxYKm2VIbbB1BTOQAg"
+webmail.matematika 3600 IN CNAME lyra
+boyo 3600 IN A 202.46.129.40
+www.pskb 3600 IN CNAME zeus
+mx2 3600 IN A 202.46.129.29
+www.2010 3600 IN CNAME ares
+smtp 3600 IN CNAME vmail
+openpaper 3600 IN CNAME zeus
+www.geophysics 3600 IN CNAME zeus
+ulp 3600 IN CNAME zeus
+mentoring.jmmi 3600 IN CNAME zeus
+physics 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+physics 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+audit 3600 IN CNAME zeus
+mhs.urplan 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+mhs.urplan 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+www.osa-sc 3600 IN CNAME zeus
+www.penelitian 3600 IN CNAME penelitian
+moodle 3600 IN A 202.154.56.7
+library.mmt 3600 IN A 202.46.129.116
+youthmagazine 3600 IN CNAME zeus
+nogogeni 3600 IN CNAME zeus
+www.blog.mhs.mmt 3600 IN CNAME zeus
+chemistry 3600 IN CNAME chem
+www.rank 3600 IN CNAME zeus
+ns1 3600 IN AAAA 2001:df0:426::2
+ns1 3600 IN A 202.46.129.2
+ns2 3600 IN A 202.46.129.3
+www.hima.material 3600 IN CNAME zeus
+labepsk.ie 3600 IN CNAME zeus
+smits 3600 IN CNAME permisi
+lab-lingkungan.lppm 3600 IN CNAME zeus
+www.ij-eeri.ee 3600 IN CNAME zeus
+www.power-system.ee 3600 IN CNAME zeus
+poseidon 3600 IN A 180.250.170.14
+noc 3600 IN CNAME lyra
+www.sntf10 3600 IN CNAME zeus
+www.biodiversity 3600 IN CNAME zeus
+dapur 3600 IN CNAME lyra
+webmail.seatrans 3600 IN CNAME lyra
+www.journal.ce 3600 IN CNAME zeus
+www.icome 3600 IN CNAME zeus
+graha 3600 IN CNAME zeus
+hima.arch 3600 IN CNAME zeus
+www.pusains 3600 IN CNAME zeus
+mail.matematika 3600 IN CNAME vmail
+kopma.lmb 3600 IN CNAME zeus
+nasdec 3600 IN CNAME zeus
+www.technopreneur-studentwelfare 3600 IN CNAME zeus
+iemc 3600 IN CNAME zeus
+pasca.geomatika 3600 IN CNAME zeus
+postman.ftif 3600 IN A 202.46.129.93
+ajar.me 3600 IN NS ns.ajar.me
+www.mesinitsautosport.me 3600 IN CNAME zeus
+semnasmat4 3600 IN CNAME zeus
+inovasi_material.mat-eng 3600 IN CNAME zeus
+bp2ki2 3600 IN A 202.46.129.108
+webmail.bio 3600 IN CNAME lyra
+www.up3d 3600 IN CNAME up3d
+rba.ftif 3600 IN A 202.46.129.93
+permisi 3600 IN A 180.250.170.5
+pasca.ce 3600 IN CNAME zeus
+www.geodesy 3600 IN CNAME geodesy
+www.ejurnal 3600 IN A 202.46.129.108
+old 3600 IN A 202.46.129.20
+ns1.ctq 3600 IN AAAA 2001:df0:426::27
+ns1.ctq 3600 IN A 202.46.129.27
+www.sidamaru 3600 IN A 202.46.129.123
+suro 3600 IN CNAME ares
+blog.mhs.seatrans 3600 IN CNAME zeus
+www.guesthouse 3600 IN CNAME zeus
+meas.ne 3600 IN CNAME zeus
+mail.urplan 3600 IN CNAME vmail
+www.d3chem-eng 3600 IN CNAME zeus
+chemecar2011.chem-eng 3600 IN CNAME zeus
+www.despro 3600 IN CNAME zeus
+blog.mhs.urplan 3600 IN CNAME zeus
+www.isfache2014 3600 IN CNAME zeus
+pdt 3600 IN CNAME spmi
+www.chemistryweek.chem 3600 IN CNAME zeus
+www.iccer.ce 3600 IN CNAME zeus
+mail.mmt 3600 IN CNAME vmail
+www.blog.mhs.statistika 3600 IN CNAME zeus
+www.cities 3600 IN CNAME zeus
+snmptn 3600 IN A 118.97.238.75
+puskom2 3600 IN CNAME zeus
+share 3600 IN A 202.46.129.110
+iess 3600 IN CNAME zeus
+www.bahasa 3600 IN CNAME zeus
+mail.alumni 3600 IN CNAME vmail
+tdc.lmb 3600 IN CNAME zeus
+knm17 3600 IN CNAME zeus
+lyncdiscover.office365 3600 IN CNAME webdir.online.lync.com
+technopreneur-studentwelfare 3600 IN CNAME zeus
+jurnal_kelautan 3600 IN CNAME zeus
+devsus 3600 IN CNAME zeus
+exchange 3600 IN A 202.46.129.28
+blog.mhs.oe 3600 IN CNAME zeus
+mail.grad 3600 IN CNAME vmail
+gsa 3600 IN CNAME zeus
+www.fjb.bem 3600 IN CNAME zeus
+fasdemik 3600 IN CNAME zeus
+www.yes 3600 IN CNAME zeus
+blog.mhs.enviro 3600 IN CNAME zeus
+blog.mhs.chem-eng 3600 IN CNAME zeus
+blog.mhs.chem 3600 IN CNAME zeus
+www.siklus.lmb 3600 IN CNAME zeus
+www.hima.geodesy 3600 IN CNAME zeus
+www.nusantaraview 3600 IN CNAME zeus
+exp10 3600 IN NS ns1.exp10
+pjm 3600 IN CNAME zeus
+autodiscover.lab 3600 IN CNAME exchange
+rank 3600 IN CNAME zeus
+pelayaraniptek.bem.ftk 3600 IN CNAME zeus
+aipi 3600 IN CNAME zeus
+www.molina 3600 IN CNAME zeus
+pikom 3600 IN MX 1 vmail
+3600 IN MX 2 mx2
+www.btsi 3600 IN CNAME lptsi
+www.forumppdjatim 3600 IN CNAME zeus
+www.station.statistics 3600 IN CNAME zeus
+ise.is 3600 IN CNAME zeus
+www.hima.arch 3600 IN CNAME zeus
+musik.lmb 3600 IN CNAME zeus
+acadcert.ftif 3600 IN A 202.46.129.93
+satukosong 3600 IN CNAME zeus
+beasiswa 3600 IN A 202.46.129.44
+www.kopma.lmb 3600 IN CNAME zeus
+lms.inherent 3600 IN A 167.205.138.6
+pmu 3600 IN CNAME lyra
+bem.ftif 3600 IN CNAME zeus
+www.humas 3600 IN CNAME zeus
+www.grid.ee 3600 IN CNAME grid.ee
+en.ftif 3600 IN A 202.46.129.93
+webmail.dev 3600 IN A 202.46.129.20
+snfatk.chem-eng 3600 IN CNAME zeus
+milis.arch 3600 IN MX 1 vmail
+hima.matematika 3600 IN CNAME zeus
+itsmengajar.bem 3600 IN CNAME zeus
+www.dbhimad3.ee 3600 IN CNAME zeus
+www.marineicon.ne 3600 IN CNAME zeus
+socialdevelopment 3600 IN CNAME zeus
+www.esri 3600 IN CNAME zeus
+kri2012_reg4 3600 IN CNAME zeus
+office365 3600 IN TXT "v=spf1" "include:spf.protection.outlook.com" "-all"
+office365 3600 IN MX 1 office365-its-ac-id.mail.protection.outlook.com
+kimia 3600 IN CNAME zeus
+sepakbola.lmb 3600 IN CNAME zeus
+lab365 3600 IN MX 0 lab365-its-ac-id.mail.protection.outlook.com.
+lab365 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ksrpmi.lmb 3600 IN CNAME zeus
+www.kajianislam.oe 3600 IN CNAME zeus
+adfs 3600 IN A 202.46.129.34
+www.mme 3600 IN CNAME zeus
+webmail2.noc2 3600 IN CNAME lyra
+pusains 3600 IN CNAME zeus
+www.chemistry 3600 IN CNAME chem
+sidamaru 3600 IN A 202.46.129.123
+mhs.geofisika 3600 IN MX 1 vmail
+mhs.geofisika 3600 IN TXT "v=spf1 ip6:2001:df0:426::/64 ip4:202.46.129.0/26 include:_spf.google.com a mx -all"
+hima.material 3600 IN CNAME zeus
+www.oe 3600 IN CNAME oe
+www.lpmp2ki 3600 IN A 202.46.129.108
+iptek2 3600 IN CNAME zeus
+www.ie2 3600 IN CNAME zeus
+www.geomatika 3600 IN CNAME zeus

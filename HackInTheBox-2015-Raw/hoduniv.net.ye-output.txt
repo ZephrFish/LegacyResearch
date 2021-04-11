@@ -1,0 +1,13 @@
+@ 86400 IN SOA ns1.yemen.net.ye. dns.yemen.net.ye. 2014030301 28800 7200 604800 86400
+@ 86400 IN NS ns1.yemen.net.ye.
+86400 IN NS ns2.yemen.net.ye.
+@ 86400 IN A 82.114.162.10
+@ 86400 IN MX 10 mail1.yemen.net.ye.
+86400 IN MX 10 mail2.yemen.net.ye.
+86400 IN MX 20 mail
+@ 86400 IN TXT "v=spf1 mx ip4:82.114.162.10 mx:mail.hoduniv.net.ye  mx:mail1.yemen.net.ye mx:mail2.yemen.net.ye -all"
+webmail 86400 IN A 82.114.162.35
+ftp 86400 IN A 82.114.162.10
+www 86400 IN A 82.114.162.10
+mssql 86400 IN A 82.114.162.10
+mail 86400 IN A 82.114.162.35

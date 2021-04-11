@@ -1,0 +1,103 @@
+@ 3600 IN SOA maindns postmaster.mans.edu.eg. 234 900 600 86400 3600
+@ 3600 IN A 193.227.40.220
+@ 3600 IN NS 193.227.40.222.
+3600 IN NS 193.227.1.1.
+@ 3600 IN MX 0 edge230
+3600 IN MX 0 mail01
+@ 3600 IN TXT "v=spf1 a mx ptr mx:edge230.du.edu.eg mx:mail01.du.edu.eg -all"
+mail01 3600 IN A 193.227.40.230
+lyncdiscover.sedu 3600 IN CNAME webdir.online.lync.com.
+lyncdiscover.agr 3600 IN CNAME webdir.online.lync.com.
+mainprxy 3600 IN CNAME tmgsrv224
+autodiscover.app 3600 IN CNAME autodiscover.outlook.com.
+sip.art 3600 IN CNAME sipdir.online.lync.com.
+lyncdiscover.sci 3600 IN CNAME webdir.online.lync.com.
+sip.sedu 3600 IN CNAME sipdir.online.lync.com.
+_sipfederationtls._tcp.phyedu 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+app 3600 IN A 193.227.40.220
+app 3600 IN MX 0 app-du-edu-eg.mail.protection.outlook.com.
+app 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+_sipfederationtls._tcp.edu 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls.sedu 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+_sipfederationtls._tcp.agr 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+conference 3600 IN A 193.227.40.220
+_sip._tls.com 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+sip.phyedu 3600 IN CNAME sipdir.online.lync.com.
+_sipfederationtls._tcp.sci 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls.phyedu 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+autodiscover.art 3600 IN CNAME autodiscover.outlook.com.
+_sipfederationtls._tcp.sedu 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+193.227.1.1. 3600 IN A 193.227.1.1
+tmgsrv224 3600 IN A 192.168.50.250
+sip.agr 3600 IN CNAME sipdir.online.lync.com.
+art 3600 IN A 193.227.40.220
+art 3600 IN MX 0 art-du-edu-eg.mail.protection.outlook.com.
+art 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+sip.sci 3600 IN CNAME sipdir.online.lync.com.
+_sip._tls.edu 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+autodiscover.sedu 3600 IN CNAME autodiscover.outlook.com.
+_sip._tls.app 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+students 3600 IN MX 10 mail.students
+lyncdiscover.ol 3600 IN CNAME webdir.online.lync.com.
+test 3600 IN A 193.227.40.220
+dubw 3600 IN A 193.227.40.141
+lyncdiscover.edu 3600 IN CNAME webdir.online.lync.com.
+publication 3600 IN A 193.227.40.234
+autodiscover.agr 3600 IN CNAME autodiscover.outlook.com.
+autodiscover.com 3600 IN CNAME autodiscover.outlook.com.
+lyncdiscover.com 3600 IN CNAME webdir.online.lync.com.
+autodiscover.sci 3600 IN CNAME autodiscover.outlook.com.
+_sipfederationtls._tcp.ol 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+agr 3600 IN A 193.227.40.220
+agr 3600 IN MX 0 agr-du-edu-eg.mail.protection.outlook.com.
+agr 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+sip.com 3600 IN CNAME sipdir.online.lync.com.
+_sip._tls.art 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+ser 3600 IN A 172.31.31.250
+sci 3600 IN A 193.227.40.220
+sci 3600 IN MX 0 sci-du-edu-eg.mail.protection.outlook.com.
+sci 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+_sip._tls.ol 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+decpc 3600 IN A 193.227.40.239
+edge230 3600 IN A 193.227.40.232
+stddc01.students 3600 IN A 193.227.40.217
+193.227.40.222. 3600 IN A 193.227.40.222
+mainproxy 3600 IN CNAME tmgsrv224
+staffcms 3600 IN A 193.227.40.142
+spe 3600 IN A 193.227.40.220
+sip.edu 3600 IN CNAME sipdir.online.lync.com.
+ol 3600 IN MX 0 ol-du-edu-eg.mail.protection.outlook.com.
+ol 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+autodiscover.ol 3600 IN CNAME autodiscover.outlook.com.
+lyncdiscover.app 3600 IN CNAME webdir.online.lync.com.
+phyedu 3600 IN MX 0 phyedu-du-edu-eg.mail.protection.outlook.com.
+phyedu 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+damietta 3600 IN A 193.227.40.229
+autodiscover.phyedu 3600 IN CNAME autodiscover.outlook.com.
+www 3600 IN A 193.227.40.220
+_sip._tls.agr 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+staff 3600 IN A 193.227.40.229
+maindns 3600 IN A 193.227.40.222
+_sip._tls.sci 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+db 3600 IN A 193.227.1.33
+_sipfederationtls._tcp.app 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+jaas 3600 IN A 193.227.40.220
+sip.ol 3600 IN CNAME sipdir.online.lync.com.
+_sipfederationtls._tcp.com 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+com 3600 IN A 193.227.40.220
+com 3600 IN MX 0 com-du-edu-eg.mail.protection.outlook.com.
+com 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+lyncdiscover.art 3600 IN CNAME webdir.online.lync.com.
+library 3600 IN A 193.227.1.33
+edu 3600 IN A 193.227.40.220
+edu 3600 IN MX 0 edu-du-edu-eg.mail.protection.outlook.com.
+edu 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+duexchsrv228 3600 IN A 193.227.40.228
+phy 3600 IN A 193.227.40.220
+sip.app 3600 IN CNAME sipdir.online.lync.com.
+sedu 3600 IN MX 0 sedu-du-edu-eg.mail.protection.outlook.com.
+sedu 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+lyncdiscover.phyedu 3600 IN CNAME webdir.online.lync.com.
+_sipfederationtls._tcp.art 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+autodiscover.edu 3600 IN CNAME autodiscover.outlook.com.
+mail.students 3600 IN A 193.227.40.216

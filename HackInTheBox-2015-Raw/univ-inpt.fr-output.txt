@@ -1,0 +1,13 @@
+@ 6400 IN SOA inp-toulouse.fr. hostmaster.inp-toulouse.fr. 2010031801 21600 3600 604800 6400
+@ 6400 IN NS ns1.enseeiht.fr.
+6400 IN NS ns1.inp-toulouse.fr.
+6400 IN NS nsa1.cict.fr.
+@ 6400 IN A 193.48.203.43
+@ 6400 IN MX 5 inpsmtp2.inp-toulouse.fr.
+6400 IN MX 10 inpsmtp.inp-toulouse.fr.
+localhost 6400 IN A 127.0.0.1
+listes 6400 IN CNAME csympa
+csympa 6400 IN A 193.48.203.47
+csympa 6400 IN MX 5 inpsmtp2.inp-toulouse.fr.
+6400 IN MX 10 inpsmtp.inp-toulouse.fr.
+www 6400 IN A 147.127.18.217

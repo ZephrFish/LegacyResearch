@@ -1,0 +1,86 @@
+@ 3600 IN SOA optimus ignacioparra.redgec.cl. 2013061001 86400 3600 1209600 3600
+@ 1800 IN TXT "v=spf1 mx ip4:200.14.64.228/24 include:outlook.com ~all"
+@ 1800 IN MX 5 smtp
+1800 IN MX 10 ucinf-cl.mail.eo.outlook.com.
+1800 IN MX 15 cupido
+1800 IN MX 20 correo
+@ 1800 IN A 200.14.64.0
+@ 3600 IN NS optimus
+3600 IN NS rodimus
+3600 IN NS ironhide
+3600 IN NS megatron.redgec.cl.
+mesayuda 1800 IN A 200.14.64.73
+siga 1800 IN CNAME fry.dingtel.redgec.cl.
+sip 1800 IN CNAME sipdir.online.lync.com
+gec 1800 IN A 200.14.64.229
+profesores 1800 IN A 200.14.64.161
+actualizaciondocentes 1800 IN A 200.91.20.141
+biblio-intranet 1800 IN A 200.14.64.70
+blog 1800 IN A 200.91.20.153
+sgi-ipchile 1800 IN A 200.14.64.224
+portal 1800 IN A 200.91.20.135
+docente 1800 IN CNAME docente.ucinf.cl.redgec.cl.
+portalcolaborativo-ipch 1800 IN A 200.14.64.224
+actualizablog 1800 IN A 200.91.20.136
+actualizaegresados 1800 IN A 200.91.20.141
+rodimus 1800 IN A 200.14.64.121
+sql_piloto 1800 IN A 200.14.64.69
+presupuesto 1800 IN A 200.14.64.15
+www 1800 IN CNAME www.ucinf.cl.redgec.cl.
+encuestas 1800 IN A 200.14.64.77
+arq 1800 IN A 200.14.64.82
+moodle26 1800 IN CNAME moodle26.ucinf.cl.redgec.cl.
+formulacion2008 1800 IN A 200.14.64.230
+proyeccion 1800 IN A 200.14.64.14
+1264203824.edu 1800 IN CNAME domains.live.com.
+servicios 1800 IN CNAME servicios.ucinf.cl.redgec.cl.
+sgi_ipchile 1800 IN A 200.14.64.224
+mod 1800 IN CNAME bender.dingtel.grupogec.cl.
+ironhide 1800 IN A 200.14.64.76
+sigapsreport 1800 IN A 200.91.20.141
+bibliotecadigital 1800 IN A 200.14.64.216
+200-14-64-2.dingtel 1800 IN A 200.14.64.2
+autodiscover 1800 IN CNAME autodiscover.outlook.com
+200-14-64-1 1800 IN A 200.14.64.1
+s1 1800 IN CNAME s1.ucinf.cl.redgec.cl.
+s2 1800 IN CNAME s2.ucinf.cl.redgec.cl.
+365 1800 IN A 207.46.163.215
+1800 IN A 207.46.163.247
+alumnos 1800 IN A 200.14.64.161
+campus 1800 IN A 200.14.64.161
+ingenieria 1800 IN CNAME fry.dingtel.redgec.cl.
+syllabus 1800 IN A 200.14.64.83
+certificados 1800 IN A 200.14.64.2
+cupido 1800 IN A 200.14.64.228
+lyncdiscover 1800 IN CNAME webdir.online.lync.com
+actualiza 1800 IN A 200.91.20.136
+formulacion 1800 IN A 200.14.64.16
+nodo 1800 IN A 200.14.64.28
+webmail 1800 IN A 200.14.64.12
+ntp 1800 IN A 200.14.64.90
+serviciomovil 1800 IN CNAME serviciomovil.ucinf.cl.redgec.cl.
+actualizaportal 1800 IN A 200.91.20.135
+correo 1800 IN A 200.14.64.20
+koha 1800 IN CNAME fry.dingtel.redgec.cl.
+e-rooms 1800 IN A 200.14.64.8
+biblioteca 1800 IN A 200.14.64.64
+capacitacion 1800 IN A 200.14.64.62
+#intranet 1800 IN A 200.14.64.75
+inscripcion 1800 IN CNAME inscripcion.ucinf.cl.redgec.cl.
+ppto 1800 IN CNAME ppto.ucinf.cl.redgec.cl.
+sistema 1800 IN CNAME sistema.ucinf.cl.redgec.cl.
+reporte 1800 IN A 200.91.20.141
+smtp 1800 IN A 200.14.64.3
+catalogo 1800 IN CNAME fry.dingtel.redgec.cl.
+sql-piloto 1800 IN A 200.14.64.69
+alumno 1800 IN CNAME alumno.ucinf.cl.redgec.cl.
+portal3 1800 IN A 200.91.20.135
+edu 1800 IN TXT "v=spf1 include:outlook.com ~all"
+edu 1800 IN MX 0 1264203824.mail.outlook.com.
+optimus 1800 IN A 200.91.20.152
+portal2 1800 IN A 200.91.20.136
+continuidad 1800 IN A 200.14.64.22
+presupuesto2k 1800 IN A 200.14.64.17
+intranet 1800 IN CNAME publicador.dingtel.redgec.cl.
+ing 1800 IN A 200.14.64.80
+planifica 1800 IN A 200.14.64.73

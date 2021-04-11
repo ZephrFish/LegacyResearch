@@ -1,0 +1,98 @@
+@ 300 IN SOA ns1.securityspace.net. candrews 1034050 21600 3600 604800 300
+@ 300 IN TXT "v=spf1 mx include:spf.postini.com include:_spf.google.com ~all"
+@ 300 IN SPF "v=spf1 mx include:spf.postini.com include:_spf.google.com ~all"
+@ 300 IN A 198.58.101.183
+@ 300 IN MX 10 brenau.edu.s10a1.psmtp.com.
+300 IN MX 15 brenau.edu.s10a2.psmtp.com.
+300 IN MX 20 brenau.edu.s10b1.psmtp.com.
+300 IN MX 30 brenau.edu.s10b2.psmtp.com.
+300 IN MX 99 iweb
+@ 300 IN NS ns1.securityspace.net.
+300 IN NS ns2.securityspace.net.
+300 IN NS ns3.securityspace.net.
+300 IN NS ns4.securityspace.net.
+ezproxy 300 IN A 68.118.118.232
+liger 300 IN A 68.118.118.241
+lyncdiscover.ags 300 IN CNAME lyncpool1.exch080.serverdata.net.
+www.intranet 300 IN CNAME intranet
+iweb 300 IN A 68.118.118.226
+300 IN A 68.118.118.234
+_sipfederationtls._tcp.students 300 IN SRV 10 2 5061 federation.messenger.msn.com.
+fang4 300 IN CNAME sacs
+window 300 IN CNAME brenauwindow.wpengine.com.
+aics2 300 IN A 68.118.118.244
+mobileassets 300 IN A 68.118.118.226
+mail.students 300 IN CNAME go.domains.live.com.
+_dmarc 300 IN TXT "v=DMARC1; p=none; rua=mailto:candrews@brenau.edu"
+intranet2 300 IN CNAME ghs.google.com.
+artsweb 300 IN A 68.118.118.236
+gateway 300 IN A 68.118.118.227
+update 300 IN CNAME brenauupdatewp.wpengine.com.
+sacs 300 IN A 68.118.118.230
+emailreg02150f558e1084fd 300 IN CNAME emailreg.org.
+scratch 300 IN A 68.118.118.237
+students 300 IN TXT "v=spf1 include:exchangelabs.com ~all"
+students 300 IN SPF "v=spf1 include:exchangelabs.com ~all"
+googleed68293564a290b2 300 IN CNAME google.com.
+cm._domainkey 300 IN TXT "k=rsa; t=y; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhANUreHImmlB7ofDzwoE7wyyUwCEZRdCWS+lEUt/JL3uyNzWNRLkdgG9uyaG5tELTymMgp0wCJA/qpMngm3d2sH5KYMR5hn9yNN87uocyM/MfRa4/KAvKWNq/58L5SY9pgQIDAQAB"
+calendar 300 IN A 68.118.118.227
+supporting 300 IN CNAME brenau.wpengine.com.
+forevergold 300 IN CNAME brenau.wpengine.com.
+libguides 300 IN A 174.132.16.38
+mail 300 IN CNAME ghs.google.com.
+tiger 300 IN TXT "v=spf1 mx include:_spf.google.com ~all"
+tiger 300 IN SPF "v=spf1 mx include:_spf.google.com ~all"
+tiger 300 IN A 68.118.118.248
+tiger 300 IN MX 10 ASPMX.L.GOOGLE.COM.
+300 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+300 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+300 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+300 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+300 IN MX 30 ASPMX4.GOOGLEMAIL.COM.
+300 IN MX 30 ASPMX5.GOOGLEMAIL.COM.
+facstaff 300 IN TXT "google-site-verification=4Rkf5601yycd5fVEKDFuybCVaox0RWcRanebBaV7jRA"
+www.oxford 300 IN CNAME oxford
+oxford 300 IN A 74.208.185.24
+autodiscover.ags 300 IN CNAME ar-west.exch080.serverdata.net.
+google._domainkey 300 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCYx7WKMwUBr3gTl140aTPinqb0v4ywkP60QOkcQrDB8x3u3Ea4cxWUDegGWRv+6XyXxP587Tl4dgfQzq27sYGfzstTfCWVxC5APqtHcnFOqIR6+rivtehWvggvz7z1hQuoUw6/gt39sKbVlPm0wJmhPSuj/jmMjMm9RXabGLuyCwIDAQAB"
+www.campus 300 IN CNAME campus
+lib 300 IN TXT "google-site-verification=upKDtvyygXpQhU2RT4agxz-OTc2CXG8LiEVYjkpyQd0"
+lib 300 IN MX 25 brenau.edu.s10a1.psmtp.com.
+www.mobileassets 300 IN CNAME mobileassets
+campus 300 IN A 68.118.118.239
+archive 300 IN A 68.118.118.235
+ags 300 IN TXT "v=msv1 t=FBD0FC99-7362-4936-B772-F8B1FD9AA43D"
+ags 300 IN A 198.58.101.183
+ags 300 IN MX 10 mx1.smtp.exch080.serverdata.net.
+300 IN MX 20 mx2.smtp.exch080.serverdata.net.
+remote 300 IN A 68.118.118.249
+mail.tiger 300 IN CNAME ghs.google.com.
+secure 300 IN A 68.118.118.229
+documents 300 IN A 68.118.118.247
+www 300 IN A 198.58.101.183
+aweb 300 IN A 68.118.118.240
+mail2 300 IN CNAME ghs.google.com.
+libanswers 300 IN CNAME libanswers.com.
+events 300 IN A 68.118.118.227
+galleries 300 IN CNAME brenau.wpengine.com.
+photos 300 IN CNAME custom.photoshelter.com.
+*.ezproxy 300 IN A 68.118.118.232
+terminal 300 IN A 68.118.118.243
+blackboard 300 IN A 68.118.118.242
+googletiger._domainkey.tiger 300 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCghMLegLZ+2kpaMhXd4Yab2Bt/LptIQr8Mfg6z9IL6M2kYdNIPk1GkxOvhst1la+gJ9bpNSaL5kMMOcEZP2LgZiXgLkjvdxDPF94B03IkMgTf0gmsSAE3Wii+hNxa81sFxJ3DOi3I+LFYdBya/TBhhLMa6mRNCMUwCOUQaPEZ+jQIDAQAB"
+catalog 300 IN CNAME brenau.catalog.acalog.com.
+train 300 IN A 68.118.118.246
+mailcname 300 IN TXT "v=spf1 a include:charter.com include:spf.postini.com ~all"
+mailcname 300 IN SPF "v=spf1 a include:charter.com include:spf.postini.com ~all"
+m.catalog 300 IN CNAME brenau.catalog.acalog.com.
+adultdegrees 300 IN CNAME www.brenauadultdegrees.com.
+autodiscover.students 300 IN CNAME autodiscover.exchangelabs.com.
+www.go 300 IN CNAME go
+library 300 IN CNAME brenaulibrary.wpengine.com.
+intranet 300 IN CNAME brenau.wpengine.com.
+google26a0b9c464a290b2.tiger 300 IN CNAME google.com.
+go 300 IN A 65.221.69.32
+aweb2 300 IN A 68.118.118.240
+alchemist 300 IN CNAME alchemist.wpengine.com.
+fang2 300 IN CNAME secure
+www2 300 IN CNAME brenauwp.wpengine.com.

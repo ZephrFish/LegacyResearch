@@ -1,0 +1,77 @@
+@ 28800 IN SOA dns1.gw hostmaster.gw 1425973055 10800 3600 604800 28800
+@ 28800 IN TXT "v=spf1 mx -all"
+@ 28800 IN SPF "v=spf1 mx -all"
+@ 28800 IN MX 10 ironport.gw
+@ 28800 IN A 133.52.27.1
+@ 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+ipc 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+dns2.gw 28800 IN A 133.52.10.53
+gw 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+adb 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+www.LLL 28800 IN CNAME wwwlll.fukushimau-nk.com.
+netns.net 28800 IN A 133.52.27.53
+ash 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+nekoma.gw 28800 IN A 133.52.10.62
+ads 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+ix 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+aes 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+dnswa.gw 28800 IN A 203.138.123.91
+dousou 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+educ 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+cera 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+dns1.gw 28800 IN A 133.52.10.52
+econ 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+hcc 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+www 28800 IN CNAME www.fukushimau-nk.com.
+nuc 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+net 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+localhost 28800 IN A 127.0.0.1
+ajh 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+aki 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+sss 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+rde 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw
+dns3.gw 28800 IN A 133.52.10.54
+minowa.gw 28800 IN A 133.52.10.61
+kenkyu 28800 IN MX 10 kenkyu
+kenkyu 28800 IN A 117.104.142.63
+lib 28800 IN NS dns2.gw
+28800 IN NS dns3.gw
+28800 IN NS dnswa.gw

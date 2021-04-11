@@ -1,0 +1,18 @@
+@ 300 IN SOA ns1 admin.grupomorpad.com.mx. 2012101901 180 180 604800 300
+@ 300 IN TXT "v=spf1 a mx ptr ip4:187.188.120.109 mx:mailgw.ufram.edu.mx ~all"
+@ 300 IN NS ns1
+300 IN NS ns2
+@ 300 IN MX 10 mailgw
+@ 300 IN A 187.188.120.111
+ufenc 300 IN A 200.67.137.157
+ufsat 300 IN A 200.67.128.239
+webmail 300 IN CNAME ns1
+ftp 300 IN CNAME @
+ns2 300 IN A 201.163.145.236
+www 300 IN CNAME @
+ufnte 300 IN A 201.155.71.219
+mail 300 IN CNAME ns1
+news 300 IN CNAME @
+mailgw 300 IN A 187.188.120.110
+ns1 300 IN A 187.188.120.109
+intranet 300 IN CNAME @

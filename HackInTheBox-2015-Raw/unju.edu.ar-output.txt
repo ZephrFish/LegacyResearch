@@ -1,0 +1,123 @@
+@ 3600 IN SOA huayra hostmaster 2015042101 7200 86400 2419200 7200
+@ 3600 IN NS ns1.riu.edu.ar.
+3600 IN NS ns2
+3600 IN NS huayra
+@ 3600 IN MX 10 huayra
+3600 IN MX 20 mail2
+3600 IN MX 30 mail3
+@ 3600 IN TXT "v=spf1 ip4:170.210.240.20 mx ~all"
+webmail.escmi 3600 IN CNAME minas.escmi
+sip.campus 3600 IN CNAME sipdir.online.lync.com.
+www.documentos 3600 IN CNAME documentos
+molostro.fce 3600 IN A 170.210.242.109
+www.unjuvida 3600 IN A 198.57.231.192
+www.inbial 3600 IN CNAME oculos.inbial
+www.simposioquinoa 3600 IN A 198.57.231.192
+www.materias.fi 3600 IN CNAME barrobo.fi
+www.egresados.fca 3600 IN CNAME cedaf.fca
+www.unjudigital 3600 IN A 200.43.56.8
+fce 3600 IN MX 10 molostro.fce
+3600 IN MX 20 huayra
+www.moodle 3600 IN CNAME moodle
+www.doctoradojujuy.fhycs 3600 IN CNAME doctor.fhycs
+mail.escmi 3600 IN CNAME minas.escmi
+msoid.campus 3600 IN CNAME clientconfig.microsoftonline-p.net.
+lyncdiscover.campus 3600 IN CNAME webdir.online.lync.com.
+www.ceba.fca 3600 IN CNAME informatica.fca
+webmail.fca 3600 IN CNAME condor.fca
+webmail.fce 3600 IN CNAME molostro.fce
+www 3600 IN A 200.45.224.18
+www.academia.fi 3600 IN CNAME konobo.fi
+www.fi 3600 IN CNAME konobo.fi
+mail.fca 3600 IN CNAME condor.fca
+listas 3600 IN CNAME huayra
+mail.fce 3600 IN CNAME molostro.fce
+pirapire.fce 3600 IN A 170.210.242.110
+www.alumnos.fi 3600 IN CNAME kuarahy.fi
+www.escmi 3600 IN CNAME minas.escmi
+ns1 3600 IN CNAME huayra
+ftp.idgym 3600 IN CNAME jade.idgym
+www.egresados.fi 3600 IN CNAME konobo.fi
+gabinete.fce 3600 IN A 170.210.242.111
+_sipfederationtls._tcp.campus 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+kuarahy.fi 3600 IN A 170.210.242.236
+cedaf.fca 3600 IN A 170.210.241.134
+www.fce 3600 IN A 200.45.224.36
+fhycs 3600 IN MX 10 flash.fhycs
+3600 IN MX 20 huayra
+litio 3600 IN A 170.210.240.249
+webmail 3600 IN CNAME huayra
+www.secter 3600 IN A 170.210.240.253
+siaj.fca 3600 IN A 170.210.241.137
+www.litio 3600 IN CNAME litio
+webmail.inbial 3600 IN CNAME oculos.inbial
+www.campus.fi 3600 IN CNAME barrobo.fi
+inbial 3600 IN MX 10 oculos.inbial
+3600 IN MX 20 huayra
+unjudigital 3600 IN MX 10 www.unjudigital
+mail.inbial 3600 IN CNAME oculos.inbial
+www.unjuvirtual 3600 IN CNAME moodle
+www.unjunoticias 3600 IN A 200.43.56.8
+konobo.fi 3600 IN A 170.210.242.235
+moodle 3600 IN A 170.210.240.250
+condor.fca 3600 IN A 170.210.241.131
+www.escuelademinas 3600 IN A 198.57.231.192
+fca 3600 IN MX 10 condor.fca
+3600 IN MX 20 huayra
+www.cacic2009.fi 3600 IN CNAME konobo.fi
+www.aacub.fca 3600 IN CNAME cedaf.fca
+www.m.cacic.fi 3600 IN CNAME konobo.fi
+kumanda.fca 3600 IN A 170.210.241.132
+cacuy.fi 3600 IN A 170.210.240.9
+webmail.fhycs 3600 IN CNAME flash.fhycs
+autodiscover.campus 3600 IN CNAME autodiscover.outlook.com.
+www.informatica.fca 3600 IN CNAME informatica.fca
+mail2 3600 IN A 170.210.240.254
+mail3 3600 IN CNAME ns2
+www.cedaf.fca 3600 IN CNAME cedaf.fca
+ns2 3600 IN A 200.45.224.22
+oculos.inbial 3600 IN A 170.210.240.194
+idgym 3600 IN MX 10 jade.idgym
+3600 IN MX 20 huayra
+mail.fi 3600 IN CNAME cacuy.fi
+mail.fhycs 3600 IN CNAME flash.fhycs
+mail 3600 IN CNAME huayra
+www.congresoforounivaf.fca 3600 IN CNAME cedaf.fca
+informatica.fca 3600 IN A 170.210.241.135
+www.becas 3600 IN A 170.210.240.7
+www.alumnos.fhycs 3600 IN CNAME tekove.fhycs
+barrobo.fi 3600 IN A 170.210.242.239
+huayra 3600 IN A 170.210.240.20
+huayra 3600 IN TXT "v=spf1 a -all"
+webmail.fi 3600 IN CNAME cacuy.fi
+www-huayra 3600 IN CNAME www
+www.fhycs 3600 IN A 200.45.224.35
+ftp.fca 3600 IN CNAME condor.fca
+ftp.fce 3600 IN CNAME molostro.fce
+www.fca 3600 IN A 200.45.224.20
+documentos 3600 IN A 170.210.240.251
+tekove.fhycs 3600 IN A 170.210.242.3
+webmail.idgym 3600 IN CNAME jade.idgym
+doctor.fhycs 3600 IN A 170.210.242.5
+minas.escmi 3600 IN A 170.210.241.216
+escmi 3600 IN MX 10 minas.escmi
+3600 IN MX 20 huayra
+www.alumnos.fca 3600 IN CNAME kumanda.fca
+www.alumnos.fce 3600 IN CNAME pirapire.fce
+radio 3600 IN A 200.45.224.37
+www.sisebe 3600 IN A 184.172.136.92
+mail.idgym 3600 IN CNAME jade.idgym
+campus 3600 IN MX 0 campus-unju-edu-ar.mail.protection.outlook.com.
+campus 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+www.posgrado.fca 3600 IN CNAME cedaf.fca
+flash.fhycs 3600 IN A 170.210.242.2
+_sip._tls.campus 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+lists 3600 IN CNAME huayra
+ftp.fhycs 3600 IN CNAME flash.fhycs
+jade.idgym 3600 IN A 170.210.240.129
+www.idgym 3600 IN A 200.45.224.19
+ftp.fi 3600 IN CNAME konobo.fi
+www.siaj.fca 3600 IN CNAME siaj.fca
+ftp.escmi 3600 IN CNAME minas.escmi
+fi 3600 IN MX 10 cacuy.fi
+3600 IN MX 20 huayra

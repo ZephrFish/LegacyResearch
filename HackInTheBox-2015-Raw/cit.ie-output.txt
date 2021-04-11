@@ -1,0 +1,137 @@
+@ 3600 IN SOA ns-a hostmaster 2015042901 3600 3600 604800 600
+@ 3600 IN MX 5 mx-1
+@ 3600 IN NS ns.heanet.ie.
+3600 IN NS ns-a
+3600 IN NS ns-b
+3600 IN NS auth-ns2.heanet.ie.
+@ 3600 IN TXT "MS=ms56258394"
+3600 IN TXT "RQ4wdHSTxHqqDSfnGN36u/fCXCvPPd2t4UzMIns8nKKuyCmd81/LS+ymT9VVa13mHrvGx7bZSLIZ6Oy3YLGiBg=="
+sso 3600 IN A 157.190.3.12
+exampapers 3600 IN A 157.190.23.3
+mcom 3600 IN A 157.190.148.46
+_sip._tcp 3600 IN SRV 10 10 5060 vcconnect
+mcomms 3600 IN A 157.190.180.61
+gateway 3600 IN A 157.190.22.193
+business 3600 IN A 54.72.5.20
+mx-1 3600 IN A 157.190.3.45
+* 3600 IN A 54.72.5.20
+wwwtest 3600 IN A 193.1.193.171
+computing-wp 3600 IN A 157.190.148.46
+elearning 3600 IN A 157.190.23.3
+camms 3600 IN A 54.72.5.20
+cerc 3600 IN A 157.190.23.104
+www 3600 IN A 54.72.5.20
+my 3600 IN A 193.1.234.44
+my 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+edocs 3600 IN A 193.1.234.31
+password 3600 IN A 157.190.23.159
+coursestest 3600 IN A 54.72.4.32
+_sip._udp 3600 IN SRV 10 10 5060 vcconnect
+library 3600 IN A 193.1.234.16
+cloud 3600 IN A 157.190.148.18
+web4 3600 IN A 157.190.23.3
+survey 3600 IN A 157.190.23.104
+wwwbackup 3600 IN A 157.190.23.97
+webmail 3600 IN A 157.190.23.166
+biotech 3600 IN CNAME www.biotechtools.org.
+gtest 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+cisco 3600 IN A 157.190.23.3
+itsnew 3600 IN A 54.72.5.20
+www.aws 3600 IN A 157.190.53.6
+golf 3600 IN A 157.190.23.3
+www.nimbus 3600 IN A 78.153.214.75
+projects.nimbus 3600 IN A 157.190.53.5
+eduroam-btc-01 3600 IN A 157.190.23.23
+eduroam-btc-02 3600 IN A 157.190.23.37
+itunesu 3600 IN A 157.190.22.78
+autodiscover 3600 IN A 157.190.23.166
+_sips._tcp 3600 IN SRV 10 10 5061 vcconnect
+mmm 3600 IN A 193.1.193.171
+notesadmin 3600 IN A 157.190.23.3
+webfor 3600 IN A 157.190.23.3
+outside-firewall-1 3600 IN A 157.190.2.1
+sigma 3600 IN A 54.72.5.20
+mail 1800 IN A 157.190.3.45
+ssb 3600 IN A 83.71.167.200
+localhost 3600 IN A 127.0.0.1
+arts 3600 IN A 54.72.5.20
+deis 3600 IN CNAME www.deis.ie.
+photonics 3600 IN A 157.190.148.44
+media 3600 IN A 157.190.180.62
+_h323cs._tcp 3600 IN SRV 10 10 1720 vcconnect
+e-eng 3600 IN A 157.190.135.7
+vmnetlab 3600 IN A 157.190.64.5
+www.library 3600 IN A 193.1.234.16
+online 3600 IN A 54.72.5.20
+nmci-darwin 3600 IN A 157.190.153.28
+tlu 3600 IN A 54.72.5.20
+crawford 3600 IN A 157.190.149.5
+biologicalsciences 3600 IN A 54.72.5.20
+www-deis 3600 IN CNAME www.deis.ie.
+_turn._udp 3600 IN SRV 10 10 3478 vcconnect
+pollux 3600 IN A 157.190.148.35
+courses 3600 IN A 54.72.4.32
+_dmarc 3600 IN TXT "v=DMARC1; p=none; rua=mailto:svc_dmarc@cit.ie"
+kuder 3600 IN A 216.81.164.194
+modules 3600 IN A 54.72.4.32
+_h323rs._udp 3600 IN SRV 10 10 1719 vcconnect
+timetables 3600 IN A 157.190.23.30
+idp 3600 IN A 157.190.23.94
+_h323ls._udp 3600 IN SRV 10 10 1719 vcconnect
+blackboard 3600 IN A 157.190.23.104
+googleffffffffc800fef5.gtest 3600 IN CNAME google.com.
+results 3600 IN A 54.72.5.20
+architecture 3600 IN A 54.72.5.20
+exams 3600 IN A 54.72.5.20
+www.physics 3600 IN A 157.190.148.44
+societies 3600 IN A 54.72.5.20
+alc 3600 IN A 54.72.5.20
+vcconnect 3600 IN A 157.190.3.25
+servicedeskauth 3600 IN A 157.190.23.3
+old 3600 IN A 157.190.23.3
+live 3600 IN A 157.190.23.3
+strategicplan 3600 IN A 157.190.23.3
+extendedcampus 3600 IN A 54.72.5.20
+aws 3600 IN A 157.190.53.6
+admin-01 3600 IN A 157.190.23.146
+safety 3600 IN A 157.190.23.3
+*.ezproxy 3600 IN A 157.190.23.17
+rugby 3600 IN A 157.190.23.3
+finance 3600 IN A 157.190.23.8
+netlab 3600 IN A 157.190.148.20
+facilities 3600 IN A 157.190.23.3
+atlantis 3600 IN A 157.190.131.29
+pet 3600 IN A 54.72.5.20
+citcard 3600 IN A 157.190.23.122
+intranet 3600 IN A 157.190.23.3
+ezproxy 3600 IN A 157.190.23.17
+mathematics 3600 IN A 54.72.5.20
+gige0-3-12-gateway 3600 IN A 157.190.2.254
+computing 3600 IN A 54.72.5.20
+servicedesk 3600 IN CNAME elb6.freshdesk.com.
+exams-btc-01 3600 IN A 157.190.23.146
+ns-a 3600 IN A 157.190.3.100
+ns-b 3600 IN A 157.190.3.101
+nimbus 3600 IN MX 10 mail.blacknight.com.
+nimbus 3600 IN A 78.153.214.75
+www.instrumentation 3600 IN A 157.190.148.44
+1.cit.biznetservers.com 3600 IN A 83.71.167.200
+its 3600 IN A 54.72.5.20
+halpin 3600 IN A 157.190.150.42
+examtimetables 3600 IN A 157.190.23.146
+praxis 3600 IN A 157.190.131.28
+wifiprint 3600 IN A 157.190.23.126
+com-jira-01 3600 IN A 157.190.148.19
+marketing 3600 IN A 54.72.5.20
+physics 3600 IN A 157.190.148.44
+events 3600 IN A 54.72.5.20
+webvpn 3600 IN A 157.190.2.15
+citcai 3600 IN A 157.190.23.121
+castor 3600 IN A 157.190.148.34
+googleffffffffae2d8656.my 3600 IN CNAME google.com.
+informatics 3600 IN A 54.72.5.20
+notes 3600 IN A 157.190.23.3
+instrumentation 3600 IN A 157.190.148.44
+chemeng 3600 IN A 157.190.23.3

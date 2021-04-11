@@ -1,0 +1,30 @@
+@ 320 IN SOA ns1.inline.de. hostmaster.inline.de. 2015021100 10800 3600 604800 320
+@ 320 IN NS ns1.inline.de.
+320 IN NS ns2.inline.de.
+@ 320 IN MX 10 mailin01.inline.de.
+320 IN MX 10 mailin02.inline.de.
+@ 320 IN A 93.186.161.16
+@ 320 IN TXT "v=spf1 a mx ptr ip4:93.186.160.0/22 -all"
+studneu 86400 IN A 93.186.161.31
+zettwerk 320 IN A 93.186.161.16
+webmail 320 IN A 93.186.160.95
+munin 86400 IN A 93.186.161.16
+stud-ipmi 86400 IN A 93.186.161.166
+stud 320 IN A 93.186.161.164
+stud 320 IN MX 10 mailin01.inline.de.
+320 IN MX 10 mailin02.inline.de.
+pop3 320 IN CNAME mail
+mail 320 IN A 93.186.161.246
+pms 320 IN CNAME pms-popakademie.de.
+ftp 320 IN A 46.237.193.152
+www 320 IN A 93.186.161.16
+opac 86400 IN A 46.237.193.152
+popmail 320 IN A 46.237.193.152
+newsletter 320 IN A 93.186.161.16
+pn 320 IN A 93.186.161.246
+stats 86400 IN A 93.186.161.16
+www.alumni 86400 IN A 93.186.161.16
+rb 86400 IN A 46.237.193.151
+alumni 86400 IN A 93.186.161.16
+evaluierung 320 IN A 46.237.193.152
+stud-webmail 86400 IN A 93.186.161.31

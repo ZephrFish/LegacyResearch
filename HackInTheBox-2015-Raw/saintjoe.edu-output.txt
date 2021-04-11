@@ -1,0 +1,89 @@
+@ 604800 IN SOA ns1 root 2014060370 604800 86400 2419200 604800
+@ 604800 IN A 131.93.0.71
+@ 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+@ 604800 IN LOC 40 55 12.320 N 87 9 26.570 W 201.47m 10.00m 10.00m 10.00m
+@ 604800 IN NS ns1
+604800 IN NS washington.ind.net.
+@ 604800 IN TXT "MS=ms21368625"
+604800 IN TXT "google-site-verification=hd7-xV-2-upEb0Uam903qe8DHp4AEMOAe-q-dQbEPhU"
+604800 IN TXT "v=spf1 mx mx:mx1.saintjoe.edu ip4:131.93.0.0/24 include:_spf.google.com include:gmx.com ~all"
+loghost 604800 IN CNAME ns1
+ldap1 604800 IN CNAME ns1
+pfaffg3mac 604800 IN A 131.93.11.34
+tftp 604800 IN CNAME ns1
+sites 604800 IN CNAME ghs.googlehosted.com.
+ldap 604800 IN CNAME ns1
+_vlmcs._TCP 604800 IN SRV 0 0 1688 ajax.saintjoe.edu
+__ldap._tcp.Dc._msdcs 604800 IN SRV 0 100 389 pdc1.saintjoe.edu
+cisco 604800 IN CNAME router
+router 604800 IN A 131.93.0.253
+courses 604800 IN A 104.131.228.223
+inception 604800 IN A 131.93.0.17
+contact 604800 IN CNAME zinc
+www.athletics 604800 IN CNAME athletics
+departments 604800 IN CNAME mysjc
+cof 604800 IN CNAME mysjc
+moodle 604800 IN CNAME noodle
+ajax 604800 IN A 131.93.0.100
+it 604800 IN CNAME mysjc
+dev 604800 IN CNAME zinc
+helpdesk 604800 IN CNAME spiceworks
+athletics 604800 IN A 74.205.103.184
+labmons 604800 IN A 131.93.0.16
+bc1 604800 IN A 131.93.2.6
+groups 604800 IN CNAME ghs.google.com.
+portal 604800 IN A 131.93.0.7
+mail 604800 IN CNAME ghs.google.com.
+vpn 604800 IN CNAME xserve
+directory 604800 IN CNAME mysjc
+netstat 604800 IN A 131.93.0.29
+moonlord 604800 IN A 131.93.62.16
+ra 604800 IN CNAME mysjc
+131.93.0.30 604800 IN PTR pdc1
+pumas 604800 IN CNAME 14842.bbnc.bbcust.com.
+emailreg15f50bc24b83bea3 604800 IN CNAME emailreg.org.
+se 604800 IN A 131.93.0.41
+wpum 604800 IN CNAME real
+gpilot 604800 IN MX 10 ASPMX.L.GOOGLE.COM.
+604800 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+604800 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+604800 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+604800 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+gpilot 604800 IN TXT "google-site-verification=Qa7oj1iR5I3LrKTWlmJSC9ACW8BDyjylErmtRU6U9hc"
+131.93.0.40 604800 IN PTR pdc2
+start 604800 IN CNAME ghs.google.com.
+www 604800 IN CNAME staging
+docs 604800 IN CNAME ghs.google.com.
+new 604800 IN CNAME zinc
+nexus 604800 IN A 131.93.8.32
+emailreg.org 604800 IN CNAME emailreg15f50bc24b83bea3
+appserver1 604800 IN A 131.93.0.13
+proteus 604800 IN A 131.93.0.5
+aruba-master 604800 IN A 131.93.0.221
+ntp 604800 IN CNAME ns1
+bot 604800 IN CNAME mysjc
+mysjc 604800 IN A 131.93.0.72
+staging 604800 IN A 131.93.0.71
+pastfinder 604800 IN CNAME se
+password 604800 IN A 131.93.0.3
+pfaffmac 604800 IN A 131.93.11.35
+alumni 604800 IN CNAME 14842.bbnc.bbcust.com
+stusrv 604800 IN CNAME eros
+mail.alumni 604800 IN CNAME member-email.ymem.net.
+ns1 604800 IN A 131.93.0.1
+bookbox 604800 IN A 131.93.11.100
+library 604800 IN CNAME mysjc
+sandbox 604800 IN CNAME mysjc
+real 604800 IN A 131.93.0.105
+spiceworks 604800 IN A 131.93.0.35
+131.93.0.3 604800 IN PTR password.saintjoe.edu
+dns 604800 IN CNAME ns1
+adonis 604800 IN A 131.93.0.6
+esx1 604800 IN A 131.93.60.1
+trane 604800 IN A 131.93.0.102
+zombies 604800 IN CNAME zombie
+photos 604800 IN CNAME mysjc

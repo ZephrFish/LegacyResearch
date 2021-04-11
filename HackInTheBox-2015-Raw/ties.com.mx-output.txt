@@ -1,0 +1,24 @@
+@ 86400 IN SOA ns1.hddserver.com. master.hospedando.mx. 2014111203 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 +a +mx +ip4:50.28.39.221 ?all"
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns1.hddserver.com.
+86400 IN NS ns2.hddserver.com.
+@ 14400 IN A 50.28.39.221
+www.posgradosimep 14400 IN A 50.28.39.221
+tzdigital 14400 IN A 50.28.39.221
+webdisk.posgradosimep 14400 IN A 50.28.39.221
+webdisk 14400 IN A 50.28.39.221
+ftp 14400 IN A 50.28.39.221
+cpanel 14400 IN A 50.28.39.221
+posgradosimep 14400 IN A 50.28.39.221
+webdisk.unipuebla 14400 IN A 50.28.39.221
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+www.unipuebla 14400 IN A 50.28.39.221
+mail 14400 IN CNAME @
+webdisk.tzdigital 14400 IN A 50.28.39.221
+webmail 14400 IN A 50.28.39.221
+www.tzdigital 14400 IN A 50.28.39.221
+whm 14400 IN A 50.28.39.221
+unipuebla 14400 IN TXT "v=spf1 +a +mx +ip4:50.28.39.221 ?all"
+unipuebla 14400 IN A 50.28.39.221

@@ -1,0 +1,7 @@
+@ 600 IN SOA ns.dts.mg. adminsys.dts.mg. 2014101501 21600 3600 604800 1800
+@ 600 IN NS ns1.dts.mg.
+600 IN NS ns.dts.mg.
+@ 600 IN MX 10 mail
+600 IN MX 20 mx2.dts.mg.
+mail 600 IN A 41.242.103.163
+www 600 IN CNAME mail

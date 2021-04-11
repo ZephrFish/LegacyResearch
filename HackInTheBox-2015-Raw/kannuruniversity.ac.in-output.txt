@@ -1,0 +1,13 @@
+@ 1 IN SOA ns1.cdit.org. hostmaster.cdit.org. 2004012817 10800 3600 604800 86400
+@ 1 IN NS ns1.cdit.org.
+1 IN NS ns2.cdit.org.
+@ 1 IN MX 0 pop
+1 IN MX 10 pop
+@ 1 IN A 103.251.43.182
+pop 1 IN A 103.251.43.140
+smtp 1 IN A 210.212.24.31
+ftp 1 IN A 103.251.43.182
+www 1 IN A 103.251.43.182
+sefl 1 IN A 216.55.97.83
+dia 1 IN A 14.139.185.41
+gcksd 1 IN A 216.55.97.83

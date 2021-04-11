@@ -1,0 +1,70 @@
+@ 3600 IN SOA srv-dns Postmaster 2015030504 3600 900 1209600 3600
+@ 3600 IN NS ns1.completel.fr.
+3600 IN NS ns2.completel.fr.
+3600 IN NS fupl1.fupl.asso.fr.
+3600 IN NS srv-dns
+@ 3600 IN MX 10 mailhost
+webconf 3600 IN A 46.218.66.120
+exchange 3600 IN CNAME proxy-iis
+sip 3600 IN A 46.218.66.121
+webmail 3600 IN CNAME proxy-iis
+mes-applications 3600 IN A 46.218.66.119
+inscriptions 3600 IN CNAME webfront
+dialin 3600 IN CNAME proxy-iis
+extranet 3600 IN CNAME srv-share
+courses 3600 IN CNAME webfront
+mailhost 3600 IN A 46.218.66.115
+stages 3600 IN CNAME webfront
+monmail 3600 IN CNAME portal.microsoftonline.com.
+mailer 3600 IN CNAME srv-mail
+meet 3600 IN CNAME proxy-iis
+lync-front 3600 IN CNAME proxy-iis
+skoh 3600 IN CNAME webfront
+rdvfesic 3600 IN CNAME webfront
+services 3600 IN CNAME srv-share
+videosurvey1 3600 IN CNAME webfront
+lyncexternal 3600 IN CNAME proxy-iis
+owa 3600 IN CNAME proxy-iis
+Euratechnologies 3600 IN A 212.51.188.102
+srv-share 3600 IN A 46.218.66.118
+vpn 3600 IN A 46.218.66.126
+iti 3600 IN A 37.58.162.101
+autodiscover 3600 IN CNAME proxy-iis
+osconges 3600 IN CNAME webfront
+av 3600 IN A 46.218.46.70
+1618012702 3600 IN CNAME domains.live.com.
+srv-hei 3600 IN A 46.218.66.116
+support 3600 IN CNAME webfront
+videosurvey4 3600 IN CNAME webfront
+paiement 3600 IN CNAME webfront
+legacy 3600 IN CNAME proxy-iis
+www.fondation 3600 IN CNAME webfront
+e-lee 3600 IN CNAME webfront
+lyncdiscover 3600 IN CNAME proxy-iis
+paiements 3600 IN CNAME webfront
+campus-centre 3600 IN CNAME webfront
+adicode 3600 IN CNAME webfront
+fondation 3600 IN CNAME webfront
+srv-dns 3600 IN A 46.218.66.116
+ecampus 3600 IN CNAME webfront
+quiz 3600 IN CNAME webfront
+itslearning 3600 IN CNAME webfront
+estit 3600 IN MX 10 mailhost
+e-campus 3600 IN CNAME webfront
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sip
+centreon 3600 IN CNAME webfront
+candidatures 3600 IN CNAME webfront
+k6test 3600 IN CNAME webfront
+progres 3600 IN CNAME webfront
+_sip._tls 3600 IN SRV 100 1 443 sip
+www 3600 IN A 194.51.85.76
+www.e-campus 3600 IN CNAME webfront
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+campuscentre 3600 IN CNAME webfront
+webfront 3600 IN A 46.218.46.68
+srv-mail 3600 IN A 46.218.66.115
+citrix 3600 IN A 46.218.66.119
+dns 3600 IN CNAME srv-dns
+bds 3600 IN CNAME webfront
+www.newsletter 3600 IN A 91.235.138.186
+proxy-iis 3600 IN A 46.218.66.114

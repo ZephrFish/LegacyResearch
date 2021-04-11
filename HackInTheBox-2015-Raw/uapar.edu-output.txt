@@ -1,0 +1,41 @@
+@ 2560 IN SOA ns hostmaster 2006030201 7200 7200 1209699 3600
+@ 900 IN TXT "v=spf1 ip4:200.45.249.212 ip4:200.45.249.211 ~all"
+@ 600 IN A 200.45.249.232
+@ 3600 IN MX 0 a.mx
+3600 IN MX 10 b.mx
+@ 259200 IN NS ns
+259200 IN NS peter.cs.andrews.edu.
+ns2 86400 IN A 200.45.249.222
+ns1 86400 IN A 200.45.249.203
+www.correo 3600 IN A 200.45.249.220
+smtp2 3600 IN A 200.45.249.211
+fmestudiantil 3600 IN A 200.45.249.208
+ariel.intranet 3600 IN A 172.16.0.33
+crusoe.cc 3600 IN A 200.45.249.222
+agenda 3600 IN A 200.45.249.220
+victor.intranet 3600 IN A 172.16.0.33
+www.fmestudiantil 3600 IN A 200.45.249.208
+pop3 3600 IN A 200.45.249.212
+capellania 3600 IN A 200.45.249.208
+mail 3600 IN A 200.45.249.212
+smtpauth 3600 IN A 200.45.249.215
+erick.intranet 3600 IN A 172.16.0.33
+sonia.intranet 3600 IN A 172.16.0.33
+www 600 IN A 200.45.249.232
+www.capellania 3600 IN A 200.45.249.208
+ns 3600 IN A 200.45.249.203
+federico.intranet 3600 IN A 172.16.0.33
+imap 3600 IN A 200.45.249.212
+correo 3600 IN A 200.45.249.220
+b.mx 3600 IN A 200.45.249.214
+correo2 3600 IN A 200.45.249.220
+proxy 3600 IN A 172.16.0.105
+pablo.intranet 3600 IN A 172.16.0.33
+centrowhite 3600 IN A 200.45.249.208
+www.centrowhite 3600 IN A 200.45.249.208
+a.mx 3600 IN A 200.45.249.213
+damian.intranet 3600 IN A 172.16.0.33
+evaldo.intranet 3600 IN A 172.16.0.33
+smtp 3600 IN A 200.45.249.211
+intranet 3600 IN A 200.45.249.245
+nicolas.intranet 3600 IN A 172.16.0.33

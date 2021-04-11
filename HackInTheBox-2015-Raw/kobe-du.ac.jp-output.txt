@@ -1,0 +1,141 @@
+@ 60 IN SOA ns root.ns 2015030403 60 900 600 600
+@ 60 IN MX 10 akashi2
+60 IN MX 20 akashi
+60 IN MX 50 ms25875298.msv1.invalid.outlook.com.
+@ 60 IN NS ns
+60 IN NS ns1.omp.ne.jp.
+60 IN NS ns2
+60 IN NS sigw.sinet.ad.jp.
+stg.fastbox 60 IN CNAME stg.www
+stg.fashion 60 IN CNAME stg.www
+www2.lib 60 IN A 133.32.201.25
+kaoru 60 IN NS lpns1
+60 IN NS lpns2
+pass 60 IN NS lpns1
+60 IN NS lpns2
+image 60 IN A 54.199.195.76
+rid 60 IN A 54.199.195.76
+uvapsv 60 IN CNAME kyaria02
+media-art 60 IN NS lpns1
+60 IN NS lpns2
+stg.shintoshokanlab 60 IN CNAME stg.www
+pop2 60 IN A 133.32.100.10
+wakana 60 IN NS lpns1
+60 IN NS lpns2
+stg.kdu-net 60 IN CNAME stg.www
+serendip 60 IN A 54.199.195.76
+stg.dri 60 IN CNAME stg.www
+stg.mobile 60 IN CNAME stg.www
+stg.manual 60 IN CNAME stg.www
+www 60 IN A 54.199.195.76
+craft_art 60 IN A 54.199.195.76
+ns 60 IN A 133.32.201.9
+manual 60 IN A 54.199.195.76
+stg.Pr 60 IN CNAME stg.www
+Pr 60 IN A 54.199.195.76
+milkspace 60 IN A 54.199.195.76
+chaos 60 IN A 54.199.195.76
+www.vcd 60 IN CNAME kocho
+stg.www 60 IN A 54.199.200.88
+otome 60 IN NS lpns1
+60 IN NS lpns2
+cocoiro 60 IN A 54.199.195.76
+stg.kiyou 60 IN CNAME stg.www
+webmail 60 IN A 133.32.201.92
+maborosi 60 IN NS lpns1
+60 IN NS lpns2
+www.cds 60 IN A 54.199.195.76
+oboro 60 IN NS lpns1
+60 IN NS lpns2
+manga 60 IN A 54.199.195.76
+stg.serendip 60 IN CNAME stg.www
+creators-harbor 60 IN A 54.199.195.76
+craft 60 IN A 54.199.195.76
+berio 60 IN CNAME 2201c
+stg.gsad 60 IN CNAME stg.www
+stg.image 60 IN CNAME stg.www
+kdu-fwd-2 60 IN A 133.32.204.119
+kiritsubo 60 IN NS lpns1
+60 IN NS lpns2
+www.kiyou 60 IN CNAME kiyou
+localhost 60 IN A 127.0.0.1
+kawakita 60 IN CNAME suzaku
+toledo 60 IN A 54.199.195.76
+www.core 60 IN CNAME maborosi
+media 60 IN CNAME kobai
+msg 60 IN A 54.199.195.76
+infolib 60 IN A 54.199.195.76
+www.sakaki 60 IN CNAME sakaki
+akashi 60 IN NS lpns1
+60 IN NS lpns2
+webmail2 60 IN A 133.32.201.94
+stg.chaos 60 IN CNAME stg.www
+ns2 60 IN NS lpns1
+60 IN NS lpns2
+stg.creators-harbor 60 IN CNAME stg.www
+www.gsdr 60 IN CNAME oboro
+fastbox 60 IN A 54.199.195.76
+fashion 60 IN A 54.199.195.76
+stg.msg 60 IN A 54.199.200.88
+www.city 60 IN CNAME suzaku
+2201c 60 IN A 133.32.12.249
+stg.manga 60 IN CNAME stg.www
+idi 60 IN A 54.199.195.76
+azumaya 60 IN NS lpns1
+60 IN NS lpns2
+stg.craft 60 IN CNAME stg.www
+mail 60 IN A 133.32.100.11
+kobai 60 IN NS lpns1
+60 IN NS lpns2
+product 60 IN CNAME ukifune
+akashi2 60 IN A 133.32.201.6
+allegory 60 IN A 54.199.195.76
+mobile 60 IN A 54.199.195.76
+visual 60 IN NS lpns1
+60 IN NS lpns2
+stg.riad 60 IN CNAME stg.www
+virtual 60 IN CNAME yugiri
+kdu-net 60 IN A 54.199.195.76
+www.center 60 IN CNAME wakana
+kdu-fwd 60 IN A 133.32.201.119
+stg.idi 60 IN CNAME stg.www
+ukifune 60 IN NS lpns1
+60 IN NS lpns2
+kdu-fwu 60 IN A 133.32.203.119
+ns-2 60 IN A 133.32.204.9
+yugiri 60 IN NS lpns1
+60 IN NS lpns2
+stg.cocoiro 60 IN CNAME stg.www
+stg.radio 60 IN CNAME stg.www
+core 60 IN CNAME maborosi
+akashi2-2 60 IN A 133.32.204.6
+sakaki 60 IN NS lpns1
+60 IN NS lpns2
+www.town 60 IN CNAME suzaku
+gsad 60 IN A 54.199.195.76
+www.lib 60 IN A 202.248.182.60
+www.monitor 60 IN CNAME wakana
+www.motor 60 IN CNAME kaoru
+stg.www.cds 60 IN CNAME stg.www
+meziro 60 IN NS lpns1
+60 IN NS lpns2
+stg.allegory 60 IN CNAME stg.www
+stg.kdu-annual 60 IN CNAME stg.www
+riad 60 IN A 54.199.195.76
+radio 60 IN A 54.199.195.76
+english 60 IN A 54.199.195.76
+stg.hitokizuna 60 IN CNAME stg.www
+stg.milkspace 60 IN CNAME stg.www
+shintoshokanlab 60 IN A 54.199.195.76
+stg.english 60 IN CNAME stg.www
+kyaria02 60 IN NS lpns1
+60 IN NS lpns2
+kocho 60 IN NS lpns1
+60 IN NS lpns2
+kdu-annual 60 IN A 54.199.195.76
+stg.infolib 60 IN CNAME stg.www
+lpns1 60 IN A 133.32.200.252
+lpns2 60 IN A 133.32.204.252
+kiyou 60 IN A 54.199.195.76
+hitokizuna 60 IN A 54.199.195.76
+stg.rid 60 IN CNAME stg.www

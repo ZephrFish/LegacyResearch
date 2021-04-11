@@ -1,0 +1,169 @@
+@ 3600 IN SOA dns root.dns 2015031701 3600 3600 1209600 86400
+@ 3600 IN NS dns
+3600 IN NS ns.belnet.be.
+@ 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+@ 3600 IN A 193.190.145.185
+slatest.sintlucas 3600 IN CNAME wwwhost
+bidoc.denayer 3600 IN CNAME website.denayer
+directoraat 3600 IN MX 10 mail
+formulastudent.denayer 3600 IN CNAME website.denayer
+bydesigning.architectuur.sintlucas 3600 IN CNAME www2
+pop3s2 3600 IN A 193.190.145.131
+mm.sintlucas 3600 IN CNAME www3
+ntp1 3600 IN CNAME dns
+docs.student.sintlukas 3600 IN CNAME ghs.google.com.
+logistiek.sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+dmzswitch 3600 IN A 193.190.145.162
+www.kunst.sintlucas 3600 IN A 193.190.145.167
+fireopt 3600 IN A 193.190.145.161
+musicforlife.denayer 3600 IN CNAME website.denayer
+www.sintlucas 3600 IN CNAME www.sintlucas.be.
+www.eas2013.lemmens 3600 IN A 199.34.228.100
+puntenpt.denayer 3600 IN CNAME website.denayer
+project.denayer 3600 IN CNAME website.denayer
+wachtwoord 3600 IN A 193.190.145.185
+studentenkamers.denayer 3600 IN A 216.92.238.170
+conf2009.sintlucas 3600 IN CNAME wwwhost
+studloket 3600 IN A 193.190.145.145
+www 3600 IN A 93.94.105.167
+personeel 3600 IN A 193.190.145.185
+puntencheminst.denayer 3600 IN CNAME website.denayer
+kulvpn 3600 IN A 193.190.145.145
+mail.student.sintlukas 3600 IN CNAME ghs.google.com.
+naobifoto.narafi 3600 IN CNAME wwwhost
+www.sirius.denayer 3600 IN CNAME website.denayer
+denayer 3600 IN MX 10 hanoi.khm.be.
+3600 IN MX 20 saigon.khm.be.
+radius1 3600 IN CNAME listserv
+radius2 3600 IN CNAME ldap
+logout.narafi 3600 IN CNAME wwwhost
+info.narafi 3600 IN CNAME wwwhost
+webmail 3600 IN A 193.190.145.181
+www6 3600 IN AAAA 2001:6a8:ad0:1::3
+cisco 3600 IN A 193.190.145.129
+www.nieuwemeesters.sintlucas 3600 IN CNAME www2
+uitleendienstfoto.narafi 3600 IN CNAME wwwhost
+www.xampp2 3600 IN CNAME www2
+test 3600 IN MX 10 mail
+wwwhost 3600 IN A 193.190.145.185
+www.sintlukas 3600 IN CNAME www.sintlukas.be.
+student.denayer 3600 IN MX 10 saigon.khm.be.
+3600 IN MX 20 hanoi.khm.be.
+etopia.sintlucas 3600 IN CNAME www2
+uitleenfoto.narafi 3600 IN CNAME wwwhost
+student.lemmens 3600 IN MX 10 mail
+media.narafi 3600 IN CNAME wwwhost
+kuloket 3600 IN A 193.190.145.145
+ftp.sintlucas 3600 IN CNAME ftp.sintlucas.be.
+www.vlekho 3600 IN A 193.190.224.240
+tetra-cfs.denayer 3600 IN CNAME website.denayer
+ontwerpenproductie.denayer 3600 IN CNAME website.denayer
+temp.narafi 3600 IN CNAME wwwhost
+www.verbond.denayer 3600 IN A 80.201.243.200
+www2 3600 IN A 193.190.145.166
+www3 3600 IN A 193.190.145.167
+www.architectuur.sintlucas 3600 IN CNAME wwwhost
+agenda.student.sintlukas 3600 IN CNAME ghs.google.com.
+honim 3600 IN MX 20 mxcore0.ehsal.be.
+3600 IN MX 30 mxbackup0.hubrussel.be.honim
+project_tech.denayer 3600 IN CNAME website.denayer
+puntenwp.denayer 3600 IN CNAME website.denayer
+webmail2 3600 IN A 193.190.145.169
+sws 3600 IN CNAME wwwhost
+voorinschrijven 3600 IN CNAME www5
+ldap 3600 IN A 193.190.145.180
+toledo 3600 IN A 193.190.145.145
+telescript.denayer 3600 IN A 193.191.150.44
+events.sovosintlucas 3600 IN CNAME www2
+ftp.kunst.sintlucas 3600 IN A 193.190.145.151
+sharepoint 3600 IN A 193.190.145.134
+stuvo.narafi 3600 IN CNAME wwwhost
+verbond.denayer 3600 IN A 80.201.243.200
+eindwerk_tech.denayer 3600 IN CNAME website.denayer
+student.sintlucas 3600 IN MX 10 mail
+mail 3600 IN A 193.190.145.164
+mail 3600 IN MX 10 mail
+onderwijsaanbod 3600 IN A 134.58.64.11
+bib.sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+archb.sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+www.honim 3600 IN A 193.190.224.240
+fireext 3600 IN A 193.190.145.130
+naobifilm.narafi 3600 IN CNAME wwwhost
+webmail.sintlucas 3600 IN CNAME webmail.sintlucas.be.
+geheimeberichten.denayer 3600 IN CNAME website.denayer
+www.ideg.denayer 3600 IN CNAME website.denayer
+puntenbo.denayer 3600 IN CNAME website.denayer
+avocaad.sintlucas 3600 IN CNAME avocaad.sintlucas.be.
+vlekho 3600 IN MX 20 mxcore0.ehsal.be.
+3600 IN MX 30 mxbackup0.hubrussel.be.vlekho
+www.xampp 3600 IN CNAME wwwhost
+sites.student.sintlukas 3600 IN CNAME ghs.google.com.
+lemmens 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+website.denayer 3600 IN A 193.191.150.45
+www.narafi 3600 IN CNAME narafi.cname.vandenbroele.be.
+dae 3600 IN A 193.190.145.137
+sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+student 3600 IN A 193.190.145.185
+mecano.sintlucas 3600 IN CNAME mecano.sintlucas.be.
+uitleendienstfilm.narafi 3600 IN CNAME wwwhost
+intranet 3600 IN A 10.5.1.30
+ldap1 3600 IN CNAME ldap
+ldap2 3600 IN CNAME radius1
+groep 3600 IN MX 10 dns
+planning.narafi 3600 IN CNAME wwwhost
+energiec.denayer 3600 IN CNAME website.denayer
+uitleenfilm.narafi 3600 IN CNAME wwwhost
+puntengo.denayer 3600 IN CNAME website.denayer
+archg.sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+listserv 3600 IN A 193.190.145.165
+t-cell_seminar.denayer 3600 IN CNAME website.denayer
+elektronica.narafi 3600 IN MX 10 mail
+opzoeknaarmezelf.denayer 3600 IN CNAME website.denayer
+student.sintlukas 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+student.sintlukas 3600 IN TXT "google-site-verification=P5QQMv_PAcoJT7zLGxEId1BKs56TwlGDUF7POw38lYg"
+uurrooster.denayer 3600 IN CNAME telescript.denayer
+dho 3600 IN A 193.190.145.187
+architectuur.sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+mail.sintlucas 3600 IN CNAME mail.sintlucas.be.
+optikar.denayer 3600 IN CNAME website.denayer
+dns1 3600 IN CNAME dns
+dns2 3600 IN CNAME ldap
+afstudeerprojecten.architectuur.sintlucas 3600 IN CNAME www2
+kunst.sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+ca 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+www.denayer 3600 IN CNAME www.khm.be.
+diensten.sintlucas 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+narafi 3600 IN MX 10 fireext
+3600 IN MX 20 mail
+3600 IN MX 30 listserv
+dns 3600 IN A 193.190.145.163
+student.narafi 3600 IN MX 10 mail
+emsys.denayer 3600 IN CNAME website.denayer
+events.sintlucas 3600 IN CNAME wwwhost
+ebron 3600 IN A 193.190.168.101

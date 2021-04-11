@@ -1,0 +1,13 @@
+@ 86400 IN SOA ns.gecko.ph. rquisumbing.gecko.ph. 2 14400 14400 1209600 86400
+@ 86400 IN NS ns.gecko.ph.
+86400 IN NS ns1.gecko.ph.
+catalog 86400 IN CNAME pili
+apps 86400 IN CNAME pili
+www 86400 IN CNAME pili
+barcode 86400 IN CNAME pili
+dwcl 86400 IN CNAME pili
+mail 86400 IN CNAME pili
+student 86400 IN CNAME pili
+faculty 86400 IN CNAME pili
+childsafe 86400 IN CNAME pili
+pili 86400 IN A 121.97.75.130

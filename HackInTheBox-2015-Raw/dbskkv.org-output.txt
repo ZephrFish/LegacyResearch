@@ -1,0 +1,19 @@
+@ 100 IN SOA ns.dinpl.com. root 2014100115 100 3600 1209600 86400
+@ 100 IN MX 5 mx1.technomail.in.
+100 IN MX 10 mx2.technomail.in.
+100 IN MX 15 mx3.technomail.in.
+@ 100 IN TXT "v=spf1 a mx ptr include:spf.technomail.in -all"
+@ 100 IN NS ns.dinpl.com.
+100 IN NS ns2.dinpl.com.
+100 IN NS ns3.dinpl.com.
+@ 100 IN A 199.167.148.203
+live 100 IN A 103.13.98.100
+live2 100 IN A 216.185.104.154
+live3 100 IN A 103.13.98.99
+ftp 100 IN A 199.167.148.203
+www 100 IN A 199.167.148.203
+mail2 100 IN A 50.97.142.74
+mail.kvkratnagiri 100 IN A 50.97.142.74
+localhost 100 IN A 127.0.0.1
+mail 100 IN A 50.97.142.74
+kvkratnagiri 100 IN A 75.125.240.147

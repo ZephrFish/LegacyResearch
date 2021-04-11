@@ -1,0 +1,46 @@
+@ 86400 IN SOA redirns1.bgdns.net. anton.titov.net. 2006020197 3600 1800 2419200 3600
+@ 86400 IN A 94.136.40.103
+@ 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+@ 86400 IN NS redirns1.bgdns.net.
+86400 IN NS redirns2.bgdns.net.
+dormservice 86400 IN A 87.246.6.225
+isis 86400 IN CNAME ghs.google.com.
+blog 86400 IN A 87.97.157.5
+inv 86400 IN A 87.97.157.182
+fare 86400 IN CNAME ghs.google.com.
+dec 86400 IN A 109.104.206.254
+smis 86400 IN CNAME ghs.google.com.
+emva 86400 IN A 46.40.126.52
+careercenter 86400 IN A 87.97.157.5
+restaurantalbena 86400 IN A 87.97.157.5
+patilanci 86400 IN A 87.97.157.5
+bis 86400 IN CNAME ghs.google.com.
+inv2 86400 IN A 109.104.206.253
+inv3 86400 IN A 87.97.157.5
+calendar 86400 IN CNAME ghs.google.com.
+pedagozi 86400 IN A 87.97.157.5
+ejtr 86400 IN A 87.97.157.5
+sites 86400 IN CNAME ghs.google.com.
+mail 86400 IN CNAME ghs.google.com.
+erasmus-ip 86400 IN A 46.40.126.52
+lic 86400 IN A 87.97.157.5
+sofia 86400 IN A 87.120.40.36
+ftp 86400 IN A 94.136.40.103
+www 86400 IN A 94.136.40.103
+docs 86400 IN CNAME ghs.google.com.
+info 86400 IN A 94.190.187.83
+bbb 86400 IN A 87.97.157.182
+video 86400 IN A 87.97.157.5
+www.burgas 86400 IN A 87.97.157.5
+burgas 86400 IN A 87.97.157.5
+control 86400 IN A 94.136.40.103
+86400 IN A 212.67.210.44
+library 86400 IN A 87.97.157.6
+edu 86400 IN A 87.97.157.5
+atlantis 86400 IN A 46.40.126.52
+patilantsi 86400 IN A 87.97.157.5

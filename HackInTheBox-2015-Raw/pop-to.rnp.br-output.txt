@@ -1,0 +1,18 @@
+@ 38400 IN SOA pequi.uft.edu.br. internet.uft.edu.br. 2015020301 10800 3600 604800 38400
+@ 38400 IN A 200.129.179.71
+@ 38400 IN NS ns.uft.edu.br.
+@ 38400 IN MX 10 aspmx.l.google.com.
+38400 IN MX 20 alt1.aspmx.l.google.com.
+38400 IN MX 20 alt2.aspmx.l.google.com.
+38400 IN MX 30 aspmx2.googlemail.com.
+38400 IN MX 30 aspmx3.googlemail.com.
+monitor 38400 IN CNAME porteira
+ndt 38400 IN CNAME mp3
+service 38400 IN A 200.129.179.30
+webmail 38400 IN CNAME ghs.google.com.
+www 38400 IN A 200.129.179.71
+porteira 38400 IN A 200.139.26.11
+video 38400 IN A 200.129.179.248
+mp3 38400 IN A 200.129.179.63
+mp1 38400 IN A 200.129.179.62
+mp2 38400 IN A 200.129.179.60

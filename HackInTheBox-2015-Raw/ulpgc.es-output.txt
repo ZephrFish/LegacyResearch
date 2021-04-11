@@ -1,0 +1,2758 @@
+@ 1200 IN SOA ns3 hostmaster 2015043008 1200 7200 1209600 172800
+@ 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+@ 1200 IN A 193.145.138.12
+@ 1200 IN TXT "v=msv1 t=7f41e532ac71974e9b3d6c47e8a29c"
+1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 include:spf.protection.outlook.com ~all"
+@ 1200 IN NS ns.ibn
+1200 IN NS ns2.ibn
+1200 IN NS ns3
+1200 IN NS ns4
+1200 IN NS sun.rediris.es.
+1200 IN NS chico.rediris.es.
+bioserver.iusiani 1200 IN CNAME serv09.iusiani
+www.posgrados 1200 IN CNAME alojamientolvs
+nlistas 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+portatilm160 1200 IN A 1.1.1.15
+encuestas-desa 1200 IN A 193.145.138.153
+www.dede 1200 IN CNAME cluster-web-ldap
+servoap2.voap 1200 IN CNAME servrectorado
+docentia2 1200 IN A 193.145.138.85
+docentia3 1200 IN A 193.145.138.131
+mmce.iusiani 1200 IN CNAME mmc29.iusiani
+gtbibbu 1200 IN CNAME alojamientolvs
+www.defc 1200 IN CNAME cluster-web-ldap
+si.cicei 1200 IN CNAME funiber
+jpfnd 1200 IN CNAME alojamientolvs
+beltram.teleco 1200 IN A 193.145.145.15
+bibcontentdmclon 1200 IN A 193.145.138.66
+estpru-cv 1200 IN CNAME websic
+dcjb 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dcjb 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.cic 1200 IN CNAME exchangeG1.sic
+wwwp1.www.exposiciones 1200 IN CNAME exchangeG1.sic
+ClusterDDV0 1200 IN A 193.145.138.82
+imphd118a.humanidades 1200 IN A 193.145.155.213
+www.catedraendesared 1200 IN CNAME alojamientolvs
+iatext 1200 IN MX 0 iatext-ulpgc-es.mail.protection.outlook.com.
+iatext 1200 IN A 193.145.138.190
+iatext 1200 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+POL-IUSEANI-PUB-HSRP.red 1200 IN A 193.145.154.1
+gac.teleco 1200 IN A 193.145.145.153
+l2niutin.ciber 1200 IN A 193.145.155.87
+rac01-vip.sic 1200 IN CNAME rac01-virtual
+auladepiedra2 1200 IN A 193.145.128.231
+dcmq 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dcmq 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.www.soporte 1200 IN CNAME exchangeG1.sic
+www.www.www.icei.fulp 1200 IN CNAME dinamizadores.fulp
+wwwp1.www.servicios 1200 IN CNAME exchangeG1.sic
+www.empresas 1200 IN CNAME correo.fulp
+GRANJA-GRANJA1PUB-HSRP.red 1200 IN A 193.145.155.129
+www.denf 1200 IN CNAME cluster-web-ldap
+desatendida 1200 IN CNAME ARQAULC-16.aulas
+pruebaspub.cda 1200 IN A 193.145.155.24
+www.gic.dsc 1200 IN CNAME masdache.teleco
+webdis.dis 1200 IN A 193.145.147.60
+smtp3-salida 1200 IN TXT "v=spf1 a ~all"
+smtp3-salida 1200 IN A 193.145.136.215
+dguard01.sic 1200 IN CNAME dguard01
+juridicas.empresariales 1200 IN A 193.145.143.234
+wwwdesa 1200 IN A 193.145.138.15
+1776944552.correolive 1200 IN CNAME domains.live.com.
+WHUM-EXTERIOR-MAGISTERIO.gestionwireless 1200 IN A 192.168.11.49
+www.sjuridico 1200 IN CNAME cluster-web-ldap
+beachsoccer 1200 IN A 193.145.155.200
+www.dfis 1200 IN CNAME alojamientolvs
+dede 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dede 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+encuestas 1200 IN A 193.145.138.90
+serv75pub.iusiani 1200 IN A 193.145.154.14
+www.ccbb2 1200 IN CNAME alojamiento2
+serv71.iusiani 1200 IN A 193.145.154.22
+autodiscover.si 1200 IN CNAME autodiscover.outlook.com.
+seminario.sitie 1200 IN CNAME ediz31x33.sitie
+confucio 1200 IN CNAME webfulp.fulp
+nuevoeirme 1200 IN CNAME lp2.redes.name.
+dedu 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dedu 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.www.fcee 1200 IN CNAME exchangeG1.sic
+www.dedu 1200 IN CNAME alojamientolvs
+cursoshispanicos 1200 IN CNAME correo.fulp
+www.dgeo 1200 IN CNAME alojamientolvs
+mail.empresariales 1200 IN CNAME tafira3.empresariales
+POL-CIDIAPUB-RC1.red 1200 IN A 193.145.155.75
+cv-teleformacion-bal 1200 IN A 193.145.138.180
+dcegi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dcegi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+web2.ibn 1200 IN A 195.53.11.16
+proyinves 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+proyinves 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+claves 1200 IN CNAME cluster-web-ldap
+alice.iusiani 1200 IN CNAME siani06.iusiani
+alfresco-gc-pre 1200 IN A 193.145.138.107
+www.tallerdevaloracion 1200 IN CNAME webfulp.fulp
+correo.fulp 1200 IN A 193.145.153.6
+ulpnet 1200 IN CNAME ns4
+nuevosi 1200 IN CNAME lp2.redes.name.
+autodiscover.alu 1200 IN CNAME autodiscover.outlook.com.
+yuste.ibn 1200 IN A 195.53.11.70
+desaulaidiomas 1200 IN CNAME webfulp.fulp
+adsl4-ext 1200 IN A 217.126.29.36
+dis354jm.dis 1200 IN A 193.145.147.25
+smtp1.gestion 1200 IN TXT "v=spf1 a ~all"
+smtp1.gestion 1200 IN A 193.145.138.5
+smtp2.gestion 1200 IN TXT "v=spf1 a ~all"
+l1aaroneduardo.ciber 1200 IN A 193.145.155.84
+l3javierdesaladora.ciber 1200 IN A 193.145.155.82
+agaeteweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+denf 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+denf 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+preproduccionbu2 1200 IN CNAME alojamientolvs
+ddv2t3 1200 IN A 193.145.138.91
+dcdvr 1200 IN A 193.145.138.151
+DDV2T8 1200 IN A 193.145.138.72
+pc-0844.dis 1200 IN CNAME conserjeriainform.dis
+integranwi 1200 IN CNAME nwi-desa
+alpha.teleco 1200 IN A 193.145.145.5
+dfis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dfis 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+1251258399.alu 1200 IN CNAME domains.live.com.
+www2.eiic 1200 IN CNAME nalojamiento
+lyncdiscover.alu 1200 IN CNAME webdir.online.lync.com.
+clicoredes.dis 1200 IN A 193.145.147.45
+www.comciencia.dis 1200 IN CNAME neurociencia.dis
+www.dedu2 1200 IN CNAME alojamiento2
+subversion 1200 IN A 193.145.138.10
+dgeo 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dgeo 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.diea 1200 IN CNAME ghost.diea
+deza 1200 IN CNAME deza.sic
+mysql 1200 IN CNAME mysql-aloj1
+mysql_teletrabajo.alm 1200 IN CNAME mysql-cv-otras1.alm
+ulpnet3.ibn 1200 IN A 195.53.11.9
+listas2 1200 IN CNAME listas2.lvs
+www.medicinapreventiva.vet 1200 IN CNAME sasrv.vet
+juridico 1200 IN CNAME dasic01.sic
+testsoporte1 1200 IN A 193.145.138.48
+labhw.idetic 1200 IN A 193.145.143.6
+coti 1200 IN A 193.145.141.12
+edutecan.ccbb 1200 IN A 193.145.155.38
+subversion.tic 1200 IN CNAME tx140.ticulpgc
+www2.eite 1200 IN CNAME nalojamiento
+baobab 1200 IN A 193.145.155.244
+videoconfserver 1200 IN A 193.145.138.99
+yum4 1200 IN CNAME bde4g
+www.patrimonioycontratacion 1200 IN CNAME cluster-web-ldap
+ns 1200 IN A 193.145.138.100
+esccri 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+esccri 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+streaming0103.cead 1200 IN CNAME streaming01.cead
+ftp.diea 1200 IN CNAME ghost.diea
+mysql_telepresencial_1314 1200 IN CNAME bdcv1.sic
+sandara.teleco 1200 IN A 193.145.145.146
+www.campussostenible 1200 IN CNAME alojamientolvs
+www.www.gomera2000.teleco 1200 IN CNAME cic-old.teleco
+galdar.etgtd.fulp 1200 IN CNAME webfulp.fulp
+oceanoxxi 1200 IN CNAME serv61.iusiani
+BIBGATEWAYPRE 1200 IN A 193.145.138.16
+circulos.cicei 1200 IN CNAME funiber
+www.departamentos 1200 IN CNAME alojamientolvs
+comunicaciones-pruebas.red 1200 IN A 195.53.11.24
+bibing08 1200 IN CNAME ediau1x20.sitie
+cisco-ulpnet-132.red 1200 IN A 193.145.132.1
+portalimp.pruebas 1200 IN CNAME tx140.ticulpgc
+emprendedores 1200 IN CNAME correo.fulp
+pas2 1200 IN MX 5 smtp
+www.gestionproyectos 1200 IN CNAME gestionproyectos
+nousar-esta-ip.gestion 1200 IN A 193.145.138.25
+www.bioges 1200 IN CNAME alojamientolvs
+wwwproxy.dis 1200 IN CNAME webdis.dis
+diea 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+diea 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.www.teleco 1200 IN CNAME exchangeG1.sic
+XVjornadas 1200 IN CNAME alojamientolvs
+posta.teleco 1200 IN A 193.145.145.69
+mexico.teleco 1200 IN A 193.145.145.147
+mail.usuarios 1200 IN CNAME ghs.googlehosted.com.
+papi 1200 IN A 193.145.138.36
+dell13.dma 1200 IN CNAME pccc-dma-13.dma
+arbitros2 1200 IN A 193.145.155.7
+servpmayer.humanidades 1200 IN A 193.145.155.214
+ciemar.ccbb 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ciemar.ccbb 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.www.lfi 1200 IN CNAME exchangeG1.sic
+euitt-laptop.ibn 1200 IN A 195.53.11.40
+wiki.sic 1200 IN CNAME wikisi
+router-secondary-ccbbpub 1200 IN A 193.145.155.241
+alumnos.gestion 1200 IN CNAME alumnos
+cucid 1200 IN CNAME alojamientolvs
+sicold 1200 IN CNAME websic
+test022.nalojamiento 1200 IN CNAME nalojamiento
+EMPRE-BIBPUB-RC1.red 1200 IN A 193.145.155.107
+innovaqua10.taliarte 1200 IN A 193.145.136.17
+www.centros 1200 IN CNAME alojamientolvs
+wwwp1.www.etsit 1200 IN CNAME exchangeG1.sic
+capo2.ccbb 1200 IN A 193.145.155.56
+teleformacion-lvs.gestion 1200 IN A 193.145.138.111
+www.degpa 1200 IN CNAME cluster-web-ldap
+wservicecorreodesa 1200 IN CNAME Aplica-temp.gestion
+icei.fulp 1200 IN CNAME dinamizadores.fulp
+iocag 1200 IN CNAME alojamientolvs
+drago.dis 1200 IN A 193.145.147.17
+wwwp1.www.euitt 1200 IN CNAME exchangeG1.sic
+mysql2 1200 IN CNAME alojamiento2
+imfamaster 1200 IN CNAME alojamientolvs
+xazuaje 1200 IN A 193.145.151.21
+csfp 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+lista_nuevaslistas 1200 IN CNAME nlistas1
+dumby.dis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+dumby.dis 1200 IN A 193.145.147.23
+artenara.etgtd.fulp 1200 IN CNAME webfulp.fulp
+listas 1200 IN CNAME nlistas1
+www.eiiconline 1200 IN CNAME lp2.redes.name.
+icaro.dis 1200 IN A 193.145.147.42
+www.foroempleo2 1200 IN CNAME alojamiento2
+sth2_dev.iuma 1200 IN CNAME vlsiserver.iuma
+corvo.teleco 1200 IN A 193.145.145.173
+vidconf2.rectorado 1200 IN A 193.145.128.230
+clusterldap1 1200 IN CNAME ldap1
+retama.dis 1200 IN A 193.145.147.47
+bentayga 1200 IN CNAME bentayga.biblioteca
+SERVICIOSEXTERNOS4-RC1.red 1200 IN A 193.145.153.2
+jandia.teleco 1200 IN A 193.145.145.12
+grabadorseleccion.taliarte 1200 IN A 193.145.136.14
+webdesa2 1200 IN A 193.145.138.38
+cv-desa 1200 IN A 193.145.138.19
+smtp1 1200 IN CNAME smtp1.gestion
+smtp2 1200 IN CNAME smtp2-lvs
+smtp3 1200 IN CNAME smtp3-lvs
+learnet.cicei 1200 IN CNAME funiber
+smtp5 1200 IN A 193.145.138.119
+serdis.dis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+serdis.dis 1200 IN A 193.145.147.54
+serdis.dis 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.posgrados2 1200 IN CNAME alojamiento2
+sarplus 1200 IN A 193.145.138.38
+dell01.dma 1200 IN CNAME pccc-dma-01.dma
+15ega 1200 IN CNAME alojamientolvs
+autodiscover 1200 IN CNAME autodiscover.outlook.com.
+moxa02.idetic 1200 IN CNAME pol158.idetic
+pecador.teleco 1200 IN A 193.145.145.107
+ref.pruebas 1200 IN CNAME tx140.ticulpgc
+invict.cicei 1200 IN CNAME funiber
+residuos.cicei 1200 IN CNAME funiber
+fw-usi-interna.red 1200 IN CNAME fw-usi-interna
+ws-lvs 1200 IN A 193.145.138.13
+stec-intersindicalcanariauniversidad 1200 IN CNAME alojamientolvs
+smtps 1200 IN A 193.145.138.51
+telepresencial 1200 IN CNAME telepresencial-lvs.gestion
+agora 1200 IN CNAME alojamientolvs
+remedy1.sic 1200 IN A 193.145.138.41
+ecdl 1200 IN A 193.145.141.5
+ecdl 1200 IN MX 10 correo.cicei.com.
+1200 IN MX 20 correo2.cicei.com.
+1200 IN MX 30 polaris
+iiserver 1200 IN A 193.145.153.13
+smtp.dis 1200 IN CNAME correo.dis
+myriam2 1200 IN CNAME alojamiento2
+www.esep2 1200 IN CNAME alojamiento2
+idn.cicei 1200 IN CNAME funiber
+alu 1200 IN TXT "v=spf1 include:outlook.com ~all"
+alu 1200 IN MX 10 1251258399.mail.outlook.com.
+smtp.dma 1200 IN CNAME geminis.dma
+prepruebarepositorio 1200 IN CNAME bdigital.biblioteca
+www.competitividadpyme.fulp 1200 IN CNAME webfulp.fulp
+www.eees 1200 IN CNAME alojamientolvs
+nalojamiento 1200 IN A 193.145.138.132
+tara.ciicc 1200 IN A 193.145.144.251
+www.dmor 1200 IN CNAME cluster-web-ldap
+codecraft 1200 IN CNAME serv90pub.iusiani
+est-cv 1200 IN CNAME websic
+cic-old.teleco 1200 IN A 193.145.145.4
+girma 1200 IN CNAME f112.ccbb
+apv 1200 IN CNAME firgas.dis
+comunicyemocion 1200 IN CNAME alojamientolvs
+faxserver.iuma 1200 IN CNAME yaiza.iuma
+rac01-vip 1200 IN CNAME rac01-virtual
+dmat 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dmat 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+arq 1200 IN CNAME arq.cda
+googlecd30e03e1bc2d41b.mail 1200 IN CNAME GOOGLE.com.
+www.personales 1200 IN CNAME alojamientolvs
+www.ealpgc 1200 IN CNAME lp2.redes.name.
+control.forums.ibpria2011 1200 IN CNAME serv61.iusiani
+ateighnwi 1200 IN CNAME nwi-desa
+gulic 1200 IN A 193.145.155.10
+l2openqrm.ciber 1200 IN A 193.145.155.90
+cda 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+cda 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+nuc01.idetic 1200 IN CNAME pol150.idetic
+cdd 1200 IN CNAME aurora
+bme 1200 IN CNAME firgas.dis
+admel1 1200 IN CNAME eadmbbdd1-vip.sic
+admel2 1200 IN CNAME eadmbbdd2-vip.sic
+cv-gradotest 1200 IN CNAME gradotest
+cfc 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+cfc 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+cv-repositorio 1200 IN A 193.145.138.141
+cfi 1200 IN CNAME alojamientolvs
+opac 1200 IN CNAME absys1
+correo.iuma 1200 IN CNAME tafira.iuma
+wwwp1.myriam 1200 IN CNAME exchangeG1.sic
+dejuridicas 1200 IN CNAME alojamientolvs
+smtp1-salida 1200 IN A 193.145.136.217
+cic 1200 IN CNAME cluster-web-ldap
+www.orca 1200 IN CNAME lp2.redes.name.
+alojamientoasad.dis 1200 IN A 193.145.147.48
+cartman2 1200 IN CNAME cartman2.teleco
+merlin.teleco 1200 IN A 193.145.145.100
+www.dpat 1200 IN CNAME cluster-web-ldap
+dca 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dca 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+filesRIC 1200 IN A 193.145.138.137
+dcc 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dcc 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+VideoConfGrados.humanidades 1200 IN A 193.145.155.215
+wwwp1.teguise.gestion 1200 IN CNAME exchangeG1.sic
+tramita1 1200 IN CNAME tramita1.lvs
+cma 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+invesfeps 1200 IN CNAME lp2.redes.name.
+dde 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dde 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+vmware-convert.gestion 1200 IN A 193.145.138.63
+nlistas1 1200 IN A 193.145.138.158
+msoid.fpct 1200 IN CNAME clientconfig.microsoftonline-p.net.
+dnet 1200 IN CNAME firgas.dis
+def 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+def 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+ddp 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ddp 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+dmor 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dmor 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+cam.cicei 1200 IN CNAME funiber
+dfe 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dfe 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+gccampus 1200 IN CNAME gccampus.empresariales
+ulpnet3-ftpaplica 1200 IN CNAME ulpnet3-lvs
+det 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+det 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+dfm 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dfm 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+cirrus 1200 IN A 193.145.141.2
+clusterweb2-old 1200 IN CNAME clusterweb2-old.lvs
+serv12.iusiani 1200 IN A 193.145.153.11
+www.inspeccion 1200 IN CNAME cluster-web-ldap
+dic 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dic 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+die 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+die 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+REC-FUNDACIONPUB-RC1.red 1200 IN A 193.145.143.75
+dim 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dim 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+redes.dis 1200 IN NS triton.dis
+dip 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dip 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+testsergio99.nalojamiento 1200 IN CNAME nalojamiento
+dis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+dis 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+dit 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dit 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.www.ambientalcampus 1200 IN CNAME exchangeG1.sic
+lyncdiscover 1200 IN CNAME webdir.online.lync.com.
+g1 1200 IN CNAME sist-g1-pruebas2
+panetone.dis 1200 IN CNAME becaweb.dis
+atenas-awyee 1200 IN CNAME alojamientolvs
+mysql_nalojamiento 1200 IN CNAME mysql-cv-otras1
+dma 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+dma 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+correo1 1200 IN CNAME correo1.lvs
+dmc 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dmc 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+tecnico-remedy-p 1200 IN CNAME remedy2.sic
+www.dps2 1200 IN CNAME alojamiento2
+terorweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+registro-pre 1200 IN A 193.145.138.61
+www.moodledemo 1200 IN CNAME cv-moodledemo
+PruG2 1200 IN A 193.145.135.21
+edu 1200 IN MX 5 ebae8555cc8e43a52a22e2948bc8f7.mail.outlook.com.
+edu 1200 IN TXT "v=msv1 t=ebae8555cc8e43a52a22e2948bc8f7"
+atis-tirma 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+eet 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+eet 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+streaming0202.cead 1200 IN CNAME streaming02.cead
+fi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+fi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+et 1200 IN CNAME cluster-web-ldap
+www.doycag 1200 IN CNAME lp2.redes.name.
+orca 1200 IN CNAME lp2.redes.name.
+dps 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dps 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+gi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+gi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+xviiisocepa 1200 IN CNAME alojamientolvs
+www.aulas 1200 IN CNAME alojamientolvs
+POL-CICEIPUB-RC1.red 1200 IN A 193.145.141.251
+eii 1200 IN A 193.145.147.160
+eii 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+dpat 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dpat 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+dsc 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dsc 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+gioconda.fulp 1200 IN CNAME giocondanew.fulp
+DISCORED.sic 1200 IN CNAME nuevaSAN-NAS.sic
+id 1200 IN CNAME alojamientolvs
+proxyftp.iuma 1200 IN CNAME svint.iuma
+mcu.teleco 1200 IN A 193.145.145.81
+correox 1200 IN A 193.145.138.43
+fax 1200 IN CNAME fax.cda
+www.eibt 1200 IN CNAME alojamientolvs
+defc 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+defc 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+b203-3.ccbb 1200 IN A 193.145.155.58
+innovaqua12.taliarte 1200 IN A 193.145.136.19
+vmware-datarecovery 1200 IN A 193.145.138.46
+guia.dis 1200 IN CNAME dis357rm.dis
+ServicioIR 1200 IN A 193.145.138.55
+www.dsc2 1200 IN CNAME alojamiento2
+ucma 1200 IN CNAME alojamientolvs
+papipoa 1200 IN A 193.145.138.36
+gestionproyectos-prueba 1200 IN CNAME gestionproyectos-desa
+TEL-TELECOPUB-HSRP.red 1200 IN A 193.145.145.1
+ffp 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ws.documents.ibpria2011 1200 IN CNAME serv61.iusiani
+argos.iuma 1200 IN A 193.145.147.74
+rio3.iuma 1200 IN CNAME tazo.iuma
+www.eiic 1200 IN CNAME alojamientolvs
+empresariales 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+empresariales 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+neurociencia.dis 1200 IN A 193.145.147.13
+FWUSI-HSRP.red 1200 IN A 193.145.128.33
+VideoConf1.cda 1200 IN A 193.145.155.25
+sth_25.iuma 1200 IN CNAME tango.iuma
+webcfc.tic 1200 IN CNAME tx140.ticulpgc
+wwwp1.www.sit 1200 IN CNAME exchangeG1.sic
+autodiscover.aaaa 1200 IN CNAME autodiscover.outlook.com.
+xmaciot 1200 IN A 193.145.151.4
+twiki.iuma 1200 IN CNAME bentor.iuma
+www.dqui 1200 IN CNAME lp2.redes.name.
+dis353sc.dis 1200 IN A 193.145.147.26
+tf 1200 IN CNAME cv-teleformacion-bal
+eui 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+eui 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+cartman2.teleco 1200 IN A 193.145.145.22
+pinv 1200 IN A 1.1.1.16
+wwwp1.www.smc 1200 IN CNAME exchangeG1.sic
+audiovisuales.sitie 1200 IN A 193.145.155.180
+cartman2.ctm 1200 IN CNAME cartman2.teleco
+gem 1200 IN CNAME lp2.redes.name.
+canoa 1200 IN A 193.145.138.113
+mar3.iuma 1200 IN CNAME mirca.iuma
+www.aulas2 1200 IN CNAME alojamiento2
+alojamiento-old 1200 IN A 193.145.155.133
+exp 1200 IN CNAME lp2.redes.name.
+ws 1200 IN CNAME ws-lvs
+www.otri 1200 IN CNAME alojamientolvs
+dpro 1200 IN CNAME firgas.dis
+www.gofte 1200 IN CNAME lp2.redes.name.
+ficli 1200 IN CNAME ficli.dis
+printer2.iusiani 1200 IN CNAME dss08.iusiani
+registro1 1200 IN CNAME registro1.lvs
+cv-moodledemo 1200 IN A 193.145.153.10
+arucas.cda 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+arucas.cda 1200 IN A 193.145.155.19
+arucas.cda 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+bde1g.sic 1200 IN CNAME bde1g
+www.eite 1200 IN CNAME nalojamiento
+webfulp2.fulp 1200 IN A 193.145.143.66
+deportespruebas 1200 IN CNAME alojamientolvs
+atlantica 1200 IN CNAME nalojamiento
+msoid.iatext 1200 IN CNAME clientconfig.microsoftonline-p.net.
+rtfulp.fulp 1200 IN CNAME webfulp.fulp
+cache-ulpgc.red 1200 IN A 172.23.1.10
+www.encuentrotecnicoshub 1200 IN CNAME webfulp.fulp
+centros 1200 IN CNAME alojamientolvs
+clusterDDVt3 1200 IN A 193.145.138.92
+dell14.dma 1200 IN CNAME pccc-dma-14.dma
+clusterDDVT8 1200 IN A 193.145.138.73
+ibpria2011 1200 IN CNAME serv61.iusiani
+www.empleo.fulp 1200 IN CNAME correo.fulp
+estadisticas-cv 1200 IN CNAME websic
+hes 1200 IN CNAME lp2.redes.name.
+eiic 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+gpd 1200 IN A 193.145.138.58
+lista_mailalu 1200 IN CNAME smtp1.gestion
+XIVruepep 1200 IN CNAME lp2.redes.name.
+id2 1200 IN CNAME alojamiento2
+calvo.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+calvo.teleco 1200 IN A 193.145.145.21
+calvo.teleco 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+innovacion.fulp 1200 IN CNAME webfulp.fulp
+e-tutor 1200 IN CNAME videoconfserver2
+pc-0711.dis 1200 IN CNAME dis227br.dis
+fjmachin.ccbb 1200 IN A 1.1.1.8
+FWUSI-RC1.red 1200 IN A 193.145.128.35
+www.sgaeu 1200 IN CNAME cluster-web-ldap
+www.eldigital2 1200 IN CNAME alojamiento2
+colmillo.humanidades 1200 IN A 193.145.155.212
+gsa 1200 IN A 193.145.138.65
+atenas-autorizacion22 1200 IN CNAME alojamiento2
+gsi 1200 IN CNAME alojamientolvs
+refbase-en.iuma 1200 IN CNAME argos.iuma
+mysql_social 1200 IN CNAME mysql-cv-otras1
+buque 1200 IN A 193.145.141.3
+www.stec-intersindicalcanariauniversidad 1200 IN CNAME alojamientolvs
+gsr 1200 IN CNAME epi.teleco
+ias 1200 IN CNAME ascensor
+jimenez3.iusiani 1200 IN CNAME cea68.iusiani
+wmsm2015 1200 IN CNAME serv61.iusiani
+licencias 1200 IN CNAME licencias1.sic
+alojamiento-new2 1200 IN A 193.145.155.132
+www.fccs 1200 IN CNAME alojamientolvs
+www.fcee 1200 IN CNAME alojamientolvs
+docucolor_260.cda 1200 IN CNAME reprocolorarq.cda
+absys01 1200 IN CNAME absys1
+absys02 1200 IN A 193.145.138.44
+ulpnet2-ftpaplica 1200 IN CNAME ulpnet2-lvs
+refbase-es.iuma 1200 IN CNAME argos.iuma
+ifc 1200 IN CNAME lp2.redes.name.
+www.arbitros 1200 IN CNAME arbitros
+Aplica-temp.gestion 1200 IN A 193.145.138.110
+wwwp1.www.vet 1200 IN CNAME exchangeG1.sic
+www.fcm2 1200 IN CNAME alojamiento2
+otrs 1200 IN A 193.145.138.127
+autodiscover.pas 1200 IN CNAME autodiscover.outlook.com.
+reproductores.taliarte 1200 IN A 193.145.136.9
+videosede.fulp 1200 IN A 193.145.143.69
+gestconv-pruebas 1200 IN A 193.145.138.96
+pilve.iusiani 1200 IN CNAME serv13pub.iusiani
+www.csocial 1200 IN CNAME alojamientolvs
+eite 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.sit 1200 IN CNAME exchangeG1.sic
+SERVICIOSEXTERNOS4-RC2.red 1200 IN A 193.145.153.3
+bde3g-vip.sic 1200 IN CNAME ulpges3g.sic
+docuproyectos 1200 IN CNAME alojamientolvs
+teleformacion-old 1200 IN CNAME teleformacion
+grabadormoviles.taliarte 1200 IN A 193.145.136.15
+www.fclc 1200 IN CNAME alojamientolvs
+tiendaulpgc01 1200 IN A 193.145.138.156
+www.teleformacion 1200 IN CNAME cluster-web-ldap
+testsergio.nalojamiento1 1200 IN CNAME nalojamiento
+manolo.ibn 1200 IN A 195.53.11.71
+CISCO-CAPWAP-CONTROLLER.red 1200 IN CNAME HUM-AULARIO-CONTROLER.red
+imp 1200 IN CNAME imp01
+gomera2000.teleco 1200 IN CNAME cic-old.teleco
+mysql_mde 1200 IN CNAME clustermysql4
+refbase.iuma 1200 IN CNAME bentor.iuma
+dis356fa.dis 1200 IN A 193.145.147.36
+www.tallerdeliderazgo.fulp 1200 IN CNAME webfulp.fulp
+correoweb7 1200 IN CNAME correo1.lvs
+correoweb8 1200 IN CNAME correo2
+bibing01 1200 IN CNAME ediau1x7.sitie
+softwarelibre 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+softwarelibre 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+bibing03 1200 IN CNAME ediau1x4.sitie
+bibing04 1200 IN CNAME ediau1x19b.sitie
+bibing06 1200 IN CNAME ediau1x19a.sitie
+fi-old.dis 1200 IN A 193.145.147.143
+www.dfis2 1200 IN CNAME alojamiento2
+tetra 1200 IN A 193.145.153.4
+tetra 1200 IN MX 5 tetra
+pracgsi 1200 IN A 193.145.141.36
+sgcdesa 1200 IN A 193.145.138.136
+lamaqele.sitie 1200 IN CNAME ediz31x35.sitie
+prole1.dis 1200 IN A 193.145.147.40
+lancelot.ccbb 1200 IN CNAME tindaya.ccbb
+remedy2.sic 1200 IN A 193.145.138.37
+svext2.iuma 1200 IN A 193.145.147.71
+avisos-sic 1200 IN CNAME avisos-si
+cartman.teleco 1200 IN A 193.145.145.20
+fcee 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+correo-lvs.gestion 1200 IN A 193.145.138.31
+iva 1200 IN A 193.145.141.69
+www.ea 1200 IN CNAME cluster-web-ldap
+_sipfederationtls._tcp.alu 600 IN SRV 0 0 5061 sipfed.online.lync.com.
+www.biocon 1200 IN CNAME lp2.redes.name.
+www.eurogen2013 1200 IN CNAME serv61.iusiani
+meguada 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+meguada 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+iuma2 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ip4:193.145.138.121 ~all"
+www.feet 1200 IN CNAME alojamientolvs
+wwwp1.www.personales 1200 IN CNAME exchangeG1.sic
+dealumnos 1200 IN CNAME alojamientolvs
+otri 1200 IN CNAME alojamientolvs
+semacacv 1200 IN CNAME alojamientolvs
+vallesecoweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+fclc 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+fclc 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+descargas-pub 1200 IN A 193.145.138.147
+sicp 1200 IN CNAME websic
+teletrabajo 1200 IN CNAME cv-teletrabajo
+mail.ctm 1200 IN CNAME cartman.ctm
+riesgoplayas 1200 IN CNAME alojamientolvs
+wikiaulas 1200 IN CNAME alojamientolvs
+docente.descentroempleo.fulp 1200 IN CNAME webfulp.fulp
+filologia 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+rasca 1200 IN A 193.145.153.9
+piolin.teleco 1200 IN CNAME manso.teleco
+lvs01 1200 IN A 193.145.138.116
+lvs02 1200 IN A 193.145.138.115
+amiserver.dis 1200 IN A 193.145.147.148
+www.ch 1200 IN CNAME alojamientolvs
+wwwp1.www.correo 1200 IN CNAME exchangeG1.sic
+mysql_telepresencial 1200 IN CNAME clustermysql3
+videoreport.fulp 1200 IN A 193.145.143.72
+www.ffp2 1200 IN CNAME alojamiento2
+pct.tic 1200 IN CNAME tx140.ticulpgc
+ldap-pruebas 1200 IN CNAME ulpnet3-lvs
+www.emprenderenlosocial 1200 IN CNAME webfulp.fulp
+www.fgh2 1200 IN CNAME alojamiento2
+tecnico-remedy 1200 IN CNAME remedy1.sic
+www.ff 1200 IN CNAME nalojamiento
+natha.fulp 1200 IN CNAME webfulp.fulp
+www.fi 1200 IN CNAME eii
+www.et 1200 IN CNAME cluster-web-ldap
+tvulpgc.teleco 1200 IN A 193.145.145.34
+mdc 1200 IN CNAME bibcontentdm
+www.gi 1200 IN CNAME alojamientolvs
+www.ft 1200 IN CNAME cluster-web-ldap
+www.fv 1200 IN CNAME alojamientolvs
+mbx 1200 IN CNAME mbx.telip
+www.tides 1200 IN CNAME alojamientolvs
+cups.iuma 1200 IN CNAME azor.iuma
+tdt.teleco 1200 IN A 193.145.145.28
+WHUM-SALA-GRADOS-ANEXO.gestionwireless 1200 IN A 192.168.11.52
+www.ie 1200 IN CNAME alojamientolvs
+dis341mp.dis 1200 IN A 193.145.147.136
+tafirapub.iuma 1200 IN A 193.145.147.85
+clustercorreo3.lvs 1200 IN CNAME clustercorreo3
+remedy2 1200 IN CNAME remedy2.sic
+crs_dg 1200 IN CNAME crsdg
+personales 1200 IN CNAME alojamientolvs
+ws.control.eurogen2013 1200 IN CNAME serv61.iusiani
+mysql-teletrabajo 1200 IN CNAME mysql-cv-otras1
+idetic 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+autodiscover.sic 1200 IN CNAME autodiscover.outlook.com.
+symfony 1200 IN CNAME deza.sic
+serv50pub.iusiani 1200 IN A 193.145.154.24
+canalhf.idetic 1200 IN CNAME pol152.idetic
+vpn.ibn 1200 IN A 195.53.11.25
+temisas 1200 IN CNAME webdesa2
+iel01 1200 IN CNAME ediz31x20.sitie
+pichler.ciber 1200 IN CNAME www.ciber
+eviews.sic 1200 IN CNAME licencias1.sic
+identificate 1200 IN A 193.145.138.206
+www.cardiosen 1200 IN CNAME alojamientolvs
+moxa01.idetic 1200 IN CNAME pol157.idetic
+neo 1200 IN A 193.145.141.8
+eua2010 1200 IN CNAME alojamientolvs
+www.si 1200 IN CNAME lp2.redes.name.
+ws.www.eurogen2013 1200 IN CNAME serv61.iusiani
+mquintanas.teleco 1200 IN A 193.145.145.18
+cisco-ulpnet2.red 1200 IN A 172.20.1.254
+intranet.iuma 1200 IN CNAME bentor.iuma
+DDV01 1200 IN A 193.145.138.80
+DDV02 1200 IN A 193.145.138.81
+descentroempleo.fulp 1200 IN CNAME webfulp.fulp
+otrs-mysql2 1200 IN A 193.145.138.154
+www.tv 1200 IN CNAME cluster-web-ldap
+routercore2-salto.red 1200 IN A 172.20.0.3
+test02.nalojamiento 1200 IN CNAME nalojamiento
+vicente-unitronics 1200 IN A 193.145.157.163
+telepresencial-lvs.gestion 1200 IN A 193.145.138.112
+serv90pub.iusiani 1200 IN A 193.145.154.6
+SERVICIOSEXTERNOS3-RC1.red 1200 IN A 193.145.155.114
+activatexgaldar.ciber 1200 IN CNAME l4moreno.ciber
+CCBB-AULARIOPUB-RC1.red 1200 IN A 193.145.155.43
+ns2 1200 IN A 193.145.138.200
+ns3 1200 IN A 193.145.138.100
+sir.iuma 1200 IN CNAME bentor.iuma
+ocw 1200 IN CNAME serv12.iusiani
+wwwp1.www 1200 IN CNAME exchangeG1.sic
+nulpnet.ibn 1200 IN A 195.53.11.17
+lyncdiscover.aaaa 1200 IN CNAME webdir.online.lync.com.
+wave1 1200 IN CNAME ediz11x18.sitie
+slamd-client1 1200 IN CNAME cv-telepresencial-test
+padespasuarez.teleco 1200 IN A 193.145.145.145
+tv-ulpgc 1200 IN A 193.145.155.124
+preproduccionbu 1200 IN CNAME alojamientolvs
+catedralacaixa 1200 IN CNAME alojamientolvs
+rebiun2010 1200 IN CNAME alojamientolvs
+prisma 1200 IN A 193.145.155.8
+serv06.iusiani 1200 IN A 193.145.154.8
+micv3preproxy 1200 IN A 193.145.138.42
+serdis2.dis 1200 IN A 193.145.147.52
+licserv.iusiani 1200 IN CNAME serv64.iusiani
+e-administracion 1200 IN CNAME alojamientolvs
+pas 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+pas 1200 IN TXT "v=msv1 t=bca37d67d8d695a83d8106a712f0da"
+1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+adsl3-ext 1200 IN A 217.126.29.37
+zabbixseguridad 1200 IN A 193.145.153.5
+www.candidaturarectorjesusperez 1200 IN CNAME alojamientolvs
+ptelefor2 1200 IN A 193.145.128.228
+www.etsit.teleco 1200 IN CNAME cluster-web-ldap
+geoserv 1200 IN CNAME alojamientolvs
+pct 1200 IN CNAME alojamientolvs
+alfresco1 1200 IN CNAME alfresco1.lvs
+alfresco2 1200 IN CNAME alfresco2.lvs
+gestpro.fulp 1200 IN CNAME webfulp.fulp
+matricula2 1200 IN A 193.145.138.110
+avanza.teleco 1200 IN A 193.145.145.23
+pei 1200 IN CNAME alojamientolvs
+degpa 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+degpa 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+flightradar.idetic 1200 IN CNAME pol169.idetic
+zabbixsoi 1200 IN A 193.145.153.7
+www.thermo 1200 IN CNAME alojamientolvs
+ope 1200 IN CNAME alojamientolvs
+berlioz.dis 1200 IN A 193.145.147.21
+wwwp1.www.etsit.teleco 1200 IN CNAME exchangeG1.sic
+www.spersonal 1200 IN CNAME cluster-web-ldap
+eadministracion.tic 1200 IN CNAME tx140.ticulpgc
+pdivid 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+www.365 1200 IN CNAME ulpgctest.sharepoint.com.
+pid 1200 IN A 193.145.138.57
+POL-IUCTCPUB-HSRP.red 1200 IN A 193.145.155.225
+portafirmas 1200 IN CNAME tramita
+www.invpja 1200 IN CNAME lp2.redes.name.
+serv14.iusiani 1200 IN A 193.145.154.23
+ehernandez.teleco 1200 IN A 193.145.145.37
+evamasy 1200 IN A 253.253.253.4
+ama.dis 1200 IN A 193.145.147.138
+www.congresos2 1200 IN CNAME alojamiento2
+telefonica.ibn 1200 IN A 195.53.11.1
+EMPRE-BIBPUB-HSRP.red 1200 IN A 193.145.155.97
+tp 1200 IN CNAME telepresencial-lvs.gestion
+www.pump 1200 IN CNAME lp2.redes.name.
+absys1 1200 IN A 193.145.138.138
+absys2 1200 IN A 193.145.138.139
+investigacionfeps 1200 IN CNAME lp2.redes.name.
+cursos.gccampus 1200 IN CNAME gccampus.empresariales
+myreview.iuma 1200 IN CNAME hosting1ext.iuma
+www.media 1200 IN CNAME cluster-web-ldap
+POL-IDETICPUB-RC1.red 1200 IN A 193.145.143.2
+innovacion 1200 IN CNAME correo.fulp
+sede-pre 1200 IN CNAME tramita-pre
+san-switch1.sic 1200 IN CNAME san-switch1-ds300b.sic
+tip.iatext 1200 IN CNAME tip.dis
+deepfreeze6 1200 IN CNAME sicaulas1.sic
+FWUSI-RC2.red 1200 IN A 193.145.128.36
+pc-gx620.dis 1200 IN A 193.145.147.134
+adjudicatarios 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+www.semiv2 1200 IN CNAME alojamiento2
+mysql-nalojamiento 1200 IN CNAME mysql-cv-otras1
+testautentica.fulp 1200 IN CNAME webfulp.fulp
+academico_Aplica-temp 1200 IN CNAME Aplica-temp.gestion
+fibaeurope.cead 1200 IN A 193.145.155.116
+amiweb.dis 1200 IN A 193.145.147.6
+ascensor 1200 IN A 193.145.130.11
+www.reprografia 1200 IN CNAME cluster-web-ldap
+esep 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+fobosold 1200 IN CNAME ecdl
+streaming0102.cead 1200 IN CNAME streaming01.cead
+wwwp1.teguise 1200 IN CNAME exchangeG1.sic
+aula107.ccbb 1200 IN A 193.145.155.55
+inelpub.iuma 1200 IN A 193.145.147.88
+fw-wifi.red 1200 IN A 172.20.2.14
+wwwp1.www.ludoteca 1200 IN CNAME exchangeG1.sic
+edutec2012 1200 IN CNAME alojamientolvs
+nuevoeomar 1200 IN CNAME lp2.redes.name.
+hora.iuma 1200 IN CNAME tecen.iuma
+www.etsa 1200 IN CNAME alojamientolvs
+cau1234 1200 IN CNAME Aplica-temp.gestion
+control.documents.ibpria2011 1200 IN CNAME serv61.iusiani
+www.eup2 1200 IN CNAME alojamiento2
+cisco-ulpnet-156.red 1200 IN A 193.145.156.1
+www.pg 1200 IN CNAME alojamientolvs
+pump 1200 IN CNAME lp2.redes.name.
+F5test1 1200 IN A 193.145.155.136
+sar 1200 IN CNAME cluster-web-ldap
+alojamiento 1200 IN CNAME alojamientolvs
+CWDM-LG.red 1200 IN A 172.30.10.6
+www.si_old 1200 IN CNAME websic
+mail.iuma 1200 IN CNAME tafirapub.iuma
+sdi 1200 IN MX 10 ASPMX.L.GOOGLE.com.
+1200 IN MX 20 ALT1.ASPMX.L.GOOGLE.com.
+1200 IN MX 20 ALT2.ASPMX.L.GOOGLE.com.
+1200 IN MX 30 ASPMX2.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX3.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX4.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX5.GOOGLEMAIL.com.
+pcv.ibn 1200 IN A 195.53.11.7
+ulpnet2 1200 IN A 193.145.138.200
+ulpnet3 1200 IN A 193.145.138.100
+canaratlantico 1200 IN A 193.145.136.220
+dell03.dma 1200 IN CNAME pccc-dma-03.dma
+_sip._tls 600 IN SRV 0 0 443 sipdir.online.lync.com.
+WHUM-HALL.gestionwireless 1200 IN A 192.168.11.51
+correolive 1200 IN MX 10 1776944552.mail.outlook.com.
+sgi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+sgi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.cic.teleco 1200 IN CNAME exchangeG1.sic
+transparencia.pruebas 1200 IN CNAME tx140.ticulpgc
+POL-IUCTCPUB2-HSRP.red 1200 IN A 193.145.155.81
+sip 1200 IN CNAME seinps
+sir 1200 IN CNAME Aplica-temp.gestion
+sit 1200 IN CNAME alojamientolvs
+component.control.eurogen2013 1200 IN CNAME serv61.iusiani
+girma.gi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+sp.iuma 1200 IN CNAME bentor.iuma
+mail.iutm 1200 IN CNAME cartman.ctm
+tricalc.sic 1200 IN CNAME licencias1.sic
+imap.diea 1200 IN CNAME ghost.diea
+ldap.iusiani 1200 IN CNAME serv62.iusiani
+vconferenciafundacion 1200 IN A 193.145.128.227
+zec.cicei 1200 IN CNAME funiber
+spss.sic 1200 IN CNAME licencias1.sic
+sms 1200 IN CNAME ns4
+atlantida.teleco 1200 IN A 193.145.145.164
+tic 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+www.www.opendata 1200 IN CNAME alojamientolvs
+ftp.fulp 1200 IN CNAME correo.fulp
+aurora 1200 IN A 193.145.141.22
+dis342js.dis 1200 IN A 193.145.147.46
+cardonext.dis 1200 IN A 193.145.147.18
+unity-failover.telip 1200 IN CNAME unity-failover.sic
+sso 1200 IN CNAME identificate
+sd.tic 1200 IN CNAME tx140.ticulpgc
+webmail.fulp 1200 IN CNAME correo.fulp
+aplicacionesweb 1200 IN A 193.145.138.26
+iv2015.ciber 1200 IN CNAME l4moreno.ciber
+l3servidoreugenio.ciber 1200 IN A 193.145.155.89
+eua2014 1200 IN CNAME alojamientolvs
+www.tandem 1200 IN CNAME cluster-web-ldap
+gmail 1200 IN CNAME alojamientolvs
+epic.iuma 1200 IN CNAME arco.iuma
+civilfem.sic 1200 IN CNAME licencias0
+www.soporte 1200 IN CNAME cluster-web-ldap
+mar4.iuma 1200 IN CNAME mirca.iuma
+host3.rictest 1200 IN CNAME rictest
+polaris 1200 IN A 193.145.141.33
+polaris 1200 IN MX 10 polaris
+1200 IN MX 20 polaris.cicei.com.
+1200 IN MX 30 correo.cicei.com.
+1200 IN MX 40 funiber.cicei.com.
+seed-pub 1200 IN A 193.145.138.7
+www.english 1200 IN CNAME alojamientolvs
+esep.ulpgc.es 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+firgas.dis 1200 IN A 193.145.147.35
+alvaro 1200 IN CNAME alojamientolvs
+vvirtual.cicei 1200 IN CNAME funiber
+gede 1200 IN CNAME alojamientolvs
+ai.cicei 1200 IN CNAME funiber
+congresos 1200 IN CNAME alojamientolvs
+aulas 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+aulas 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.confucio 1200 IN CNAME webfulp.fulp
+prueba.cicei 1200 IN A 193.145.141.253
+ajuy.teleco 1200 IN A 193.145.145.31
+benmagec 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+tallerdevaloracion 1200 IN CNAME webfulp.fulp
+tecnicoa1 1200 IN CNAME soporte01.sic
+zeus.ccbb 1200 IN A 193.145.155.51
+www.modclim 1200 IN CNAME lp2.redes.name.
+www.geys 1200 IN CNAME lp2.redes.name.
+catedratelefonica 1200 IN CNAME osl
+serv61.iusiani 1200 IN A 193.145.154.26
+nagios.ibn 1200 IN A 195.53.11.6
+www.softwarelibre 1200 IN CNAME osl
+www.cidia2 1200 IN CNAME alojamiento2
+routercore4-salto.red 1200 IN A 172.20.0.6
+oldredinamiza.fulp 1200 IN CNAME vt.fulp
+bibmdc2 1200 IN CNAME bibcontentdm
+cicei001 1200 IN A 193.145.141.31
+INF-INFORMATICA1PUB-RC1.red 1200 IN A 193.145.147.2
+mailpas 1200 IN CNAME smtp1.gestion
+www.www.gpds 1200 IN CNAME alojamientolvs
+www.ggma 1200 IN CNAME alojamientolvs
+openproject.iuma 1200 IN CNAME evan.iuma
+www.en.iuma 1200 IN CNAME arco.iuma
+shiny.iusiani 1200 IN CNAME node004.iusiani
+web 1200 IN CNAME web-mon-ext
+dis221ef.dis 1200 IN A 193.145.147.9
+INF-INFORMATICA1PUB-HSRP.red 1200 IN A 193.145.147.1
+uvo 1200 IN CNAME osl
+instalaciones.taliarte 1200 IN A 193.145.136.11
+fibaamericasreferees.cead 1200 IN A 193.145.155.123
+mmc29.iusiani 1200 IN A 193.145.154.36
+sirnew.iuma 1200 IN CNAME bentor.iuma
+webcam-ingenierias 1200 IN CNAME webcam-ing.era
+www.etsa2 1200 IN CNAME alojamiento2
+bde4g.sic 1200 IN CNAME bde4g
+vpn 1200 IN CNAME vpn01
+www.ludoteca 1200 IN CNAME cluster-web-ldap
+www.es.iuma 1200 IN CNAME arco.iuma
+nagios2 1200 IN A 193.145.135.7
+bibproxy 1200 IN A 193.145.138.9
+pruebas 1200 IN MX 10 ASPMX.L.GOOGLE.com.
+1200 IN MX 20 ALT1.ASPMX.L.GOOGLE.com.
+1200 IN MX 20 ALT2.ASPMX.L.GOOGLE.com.
+1200 IN MX 30 ASPMX2.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX3.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX4.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX5.GOOGLEMAIL.com.
+eurocast2015.ciber 1200 IN CNAME l4moreno.ciber
+editorial.cda 1200 IN CNAME alojamientolvs
+consultasenlinea.fulp 1200 IN CNAME webfulp.fulp
+publica-pruebas 1200 IN A 193.145.138.240
+vtd 1200 IN CNAME alojamientolvs
+fpct 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 include:spf.protection.outlook.com ~all"
+fpct 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+RouterCore2-giga.red 1200 IN A 172.20.1.3
+blogs.dis 1200 IN CNAME serdis.dis
+ntelepresencial 1200 IN CNAME ntelepresencial-lvs.gestion
+paraninfo 1200 IN CNAME portatilrector.sede-wifi
+pcrdguez.teleco 1200 IN A 193.145.145.138
+gestion.titulospropios 1200 IN CNAME gestionproyectos
+geys 1200 IN CNAME lp2.redes.name.
+ldapmaster.iuma 1200 IN CNAME uga.iuma
+hosting1ext.iuma 1200 IN A 193.145.147.82
+www.internacional 1200 IN CNAME cluster-web-ldap
+agenda.biblioteca 1200 IN CNAME bentayga.biblioteca
+mysql_social.alm 1200 IN CNAME mysql-cv-otras1.alm
+bbdddesarrollo 1200 IN A 193.145.136.201
+112512093.test 1200 IN CNAME domains.live.com.
+ealpgc 1200 IN CNAME lp2.redes.name.
+editorial.dca 1200 IN CNAME alojamientolvs
+correo.dinamizadores.fulp 1200 IN CNAME dinamizadores.fulp
+commons.fulp 1200 IN CNAME webfulp.fulp
+www2.tides 1200 IN CNAME nalojamiento
+dch.nalojamiento1 1200 IN CNAME nalojamiento
+enresa.cicei 1200 IN CNAME funiber
+ggma 1200 IN CNAME alojamientolvs
+teleformacion2 1200 IN CNAME teleformacion
+www.dcewww.dedu 1200 IN CNAME alojamientolvs
+webservicesext 1200 IN CNAME webservices-lvs
+portalcorreo 1200 IN A 193.145.138.126
+juncal.teleco 1200 IN A 193.145.145.149
+www.espaciosweb 1200 IN CNAME lp2.redes.name.
+alramos.teleco 1200 IN A 193.145.145.51
+www.etsit 1200 IN CNAME alojamientolvs
+ldap 1200 IN CNAME cluster-web-ldap
+reservas 1200 IN CNAME viajesulpgc01
+www.edevitalzh.dis 1200 IN CNAME edevitalzh.dis
+san-policy 1200 IN A 193.145.138.105
+hipatia.dma 1200 IN A 193.145.155.166
+cei.pruebas 1200 IN CNAME tx140.ticulpgc
+pubftp 1200 IN CNAME webdesa2
+www.euitt 1200 IN CNAME alojamientolvs
+tramita2 1200 IN CNAME tramita2.lvs
+helios 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+helios 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www 1200 IN CNAME cluster-web-ldap
+ns4 1200 IN A 193.145.138.200
+SERVICIOSEXTERNOS4-HSRP.red 1200 IN A 193.145.153.1
+tip.dis 1200 IN A 193.145.147.158
+eda.iuma 1200 IN CNAME tango.iuma
+TMS-server.sic 1200 IN CNAME vconf
+streaming0201.cead 1200 IN CNAME streaming02.cead
+_sipfederationtls._tcp 600 IN SRV 0 0 5061 sipfed.online.lync.com.
+mysql_teleformacion 1200 IN CNAME clustermysql4
+mysql_temporal_alm 1200 IN CNAME bdcv1.alm
+ProyeccionSalaJuntas 1200 IN CNAME PSalaJuntas.rectorado
+git.iuma 1200 IN CNAME juno.iuma
+www.fti2 1200 IN CNAME alojamiento2
+psicologiadeporte 1200 IN CNAME lp2.redes.name.
+desredina.fulp 1200 IN CNAME webfulp.fulp
+dell16.dma 1200 IN CNAME pccc-dma-16.dma
+alojamiento2 1200 IN A 193.145.155.134
+giha 1200 IN CNAME lp2.redes.name.
+san-switch2.sic 1200 IN CNAME san-switch2-ds300b.sic
+rac01 1200 IN CNAME rac01.sic
+docentia 1200 IN CNAME docentia3
+FWUSI-RC3.red 1200 IN A 193.145.128.37
+osl.softwarelibre 1200 IN CNAME osl.dis
+rio2.iuma 1200 IN CNAME tazo.iuma
+mysql_horde 1200 IN CNAME mysql-cv-otras1
+autodiscover.alumnos 1200 IN CNAME autodiscover.outlook.com.
+mysqlnuevo 1200 IN CNAME mysql-aloj1
+lpd.iuma 1200 IN CNAME azor.iuma
+ip.tic 1200 IN CNAME tx140.ticulpgc
+geomatica 1200 IN CNAME alojamientolvs
+mysqldesa 1200 IN CNAME webdesa2
+tramita-pre 1200 IN A 193.145.138.62
+auladepiedra 1200 IN CNAME portatilrector.sede-wifi
+residenciasuniversitarias 1200 IN CNAME webfulp.fulp
+wwwp1.www.cidia 1200 IN CNAME exchangeG1.sic
+Cluster1.teleco 1200 IN A 193.145.145.6
+acapde 1200 IN CNAME lp2.redes.name.
+sth2.iuma 1200 IN CNAME vlsiserver.iuma
+discoverer 1200 IN CNAME Aplica-temp.gestion
+www.hfdvl 1200 IN CNAME lp2.redes.name.
+gerardomartin3 1200 IN A 193.145.155.186
+aplicaciones.pruebas 1200 IN CNAME tx140.ticulpgc
+TEL-TELECOPUB-RC1.red 1200 IN A 193.145.145.251
+nuevoconfucio 1200 IN CNAME lp2.redes.name.
+www.www.fcs 1200 IN CNAME cluster-web-ldap
+pei.pruebas 1200 IN CNAME tx140.ticulpgc
+cv-social 1200 IN A 193.145.138.17
+gmartin.sitie 1200 IN A 193.145.155.187
+ftp.softwarelibre 1200 IN CNAME osl
+www.bentayga 1200 IN CNAME bentayga.biblioteca
+SERVICIOSEXTERNOS4-RC4.red 1200 IN A 193.145.153.62
+gestionproyectos 1200 IN A 193.145.138.125
+wwwp1.www.esccri 1200 IN CNAME exchangeG1.sic
+clusterldap2 1200 IN CNAME ldap2
+clusterldap3 1200 IN CNAME ldap3
+clusterldap4 1200 IN CNAME ldap4
+san-gateway 1200 IN A 193.145.138.104
+www.ambientalcampus 1200 IN CNAME alojamientolvs
+genpdf 1200 IN CNAME Aplica-temp.gestion
+www.fulp 1200 IN CNAME webfulp.fulp
+eref2010.cead 1200 IN A 193.145.155.202
+ws.control.ibpria2011 1200 IN CNAME serv61.iusiani
+dell04.dma 1200 IN CNAME pccc-dma-04.dma
+euitt2 1200 IN CNAME alojamiento2
+mysql_teleformacion_1314.alm 1200 IN CNAME bdcv2.alm
+switch1.idetic 1200 IN CNAME pol126.idetic
+testredir2 1200 IN CNAME websic
+ftp0 1200 IN A 193.145.141.34
+sede 1200 IN CNAME tramita
+blogscucid 1200 IN CNAME webfulp.fulp
+atetic 1200 IN CNAME lp2.redes.name.
+autodiscover.edu 1200 IN CNAME autodiscover.outlook.com.
+canaratlantico2 1200 IN A 193.145.138.152
+leonardo.fulp 1200 IN CNAME correo.fulp
+amixeon.dis 1200 IN A 193.145.147.5
+correoweb.ccbb 1200 IN CNAME zeus.ccbb
+alfresco 1200 IN A 193.145.138.109
+www11 1200 IN A 193.145.138.14
+videoconf.empresariales 1200 IN A 193.145.143.229
+1234-p 1200 IN CNAME remedy2.sic
+ubilingua 1200 IN CNAME alojamientolvs
+SERVICIOSEXTERNOS2-RC1.red 1200 IN A 193.145.155.194
+ftp.teleco 1200 IN CNAME cic-old.teleco
+www.fccjjcalidad 1200 IN CNAME alojamientolvs
+euroforum.cicei 1200 IN CNAME funiber
+bde4g-vip.sic 1200 IN CNAME ulpges4g.sic
+tides 1200 IN CNAME alojamientolvs
+new-mozart.dis 1200 IN A 193.145.147.155
+tafira2.cda 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+tafira2.cda 1200 IN A 193.145.155.20
+igualdad.tic 1200 IN CNAME tx140.ticulpgc
+obintcpcert.fulp 1200 IN CNAME webfulp.fulp
+vipl2.dis 1200 IN A 193.145.147.27
+geohis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+notras 1200 IN A 193.145.138.157
+www.peccit.iuma 1200 IN CNAME argos.iuma
+pcPD219W.teleco 1200 IN A 193.145.145.129
+fulp 1200 IN MX 5 fulp-ulpgc-es.mail.eo.outlook.com.
+fulp 1200 IN TXT "MS=ms58115577"
+eros.ccbb 1200 IN A 193.145.155.53
+workgroup.canem 1200 IN CNAME webfulp.fulp
+mysql-social 1200 IN CNAME mysql-cv-otras1
+serv05.iusiani 1200 IN A 193.145.154.7
+c7200-ibernet.red 1200 IN A 193.146.95.141
+www.redmasi 1200 IN CNAME correo.fulp
+alojamientoimp.pruebas 1200 IN CNAME tx140.ticulpgc
+descargas 1200 IN CNAME descargas-pub
+cumbre.dis 1200 IN A 193.145.147.150
+ceani 1200 IN CNAME serv08.iusiani
+edutecan 1200 IN CNAME edutecan.ccbb
+biblioconecta 1200 IN CNAME videoconfserver
+fw-internet.red 1200 IN A 172.20.0.252
+ntp 1200 IN A 193.145.138.100
+1200 IN A 193.145.138.200
+ntelepresencial-lvs.gestion 1200 IN A 193.145.138.8
+wwwp1.www.ludotecaecocultural 1200 IN CNAME exchangeG1.sic
+envio-sms 1200 IN CNAME ias1g.sic
+iguerra.teleco 1200 IN A 193.145.145.44
+wwwp1.www.departamentos 1200 IN CNAME exchangeG1.sic
+modclim 1200 IN CNAME lp2.redes.name.
+rpdi 1200 IN A 193.145.138.87
+mysql_temporal 1200 IN CNAME clustermysql3
+cam01.sitie 1200 IN CNAME ediz12x48.sitie
+POL-IUSEANI-PUB-RC1.red 1200 IN A 193.145.154.59
+www.sicp 1200 IN CNAME websic
+horizonmirage 1200 IN A 193.145.138.128
+gerentes2014 1200 IN CNAME alojamientolvs
+clusterwebpre 1200 IN CNAME webpre
+semanaciencia.fulp 1200 IN CNAME webfulp.fulp
+www.gpds 1200 IN CNAME alojamientolvs
+contentdm 1200 IN CNAME bibcontentdm
+#sip 1200 IN CNAME sipdir.online.lync.com.
+correo-alumnos 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+smtp.iuma 1200 IN CNAME tafira.iuma
+630955851.si 1200 IN CNAME domains.live.com.
+cief.sitie 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+cief.sitie 1200 IN A 193.145.155.179
+cief.sitie 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+autocad.sic 1200 IN CNAME licencias1.sic
+alojamiento.imp 1200 IN CNAME imp01
+www.tebadm 1200 IN CNAME lp2.redes.name.
+eurogen2013 1200 IN CNAME serv61.iusiani
+nagle.ciber 1200 IN A 193.145.155.230
+catedratecnologiamedica 1200 IN CNAME alojamientolvs
+enedulpgc 1200 IN CNAME alojamientolvs
+pop.iuma 1200 IN CNAME tafira.iuma
+micvpre 1200 IN A 193.145.138.47
+routercore-salto-hsrp.red 1200 IN A 172.20.0.1
+1608087948.alumnos 1200 IN CNAME domains.live.com.
+desarrollo1.cead 1200 IN A 193.145.155.5
+turismo 1200 IN CNAME lp2.redes.name.
+indicemdc 1200 IN CNAME bibcontentdm
+UNIVERSOCIAL 1200 IN CNAME alojamientolvs
+cief.eef 1200 IN CNAME cief.sitie
+formacionfulp.fulp 1200 IN CNAME webfulp2.fulp
+consolaip1 1200 IN A 193.145.138.32
+beca2008.dis 1200 IN A 193.145.147.151
+teguise 1200 IN CNAME cluster-web-ldap
+mdgeladoippublica.ccbb 1200 IN A 193.145.155.40
+cibeles.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+regleta_ip.dma 1200 IN CNAME ePowerS4dma.dma
+www.esccri2 1200 IN CNAME alojamiento2
+blogs.cucid 1200 IN CNAME webfulp.fulp
+correo.dis 1200 IN A 193.145.147.51
+ayudacorreo 1200 IN CNAME alojamientolvs
+www.sitc 1200 IN CNAME cluster-web-ldap
+noticias 1200 IN CNAME polaris
+jaimesadhwani 1200 IN CNAME alojamientolvs
+wwwp1.euitt 1200 IN CNAME exchangeG1.sic
+seinps 1200 IN A 193.145.155.198
+correo.dma 1200 IN CNAME geminis.dma
+poraire.teleco 1200 IN A 193.145.145.175
+component.documents.ibpria2011 1200 IN CNAME serv61.iusiani
+wwwp1.www.cucid 1200 IN CNAME exchangeG1.sic
+component.www.ibpria2011 1200 IN CNAME serv61.iusiani
+innovaqua9.taliarte 1200 IN A 193.145.136.16
+ric 1200 IN CNAME webRIC
+pcvpnpublica.fulp 1200 IN A 193.145.143.70
+SERVICIOSEXTERNOS3-RC3.red 1200 IN A 193.145.155.125
+pc-0709.dis 1200 IN CNAME dis348vu.dis
+congresoref 1200 IN CNAME alojamientolvs
+formacioncontinua 1200 IN CNAME webfulp.fulp
+ldapslave.iuma 1200 IN CNAME masca.iuma
+localhost 1200 IN A 127.0.0.1
+tajinaste1.dis 1200 IN A 193.145.147.154
+www.tralimi 1200 IN CNAME lp2.redes.name.
+rsar 1200 IN CNAME ServicioIR
+porcable.teleco 1200 IN A 193.145.145.176
+deswebfulp.fulp 1200 IN CNAME webfulp2.fulp
+google558a5b931bc2d41b.pruebas 1200 IN CNAME GOOGLE.com.
+websi 1200 IN A 193.145.138.24
+www.www.lfi 1200 IN CNAME alojamientolvs
+juridicas 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+juridicas 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+infopar.dis 1200 IN A 193.145.147.145
+intras.cicei 1200 IN CNAME funiber
+sinf 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+sinf 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+cartman.ctm 1200 IN CNAME cartman2.teleco
+ecdl-campus 1200 IN CNAME ecdl
+pilev.iusiani 1200 IN CNAME serv13pub.iusiani
+printuse.iuma 1200 IN CNAME azor.iuma
+mysql_otras.alm 1200 IN CNAME mysql-cv-otras1.alm
+www.plandeempleo 1200 IN CNAME correo.fulp
+acceda 1200 IN CNAME bibacceda01
+itsc2014.ciber 1200 IN CNAME l4moreno.ciber
+bdigital 1200 IN CNAME bdigital.biblioteca
+www.jornadafinanciacion 1200 IN CNAME webfulp.fulp
+POL-IUCTCPUB-RC1.red 1200 IN A 193.145.155.236
+8ExchangeDDV 1200 IN A 193.145.138.83
+webdav2 1200 IN CNAME alojamiento2
+mailman.iuma 1200 IN CNAME tafira.iuma
+l4moreno.ciber 1200 IN A 193.145.155.227
+bibmdc 1200 IN CNAME bibcontentdm
+medusa.teleco 1200 IN A 193.145.145.17
+SERVICIOSEXTERNOS-HSRP.red 1200 IN A 193.145.155.1
+galdar2014.ciber 1200 IN CNAME l4moreno.ciber
+c219.teleco 1200 IN A 193.145.145.41
+clusterwebpre1 1200 IN CNAME clusterwebpre1.lvs
+clusterwebpre2 1200 IN CNAME clusterwebpre2.lvs
+artenaraweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+gsa2 1200 IN A 193.145.138.67
+documents.ibpria2011 1200 IN CNAME serv61.iusiani
+cicei 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+cicei 1200 IN A 193.145.141.24
+cicei 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+nmysqlin.alm 1200 IN CNAME nmysql1.alm
+unity-main.telip 1200 IN CNAME unity-main.sic
+pcm.dis 1200 IN A 193.145.147.32
+ulpnet2.ibn 1200 IN A 195.53.11.8
+grey 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+sergiosolbesferri 1200 IN CNAME alojamientolvs
+san-switch3.sic 1200 IN CNAME san-brocade3.sic
+Rstudio.iusiani 1200 IN CNAME node004.iusiani
+neuronal.iusiani 1200 IN CNAME ces01.iusiani
+en.iuma 1200 IN CNAME arco.iuma
+router.idetic 1200 IN A 193.145.143.7
+www.dbbf2 1200 IN CNAME alojamiento2
+multimedia.cicei 1200 IN CNAME funiber
+redus 1200 IN CNAME osl
+osl 1200 IN A 193.145.155.4
+osl 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+FWUSI-RC4.red 1200 IN A 193.145.128.38
+etsitlaptop.teleco 1200 IN A 193.145.145.84
+alojamientolvs 1200 IN A 193.145.138.190
+www.fcafd 1200 IN CNAME alojamientolvs
+webmeeting.cead 1200 IN A 193.145.155.119
+cisco-ulpnet2-salto.red 1200 IN A 172.20.0.254
+www.sigca 1200 IN CNAME alojamientolvs
+rdsi.teleco 1200 IN A 193.145.145.71
+nulpnet.gestion 1200 IN A 193.145.135.10
+ramonycajal 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ramonycajal 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+live.catedratelefonica 1200 IN A 188.138.32.240
+ulpgesdesa02 1200 IN CNAME oracledesa02-vip
+adsl2-ext 1200 IN A 217.126.29.38
+ldapbc 1200 IN CNAME webservices-lvs
+www.planempleo 1200 IN CNAME correo.fulp
+bibacceda-desa 1200 IN A 193.145.138.129
+www.practicasuniversidades 1200 IN CNAME alojamientolvs
+eurocast2015.fulp 1200 IN CNAME webfulp2.fulp
+eiiconline 1200 IN CNAME lp2.redes.name.
+web2 1200 IN CNAME clusterweb1
+modem3.idetic 1200 IN CNAME pol154.idetic
+novellpruebas.sitie 1200 IN A 193.145.155.182
+control.ibpria2011 1200 IN CNAME serv61.iusiani
+etsit.teleco 1200 IN A 193.145.145.74
+617264570.estudiantes 1200 IN CNAME domains.live.com.
+adjuntos 1200 IN CNAME nlistas1
+www.nuevoifc 1200 IN CNAME lp2.redes.name.
+sit2 1200 IN CNAME alojamiento2
+Rob-xterm1.dis 1200 IN A 193.145.147.15
+SERVICIOSEXTERNOS4-RC5.red 1200 IN A 193.145.153.60
+correo.ibn 1200 IN A 195.53.11.13
+ns702g 1200 IN CNAME nas-cge012-alm.alm
+video.teleco 1200 IN A 193.145.145.83
+tienda 1200 IN CNAME tiendaulpgc01
+www.tell 1200 IN CNAME lp2.redes.name.
+control.control.eurogen2013 1200 IN CNAME serv61.iusiani
+smfn 1200 IN CNAME deza.sic
+choices 1200 IN CNAME alojamientolvs
+www.XIVruepep 1200 IN CNAME lp2.redes.name.
+www.gedlc 1200 IN CNAME protos.dis
+fibaamericas.cead 1200 IN CNAME fibaamericasreferees.cead
+bde2g-vip.sic 1200 IN CNAME ulpges2g.sic
+empresa.descentroempleo.fulp 1200 IN CNAME webfulp.fulp
+printers.iuma 1200 IN CNAME azor.iuma
+infovia 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+infovia 1200 IN A 193.145.141.35
+infovia 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+1200 IN MX 10 infovia
+biologia 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+biologia 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+portaCCS 1200 IN A 1.1.1.7
+otros01 1200 IN CNAME ulpges1g.sic
+webmail.empresariales 1200 IN CNAME prueba.empresariales
+otros03 1200 IN CNAME ulpges3g.sic
+otros04 1200 IN CNAME ulpges4g.sic
+licencias1 1200 IN CNAME licencias1.sic
+dell15.dma 1200 IN CNAME pccc-dma-15.dma
+GESTION-RC1 1200 IN A 193.145.135.2
+comciencia.dis 1200 IN CNAME neurociencia.dis
+tuxpan.teleco 1200 IN A 193.145.145.108
+abio.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ticnwi 1200 IN CNAME nwi-desa
+web-mon-ext 1200 IN A 193.145.138.210
+practicascurriculares 1200 IN CNAME webfulp.fulp
+pmo 1200 IN CNAME alojamientolvs
+www.wifi 1200 IN CNAME alojamientolvs
+gruposcud 1200 IN CNAME alojamientolvs
+www.spdc 1200 IN CNAME alojamientolvs
+livecatedratelefonica 1200 IN A 188.138.32.240
+www.iwobi 1200 IN CNAME alojamientolvs
+iusiani 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+iusiani 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+EMP-D2-1-videoconf.empresariales 1200 IN A 193.145.143.226
+www.correo 1200 IN CNAME correo-lvs.gestion
+semaca.fulp 1200 IN CNAME webfulp.fulp
+semai14.sitie 1200 IN CNAME edilc21.sitie
+www.fccjj 1200 IN CNAME nalojamiento
+www.softwarelibre2 1200 IN CNAME alojamiento2
+uniwiki 1200 IN CNAME osl
+SERVICIOSEXTERNOS2-RC2.red 1200 IN A 193.145.155.195
+SIC-PUB-HSRP.red 1200 IN A 193.145.134.1
+streaming0101.cead 1200 IN CNAME streaming01.cead
+redmasi 1200 IN CNAME dinamizadores.fulp
+www.gestionacademica 1200 IN CNAME cluster-web-ldap
+iberspeech2014 1200 IN CNAME alojamientolvs
+smc.gi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+smc.gi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.fccs2 1200 IN CNAME nalojamiento
+tv-ulpgc-priv 1200 IN CNAME tv-ulpgc-priv.granja
+ldapws 1200 IN CNAME webservices-lvs
+smtp 1200 IN A 193.145.138.51
+mercurio 1200 IN CNAME smtp1.gestion
+www.dca.iusiani 1200 IN CNAME dca01.iusiani
+radius1 1200 IN A 193.145.136.200
+radius2 1200 IN A 193.145.138.160
+wwwp1.editorial.cda 1200 IN CNAME exchangeG1.sic
+www.aceg2 1200 IN CNAME alojamiento2
+helicoid.iuma 1200 IN CNAME dain.iuma
+grabadorpatogenos.taliarte 1200 IN A 193.145.136.12
+nagios-old 1200 IN A 193.145.135.9
+tx140.ticulpgc 1200 IN A 193.145.154.73
+www.fcee2 1200 IN CNAME alojamiento2
+www.psicologiadeporte 1200 IN CNAME lp2.redes.name.
+sasrv.vet 1200 IN A 193.145.156.146
+intelserver.dis 1200 IN A 193.145.147.139
+videoconfserver2 1200 IN A 193.145.138.114
+servicios 1200 IN CNAME alojamientolvs
+tecnicoa2 1200 IN CNAME soporte02
+tecnicoa3 1200 IN CNAME Sistemas015
+tecnicoa4 1200 IN CNAME soporte19.sic
+tecnicoa5 1200 IN CNAME soporte05.sic
+desabuateigh 1200 IN CNAME alojamientolvs
+departamentos 1200 IN CNAME alojamientolvs
+tecnicob1 1200 IN CNAME soporte06
+tecnicob2 1200 IN CNAME soporte07.sic
+tecnicob3 1200 IN CNAME soporte08
+tecnicob4 1200 IN CNAME soporte09.sic
+tecnicob5 1200 IN CNAME soporte10
+tecnicoc1 1200 IN CNAME soporte11
+tecnicoc2 1200 IN CNAME soporte66
+tecnicoc3 1200 IN CNAME soporte64pc
+tecnicoc4 1200 IN CNAME soporte04.sic
+tecnicoc5 1200 IN CNAME Alfonso-aulas
+www.sprl 1200 IN CNAME alojamientolvs
+CCBB-CCBBPUB-F214 1200 IN A 193.145.155.245
+wwwp1.editorial.dca 1200 IN CNAME exchangeG1.sic
+wwwp1.www.umiv 1200 IN CNAME exchangeG1.sic
+seritel.teleco 1200 IN A 193.145.145.134
+www.iuctc 1200 IN CNAME www.ciber
+SC780269.teleco 1200 IN A 193.145.145.25
+wwwp1.sos2000 1200 IN CNAME exchangeG1.sic
+idefix.dis 1200 IN CNAME dis234zh.dis
+serv80pub.iusiani 1200 IN A 193.145.154.35
+recuperatepronto.fulp 1200 IN CNAME webfulp.fulp
+ING-ARCPUB-RC1.red 1200 IN A 193.145.143.107
+ws.www.ibpria2011 1200 IN CNAME serv61.iusiani
+control.www.eurogen2013 1200 IN CNAME serv61.iusiani
+www.arbitros2 1200 IN CNAME arbitros2
+termo10 1200 IN CNAME alojamientolvs
+www.ojsspdc 1200 IN CNAME lp2.redes.name.
+gic.dsc 1200 IN CNAME masdache.teleco
+www.www.pipe.fulp 1200 IN CNAME dinamizadores.fulp
+avisos_parada 1200 IN CNAME alojamientolvs
+galdarweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.tlcsc 1200 IN CNAME lp2.redes.name.
+ctm.teleco 1200 IN CNAME rasca
+CWDM-ING.red 1200 IN A 172.30.10.2
+otrs-mysql 1200 IN A 193.145.138.148
+paquirin.sic 1200 IN CNAME pc-frivera.sic
+tecnicod1 1200 IN CNAME soporte000
+testsergio2.nalojamiento1 1200 IN CNAME nalojamiento
+serv91.iusiani 1200 IN A 193.145.154.21
+intranet2.iuma 1200 IN CNAME tecen.iuma
+Winki.teleco 1200 IN A 193.145.145.10
+IUMAPUB-RC1.red 1200 IN A 193.145.147.65
+webcam 1200 IN CNAME webdesa2
+wikialuas 1200 IN CNAME alojamientolvs
+stc.iuma 1200 IN CNAME tecen.iuma
+pcchavanel.teleco 1200 IN A 193.145.145.36
+sprl 1200 IN CNAME alojamientolvs
+etsit 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+etsit 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+atlanticdevils 1200 IN CNAME alojamientolvs
+redloca 1200 IN CNAME lp2.redes.name.
+www.olenkabolivar 1200 IN CNAME alojamientolvs
+nuevocorreo 1200 IN CNAME outlook.office365.com.
+otrs2 1200 IN A 193.145.138.144
+euitt 1200 IN CNAME alojamientolvs
+moya.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.encuestaobservatorio.planempleo 1200 IN CNAME webfulp.fulp
+biocon 1200 IN CNAME lp2.redes.name.
+sth.iuma 1200 IN CNAME tango.iuma
+www.oceanoxxi 1200 IN CNAME serv61.iusiani
+cv_moodlegc 1200 IN CNAME teleformacion
+SERVICIOSEXTERNOS3-RC4.red 1200 IN A 193.145.155.126
+gestorturistico.fulp 1200 IN CNAME webfulp.fulp
+cv-telepresencial 1200 IN CNAME telepresencial-lvs.gestion
+bibacceda01 1200 IN A 193.145.138.35
+triton.dis 1200 IN A 193.145.147.22
+1200 IN A 193.145.147.44
+nas_correo 1200 IN CNAME nas-cge0.sic
+webdav 1200 IN CNAME alojamientolvs
+www.campussostenible2 1200 IN CNAME alojamiento2
+www.auladecine2 1200 IN CNAME alojamiento2
+diea.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ns.ibn 1200 IN A 193.145.138.98
+Exchange.gestion 1200 IN A 193.145.138.54
+empresariales.empresariales 1200 IN A 193.145.143.233
+radius 1200 IN A 193.145.138.117
+ull2 1200 IN A 193.145.155.197
+pulga.idetic 1200 IN CNAME pol002.idetic
+www.csocial2 1200 IN CNAME alojamiento2
+ws.forums.ibpria2011 1200 IN CNAME serv61.iusiani
+mantis 1200 IN A 193.145.153.8
+pcsvideo 1200 IN A 193.145.128.234
+www.www.eldigital 1200 IN CNAME alojamientolvs
+escalon 1200 IN A 193.145.130.10
+wwwp1.www.auladecine 1200 IN CNAME exchangeG1.sic
+desruta.fulp 1200 IN CNAME correo.fulp
+ctim.dis 1200 IN CNAME amiserver.dis
+www.calidad 1200 IN CNAME alojamientolvs
+gestconv 1200 IN A 193.145.138.123
+bdcv1 1200 IN CNAME bdcv1.sic
+bdcv2 1200 IN CNAME bdcv2.sic
+hfdvl 1200 IN CNAME lp2.redes.name.
+www.pyc 1200 IN CNAME cluster-web-ldap
+www.ecoaqua 1200 IN CNAME lp2.redes.name.
+www.iuibs 1200 IN CNAME alojamientolvs
+archicad.sic 1200 IN CNAME licencias1.sic
+638177360.doctorandos 1200 IN CNAME domains.live.com.
+f112.ccbb 1200 IN A 193.145.155.39
+dca01.iusiani 1200 IN A 193.145.154.11
+dell18.dma 1200 IN CNAME pccc-dma-18.dma
+gps-pabad.sitie 1200 IN A 193.145.155.183
+investigacion.pruebas 1200 IN CNAME tx140.ticulpgc
+www.umiv2 1200 IN CNAME alojamiento2
+www.geoportal 1200 IN CNAME geoportal.biblioteca
+www.proyectosinnovadores.fulp 1200 IN CNAME webfulp.fulp
+www.unetba 1200 IN CNAME webfulp.fulp
+webservicesdesa 1200 IN CNAME oracle-p
+san-switch4.sic 1200 IN CNAME san-brocade4.sic
+dell17.dma 1200 IN CNAME pccc-dma-17.dma
+SERVICIOSEXTERNOS-RC2.red 1200 IN A 193.145.155.3
+acciones 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+acciones 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+serv07.iusiani 1200 IN A 193.145.154.9
+gias720.dis 1200 IN CNAME mozart.dis
+www.departamentos2 1200 IN CNAME alojamiento2
+video-eite.teleco 1200 IN A 193.145.145.35
+bioges 1200 IN CNAME alojamientolvs
+msoid.aaaa 1200 IN CNAME clientconfig.microsoftonline-p.net.
+smtp3-old 1200 IN A 193.145.138.64
+www.biblioteca 1200 IN CNAME alojamientolvs
+www.administraciones 1200 IN CNAME cluster-web-ldap
+aplicadesa 1200 IN CNAME oracle-p
+www.ceicanarias 1200 IN CNAME alojamientolvs
+pcvideoconf.dma 1200 IN A 193.145.155.164
+GESTION-HSRP 1200 IN A 193.145.135.1
+sias2.iusiani 1200 IN CNAME serv06.iusiani
+gofte 1200 IN CNAME lp2.redes.name.
+etgtd.fulp 1200 IN CNAME webfulp.fulp
+semanaciencia 1200 IN CNAME webfulp.fulp
+cluster.teleco 1200 IN A 193.145.145.109
+rpdi-form 1200 IN A 193.145.138.77
+auladecine 1200 IN A 134.213.156.51
+espaciosweb 1200 IN CNAME lp2.redes.name.
+firgas.etgtd.fulp 1200 IN CNAME webfulp.fulp
+njable 1200 IN A 193.145.138.142
+mailhost.iuma 1200 IN CNAME tafira.iuma
+fw-gestion.red 1200 IN A 172.20.2.142
+cody.dis 1200 IN CNAME tip.dis
+loghost.iuma 1200 IN CNAME tecen.iuma
+ExchangeDDVt3 1200 IN A 193.145.138.93
+ExchangeDDVT8 1200 IN A 193.145.138.74
+lmpt.teleco 1200 IN A 193.145.145.38
+ntp.iuma 1200 IN CNAME uga.iuma
+transparencia 1200 IN CNAME alojamientolvs
+pparaninfo2.rectorado 1200 IN A 193.145.128.235
+www.personal 1200 IN CNAME cluster-web-ldap
+SERVICIOSEXTERNOS-RC1.red 1200 IN A 193.145.155.2
+aseol01 1200 IN CNAME ediz31x32.sitie
+ClusterDDV.gestion 1200 IN A 193.145.138.53
+www.nwikisi 1200 IN CNAME lp2.redes.name.
+aguayro.gestion 1200 IN CNAME correo-lvs.gestion
+jail1.dis 1200 IN A 193.145.147.156
+cv-teleformacion 1200 IN CNAME cv-teleformacion-bal
+elecciones2007 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+elecciones2007 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+docfi.dis 1200 IN A 193.145.147.43
+rio1.iuma 1200 IN CNAME tazo.iuma
+streaming02.cead 1200 IN A 193.145.155.68
+serv_proyfi.dis 1200 IN CNAME servproyfi.dis
+tell.dis 1200 IN A 193.145.147.149
+webcam-granja 1200 IN CNAME webcam-granja.era
+svpn 1200 IN A 193.145.135.30
+jcgf 1200 IN CNAME alojamientolvs
+ws.crm.ibpria2011 1200 IN CNAME serv61.iusiani
+australian.cicei 1200 IN CNAME funiber
+SERVICIOSEXTERNOS2-RC3.red 1200 IN A 193.145.155.205
+foresmac 1200 IN CNAME alojamientolvs
+vinn05 1200 IN CNAME iva
+cv-teletrabajo 1200 IN A 193.145.138.21
+ftp.iuma 1200 IN CNAME svext.iuma
+eportafolios 1200 IN CNAME mahara
+gccampus.empresariales 1200 IN A 193.145.143.241
+nuevoconsejosocial 1200 IN CNAME lp2.redes.name.
+bizet.dis 1200 IN A 193.145.147.161
+HUMANIDADESPUB-HSRP.red 1200 IN A 193.145.155.209
+webmail.iuma 1200 IN CNAME clio.iuma
+pmobeta.fulp 1200 IN CNAME webfulp.fulp
+octave.ccbb 1200 IN CNAME preciemar.ccbb
+fw-seguridad.red 1200 IN A 172.20.2.114
+freenas.idetic 1200 IN CNAME pol096.idetic
+fenix.dis 1200 IN A 193.145.147.41
+new1 1200 IN A 193.145.135.250
+l4moodle.ciber 1200 IN A 193.145.155.228
+www.exposiciones2 1200 IN CNAME alojamiento2
+host2.rictest 1200 IN CNAME rictest
+proyectosinvestigacion.fulp 1200 IN CNAME webfulp2.fulp
+usuariosypermisos2 1200 IN CNAME alojamiento2
+cocoon 1200 IN MX 10 polaris
+1200 IN MX 20 polaris.cicei.com.
+1200 IN MX 30 correo.cicei.com.
+1200 IN MX 40 funiber.cicei.com.
+google490eadd1bc2d41b.sdi 1200 IN CNAME GOOGLE.com.
+aseol01.sitie 1200 IN CNAME ediz31x32.sitie
+www.campusvirtual 1200 IN CNAME cluster-web-ldap
+www2.dis 1200 IN CNAME serdis.dis
+gestconv-pre 1200 IN A 193.145.138.106
+ojsspdc 1200 IN CNAME lp2.redes.name.
+bea 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.sef 1200 IN CNAME cluster-web-ldap
+edulpgc 1200 IN CNAME alojamientolvs
+idestur.cicei 1200 IN CNAME funiber
+dis237cc.dis 1200 IN A 193.145.147.144
+guia.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.iunat 1200 IN CNAME alojamientolvs
+tajinaste.dis 1200 IN A 193.145.147.153
+correo.cead 1200 IN A 193.145.155.203
+www.atlantida 1200 IN CNAME atlantida.teleco
+POL-CICEIPUB-HSRP.red 1200 IN A 193.145.141.1
+www.iatext 1200 IN CNAME iatext.weebly.com.
+moyaweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+portchun.ccs 1200 IN A 1.1.1.12
+polaris2 1200 IN A 195.53.10.2
+correo.ctim 1200 IN CNAME alojamientolvs
+mysql-aloj 1200 IN CNAME mysql-aloj1
+pcmiranda.teleco 1200 IN A 193.145.145.161
+www2.dsc 1200 IN CNAME nalojamiento
+webfulp.fulp 1200 IN A 193.145.143.71
+testsergio9.nalojamiento1 1200 IN CNAME nalojamiento
+SERVICIOSEXTERNOS4-RC3.red 1200 IN A 193.145.153.61
+asesoriafiscal 1200 IN CNAME alojamientolvs
+intermedia 1200 IN CNAME alojamientolvs
+dellcos 1200 IN CNAME alojamientolvs
+mysql_telepresencial_1314.alm 1200 IN CNAME bdcv1.alm
+wikisi 1200 IN A 193.145.138.6
+webmail.juridicas 1200 IN CNAME prueba.empresariales
+gestioncuentascorreo 1200 IN CNAME clustercorreo1.lvs
+www.catecso 1200 IN CNAME lp2.redes.name.
+www2.fccjj 1200 IN CNAME alojamientolvs
+webmailold.iuma 1200 IN CNAME svext2.iuma
+www.francais 1200 IN CNAME alojamientolvs
+jabber 1200 IN CNAME ns4
+evoice 1200 IN CNAME evoice.teleco
+www.ciber 1200 IN A 193.145.155.231
+hp4015x.dma 1200 IN CNAME hp4015p2.dma
+host1.rictest 1200 IN CNAME rictest
+control.crm.ibpria2011 1200 IN CNAME serv61.iusiani
+bibcontentdm 1200 IN A 193.145.138.18
+yoelapp.iusiani 1200 IN CNAME node004.iusiani
+www.gestortfteiic 1200 IN CNAME lp2.redes.name.
+Penelopeglamour.dis 1200 IN CNAME dis236fq.dis
+artemisat 1200 IN CNAME lp2.redes.name.
+365 1200 IN TXT "MS=ms14868596"
+www.audiovisuales 1200 IN CNAME cluster-web-ldap
+ulpgesdesa01 1200 IN CNAME oracledesa01-vip
+Pcpruebas.red 1200 IN A 195.53.11.12
+osl-new 1200 IN A 193.145.155.210
+www.atlantida.teleco 1200 IN CNAME atlantida.teleco
+testsergio4.nalojamiento1 1200 IN CNAME nalojamiento
+SERVICIOSEXTERNOS3-HSRP.red 1200 IN A 193.145.155.113
+gestor-remedy-p 1200 IN CNAME remedy2.sic
+GESTION-RC2 1200 IN A 193.145.135.3
+GESTION-RC3 1200 IN A 193.145.135.253
+GESTION-RC4 1200 IN A 193.145.135.254
+correoweb 1200 IN CNAME correo-lvs.gestion
+www.cicei 1200 IN CNAME buque
+SERVICIOSEXTERNOS3-RC5.red 1200 IN A 193.145.155.121
+fibaeurope-d2.cead 1200 IN CNAME beachsoccer
+component.www.eurogen2013 1200 IN CNAME serv61.iusiani
+wwwp1.www.wifi 1200 IN CNAME exchangeG1.sic
+testsergio3.nalojamiento1 1200 IN CNAME nalojamiento
+sias.iusiani 1200 IN CNAME serv07.iusiani
+iescampusserv.iusiani 1200 IN CNAME serv12.iusiani
+svext.iuma 1200 IN A 193.145.147.70
+protos.dis 1200 IN A 193.145.147.19
+repositorio 1200 IN CNAME bibacceda01
+wwwp1.www.masters 1200 IN CNAME exchangeG1.sic
+wwwp1.www.aceg 1200 IN CNAME exchangeG1.sic
+www.dqui2 1200 IN CNAME nalojamiento
+doycag 1200 IN CNAME lp2.redes.name.
+tramita 1200 IN A 193.145.138.11
+cmenaportatil 1200 IN A 1.1.1.11
+dsrip 1200 IN CNAME dsrip.sic
+RouterCore1-giga.red 1200 IN A 172.20.1.2
+cype.sic 1200 IN CNAME licencias1.sic
+calidad 1200 IN CNAME alojamientolvs
+service.iuma 1200 IN CNAME svext.iuma
+deepfreeze 1200 IN CNAME sicaulas1.sic
+propio.dis 1200 IN CNAME dis343cgp.dis
+moodle 1200 IN CNAME moodle.gestion
+garajonay.dis 1200 IN CNAME dis342jsp.dis
+moodle13.iusiani 1200 IN CNAME serv13pub.iusiani
+ecoaqua 1200 IN CNAME lp2.redes.name.
+pda-alvaro.teleco 1200 IN A 193.145.145.30
+panda01.idetic 1200 IN CNAME pol125.idetic
+scenic01.dma 1200 IN CNAME pccc-dma-10.dma
+www.cidia 1200 IN CNAME alojamientolvs
+ldap2.lvs 1200 IN CNAME ldap2
+www.iusiani 1200 IN CNAME serv01.iusiani
+impresora.dit 1200 IN CNAME fotocopiadora-dit.teleco
+web2000 1200 IN CNAME cluster-web-ldap
+mambo.iuma 1200 IN CNAME svext.iuma
+correo.gestion 1200 IN CNAME correo-lvs.gestion
+juno.iuma 1200 IN A 193.145.147.66
+webservices-lvs 1200 IN A 193.145.138.250
+dguard02.sic 1200 IN CNAME dguard02
+clusteralumnos 1200 IN CNAME alumnos
+gradotest 1200 IN A 193.145.138.89
+vinn30 1200 IN CNAME bscw
+sist-g1-pruebas1 1200 IN CNAME sist-g1-pruebas
+xn--laspalmeos-09a 1200 IN A 193.145.138.190
+hp2.idetic 1200 IN CNAME pol120.idetic
+dispcb.teleco 1200 IN CNAME cic-old.teleco
+webbooking.iuma 1200 IN CNAME hosting1ext.iuma
+ldap4.lvs 1200 IN CNAME ldap4
+www.auladeidiomas 1200 IN CNAME webfulp.fulp
+posgrados 1200 IN CNAME alojamientolvs
+seleccion.taliarte 1200 IN A 193.145.136.8
+control.wcbt 1200 IN CNAME serv61.iusiani
+urchin7 1200 IN A 193.145.138.84
+www.esccri 1200 IN CNAME alojamientolvs
+SERVICIOSEXTERNOS-RC3.red 1200 IN A 193.145.155.13
+biblioteca22 1200 IN CNAME alojamiento2
+gedlc 1200 IN CNAME protos.dis
+www.jornadaemprendeduria 1200 IN CNAME webfulp.fulp
+wwwp1.biblioteca 1200 IN CNAME exchangeG1.sic
+www.umiv 1200 IN CNAME alojamientolvs
+www.www.taller.fulp 1200 IN CNAME dinamizadores.fulp
+RouterCore-HSRP-giga.red 1200 IN A 172.20.1.1
+duc.tic 1200 IN CNAME tx140.ticulpgc
+masdache.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+masdache.teleco 1200 IN A 193.145.145.204
+masdache.teleco 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+sos2000 1200 IN CNAME cluster-web-ldap
+videoconffp.magisterio 1200 IN A 193.145.155.218
+ull1 1200 IN A 193.145.155.196
+CCBB-AULARIOPUB-HSRP.red 1200 IN A 193.145.155.33
+serv78pub.iusiani 1200 IN A 193.145.154.34
+dataware1 1200 IN CNAME ulpges3g.sic
+dataware2 1200 IN CNAME ulpges2g.sic
+micv-old 1200 IN A 193.145.138.34
+www.tdi 1200 IN CNAME correo.fulp
+bvoz1.sic 1200 IN CNAME bvoz1.telip
+radius-nuevo 1200 IN CNAME cluster-web-ldap
+ns2.ibn 1200 IN A 195.53.11.9
+usuariotelip 1200 IN CNAME alojamientolvs
+vcie 1200 IN CNAME alojamientolvs
+www.semiv 1200 IN CNAME alojamientolvs
+afedulpgc 1200 IN CNAME lp2.redes.name.
+nwikisi 1200 IN CNAME lp2.redes.name.
+desarrolloempleo.fulp 1200 IN CNAME webfulp2.fulp
+router01.idetic 1200 IN CNAME router.idetic
+aplicaciones11 1200 IN A 193.145.138.135
+triton1.dis 1200 IN A 193.145.147.44
+www.nocheemprendedor.fulp 1200 IN CNAME webfulp.fulp
+descfc2012.fulp 1200 IN CNAME webfulp.fulp
+www.iuma 1200 IN CNAME svext.iuma
+nasdsi.iuma 1200 IN A 193.145.147.90
+www.phishing 1200 IN CNAME websic
+portfolio.oldredinamiza.fulp 1200 IN CNAME vt.fulp
+www.banmac 1200 IN CNAME alojamientolvs
+www.remoto 1200 IN CNAME webdesa2
+roc07.iusiani 1200 IN A 193.145.154.28
+www.soi 1200 IN CNAME cluster-web-ldap
+jail2.dis 1200 IN A 193.145.147.162
+titulospropios-desa 1200 IN CNAME gestionproyectos-desa
+vpn01 1200 IN A 193.145.135.20
+www.wifi2 1200 IN CNAME alojamiento2
+etutor 1200 IN CNAME videoconfserver2
+www.ludotecaecocultural 1200 IN CNAME cluster-web-ldap
+urchin 1200 IN CNAME bdigital.biblioteca
+www.vest 1200 IN CNAME cluster-web-ldap
+ProyCoopTrans.teleco 1200 IN A 193.145.145.42
+micv-pre 1200 IN CNAME micvpre
+www.prometeo 1200 IN CNAME cluster-web-ldap
+www.iutm 1200 IN CNAME cartman.ctm
+www.centros2 1200 IN CNAME alojamiento2
+www.creartuempresa.fulp 1200 IN CNAME webfulp.fulp
+iuctc 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+asalgado 1200 IN CNAME alojamientolvs
+adsl1-ext 1200 IN A 217.126.29.35
+authwifi 1200 IN CNAME nagios2
+tamc.fulp 1200 IN CNAME webfulp2.fulp
+nas1.idetic 1200 IN CNAME pol144.idetic
+jable 1200 IN CNAME njable
+SERVICIOSEXTERNOS2-RC4.red 1200 IN A 193.145.155.206
+www.tarha 1200 IN CNAME lp2.redes.name.
+www.respuestaeficaz 1200 IN CNAME alojamientolvs
+vipl5.dis 1200 IN A 193.145.147.29
+www.webs2 1200 IN CNAME alojamiento2
+ldapwebservices 1200 IN CNAME webservices-lvs
+www.seconomicofinanciero 1200 IN CNAME cluster-web-ldap
+iuma 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ip4:193.145.138.121 ~all"
+iuma 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+1200 IN MX 10 smtp
+eui-old.dis 1200 IN A 193.145.147.49
+tlcsc 1200 IN CNAME lp2.redes.name.
+www.dispcb.teleco 1200 IN CNAME cic-old.teleco
+symfony25.pruebas 1200 IN CNAME tx140.ticulpgc
+wwwp1.www.agua 1200 IN CNAME exchangeG1.sic
+webRIC 1200 IN A 193.145.138.134
+correo3.gestion 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+hptitan 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+otrs-desa.sic 1200 IN A 1.1.1.18
+geminis.dma 1200 IN A 193.145.155.162
+galileo.dis 1200 IN A 193.145.147.16
+tamadaba 1200 IN CNAME tamadaba.biblioteca
+proxyweb.iuma 1200 IN CNAME svint.iuma
+teguise.gestion 1200 IN CNAME cluster-web-ldap
+clusterclustermysql 1200 IN CNAME cluster-web-ldap
+iutm 1200 IN MX 10 cartman2.teleco
+portalcorreotest 1200 IN CNAME portalcorreo
+patogenos.taliarte 1200 IN A 193.145.136.10
+tacho 1200 IN CNAME alojamientolvs
+catecso 1200 IN CNAME lp2.redes.name.
+websic 1200 IN A 193.145.138.49
+demojail.dis 1200 IN A 193.145.147.147
+mysql_telepresencial_0910 1200 IN CNAME clustermysql4
+www.cucid 1200 IN CNAME alojamientolvs
+nwi-desa 1200 IN A 193.145.138.133
+remedy 1200 IN CNAME remedy1.sic
+websdr-server.idetic 1200 IN CNAME pol039.idetic
+traductores 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+arq.cda 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+arq.cda 1200 IN A 193.145.155.18
+arq.cda 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+aplicaciones 1200 IN CNAME Aplica-temp.gestion
+mysql_teleformacion_1415.alm 1200 IN CNAME bdcv2.alm
+www.bibliotecas 1200 IN CNAME alojamientolvs
+otros02 1200 IN CNAME ulpges2g.sic
+sgi.vidi 1200 IN CNAME alojamientolvs
+pc-0499.dis 1200 IN CNAME dis349er.dis
+cataliza.fulp 1200 IN CNAME webfulp.fulp
+serv03.iusiani 1200 IN A 193.145.154.2
+webdis2.dis 1200 IN CNAME serdis.dis
+www.desarrolloweb 1200 IN CNAME cluster-web-ldap
+mm2.idetic 1200 IN CNAME pol156.idetic
+iade.cicei 1200 IN CNAME funiber
+wwwp1.www.bibliotecas 1200 IN CNAME exchangeG1.sic
+www.nuevoconfucio 1200 IN CNAME lp2.redes.name.
+cisco-vet-156-seg9.red 1200 IN A 193.145.156.145
+www.personales2 1200 IN CNAME alojamiento2
+web.tic 1200 IN CNAME tx140.ticulpgc
+mmc.iusiani 1200 IN CNAME mmc29.iusiani
+jovenesemprendedores 1200 IN CNAME webfulp.fulp
+www.emprendedores 1200 IN CNAME correo.fulp
+ctm.pruebas 1200 IN CNAME tx140.ticulpgc
+pcrdguez1.teleco 1200 IN A 193.145.145.139
+apc1.dis 1200 IN CNAME monitor.dis
+cafma.gi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+cafma.gi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+cea31.iusiani 1200 IN A 193.145.154.3
+sth2_demo.iuma 1200 IN CNAME vlsiserver.iuma
+www.neurociencia.dis 1200 IN CNAME neurociencia.dis
+open 1200 IN CNAME lp2.redes.name.
+mmathias 1200 IN CNAME alojamientolvs
+radiusserver1 1200 IN CNAME radiusserver1.lvs
+radiusserver2 1200 IN CNAME radiusserver2.lvs
+serv11.iusiani 1200 IN A 193.145.154.12
+otaeing.sitie 1200 IN A 193.145.155.178
+smtppub.iuma 1200 IN CNAME tafirapub.iuma
+dch 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dch 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+pc-itziar.teleco 1200 IN A 193.145.145.135
+eua2014.uiz 1200 IN CNAME alojamientolvs
+gestioncuentascorreo-desa 1200 IN CNAME clustercorreo1.lvs
+www.ayudaplanempresa 1200 IN CNAME webfulp.fulp
+evan.iuma 1200 IN A 193.145.147.67
+mysql_telepresencial_1213 1200 IN CNAME mysql-repositorio
+pepedocu 1200 IN A 193.145.144.11
+WHUM-EXTERIOR-BIBLIOTECA.gestionwireless 1200 IN A 192.168.11.48
+www.serviciostic2 1200 IN CNAME alojamiento2
+deza.sic 1200 IN A 193.145.138.185
+teror.dis 1200 IN CNAME gisc.dis
+archivografico2 1200 IN CNAME alojamientolvs
+aulaga.dis 1200 IN A 193.145.147.168
+clusterddv0.sic 1200 IN CNAME ClusterDDV0
+deportes 1200 IN CNAME alojamientolvs
+www.reduniversitariadesolidaridad 1200 IN CNAME alojamientolvs
+wwwp1.www.gi 1200 IN CNAME exchangeG1.sic
+fw-tic-ulpgc.red 1200 IN A 172.20.2.62
+ulpgcparati2 1200 IN CNAME alojamientolvs
+coolbotproject.dis 1200 IN CNAME new-mozart.dis
+lab2sun.ciber 1200 IN A 193.145.155.233
+www.wcbt 1200 IN CNAME serv61.iusiani
+www.dact2 1200 IN CNAME alojamiento2
+www.competitividadpyme 1200 IN CNAME webfulp.fulp
+serv13pub.iusiani 1200 IN A 193.145.154.27
+listas1 1200 IN CNAME listas1.lvs
+polyspan.iuma 1200 IN A 193.145.147.78
+conference.bentayga 1200 IN CNAME bentayga.biblioteca
+doctorados.pruebas 1200 IN CNAME tx140.ticulpgc
+www.foroempleo 1200 IN CNAME correo.fulp
+proyectosinnovadores.fulp 1200 IN CNAME webfulp.fulp
+ssodesa 1200 IN A 193.145.138.145
+www.competicioninternacional.fulp 1200 IN CNAME webfulp.fulp
+REC-FUNDACIONPUB-HSRP.red 1200 IN A 193.145.143.65
+galdar.ciicc 1200 IN A 193.145.144.243
+routercore1-salto.red 1200 IN A 172.20.0.2
+ldap3.lvs 1200 IN CNAME ldap3
+new-backup.buzon 1200 IN A 192.168.10.6
+servrectorado 1200 IN A 193.145.128.226
+ddv 1200 IN CNAME ClusterDDV.gestion
+sip.aaaa 1200 IN CNAME sipdir.online.lync.com.
+registro 1200 IN A 193.145.138.108
+mar2.iuma 1200 IN CNAME mirca.iuma
+clio.iuma 1200 IN A 193.145.147.87
+aguimes.sic.ulpgc.es 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+lrodriguez-pub.teleco 1200 IN A 193.145.145.223
+webvpn 1200 IN CNAME vpn0
+ibad.cicei 1200 IN CNAME funiber
+RAMS.iusiani 1200 IN CNAME node004.iusiani
+examene 1200 IN A 172.20.0.7
+modem1.idetic 1200 IN CNAME pol153.idetic
+mysql_telepresencial_1415 1200 IN CNAME bdcv1.sic
+streamingbu 1200 IN CNAME bustreaming
+gateway.teleco 1200 IN A 193.145.145.82
+norton.sitie 1200 IN CNAME ediz31x24.sitie
+clusterweb2 1200 IN CNAME clusterweb2.lvs
+clusterweb3 1200 IN CNAME clusterweb3.lvs
+clusterweb4 1200 IN CNAME clusterweb4.lvs
+SERVICIOSEXTERNOS-RC4.red 1200 IN A 193.145.155.14
+saberhacer 1200 IN CNAME alojamientolvs
+integratest 1200 IN CNAME nwi-desa
+borondon.teleco 1200 IN A 193.145.145.143
+prueba.eii 1200 IN A 193.145.138.10
+invpja 1200 IN CNAME lp2.redes.name.
+perfilcon 1200 IN A 193.145.138.201
+descargas-priv 1200 IN CNAME descargaspriv.sic
+www.vet2 1200 IN CNAME alojamiento2
+wcbt 1200 IN CNAME serv61.iusiani
+matricula 1200 IN CNAME Aplica-temp.gestion
+www.webs 1200 IN CNAME alojamientolvs
+www.congresos 1200 IN CNAME alojamientolvs
+fw-usi-interna 1200 IN A 193.145.130.1
+eduroam 1200 IN CNAME wikisi
+disco 1200 IN A 193.145.138.56
+cest 1200 IN CNAME lp2.redes.name.
+component.control.ibpria2011 1200 IN CNAME serv61.iusiani
+bvoz2.sic 1200 IN CNAME bvoz2.telip
+ficheros.pruebas 1200 IN CNAME tx140.ticulpgc
+fax.cda 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+fax.cda 1200 IN MX 10 arq.cda
+WHUM-SALON-ACTOS.gestionwireless 1200 IN A 192.168.11.50
+ccdis.dis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+ccdis.dis 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+emprende 1200 IN CNAME correo.fulp
+dinamizadores.fulp 1200 IN A 193.145.143.67
+videoconfgradolmiranda.sitie 1200 IN A 193.145.155.185
+dasa.teleco 1200 IN A 193.145.145.8
+pc-adelcampo3 1200 IN A 193.145.135.5
+convenios 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+convenios 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+wwwp1.www.softwarelibre 1200 IN CNAME exchangeG1.sic
+ciprianoabad 1200 IN CNAME alojamientolvs
+feynman.dis 1200 IN CNAME dis342gd.dis
+referees 1200 IN CNAME arbitros
+www.teleformacion2 1200 IN CNAME nalojamiento
+triton2.dis 1200 IN A 193.145.147.22
+ansite.biblioteca 1200 IN A 193.145.155.103
+sirio 1200 IN CNAME infovia
+slamd-client2 1200 IN CNAME cv-telepresencial-test2
+slamd-client3 1200 IN CNAME cv-telepresencial-test3
+slamd-client4 1200 IN CNAME cv-telepresencial-test4
+clusterldap 1200 IN CNAME cluster-web-ldap
+documents.oceanoxxi 1200 IN CNAME serv61.iusiani
+control.oceanoxxi 1200 IN CNAME serv61.iusiani
+misagualli.dis 1200 IN CNAME dis234gr.dis
+www.obras 1200 IN CNAME cluster-web-ldap
+mbx.sic 1200 IN CNAME mbx.telip
+pda-david.teleco 1200 IN A 193.145.145.24
+voa-doc 1200 IN CNAME aurora
+www.planjusticia.fulp 1200 IN CNAME correo.fulp
+www_anterior 1200 IN CNAME cluster-web-ldap
+gis.dis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+pctv.sitie 1200 IN A 193.145.155.184
+aaaa 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+aaaa 1200 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+revistavegueta 1200 IN CNAME alojamientolvs
+webs 1200 IN CNAME alojamientolvs
+portdit5.teleco 1200 IN A 193.145.145.9
+wwwp1.www.camel 1200 IN CNAME exchangeG1.sic
+pcemartel.teleco 1200 IN A 193.145.145.158
+eventos 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+bicho.dis 1200 IN A 193.145.147.58
+serv70pub.iusiani 1200 IN A 193.145.154.18
+descargasaulas 1200 IN A 193.145.155.131
+pccley.teleco 1200 IN A 193.145.145.130
+bde1g-vip.sic 1200 IN CNAME ulpges1g.sic
+webfulpcambio.fulp 1200 IN CNAME webfulpinterna.fulp
+webdesa 1200 IN A 193.145.138.88
+bartok.dis 1200 IN CNAME dis237ccp.dis
+www.aceg 1200 IN CNAME alojamientolvs
+linux-server.idetic 1200 IN CNAME router.idetic
+fisica 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+fisica 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+SERVICIOSEXTERNOS2-RC5.red 1200 IN A 193.145.155.201
+mysql_radius 1200 IN CNAME mysql-aloj1
+www.referees 1200 IN CNAME arbitros
+seg-wsus.gestion 1200 IN A 193.145.138.150
+latienda.sitie 1200 IN A 212.64.170.86
+ctm 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ctm 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+licencias1.aulas 1200 IN CNAME licencias1.sic
+ceicanarias 1200 IN CNAME alojamientolvs
+bentayga.gestion 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+amp.sic 1200 IN CNAME amp.red
+tell 1200 IN CNAME lp2.redes.name.
+dis221efp.dis 1200 IN A 193.145.147.10
+moodle.gestion 1200 IN TXT "v=spf1 a ~all"
+moodle.gestion 1200 IN A 193.145.138.50
+nuc04.idetic 1200 IN CNAME pol166.idetic
+desarrollocfc.fulp 1200 IN CNAME webfulp.fulp
+hp1.idetic 1200 IN CNAME pol101.idetic
+cisco-ulpnet-150.red 1200 IN A 193.145.150.1
+sitie 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+sitie 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+lord.teleco 1200 IN A 193.145.145.13
+www.lfi2 1200 IN CNAME alojamiento2
+mejorando 1200 IN CNAME lp2.redes.name.
+edevitalzh.dis 1200 IN A 193.145.147.12
+websdr.idetic 1200 IN CNAME router.idetic
+smtp2-salida 1200 IN TXT "v=spf1 a ~all"
+smtp2-salida 1200 IN A 193.145.136.216
+www.auladejazz 1200 IN CNAME alojamientolvs
+mahara 1200 IN A 193.145.138.70
+847215235.masters 1200 IN CNAME domains.live.com.
+adsl2.red 1200 IN A 172.20.0.202
+rt.cda 1200 IN CNAME tafira2.cda
+gestionproyectos-desa 1200 IN A 193.145.138.75
+ciber 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+ciber 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+corea.pruebas 1200 IN CNAME tx140.ticulpgc
+omeka 1200 IN A 193.145.138.30
+victor2 1200 IN CNAME alojamiento2
+siberio.teleco 1200 IN A 193.145.145.150
+wwwp1.www.tienda 1200 IN CNAME exchangeG1.sic
+dp2015.ciber 1200 IN CNAME l4moreno.ciber
+mysql_telepresencial_alm 1200 IN CNAME clustermysql3.alm
+posl.dis 1200 IN A 193.145.147.135
+cisco-ulpnet2-ibn.red 1200 IN A 195.53.11.3
+nelson.ibn 1200 IN A 195.53.11.60
+correoalu 1200 IN CNAME outlook.office365.com.
+www.cttoe 1200 IN CNAME lp2.redes.name.
+panda-hf.idetic 1200 IN CNAME pol068.idetic
+streaming01.cead 1200 IN A 193.145.155.204
+smtp5a 1200 IN CNAME smtp5
+smtp5b 1200 IN A 193.145.138.120
+smtp5c 1200 IN A 193.145.138.121
+smtp5d 1200 IN A 193.145.138.122
+www.dedu_old 1200 IN CNAME alojamientolvs
+autodiscover.iatext 1200 IN CNAME autodiscover.outlook.com.
+vpn0 1200 IN A 193.145.135.15
+vpn1 1200 IN A 193.145.135.16
+vpn2 1200 IN A 193.145.135.17
+serviciodeportes.pruebas 1200 IN CNAME tx140.ticulpgc
+subversion.iuma 1200 IN CNAME tirma.iuma
+autodiscover.fpct 1200 IN CNAME autodiscover.outlook.com.
+agaete.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.cursoshispanicos 1200 IN CNAME correo.fulp
+ulpges01 1200 IN A 193.145.136.202
+ulpges02 1200 IN A 193.145.136.203
+ulpges03 1200 IN A 193.145.136.204
+ulpges04 1200 IN A 193.145.136.205
+cache.ibn 1200 IN A 195.53.11.10
+ftp3aplica 1200 IN CNAME ns3
+pavon.teleco 1200 IN A 193.145.145.133
+lfi.gi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+lfi.gi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.vet 1200 IN CNAME alojamientolvs
+www.geomatica 1200 IN CNAME alojamientolvs
+catedraref 1200 IN CNAME lp2.redes.name.
+documents.wcbt 1200 IN CNAME serv61.iusiani
+nasb2000.ciber 1200 IN A 193.145.155.234
+papias 1200 IN A 193.145.138.36
+ivcongresoccm 1200 IN CNAME alojamientolvs
+videolan.dma 1200 IN A 193.145.155.165
+titulospropios 1200 IN CNAME alojamientolvs
+empresas 1200 IN CNAME correo.fulp
+www.afec 1200 IN CNAME alojamientolvs
+www.movilidad 1200 IN CNAME alojamientolvs
+salema.ciber 1200 IN CNAME nagle.ciber
+deswebfulp2.fulp 1200 IN CNAME webfulp2.fulp
+adfs 1200 IN CNAME portalcorreo
+pmo.fulp 1200 IN CNAME webfulp.fulp
+webpre 1200 IN A 193.145.138.22
+portcramirez.teleco 1200 IN A 193.145.145.168
+iga2010 1200 IN CNAME alojamientolvs
+papibib 1200 IN A 193.145.138.36
+bde3g.sic 1200 IN CNAME bde3g
+moxa03.idetic 1200 IN CNAME pol159.idetic
+Portatil-Despacho-15.humanidades 1200 IN A 193.145.155.211
+twikipub.iuma 1200 IN CNAME svext.iuma
+wwwp1.www.ccbb 1200 IN CNAME exchangeG1.sic
+oceanchem2.ccbb 1200 IN A 193.145.155.57
+bigcd1 1200 IN A 193.145.153.15
+www.canem2 1200 IN CNAME webfulp.fulp
+documents.eurogen2013 1200 IN CNAME serv61.iusiani
+rubytest.iuma 1200 IN CNAME hosting1ext.iuma
+www.idetic 1200 IN CNAME router.idetic
+vpnseas2.ccbb 1200 IN A 193.145.155.36
+avisos-parada 1200 IN CNAME alojamientolvs
+pruebasangel3 1200 IN A 1.1.1.17
+alfresco-gc 1200 IN A 193.145.138.124
+editorial.cda2 1200 IN CNAME alojamiento2
+accesocorreo 1200 IN CNAME alojamientolvs
+ddv-ddv 1200 IN CNAME Exchange.gestion
+ciicc 1200 IN A 193.145.144.244
+lord-cam1.teleco 1200 IN A 193.145.145.7
+www.agec 1200 IN CNAME cluster-web-ldap
+www.alm 1200 IN A 1.1.1.19
+routercore3-salto.red 1200 IN A 172.20.0.5
+www.rutasiete 1200 IN CNAME webfulp.fulp
+iem.cicei 1200 IN CNAME funiber
+micv2 1200 IN A 193.145.138.103
+l3pcjf.dis 1200 IN A 193.145.147.37
+es.iuma 1200 IN CNAME arco.iuma
+jupiter.iusiani 1200 IN CNAME serv03.iusiani
+videoreport.cead 1200 IN A 193.145.155.122
+bentayga.dis 1200 IN CNAME dis347jlp.dis
+sensor-granja 1200 IN CNAME ServSensor-1
+desmoodle.fulp 1200 IN CNAME webfulp2.fulp
+www.intranet.ctm 1200 IN CNAME mike.teleco
+POL-IDETICPUB-HSRP.red 1200 IN A 193.145.143.1
+croacia.dis 1200 IN A 193.145.147.137
+ff3 1200 IN CNAME nalojamiento
+desarrollobu 1200 IN CNAME alojamientolvs
+ex.iuma 1200 IN CNAME arco.iuma
+www.wmsm2015 1200 IN CNAME serv61.iusiani
+develop.ctim.dis 1200 IN CNAME amiserver.dis
+testdguard01 1200 IN CNAME testdguard01.sic
+www.cbm 1200 IN CNAME alojamientolvs
+pcpublico.ticulpgc 1200 IN A 193.145.154.71
+scenic03.dma 1200 IN CNAME pccc-dma-09.dma
+teror.etgtd.fulp 1200 IN CNAME webfulp.fulp
+desupiinnova.fulp 1200 IN CNAME webfulp.fulp
+www.espanolparaextranjeros 1200 IN CNAME correo.fulp
+teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+teleco 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+webpre1 1200 IN CNAME clusterwebpre1.lvs
+webpre2 1200 IN CNAME clusterwebpre2.lvs
+sit.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+sit.teleco 1200 IN A 193.145.145.45
+sit.teleco 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+presupuestos.tic 1200 IN CNAME tx140.ticulpgc
+TIC-ULPGCPUB-HSRP.red 1200 IN A 193.145.154.65
+www.cfi 1200 IN CNAME alojamientolvs
+HUMANIDADESPUB-RC1.red 1200 IN A 193.145.155.219
+www.red-mas-i 1200 IN CNAME correo.fulp
+doctoradoteg 1200 IN CNAME nalojamiento
+lord-cam2.teleco 1200 IN A 193.145.145.26
+ftp.copias.fulp 1200 IN CNAME gestdoc.fulp
+ixworkshopaccounting 1200 IN CNAME alojamientolvs
+innovaqua11.taliarte 1200 IN A 193.145.136.18
+iusiani.iusiani 1200 IN CNAME ius02.iusiani
+www.www.iuibs 1200 IN CNAME alojamientolvs
+laaldeaweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.agua 1200 IN CNAME alojamientolvs
+tomas2.sic 1200 IN A 193.145.155.21
+nmahara 1200 IN A 193.145.138.155
+trantor 1200 IN CNAME cicei
+www.dca 1200 IN CNAME cluster-web-ldap
+www.dcc 1200 IN CNAME cluster-web-ldap
+fibaeurope-d1.cead 1200 IN A 193.145.155.120
+www.dch 1200 IN CNAME lp2.redes.name.
+grey2 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+www.dde 1200 IN CNAME cluster-web-ldap
+soleaje.ccbb 1200 IN CNAME tindaya.ccbb
+clusterweb1.lvs 1200 IN CNAME clusterweb1
+airnet.teleco 1200 IN A 193.145.145.174
+fondohistorico.fulp 1200 IN CNAME webfulp.fulp
+www.dcegi2 1200 IN CNAME alojamiento2
+www.def 1200 IN CNAME alojamientolvs
+www.ddp 1200 IN CNAME cluster-web-ldap
+SERVICIOSEXTERNOS-RC5.red 1200 IN A 193.145.155.6
+www.daea 1200 IN CNAME alojamientolvs
+CIPTV.teleco 1200 IN A 193.145.145.39
+www.dfe 1200 IN CNAME alojamientolvs
+gestor-remedy 1200 IN CNAME remedy1.sic
+www.dfm 1200 IN CNAME alojamientolvs
+mm1.idetic 1200 IN CNAME pol155.idetic
+correo.fpct 1200 IN CNAME alojamientolvs
+tamadaba.biblioteca 1200 IN A 193.145.155.98
+ddv01.sic 1200 IN CNAME DDV01
+www.servicios2 1200 IN CNAME alojamiento2
+ulpnet4 1200 IN A 193.145.138.98
+www.dic 1200 IN CNAME cluster-web-ldap
+ovpn 1200 IN A 193.145.135.25
+www.die 1200 IN CNAME cluster-web-ldap
+www.dim 1200 IN CNAME alojamientolvs
+www.dip 1200 IN CNAME cluster-web-ldap
+www.dis 1200 IN CNAME webdis.dis
+www.dit 1200 IN CNAME dit.teleco
+www.moodle 1200 IN CNAME moodle.gestion
+www2.idetic 1200 IN CNAME router.idetic
+www.ctm 1200 IN CNAME cartman2.teleco
+bvoz3.sic 1200 IN CNAME bvoz3.telip
+www.vpdi 1200 IN CNAME alojamientolvs
+www.dma 1200 IN CNAME hipatia.dma
+www.dmc 1200 IN CNAME cluster-web-ldap
+viajesulpgc01 1200 IN A 193.145.138.149
+estudiantes 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+estudiantes 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+plataforma.redmasi 1200 IN CNAME dinamizadores.fulp
+krbslave.iuma 1200 IN CNAME masca.iuma
+mail 1200 IN MX 10 ASPMX.L.GOOGLE.com.
+1200 IN MX 20 ALT1.ASPMX.L.GOOGLE.com.
+1200 IN MX 20 ALT2.ASPMX.L.GOOGLE.com.
+1200 IN MX 30 ASPMX2.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX3.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX4.GOOGLEMAIL.com.
+1200 IN MX 30 ASPMX5.GOOGLEMAIL.com.
+redmacsa.fulp 1200 IN CNAME webfulp2.fulp
+domotica.dis 1200 IN A 193.145.147.28
+etutor-old.cead 1200 IN A 193.145.155.117
+accesibilidad.cicei 1200 IN CNAME funiber
+tarha 1200 IN CNAME lp2.redes.name.
+www.dps 1200 IN CNAME alojamientolvs
+clusterclusterldapg 1200 IN CNAME ldap2
+clusterclusterldapi 1200 IN CNAME ldap1
+live 1200 IN CNAME alojamientolvs
+fculp 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+www.ff2 1200 IN CNAME alojamientolvs
+www.eii 1200 IN CNAME eii
+iga2012 1200 IN CNAME alojamientolvs
+www.dsc 1200 IN CNAME alojamientolvs
+q115portatil.ccbb 1200 IN A 193.145.155.37
+www.comitepas 1200 IN CNAME alojamientolvs
+visitagrancanaria.fulp 1200 IN CNAME webfulp.fulp
+www.automatas.dis 1200 IN CNAME triton.dis
+agaete.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+mano 1200 IN CNAME cluster-web-ldap
+zabbix-seguridad 1200 IN CNAME zabbixseguridad
+wwwp1.www.centros 1200 IN CNAME exchangeG1.sic
+www.semanaciencia.fulp 1200 IN CNAME webfulp.fulp
+testdguard02 1200 IN CNAME testdguard02.sic
+polycomvideo 1200 IN A 193.145.141.9
+www.eldigital 1200 IN CNAME alojamientolvs
+autodiscover.fulp 1200 IN CNAME autodiscover.outlook.com.
+www.fcj 1200 IN CNAME cluster-web-ldap
+exposiciones 1200 IN CNAME alojamientolvs
+ftpactasssl2 1200 IN CNAME alojamiento2
+www.fcm 1200 IN CNAME alojamientolvs
+mi 1200 IN CNAME cluster-web-ldap
+geoportal.biblioteca 1200 IN A 193.145.155.41
+prueba-alias 1200 IN CNAME smtp1.gestion
+www.ibpria2011 1200 IN CNAME serv61.iusiani
+portdma2 1200 IN A 1.1.1.14
+maqs 1200 IN CNAME lp2.redes.name.
+remedy-p 1200 IN CNAME remedy2.sic
+jail4.dis 1200 IN A 193.145.147.165
+mysql_otras 1200 IN CNAME mysql-cv-otras1
+www.epidemiologia.vet 1200 IN CNAME sasrv.vet
+krbmaster.iuma 1200 IN CNAME uga.iuma
+www.ffp 1200 IN CNAME alojamientolvs
+www.fgh 1200 IN CNAME alojamientolvs
+baal 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+baal 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+fw-servext.red 1200 IN A 172.20.2.30
+serv10.iusiani 1200 IN A 193.145.154.19
+ARQ-ARQUITECTURAPUB-RC1.red 1200 IN A 193.145.155.27
+www.infisoc 1200 IN CNAME lp2.redes.name.
+otrs-desa 1200 IN A 193.145.138.95
+repositorio.iuma 1200 IN CNAME hosting1ext.iuma
+sharepoint 1200 IN CNAME alumnosulpgc.sharepoint.com.
+mdc2 1200 IN CNAME alojamientolvs
+www.gi2 1200 IN CNAME alojamiento2
+www.eui 1200 IN CNAME eii
+ulpnet.ibn 1200 IN CNAME ulpnet3.ibn
+carlos-fisica.ccbb 1200 IN A 193.145.155.243
+www.eup 1200 IN CNAME alojamientolvs
+www.eomar 1200 IN CNAME lp2.redes.name.
+tuno.teleco 1200 IN A 193.145.145.131
+cardiosen 1200 IN CNAME alojamientolvs
+copiavm.sic 1200 IN CNAME BackupAcronisVapp
+www.gem 1200 IN CNAME lp2.redes.name.
+aguayro 1200 IN CNAME correo-lvs.gestion
+dis107ar.dis 1200 IN A 193.145.147.31
+dis343cg.dis 1200 IN A 193.145.147.59
+deteleco 1200 IN CNAME alojamientolvs
+dain.iuma 1200 IN A 193.145.147.68
+www.exp 1200 IN CNAME lp2.redes.name.
+www.fv2 1200 IN CNAME alojamiento2
+www.www.ccbb 1200 IN CNAME cluster-web-ldap
+smtp.diea 1200 IN CNAME ghost.diea
+dis223jg.dis 1200 IN A 193.145.147.30
+capo.ccbb 1200 IN A 193.145.155.54
+wwwp1.www.semiv 1200 IN CNAME exchangeG1.sic
+descargas.sic 1200 IN CNAME descargas-pub
+aplica-temp 1200 IN CNAME Aplica-temp.gestion
+sneezy.dis 1200 IN A 193.145.147.24
+www.fti 1200 IN CNAME alojamientolvs
+www.jornadassolidarias 1200 IN CNAME cluster-web-ldap
+guiaweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.formacioncontinua 1200 IN CNAME webfulp.fulp
+adsl3.red 1200 IN A 172.20.0.203
+pesca.gi 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+pesca.gi 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+guigui.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+guigui.teleco 1200 IN A 193.145.145.148
+BIBGATEWAY01 1200 IN A 193.145.138.23
+Doce.ctm 1200 IN CNAME karl.ctm
+cudhd 1200 IN CNAME alojamientolvs
+cisco-islas-ccs.red 1200 IN A 172.20.1.50
+www.hes 1200 IN CNAME lp2.redes.name.
+ayudamail 1200 IN CNAME alojamientolvs
+ING-ARCPUB-HSRP.red 1200 IN A 193.145.143.97
+consolaip 1200 IN CNAME dsrip.sic
+adsl1.red 1200 IN A 172.20.0.201
+itinera.fulp 1200 IN CNAME webfulp.fulp
+ris3 1200 IN CNAME alojamientolvs
+www.cucid2 1200 IN CNAME alojamiento2
+www.fcafd2 1200 IN CNAME alojamiento2
+gisc.dis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+gisc.dis 1200 IN A 193.145.147.34
+gisc.dis 1200 IN MX 10 smtp
+sthold.iuma 1200 IN CNAME tecen.iuma
+www.gsr 1200 IN CNAME epi.teleco
+rpdi-pre 1200 IN A 193.145.138.29
+wwwp1.www.dact 1200 IN CNAME exchangeG1.sic
+centralitaip 1200 IN CNAME c-publisher.telip
+prueba-correo.sic.ulpgc.es 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+vpnseas1.ccbb 1200 IN A 193.145.155.35
+control.control.ibpria2011 1200 IN CNAME serv61.iusiani
+*.bibproxy 1200 IN A 193.145.138.9
+www.ana.iusiani 1200 IN CNAME dca01.iusiani
+correo.estudiantes 1200 IN CNAME alumnos
+www.ifc 1200 IN CNAME lp2.redes.name.
+alumnos 1200 IN TXT "v=spf1 include:outlook.com ~all"
+alumnos 1200 IN A 193.145.138.45
+alumnos 1200 IN MX 10 1608087948.mail.outlook.com.
+www.bcyt 1200 IN CNAME lp2.redes.name.
+xaguayro 1200 IN A 193.145.151.20
+www.catedraunescosalud 1200 IN CNAME alojamientolvs
+nagios2.ibn 1200 IN A 195.53.11.18
+nas.idetic 1200 IN CNAME pol144.idetic
+correo.fcafd 1200 IN CNAME correoief.sitie
+bdcv 1200 IN CNAME bdcv.sic
+workgroup.unetba 1200 IN CNAME webfulp.fulp
+www.sigca2 1200 IN CNAME alojamiento2
+arcgis.sic 1200 IN CNAME licencias1.sic
+www.iks 1200 IN CNAME alojamientolvs
+testredir 1200 IN CNAME websic
+slamd 1200 IN CNAME testpg.sic
+si 1200 IN MX 5 smtp
+mirapoint 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+www.jec 1200 IN CNAME cluster-web-ldap
+cisco-ulpnet-salto.red 1200 IN A 172.20.0.253
+ulpgcparati.pruebas 1200 IN CNAME tx140.ticulpgc
+tebadm 1200 IN CNAME lp2.redes.name.
+tafira3.empresariales 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+tafira3.empresariales 1200 IN A 193.145.143.230
+www3.eiic 1200 IN CNAME nalojamiento
+canariasmasquehoteles.iuma 1200 IN CNAME hosting1ext.iuma
+CCBB-CCBBPUB-HSRP.red 1200 IN A 193.145.155.49
+nadab 1200 IN MX 10 ulpgc.1.hurakan.dnsbl.rediris.es.
+1200 IN MX 20 ulpgc.2.hurakan.dnsbl.rediris.es.
+azure 1200 IN CNAME ulpgc.azurewebsites.net.
+oldserv.diea 1200 IN A 193.145.145.171
+wwwp1.www.congresos 1200 IN CNAME exchangeG1.sic
+laspalmenos 1200 IN CNAME alojamientolvs
+wwwp1.www.administraciones 1200 IN CNAME exchangeG1.sic
+POL-CIDIAPUB-HSRP.red 1200 IN A 193.145.155.65
+sabra 1200 IN A 193.145.141.11
+imap.iuma 1200 IN CNAME tafira.iuma
+componet.crm.ibpria2011 1200 IN CNAME serv61.iusiani
+smtp-bal 1200 IN A 193.145.138.51
+www.micv 1200 IN CNAME micv2
+www.residenciasuniversitarias 1200 IN CNAME webfulp.fulp
+biblioteca2 1200 IN CNAME alojamientolvs
+l3pymesnet.ciber 1200 IN A 193.145.155.88
+www.iva 1200 IN CNAME iva
+nteleformacion 1200 IN A 193.145.138.140
+ftp2.iuma 1200 IN CNAME hosting1ext.iuma
+aplicaciones3 1200 IN CNAME correo-lvs.gestion
+sinf.gestion 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+sinf.gestion 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+lectorcorreo 1200 IN A 193.145.138.40
+EMPVIDEOC.empresariales 1200 IN A 193.145.143.227
+bcyt 1200 IN CNAME lp2.redes.name.
+nuc03.idetic 1200 IN CNAME pol165.idetic
+www.masters 1200 IN CNAME cluster-web-ldap
+jornadasteologia 1200 IN CNAME serdis.dis
+picasst 1200 IN CNAME serv12.iusiani
+www.bibliotecas2 1200 IN CNAME alojamiento2
+wwwp1.www.cic.teleco 1200 IN CNAME exchangeG1.sic
+cea37.iusiani 1200 IN A 193.145.154.20
+www.gruposcud 1200 IN CNAME alojamientolvs
+SERVICIOSEXTERNOS3-RC2.red 1200 IN A 193.145.155.115
+www.sostenible 1200 IN CNAME alojamientolvs
+archivografico 1200 IN CNAME bibcontentdm
+bibliotecas 1200 IN CNAME alojamientolvs
+www.jsi 1200 IN CNAME cluster-web-ldap
+router-rediris-juniper-m10i.humanidades 1200 IN A 193.145.155.217
+dca.iusiani 1200 IN CNAME dca01.iusiani
+saladejuntas 1200 IN CNAME portatilrector.sede-wifi
+ldap_ws 1200 IN CNAME ns3
+testdguard02-vip.sic 1200 IN CNAME testdguard02-vip
+firgasweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.quimefa 1200 IN CNAME alojamientolvs
+mailprof 1200 IN CNAME smtp1.gestion
+prototipos.tic 1200 IN CNAME tx140.ticulpgc
+salvia.teleco 1200 IN A 193.145.145.90
+rt_eam_ib 1200 IN CNAME alojamientolvs
+becario-docu.sic 1200 IN A 193.145.155.130
+www.canatlantico 1200 IN CNAME alojamientolvs
+mysql_telepresencial_1415.alm 1200 IN CNAME bdcv1.alm
+mysql_teletrabajo 1200 IN CNAME mysql-cv-otras1
+empresa 1200 IN CNAME correo.fulp
+icucid.fulp 1200 IN CNAME webfulp.fulp
+ana18.dis 1200 IN CNAME dis349erp.dis
+taller.fulp 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+boreas.ccbb 1200 IN CNAME f213.ccbb
+ovmanager1 1200 IN A 193.145.138.78
+prueba 1200 IN A 193.145.141.6
+bdigital-old 1200 IN A 193.145.155.104
+www.bgtc 1200 IN CNAME lp2.redes.name.
+micv 1200 IN CNAME micv2
+teleformacion.gestion 1200 IN CNAME teleformacion
+www.mba 1200 IN CNAME webfulp.fulp
+igualdad 1200 IN CNAME alojamientolvs
+component.forums.ibpria2011 1200 IN CNAME serv61.iusiani
+dis224jf2.dis 1200 IN A 193.145.147.38
+www.catedracoitt.euitt 1200 IN CNAME alojamientolvs
+www.servicios 1200 IN CNAME alojamientolvs
+ftp2aplica 1200 IN CNAME ns3
+cv-otras 1200 IN CNAME notras
+dit.teleco 1200 IN A 193.145.145.163
+listas.innova 1200 IN MX 10 funiber.cicei.com.
+1200 IN MX 10 polaris
+1200 IN MX 30 correo.cicei.com.
+crm.ibpria2011 1200 IN CNAME serv61.iusiani
+SERVICIOSEXTERNOS2-HSRP.red 1200 IN A 193.145.155.193
+rac02-vip.sic 1200 IN CNAME rac02-virtual
+canarias.teleco 1200 IN A 193.145.145.172
+gcislaexperimental 1200 IN CNAME alojamientolvs
+biblioteca 1200 IN CNAME alojamientolvs
+dragonal.dis 1200 IN A 193.145.147.159
+blogsgestion.iuma 1200 IN CNAME bentor.iuma
+www.joseregidor 1200 IN CNAME alojamientolvs
+arb1 1200 IN A 193.145.155.118
+seminariogerencia.pruebas 1200 IN CNAME tx140.ticulpgc
+www.giha 1200 IN CNAME lp2.redes.name.
+cisco-HSRP-ibn.red 1200 IN A 195.53.11.50
+5IAU 1200 IN CNAME alojamientolvs
+cafetera.dma 1200 IN CNAME GEN809EC9.dma
+wwwp1.www.aulas 1200 IN CNAME exchangeG1.sic
+ingenio.ciicc 1200 IN A 193.145.144.252
+vc.empresariales 1200 IN A 193.145.143.232
+www.comunicacion 1200 IN CNAME cluster-web-ldap
+ti.cicei 1200 IN CNAME funiber
+www.etsit2 1200 IN CNAME alojamiento2
+webtest 1200 IN A 193.145.138.97
+bgtc 1200 IN CNAME lp2.redes.name.
+mar1.iuma 1200 IN CNAME mirca.iuma
+www.nutricion 1200 IN CNAME alojamientolvs
+residencias 1200 IN CNAME alojamientolvs
+www.observatoriodeempleo 1200 IN CNAME alojamientolvs
+licencias.aulas 1200 IN CNAME licencias1.sic
+doctorandos 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+doctorandos 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+REC-RECTORADOPUB-HSRP.red 1200 IN A 193.145.128.225
+bibmdc-old 1200 IN A 193.145.138.27
+infisoc 1200 IN CNAME lp2.redes.name.
+dell11.dma 1200 IN CNAME pccc-dma-11.dma
+otrospre01 1200 IN CNAME oracledesa01-vip
+otrospre02 1200 IN CNAME oracledesa02-vip
+webservices 1200 IN CNAME webservices-lvs
+daea 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+daea 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.ocw 1200 IN CNAME serv12.iusiani
+ddv02.sic 1200 IN CNAME DDV02
+www.innovacion 1200 IN CNAME correo.fulp
+aceraltos.iuma 1200 IN A 193.145.147.89
+www.acapde 1200 IN CNAME lp2.redes.name.
+jail5.dis 1200 IN A 193.145.147.166
+www.cbm2 1200 IN CNAME alojamiento2
+moodle.fulp 1200 IN CNAME webfulp.fulp
+dgeo.nalojamiento1 1200 IN CNAME nalojamiento
+wempres.empresariales 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+smtp3.gestion 1200 IN TXT "v=spf1 a ~all"
+www.psc.dis 1200 IN CNAME triton.dis
+pcmrodri.teleco 1200 IN A 193.145.145.128
+www.ccbb 1200 IN CNAME alojamientolvs
+tinki.teleco 1200 IN A 193.145.145.19
+discoric 1200 IN CNAME filesRIC
+bentayga.biblioteca 1200 IN A 193.145.155.100
+dmceg 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+proxyradius 1200 IN CNAME radius2
+eina.dis 1200 IN A 193.145.147.8
+cttoe 1200 IN CNAME lp2.redes.name.
+myleonardo.fulp 1200 IN CNAME webfulp2.fulp
+www.pct 1200 IN CNAME alojamientolvs
+nuevotides 1200 IN CNAME lp2.redes.name.
+arbitros 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+arbitros 1200 IN A 193.145.155.9
+arbitros 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+www.aulacreactiva.fulp 1200 IN CNAME webfulp.fulp
+stec-intersindicalcanarialaborales 1200 IN CNAME alojamientolvs
+cisco-ulpnet.ibn 1200 IN CNAME cisco-ulpnet2-ibn.red
+www.euitt2 1200 IN CNAME alojamiento2
+www.euitt3 1200 IN CNAME alojamiento2
+rac02-vip 1200 IN CNAME rac02-virtual
+www.nuevoeomar 1200 IN CNAME lp2.redes.name.
+labsopa.dis 1200 IN A 193.145.147.53
+wsn 1200 IN CNAME alojamientolvs
+control.eurogen2013 1200 IN CNAME serv61.iusiani
+zabbix 1200 IN CNAME nagios2
+bustreaming 1200 IN A 193.145.138.36
+correonuevo 1200 IN CNAME outlook.office365.com.
+filerepo.iuma 1200 IN CNAME hosting1int.iuma
+alfresco-pre 1200 IN A 193.145.138.39
+aulacreactiva.fulp 1200 IN CNAME webfulp.fulp
+demovpl.dis 1200 IN CNAME vpl.dis
+disco.sic 1200 IN CNAME disco
+correo 1200 IN CNAME correo-lvs.gestion
+tralimi 1200 IN CNAME lp2.redes.name.
+iwobi 1200 IN CNAME lp2.redes.name.
+Ser-AulaPosgrado.cda 1200 IN A 193.145.155.22
+www2 1200 IN CNAME www3
+www3 1200 IN A 193.145.138.146
+www4 1200 IN A 193.145.138.130
+www.www.seguridad 1200 IN CNAME alojamientolvs
+adsl4.red 1200 IN A 172.20.0.204
+1111 1200 IN CNAME mantis
+TIC-ULPGCPUB-RC1.red 1200 IN A 193.145.154.66
+ddv1t8.sic 1200 IN A 193.145.138.71
+capo 1200 IN CNAME capo.ccbb
+gulic2 1200 IN A 193.145.155.11
+gulic3 1200 IN A 193.145.155.12
+fcjs 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+clustercorreo1 1200 IN CNAME clustercorreo1.lvs
+clustercorreo4 1200 IN CNAME lectorcorreo
+iusa-srw.vet 1200 IN A 193.145.156.148
+laaldea.etgtd.fulp 1200 IN CNAME webfulp.fulp
+wavestreamers-sede 1200 IN A 193.145.128.232
+tindaya.ccbb 1200 IN A 193.145.155.50
+osl.sitie 1200 IN A 193.145.155.181
+micv3proxy 1200 IN A 193.145.138.28
+videoconf00.iusiani 1200 IN A 193.145.154.4
+gtbib 1200 IN A 193.145.138.68
+valleseco.etgtd.fulp 1200 IN CNAME webfulp.fulp
+www.semanaciencia 1200 IN CNAME webfulp.fulp
+CCBB-CCBBPUB-RC1.red 1200 IN A 193.145.155.59
+firmagrafica 1200 IN CNAME alojamientolvs
+ldapext 1200 IN CNAME webservices-lvs
+wg01-publica 1200 IN A 193.145.128.34
+bdigital.biblioteca 1200 IN A 193.145.153.12
+webcam-ing 1200 IN CNAME webcam-ing.era
+nmysqlin 1200 IN CNAME nmysql1
+aries.dma 1200 IN TXT "v=spf1 mx ptr ip4:193.145.138.8 ~all"
+soporte.iuma 1200 IN CNAME bentor.iuma
+pc-0513.dis 1200 IN CNAME dis150df.dis
+1234 1200 IN CNAME otrs
+recurso.tetra 1200 IN MX 5 smtp1.gestion
+1200 IN MX 10 tetra
+bori.teleco 1200 IN A 193.145.145.16
+www.usuarios 1200 IN CNAME ghs.googlehosted.com.
+evoice.teleco 1200 IN A 193.145.145.43
+www.ric 1200 IN CNAME webRIC
+ecdl.cicei 1200 IN CNAME funiber
+Alma.teleco 1200 IN A 193.145.145.14
+teleformacion 1200 IN A 193.145.138.33
+VidConfDAEA.idetic 1200 IN A 193.145.143.231
+campusRAMS.iusiani 1200 IN CNAME node004.iusiani
+nagios 1200 IN CNAME nagios2
+www.sar 1200 IN CNAME cluster-web-ldap
+biblioguias 1200 IN CNAME libguides.com.
+camara-ip-aula107.ccbb 1200 IN A 193.145.155.52
+matlab.sic 1200 IN CNAME licencias1.sic
+www.innova2011.fulp 1200 IN CNAME webfulp.fulp
+mahara-rhel6 1200 IN A 193.145.138.86
+dpivis 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+streaming0203.cead 1200 IN CNAME streaming02.cead
+EMP-EA16-DOC.empresariales 1200 IN A 193.145.143.228
+ldaptest 1200 IN A 193.145.138.59
+cead 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+seguridad 1200 IN CNAME alojamientolvs
+fihpc1.dis 1200 IN A 193.145.147.141
+mysql-horde 1200 IN CNAME mysql-cv-otras1
+masters 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+masters 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+dis224jf.dis 1200 IN A 193.145.147.39
+ldap.ibn 1200 IN A 195.53.11.15
+www.sie 1200 IN CNAME cluster-web-ldap
+xmercurio 1200 IN A 193.145.151.5
+prueba5.iusiani 1200 IN CNAME node004.iusiani
+ip-phone44 1200 IN A 1.1.1.5
+www.cest 1200 IN CNAME lp2.redes.name.
+sinergia 1200 IN CNAME alojamientolvs
+desarrollocucid.fulp 1200 IN CNAME webfulp.fulp
+ns702g.sic 1200 IN CNAME nas-cge012-alm.alm
+domotica.iusiani 1200 IN CNAME serv13pub.iusiani
+news 1200 IN CNAME polaris
+ulpgc365 1200 IN TXT "MS=ms51665391"
+dis102mm.dis 1200 IN A 193.145.147.14
+www.smc 1200 IN CNAME cluster-web-ldap
+www.girma 1200 IN CNAME f112.ccbb
+cv-repositorio1 1200 IN CNAME cv-repositorio1.lvs
+cv-repositorio2 1200 IN CNAME cv-repositorio2.lvs
+osl.dis 1200 IN A 193.145.147.57
+cisco-ulpnet-ibn.red 1200 IN A 195.53.11.2
+disldap.dis 1200 IN CNAME zentyal.dis
+rio4.iuma 1200 IN CNAME tazo.iuma
+mcculloch.ciber 1200 IN A 193.145.155.232
+becarios 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+becarios 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+clusterbvoz.sic 1200 IN CNAME clusterbvoz.telip
+ffhu-servercd2 1200 IN A 193.145.144.7
+dis222pm.dis 1200 IN A 193.145.147.7
+wwwp1.www.eldigital 1200 IN CNAME exchangeG1.sic
+www.sto 1200 IN CNAME cluster-web-ldap
+arucas.etgtd.fulp 1200 IN CNAME webfulp.fulp
+serv08.iusiani 1200 IN A 193.145.154.10
+respuestaeficaz 1200 IN CNAME alojamientolvs
+forums.ibpria2011 1200 IN CNAME serv61.iusiani
+salto 1200 IN CNAME servseguridad3
+tilde.dis 1200 IN A 193.145.147.157
+dqui 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dqui 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+bibwp 1200 IN A 193.145.138.52
+aspen.sic 1200 IN CNAME licencias1.sic
+desarrollo 1200 IN CNAME oracle-p
+buconvert 1200 IN A 193.145.138.69
+mysql_teleformacion_1213 1200 IN CNAME mysql-repositorio
+sensor-ing 1200 IN CNAME ServSensor-2
+nfs-server 1200 IN CNAME webdesa2
+aulamanuelaleman.dis 1200 IN CNAME ama.dis
+bde2g.sic 1200 IN CNAME bde2g
+wavelan-elsa.teleco 1200 IN A 193.145.145.11
+eref2010 1200 IN CNAME eref2010.cead
+ami.dis 1200 IN CNAME amiserver.dis
+L6PZ7DPXMNMM.usuarios 1200 IN CNAME gv-MYHEJGED5AVYHM.dv.googlehosted.com.
+pcpub.ticulpgc 1200 IN A 193.145.154.72
+comotu.dis 1200 IN CNAME dis236fqp.dis
+starteam 1200 IN CNAME starteam.sic
+ansite 1200 IN CNAME ansite.biblioteca
+grabadorreproductores.taliarte 1200 IN A 193.145.136.13
+funiber 1200 IN A 193.145.141.7
+dezatfg 1200 IN CNAME deza.sic
+campusvirtual 1200 IN CNAME cluster-web-ldap
+migracionhege.pruebas 1200 IN CNAME tx140.ticulpgc
+asuarezport.teleco 1200 IN A 193.145.145.29
+drupal7.tic 1200 IN CNAME tx140.ticulpgc
+arco.iuma 1200 IN A 193.145.147.69
+ghost.diea 1200 IN A 193.145.145.32
+jvhc2013 1200 IN CNAME alojamientolvs
+cisco-ulpnet-ibn3.red 1200 IN A 195.53.10.1
+mysql_teleformacion_1314 1200 IN CNAME bdcv2.sic
+arucasweb.etgtd.fulp 1200 IN CNAME webfulp.fulp
+beagle01.idetic 1200 IN CNAME pol168.idetic
+testfulp.fulp 1200 IN CNAME webfulp.fulp
+cemited.fulp 1200 IN CNAME webfulp2.fulp
+testredinamiza.fulp 1200 IN CNAME webfulp.fulp
+citaprevia 1200 IN CNAME tramita
+guia.ciicc 1200 IN A 193.145.144.250
+gestion.iuma 1200 IN CNAME bentor.iuma
+serv60pub.iusiani 1200 IN A 193.145.154.5
+imp01 1200 IN A 193.145.138.118
+absys01OLD 1200 IN A 193.145.138.20
+www.agua2 1200 IN CNAME alojamiento2
+desarrolloicucid.fulp 1200 IN CNAME webfulp.fulp
+intranet.ctm 1200 IN A 193.145.145.33
+www.serviciostic 1200 IN CNAME alojamientolvs
+ldapdesa 1200 IN CNAME oracle-p
+servidor.cidia 1200 IN A 193.145.155.66
+www.dact 1200 IN CNAME alojamientolvs
+mozart.dis 1200 IN A 193.145.147.20
+dspace 1200 IN CNAME bdigital.biblioteca
+srvimpW.teleco 1200 IN A 193.145.145.165
+hp4050.dma 1200 IN CNAME hp2015.dma
+www.emprende 1200 IN CNAME webfulp.fulp
+aplicapre 1200 IN CNAME oracle-p
+w311.sitie 1200 IN A 1.1.1.6
+mysql_teleformacion_1415 1200 IN CNAME bdcv2.sic
+testnwi 1200 IN CNAME nwi-desa
+eomar 1200 IN CNAME lp2.redes.name.
+videoconfD.ciber 1200 IN A 193.145.155.226
+sopa.dis 1200 IN CNAME labsopa.dis
+seviri.teleco 1200 IN A 193.145.145.40
+gestioncalidad 1200 IN A 193.145.138.76
+www.catedra-coitt.euitt 1200 IN CNAME alojamientolvs
+wwwp1.www.desarrolloweb 1200 IN CNAME exchangeG1.sic
+foresmac-canarias.teleco 1200 IN A 193.145.145.27
+www.dbbf 1200 IN CNAME alojamientolvs
+gestortfteiic 1200 IN CNAME lp2.redes.name.
+control.www.ibpria2011 1200 IN CNAME serv61.iusiani
+www.canem 1200 IN CNAME webfulp.fulp
+wwwp1.www.cda 1200 IN CNAME exchangeG1.sic
+www.exposiciones 1200 IN CNAME alojamientolvs
+doramas.dis 1200 IN A 193.145.147.33
+rac02 1200 IN CNAME rac02.sic
+quimica 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+quimica 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+smtpserver 1200 IN CNAME smtp5
+dell12.dma 1200 IN CNAME pccc-dma-12.dma
+nuc02.idetic 1200 IN CNAME pol151.idetic
+crs_rac 1200 IN CNAME crsrac
+autorizacionn 1200 IN CNAME alojamiento2
+symfonypreprod.pruebas 1200 IN CNAME tx140.ticulpgc
+jail6.dis 1200 IN A 193.145.147.167
+jcruz 1200 IN CNAME alojamientolvs
+remedy1 1200 IN CNAME remedy1.sic
+ftpactasssl 1200 IN CNAME alojamientolvs
+lamaqele 1200 IN CNAME ediz31x35.sitie
+sfp.iuma 1200 IN CNAME tecen.iuma
+wwwp1.www.cic 1200 IN CNAME exchangeG1.sic
+mysql-otras 1200 IN CNAME mysql-cv-otras1
+villas.iusiani 1200 IN CNAME ana19.iusiani
+wnet.teleco 1200 IN A 193.145.145.167
+www.dbio 1200 IN CNAME cluster-web-ldap
+web-iusa.vet 1200 IN A 193.145.136.25
+www.dch2 1200 IN CNAME nalojamiento
+portasoporte.cda 1200 IN A 193.145.155.23
+innova 1200 IN CNAME funiber
+dact 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dact 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+planeta.dis 1200 IN CNAME serdis.dis
+bscw 1200 IN A 193.145.141.94
+www.tienda 1200 IN CNAME tiendaulpgc01
+licencias01 1200 IN CNAME licencias01.sic
+registro2 1200 IN CNAME registro2.lvs
+sala-grados-videconf.empresariales 1200 IN A 193.145.143.235
+regleta-ip.dma 1200 IN A 193.145.155.163
+www.catedraperezgaldos 1200 IN CNAME alojamientolvs
+www.teletrabajo 1200 IN CNAME cv-teletrabajo
+fw-wifi-pruebas.red 1200 IN A 172.20.2.94
+dasic 1200 IN CNAME dasic001.sic
+neumann.teleco 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+cluster-web-ldap 1200 IN A 193.145.138.12
+dbbf 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dbbf 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+linuxsandoval.teleco 1200 IN A 193.145.145.137
+www.dcjb 1200 IN CNAME cluster-web-ldap
+cisco-ulpnet.red 1200 IN A 172.20.1.253
+index2 1200 IN CNAME alojamiento2
+etc.fulp 1200 IN CNAME webfulp.fulp
+fw-servint.red 1200 IN A 172.20.2.46
+vpl.dis 1200 IN A 193.145.147.130
+www.parranda 1200 IN CNAME alojamientolvs
+www.auladecine 1200 IN CNAME auladecine
+ftp1aplica 1200 IN CNAME ns4
+desarrollofct2 1200 IN CNAME alojamientolvs
+www.ambientalcampus2 1200 IN CNAME alojamiento2
+fax.iuma 1200 IN CNAME yaiza.iuma
+open2 1200 IN CNAME alojamientolvs
+www.dcmq 1200 IN CNAME cluster-web-ldap
+ldap1.lvs 1200 IN CNAME ldap1
+clustermysql3.ibn 1200 IN A 195.53.11.5
+autodiscover.correolive 1200 IN CNAME autodiscover.outlook.com.
+preciemar.ccbb 1200 IN A 193.145.155.34
+l1carmac.ciber 1200 IN A 193.145.155.85
+testdguard01-vip.sic 1200 IN CNAME testdguard01-vip
+cv-repositorio-old 1200 IN A 193.145.138.79
+dbio 1200 IN TXT "v=spf1 mx ptr ip4:193.145.136.215  ip4:193.145.136.216  ip4:193.145.138.5 ~all"
+dbio 1200 IN MX 5 mx01.puc.rediris.es.
+1200 IN MX 5 mx02.puc.rediris.es.
+mike.teleco 1200 IN A 193.145.145.33
+editorial.dca2 1200 IN CNAME alojamiento2
+thebb.teleco 1200 IN A 193.145.145.46
+wwwp1.www.serviciostic 1200 IN CNAME exchangeG1.sic
+dcan 1200 IN CNAME bibcontentdm
+index 1200 IN CNAME alojamientolvs
+epi.teleco 1200 IN A 193.145.145.203
+wwwp1.www.campussostenible 1200 IN CNAME exchangeG1.sic
+auladeidiomas 1200 IN CNAME webfulp.fulp

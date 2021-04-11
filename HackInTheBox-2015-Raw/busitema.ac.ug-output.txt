@@ -1,0 +1,31 @@
+@ 21600 IN SOA ns1.cfi.co.ug. pnanvuma.cfi.co.ug. 2013092719 10800 3600 604800 21600
+@ 21600 IN NS ns1.cfi.co.ug.
+21600 IN NS ns2.cfi.co.ug.
+21600 IN NS ns3.cfi.co.ug.
+21600 IN NS ns4.cfi.co.ug.
+@ 21600 IN A 108.168.172.179
+@ 21600 IN MX 10 mailhost01.cfi.co.ug.
+webmail 21600 IN A 174.36.245.66
+webmail.fin 21600 IN A 174.36.245.66
+adm 21600 IN A 108.168.172.179
+adm 21600 IN MX 10 mailhost01.cfi.co.ug.
+webmail.ami 21600 IN A 174.36.245.66
+webmail.acadreg 21600 IN A 174.36.245.66
+webmail.dos 21600 IN A 174.36.245.66
+eng 21600 IN MX 10 mailhost01.cfi.co.ug.
+lib 21600 IN MX 10 mailhost01.cfi.co.ug.
+sci 21600 IN MX 10 mailhost01.cfi.co.ug.
+test 21600 IN A 108.168.172.179
+webmail.proc 21600 IN A 174.36.245.66
+acadreg 21600 IN MX 10 mailhost01.cfi.co.ug.
+proc 21600 IN MX 10 mailhost01.cfi.co.ug.
+www 21600 IN A 108.168.172.179
+webmail.adm 21600 IN A 174.36.245.66
+guild 21600 IN A 108.168.172.179
+fin 21600 IN MX 10 mailhost01.cfi.co.ug.
+ami 21600 IN A 174.36.245.66
+ami 21600 IN MX 10 mailhost01.cfi.co.ug.
+webmail.eng 21600 IN A 174.36.245.66
+webmail.lib 21600 IN A 174.36.245.66
+dos 21600 IN MX 10 mailhost01.cfi.co.ug.
+webmail.sci 21600 IN A 174.36.245.66

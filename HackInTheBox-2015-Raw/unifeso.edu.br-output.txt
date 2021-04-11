@@ -1,0 +1,33 @@
+@ 10800 IN SOA dns admin 2015040292 10800 3600 604800 3600
+@ 10800 IN TXT "v=spf1 include:_spf.google.com ~all"
+@ 10800 IN MX 1 aspmx.l.google.com.
+10800 IN MX 5 alt1.aspmx.l.google.com.
+10800 IN MX 5 alt2.aspmx.l.google.com.
+10800 IN MX 10 aspmx2.googlemail.com.
+10800 IN MX 10 aspmx3.googlemail.com.
+@ 10800 IN A 201.23.207.40
+@ 10800 IN NS dns
+10800 IN NS dns2
+corporativo 10800 IN A 201.23.207.36
+10800 IN A 187.16.241.9
+bibonline 10800 IN A 201.23.207.43
+10800 IN A 187.16.241.13
+proarte 10800 IN A 201.23.207.40
+10800 IN A 187.16.241.10
+mail 10800 IN CNAME ghs.google.com.
+ftp 10800 IN A 201.23.207.40
+ead 10800 IN A 201.23.207.42
+10800 IN A 187.16.241.12
+dns2 10800 IN A 187.16.241.4
+localhost 10800 IN A 127.0.0.1
+abreportas 10800 IN A 201.23.207.40
+dns 10800 IN A 201.23.207.45
+servicos 10800 IN A 201.23.207.34
+ava 10800 IN A 201.23.207.42
+10800 IN A 187.16.241.12
+webservicemyedumob 10800 IN A 201.23.207.41
+ceso 10800 IN A 201.23.207.40
+netaplw 10800 IN A 201.23.207.39
+10800 IN A 187.16.241.8
+www 10800 IN A 201.23.207.40
+10800 IN A 187.16.241.10

@@ -1,0 +1,119 @@
+@ 90 IN SOA sguns01 root 2015022401 10800 3600 604800 86400
+@ 90 IN NS sguns01
+90 IN NS sguns02
+@ 90 IN MX 10 spamfw
+@ 90 IN TXT "v=spf1 +ip4:202.17.120.0/23 +ip4:211.128.78.224/27 +ip4:220.110.175.128/28 ?all"
+@ 90 IN SPF "v=spf1 +ip4:202.17.120.0/23 +ip4:211.128.78.224/27 +ip4:220.110.175.128/28 ?all"
+densan 90 IN A 202.17.120.42
+stream 90 IN A 202.17.120.63
+sip.migration 90 IN CNAME sipdir.online.lync.com.
+gyouseki 90 IN A 202.17.120.23
+res 90 IN A 133.242.202.78
+quake 90 IN A 202.17.121.120
+lyncdiscover.e 90 IN CNAME webdir.online.lync.com.
+sord-svr 90 IN A 202.17.120.43
+_sipfederationtls._tcp.migration 90 IN SRV 100 1 5061 sipfed.online.lync.com.
+* 90 IN MX 10 spamfw
+cpkiso 90 IN A 202.17.121.86
+_sip._tls.migration 90 IN SRV 100 1 443 sipdir.online.lync.com.
+elearning 90 IN A 202.17.121.97
+lib 60 IN A 202.17.120.32
+www 90 IN CNAME sguwwwe
+tokapci 90 IN A 202.17.121.73
+ten3 90 IN A 202.17.121.101
+ten4 90 IN A 202.17.121.107
+sz07lnxi.ims 90 IN A 220.110.175.134
+e 3600 IN MX 0 e-sgu-ac-jp.mail.protection.outlook.com.
+e 90 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+su10 90 IN A 202.17.121.85
+migration 3600 IN MX 0 migration-sgu-ac-jp.mail.protection.outlook.com.
+migration 90 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+library 60 IN A 202.17.120.30
+ipet 90 IN A 202.17.121.103
+smtp 90 IN A 202.17.120.9
+90 IN A 211.128.78.229
+kusur 90 IN A 202.17.121.100
+msoid.e 90 IN CNAME clientconfig.microsoftonline-p.net.
+webmail 90 IN A 202.17.120.10
+90 IN A 211.128.78.230
+webmail 90 IN MX 10 spamfw
+ext-web.edu 90 IN CNAME sguwwwe
+ks1 90 IN A 202.17.121.108
+geo 90 IN A 202.17.121.89
+moodlelanguagehub 90 IN CNAME sgumdl
+qaform 90 IN A 202.17.120.27
+ten 90 IN A 202.17.121.99
+moodle 90 IN CNAME sgumdl
+sns2013 90 IN CNAME sgusns
+sns2014 90 IN A 202.17.120.54
+sns2014 3600 IN MX 10 sgusns
+sns2015 90 IN A 202.17.120.54
+sns2015 3600 IN MX 10 sgusns
+s-infobase 90 IN A 202.17.121.78
+supportdesk 90 IN A 202.17.120.45
+xanadu 90 IN A 202.17.121.104
+sgu-net 90 IN A 202.17.120.22
+call 90 IN A 202.17.121.93
+polycom 90 IN A 202.17.121.126
+sgujrr 90 IN A 202.17.120.28
+dialect 90 IN A 202.17.121.109
+streaming 90 IN A 202.17.120.62
+sguwwwe 90 IN A 202.17.120.8
+90 IN A 211.128.78.228
+bfc 90 IN A 202.17.120.44
+lyncdiscover.migration 90 IN CNAME webdir.online.lync.com.
+terra 90 IN A 202.17.121.94
+sip.e 90 IN CNAME sipdir.online.lync.com.
+com2 90 IN A 202.17.121.102
+watns 90 IN A 211.128.78.240
+spamfw 90 IN A 202.17.120.12
+90 IN A 211.128.78.232
+csesc 90 IN A 202.17.120.41
+hisworks 90 IN A 202.17.121.131
+sinfo 90 IN A 202.17.121.59
+idp 90 IN CNAME edu14idp
+autodiscover.e 90 IN CNAME autodiscover.outlook.com.
+edu14idp 90 IN A 202.17.120.21
+jinbunweb 90 IN A 202.17.121.80
+syllabus 90 IN A 220.110.175.135
+sgumdl 90 IN A 202.17.120.65
+ept2 90 IN A 202.17.121.98
+ept3 90 IN A 202.17.121.96
+ept4 90 IN A 202.17.121.95
+www.res 90 IN A 133.242.202.78
+sguns01 90 IN A 202.17.120.6
+sguns02 90 IN A 211.128.78.226
+englishforum 90 IN A 202.17.121.79
+evaluation 3600 IN TXT "MS=ms35107848"
+sgulrep 90 IN A 202.17.120.34
+autodiscover.migration 90 IN CNAME autodiscover.outlook.com.
+gra-career 90 IN A 202.17.120.48
+syaren-polycom 90 IN A 202.17.121.127
+ims 90 IN MX 10 spamfw
+ims 90 IN TXT "v=spf1 +ip4:202.17.120.0/23 +ip4:211.128.78.224/27 +ip4:220.110.175.128/28 ?all"
+ims 90 IN SPF "v=spf1 +ip4:202.17.120.0/23 +ip4:211.128.78.224/27 +ip4:220.110.175.128/28 ?all"
+bsfw 90 IN A 202.17.120.13
+msoid.migration 90 IN CNAME clientconfig.microsoftonline-p.net.
+sgubc1 90 IN A 202.17.121.106
+sgubc2 90 IN A 202.17.121.111
+sgusns 90 IN A 202.17.120.54
+newportal 90 IN A 220.110.175.133
+com 90 IN A 202.17.121.90
+_sipfederationtls._tcp.e 90 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls.e 90 IN SRV 100 1 443 sipdir.online.lync.com.
+sinfo-sys 90 IN A 202.17.121.114
+pop 90 IN CNAME webmail
+earth 90 IN CNAME webmail
+ebc 90 IN A 123.50.205.231
+jinbun 90 IN A 202.17.121.132
+menas 90 IN A 202.17.121.110
+sz08lnxi.ims 90 IN A 220.110.175.141
+wr2 90 IN A 202.17.120.26
+stream2 90 IN A 202.17.120.64
+m-share 90 IN A 202.17.120.61
+sgunc 90 IN A 202.17.120.40
+sgumm 90 IN A 202.17.120.66
+portal 60 IN A 220.110.175.132
+spss.edu 90 IN A 202.17.120.25
+career 90 IN A 202.17.120.47
+sordsvr 90 IN A 202.17.121.81

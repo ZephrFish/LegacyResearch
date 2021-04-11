@@ -1,0 +1,34 @@
+@ 3600 IN SOA @ root 2015054561 3600 5000 1209600 3600
+@ 3600 IN A 200.14.52.194
+@ 3600 IN NS ns
+@ 3600 IN MX 10 mx
+edusoc 3600 IN A 200.14.52.202
+rect 3600 IN MX 20 mx
+sms.jabber 3600 IN CNAME jabber
+derecho 3600 IN MX 20 mx
+economia 3600 IN MX 20 mx
+jabber 3600 IN A 200.14.52.193
+web 3600 IN A 200.14.52.201
+sma 3600 IN MX 10 mx
+elgeneralisimo 3600 IN CNAME www
+cfisica 3600 IN MX 20 mx
+conference.jabber 3600 IN CNAME jabber
+out 3600 IN CNAME www
+agronomia 3600 IN MX 20 mx
+cegic 3600 IN MX 20 mx
+turismo 3600 IN MX 20 mx
+search.jabber 3600 IN CNAME jabber
+mx 3600 IN A 200.14.52.196
+www 3600 IN A 200.14.52.202
+ingenieria 3600 IN MX 20 mx
+ns 3600 IN A 200.14.52.194
+navegacion 3600 IN A 200.14.52.202
+correo 3600 IN CNAME mx
+cum 3600 IN MX 20 mx
+correo.sma 3600 IN A 200.14.52.197
+informatica 3600 IN MX 20 mx
+jud.jabber 3600 IN CNAME jabber
+humanidades 3600 IN MX 20 mx
+sum 3600 IN MX 20 mx
+revistas 3600 IN CNAME www
+correo.fci 3600 IN A 200.14.52.198

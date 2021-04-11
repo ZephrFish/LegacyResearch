@@ -1,0 +1,29 @@
+@ 3600 IN SOA ns2 root 2014022001 300 500 300 3600
+@ 3600 IN NS ns
+3600 IN NS ns2
+3600 IN NS ns3
+@ 3600 IN A 94.100.87.24
+@ 3600 IN MX 10 relay2
+3600 IN MX 20 ub
+3600 IN MX 30 domru
+wap 3600 IN CNAME relay2
+yamail-297eb1f14ed9 3600 IN CNAME mail.yandex.ru.
+ns3 3600 IN A 95.79.54.9
+servbibl 3600 IN CNAME aquabibl
+aquabibl 3600 IN A 192.168.1.248
+catalog1 3600 IN CNAME relay2
+catalog2 3600 IN CNAME domru
+gigakun 3600 IN NS ns1.gigakun
+ns2 3600 IN A 94.100.87.24
+pop 3600 IN CNAME ub
+yandex 3600 IN CNAME domain.mail.yandex.net.
+ftp 3600 IN CNAME relay2
+www 3600 IN CNAME @
+ns 3600 IN A 194.190.186.18
+forum 3600 IN CNAME relay2
+mega 3600 IN CNAME ns1
+ns1.gigakun 3600 IN A 192.168.70.102
+library 3600 IN CNAME relay2
+domru 3600 IN A 95.79.54.9
+relay2 3600 IN A 94.100.87.24
+ub 3600 IN A 194.190.186.18

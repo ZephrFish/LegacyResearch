@@ -1,0 +1,95 @@
+@ 3600 IN SOA ns1 devrim 1289300655 10800 3600 604800 3600
+@ 3600 IN A 89.19.8.157
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN NS ns1
+@ 3600 IN MX 0 yalova-edu-tr.mail.protection.outlook.com.
+_sipfederationtls._tcp 3600 IN SRV 1 100 5061 sipfed.online.lync.com.
+form 3600 IN A 193.255.61.103
+yudik 3600 IN A 193.255.61.211
+apps 3600 IN A 193.255.61.103
+osymcam 3600 IN A 193.255.61.231
+ceko 3600 IN A 37.230.110.82
+fbe 3600 IN A 193.255.61.103
+mesut 3600 IN A 193.255.61.211
+ir 3600 IN A 89.19.8.154
+ekp 3600 IN A 193.255.61.103
+kulturvespor 3600 IN A 193.255.61.211
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+tanitim 3600 IN A 89.19.8.154
+yek 3600 IN A 85.25.226.141
+eduroam 3600 IN A 193.255.61.211
+bilmuh 3600 IN A 193.255.61.211
+obstest 3600 IN A 193.255.128.111
+www 3600 IN A 89.19.8.154
+boim 3600 IN A 193.255.61.103
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+ksm 3600 IN A 77.79.78.106
+man 3600 IN A 193.255.61.211
+mail.ogrenci 3600 IN A 193.255.61.165
+ickontrol 3600 IN A 193.255.61.125
+bologna 3600 IN A 89.19.8.154
+_sip._tls 3600 IN SRV 1 100 443 sipdir.online.lync.com.
+xen2.server 3600 IN A 193.255.61.200
+library 3600 IN A 89.19.8.154
+www.rehber 3600 IN A 193.255.61.103
+kutuphane 3600 IN A 193.255.61.155
+xen1.server 3600 IN A 193.255.61.100
+sip 3600 IN CNAME sipdir.online.lync.com.
+ayniyat 3600 IN A 193.255.61.105
+webmail 3600 IN A 89.19.8.157
+yufes 3600 IN A 193.255.61.211
+ws 3600 IN A 193.255.61.103
+uzakders 3600 IN A 193.255.61.217
+sql.server 3600 IN A 193.255.61.102
+obstesteski 3600 IN A 193.255.61.4
+ftp 3600 IN A 193.255.61.20
+dspace 3600 IN A 193.255.61.162
+yuzem 3600 IN A 193.255.61.148
+eskimail 3600 IN MX 20 mail
+proxy 3600 IN A 193.255.60.250
+yusbed 3600 IN A 193.140.98.172
+rehber 3600 IN A 193.255.61.103
+performans 3600 IN A 193.255.61.151
+svn 3600 IN A 193.255.61.147
+download 3600 IN A 193.255.61.103
+yugim 3600 IN A 193.255.61.211
+muhendislik.cam 3600 IN A 193.255.61.228
+obs 3600 IN A 193.255.61.50
+ns1 3600 IN A 193.255.61.104
+cicr 3600 IN A 84.51.33.86
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+anket 3600 IN A 193.255.61.103
+yunipass 3600 IN A 193.255.61.103
+remote.server 3600 IN A 193.255.61.205
+mail 3600 IN CNAME mail.office365.com.
+ats 3600 IN A 193.255.61.220
+econ 3600 IN A 89.19.8.154
+dosya 3600 IN A 192.168.253.115
+gys 3600 IN A 193.255.61.103
+perculus 3600 IN A 193.255.61.148
+kps 3600 IN A 193.255.61.103
+iibf 3600 IN A 89.19.8.154
+www.sbe 3600 IN A 193.255.61.103
+blog 3600 IN A 193.255.61.227
+sgbnet 3600 IN A 193.255.61.146
+web 3600 IN A 193.255.61.211
+update 3600 IN A 193.255.61.103
+umyos 3600 IN A 193.255.61.211
+voip 3600 IN A 193.255.61.202
+obseski 3600 IN A 193.255.61.101
+safran1.cam 3600 IN A 193.255.61.229
+akademik 3600 IN A 193.255.61.103
+yudsim 3600 IN A 193.255.61.103
+ogrenci 3600 IN MX 30 mail.ogrenci
+liste 3600 IN A 193.255.61.113
+liste 3600 IN MX 90 liste
+safran2.cam 3600 IN A 193.255.61.230
+yuzemservis 3600 IN A 193.255.61.211
+aj 3600 IN A 84.51.33.86
+earsiv 3600 IN A 193.255.61.162
+mezun 3600 IN A 193.255.61.101
+bm 3600 IN A 193.255.61.145
+erasmus 3600 IN A 193.255.61.211
+dc 3600 IN A 193.255.61.130
+dns 3600 IN A 193.255.61.106
+iis.server 3600 IN A 193.255.61.103

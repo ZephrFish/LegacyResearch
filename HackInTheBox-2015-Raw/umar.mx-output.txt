@@ -1,0 +1,43 @@
+@ 86400 IN SOA angel admon.angel 2015042101 3600 3600 604800 86400
+@ 86400 IN NS angel
+86400 IN NS carey
+86400 IN NS huatulco
+86400 IN NS zicatela
+@ 86400 IN A 200.23.222.17
+@ 86400 IN TXT "v=spf1 mx a:angel.umar.mx a:dante.umar.mx a:zicatela.umar.mx a:huatulco.umar.mx ptr ip4:200.23.222.0/24 ip4:200.23.223.0/24 mx:umar.mx -all"
+@ 86400 IN SPF "v=spf1 mx a:angel.umar.mx a:dante.umar.mx a:zicatela.umar.mx a:huatulco.umar.mx ptr ip4:200.23.222.0/24 ip4:200.23.223.0/24 mx:umar.mx -all"
+@ 86400 IN MX 0 angel
+86400 IN MX 0 chahue
+86400 IN MX 0 huatulco
+carizalillo 86400 IN A 200.23.223.253
+coral 86400 IN A 200.23.223.5
+sistemas 86400 IN A 200.23.222.15
+servesc 86400 IN A 200.23.222.11
+huatulco 86400 IN A 200.23.223.1
+huatulco 86400 IN TXT "v=spf1 mx a:huatulco.umar.mx mx:huatulco.umar.mx a:angel.umar.mx mx:angel.umar.mx a:dante.umar.mx a:niza.umar.mx ptr ip4:200.23.223.1/32 ip4:200.23.222.17/32 -all"
+huatulco 86400 IN SPF "v=spf1 mx a:huatulco.umar.mx mx:huatulco.umar.mx a:angel.umar.mx mx:angel.umar.mx a:dante.umar.mx a:niza.umar.mx ptr ip4:200.23.223.1/32 ip4:200.23.222.17/32 -all"
+bibliotecape 86400 IN A 200.23.223.190
+carey 86400 IN A 200.23.222.16
+biblio 86400 IN A 200.23.222.14
+veenaa 86400 IN A 200.23.222.12
+niza 86400 IN A 200.23.222.1
+dnshux 86400 IN A 200.23.223.12
+bibliotecas 86400 IN A 200.23.223.3
+suneo 86400 IN A 200.23.223.4
+cdt 86400 IN A 200.23.223.30
+caracol 86400 IN A 200.23.223.6
+angel 86400 IN A 200.23.222.17
+localhost 86400 IN A 127.0.0.1
+coralito 86400 IN A 200.23.222.10
+correo 86400 IN A 200.23.222.18
+www 86400 IN CNAME huatulco
+sirem 86400 IN A 200.23.222.13
+binniza 86400 IN A 200.23.223.7
+dante 86400 IN A 200.23.222.3
+chahue 86400 IN A 200.23.223.2
+sea 86400 IN A 200.23.222.2
+dns 86400 IN A 200.23.222.254
+skana 86400 IN A 200.23.223.8
+nemo 86400 IN A 200.23.223.9
+delfin 86400 IN A 200.23.222.4
+zicatela 86400 IN A 200.23.223.254

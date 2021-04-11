@@ -1,0 +1,10 @@
+@ 3600 IN SOA master.dagupan.com. hostmaster.dagupan.com. 9 900 600 86400 3600
+@ 3600 IN A 202.91.163.10
+@ 3600 IN NS master.dagupan.com.
+3600 IN NS rasserv.dagupan.com.
+@ 3600 IN MX 10 mail
+@ 3600 IN TXT "v=spf1 ip4:202.91.163.10 mx:mail.psu.edu.ph -all"
+webmail 3600 IN A 202.91.163.10
+mail 3600 IN A 202.91.163.10
+rasserv.dagupan.com. 3600 IN A 202.91.161.132
+www 3600 IN A 202.91.163.10

@@ -1,0 +1,757 @@
+@ 8640 IN SOA ns postmaster.nti 2015043001 1080 360 60480 8640
+@ 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.239.146.11.
+8640 IN NS mangaba
+@ 8640 IN A 200.131.208.76
+@ 8640 IN MX 20 emailteste
+@ 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+mpec 8640 IN A 200.131.208.21
+mpec 8640 IN MX 20 cedro
+mpec 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+carvalho 8640 IN A 200.239.128.19
+www.xisemanadeletras 8640 IN CNAME sapucaia
+www.prograd 8640 IN CNAME sapucaia
+www.ejrever 8640 IN CNAME sapucaia
+www.najop 8640 IN CNAME sapucaia
+congressomediacao 8640 IN CNAME sapucaia
+eepem5 8640 IN CNAME sapucaia
+pop.sustentabilidade 8640 IN CNAME cedro
+pop.nead 8640 IN CNAME pinho
+smtp.cedufop 8640 IN CNAME emailteste
+www.videoconferencia 8640 IN CNAME sapucaia
+www.quadrilateroferrifero 8640 IN A 200.131.211.33
+guiche7 8640 IN A 200.131.208.67
+candeia 8640 IN A 200.131.208.22
+pferro 8640 IN A 200.131.208.72
+www.jals 8640 IN CNAME www.seminariojals
+www.redemat 8640 IN CNAME sapucaia
+sisbin1 8640 IN A 200.131.208.160
+sisbin1 8640 IN MX 10 sisbin1
+www.treinamentovestibular 8640 IN CNAME skank
+pop.aci 8640 IN CNAME emailteste
+www.seminariojals 8640 IN CNAME sapucaia
+www.apg 8640 IN CNAME sapucaia
+www.prtsrv 8640 IN CNAME prtsrv
+www.nova 8640 IN CNAME sapucaia
+www.cefop 8640 IN CNAME sapucaia
+aluno.demin 8640 IN MX 10 cedro
+aluno.demin 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+smtp.saude 8640 IN CNAME emailteste
+www.humanista 8640 IN CNAME sapucaia
+smtp.aluno.ambiental 8640 IN CNAME emailteste
+www.neccint 8640 IN CNAME sapucaia
+www.semanadeartes 8640 IN CNAME sapucaia
+www.pharmajr 8640 IN CNAME sapucaia
+moodle3 8640 IN A 200.131.208.69
+www.cac 8640 IN CNAME sapucaia
+www.propp 8640 IN CNAME sapucaia
+www.saci2 8640 IN A 200.131.208.166
+canela 8640 IN A 200.131.208.84
+www.neesftp 8640 IN CNAME sapucaia
+www.fisica 8640 IN CNAME sapucaia
+www.ispteste2 8640 IN CNAME paralamas
+www.civiljr 8640 IN CNAME paralamas
+saude 8640 IN MX 20 emailteste
+saude 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.cdc 8640 IN CNAME sapucaia
+dcsa 8640 IN MX 10 emailteste
+dcsa 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.coloquioleir 8640 IN CNAME sapucaia
+eneq2014 8640 IN A 200.131.252.163
+chevelle 8640 IN A 200.131.208.85
+www.primario 8640 IN CNAME sapucaia
+www.propec 8640 IN CNAME sapucaia
+www.decea 8640 IN CNAME sapucaia
+www.prpe 8640 IN CNAME sapucaia
+www.soumaisjuventude 8640 IN CNAME sapucaia
+pop.emailteste 8640 IN CNAME cedro
+www.petmat 8640 IN CNAME paralamas
+www.seminariodehistoria 8640 IN CNAME sapucaia
+www.concurso 8640 IN CNAME skank
+www.guardioesdopatrimonio 8640 IN CNAME candeia
+www.intercom 8640 IN CNAME sapucaia
+www.revistaexagium 8640 IN CNAME sapucaia
+openatrium 8640 IN CNAME paralamas
+feop-gw 8640 IN A 200.131.208.80
+simpoed 8640 IN CNAME paralamas
+reciclos 8640 IN CNAME sapucaia
+www.equipesucatao 8640 IN CNAME sapucaia
+pinus 8640 IN A 200.131.208.13
+www.espfil 8640 IN CNAME sapucaia
+www.6emed 8640 IN CNAME sapucaia
+www.documentos.ead 8640 IN CNAME ghs.google.com.
+cache 8640 IN CNAME pferro
+www.core 8640 IN CNAME sapucaia
+pop.mpec 8640 IN CNAME cedro
+pop.ccs 8640 IN CNAME emailteste
+www.cedufop 8640 IN CNAME sapucaia
+_sip._udp.voip 8640 IN SRV 1 1 5060 voip
+smtp.demin 8640 IN CNAME cedro
+www.sic 8640 IN CNAME www.seic
+www.decom 8640 IN A 200.131.208.44
+pop.reitoria 8640 IN CNAME emailteste
+canela.cpd 8640 IN CNAME canela
+sudestepet2015 8640 IN CNAME paralamas
+teste3 8640 IN A 200.131.208.192
+teste4 8640 IN A 200.131.208.192
+www.jornalismo 8640 IN CNAME sapucaia
+www.eneq2014 8640 IN A 200.131.252.163
+www.revistamusear 8640 IN CNAME sapucaia
+smtp.direito 8640 IN CNAME emailteste
+demin 8640 IN MX 20 cedro
+demin 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+agov 8640 IN CNAME paralamas
+smtp.ef 8640 IN CNAME emailteste
+ppgquimica 8640 IN CNAME sapucaia
+mail 8640 IN A 200.131.208.171
+mail 8640 IN MX 10 zimbra
+www.dof 8640 IN CNAME sapucaia
+cola 8640 IN A 200.131.208.109
+www.geobr 8640 IN CNAME degeo.degeo
+www.inet 8640 IN CNAME sapucaia
+www.em2 8640 IN CNAME paralamas
+www.7copehe 8640 IN CNAME sapucaia
+www.professores2 8640 IN A 200.131.208.157
+www.baja 8640 IN CNAME sapucaia
+minhaufop 8640 IN CNAME www.minha
+cacto 8640 IN A 200.239.128.15
+palmeira 8640 IN A 200.131.208.180
+monografias 8640 IN CNAME www.monografias
+ppgcom 8640 IN CNAME paralamas
+www.reciclos 8640 IN CNAME sapucaia
+zimbra 8640 IN A 200.131.208.171
+www.enearte 8640 IN CNAME sapucaia
+smtp.demul 8640 IN CNAME emailteste
+www.sbqs2009 8640 IN CNAME sapucaia
+pop.icea 8640 IN CNAME cedro
+beatles 8640 IN A 200.239.128.135
+core 8640 IN CNAME sapucaia
+www.cienciaetecnologia 8640 IN CNAME sapucaia
+www.redumat 8640 IN CNAME sapucaia
+nutri 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.239.146.11.
+www.nupetur 8640 IN CNAME sapucaia
+demul 8640 IN MX 10 emailteste
+demul 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+smtp.radio 8640 IN CNAME cedro
+_sip._tcp.voip 8640 IN SRV 1 1 5060 voip
+smtp.midias 8640 IN CNAME cedro
+www.completurjr 8640 IN CNAME sapucaia
+pop.ichs 8640 IN CNAME cedro
+www.rest 8640 IN CNAME sapucaia
+www.festivaldeinverno 8640 IN CNAME sapucaia
+siceg 8640 IN CNAME paralamas
+www.repositorio 8640 IN A 200.131.208.43
+www.eepem5 8640 IN CNAME sapucaia
+pop.dof 8640 IN CNAME cedro
+nite 8640 IN CNAME sapucaia
+hertz 8640 IN A 200.239.146.17
+voip1 8640 IN A 200.131.208.23
+voip2 8640 IN A 200.131.208.24
+voip3 8640 IN A 200.131.208.25
+www.sustentabilidade 8640 IN CNAME sapucaia
+ispteste 8640 IN CNAME paralamas
+radio 8640 IN MX 20 cedro
+radio 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+smtp.aci 8640 IN CNAME emailteste
+vpn 8640 IN A 200.131.208.225
+smtp.decea 8640 IN CNAME cedro
+www.gephe 8640 IN CNAME paralamas
+www.est 8640 IN CNAME sapucaia
+who 8640 IN A 200.239.128.42
+smtp.opala.degeo 8640 IN CNAME emailteste
+ppgac 8640 IN CNAME sapucaia
+smtp.tv 8640 IN CNAME cedro
+www.ppgcom 8640 IN CNAME paralamas
+www.prociliar 8640 IN A 200.131.208.55
+soumaisjuventude 8640 IN CNAME sapucaia
+pop.teste 8640 IN CNAME cedro
+www.programasdevisita 8640 IN CNAME sapucaia
+www.ispteste 8640 IN CNAME paralamas
+www.semanasso 8640 IN CNAME sapucaia
+semanaifac 8640 IN MX 20 pinho
+www.orion 8640 IN A 200.131.216.10
+ppgcc 8640 IN MX 20 cedro
+ppgcc 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+smtp.proad 8640 IN CNAME cedro
+u2 8640 IN A 200.131.208.88
+baja 8640 IN CNAME sapucaia
+festivaldeinverno 8640 IN A 200.131.208.21
+festivaldeinverno 8640 IN MX 20 emailteste
+festivaldeinverno 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.enut2 8640 IN CNAME paralamas
+www.enut3 8640 IN CNAME sapucaia
+www.direito 8640 IN CNAME sapucaia
+pop.icsa 8640 IN CNAME cedro
+pop.ef 8640 IN CNAME emailteste
+www.raf.ifac 8640 IN CNAME sapucaia
+www.tecind 8640 IN CNAME sapucaia
+proad 8640 IN MX 20 cedro
+proad 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+sustentabilidade 8640 IN MX 20 cedro
+sustentabilidade 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.estagios 8640 IN CNAME sapucaia
+sapucaia1 8640 IN A 200.131.208.223
+torricelli 8640 IN A 200.239.146.12
+www.amde 8640 IN CNAME sapucaia
+rainbow 8640 IN A 200.131.208.181
+eucalipto 8640 IN A 200.131.208.86
+smtp.proex 8640 IN CNAME emailteste
+www.sites.ead 8640 IN CNAME ghs.google.com.
+radioplural 8640 IN CNAME paralamas
+smtp.turismo 8640 IN CNAME emailteste
+pop.decea 8640 IN CNAME cedro
+smtp.ppgcc 8640 IN CNAME cedro
+www.esud2011 8640 IN CNAME dbowie
+pop.midias 8640 IN CNAME cedro
+proex 8640 IN MX 20 emailteste
+proex 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+pop.ifac 8640 IN CNAME cedro
+smtp.sisbin 8640 IN CNAME cedro
+www 8640 IN CNAME skank
+www.gammef 8640 IN CNAME sapucaia
+www.fimat 8640 IN CNAME sapucaia
+www.mirmeco2009 8640 IN CNAME sapucaia
+www.editora 8640 IN CNAME sapucaia
+embuia 8640 IN A 200.131.208.143
+www.giro 8640 IN CNAME sapucaia
+www.rmat 8640 IN CNAME sapucaia
+proplad 8640 IN MX 20 emailteste
+proplad 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+smtp.propp 8640 IN CNAME cedro
+www.monografias 8640 IN A 200.131.208.79
+forumdasletras 8640 IN CNAME www.forumdasletras
+www.sbmf2007 8640 IN CNAME sapucaia
+scifi 8640 IN A 200.131.208.130
+www.encontrodasartes 8640 IN CNAME sapucaia
+www.iufro2013 8640 IN CNAME sapucaia
+pop.tv 8640 IN CNAME cedro
+www.acervofotografico 8640 IN CNAME paralamas
+mogno 8640 IN A 200.131.208.81
+www.ihc 8640 IN CNAME candeia
+www.cidadedigital 8640 IN CNAME sapucaia
+www.nupeb 8640 IN CNAME sapucaia
+propp 8640 IN MX 20 cedro
+propp 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+pascal 8640 IN A 200.239.146.16
+aci 8640 IN MX 20 emailteste
+aci 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.aerodesign 8640 IN CNAME sapucaia
+www.ecomuseuserraop 8640 IN CNAME sapucaia
+ermpi2014 8640 IN CNAME paralamas
+jacaranda 8640 IN A 200.131.208.91
+www.museusouropreto 8640 IN CNAME sapucaia
+pop.decsa 8640 IN CNAME emailteste
+zeppelin1 8640 IN A 200.131.208.215
+ceadteste 8640 IN CNAME sapucaia
+pop.decsi 8640 IN CNAME cedro
+www.ppem 8640 IN CNAME sapucaia
+www.ilb 8640 IN CNAME sapucaia
+zeppelin3 8640 IN A 200.131.208.217
+prograd 8640 IN MX 20 cedro
+prograd 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+araucaria 8640 IN A 200.131.208.27
+www.ifac2 8640 IN CNAME paralamas
+ejrever 8640 IN CNAME sapucaia
+www.observatorio 8640 IN CNAME sapucaia
+www.sbthh 8640 IN A 200.219.214.85
+ppghis 8640 IN CNAME paralamas
+lorentz2 8640 IN A 200.239.128.17
+saci2 8640 IN A 200.131.208.166
+turismo 8640 IN MX 20 emailteste
+turismo 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.incop 8640 IN A 200.131.208.157
+www.semat 8640 IN CNAME sapucaia
+www.museologia 8640 IN CNAME sapucaia
+guiche1 8640 IN CNAME capim
+guiche2 8640 IN CNAME imbuia
+guiche3 8640 IN CNAME jatoba
+guiche4 8640 IN CNAME murici
+lpdnt 8640 IN CNAME paralamas
+mail.decom 8640 IN A 200.131.25.185
+www.extensao 8640 IN CNAME imbuia
+midias 8640 IN MX 20 cedro
+midias 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+eemop5 8640 IN CNAME www.eemop5
+nsanda 8640 IN A 200.131.208.189
+sapucaia 8640 IN A 200.131.208.21
+www.olhandoparaagua 8640 IN CNAME sapucaia
+www.encontrodeestagio 8640 IN CNAME sapucaia
+pop.sisbin 8640 IN CNAME cedro
+www.grotowskimg 8640 IN CNAME sapucaia
+www.metrologia2013 8640 IN CNAME sapucaia
+www.seic 8640 IN CNAME sapucaia
+guiche 8640 IN A 200.131.208.29
+periodicos 8640 IN CNAME sapucaia
+www.mosaico 8640 IN CNAME sapucaia
+giro 8640 IN CNAME sapucaia
+smtp.dcsa 8640 IN CNAME emailteste
+www.webmail.ead 8640 IN CNAME ghs.google.com.
+pop.aluno.degeo 8640 IN CNAME cedro
+neesftp 8640 IN CNAME sapucaia
+apg 8640 IN CNAME sapucaia
+smtp.dof 8640 IN CNAME cedro
+civiljr 8640 IN CNAME paralamas
+pop.deelt 8640 IN CNAME cedro
+www.herbario 8640 IN CNAME candeia
+www.ufop1 8640 IN CNAME sapucaia1
+pop.deenp 8640 IN CNAME cedro
+coovachilli 8640 IN A 200.239.176.1
+www.caint 8640 IN CNAME www.assint
+gaus 8640 IN A 200.239.146.14
+www.semanadeletras 8640 IN CNAME paralamas
+www.edtm 8640 IN CNAME sapucaia
+www.metaljr 8640 IN CNAME sapucaia
+www.radioplural 8640 IN CNAME paralamas
+tv 8640 IN MX 20 cedro
+tv 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+ccs 8640 IN MX 20 emailteste
+ccs 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.portalprofessor 8640 IN CNAME murici
+sucupira.cpd 8640 IN CNAME mogno
+libertas 8640 IN CNAME sapucaia
+ocs.nti 8640 IN CNAME paineira
+professor 8640 IN A 200.131.208.157
+www.concifop 8640 IN CNAME sapucaia
+www.convenios 8640 IN CNAME convenios
+smtp.aluno.demin 8640 IN CNAME cedro
+www.pensacom 8640 IN CNAME sapucaia
+minha 8640 IN CNAME www.minha
+iron 8640 IN A 200.131.208.66
+caint2 8640 IN CNAME paralamas
+pop.degeo 8640 IN CNAME emailteste
+ispteste2 8640 IN CNAME paralamas
+avalieseuconsumo 8640 IN CNAME sapucaia
+www.sext 8640 IN CNAME sapucaia
+www.nastrilhasdatraducao 8640 IN CNAME sapucaia
+www.emetur 8640 IN CNAME sapucaia
+cedufop 8640 IN MX 20 emailteste
+cedufop 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+cbc.decom 8640 IN A 200.239.132.250
+www.trombetas 8640 IN CNAME sapucaia
+professores2 8640 IN A 200.131.208.157
+www.encontrodesaberes 8640 IN CNAME sapucaia
+garapa 8640 IN A 200.131.208.69
+www.posedu 8640 IN CNAME sapucaia
+cpd 8640 IN CNAME mogno
+www.biomas 8640 IN CNAME sapucaia
+angico 8640 IN A 200.131.208.115
+pop.dcsa 8640 IN CNAME emailteste
+Pearljam 8640 IN A 172.20.0.25
+encontrodasartes 8640 IN CNAME sapucaia
+www.goal 8640 IN A 200.131.208.44
+redecomep 8640 IN MX 20 cedro
+redecomep 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.profmat 8640 IN CNAME paralamas
+proftpdadmin 8640 IN CNAME sapucaia
+www.itvu 8640 IN CNAME itvu
+edtm 8640 IN MX 20 cedro
+edtm 8640 IN TXT "v-spf1 mx a:emailteste.ufop.br ~all"
+smtp.prograd 8640 IN CNAME cedro
+www.mysql2 8640 IN CNAME sapucaia
+www.mysql3 8640 IN CNAME skank
+www.lph 8640 IN CNAME sapucaia
+www.caleidoscopio 8640 IN CNAME sapucaia
+www.prace 8640 IN CNAME www.cac
+pop.turismo 8640 IN CNAME emailteste
+www.libertas 8640 IN CNAME sapucaia
+pop.fimat 8640 IN CNAME cedro
+pop.festivaldeinverno 8640 IN CNAME emailteste
+7copehe 8640 IN CNAME sapucaia
+emailteste 8640 IN A 200.131.208.186
+emailteste 8640 IN MX 20 cedro
+emailteste 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.webmail 8640 IN CNAME carvalho
+dof 8640 IN MX 20 cedro
+dof 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.demin 8640 IN CNAME sapucaia
+ef 8640 IN MX 20 emailteste
+ef 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.groupby 8640 IN CNAME sapucaia
+em 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.131.222.1.
+8640 IN NS 200.239.146.11.
+em2 8640 IN CNAME paralamas
+www.nec 8640 IN CNAME sapucaia
+zeppelin 8640 IN A 200.131.208.215
+www.xxiientmm 8640 IN CNAME candeia
+www.nei 8640 IN CNAME sapucaia
+www.ner 8640 IN CNAME sapucaia
+pop.nupeb 8640 IN CNAME emailteste
+www.proamb 8640 IN CNAME sapucaia
+www.forumdasartes 8640 IN CNAME www.festivaldeinverno
+laboratorioergonomia 8640 IN CNAME paralamas
+smtp.emailteste 8640 IN CNAME cedro
+engenhariaeletrica 8640 IN CNAME paralamas
+www.praticajuridica 8640 IN CNAME sapucaia
+www.lablin 8640 IN CNAME sapucaia
+www.moodle 8640 IN CNAME gaus
+www.pibid 8640 IN CNAME sapucaia
+www.proagua 8640 IN CNAME sapucaia
+www.ppghis 8640 IN CNAME paralamas
+proged 8640 IN CNAME www.proged
+tabaco 8640 IN A 200.131.208.90
+goal 8640 IN A 200.131.208.44
+vitor 8640 IN A 200.131.208.123
+www.gphr 8640 IN CNAME sapucaia
+smtp.ambiental 8640 IN CNAME emailteste
+www.silb 8640 IN CNAME sapucaia
+itvu 8640 IN A 200.239.167.145
+ns 8640 IN A 200.131.208.81
+www.ocs 8640 IN CNAME sapucaia
+www.midias 8640 IN CNAME sapucaia
+www.eemop5 8640 IN CNAME sapucaia
+os 8640 IN A 200.131.208.58
+www.artevinga 8640 IN CNAME paralamas
+www.ufopteste 8640 IN CNAME paudagua
+www.neab 8640 IN CNAME sapucaia
+www.siceg 8640 IN CNAME paralamas
+zeppelin2 8640 IN A 200.131.208.216
+www.guiche 8640 IN A 200.131.208.29
+zeppelin4 8640 IN A 200.131.208.218
+zeppelin5 8640 IN A 200.131.208.64
+zeppelin6 8640 IN A 200.131.208.68
+zeppelin7 8640 IN A 200.239.128.40
+zeppelin8 8640 IN A 200.239.128.41
+pop.proplad 8640 IN CNAME emailteste
+www.multicultural 8640 IN CNAME sapucaia
+direito 8640 IN MX 20 emailteste
+direito 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.eneds 8640 IN CNAME sapucaia
+vc 8640 IN A 200.131.215.130
+www.congressodireito 8640 IN CNAME sapucaia
+pbrasil 8640 IN A 200.131.208.116
+www.ppgedmat 8640 IN CNAME sapucaia
+www.nti 8640 IN CNAME nti
+www.nsu 8640 IN CNAME paralamas
+cafe 8640 IN A 200.131.208.133
+www.ppgac 8640 IN CNAME sapucaia
+www.terralab 8640 IN A 200.239.139.22
+www.terralab 8640 IN MX 20 teste
+www.terralab 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.geoambiental 8640 IN CNAME degeo.degeo
+www.sempex2010 8640 IN CNAME sapucaia
+mecjr 8640 IN CNAME sapucaia
+www.ppgcc 8640 IN CNAME sapucaia
+www.xxiientmme 8640 IN CNAME www.xxiientmm
+pop.aluno.ambiental 8640 IN CNAME emailteste
+www.nehm 8640 IN CNAME sapucaia
+www.pgh 8640 IN CNAME sapucaia
+pop.prograd 8640 IN CNAME cedro
+www.sudestepet2015 8640 IN CNAME paralamas
+pop.ambiental 8640 IN CNAME emailteste
+www.ppgem 8640 IN CNAME sapucaia
+www.proad 8640 IN CNAME sapucaia
+prociliar 8640 IN A 200.131.208.55
+www.neaspoc 8640 IN CNAME sapucaia
+pop.saude 8640 IN CNAME emailteste
+www.minhaufopwifi 8640 IN CNAME coovachilli
+www.incultec 8640 IN CNAME sapucaia
+www.ccp2008 8640 IN CNAME sapucaia
+testeperiodicos 8640 IN A 200.131.208.58
+nugeo 8640 IN A 54.94.130.157
+sombreiro 8640 IN A 200.131.208.14
+professores 8640 IN A 200.131.208.157
+cedro 8640 IN A 200.131.208.60
+icea-server 8640 IN A 200.17.64.2
+netmonitor 8640 IN MX 10 araucaria
+newton 8640 IN A 200.239.146.11
+pop.nti 8640 IN CNAME cedro
+smtp.nead 8640 IN CNAME pinho
+pop.propp 8640 IN CNAME cedro
+nead 8640 IN MX 20 pinho
+imbuia 8640 IN A 200.131.208.92
+medicina 8640 IN MX 20 cedro
+medicina 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+pop.aluno.demin 8640 IN CNAME cedro
+www.sisbin 8640 IN CNAME sapucaia
+www.rodetas 8640 IN CNAME sapucaia
+nei2 8640 IN CNAME paralamas
+www.ufopreduz 8640 IN CNAME sapucaia
+galileu 8640 IN A 200.131.212.3
+www.moodleteste 8640 IN CNAME dbowie
+smtp.precam 8640 IN CNAME cedro
+www.raf 8640 IN CNAME paralamas
+www.nepac 8640 IN CNAME sapucaia
+www.petfarmacia 8640 IN CNAME sapucaia
+sabbath 8640 IN A 200.239.128.229
+www.festivalonline 8640 IN CNAME sapucaia
+www.mpec 8640 IN CNAME mpec
+metallica 8640 IN A 200.239.128.230
+wordpress 8640 IN CNAME paralamas
+www.proex 8640 IN CNAME sapucaia
+www.nugeo 8640 IN A 54.94.130.157
+acervofotografico 8640 IN CNAME paralamas
+iidiverminas 8640 IN CNAME paralamas
+projet 8640 IN CNAME sapucaia
+smtp.teste 8640 IN CNAME cedro
+www.scifi 8640 IN CNAME scifi
+pop.pju 8640 IN CNAME cedro
+tede 8640 IN A 200.131.208.180
+smtp.festivaldeinverno 8640 IN CNAME emailteste
+www.leishvaccines2012 8640 IN CNAME sapucaia
+sisbin 8640 IN MX 20 cedro
+sisbin 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.radio 8640 IN CNAME sapucaia
+www.congressomediacao 8640 IN CNAME sapucaia
+www.ermpi2014 8640 IN CNAME paralamas
+www.zerberus 8640 IN A 200.239.139.173
+www.reuni 8640 IN CNAME sapucaia
+smtp.icea 8640 IN CNAME cedro
+www.bmsp 8640 IN CNAME sapucaia
+www.emed 8640 IN CNAME sapucaia
+pop.demin 8640 IN CNAME cedro
+cefop 8640 IN CNAME sapucaia
+www.qfe2050 8640 IN A 200.239.130.18
+lapdiftp.decom 8640 IN A 200.239.139.237
+www.simpoed 8640 IN CNAME paralamas
+ipe 8640 IN A 200.131.208.187
+www.rme 8640 IN CNAME sapucaia
+chirimoya 8640 IN A 200.131.208.59
+www.medicina 8640 IN CNAME sapucaia
+www.see 8640 IN CNAME sapucaia
+pop.cedufop 8640 IN CNAME emailteste
+lorentz 8640 IN A 200.239.146.15
+www.tede 8640 IN A 200.131.208.180
+prace 8640 IN MX 10 emailteste
+prace 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.lpdnt 8640 IN CNAME paralamas
+cead 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.239.146.11.
+www.icea 8640 IN CNAME sapucaia
+smtp.redecomep 8640 IN CNAME cedro
+www.soc2 8640 IN CNAME paralamas
+www.vestibular 8640 IN CNAME www.processoseletivo
+email 8640 IN CNAME embuia
+samba 8640 IN A 200.131.208.188
+www.proged 8640 IN CNAME sapucaia
+pop.precam 8640 IN CNAME cedro
+smtp.mpec 8640 IN CNAME cedro
+decea 8640 IN MX 20 cedro
+decea 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.conjuvir 8640 IN CNAME www.congressodireito
+www.moodle2 8640 IN CNAME lorentz
+www.moodle3 8640 IN A 200.131.208.69
+www.ceua 8640 IN CNAME sapucaia
+www.ppgquimica 8640 IN CNAME sapucaia
+metaljr 8640 IN CNAME sapucaia
+logoff.minhaufopwifi 8640 IN A 200.239.176.1
+www.ichs 8640 IN CNAME sapucaia
+www.sme 8640 IN CNAME sapucaia
+pop.demul 8640 IN CNAME emailteste
+www.avalieseuconsumo 8640 IN CNAME sapucaia
+www.soc 8640 IN CNAME sapucaia
+www.focal2011 8640 IN CNAME sapucaia
+www.formulario.nti 8640 IN CNAME paineira
+aerodesign 8640 IN CNAME sapucaia
+www.nesfe 8640 IN CNAME sapucaia
+ambiental 8640 IN MX 10 emailteste
+ambiental 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.cipharma 8640 IN CNAME sapucaia
+www.wimax 8640 IN CNAME www.cidadedigital
+pop.radio 8640 IN CNAME cedro
+www.escoladefarmacia 8640 IN CNAME www.ef
+verbalizejr 8640 IN CNAME sapucaia
+smtp.decsa 8640 IN CNAME emailteste
+www.engenhariaeletrica 8640 IN CNAME paralamas
+smtp.decsi 8640 IN CNAME cedro
+www.mgest 8640 IN CNAME sapucaia
+decom 8640 IN MX 10 mail.decom
+maxwell 8640 IN A 200.239.146.13
+www.icsa 8640 IN CNAME www.decsa
+www.enpf 8640 IN CNAME sapucaia
+smtp.ccs 8640 IN CNAME emailteste
+www.forumdasletras 8640 IN CNAME sapucaia
+www.posletras 8640 IN CNAME sapucaia
+pop.ppgcc 8640 IN CNAME cedro
+repositorio.sisbin 8640 IN A 200.131.208.43
+www.minha 8640 IN CNAME zeppelin
+www.festivalinconfidentes 8640 IN CNAME sapucaia
+decsa 8640 IN MX 10 emailteste
+decsa 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+icea 8640 IN MX 20 cedro
+icea 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+iceb 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.239.146.11.
+iceb 8640 IN MX 20 emailteste
+iceb 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.minhaufop 8640 IN CNAME www.minha
+www.12cbgq 8640 IN A 200.131.211.26
+soc2 8640 IN CNAME paralamas
+decsi 8640 IN A 200.131.208.55
+decsi 8640 IN MX 20 cedro
+decsi 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+murici 8640 IN A 200.131.208.29
+iidiverminas.ufop.br 8640 IN CNAME paralamas
+www.ef 8640 IN CNAME sapucaia
+profmat 8640 IN CNAME paralamas
+www.congressolusobrasileiro 8640 IN CNAME sapucaia
+www.fest 8640 IN CNAME cedro
+www.professores 8640 IN A 200.131.208.157
+www.bmc2010 8640 IN CNAME sapucaia
+www.nite 8640 IN CNAME sapucaia
+ceua 8640 IN CNAME sapucaia
+www.nucat 8640 IN CNAME sapucaia
+convenios 8640 IN A 200.131.208.65
+smtp.nti 8640 IN CNAME cedro
+precam 8640 IN MX 20 cedro
+precam 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+kiss 8640 IN A 200.239.128.166
+smtp.ichs 8640 IN CNAME cedro
+ichs 8640 IN MX 20 cedro
+ichs 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+deefi 8640 IN MX 20 pinho
+reitoria 8640 IN MX 20 emailteste
+reitoria 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+smtp 8640 IN CNAME emailteste
+www.decsa 8640 IN CNAME sapucaia
+www.ifac 8640 IN CNAME sapucaia
+smtp.medicina 8640 IN CNAME cedro
+smtp.aluno.degeo 8640 IN CNAME cedro
+webmail 8640 IN CNAME carvalho
+www.testeperiodicos 8640 IN A 200.131.208.58
+ead 8640 IN MX 10 ASPMX.L.GOOGLE.COM.
+pop.direito 8640 IN CNAME emailteste
+smtp.deelt 8640 IN CNAME cedro
+cidreira 8640 IN A 200.131.208.61
+ebano 8640 IN A 200.131.208.252
+www.audiovisual 8640 IN CNAME sapucaia
+aluno.ambiental 8640 IN MX 10 emailteste
+aluno.ambiental 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+opala 8640 IN MX 10 mail
+smtp.deenp 8640 IN CNAME cedro
+www.gruporosarios 8640 IN CNAME sapucaia
+www.periodicos 8640 IN CNAME sapucaia
+mangaba 8640 IN A 200.131.208.82
+www.cppd 8640 IN CNAME sapucaia
+nat 8640 IN A 200.131.217.2
+www.decsi 8640 IN CNAME paralamas
+chat 8640 IN A 200.131.208.134
+www.prof 8640 IN CNAME www.dof
+deelt 8640 IN MX 20 cedro
+deelt 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+smtp.pju 8640 IN CNAME cedro
+smtp.icsa 8640 IN CNAME cedro
+pingifes 8640 IN CNAME pinus
+icsa 8640 IN MX 20 cedro
+icsa 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.projet 8640 IN CNAME sapucaia
+pop.proad 8640 IN CNAME cedro
+deenp 8640 IN MX 20 cedro
+deenp 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.ecint 8640 IN CNAME sapucaia
+prtsrv 8640 IN A 200.239.128.100
+www.professor 8640 IN A 200.131.208.157
+www.proplad 8640 IN CNAME sapucaia
+www.emteste 8640 IN CNAME sapucaia
+www.licitacao 8640 IN CNAME sapucaia
+gephe 8640 IN CNAME paralamas
+www.leds 8640 IN CNAME sapucaia
+www.tv 8640 IN CNAME sapucaia
+www.gruporosario 8640 IN CNAME sapucaia
+www.ppcbio 8640 IN CNAME sapucaia
+www.cehila 8640 IN CNAME sapucaia
+www.start.ead 8640 IN CNAME ghs.google.com.
+pop.redecomep 8640 IN CNAME cedro
+smtp.degeo 8640 IN CNAME emailteste
+www.wuoc2007 8640 IN CNAME candeia
+pop.prpe 8640 IN CNAME emailteste
+www.processoseletivo 8640 IN CNAME skank
+paineira 8640 IN A 200.131.208.41
+www.tui 8640 IN CNAME sapucaia
+enut 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.239.146.11.
+skank 8640 IN CNAME @
+www.pingifes 8640 IN CNAME pinus
+smtp.proplad 8640 IN CNAME emailteste
+www.setur 8640 IN CNAME sapucaia
+enut2 8640 IN CNAME paralamas
+smtp.ifac 8640 IN CNAME cedro
+www.leir 8640 IN CNAME sapucaia
+ifac 8640 IN MX 20 cedro
+ifac 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+degeo 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.239.146.11.
+nkatu 8640 IN A 200.131.208.188
+paralamas 8640 IN A 200.131.208.55
+petmat 8640 IN CNAME paralamas
+guiche1ds 8640 IN A 200.131.208.42
+www.turismo 8640 IN CNAME sapucaia
+metrologia2013 8640 IN CNAME sapucaia
+cafeeiro 8640 IN A 200.131.208.70
+www.lepe 8640 IN CNAME sapucaia
+rainbow2 8640 IN A 172.20.0.3
+voip 8640 IN A 200.131.208.23
+brauna 8640 IN A 200.131.208.105
+nti 8640 IN A 200.131.208.21
+nti 8640 IN MX 20 cedro
+nti 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.revistacuringa 8640 IN CNAME sapucaia
+nsu 8640 IN CNAME paralamas
+smtp.prpe 8640 IN CNAME emailteste
+prpe 8640 IN MX 20 emailteste
+prpe 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+www.linhasgerais 8640 IN CNAME sapucaia
+smtp.fimat 8640 IN CNAME cedro
+www.brinquedoteca 8640 IN CNAME sapucaia
+cursodrupal 8640 IN CNAME paralamas
+artevinga 8640 IN CNAME paralamas
+smtp.sustentabilidade 8640 IN CNAME cedro
+pop.opala.degeo 8640 IN CNAME emailteste
+semanadeletras 8640 IN CNAME paralamas
+acdc 8640 IN A 200.131.208.227
+leds 8640 IN CNAME sapucaia
+dbowie 8640 IN A 200.131.208.239
+www.mecjr 8640 IN CNAME sapucaia
+pop.proex 8640 IN CNAME emailteste
+fimat 8640 IN MX 20 cedro
+fimat 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+openscholar 8640 IN A 200.131.208.58
+jatoba 8640 IN A 200.131.208.28
+www.fonaprace 8640 IN CNAME sapucaia
+www.comitedeetica 8640 IN CNAME sapucaia
+pop.medicina 8640 IN CNAME cedro
+www.12snet 8640 IN A 200.131.211.33
+www.simea 8640 IN CNAME candeia
+nutricao 8640 IN NS ns
+8640 IN NS ns.pop-mg.rnp.br.
+8640 IN NS 200.239.146.11.
+smtp.nupeb 8640 IN CNAME emailteste
+www.verbalizejr 8640 IN CNAME sapucaia
+www.ufopcomaescola 8640 IN CNAME sapucaia
+pju 8640 IN MX 20 cedro
+pju 8640 IN TXT "v=spf1 mx a:emailteste.ufop.br ~all"
+www.relme26 8640 IN CNAME dbowie
+www.revistafundamento 8640 IN CNAME sapucaia
+rodetas 8640 IN CNAME sapucaia
+portalsolidario 8640 IN CNAME paralamas
+gatekeeper 8640 IN A 200.239.146.22
+nupeb 8640 IN MX 20 emailteste
+nupeb 8640 IN TXT "v=spf1 mx a:cedro.ufop.br ~all"
+semat 8640 IN CNAME sapucaia
+www.ntimail 8640 IN CNAME carvalho
+acme 8640 IN A 200.239.139.247
+pop 8640 IN CNAME emailteste
+www.laboratorioergonomia 8640 IN CNAME paralamas
+www.pro-ativa 8640 IN CNAME sapucaia
+www.agenda.ead 8640 IN CNAME ghs.google.com.
+www.satellitesympisanouropreto 8640 IN CNAME sapucaia
+ifac2 8640 IN CNAME paralamas
+www.assint 8640 IN CNAME sapucaia
+raf 8640 IN CNAME paralamas
+www.viiisemanadamatematica 8640 IN CNAME sapucaia
+www.precam 8640 IN CNAME sapucaia
+www.adm 8640 IN CNAME sapucaia
+www.ereds 8640 IN CNAME sapucaia
+www.xiiisbfc 8640 IN CNAME sapucaia
+incop 8640 IN A 200.131.208.157
+smtp.reitoria 8640 IN CNAME emailteste
+www.posdegeo 8640 IN A 200.239.130.19
+www.portalsolidario 8640 IN CNAME paralamas

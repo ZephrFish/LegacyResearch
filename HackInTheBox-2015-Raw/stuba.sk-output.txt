@@ -1,0 +1,178 @@
+@ 86400 IN SOA ns.cvt postmaster 2015020400 3600 3600 604800 3600
+@ 86400 IN NS ns.cvt
+86400 IN NS ns
+86400 IN NS sun.uakom.sk.
+@ 86400 IN A 147.175.1.18
+@ 86400 IN MX 10 aviro.cvt
+86400 IN MX 30 cdwork.cvt
+@ 86400 IN TXT "v=spf1 ip4:147.175.0.0/16 ~all"
+www.kcmte 86400 IN A 147.175.13.68
+delta.fei 86400 IN A 147.175.111.16
+www.eshop 86400 IN CNAME pluto2.cvt
+www.partnerstvo 86400 IN CNAME pluto2.cvt
+wifi 86400 IN CNAME pluto2.cvt
+ns.kvs.sjf 86400 IN A 147.175.59.227
+nadacia 86400 IN CNAME pluto2.cvt
+ecdm6 86400 IN A 147.175.66.121
+dns-slave.mtf 86400 IN A 147.175.137.20
+dns-slave.mtf 86400 IN AAAA 2001:4118:10:8100::410
+elf 86400 IN NS ns
+86400 IN NS ns.cvt
+rie 86400 IN NS ns
+86400 IN NS ns.cvt
+ambasadori 86400 IN CNAME pluto2.cvt
+www.jazykovecentrum 86400 IN CNAME pluto2.cvt
+fei 86400 IN NS ns
+86400 IN NS delta.fei
+ns2.cvt 86400 IN A 147.175.1.15
+karta 86400 IN CNAME pluto2.cvt
+eduroam 86400 IN CNAME pluto2.cvt
+www 300 IN CNAME pluto2.cvt
+ns 86400 IN A 147.175.111.15
+ns 86400 IN AAAA 2001:4118:10:6f00::f
+biosim 86400 IN A 147.175.84.5
+ksp 86400 IN CNAME pluto2.cvt
+infelen 86400 IN NS ns
+www.kib 86400 IN CNAME pluto2.cvt
+_sip._udp 86400 IN SRV 0 0 5060 sip.cvt
+si 86400 IN NS ns.kvs.sjf
+redakcia 86400 IN A 147.175.80.91
+www.ies 86400 IN A 147.175.79.130
+radius2 86400 IN A 147.175.1.15
+sjf 86400 IN NS ns.cvt
+86400 IN NS sjf
+sjf 86400 IN A 147.175.48.25
+webmail 86400 IN CNAME cgate.cvt
+www.virtualfactory 86400 IN CNAME pluto2.cvt
+automotive 86400 IN CNAME pluto2.cvt
+regina 86400 IN A 147.175.6.142
+vm 86400 IN NS dec50.vm
+86400 IN NS ns.cvt
+ns.cvt 86400 IN A 147.175.1.11
+eis 86400 IN NS ns.cvt
+86400 IN NS ns2.cvt
+nc-oze2 86400 IN NS ns
+86400 IN NS ns.cvt
+nca 86400 IN NS ns.nca
+www.knowhow 86400 IN CNAME pluto2.cvt
+ns2.fiit 86400 IN A 147.175.159.1
+www.granty 86400 IN CNAME pluto2.cvt
+dec50.vm 86400 IN A 147.175.80.10
+iitsrc 86400 IN CNAME www2.fiit
+www.ckp 86400 IN CNAME pluto2.cvt
+aatce 86400 IN NS ns
+86400 IN NS ns.cvt
+absolventi 86400 IN CNAME pluto2.cvt
+www.ambasadori 86400 IN CNAME pluto2.cvt
+ns.fchpt 86400 IN A 147.175.64.7
+cucm 86400 IN A 147.175.80.30
+is 86400 IN NS ns.cvt
+86400 IN NS ns2.cvt
+vyskum 86400 IN NS dec50.vm
+86400 IN NS ns.cvt
+www.uvp 86400 IN CNAME pluto2.cvt
+www.biosim 86400 IN A 147.175.84.5
+www.ects 300 IN CNAME pluto2.cvt
+nod32 86400 IN CNAME pluto2.cvt
+www.um 86400 IN CNAME pluto2.cvt
+svf 86400 IN NS ns.svf
+86400 IN NS ns.pese.sk.
+86400 IN NS ns.cvt
+86400 IN NS ns
+www.best 86400 IN CNAME best
+eee09 86400 IN CNAME obelix.urpi.fei
+mtf 86400 IN NS ns.cvt
+86400 IN NS ns.mtf
+86400 IN NS dns-slave.mtf
+nc-oze 86400 IN NS ns
+86400 IN NS ns.cvt
+oas 86400 IN A 147.175.1.162
+svs 86400 IN NS ns
+86400 IN NS ns.cvt
+ldap 86400 IN A 147.175.1.11
+iit-src 86400 IN CNAME www2.fiit
+www.proingineer 86400 IN A 147.175.80.144
+sport 86400 IN NS ns
+86400 IN NS ns.cvt
+www.iccbic 86400 IN A 147.175.66.121
+www.jedalen 86400 IN A 147.175.80.197
+best 86400 IN A 194.160.104.34
+best 86400 IN MX 10 best
+86400 IN MX 20 mail1.elf
+86400 IN MX 20 mail2.elf
+iwssip 86400 IN NS owl.ktl.elf
+86400 IN NS ns
+icv 86400 IN NS ns.cvt
+86400 IN NS ns2.cvt
+www.ansys 86400 IN A 147.175.80.144
+evlm 86400 IN A 147.175.55.62
+evlm 86400 IN NS evlm
+86400 IN NS ns.cvt
+mail 86400 IN CNAME aviro.cvt
+hpc 86400 IN NS ns.cvt
+86400 IN NS ns2.cvt
+ns.chtf 86400 IN A 147.175.64.7
+eshop 86400 IN CNAME pluto2.cvt
+granty 86400 IN CNAME pluto2.cvt
+design 86400 IN NS ns.cvt
+86400 IN NS ns
+chtf 86400 IN NS ns.cvt
+86400 IN NS ns.chtf
+ns.nca 86400 IN A 147.175.99.226
+festival 86400 IN NS ns
+86400 IN NS ns.cvt
+www.nanosys 86400 IN CNAME aladin.elf
+fchpt 86400 IN NS ns.cvt
+86400 IN NS ns.fchpt
+technik 86400 IN MX 30 aladin.elf
+86400 IN MX 60 info.elf
+www.absolventi 86400 IN CNAME pluto2.cvt
+ubytovanie 86400 IN A 147.175.6.147
+grid 86400 IN NS ns.cvt
+86400 IN NS ns2.cvt
+ects 300 IN CNAME pluto2.cvt
+www.univerziada 86400 IN CNAME pluto2.cvt
+uvp 86400 IN CNAME pluto2.cvt
+old.ckp 86400 IN CNAME pluto2.cvt
+www.nadacia 86400 IN CNAME pluto2.cvt
+prihlaska 86400 IN CNAME is
+das 86400 IN A 147.175.1.161
+ldap2 86400 IN A 147.175.1.15
+ckp 86400 IN CNAME pluto2.cvt
+ns.svf 86400 IN A 147.175.16.10
+www.ksp 86400 IN CNAME pluto2.cvt
+e-majales 86400 IN CNAME www.ktl.elf
+ns.mtf 86400 IN A 147.175.130.10
+ns.mtf 86400 IN AAAA 2001:4118:10:8210::5
+www.technik 86400 IN CNAME pluto2.cvt
+redzur 86400 IN CNAME www.ktl.elf
+sfei 86400 IN NS ns
+86400 IN NS ns.cvt
+ns.fiit 86400 IN A 147.175.159.11
+ds 86400 IN NS ns.cvt
+86400 IN NS ns2.cvt
+oze 86400 IN NS ns
+86400 IN NS ns.cvt
+devel 1800 IN CNAME pluto2.cvt
+fiit 86400 IN NS ns.fiit
+86400 IN NS ns2.fiit
+publview2 300 IN CNAME olib2.cvt
+energetika2010 86400 IN NS ns
+www.ubytovanie 86400 IN CNAME ubytovanie
+ca 86400 IN A 147.175.1.11
+www.karta 86400 IN CNAME pluto2.cvt
+asdam 86400 IN NS ns
+radius 86400 IN A 147.175.1.11
+www.vetekom 86400 IN A 147.175.3.240
+cvt 86400 IN NS ns.cvt
+86400 IN NS ns
+jvc13 86400 IN NS ns
+86400 IN NS ns.cvt
+nanosys 86400 IN CNAME aladin.elf
+publview 300 IN CNAME kis.cvt
+fa 86400 IN NS ns.svf
+86400 IN NS ns.pese.sk.
+86400 IN NS ns.cvt
+86400 IN NS ns
+regina-new 86400 IN A 147.175.6.162
+kis 300 IN CNAME kis.cvt

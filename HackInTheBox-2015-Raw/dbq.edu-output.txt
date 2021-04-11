@@ -1,0 +1,89 @@
+@ 3600 IN SOA udwinns1 hostmaster 2015033001 900 600 86400 3600
+@ 3600 IN A 205.221.28.1
+@ 3600 IN NS pdns04.domaincontrol.com.
+3600 IN NS ns1
+3600 IN NS pdns03.domaincontrol.com.
+@ 3600 IN MX 15 mailfilter
+3600 IN MX 10 dbq-edu.mail.protection.outlook.com.
+@ 3600 IN TXT "v=msv1 t=166489c220e84988b10351d210a9ba"
+3600 IN TXT "v=spf1 ip4:205.221.28.131 include:spf.protection.outlook.com include:spf.boardbooks.com -all"
+ezproxy 3600 IN A 205.221.28.150
+sip 3600 IN CNAME sipdir.online.lync.com.
+pdns03.domaincontrol.com. 3600 IN A 216.69.185.51
+pdns04.domaincontrol.com. 3600 IN A 208.109.255.51
+libguides 3600 IN CNAME v2.libguides.com.
+cgimdata 3600 IN CNAME uddata
+uddata 3600 IN A 205.221.28.58
+udwindir 3600 IN A 205.221.28.91
+smtp2 3600 IN A 205.221.28.72
+hlc 3600 IN A 205.221.28.74
+adc 3600 IN A 205.221.28.144
+cms 3600 IN A 205.221.28.123
+webhost 3600 IN A 205.221.28.151
+firewall 3600 IN A 205.221.28.1
+cgim 3600 IN A 205.221.28.54
+mailfilter 3600 IN A 205.221.28.131
+gve 3600 IN A 205.221.28.115
+mailfilter2 3600 IN A 205.221.28.30
+scan 3600 IN A 205.221.28.71
+dev 3600 IN A 205.221.28.170
+bookstore 3600 IN A 67.133.85.179
+wpad 3600 IN A 172.29.20.2
+3600 IN A 172.29.20.1
+lifeahead 3600 IN A 205.221.28.52
+people 3600 IN A 205.221.28.52
+video 3600 IN A 205.221.28.165
+eres 3600 IN A 205.221.28.59
+lifeaheadcr 3600 IN A 205.221.28.52
+pop3 3600 IN A 205.221.28.20
+vpn 3600 IN A 205.221.28.1
+dubnetcl05 3600 IN A 205.221.28.1
+nwwebhost 3600 IN A 205.221.28.50
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+wendt 3600 IN A 205.221.28.52
+cmedia 3600 IN A 205.221.28.76
+facdata 3600 IN CNAME uddata
+ns1 3600 IN A 205.221.28.70
+mobile 3600 IN A 205.221.28.168
+spam 3600 IN CNAME mailfilter
+email 3600 IN CNAME www.outlook.com.
+application1 3600 IN A 205.221.28.40
+application2 3600 IN A 205.221.28.41
+application3 3600 IN A 205.221.28.140
+application4 3600 IN A 205.221.28.143
+maxient 3600 IN A 205.221.28.52
+app1 3600 IN A 205.221.28.40
+app2 3600 IN A 205.221.28.41
+app3 3600 IN A 205.221.28.140
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+my 3600 IN A 205.221.28.55
+pac1 3600 IN A 205.221.28.141
+ats 3600 IN A 205.221.28.177
+digitalud-dev 3600 IN CNAME digitalud
+pac2 3600 IN A 205.221.28.142
+studata 3600 IN CNAME uddata
+udalumni 3600 IN MX 10 member-email.ymem.net.
+udts 3600 IN A 205.221.28.52
+*.ezproxy 3600 IN A 205.221.28.150
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 3600 IN A 205.221.28.52
+media 3600 IN A 205.221.28.164
+proxy 3600 IN A 172.29.20.1
+3600 IN A 172.29.20.2
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+alumni 3600 IN CNAME cluster15.ymem.net.
+udwinns1 3600 IN A 205.221.28.70
+data 3600 IN A 205.221.28.52
+digitalud 3600 IN A 216.119.149.42
+test 3600 IN MX 10 25974d97ebae21491be60f68ed0b99.mail.outlook.com.
+test 3600 IN TXT "v=msv1 t=25974d97ebae21491be60f68ed0b99"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+library 3600 IN A 205.221.28.56
+udonline 3600 IN CNAME dbq.mrooms.net.
+autodiscover.test 3600 IN CNAME autodiscover.outlook.com.
+application 3600 IN A 205.221.28.41
+3600 IN A 205.221.28.40
+cis 3600 IN A 205.221.28.100
+smtp 3600 IN CNAME mailfilter
+intranet 3600 IN A 205.221.28.64
+pfaids 3600 IN A 205.221.28.57

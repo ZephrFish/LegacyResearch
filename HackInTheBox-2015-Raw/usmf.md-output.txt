@@ -1,0 +1,33 @@
+@ 3600 IN SOA ns1.host-md.net. postmaster 1410164342 14400 7200 1209600 86400
+@ 3600 IN NS ns1.host-md.net.
+3600 IN NS ns2.host-md.net.
+@ 3600 IN A 81.180.66.4
+@ 3600 IN MX 0 aspmx.l.google.com.
+3600 IN MX 10 alt1.aspmx.l.google.com.
+3600 IN MX 10 alt2.aspmx.l.google.com.
+3600 IN MX 20 aspmx2.googlemail.com.
+hinari 604800 IN A 81.180.66.4
+hr 604800 IN A 81.180.66.5
+hr2 86400 IN A 81.180.66.24
+phpmyadmin 604800 IN A 81.180.66.5
+* 3600 IN A 81.180.66.4
+misisq 86400 IN A 81.180.66.41
+clone 86400 IN A 81.180.66.24
+mail 86400 IN A 81.180.66.4
+e-lozan 86400 IN A 81.180.66.3
+qserver 604800 IN A 81.180.66.12
+ums 604800 IN A 81.180.66.5
+newums 86400 IN A 81.180.66.5
+new-ums2 86400 IN A 81.180.66.24
+biochimie 86400 IN A 81.180.66.4
+eticacercetare 604800 IN A 81.180.66.4
+www 3600 IN CNAME @
+e 3600 IN A 81.180.66.3
+ums2 3600 IN A 81.180.66.24
+ums3 86400 IN A 81.180.66.23
+www2 3600 IN A 81.180.66.4
+library 604800 IN A 81.180.66.41
+usmf.md 3600 IN NS ns1.host-md.net.
+3600 IN NS ns2.host-md.net.
+task 86400 IN A 81.180.66.4
+medlib 604800 IN A 81.180.66.9

@@ -1,0 +1,73 @@
+@ 10800 IN SOA ns1 master 2008072203 18000 7200 1300000 10800
+@ 10800 IN NS ns1
+10800 IN NS ns2
+@ 10800 IN A 78.38.27.6
+@ 10800 IN MX 1 zimail
+@ 10800 IN TXT "v=spf1 ip4:87.38.27.39 a mx ?all"
+ah-queue 10800 IN A 10.116.20.14
+workshop 10800 IN CNAME web2
+jpharmacy 10800 IN CNAME web2
+poshtibani 10800 IN CNAME library
+ns1 10800 IN A 78.38.27.3
+ns2 10800 IN A 78.38.27.4
+eprints 10800 IN CNAME web2
+kargozini 10800 IN A 10.117.250.36
+ehr 10800 IN A 10.117.250.31
+amar 10800 IN CNAME web2
+webda 10800 IN CNAME web2
+ib 10800 IN CNAME web2
+web 10800 IN CNAME pilot-pc
+diglib 10800 IN CNAME library
+transport 10800 IN A 10.117.250.40
+hcjournal 10800 IN CNAME ejournals
+health 10800 IN CNAME library
+iicm 10800 IN CNAME web2
+pmail 10800 IN A 168.220.200.133
+scholar 10800 IN CNAME web2
+icbc 10800 IN CNAME web2
+www.pharmacy 10800 IN CNAME web2
+downloads 10800 IN CNAME web2
+drugs 10800 IN CNAME library
+oa 10800 IN A 10.117.250.10
+10800 IN A 10.117.250.11
+10800 IN A 10.117.250.12
+10800 IN A 10.117.250.13
+mail 10800 IN CNAME zimail
+vpn 10800 IN A 78.38.27.17
+journals 10800 IN CNAME web2
+healthjournal 10800 IN CNAME ejournals
+pajoohesh 10800 IN CNAME library
+elearning 10800 IN CNAME library
+lib 10800 IN CNAME web2
+koha-admin 10800 IN CNAME web2
+epharmacy 10800 IN CNAME web2
+congress 10800 IN CNAME web2
+msn 10800 IN A 78.38.27.16
+zimail 10800 IN A 78.38.27.39
+zimail 10800 IN TXT "v=spf1 a -all"
+src 10800 IN CNAME library
+education 10800 IN CNAME library
+ravabet 10800 IN CNAME library
+61BBA716-CC18-11E4-934A-FD6178BEDEFB._domainkey 10800 IN TXT "(" "v=DKIM1; k=rsa; " "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7FLGauY4x7iuJ7yLRjiWGdPSPVbapVca9wglPLAwX36HGLD3HxkVDeXhH/iBFNX7NJ5hGHGBiMwMlCHzt7+nKN4L74MPuBl5XaIcx6UkPy7NIx/MU5V1P95Y4P+Zud1r/g7WY1tNBFkwIZbJONpA/L5YLjMAwyaM4++AaTBUyZQIDAQAB" ")"
+www 10800 IN CNAME web2
+nself 10800 IN A 78.38.27.31
+server4 10800 IN A 168.220.200.11
+10800 IN A 168.220.200.25
+medicine 10800 IN CNAME library
+server7 10800 IN A 78.38.27.12
+dspace 10800 IN CNAME library
+diglib1 10800 IN CNAME library
+ejournals 10800 IN A 78.38.27.37
+basijmed 10800 IN CNAME library
+sama 10800 IN A 10.117.250.38
+staff-edu 10800 IN CNAME web2
+dasj 10800 IN A 78.38.27.25
+library 10800 IN A 78.38.27.15
+koha 10800 IN CNAME web2
+intranet 10800 IN CNAME web2
+ih-queue 10800 IN A 10.117.255.1
+nursing 10800 IN CNAME library
+student 10800 IN CNAME library
+web2 10800 IN A 78.38.27.6
+darman 10800 IN CNAME library
+jarums 10800 IN CNAME ejournals

@@ -1,0 +1,7 @@
+@ 3600 IN SOA ns1.net4india.com. hostmaster.net4india.com. 3000000122 10800 3600 604800 3600
+@ 3600 IN NS ns1.net4india.com.
+3600 IN NS ns2.net4india.com.
+@ 3600 IN MX 10 mail
+@ 3600 IN A 113.30.140.32
+mail 3600 IN A 14.139.156.115
+www 3600 IN A 113.30.140.32

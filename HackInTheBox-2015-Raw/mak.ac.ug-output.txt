@@ -1,0 +1,777 @@
+@ 28800 IN SOA ns1 dnsadmin.dicts 2015042901 7200 3600 604800 86400
+@ 28800 IN NS ns1
+28800 IN NS ns2
+28800 IN NS phloem.uoregon.edu.
+@ 28800 IN A 196.43.133.108
+@ 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.ilabs 28800 IN CNAME ilabs
+clcs 28800 IN A 196.43.133.84
+www.etms 28800 IN CNAME etms
+mail.directory 28800 IN A 196.43.133.84
+acss 28800 IN A 196.43.133.84
+stat 28800 IN A 196.43.133.84
+hrbd 28800 IN A 196.43.133.108
+www.svar 28800 IN CNAME svar
+aecs 28800 IN A 196.43.133.84
+bookshop 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.governance 28800 IN CNAME governance
+www.gradtrack 28800 IN CNAME gradtrack
+rgt 28800 IN A 196.43.133.104
+rgt 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+drupal 28800 IN A 196.43.133.84
+www.makdrive 28800 IN CNAME makdrive
+lincolnfw 28800 IN A 196.43.132.146
+netflow 28800 IN A 196.43.133.34
+womenstudies 28800 IN A 196.43.133.84
+drc 28800 IN A 196.43.133.164
+w2 28800 IN A 196.43.133.84
+dokuwiki 28800 IN A 196.43.133.84
+estatesfw 28800 IN A 196.43.132.150
+sci 28800 IN A 196.43.133.84
+sci 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.buzz 28800 IN CNAME buzz
+www.distance 28800 IN CNAME distance
+staff 28800 IN A 196.43.133.108
+psychologyfw 28800 IN A 196.43.132.186
+www.dspace 28800 IN CNAME dspace
+blog 28800 IN A 196.43.133.84
+teeal 28800 IN A 196.43.133.110
+www.botany 28800 IN CNAME botany
+emailactivate 28800 IN A 196.43.133.68
+www.asf 28800 IN CNAME asf
+www.sophos 28800 IN CNAME sophos
+www.testchs 28800 IN CNAME testchs
+sgs 28800 IN A 196.43.133.84
+sgs 28800 IN MX 10 sgs
+28800 IN MX 20 sgs
+www.rgt 28800 IN CNAME rgt
+l3fuganda 28800 IN A 196.43.133.84
+mesau 28800 IN A 196.43.133.84
+mesau 28800 IN MX 10 mail-gw1
+28800 IN MX 20 mail-gw3
+vetfw 28800 IN A 196.43.134.90
+rmacs1 28800 IN A 196.43.133.84
+misrfw 28800 IN A 196.43.132.194
+etms 28800 IN A 196.43.133.72
+www.cgc 28800 IN CNAME cgc
+scholar 28800 IN A 196.43.133.84
+biochemandsports 28800 IN A 196.43.133.84
+www.cpas 28800 IN CNAME cpas
+makdos 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+svar 28800 IN A 196.43.133.84
+sb 28800 IN A 196.43.133.84
+www.childtrafficking 28800 IN CNAME childtrafficking
+www.chs 28800 IN CNAME chs
+www.govern 28800 IN CNAME govern
+sph 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.cis 28800 IN CNAME cis
+www.cit 28800 IN CNAME cit
+opldap 28800 IN A 196.43.133.17
+capsnac 28800 IN A 196.43.133.104
+sps 28800 IN A 196.43.133.84
+sps 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.application 28800 IN CNAME application
+dosate 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.lars2014 28800 IN CNAME lars2014
+openmrs 28800 IN A 196.43.133.84
+buzz 28800 IN A 196.43.133.74
+staug 28800 IN A 196.43.133.84
+jinjafw 28800 IN A 196.43.134.129
+www.intranet 28800 IN CNAME intranet
+www.gender 28800 IN CNAME gender
+nbdb 28800 IN A 196.43.133.84
+www.libis 28800 IN CNAME libis
+www.cns 28800 IN CNAME cns
+renu 28800 IN A 196.43.133.84
+www.mrc 28800 IN CNAME mrc
+muarik 28800 IN A 196.43.133.84
+journalism 28800 IN A 196.43.133.84
+chose 28800 IN A 196.43.133.84
+chose 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.swsa 28800 IN CNAME swsa
+www.igangamayuge-hdss 28800 IN CNAME igangamayuge-hdss
+demo 28800 IN A 196.43.133.78
+www.math 28800 IN CNAME math
+nagios 28800 IN A 196.43.133.89
+herbariumfw 28800 IN A 196.43.134.98
+cachemgr 28800 IN A 196.43.133.81
+sports 28800 IN A 196.43.133.84
+propoortourism 28800 IN A 196.43.133.84
+www.musacco 28800 IN CNAME musacco
+dnat 28800 IN A 196.43.134.6
+www.obsgyn 28800 IN CNAME obsgyn
+ilabs 28800 IN A 196.43.134.4
+mail-gw1 28800 IN A 196.43.133.7
+www.eaihesd 28800 IN CNAME eaihesd
+mail-gw3 28800 IN A 196.43.133.8
+mail 28800 IN A 196.43.133.68
+mail 28800 IN MX 10 mail
+cpas 28800 IN A 196.43.133.84
+huripec 28800 IN A 188.138.100.217
+huripec 28800 IN MX 10 mail.huripec
+28800 IN MX 20 mail.huripec
+muele 28800 IN A 196.43.133.73
+answers 28800 IN A 196.43.133.104
+arcade-hssr 28800 IN A 196.43.133.78
+www.change 28800 IN CNAME change
+www.radius 28800 IN CNAME radius
+www.covab 28800 IN CNAME covab
+sophosdownloads2 28800 IN A 196.43.133.71
+www.events 28800 IN CNAME events
+fortportal 28800 IN A 196.43.133.84
+fortportal 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+igangamayuge-hdss 28800 IN A 196.43.133.84
+admin 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+guest 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+dissertations 28800 IN A 196.43.133.120
+www.sftnb 28800 IN CNAME sftnb
+www.experts 28800 IN CNAME experts
+mulagofw 28800 IN A 196.43.132.210
+www.bams 28800 IN CNAME bams
+certs 28800 IN A 196.43.133.84
+bedrock 28800 IN MX 10 mail-gw3
+sas 28800 IN A 196.43.133.84
+dictsfw 28800 IN A 196.43.134.122
+www.viruscheck 28800 IN CNAME viruscheck
+masa 28800 IN A 196.43.133.84
+masa 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+iccape 28800 IN A 196.43.133.84
+www.murbs 28800 IN CNAME murbs
+swsa 28800 IN A 196.43.133.84
+math 28800 IN A 196.43.133.84
+math 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+dhcp 28800 IN AAAA 2c0f:f6d0:b:f::46
+dhcp 28800 IN A 196.43.133.46
+www.ufric 28800 IN CNAME ufric
+childtrafficking 28800 IN A 196.43.133.26
+www.scholar 28800 IN CNAME scholar
+www.dill 28800 IN CNAME dill
+www.mbl 28800 IN CNAME mbl
+www.dokuwiki 28800 IN CNAME dokuwiki
+www.drupal 28800 IN CNAME drupal
+projects 28800 IN A 196.43.133.104
+projects 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+sbs 28800 IN A 196.43.133.84
+viruscheck 28800 IN A 196.43.133.91
+vps 28800 IN A 196.43.133.84
+www.nufu 28800 IN CNAME nufu
+warmfw 28800 IN A 196.43.134.94
+dicts 28800 IN A 196.43.133.108
+dicts 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.dissertations 28800 IN CNAME dissertations
+www.isfiu 28800 IN CNAME isfiu
+sciencefw 28800 IN A 196.43.134.102
+students 28800 IN A 196.43.133.84
+www.secgroup.cit 28800 IN CNAME ghs.google.com.
+sfegs 28800 IN A 196.43.133.84
+makict 28800 IN A 196.43.133.84
+www.nettel 28800 IN CNAME nettel
+muasa 28800 IN A 196.43.133.84
+muasa 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+webcollab 28800 IN A 196.43.133.96
+alumni 28800 IN A 196.43.133.99
+alumni 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.library 28800 IN CNAME mulib
+www.crtt 28800 IN CNAME crtt
+iatmak 28800 IN A 196.43.133.84
+oldintranet 28800 IN A 196.43.133.17
+www.mcfscholars 28800 IN CNAME mcfscholars
+acadprogs 28800 IN A 196.43.133.84
+bams 28800 IN A 192.185.173.137
+bams 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.sbis 28800 IN CNAME sbis
+www.reforms 28800 IN CNAME reforms
+forums 28800 IN A 196.43.133.84
+forums 28800 IN MX 10 mail-gw1
+28800 IN MX 20 mail-gw3
+www.scothee 28800 IN CNAME scothee
+masscom 28800 IN A 196.43.133.84
+masscom 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+rms 28800 IN A 196.43.133.27
+www.sbls 28800 IN CNAME sbls
+90 28800 IN A 196.43.133.104
+muccri 28800 IN A 196.43.133.84
+dill 28800 IN A 196.43.133.84
+hostels 28800 IN A 196.43.133.84
+www.pilac 28800 IN CNAME pilac
+www.qadsurveys 28800 IN CNAME qadsurveys
+www 28800 IN CNAME @
+nufu 28800 IN A 196.43.133.84
+nufu 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.bcss 28800 IN CNAME bcss
+wgs 28800 IN A 196.43.133.84
+investment 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+guild 28800 IN A 196.43.133.84
+blogs 28800 IN A 196.43.133.104
+www.sgsrecords 28800 IN CNAME sgsrecords
+www.muarik 28800 IN CNAME muarik
+cinnamon.cit 28800 IN CNAME cit3
+survey 28800 IN A 196.43.133.78
+artsfw 28800 IN A 196.43.134.34
+db.directory 28800 IN A 196.43.133.84
+crtt 28800 IN A 196.43.133.104
+crtt 28800 IN MX 10 mail-gw1
+28800 IN MX 20 mail-gw3
+www.convocation 28800 IN CNAME convocation
+libraryfw 28800 IN A 196.43.134.18
+pilac 28800 IN A 196.43.133.84
+www.courses 28800 IN CNAME courses
+zoologyfw 28800 IN A 196.43.134.62
+sbis 28800 IN A 196.43.133.84
+www.fortportal 28800 IN CNAME fortportal
+www.econ 28800 IN CNAME econ
+www.vetmed 28800 IN CNAME vetmed
+rmacs 28800 IN A 196.43.133.84
+holdings 28800 IN A 196.43.133.104
+holdings 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+pathology 28800 IN A 196.43.133.84
+sbls 28800 IN A 196.43.133.84
+kabanyorofw 28800 IN A 196.43.132.166
+www.int 28800 IN CNAME int
+educationfw 28800 IN A 196.43.132.170
+agshare-ik 28800 IN A 41.76.208.60
+forum 28800 IN A 196.43.133.108
+senatefw 28800 IN A 196.43.132.130
+geography 28800 IN A 196.43.133.84
+bams-new 28800 IN A 196.43.133.84
+bcss 28800 IN A 196.43.133.84
+globe-project 28800 IN A 196.43.134.14
+chuss 28800 IN A 196.43.133.84
+chuss 28800 IN MX 10 mail-gw1
+28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+28800 IN MX 20 mail-gw3
+www.open 28800 IN CNAME open
+db.huripec 28800 IN A 188.138.100.121
+testchs 28800 IN A 196.43.133.84
+www.ezproxy 28800 IN CNAME ezproxy
+www.iccape 28800 IN CNAME iccape
+www.answers 28800 IN CNAME answers
+www.projects 28800 IN CNAME projects
+qadsurveys 28800 IN A 196.43.133.84
+peaceandconflict 28800 IN A 196.43.133.104
+asf 28800 IN A 196.43.133.104
+www.staff 28800 IN CNAME staff
+dr-muele 28800 IN A 196.43.133.78
+www.educ 28800 IN CNAME educ
+www.teeal 28800 IN CNAME teeal
+www.sgsris 28800 IN CNAME sgsris
+isae 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+idilmail 28800 IN A 196.0.25.170
+www.docs 28800 IN CNAME docs
+mathfw 28800 IN A 196.43.134.106
+www.globe-project 28800 IN CNAME globe-project
+econ 28800 IN A 196.43.133.84
+www.dspace2 28800 IN CNAME dspace2
+db2 28800 IN A 196.43.133.84
+diiaup 28800 IN A 196.43.133.84
+www.makict 28800 IN CNAME makict
+www.law 28800 IN CNAME law
+cgc 28800 IN A 196.43.133.84
+cgc 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+prospectus 28800 IN A 196.43.133.84
+elearnfutures 28800 IN A 196.43.133.84
+www.estates 28800 IN CNAME estates
+www.elearnfutures 28800 IN CNAME elearnfutures
+www.alumni 28800 IN CNAME alumni
+finance 28800 IN A 196.43.133.84
+finance 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+chs 28800 IN A 196.43.133.84
+chs 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+webmail.huripec 28800 IN CNAME huripec
+www.iatmak 28800 IN CNAME iatmak
+cis 28800 IN A 196.43.133.84
+cis 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+cit 28800 IN A 196.43.133.84
+open 28800 IN A 196.43.133.84
+www.lgs 28800 IN CNAME lgs
+www.lib 28800 IN CNAME mulib
+printery 28800 IN A 196.43.133.84
+printery 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+muspgs 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.misr 28800 IN CNAME misr
+cmc 28800 IN A 196.43.133.104
+cmc 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.lhs 28800 IN CNAME lhs
+gradtrack 28800 IN A 196.43.133.108
+ftbic 28800 IN A 196.43.133.84
+www.blocked 28800 IN CNAME blocked
+www.forums 28800 IN CNAME forums
+makef 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+makair2 28800 IN A 196.43.133.95
+www.map 28800 IN CNAME map
+www.chemistry 28800 IN CNAME chemistry
+musacco 28800 IN A 196.43.133.15
+musacco 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+cns 28800 IN A 196.43.133.84
+cns 28800 IN MX 10 mail-gw1
+28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+28800 IN MX 20 mail-gw3
+voip 28800 IN A 196.43.133.70
+www.mdd 28800 IN CNAME mdd
+www.cache 28800 IN CNAME cache
+www.muccri 28800 IN CNAME muccri
+www.geology 28800 IN CNAME geology
+www.tenders 28800 IN CNAME tenders
+educ 28800 IN A 196.43.133.104
+educ 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.lpa 28800 IN CNAME lpa
+makir 28800 IN A 196.43.133.72
+mjap 28800 IN A 196.43.133.84
+graduateschool 28800 IN CNAME sgs
+www.directory 28800 IN CNAME directory
+muienr 28800 IN A 196.43.133.84
+muienr 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+docs 28800 IN A 196.43.133.104
+wsus 28800 IN A 196.43.133.72
+voip-standby 28800 IN A 196.43.133.111
+lists 28800 IN A 196.43.133.75
+lists 28800 IN MX 10 mail-gw3
+dr2 28800 IN A 196.43.133.21
+dr3 28800 IN A 196.43.133.21
+ar 28800 IN A 196.43.132.132
+www.giscentre 28800 IN CNAME giscentre
+ccd.ss 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+db 28800 IN A 196.43.133.84
+policies 28800 IN A 196.43.133.104
+portal 28800 IN A 196.43.133.108
+dms 28800 IN A 196.43.133.78
+www.nav 28800 IN CNAME nav
+experts 28800 IN A 196.43.133.104
+www.caes 28800 IN CNAME caes
+dr 28800 IN A 196.43.133.21
+makpay 28800 IN A 196.43.133.113
+www.mkw 28800 IN CNAME mkw
+dos 28800 IN A 196.43.133.84
+www.arms 28800 IN CNAME arms
+emuklabs 28800 IN A 196.43.134.4
+www.sida 28800 IN CNAME sida
+biological 28800 IN A 196.43.133.84
+ia 28800 IN A 196.43.133.84
+ia 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.policies 28800 IN CNAME policies
+www.mjap 28800 IN CNAME mjap
+mail.huripec 28800 IN A 188.138.100.125
+www.sifa 28800 IN CNAME sifa
+hr 28800 IN A 196.43.133.84
+misr 28800 IN A 196.43.133.104
+misr 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.propoortourism 28800 IN CNAME propoortourism
+jc 28800 IN A 196.43.133.84
+www.holdings 28800 IN CNAME holdings
+www.agshare-ik 28800 IN CNAME agshare-ik
+nettel 28800 IN A 196.43.133.84
+forestry 28800 IN A 196.43.133.84
+www.hrbd 28800 IN CNAME hrbd
+ldclearning 28800 IN A 196.43.133.78
+www.arts 28800 IN CNAME arts
+www.mesau 28800 IN CNAME mesau
+webserv-03-15 28800 IN A 196.43.133.104
+hdss 28800 IN A 196.43.133.84
+hdss 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.jobs 28800 IN CNAME jobs
+aidevblog.cit 28800 IN CNAME ghs.google.com.
+www.certs 28800 IN CNAME certs
+mailadmin 28800 IN A 196.43.133.68
+www.ocw 28800 IN CNAME ocw
+ijcir 28800 IN A 196.43.133.84
+cedat 28800 IN A 196.43.133.84
+cedat 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+agricfw 28800 IN A 196.43.134.74
+jocom 28800 IN A 196.43.133.84
+ns1 28800 IN A 196.43.133.5
+library 28800 IN CNAME mulib
+rt 28800 IN A 196.43.133.124
+rt 28800 IN MX 10 rt
+acadreg 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+easlis 28800 IN A 196.43.133.84
+easlis 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+ss 28800 IN A 196.43.133.84
+ss 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+old 28800 IN A 196.43.133.104
+www.paf 28800 IN CNAME paf
+ewd 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+vc 28800 IN A 196.43.133.84
+www.90 28800 IN CNAME 90
+www.dr-muele 28800 IN CNAME dr-muele
+arms 28800 IN A 196.43.134.3
+www.dicts 28800 IN CNAME dicts
+reforms 28800 IN A 196.43.133.84
+www.ntp 28800 IN CNAME ntp
+sida 28800 IN A 196.43.133.84
+sida 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.grad 28800 IN CNAME grad
+caes 28800 IN A 196.43.133.84
+caes 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.pdd 28800 IN CNAME pdd
+www.prospectus 28800 IN CNAME prospectus
+www.sfegs 28800 IN CNAME sfegs
+sifa 28800 IN A 196.43.133.84
+sifa 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.muasa 28800 IN CNAME muasa
+guesthouse 28800 IN A 196.43.133.104
+db.wifihost 28800 IN A 196.43.133.86
+council 28800 IN MX 20 mail-gw3
+ossim 28800 IN A 196.43.133.121
+agric 28800 IN A 196.43.133.84
+agric 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+pilac.mak.ac.ug 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.diiaup 28800 IN CNAME diiaup
+arts 28800 IN A 196.43.133.84
+arts 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.qad 28800 IN CNAME qad
+tclab 28800 IN A 196.43.133.84
+www.statdata 28800 IN CNAME statdata
+jobs 28800 IN A 196.43.133.104
+www.cmc 28800 IN CNAME cmc
+www.printery 28800 IN CNAME printery
+intranet 28800 IN A 196.43.133.108
+www.arcade-hssr 28800 IN CNAME arcade-hssr
+musicarchive 28800 IN A 196.43.133.104
+musicarchive 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.blog 28800 IN CNAME blog
+muskbackup 28800 IN A 196.43.134.51
+db.makair 28800 IN A 196.43.133.86
+www.ngaa 28800 IN CNAME ngaa
+sophosdownloads 28800 IN A 196.43.133.91
+netdot 28800 IN A 196.43.133.106
+courses 28800 IN A 196.43.133.108
+www.l3fuganda 28800 IN CNAME l3fuganda
+l3farmers 28800 IN A 196.43.133.84
+webhost 28800 IN A 196.43.133.84
+clustersuganda 28800 IN A 196.43.133.84
+mailbackup 28800 IN A 196.43.133.68
+idi 28800 IN A 174.141.234.215
+www.peaceandconflict 28800 IN CNAME peaceandconflict
+application 28800 IN A 196.43.133.76
+core1 28800 IN A 196.43.132.85
+core2 28800 IN A 196.43.132.86
+grad 28800 IN A 196.43.133.84
+www.guild 28800 IN CNAME guild
+www.blogs 28800 IN CNAME blogs
+languagesfw 28800 IN A 196.43.134.70
+www.aidevblog.cit 28800 IN CNAME ghs.google.com.
+forest 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+wifihost 28800 IN A 196.43.133.86
+www.news 28800 IN CNAME news
+cll 28800 IN A 196.43.133.84
+J7N6MYFZDZ6S 28800 IN CNAME gv-WQTE4IMBM6XOJV.dv.googlehosted.com.
+www.cees 28800 IN CNAME cees
+hrd 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.physics 28800 IN CNAME physics
+www.biological 28800 IN CNAME biological
+hrm 28800 IN A 196.43.133.78
+zoology 28800 IN A 196.43.133.84
+zoology 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+sgsris 28800 IN A 196.43.133.84
+www.portal 28800 IN CNAME portal
+www.emuklabs 28800 IN CNAME emuklabs
+www.nbdb 28800 IN CNAME nbdb
+lgs 28800 IN A 196.43.133.84
+www.finance 28800 IN CNAME finance
+www.makpay 28800 IN CNAME makpay
+ezproxy 28800 IN A 196.43.133.14
+statistics 28800 IN A 196.43.133.84
+www.sas 28800 IN CNAME sas
+www.jc 28800 IN CNAME jc
+www.sports 28800 IN CNAME sports
+rtr1 28800 IN A 196.43.132.95
+rtr2 28800 IN A 196.43.132.87
+int 28800 IN A 196.43.133.84
+www.forestry 28800 IN CNAME forestry
+www.sbs 28800 IN CNAME sbs
+iace 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.rms 28800 IN CNAME rms
+radadmin 28800 IN A 196.43.133.86
+www.tech 28800 IN CNAME tech
+payslips 28800 IN A 196.43.133.68
+payslips 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.stfrancis 28800 IN CNAME stfrancis
+ngaa 28800 IN A 196.43.133.84
+www.elsa 28800 IN CNAME elsa
+mumsa 28800 IN A 196.43.133.84
+mueletest 28800 IN A 196.43.133.78
+www.muskbackup 28800 IN CNAME musk
+www.forum 28800 IN CNAME forum
+www.muele 28800 IN CNAME muele
+scholars 28800 IN A 196.43.133.104
+www.sgs 28800 IN CNAME sgs
+its 28800 IN A 196.43.133.83
+www.llc 28800 IN CNAME llc
+www.chuss 28800 IN CNAME chuss
+sgsrecords 28800 IN A 196.43.133.84
+monitor 28800 IN A 196.43.133.95
+dspace3 28800 IN CNAME makir
+physicsfw 28800 IN A 196.43.134.86
+news 28800 IN A 196.43.133.74
+mulib 28800 IN A 196.43.133.104
+mulib 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+lawfw 28800 IN A 196.43.132.122
+makula 28800 IN A 196.43.133.123
+makula 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+cees 28800 IN A 196.43.133.84
+cees 28800 IN MX 10 mail-gw1
+28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+28800 IN MX 20 mail-gw3
+estates 28800 IN A 196.43.133.84
+muinerfw 28800 IN A 196.43.134.66
+www.ibru 28800 IN CNAME ibru
+elin 28800 IN A 196.43.133.4
+www.makair 28800 IN CNAME makair
+www.zoology 28800 IN CNAME zoology
+www.gtug 28800 IN CNAME gtug
+www.easlis 28800 IN CNAME easlis
+www.guesthouse 28800 IN CNAME guesthouse
+www.sph 28800 IN CNAME sph
+incubator 28800 IN A 196.43.133.84
+law 28800 IN A 196.43.133.84
+law 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.fema 28800 IN CNAME fema
+cit1.mak.ac.ug 28800 IN A 196.43.134.154
+libis 28800 IN A 196.43.133.77
+blocked 28800 IN A 196.43.133.104
+mbl 28800 IN A 196.43.133.84
+www.chdc 28800 IN CNAME chdc
+stfrancis 28800 IN A 196.43.133.84
+tech 28800 IN A 196.43.133.84
+tech 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+webhost1 28800 IN A 196.43.133.103
+webhost3 28800 IN A 196.43.133.99
+listsbackup 28800 IN A 196.43.133.82
+eaihesd 28800 IN A 196.43.133.84
+geology 28800 IN A 196.43.133.84
+eportfolio 28800 IN A 196.43.133.84
+www.ar 28800 IN CNAME ar
+tenders 28800 IN A 196.43.133.104
+www.capsnac 28800 IN CNAME capsnac
+lib 28800 IN CNAME mulib
+www.db 28800 IN CNAME db
+lhs 28800 IN A 196.43.133.84
+chemistryfw 28800 IN A 196.43.134.58
+www.agric 28800 IN CNAME agric
+vuccnet 28800 IN A 196.43.133.78
+map 28800 IN A 196.43.133.104
+muiner 28800 IN A 196.43.133.84
+mcfscholars 28800 IN A 196.43.133.84
+llc 28800 IN A 196.43.133.84
+mdd 28800 IN A 196.43.133.84
+www.ftbic 28800 IN CNAME ftbic
+med 28800 IN A 196.43.133.84
+med 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.ia 28800 IN CNAME ia
+wirelessmonit 28800 IN A 196.43.133.109
+www.hr 28800 IN CNAME hr
+ibru 28800 IN A 196.43.133.84
+covab 28800 IN A 196.43.133.84
+covab 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+mainbuildingfw 28800 IN A 196.43.134.26
+lpa 28800 IN A 196.43.133.84
+gtug 28800 IN A 196.43.133.84
+webmail 28800 IN A 196.43.133.68
+hospital 28800 IN A 196.43.133.84
+hospital 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.vdp 28800 IN CNAME vdp
+mupsf 28800 IN A 196.43.133.84
+fema 28800 IN A 74.50.71.252
+fema 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+nav 28800 IN A 196.43.133.31
+murbs 28800 IN A 196.43.133.82
+ar-new 28800 IN A 196.43.133.84
+www.huripec 28800 IN CNAME huripec
+mkw 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+chdc 28800 IN A 196.43.133.84
+chdc 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.mubs 28800 IN CNAME mubs
+sftnb 28800 IN A 196.43.133.84
+www.mubu 28800 IN CNAME mubu
+www.dace 28800 IN CNAME dace
+makdrive 28800 IN A 196.43.133.84
+www.sb 28800 IN CNAME sb
+www.statistics 28800 IN CNAME statistics
+new 28800 IN A 196.43.133.84
+www.rt 28800 IN CNAME rt
+governance 28800 IN A 196.43.133.84
+dspace 28800 IN CNAME makir
+www.ss 28800 IN CNAME ss
+botany 28800 IN A 196.43.133.84
+botany 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+isaefw 28800 IN A 196.43.134.114
+convocation 28800 IN A 196.43.133.84
+distance 28800 IN A 196.43.133.84
+www.vc 28800 IN CNAME vc
+www.sci 28800 IN CNAME sci
+sophos 28800 IN A 196.43.133.91
+isfiu 28800 IN A 196.43.133.84
+isfiu 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.mupsf 28800 IN CNAME mupsf
+statdata 28800 IN A 196.43.133.84
+www.wgs 28800 IN CNAME wgs
+www.nagios 28800 IN CNAME nagios
+www.payslips 28800 IN CNAME payslips
+www.students 28800 IN CNAME students
+chemistry 28800 IN A 196.43.133.84
+chemistry 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+ns2 28800 IN A 196.43.133.6
+ns3 28800 IN A 196.43.133.32
+ocw 28800 IN A 196.43.133.108
+www.scholars 28800 IN CNAME scholars
+www.staug 28800 IN CNAME staug
+ufric 28800 IN A 196.43.133.84
+www.mupa 28800 IN CNAME mupa
+vetmed 28800 IN A 196.43.133.84
+vetmed 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.ijcir 28800 IN CNAME ijcir
+www.cedat 28800 IN CNAME cedat
+directory 28800 IN A 196.43.133.104
+www.ocw2 28800 IN CNAME ocw2
+www.jocom 28800 IN CNAME jocom
+paf 28800 IN A 196.43.133.84
+paf 28800 IN MX 10 mail-gw1
+28800 IN MX 20 mail-gw3
+peace-conflictfw 28800 IN A 196.43.132.142
+giscentre 28800 IN A 196.43.134.14
+mubs 28800 IN A 196.43.133.84
+mubs 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.pathology 28800 IN CNAME pathology
+mubu 28800 IN A 196.43.133.84
+mubu 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+ntp 28800 IN A 196.43.133.88
+dace 28800 IN A 196.43.133.84
+pdd 28800 IN A 196.43.133.104
+pdd 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.makula 28800 IN CNAME makula
+*.ezproxy 28800 IN A 196.43.133.14
+www.psyc 28800 IN CNAME psyc
+gender 28800 IN A 196.43.133.84
+gender 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+pdu 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+cit2 28800 IN A 196.43.133.9
+cit3 28800 IN A 196.43.134.155
+cit4 28800 IN A 196.43.133.9
+scothee 28800 IN A 196.43.133.84
+scothee 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+lars2014 28800 IN A 196.43.133.74
+www.clcs 28800 IN CNAME clcs
+musph 28800 IN A 108.178.41.26
+www.geography 28800 IN CNAME geography
+www.acss 28800 IN CNAME acss
+www.stat 28800 IN CNAME stat
+mugs 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+makair 28800 IN A 196.43.133.86
+www.eportfolio 28800 IN CNAME eportfolio
+mujc 28800 IN A 196.43.133.104
+mujc 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+muip 28800 IN A 196.43.133.84
+muip 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+qad 28800 IN A 196.43.133.104
+qad 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.masscom 28800 IN CNAME masscom
+pharmacy 28800 IN A 196.43.132.198
+obsgyn 28800 IN A 196.43.133.84
+www.tclab 28800 IN CNAME tclab
+www.ceems 28800 IN CNAME ceems
+www.biochemandsports 28800 IN CNAME biochemandsports
+mrc 28800 IN A 196.43.133.84
+mrc 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+mupa 28800 IN A 196.43.133.84
+mupa 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+www.renu 28800 IN CNAME renu
+change 28800 IN A 196.43.133.84
+radius 28800 IN A 196.43.133.86
+physics 28800 IN A 196.43.133.84
+physics 28800 IN MX 10 mail-gw3
+28800 IN MX 20 mail-gw1
+events 28800 IN A 196.43.133.108
+www.ldclearning 28800 IN CNAME ldclearning
+pro 28800 IN A 196.43.133.84
+amategaitu 28800 IN A 196.43.133.84
+www.mulib 28800 IN CNAME mulib
+www.sophosdownlods 28800 IN CNAME sophosdownlods
+www.hospital 28800 IN CNAME hospital
+psyc 28800 IN A 196.43.133.84
+techfw 28800 IN A 196.43.134.2
+www.oldintranet 28800 IN CNAME oldintranet

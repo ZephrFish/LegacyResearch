@@ -1,0 +1,48 @@
+@ 86400 IN SOA ns master.ulspu.ru 2014091906 28800 7200 604800 86400
+@ 86400 IN A 95.68.245.183
+@ 86400 IN MX 10 @
+@ 86400 IN NS ns
+86400 IN NS ns0.xname.org.
+86400 IN NS ns1.xname.org.
+stat 86400 IN CNAME sts
+korukina 86400 IN A 95.68.247.209
+pelouse 86400 IN CNAME korukina
+_xmpp-server._tcp.vt 86400 IN SRV 5 0 5269 vt
+_http._tcp.ulprice 86400 IN SRV 0 0 80 ulprice
+86400 IN SRV 1 0 80 ulprice2
+gagarina 86400 IN A 95.68.246.224
+stest 86400 IN CNAME ns
+root 86400 IN CNAME sts
+vt 86400 IN A 95.68.245.183
+stat2 86400 IN CNAME sts
+priem 86400 IN CNAME ns
+master 86400 IN CNAME master255.ssh01.com.
+ulprice 86400 IN CNAME vt
+store 86400 IN CNAME community
+ulprice2 86400 IN CNAME master255.gotdns.org.
+rusgrav14 86400 IN CNAME ns
+kinf 86400 IN CNAME ns
+test 86400 IN CNAME ns
+mail 86400 IN CNAME ns
+stat3 86400 IN CNAME ns
+_xmpp-client._tcp.vt 86400 IN SRV 5 0 5222 vt
+prism 86400 IN CNAME ns
+community 86400 IN A 95.68.244.91
+_sip._udp.community 86400 IN SRV 10 5 5060 community
+ftp 86400 IN CNAME ns
+mediateka 86400 IN A 95.68.246.227
+_jabber._tcp.vt 86400 IN SRV 5 0 5269 vt
+ns 86400 IN A 95.68.245.183
+new 86400 IN CNAME ns
+job 86400 IN CNAME ns
+note 86400 IN CNAME vt
+www 86400 IN CNAME @
+kiosk 86400 IN CNAME ns
+sts 86400 IN A 89.250.162.235
+lmm 86400 IN CNAME ns
+se 86400 IN A 46.8.127.239
+do 86400 IN CNAME ns
+simb2 86400 IN A 95.68.241.74
+brs 86400 IN CNAME ns
+en 86400 IN CNAME @
+lgca 86400 IN A 199.119.227.195

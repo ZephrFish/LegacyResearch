@@ -1,0 +1,33 @@
+@ 3600 IN SOA web admin.ceta 338 3600 600 86400 3600
+@ 3600 IN A 164.42.128.100
+@ 3600 IN NS web
+@ 3600 IN MX 10 alpha
+@ 3600 IN TXT "v=spf1 mx mx:alpha.sg.inter.edu ip4:164.42.128.5 ~all"
+vsc2 3600 IN A 192.168.140.30
+alpha 3600 IN A 164.42.128.5
+alpha 3600 IN MX 10 alpha
+intervod 3600 IN CNAME nxg1.vod
+vsc0 3600 IN A 164.42.129.30
+cai01 3600 IN A 164.42.118.239
+vod 3600 IN NS web
+labs 3600 IN NS web.
+msdnaa 3600 IN CNAME www
+cai 3600 IN CNAME www
+mail 3600 IN CNAME alpha
+dspace.cai 3600 IN A 164.42.129.41
+view 3600 IN A 192.168.140.15
+vsc 3600 IN CNAME vsc2
+ftp 3600 IN A 164.42.128.100
+www 3600 IN A 164.42.128.100
+old 3600 IN CNAME www
+wsus 3600 IN A 192.168.140.44
+ceta 3600 IN NS web
+esx01 3600 IN A 192.168.140.12
+esx02 3600 IN A 192.168.140.13
+badali 3600 IN CNAME www
+mysql 3600 IN CNAME vsc2
+vcenter 3600 IN A 192.168.140.43
+www3 3600 IN CNAME www
+www2 3600 IN CNAME www
+sus 3600 IN CNAME wsus
+dns 3600 IN CNAME www

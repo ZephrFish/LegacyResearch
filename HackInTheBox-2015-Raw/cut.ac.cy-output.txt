@@ -1,0 +1,178 @@
+@ 38400 IN SOA ns1 network.services 1300708153 10800 3600 1209600 38400
+@ 3600 IN TXT "O9g2656/CVIjC68Jlg3XycAQJFS64oEqnnjA/GVCRTu6WhauFMGy0RU5+rGk2VOU7C22KMkYr7EuEyPIpY9hvw=="
+3600 IN TXT "v=msv1 t=341a544d0dd9db43b1dbb6b11446ea"
+@ 38400 IN MX 20 mail-out.cablenet.com.cy.
+38400 IN MX 15 smtp1
+38400 IN MX 15 smtp
+@ 38400 IN NS ns3
+38400 IN NS ns2
+38400 IN NS ns1
+cloudmail 38400 IN CNAME mail.office365.com.
+wow 38400 IN A 176.227.236.11
+lyncdiscover.edu12 3600 IN CNAME webdir.online.lync.com.
+amathus 38400 IN A 176.227.234.161
+radio 38400 IN A 176.227.235.136
+labs 38400 IN A 87.228.200.137
+airquality 38400 IN A 176.227.235.149
+_sip._tls.aca 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+_autodiscover._tcp.edu 38400 IN SRV 0 0 443 mail
+lyncdiscover.edu 3600 IN CNAME webdir.online.lync.com.
+edu11 38400 IN TXT "v=msv1 t=fbd9640eb15343ac71e057da2330d7"
+edu11 38400 IN MX 0 fbd9640eb15343ac71e057da2330d7.mail.outlook.com.
+edu12 3600 IN TXT "v=msv1 t=71366829e5f543459e5ff87b9c8992"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+edu12 38400 IN MX 0 71366829e5f543459e5ff87b9c8992.mail.outlook.com.
+edu13 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+edu13 3600 IN MX 0 edu13-cut-ac-cy.mail.protection.outlook.com.
+emr 38400 IN A 176.227.235.5
+ns2 38400 IN A 176.227.224.252
+seiis 38400 IN A 176.227.236.25
+vms01ist00 38400 IN A 176.227.236.13
+lyncdiscover.alu11 3600 IN CNAME webdir.online.lync.com.
+lyncdiscover.alu12 3600 IN CNAME webdir.online.lync.com.
+ipt-gk 38400 IN A 176.227.224.26
+blogs 34000 IN A 176.227.236.25
+elr02ist00 38400 IN A 176.227.236.24
+darwin 38400 IN A 176.227.235.250
+cloud 38400 IN A 176.227.236.16
+cutapps 38400 IN A 176.227.234.142
+sip.aca 3600 IN CNAME sipdir.online.lync.com.
+alu11 3600 IN TXT "v=msv1 t=58c744271f9a3d4a8d004a52d91a7b"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+alu11 38400 IN MX 0 058c744271f9a3d4a8d004a52d91a7b.mail.outlook.com.
+eecei 3600 IN TXT "google-site-verification=JMarNauIYZzcamxg4w-8VDWyRsQBVqN_vP5CxDpAAUM"
+eecei 3600 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+sis 38400 IN A 176.227.236.19
+fetepak 38400 IN A 176.227.236.17
+vc 38400 IN A 176.227.224.27
+aca 3600 IN TXT "LpiEhq2aKERFEo8rPceSmKpzMRp4ac8+9SV1WuMaKQLHJhVAjOAvmGE1kP08Ekcz8H2FX9aowMZ8wgWgHp1Z9g=="
+3600 IN TXT "v=msv1 t=ea24858ea34440818e061afb4d894c"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+aca 38400 IN MX 0 ea24858ea34440818e061afb4d894c.mail.outlook.com.
+_sip._tls.alu 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+myaccess 38400 IN A 87.228.200.138
+libcat 38400 IN A 87.228.200.131
+ihnilatis 38400 IN A 176.227.234.155
+between 38400 IN A 176.227.236.17
+_sipfederationtls._tcp.iaeste 38400 IN SRV 10 2 5061 federation.messenger.msn.com.
+autodiscover 3600 IN A 176.227.234.158
+identity 38400 IN A 176.227.235.137
+mediasrv 38400 IN A 176.227.236.3
+_autodiscover._tcp 38400 IN SRV 0 0 443 mail
+ist 3600 IN TXT "MS=ms63905852"
+mail 38400 IN A 176.227.234.158
+msoid.edu 3600 IN CNAME clientconfig.microsoftonline-p.net.
+calc 38400 IN A 176.227.234.153
+m 38400 IN A 176.227.234.134
+_autodiscover._tcp.aca 38400 IN SRV 0 0 443 mail
+lyncdiscover.aca 3600 IN CNAME webdir.online.lync.com.
+sip.alu 3600 IN CNAME sipdir.online.lync.com.
+smtp1 38400 IN A 176.227.236.127
+researchpro.elibrary 38400 IN A 205.227.90.248
+_sip._tls.edu12 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www2 38400 IN A 176.227.236.18
+www3 38400 IN A 176.227.236.34
+smtp 38400 IN A 176.227.236.129
+streaming 38400 IN A 176.227.236.13
+amathus-staff 38400 IN CNAME amathus
+thalchorwebgis 38400 IN A 176.227.235.2
+alu 3600 IN TXT "v=spf1 include:outlook.com ~all"
+3600 IN TXT "v=msv1 t=1334017819265730507"
+alu 38400 IN MX 20 1334017819265730507.msv1.invalid
+38400 IN MX 10 1334017819265730507.mail.outlook.com.
+_sip._tls.alu12 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+orion 38400 IN A 176.227.234.139
+rptepak.elibrary 38400 IN A 205.227.90.231
+meetme 38400 IN A 176.227.236.6
+cutsapsis 38400 IN A 176.227.236.39
+testsisportal 38400 IN A 176.227.234.6
+ns1 38400 IN A 176.227.224.251
+_sip 3600 IN SRV 100 1 443 sipdir.online.lync.com
+ns3 38400 IN A 176.227.224.250
+apsida 38400 IN A 82.102.95.88
+cis 38400 IN A 176.227.236.110
+cutsaprtr 38400 IN A 176.227.224.130
+ecourses-trial 38400 IN A 176.227.236.33
+ktisis 38400 IN A 176.227.236.21
+vaa 38400 IN A 176.227.235.39
+cutaccount 38400 IN A 176.227.234.151
+cutspam 38400 IN A 176.227.234.136
+_sip._tls.alu11 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+elibrary 38400 IN A 176.227.234.138
+robosrv 38400 IN A 176.227.235.235
+erdasapollo 38400 IN A 176.227.235.33
+cutradio 38400 IN A 176.227.235.3
+_autodiscover._tcp.alu 38400 IN SRV 0 0 443 mail
+lyncdiscover.alu 3600 IN CNAME webdir.online.lync.com.
+www.echord.eu 38400 IN A 131.159.60.94
+interactionlab 38400 IN A 103.1.174.1
+aiai2013 38400 IN A 176.227.236.25
+newmail 3600 IN A 176.227.234.158
+_sipfederationtls 3600 IN SRV 100 1 5061 sipfed.online.lync.com
+webmail 38400 IN A 176.227.234.158
+1334017819265730507.alu 38400 IN CNAME domains.live.com.
+lib00dmm02 38400 IN A 176.227.236.12
+ntp 38400 IN A 176.227.224.249
+archivemanager 38400 IN A 176.227.234.132
+imap 38400 IN A 176.227.234.137
+athena 38400 IN A 176.227.234.157
+laografikoslemesou 38400 IN A 176.227.234.154
+sip.edu12 3600 IN CNAME sipdir.online.lync.com.
+_sipfederationtls._tcp.aca 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+sedo 38400 IN A 176.227.235.4
+_sipfederationtls._tcp.alu12 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+oldamathus 38400 IN A 176.227.234.140
+europedirect 38400 IN A 176.227.236.17
+helates 38400 IN A 176.227.234.156
+38400 IN A 176.227.236.10
+ilo 38400 IN A 176.227.236.4
+_autodiscover._tcp.email 38400 IN SRV 0 0 443 mail
+sts 38400 IN A 176.227.234.159
+actepak 38400 IN A 205.227.90.231
+libguides 38400 IN CNAME www.libguides.com.
+cigesoc 38400 IN A 176.227.236.17
+web 38400 IN A 176.227.236.17
+waterware 38400 IN A 176.227.235.32
+www.libguides.com 38400 IN A 174.132.16.38
+sip.alu11 3600 IN CNAME sipdir.online.lync.com.
+sip.alu12 3600 IN CNAME sipdir.online.lync.com.
+_sipfederationtls._tcp.edu12 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+linuxacad 34000 IN A 176.227.235.1
+library 38400 IN A 176.227.234.141
+autodiscover.edu13 3600 IN CNAME autodiscover.outlook.com.
+vpn 38400 IN A 176.227.224.17
+email 38400 IN MX 20 email
+email 38400 IN A 176.227.236.125
+legacy 38400 IN A 176.227.234.158
+_sipfederationtls._tcp.alu 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+geoserver 38400 IN A 176.227.235.148
+iaeste 3600 IN TXT "v=msv1 t=5b98a7188372de4baa086d19b9c1ef"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+www 38400 IN A 176.227.234.135
+weblib 34000 IN A 87.228.200.131
+ecourses 38400 IN A 176.227.236.23
+sip.edu 3600 IN CNAME sipdir.online.lync.com.
+msoid.edu13 3600 IN CNAME clientconfig.microsoftonline-p.net.
+m.elibrary 38400 IN A 176.227.234.138
+gpsstation 38400 IN A 176.227.235.130
+_sipfederationtls._tcp.alu11 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+autodiscover.edu 3600 IN A 176.227.234.158
+locomotion 38400 IN A 176.227.235.146
+edu 3600 IN TXT "KhF62aHY72o7mp2Z57IHkCFQFtmuqcQDj2xmR+86ziVEyu2cmnVl0J57nKTC445HWiqL28tgUtWYW+3TXjRHyQ=="
+edu 38400 IN MX 20 mail-out.cablenet.com.cy.
+38400 IN MX 15 smtp1
+38400 IN MX 15 smtp
+edu 38400 IN A 176.227.236.129
+38400 IN A 176.227.236.127
+experts 38400 IN A 176.227.236.17
+_autodiscover._tcp.edu11 38400 IN SRV 0 0 443 mail
+_autodiscover._tcp.edu12 38400 IN SRV 0 0 443 mail
+_autodiscover._tcp.edu13 38400 IN SRV 0 0 443 mail

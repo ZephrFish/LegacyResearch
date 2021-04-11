@@ -1,0 +1,255 @@
+@ 0 IN SOA ouns1 postmaster 2015043001 3600 300 3600000 86400
+@ 0 IN TXT "MS=ms93828235"
+0 IN TXT "v=spf1 +ip4:150.46.41.2/31 +ip4:150.46.41.61 +ip4:150.46.41.62 +ip4:150.46.41.59 +ip4:150.46.30.100 " "+ip4:42.127.236.164 +ip4:42.127.236.165 +ip4:42.127.236.166 +ip4:42.127.236.174 " "+ip4:42.127.236.167 +ip4:42.127.236.168 ?all"
+@ 600 IN MX 0 alml001
+600 IN MX 900 ccews2.cc
+@ 0 IN NS ouns1
+0 IN NS ouns2
+0 IN NS ouns3
+gs 86400 IN A 150.46.242.200
+hp 86400 IN NS hpns.hp
+86400 IN NS ouns1
+86400 IN NS ouns2
+misasa-test 86400 IN NS msmgw
+86400 IN NS msmgws
+okamc5.hep 0 IN MX 20 okamc5.hep
+0 IN MX 900 ccews2.cc
+okamc5.hep 0 IN A 150.46.98.90
+kms 0 IN MX 20 kms
+0 IN MX 900 ccews2.cc
+kms 0 IN A 150.46.138.164
+it 86400 IN NS ougw2.it
+86400 IN NS ouns1
+86400 IN NS ouns2
+ouadgeews1 0 IN MX 20 ouadgeews1
+0 IN MX 900 ccews2.cc
+ouadgeews1 0 IN A 150.46.126.71
+ouns3 0 IN A 163.43.139.56
+ryugaku2 0 IN MX 20 ryugaku2
+0 IN MX 900 ccews2.cc
+ryugaku2 0 IN A 150.46.130.231
+ryugaku3 0 IN MX 20 ryugaku3
+0 IN MX 900 ccews2.cc
+ryugaku3 0 IN A 150.46.130.232
+md 0 IN TXT "v=spf1 +ip4:150.46.41.2/31 +ip4:150.46.41.61 +ip4:150.46.41.62 +ip4:150.46.41.59 +ip4:150.46.30.110 " "+ip4:42.127.236.164 +ip4:42.127.236.165 +ip4:42.127.236.166 +ip4:42.127.236.174 " "+ip4:42.127.236.167 +ip4:42.127.236.168 ?all"
+md 600 IN MX 20 alml001
+600 IN MX 900 ccews2.cc
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+ems 86400 IN NS ouns1
+86400 IN NS ouns2
+86400 IN NS keyaki.ems
+ns.cne 86400 IN A 150.46.49.62
+ml 3600 IN CNAME alml001
+ouadlafm1 0 IN MX 20 ouadlafm1
+0 IN MX 900 ccews2.cc
+ouadlafm1 0 IN A 150.46.122.71
+mp 0 IN MX 10 mp
+0 IN MX 900 ccews2.cc
+mp 0 IN A 150.46.242.79
+mag 0 IN MX 10 mag
+0 IN MX 900 ccews2.cc
+mag 0 IN A 150.46.242.76
+mebmrsews2.med 0 IN A 150.46.157.14
+unesco-c.esd 0 IN MX 20 unesco-c.esd
+0 IN MX 900 ccews2.cc
+unesco-c.esd 0 IN A 163.43.177.46
+_sipfederationtls._TCP 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+esd 0 IN CNAME unesco-c.esd
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+magnon 0 IN MX 10 magnon
+0 IN MX 900 ccews2.cc
+magnon 0 IN A 150.46.242.77
+clsps1 86400 IN A 150.46.242.201
+clsps2 86400 IN A 150.46.242.202
+xqw 86400 IN NS ouns1
+86400 IN NS ouns2
+odnet-skt50 86400 IN A 150.46.200.50
+jimu1 0 IN MX 20 jimu1
+0 IN MX 900 ccews2.cc
+jimu1 0 IN A 150.46.172.52
+jimu2 0 IN MX 20 jimu2
+0 IN MX 900 ccews2.cc
+jimu2 0 IN A 150.46.172.57
+popsv 3600 IN CNAME alml001
+sip 3600 IN CNAME sipdir.online.lync.com.
+webmail 3600 IN CNAME alml002
+_vlmcs._TCP 0 IN SRV 0 0 1688 kms
+vpn2015 0 IN A 150.46.138.52
+biotech 86400 IN NS ouns1
+86400 IN NS ouns2
+86400 IN NS parrot.biotech
+cted 86400 IN NS ouns1
+86400 IN NS ouns2
+med 86400 IN NS ouns1
+qmpb 0 IN MX 20 qmpb
+0 IN MX 900 ccews2.cc
+qmpb 0 IN A 150.46.62.51
+mp1 0 IN MX 20 mp1
+0 IN MX 900 ccews2.cc
+mp1 0 IN A 150.46.62.61
+mp2 0 IN MX 20 mp2
+0 IN MX 900 ccews2.cc
+mp2 0 IN A 150.46.62.62
+mp3 0 IN MX 20 mp3
+0 IN MX 900 ccews2.cc
+mp3 0 IN A 150.46.62.63
+mp4 0 IN MX 10 mp4
+0 IN MX 900 ccews2.cc
+mp4 0 IN A 150.46.62.64
+adm 86400 IN NS ouns1
+86400 IN NS ouns2
+86400 IN NS knsv001.adm
+86400 IN NS knsv002.adm
+mp6 0 IN MX 20 mp6
+0 IN MX 900 ccews2.cc
+mp6 0 IN A 150.46.62.66
+odnet-skt58 86400 IN A 150.46.200.58
+odnet-skt60 86400 IN A 150.46.200.60
+ou-alumninet 0 IN MX 20 ou-alumninet
+0 IN MX 900 ccews2.cc
+ou-alumninet 0 IN A 27.112.105.13
+mechsys1.mech 86400 IN A 150.46.70.241
+odnet-skt48 86400 IN A 150.46.200.48
+odnet-skt49 86400 IN A 150.46.200.49
+odnet-skt51 86400 IN A 150.46.200.51
+odnet-skt52 86400 IN A 150.46.200.52
+odnet-skt53 86400 IN A 150.46.200.53
+odnet-skt54 86400 IN A 150.46.200.54
+odnet-skt55 86400 IN A 150.46.200.55
+odnet-skt56 86400 IN A 150.46.200.56
+odnet-skt57 86400 IN A 150.46.200.57
+knsv002.adm 86400 IN A 150.46.197.71
+odnet-skt59 86400 IN A 150.46.200.59
+odnet-skt61 86400 IN A 150.46.200.61
+odnet-skt62 86400 IN A 150.46.200.62
+odnet-skt63 86400 IN A 150.46.200.63
+odnet-skt64 86400 IN A 150.46.200.64
+odnet-skt65 86400 IN A 150.46.200.65
+odnet-skt66 86400 IN A 150.46.200.66
+odnet-skt67 86400 IN A 150.46.200.67
+odnet-skt68 86400 IN A 150.46.200.68
+odnet-skt69 86400 IN A 150.46.200.69
+hpns.hp 86400 IN A 150.46.184.24
+odnet-skt72 86400 IN A 150.46.200.72
+odnet-skt73 86400 IN A 150.46.200.73
+odnet-skt74 86400 IN A 150.46.200.74
+odnet-skt75 86400 IN A 150.46.200.75
+odnet-skt76 86400 IN A 150.46.200.76
+odnet-skt77 86400 IN A 150.46.200.77
+odnet-skt78 86400 IN A 150.46.200.78
+odnet-skt79 86400 IN A 150.46.200.79
+dnstest 0 IN A 150.46.42.144
+dns.ec 86400 IN A 150.46.23.64
+odnet-skt70 86400 IN A 150.46.200.70
+bach.stud.ems 0 IN A 150.46.223.4
+qmvx 0 IN MX 20 qmvx
+0 IN MX 900 ccews2.cc
+qmvx 0 IN A 150.46.62.50
+msmgws 86400 IN A 202.209.7.67
+odnet-skt71 86400 IN A 150.46.200.71
+dc-01 0 IN MX 20 dc-01
+0 IN MX 900 ccews2.cc
+dc-01 0 IN A 150.46.130.235
+dc-02 0 IN MX 20 dc-02
+0 IN MX 900 ccews2.cc
+dc-02 0 IN A 150.46.130.233
+dc-03 0 IN MX 20 dc-03
+0 IN MX 900 ccews2.cc
+dc-03 0 IN A 150.46.130.234
+mecrrsews1.hospital 0 IN A 150.46.145.2
+www.agnet 0 IN CNAME wwwagnet.agr
+sakura.math 86400 IN A 150.46.179.50
+clsad 86400 IN A 150.46.242.199
+msrsipr1 0 IN A 150.46.48.4
+ouns1 0 IN A 150.46.44.5
+ouns2 0 IN A 150.46.44.6
+imapsv 3600 IN CNAME alml001
+ribrsipr1 0 IN MX 20 ribrsipr1
+ribrsipr1 0 IN A 150.46.20.52
+0 IN A 150.46.169.1
+oumail 360 IN A 150.46.30.157
+cisco25-oulan.hep 0 IN MX 20 cisco25-oulan.hep
+0 IN MX 900 ccews2.cc
+cisco25-oulan.hep 0 IN A 150.46.62.80
+sys 86400 IN NS ouns1
+86400 IN NS ouns2
+86400 IN NS mechsys1.mech
+mx.elec 86400 IN A 150.46.66.63
+ryugaku1 0 IN MX 20 ryugaku1
+0 IN MX 900 ccews2.cc
+ryugaku1 0 IN A 150.46.130.230
+www.physics 0 IN CNAME pweb.phys
+okadai 0 IN NS router2.cc
+testfm 0 IN A 150.46.41.41
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+ccgwews2 0 IN A 150.46.44.3
+ccgwews3 0 IN A 150.46.44.4
+www.science 0 IN CNAME sunlx.phys
+ougw2.it 86400 IN A 150.46.1.11
+rss 0 IN CNAME admblog1.cc
+keyaki.ems 86400 IN A 150.46.222.5
+ouadedfm1 0 IN A 150.46.130.71
+ouadedfm1 0 IN MX 20 ouadedfm1
+0 IN MX 900 ccews2.cc
+mech 86400 IN NS ouns1
+86400 IN NS ouns2
+86400 IN NS mechsys1.mech
+bara.math 86400 IN A 150.46.179.51
+lib 86400 IN NS ouns1
+86400 IN NS ouns2
+ouadgefm1 0 IN MX 20 ouadgefm1
+0 IN MX 900 ccews2.cc
+ouadgefm1 0 IN A 150.46.126.72
+ouadgefm2 0 IN MX 20 ouadgefm2
+0 IN MX 900 ccews2.cc
+ouadgefm2 0 IN A 150.46.126.73
+gels 86400 IN NS ouns1
+cne 86400 IN NS ns.cne
+86400 IN NS ouns1
+86400 IN NS ouns2
+filebox 86400 IN A 150.46.247.14
+parrot.biotech 86400 IN A 150.46.110.63
+www.magnet 0 IN CNAME magnon
+math 86400 IN NS bara.math
+86400 IN NS ouns1
+86400 IN NS ouns2
+86400 IN NS sakura.math
+futoku 86400 IN NS ouns1
+86400 IN NS ouns2
+msmgw 86400 IN A 150.46.48.9
+ouadhofm1 0 IN MX 20 ouadhofm1
+0 IN MX 900 ccews2.cc
+ouadhofm1 0 IN A 150.46.165.71
+ns.elec 86400 IN A 150.46.66.64
+vpn 0 IN A 150.46.208.10
+elec 86400 IN NS mx.elec
+86400 IN NS ns.elec
+86400 IN NS ouns1
+86400 IN NS ouns2
+smtpsv 3600 IN CNAME alml002
+alml001 3600 IN A 42.127.236.167
+alml002 3600 IN A 42.127.236.168
+mp5 0 IN MX 20 mp5
+0 IN MX 900 ccews2.cc
+mp5 0 IN A 150.46.62.65
+www 0 IN A 150.46.30.130
+router2.cc 0 IN A 150.46.42.144
+ecm 86400 IN A 150.46.49.41
+ecm 86400 IN NS ecm
+86400 IN NS ouns1
+86400 IN NS ouns2
+cc 86400 IN NS ouns1
+ouadenfm1 0 IN MX 20 ouadenfm1
+0 IN MX 900 ccews2.cc
+ouadenfm1 0 IN A 150.46.131.71
+stat-gw.ems 0 IN MX 20 stat-gw.ems
+0 IN MX 900 ccews2.cc
+stat-gw.ems 0 IN A 150.46.73.64
+knsv001.adm 86400 IN A 150.46.197.70
+cs 86400 IN NS ougw2.it
+86400 IN NS ouns1
+86400 IN NS ouns2
+ec 86400 IN NS dns.ec
+86400 IN NS ouns1
+86400 IN NS ouns2
+science 0 IN CNAME psun.phys

@@ -1,0 +1,166 @@
+@ 600 IN SOA @ root 2015042401 360 600 600 600
+@ 600 IN TXT "MS=ms81171846"
+600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+600 IN TXT "ZxJq3L4RDBfCIxCU4NDqFDu7RJUQj2SE8/1W3kRim/nFN88niLoX3+CEszzZJ/NvuUbZnJR74zdYrQo1XPvljQ=="
+@ 600 IN NS ns1.riu.edu.ar.
+600 IN NS biondi3
+600 IN NS morceta
+600 IN NS mendieta
+@ 600 IN MX 0 unlam-edu-ar.mail.protection.outlook.com.
+ipv4ingenieria 600 IN A 170.210.32.90
+cyt 600 IN A 200.51.229.49
+ingenieria 600 IN CNAME telefonica
+pergamo 600 IN CNAME proxyrev
+o3 600 IN CNAME proxyrev
+msoid.ing 600 IN CNAME clientconfig.microsoftonline-p.net.
+monitor 600 IN CNAME proxygc
+redmine-sop 600 IN CNAME proxyrev
+shoutcast 600 IN A 168.96.249.39
+autodiscover.sac 600 IN CNAME autodiscover.outlook.com.
+tecnop 600 IN CNAME proxyrev
+graduados 600 IN A 200.51.94.115
+gecodimo 600 IN CNAME proxygc
+gidfis 600 IN CNAME proxygc
+ici2 600 IN CNAME telefonica
+salud 600 IN CNAME telefonica
+tablero 600 IN A 170.210.32.89
+msoid 600 IN CNAME clientconfig.microsoftonline-p.net.
+svncnpa 600 IN A 209.13.156.113
+observatoriosocial 600 IN CNAME telefonica
+sennaf 600 IN CNAME proxyrev
+www 600 IN A 200.51.229.49
+DZC 600 IN TXT "yfG7MFl"
+_sipfederationtls._tcp.ing 600 IN SRV 100 1 5061 sipfed.online.lync.com.
+bibliotecaleopoldomarechal 600 IN CNAME telefonica
+empleos 600 IN CNAME tbjdns.trabajando.com.ar.
+pagofacil 600 IN CNAME proxygc
+encuestagraduados 600 IN A 170.210.32.74
+_sipfederationtls._tcp 600 IN SRV 100 1 5061 sipfed.online.lync.com.
+seu 600 IN CNAME proxyrev
+_sip._tls 600 IN SRV 100 1 443 sipdir.online.lync.com.
+msoid.alumno 600 IN CNAME clientconfig.microsoftonline-p.net.
+humanidades 600 IN A 200.51.229.49
+radioenvivo 600 IN CNAME proxyrev
+cacic2014.ing 600 IN A 170.210.32.79
+estatus 600 IN CNAME proxygc
+sg 600 IN MX 10 4661dcc0119bb64ea44de575ea9d45.mail.outlook.com.
+sg 600 IN TXT "v=spf1 include:outlook.com ~all"
+600 IN TXT "v=msv1 t=4661dcc0119bb64ea44de575ea9d45"
+sip.sac 600 IN CNAME sipdir.online.lync.com.
+lyncdiscover.sac 600 IN CNAME webdir.online.lync.com.
+ftpingenieria 600 IN CNAME proxyrev
+miel2 600 IN CNAME proxyrev
+sip 600 IN CNAME sipdir.online.lync.com.
+vc 600 IN A 170.210.35.11
+tecnipisos 600 IN CNAME proxyrev
+rrhh 600 IN CNAME proxyrev
+maraton 600 IN CNAME proxyrev
+preinsposgrado 600 IN CNAME proxyrev
+mindesarrollo 600 IN CNAME proxyrev
+portaldeportes 600 IN CNAME proxyrev
+fichamedica 600 IN CNAME proxygc
+dve 600 IN A 209.13.156.99
+autodiscover 600 IN CNAME autodiscover.outlook.com.
+encuesta 600 IN A 170.210.32.84
+cursosgraduados 600 IN CNAME proxyrev
+ingenieriaipv6 600 IN AAAA 2800:110:1010::101
+atunlam 600 IN CNAME telefonica
+kolla 600 IN CNAME proxyrevdamico
+spi 600 IN CNAME proxygc
+gcba 600 IN CNAME proxyrev
+proxyrevdamico 600 IN A 200.51.94.114
+formacioncontinua 600 IN CNAME telefonica
+sac 600 IN MX 5 sac-unlam-edu-ar.mail.protection.outlook.com.
+sac 600 IN TXT "MS=ms86132484"
+600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+acumar 600 IN CNAME proxyrev
+ingresantes 600 IN CNAME proxygc
+uea2015.ing 600 IN CNAME proxyrev
+correo 600 IN A 168.96.249.41
+estacionamiento 600 IN CNAME proxyrev
+palomo 600 IN A 170.210.32.66
+svn2 600 IN CNAME proxyrev
+proxy 600 IN A 170.210.32.153
+wer2012 600 IN A 200.47.130.100
+internacional 600 IN A 200.51.229.49
+catalogobiblioteca 600 IN CNAME proxyrev
+mmuvra 600 IN CNAME proxygc
+morceta 600 IN A 168.96.249.40
+clustergpu 600 IN A 170.210.32.82
+cibse2012 600 IN A 200.47.130.100
+wssigrhu 600 IN CNAME proxyrev
+alumno2 600 IN A 200.51.94.116
+svn 600 IN CNAME proxyrev
+gestiongcba 600 IN CNAME proxyrev
+isa2 600 IN A 170.210.32.157
+_sipfederationtls._tcp.sac 600 IN SRV 100 1 5061 sipfed.online.lync.com.
+expoproyecto 600 IN CNAME proxyrev
+msoid.sac 600 IN CNAME clientconfig.microsoftonline-p.net.
+app 600 IN CNAME proxygc
+_sip._tls.ing 600 IN SRV 100 1 443 sipdir.online.lync.com.
+ici 600 IN CNAME telefonica
+personal 600 IN CNAME proxyrev
+autodiscover.alumno 600 IN CNAME autodiscover.outlook.com.
+biondi3 600 IN A 170.210.32.102
+biondi4 600 IN A 170.210.32.177
+repositoriocyt 600 IN A 200.51.229.49
+pasantias 600 IN CNAME proxyrev
+acumartest 600 IN CNAME proxyrev
+pad 600 IN CNAME proxyrev
+ingenieriarci 600 IN A 168.96.249.39
+lyncdiscover 600 IN CNAME webdir.online.lync.com.
+preinscripcionefc 600 IN CNAME proxyrev
+telefonica 600 IN A 200.51.229.49
+idiomas 600 IN CNAME proxyrev
+publicaciones 600 IN CNAME proxyrev
+encuestasingenieria 600 IN CNAME proxyrev
+rince 600 IN CNAME telefonica
+sip.ing 600 IN CNAME sipdir.online.lync.com.
+la1radio 600 IN CNAME proxyrev
+posgrado 600 IN CNAME proxyrev
+catedras 600 IN CNAME proxyrev
+deportes 600 IN CNAME proxyrev
+obrasocial 600 IN CNAME proxyrev
+EllasHacen 600 IN CNAME proxyrev
+extension 600 IN A 200.47.130.101
+autodiscover.ing 600 IN CNAME autodiscover.outlook.com.
+ing 600 IN MX 0 ing-unlam-edu-ar.mail.protection.outlook.com.
+ing 600 IN TXT "v=spf1 include:outlook.com ~all"
+600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+riurhc 600 IN CNAME proxyrev
+alumno4 600 IN A 200.51.94.116
+unoblogs 600 IN CNAME proxyrev
+ar.vmx.terra.com 600 IN A 208.84.244.136
+proxygc 600 IN A 168.96.249.44
+mendieta 600 IN A 170.210.32.104
+derecho 600 IN CNAME telefonica
+aysa 600 IN CNAME proxyrev
+web 600 IN CNAME proxyrev
+miel 600 IN CNAME proxygc
+nac 600 IN CNAME proxyrev
+argtrabaja 600 IN A 200.51.94.115
+isa 600 IN A 170.210.32.156
+materias 600 IN CNAME proxyrev
+proxyrev 600 IN A 209.13.156.100
+quilmes 600 IN A 209.13.156.102
+vpn 600 IN A 168.96.249.42
+lyncdiscover.ing 600 IN CNAME webdir.online.lync.com.
+amartyasen 600 IN A 200.47.130.100
+_sip._tls.sac 600 IN SRV 100 1 443 sipdir.online.lync.com.
+servicioamne 600 IN CNAME proxyrev
+recuperatorios 600 IN CNAME proxyrev
+empresas 600 IN CNAME telefonica
+gestion 600 IN CNAME telefonica
+aulavirtual 600 IN A 200.51.93.116
+biblioteca 600 IN CNAME bibliotecaleopoldomarechal
+eco 600 IN MX 10 ea022417d65d438b3fc70631c7c7f8.mail.outlook.com.
+eco 600 IN TXT "v=spf1 include:outlook.com ~all"
+600 IN TXT "v=msv1 t=ea022417d65d438b3fc70631c7c7f8"
+autodiscover.biblio 600 IN CNAME autodiscover.outlook.com.
+alumno 600 IN A 200.47.130.101
+alumno 600 IN MX 10 alumno-unlam-edu-ar.mail.protection.outlook.com.
+alumno 600 IN TXT "MS=ms31539610"
+600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+camaras 600 IN A 170.210.32.95
+economicas 600 IN CNAME telefonica
+bienal 600 IN CNAME telefonica

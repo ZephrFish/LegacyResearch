@@ -1,0 +1,118 @@
+@ 259200 IN SOA @ hostmaster 2015040931 600 900 1209600 3600
+@ 259200 IN TXT "v=spf1 mx include:spf.mandrillapp.com ip4:93.113.252.0/24 ?all"
+@ 259200 IN SPF "v=spf1 mx include:spf.mandrillapp.com ip4:93.113.252.0/24 ?all"
+@ 259200 IN MX 10 mail
+@ 259200 IN NS ns
+@ 259200 IN A 93.113.252.1
+default._domainkey 259200 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+ufbt+3S7FfhRUUP4ojGctPksHhKo0z8VO0sAPuyuWDxsvpG9thghhhdlBbRlLA732uQR04pQcb3vD4/AFuFD/3uMHMBTR3v2yhPN2We4iv9b8oRNCmFhMCAUC+fmvnIqTTcwxCRyaS7/I3MpS2BKVasw0e7jaxKJ3iU/RSOCqQIDAQAB;"
+profesor 259200 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+profesor 259200 IN MX 0 profesor-rau-ro.mail.eo.outlook.com.
+oratorie 259200 IN CNAME host2
+www.cs-ura 259200 IN CNAME host
+iata 259200 IN CNAME host2
+host2 259200 IN A 93.113.252.178
+scoaladevaradrept2012 259200 IN CNAME host2
+admission 259200 IN CNAME www
+rjf 259200 IN CNAME host2
+csde 259200 IN CNAME host
+cs-ura 259200 IN CNAME host
+elearning 259200 IN CNAME host
+consiliere 259200 IN CNAME www
+conferences 259200 IN CNAME www
+www 259200 IN A 93.113.252.6
+mba 259200 IN CNAME www
+ns 259200 IN A 93.113.252.1
+staff 259200 IN MX 0 staff-rau-ro.mail.eo.outlook.com.
+staff 259200 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+mandrill._domainkey 259200 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrLHiExVd55zd/IQ/J/mRwSRMAocV/hMB3jXwaHH36d9NaVynQFYV8NaWi69c1veUtRzGt7yAioXqLj7Z4TeEUoOLgrKsn8YnckGs9i3B3tVFB+Ch/4mPhXWiNfNdynHWBcPcbJ8kjEQ2U8y78dHZj1YeRXXVvWob2OaKynO8/lQIDAQAB;"
+paginamea 259200 IN CNAME host2
+autodiscover.student 259200 IN CNAME autodiscover.outlook.com.
+csi 259200 IN CNAME host2
+www.proiectbrasov 259200 IN CNAME www
+formare 259200 IN CNAME host
+_domainkey.host 259200 IN TXT "o=-; t=y"
+webmail 259200 IN CNAME mail
+cisco 259200 IN CNAME www
+testbogdan 259200 IN CNAME host2
+research 259200 IN CNAME host2
+admitere 259200 IN CNAME www
+austrianeconomics 259200 IN CNAME host
+chat 259200 IN CNAME host
+csrc 259200 IN CNAME host2
+finsys 259200 IN CNAME host2
+autodiscover 259200 IN CNAME autodiscover.outlook.com.
+csrj 259200 IN CNAME host2
+csrk 259200 IN CNAME host2
+_domainkey 259200 IN TXT "o=-; t=y"
+guestcourse 259200 IN CNAME host
+admin.host 259200 IN A 93.113.252.18
+test 259200 IN CNAME host2
+autodiscover.profesor 259200 IN CNAME autodiscover.outlook.com.
+forum 259200 IN CNAME host
+scoalapractica 259200 IN CNAME host2
+spredi 259200 IN CNAME host2
+web 259200 IN CNAME www
+www2 259200 IN A 93.113.252.10
+practicadrept 259200 IN A 93.114.42.46
+msoid.student 259200 IN CNAME clientconfig.microsoftonline-p.net.
+rsei 259200 IN CNAME host2
+wap 259200 IN CNAME www
+mail.profesor 259200 IN CNAME www
+conferinte 259200 IN CNAME www
+fupol 259200 IN CNAME host
+dreptulafacerilor 259200 IN CNAME host2
+sienaspringschool 259200 IN CNAME host
+testalex 259200 IN CNAME host2
+mail 259200 IN A 93.113.252.3
+proiectdrept 259200 IN CNAME host
+test2 259200 IN CNAME host2
+multimedia 259200 IN CNAME host2
+guestcourses 259200 IN CNAME host
+msoid.profesor 259200 IN CNAME clientconfig.microsoftonline-p.net.
+youthinaction 259200 IN CNAME host
+live 259200 IN CNAME www
+inscriere 259200 IN CNAME host2
+ijc 259200 IN CNAME www
+pietefinanciare 259200 IN CNAME host2
+selector1._domainkey.host 259200 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFHHcZCezKWCZ6e0YWPNL/EFuPNQj5IoPAShV0hxTgilrbP+HCHmtqAQwIxIWxm1kwEZxaZDlYsBShlhv6JBNWngL92ZcQOqCgBLs0SBXqOOU90+uhk98fkukKT1hqQyYiOzPOxmMmbfTpA2magpaKCQKsROhbcc2rIku3O3wg+QIDAQAB"
+scoaladevaradrept 259200 IN CNAME host
+edcromania 259200 IN CNAME host
+student 259200 IN MX 10 student-rau-ro.mail.protection.outlook.com.
+student 259200 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+admitereonline 259200 IN CNAME host2
+cercetare 259200 IN CNAME host
+das 259200 IN CNAME www
+jrintconf 259200 IN CNAME host2
+rothbard 259200 IN CNAME host
+cli 259200 IN CNAME host2
+blog 259200 IN CNAME host
+mail.student 259200 IN CNAME www
+_adsp._domainkey.host 259200 IN TXT "dkim=all"
+scoaladevara 259200 IN CNAME host
+cnm 259200 IN CNAME host2
+uni4-4 259200 IN CNAME host
+adamalt 259200 IN CNAME host
+phare 259200 IN CNAME www
+di-sim 259200 IN CNAME host
+vpn 259200 IN A 89.37.10.202
+csrj-ah 259200 IN CNAME host2
+formaresudmuntenia 259200 IN CNAME host
+host 259200 IN TXT "v=spf1 mx ip4:93.113.252.0/24 -all"
+host 259200 IN SPF "v=spf1 mx ip4:93.113.252.0/24 -all"
+host 259200 IN A 93.113.252.18
+_adsp._domainkey 259200 IN TXT "dkim=all"
+cepamr 259200 IN CNAME host
+autodiscover.staff 259200 IN CNAME autodiscover.outlook.com.
+econinternship 259200 IN CNAME host
+optiprof 259200 IN CNAME host
+mlibcw 259200 IN CNAME host2
+www.rebe 259200 IN CNAME www
+arotaru 259200 IN CNAME host
+hiss 259200 IN CNAME host2
+erasmus 259200 IN CNAME www
+cdom 259200 IN CNAME host2
+igarue 259200 IN CNAME host2
+dc 259200 IN CNAME host
+cs 259200 IN A 93.113.252.9
+msoid.staff 259200 IN CNAME clientconfig.microsoftonline-p.net.
+fitness 259200 IN CNAME host

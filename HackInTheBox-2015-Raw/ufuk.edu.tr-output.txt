@@ -1,0 +1,60 @@
+@ 3600 IN SOA ns1 hostmaster. 2014111011 28800 7200 777600 3600
+@ 3600 IN TXT "v=spf1 a mx ptr ~all"
+@ 3600 IN MX 10 mail
+@ 3600 IN A 193.140.179.20
+@ 3600 IN NS ns2
+3600 IN NS ns3
+3600 IN NS ns1
+ge 3600 IN A 193.140.179.24
+kampus 3600 IN A 193.140.179.20
+ns1 3600 IN AAAA 2001:a98:250:2::a
+ns1 3600 IN A 193.140.179.10
+ns2 3600 IN AAAA 2001:a98:250:2::b
+ns2 3600 IN A 193.140.179.11
+hastane 3600 IN A 193.140.179.23
+takvim.gstu 3600 IN CNAME ghs.googlehosted.com.
+pacs 3600 IN A 193.140.179.20
+anket 3600 IN A 193.140.179.21
+bipa 3600 IN A 193.140.179.28
+adm 3600 IN A 193.140.179.21
+google._domainkey.gstu 3600 IN TXT "v=DKIM1"
+acikerisim 3600 IN A 193.140.179.32
+iro 3600 IN A 193.140.179.27
+hulktest 3600 IN A 193.140.179.36
+mail 3600 IN TXT "v=spf1 a ptr ~all"
+mail 3600 IN MX 10 mail
+mail 3600 IN A 193.140.179.30
+ipv6test 3600 IN AAAA 2001:a98:250:4::11
+www.hastane 3600 IN A 193.140.179.23
+pacs2 3600 IN A 193.140.179.94
+www.nhjm 3600 IN A 193.140.179.27
+gstu 3600 IN TXT "v=spf1 include:aspmx.googlemail.com ~all"
+gstu 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 alt3.aspmx.l.google.com.
+3600 IN MX 10 alt4.aspmx.l.google.com.
+radyo 3600 IN A 212.174.254.158
+www.utd 3600 IN A 193.140.179.27
+drive.gstu 3600 IN CNAME ghs.googlehosted.com.
+ns3 3600 IN AAAA 2001:a98:250:2::c
+ns3 3600 IN A 193.140.179.12
+nhjm 3600 IN A 193.140.179.27
+mail.gstu 3600 IN CNAME ghs.googlehosted.com.
+www.uubys 3600 IN A 193.140.179.34
+live 3600 IN MX 0 1032815391.mail.outlook.com.
+www.kutuphane 3600 IN A 193.140.179.29
+kimlik 3600 IN A 193.140.179.31
+www.abys 3600 IN A 193.140.179.25
+www 3600 IN AAAA 2001:a98:250:4::11
+www 3600 IN A 193.140.179.20
+hulk 3600 IN A 193.140.179.35
+www2 3600 IN A 193.140.179.21
+www3 3600 IN A 193.140.179.22
+abys 3600 IN A 193.140.179.25
+www.anket 3600 IN A 193.140.179.21
+kutuphane 3600 IN A 193.140.179.29
+uubys 3600 IN A 193.140.179.34
+smtp 3600 IN MX 10 mail
+smtp 3600 IN A 193.140.179.30
+utd 3600 IN A 193.140.179.27

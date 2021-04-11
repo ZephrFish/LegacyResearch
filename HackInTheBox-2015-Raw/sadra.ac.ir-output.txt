@@ -1,0 +1,15 @@
+@ 14400 IN SOA lnx13.morvahost.com. hostmaster 2014072300 14400 3600 1209600 86400
+@ 14400 IN MX 10 mail
+@ 14400 IN TXT "v=spf1 a mx ip4:164.138.23.97 ~all"
+@ 14400 IN A 164.138.23.97
+@ 14400 IN NS lnx13.morvahost.com.
+14400 IN NS lnx14.morvahost.com.
+pop 14400 IN A 164.138.23.97
+webmail 14400 IN A 164.138.23.97
+ftp 14400 IN A 164.138.23.97
+www 14400 IN A 164.138.23.97
+www.webmail 14400 IN A 164.138.23.97
+localhost 14400 IN AAAA ::1
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN A 164.138.23.97
+smtp 14400 IN A 164.138.23.97

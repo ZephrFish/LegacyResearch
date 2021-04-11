@@ -1,0 +1,26 @@
+@ 86400 IN SOA ns.oneworldhosting.com. servernotices.oneworldhosting.com. 2015050100 86400 7200 3600000 86400
+@ 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+@ 300 IN TXT "v=spf1 +a +mx +ip4:69.167.136.38 ~all"
+300 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCRwBdtk4XkYD3Odk2qldTnA8DeDaNVahQjTSJ5vS6QIKpXqJqSIt6aPib59XOBXR7a+EEtZdMxFx6FoJj3s3ClzCRfqDmz4MZsV9p6t/t3JfLDL47XP65QrcVzTu8+rJDogSbkqWDPoqq5ly6yFVqfEQTlpqphVL6wL0HNUN/vNQIDAQAB"
+@ 86400 IN NS ns.oneworldhosting.com.
+86400 IN NS ns2.oneworldhosting.com.
+@ 300 IN A 69.167.136.38
+mb._domainkey 14000 IN TXT "k=rsa;p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAKQXw0w8XRP0Egw4SsmvzVW+Dn 16xkkhM2gcQxnfhj31DOVKz3ssx7Nyk0jNn0ftwC4ZS8+DR1eaKAPupdR2O9E4T0Ac6GHae 3vHNVBLK/4+GV4t1dn55202lk6r3QUsHQIDAQAB"
+cal 14400 IN CNAME ghs.google.com.
+webdisk 300 IN A 69.167.136.38
+ftp 300 IN A 69.167.136.38
+cpanel 300 IN A 69.167.136.38
+google 14400 IN CNAME ghs.google.com.
+sites 14400 IN CNAME ghs.google.com.
+www 14400 IN CNAME @
+docs 14400 IN CNAME ghs.google.com.
+mail 14400 IN CNAME ghs.google.com.
+_dmarc 3600 IN TXT "v=DMARC1; p=none;   rua=mailto:postmaster@platt.edu"
+webmail 300 IN A 69.167.136.38
+whm 300 IN A 69.167.136.38
+google._domainkey 300 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCRwBdtk4XkYD3Odk2qldTnA8DeDaNVahQjTSJ5vS6QIKpXqJqSIt6aPib59XOBXR7a+EEtZdMxFx6FoJj3s3ClzCRfqDmz4MZsV9p6t/t3JfLDL47XP65QrcVzTu8+rJDogSbkqWDPoqq5ly6yFVqfEQTlpqphVL6wL0HNUN/vNQIDAQAB"
+localhost 300 IN A 127.0.0.1

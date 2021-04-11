@@ -1,0 +1,12 @@
+@ 400 IN SOA ns12.reea-hosting.ro. admin 2013073101 28800 7200 604800 400
+@ 400 IN TXT "v=spf1 a mx ptr ~all"
+@ 400 IN NS ns12.reea-hosting.ro.
+400 IN NS ns13.reea-hosting.ro.
+@ 400 IN MX 10 host13.reea.net.
+@ 400 IN A 46.4.134.42
+www 400 IN A 46.4.134.42
+old 400 IN A 195.60.77.187
+studio 400 IN A 195.60.77.187
+mail 400 IN A 195.60.77.187
+proiecte 400 IN A 195.60.77.187
+finantari 400 IN A 46.4.134.42

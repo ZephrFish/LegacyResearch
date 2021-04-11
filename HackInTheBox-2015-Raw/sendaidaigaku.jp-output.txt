@@ -1,0 +1,13 @@
+@ 3600 IN SOA ns1.secure.net. hostmaster.secure.net. 2015012601 3600 7200 2592000 3600
+@ 86400 IN NS ns2.secure.net.
+86400 IN NS ns1.secure.net.
+@ 86400 IN MX 10 @
+@ 86400 IN TXT "v=spf1 +a include:mwp-spf.securesites.net ~all"
+@ 3600 IN A 222.146.5.14
+pop 86400 IN CNAME @
+ftp 86400 IN CNAME @
+www 86400 IN CNAME @
+localhost 86400 IN A 127.0.0.1
+news 86400 IN CNAME @
+imap 86400 IN CNAME @
+smtp 86400 IN CNAME @

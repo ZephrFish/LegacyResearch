@@ -1,0 +1,55 @@
+@ 3600 IN SOA @ root 2006121401 3600 3600 3600 7200
+@ 3600 IN SPF "v=spf1 include:outlook.com -all"
+@ 3600 IN MX 0 chapingo-mx.mail.eo.outlook.com.
+3600 IN MX 0 chapingo-mx.mail.protection.outlook.com.
+@ 3600 IN A 191.236.17.156
+@ 3600 IN TXT "Universidad Autonoma Chapingo"
+3600 IN TXT "MS=ms86002007"
+3600 IN TXT "v=spf1 include:outlook.com -all"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN NS internet
+3600 IN NS taurus1
+3600 IN NS aries
+sip 3600 IN CNAME sipdir.online.lync.com.
+sistemas 3600 IN A 192.100.165.21
+update 3600 IN A 192.100.165.12
+eduvirtual 3600 IN A 200.23.135.243
+cidiomas 3600 IN A 192.100.165.4
+jpacd 3600 IN A 192.100.165.15
+virtual 3600 IN A 192.100.165.18
+www.virtual 3600 IN CNAME virtual
+elecciones 3600 IN A 191.236.17.156
+www.cidiomas 3600 IN CNAME cidiomas
+evaluaciones 3600 IN A 200.23.135.249
+moodle 3600 IN A 192.100.165.3
+www.ceres2 3600 IN CNAME ceres2
+ceres2 3600 IN A 200.23.134.2
+taurus1 3600 IN A 192.100.165.19
+oracle 3600 IN A 192.100.165.75
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+internet 3600 IN A 192.100.165.19
+saeweb 3600 IN A 200.23.135.249
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+bibliotecas 3600 IN A 192.100.165.28
+antispam 3600 IN A 192.100.165.25
+www.bibliotecas 3600 IN CNAME bibliotecas
+www.ceres 3600 IN CNAME ceres
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+remib-cintli 3600 IN A 200.23.134.253
+activecollab 3600 IN A 200.23.135.251
+virus 3600 IN A 192.100.165.16
+aries 3600 IN A 191.236.17.156
+database 3600 IN A 191.236.17.156
+www 3600 IN CNAME @
+evaluarte 3600 IN A 192.100.165.15
+proxy 3600 IN A 200.23.135.244
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+localhost 3600 IN A 127.0.0.1
+portal 3600 IN A 191.236.17.156
+www2 3600 IN A 192.100.165.51
+edx 3600 IN A 200.23.135.248
+ceres 3600 IN A 191.236.17.156
+medios 3600 IN A 192.100.165.12
+soporte-ti 3600 IN A 192.100.165.16
+intranet 3600 IN A 191.236.17.156

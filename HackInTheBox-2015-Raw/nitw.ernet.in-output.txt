@@ -1,0 +1,40 @@
+@ 86400 IN SOA e-iisc02.iisc.ernet.in. bindmaster.ece.iisc.ernet.in. 1003 1800 900 604800 86400
+@ 86400 IN NS ss585.ncst.ernet.in.
+86400 IN NS naamak.ncst.ernet.in.
+86400 IN NS e-iisc01.iisc.ernet.in.
+86400 IN NS e-iisc02.iisc.ernet.in.
+@ 86400 IN A 202.141.49.8
+86400 IN A 203.193.129.74
+@ 86400 IN MX 10 @
+86400 IN MX 20 mail-relay-VSAT.ernet.in.
+86400 IN MX 30 naveen.ncst.ernet.in.
+nitw 86400 IN CNAME @
+prithvi 86400 IN A 202.141.49.10
+sutlez 86400 IN A 202.141.49.25
+kaveri 86400 IN A 202.141.49.16
+varun 86400 IN A 202.141.49.11
+nitw-ERNET 86400 IN A 202.141.49.1
+agni 86400 IN A 202.141.49.12
+lipi 86400 IN A 202.141.49.33
+mail.prithvi 86400 IN CNAME 202.141.49.10
+sarada 86400 IN A 202.141.49.19
+krishna 86400 IN A 202.141.49.17
+* 86400 IN MX 10 @
+86400 IN MX 15 mail.iisc.ernet.in.
+86400 IN MX 20 mail-relay-VSAT.ernet.in.
+86400 IN MX 30 naveen.ncst.ernet.in.
+tapathi 86400 IN A 202.141.49.20
+mail 86400 IN A 202.141.49.5
+ERNET-nitw 86400 IN A 202.41.103.126
+bhima 86400 IN A 202.141.49.13
+principl 86400 IN A 202.141.49.99
+narmada 86400 IN A 202.141.49.18
+jheelum 86400 IN A 202.141.49.22
+www 86400 IN CNAME lipi
+ganga 86400 IN A 202.141.49.14
+godavari 86400 IN A 202.141.49.15
+akash 86400 IN A 202.141.49.26
+pakhal 86400 IN A 202.141.49.23
+vignan 86400 IN A 202.141.49.72
+pamba 86400 IN A 202.141.49.21
+indus 86400 IN A 202.141.49.24

@@ -1,0 +1,22 @@
+@ 38400 IN SOA dns olusogo 1109582746 3600 3600 604800 38400
+@ 38400 IN TXT "google-site-verification=MRmvV19Up7QLDRcDSWlHXV1UjE8L9siSXiMwihnpV9k"
+@ 38400 IN MX 0 mail
+@ 38400 IN NS dns
+38400 IN NS mainhub.netproj.ictp.trieste.it.
+@ 38400 IN A 140.105.47.3
+sites 38400 IN CNAME ghs.googlehosted.com.
+webmail 38400 IN A 140.105.47.3
+calendar 38400 IN CNAME ghs.googlehosted.com.
+egw 38400 IN A 140.105.47.3
+test 38400 IN CNAME ghs.googlehosted.com.
+new 38400 IN A 140.105.47.3
+www.ee 38400 IN A 140.105.47.3
+groups 38400 IN CNAME ghs.googlehosted.com.
+docs 38400 IN CNAME ghs.googlehosted.com.
+ee 38400 IN A 140.105.47.3
+mail 38400 IN CNAME webmail
+self-help 38400 IN CNAME ghs.googlehosted.com.
+dns 38400 IN A 140.105.47.3
+www.new 38400 IN A 140.105.47.3
+email 38400 IN CNAME ghs.googlehosted.com.
+www 38400 IN A 140.105.47.3

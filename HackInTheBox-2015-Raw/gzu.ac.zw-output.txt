@@ -1,0 +1,18 @@
+@ 86400 IN SOA charmie.zarnet.ac.zw. postmaster.zarnet.ac.zw. 2013021579 28800 7200 604800 86400
+@ 86400 IN TXT "v=spf1 a -all"
+86400 IN TXT "google-site-verification=9pcNN9-Ca2sa_RJvLLNu21Pt6-_DH_jsF6PZRTsXyfQ"
+@ 86400 IN NS Ns.iliad.com.
+86400 IN NS charmie.zarnet.ac.zw.
+86400 IN NS mercury.zarnet.ac.zw.
+@ 86400 IN MX 5 ASPMX3.GOOGLEMAIL.com.
+86400 IN MX 10 ASPMX2.GOOGLEMAIL.com.
+86400 IN MX 15 zimbra
+@ 86400 IN A 209.88.89.131
+www.studentportal 86400 IN A 41.79.189.190
+www 86400 IN A 41.57.124.204
+masvingo 86400 IN A 41.79.189.190
+www.elearning 86400 IN A 209.88.90.186
+zimbra 86400 IN A 41.79.189.190
+elearning 86400 IN A 209.88.89.131
+elearning 86400 IN TXT "google-site-verification=qYO-on27Yds_w_BqkIV_DR92giv8ByBHuQZa02saw9c"
+elearning 86400 IN MX 10 ALT2.ASPMX.L.GOOGLE.com.

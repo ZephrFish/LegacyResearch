@@ -1,0 +1,6 @@
+@ 1800 IN SOA @ nsadmin\@nic.in. 2013032201 10800 1800 1209600 14400
+@ 1800 IN NS ns1.nic.in.
+1800 IN NS ns2.nic.in.
+1800 IN NS ns7.nic.in.
+@ 1800 IN A 164.100.150.71
+www 1800 IN A 164.100.150.71

@@ -1,0 +1,72 @@
+@ 43200 IN SOA ns1 webmaster 2015030315 3600 7200 604800 43200
+@ 43200 IN NS ns1
+43200 IN NS ns2
+43200 IN NS ns3
+@ 43200 IN A 41.67.35.5
+@ 43200 IN MX 10 mail
+@ 43200 IN TXT "v=spf1 ptr:mail.uofg.edu.sd mx:mail.uofg.edu.sd ip4:41.67.35.6/24 ~all"
+xmail.cs 43200 IN A 41.67.35.6
+ns1 43200 IN A 41.67.35.3
+ns2 43200 IN A 41.67.35.4
+ns3 43200 IN A 41.67.48.2
+webmail.med 43200 IN A 41.67.35.7
+fod 43200 IN A 41.67.35.5
+med 43200 IN A 41.67.35.5
+med 43200 IN MX 10 mail.med
+factest 43200 IN A 41.67.35.5
+firewall 43200 IN A 41.67.35.2
+ftp.ccd 43200 IN A 41.67.35.5
+fas 43200 IN A 41.67.35.5
+xmail.ccd 43200 IN A 41.67.35.6
+xmail.ccd 43200 IN MX 10 mail.cs
+ftp.med 43200 IN A 41.67.35.5
+fmcs 43200 IN A 41.67.35.5
+webmail.cs 43200 IN A 41.67.35.7
+cos 43200 IN A 41.67.35.5
+uofgwww 43200 IN A 41.67.35.5
+xmail.med 43200 IN A 41.67.35.6
+xmail.med 43200 IN MX 10 mail.ccd
+ccd 43200 IN A 41.67.35.5
+ccd 43200 IN MX 10 mail.ccd
+mail 43200 IN A 41.67.35.6
+bnnicd 43200 IN A 41.67.35.14
+bnnicd 43200 IN MX 10 mail.psg.eng
+webmail 43200 IN A 41.67.35.7
+tex 43200 IN A 41.67.35.5
+eng 43200 IN A 41.67.35.5
+fap 43200 IN A 41.67.35.5
+mls 43200 IN A 41.67.35.5
+fds 43200 IN A 41.67.35.5
+xmail.psg.eng 43200 IN A 41.67.35.6
+xmail.psg.eng 43200 IN MX 10 mail.med
+phs 43200 IN A 41.67.35.5
+webmail.psg.eng 43200 IN A 41.67.35.7
+eduh 43200 IN A 41.67.35.5
+edh 43200 IN A 41.67.35.5
+www.psg.eng 43200 IN A 41.67.35.13
+ftp 43200 IN A 41.67.35.5
+www.cs 43200 IN A 41.67.35.5
+psg.eng 43200 IN A 41.67.35.13
+psg.eng 43200 IN MX 10 mail.psg.eng
+students 43200 IN A 41.67.35.5
+journals 43200 IN A 41.67.35.5
+mssql 43200 IN A 41.67.35.5
+ferd 43200 IN A 41.67.35.5
+ai 43200 IN A 41.67.35.5
+webmail.ccd 43200 IN A 41.67.35.7
+elearn 43200 IN A 41.67.35.12
+ftp.cs 43200 IN A 41.67.35.5
+uofg-router 43200 IN A 41.67.35.1
+elib 43200 IN A 41.67.35.11
+www.med 43200 IN A 41.67.35.5
+fhes 43200 IN A 41.67.35.5
+intiatives 43200 IN A 41.67.35.5
+box 43200 IN A 41.67.35.16
+alumni 43200 IN A 41.67.35.5
+eds 43200 IN A 41.67.35.5
+cs 43200 IN A 41.67.35.5
+ftp.psg.eng 43200 IN A 41.67.35.13
+www.ccd 43200 IN A 41.67.35.5
+ams 43200 IN A 41.67.35.5
+cs.uofg.edu.sd.cs 43200 IN MX 10 mail.cs
+www 43200 IN A 41.67.35.5

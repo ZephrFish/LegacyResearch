@@ -1,0 +1,10 @@
+@ 3600 IN SOA ns1.online.net.pg. hostmaster.online.net.pg. 2014090400 86400 3600 604800 86400
+@ 3600 IN NS ns1.online.net.pg.
+3600 IN NS ns2.online.net.pg.
+@ 3600 IN MX 10 cluster5.us.messagelabs.com.
+3600 IN MX 20 cluster5a.us.messagelabs.com.
+www 3600 IN A 203.83.22.46
+link 3600 IN A 203.83.16.205
+mailmw 3600 IN A 180.235.232.77
+mail 3600 IN A 203.83.16.206
+student 3600 IN MX 10 mailgwuog.spameater.biz.

@@ -1,0 +1,8 @@
+@ 86400 IN SOA ns1.iafrica.com. dns-admin.mtnbusiness.co.za. 2012070700 43200 7200 2592000 86400
+@ 86400 IN NS ns1.iafrica.com.
+86400 IN NS ns2.iafrica.com.
+@ 86400 IN MX 10 mail.imss.mtnbusiness.co.na.
+ftp 86400 IN A 72.233.77.52
+mail 86400 IN A 72.233.77.52
+ftptest 86400 IN A 72.233.77.52
+www 86400 IN A 72.52.179.1

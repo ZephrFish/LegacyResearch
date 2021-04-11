@@ -1,0 +1,3 @@
+@ 172800 IN SOA austin.gh.com. hostmaster.gh.com. 2008081901 28800 3600 1382400 7200
+@ 172800 IN NS austin.gh.com.
+172800 IN NS mantse.gh.com.

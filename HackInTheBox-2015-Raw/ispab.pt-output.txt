@@ -1,0 +1,23 @@
+@ 86400 IN SOA ns1.webhs.org. reports.webhs.pt. 2014120200 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns1.webhs.org.
+86400 IN NS ns2.webhs.org.
+86400 IN NS ns3.webhs.org.
+@ 14400 IN A 89.26.241.1
+autodiscover.moodle 14400 IN A 89.26.241.1
+_autodiscover._tcp.moodle 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.moodle 14400 IN A 89.26.241.1
+ftp 14400 IN A 89.26.241.1
+cpanel 14400 IN A 89.26.241.1
+autoconfig.moodle 14400 IN A 89.26.241.1
+www.moodle 14400 IN A 89.26.241.1
+moodle 14400 IN A 89.26.241.1
+localhost 14400 IN A 127.0.0.1
+webdisk 14400 IN A 89.26.241.1
+mail 14400 IN CNAME @
+autoconfig 14400 IN A 89.26.241.1
+autodiscover 14400 IN A 89.26.241.1
+webmail 14400 IN A 89.26.241.1
+whm 14400 IN A 89.26.241.1
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www 14400 IN CNAME @

@@ -1,0 +1,665 @@
+@ 300 IN SOA @ root 1400564604 10800 3600 604800 38400
+@ 300 IN A 121.241.25.1
+300 IN A 121.241.25.2
+300 IN A 14.139.125.195
+@ 300 IN NS dns
+300 IN NS dns2
+300 IN NS dns3
+300 IN NS dns4
+@ 300 IN TXT "v=spf1 include:_spf.google.com ~all"
+300 IN TXT "google-site-verification=qBUAjAQT2SoQBZDcmquVch_xKdz0jXJHxE20aWqfdVM"
+@ 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+acsj 300 IN A 121.241.25.4
+acsj 300 IN TXT "google-site-verification=ALAglqTAXHIGX8Z0fhHdKlAzhxS7njDWRL7qhyOMQJo"
+acsj 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+fort 300 IN A 121.241.25.4
+fort 300 IN TXT "google-site-verification=u1F8axq8c8R7U4DWpQy2UFwvyIOr3UoxKDGo7IdK1zA"
+fort 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+giced 300 IN A 121.241.25.4
+giced 300 IN TXT "google-site-verification=EM0J9XDweTsBcdd8pKCqWnrgH4XTtyQ3YYM9TsJY7nI"
+giced 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+cohab 300 IN A 121.241.25.4
+cohab 300 IN TXT "google-site-verification=uZG3kQxjwH-KGTdhfqI5d6cKIRlBR9Yw1fUxAWUPGtI"
+cohab 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+admi 300 IN A 121.241.25.4
+admi 300 IN TXT "google-site-verification=jSCVaV4mCOZIEULsULCP6mMMEUdy_059BVgEZVbS29E"
+admi 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+admn 300 IN A 121.241.25.4
+admn 300 IN TXT "google-site-verification=DEKwmn6ecbdrCaniSe9ls8XBSce94lX4-dugFJIgkis"
+admn 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+vidcon 300 IN A 121.241.25.71
+it 300 IN A 121.241.25.18
+dsw 300 IN A 121.241.25.4
+dsw 300 IN TXT "google-site-verification=FdoWDPRGyO77BpgZz98AngveiXFw8fNrUI3XnLWsjcU"
+dsw 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+cems 300 IN A 121.241.25.4
+cems 300 IN TXT "google-site-verification=xYUGjjSmuY9PCsintpBRHf1lGb2E9D14De0uM5ScMEg"
+cems 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+teacherinfo 300 IN A 121.241.25.23
+www.chem 300 IN A 202.179.64.55
+election 300 IN A 121.241.25.4
+election 300 IN TXT "google-site-verification=uivE7Su5w1T80WBcC3M6ew8-wq_TJ1egoPrc_loH01Y"
+election 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+nano 300 IN A 121.241.25.4
+300 IN A 121.241.25.29
+nano 300 IN TXT "google-site-verification=7Q9pD0xU38ozSjqiNw-YzfTNgiqdwnGLG0qfbH5Ru-I"
+nano 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ems 300 IN A 121.241.25.4
+ems 300 IN TXT "google-site-verification=ZjBJwjqC5RhivBKI6NTox7WxB4xVeyPV0b2qRAaCim0"
+ems 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+politics 300 IN A 121.241.25.4
+politics 300 IN TXT "google-site-verification=Zf5wan2n4lDKvGSCZKnWna13FE5PM6FGwyVP12XtVkI"
+politics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+rgccs 300 IN A 121.241.25.4
+rgccs 300 IN TXT "google-site-verification=6IbIL8SS6Cx_rp0naNrnv6JfaM1-dIQvmB3oIlt4rgM"
+rgccs 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+smmib 300 IN A 121.241.25.4
+300 IN A 202.179.64.55
+smmib 300 IN TXT "google-site-verification=Bo_ZATYOff-H8I9Vjx54sOL25P3SodIoPZulEGXg_YU"
+smmib 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+iview 300 IN A 121.241.25.33
+www 300 IN A 121.241.25.1
+300 IN A 121.241.25.2
+300 IN A 14.139.125.195
+lka 300 IN A 121.241.25.4
+lka 300 IN TXT "google-site-verification=9lwyLV72jbE4PeyBcCqCNGlapy6C0njvkoHQcpXtM0c"
+lka 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+eco.numail 300 IN MX 20 numail
+mar 300 IN A 121.241.25.70
+commerce 300 IN TXT "google-site-verification=to5LbQVSLFlPgEEuZ0zPqKWWgB1SAoU31ygDKmrCt-E"
+commerce 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+mcj 300 IN A 121.241.25.4
+mcj 300 IN TXT "google-site-verification=ZEXl0zqEYvv6KZ7Qq63h898hw432tPT18V59eXZbTkg"
+mcj 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+chem.numail 300 IN MX 20 numail
+numail 300 IN A 121.241.25.4
+300 IN A 121.241.25.34
+numail 300 IN TXT "google-site-verification=ciSpBArGYwQXqm2YgdDavZDkCxhnptPKe-wkpXN-T2g"
+numail 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+nanoipc 300 IN A 121.241.25.39
+library 300 IN A 121.241.25.4
+300 IN A 121.241.25.23
+library 300 IN TXT "google-site-verification=Jce0nTFF13TahsoSToehhtSDMY7nKgD-hAT_Vf_lAtA"
+library 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+www.wric 300 IN A 121.241.25.21
+csit 300 IN A 121.241.25.4
+csit 300 IN TXT "google-site-verification=5Ifz0NhOTalMUV6KJYa5dM3tIdFrUsiiF0_PHfYESBU"
+csit 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+history 300 IN TXT "google-site-verification=IURQlSubCLY8neDzbSyDAKY0fiPNy5RRHAKiqXqBX2E"
+history 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+sp 300 IN A 121.241.25.4
+sp 300 IN TXT "google-site-verification=6xOA3Eu92FgQhp7bd38trQ40DkSGciAahJJUaMlSgZk"
+sp 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+math.numail 300 IN MX 20 numail
+physics 300 IN A 121.241.25.4
+physics 300 IN TXT "google-site-verification=SZGur-3oApwIak45rMAtbAlmVX4PVAM_nG1JdQvVwuU"
+physics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ideonline 300 IN A 121.241.25.10
+rsc 300 IN A 121.241.25.4
+rsc 300 IN TXT "google-site-verification=rdI9qi6PIoeMGpNKTgow6PolyEBjJEySsa12tU4Stmk"
+rsc 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+statistics 300 IN A 121.241.25.4
+statistics 300 IN TXT "google-site-verification=LkS876jttpGY0X2hlXIL13V-obC7cqqaXumHZd9E_AM"
+statistics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+sanskrit 300 IN A 121.241.25.4
+sanskrit 300 IN TXT "google-site-verification=dDYhBST0YNG-EK3U-_lWlczlnrlhjgpM4xRTDRooiEM"
+sanskrit 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+sirjj 300 IN TXT "google-site-verification=0NvV6wfB5vf7aYxmAV9ckQcRWmsBdXH5jVBKglY6pko"
+sirjj 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.1.google.com.
+300 IN MX 5 alt2.aspmx.1.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+iqac 300 IN TXT "google-site-verification=w00DX89HYOnIkUEqFZep8hax1wJ2n_gzA8OUY9EMJj4"
+iqac 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+aau 300 IN A 121.241.25.4
+aau 300 IN TXT "google-site-verification=G2mzOv72HWL09A4JGjhwEw0xQUaNNWLjxz4Fvi4LVKw"
+aau 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ratnagiri 300 IN A 121.241.25.4
+ratnagiri 300 IN TXT "google-site-verification=Ej_Jms6prztmZZOgGK_UcM-Qu0X2t6fF79mkszt49xk"
+ratnagiri 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+tau 300 IN A 121.241.25.4
+tau 300 IN TXT "google-site-verification=sEBCyELGGCfFVZYVtrhbcqXkLngnZLpc6nwDwSaKWgw"
+tau 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+nac 300 IN A 121.241.25.5
+magnum 300 IN A 121.241.25.37
+gujarati 300 IN TXT "google-site-verification=alcdwSZvn4Z2n237iLsth_lQbUiSk7ROEDvJfEp5HzA"
+gujarati 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+pes 300 IN A 121.241.25.4
+pes 300 IN TXT "google-site-verification=VZvgxGpoSIGW7mltbZyMzsjPXByh_1xDWPq2IoFpSRQ"
+pes 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ugpg 300 IN A 121.241.25.4
+ugpg 300 IN TXT "google-site-verification=va3r3oDDyAX9TPJl1n7jBULxgPj_UOtMexPTbQQII3E"
+ugpg 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+aff 300 IN A 121.241.25.4
+aff 300 IN TXT "google-site-verification=dHR7AdZicOxoGf3ADrWYcrY0hrOnt-hMKu5_ri4mkrU"
+aff 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+lifesciences 300 IN A 121.241.25.4
+lifesciences 300 IN TXT "google-site-verification=SvU8S1pOcaAuxerfAIPvCkqhHIBDUFO48TcFfZgrgQQ"
+lifesciences 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+sankhya 300 IN A 121.241.25.52
+udcs 300 IN A 121.241.25.4
+udcs 300 IN TXT "google-site-verification=0FOI_yBXUjPlwiaIBj48619WKEjXoyypSLz4RHCbRWo"
+udcs 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+sociology 300 IN A 121.241.25.4
+sociology 300 IN TXT "google-site-verification=wcUjst3zWc_EqNyjlp1YEA_mDIPHE201eOSSl-Z6KWA"
+sociology 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+psychology 300 IN A 121.241.25.4
+psychology 300 IN TXT "google-site-verification=gKmv6E49DKb_GQ8IRVDtJ5lxry02nQB6UzZIdTOimBc"
+psychology 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+umdaecbs 300 IN A 121.241.25.4
+umdaecbs 300 IN TXT "google-site-verification=d0_0mvSWiUfarwgUv7yxjKWHW28IdUO-E6tDT9J2qTI"
+umdaecbs 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+chem 300 IN A 121.241.25.4
+300 IN A 202.179.64.55
+chem 300 IN TXT "google-site-verification=nC8C2jmAz0ldSxnsQSD8XMcH-ZCoKvRdN8446EDw5Wc"
+chem 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ncnn 300 IN TXT "google-site-verification=K4IK9SQQElEu2BypwWlLiBGCyk35SlMLsVDcbgKDvPA"
+ncnn 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+giri 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+dspace 300 IN A 121.241.25.22
+forum 300 IN A 121.241.25.36
+digistore 300 IN A 121.241.25.24
+geography 300 IN A 121.241.25.4
+geography 300 IN TXT "google-site-verification=Xz4avTqWAoyxWJq8a2-91MPFzH16MNVln6tuoViUp3I"
+geography 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+wdc.mu.ac.in 300 IN A 121.241.25.4
+biophysics 300 IN A 121.241.25.4
+biophysics 300 IN TXT "google-site-verification=UoAs3Ruuj3A-EtSkeKvShbvjZbp5gcq6FPLDt4yFkzs"
+biophysics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+phy.numail 300 IN MX 20 numail
+economics 300 IN A 121.241.25.4
+economics 300 IN TXT "google-site-verification=P7wjL2jwSW7jweLsvRzv_5Fqe2Q4k-tzWK1exvcosDQ"
+economics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+_http._tcp.origin.beta1 300 IN SRV 0 5 80 origin.beta1
+college 300 IN A 121.241.25.4
+college 300 IN TXT "google-site-verification=uih4Xv54h--3HQwA75XVJusfiLnZRzKfv04rW08Z3AE"
+college 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+helpdesk 300 IN A 121.241.25.15
+ganit 300 IN A 121.241.25.53
+blitz 300 IN A 121.241.25.4
+blitz 300 IN TXT "google-site-verification=uCsTdktqkbCeuMAzulNiY47lCoxb-sGMkngqPStqFKk"
+blitz 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+udit 300 IN A 121.241.25.4
+udit 300 IN TXT "google-site-verification=I8UyUJy5lZU5TJaDMZTY3dVzs_zHj4Z21m4k36o3BSw"
+udit 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+idol 300 IN A 121.241.25.4
+idol 300 IN TXT "google-site-verification=ttSBb8OPeBpC08517pNVt_0X9tTzW9CTPOqlkGUNVEo"
+idol 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+estab 300 IN A 121.241.25.4
+estab 300 IN TXT "google-site-verification=soVoOnygC6S98mE4OZ8JZpr0DWvJYK03mHM9KymQp1A"
+estab 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+linguistics 300 IN A 121.241.25.4
+linguistics 300 IN TXT "google-site-verification=c1oHq4Fghgf98_C09eSS34SzB0TzsmL7JvQiJ9hUCdQ"
+linguistics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+wric 300 IN A 121.241.25.4
+300 IN A 121.241.25.21
+wric 300 IN TXT "google-site-verification=7cUh42sntzewvBPyOvlXGMxQY3b3qicg9DfsJQykmgQ"
+wric 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+chemistry 300 IN A 121.241.25.4
+chemistry 300 IN TXT "google-site-verification=78UFsEFFEfQQZjTDBOopdR_KofW8H6LmltH7cPHSVbM"
+chemistry 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+eoffice 300 IN A 121.241.25.30
+www.smmib 300 IN A 202.179.64.55
+asc 300 IN A 121.241.25.4
+asc 300 IN TXT "google-site-verification=5YX93rkdqqgBYQJTaD_pSvk5kdnXTiFH99slp0FCFKg"
+asc 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ide 300 IN A 121.241.25.4
+ide 300 IN TXT "google-site-verification=PtkNkcsQp6ulqj8GOL2BtI--PczTputFtpfh6GWgj7A"
+ide 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ata 300 IN A 121.241.25.4
+ata 300 IN TXT "google-site-verification=r9Fauy01eoKP56ybLQQbpgLx4g3SeqkPFmlpaeI6pdM"
+ata 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+subserver 300 IN A 121.241.25.65
+cap 300 IN A 121.241.25.19
+cas 300 IN A 121.241.25.4
+cas 300 IN TXT "google-site-verification=T-7mnGeI8cDdicmhNPslSwO7ksbI5Voreqyo0YMXgiI"
+cas 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+results 300 IN A 121.241.25.38
+mail 300 IN A 121.241.25.4
+mail 300 IN TXT "google-site-verification=CX0x4VvkGcIkDdrfiWhc5E1PF9JE3zPy5powmM63KVw"
+mail 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+300 IN MX 10 umail
+ccf 300 IN A 121.241.25.4
+ccf 300 IN TXT "google-site-verification=0Bt2EmTPrJIoRTSYzUgagz0iY8LkgRazBUeVg1jUoSk"
+ccf 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+urdu 300 IN TXT "google-site-verification=5br2rj9em_Pd2beT3TYscvC_DCYWdHhk75XKry8B384"
+urdu 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+aum 300 IN A 121.241.25.47
+jbims 300 IN TXT "google-site-verification=zrL5HRTKRThiotu_9d4SEthLB9vDJGAjv65a1MEhtbU"
+jbims 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+mobile 300 IN A 121.241.25.54
+russian 300 IN A 121.241.25.4
+russian 300 IN TXT "google-site-verification=Qq0Q7K5pEh3-1OF9mSArO0256Yg3XlpKXsRzdnZgeRE"
+russian 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+tsc 300 IN A 121.241.25.4
+tsc 300 IN TXT "google-site-verification=ZDUFMnul0K-OaR-NgJNIw0et273ZS5NavWhLbDwTbGI"
+tsc 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+nss 300 IN A 121.241.25.4
+nss 300 IN TXT "google-site-verification=j5OhHUzD1KyCwgQ0783ceoSZfwVVHWTDon013Sj3VvE"
+nss 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+conf 300 IN A 121.241.25.36
+live 300 IN A 121.241.25.60
+eligi 300 IN A 121.241.25.4
+eligi 300 IN TXT "google-site-verification=zN7ggpmgD0wOwvyE-g79wWQz_WgoDrQAOJfcS0P8fFg"
+eligi 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ucc 300 IN A 121.241.25.86
+ucc 300 IN TXT "google-site-verification=5r48eNyNBJ5KKmKGODUsC-zY-AjIXmhmmO8e2lCKzTY"
+ucc 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+gtccl 300 IN A 121.241.25.4
+gtccl 300 IN TXT "google-site-verification=554wu69th9HmARntms7xC7QP-C5pQ9TID1xs-rLQRpU"
+gtccl 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+apc2 300 IN A 121.241.25.32
+olp 300 IN A 121.241.25.51
+digant 300 IN A 121.241.25.20
+bio.numail 300 IN MX 20 numail
+exam 300 IN A 121.241.25.4
+exam 300 IN TXT "google-site-verification=mHmdn2WDvtrsnt4hZQn1KD3ty3PqBxI_dOAg7z_mAgg"
+exam 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+eclipse 300 IN A 121.241.25.35
+panel 300 IN A 121.241.25.141
+german 300 IN A 121.241.25.4
+german 300 IN TXT "google-site-verification=_0YAlHFptL3QU6edkH0eOzfAuuL4skD35wVZ_yzwJCk"
+german 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+beta 300 IN A 121.241.25.70
+mathematics 300 IN A 121.241.25.4
+mathematics 300 IN TXT "google-site-verification=zvOwOC4Fg01BCgueILMeaEy5lBb8c3iEOsofSORasS8"
+mathematics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+beta1 300 IN CNAME pagespeed.googlehosted.com.
+wdc 300 IN TXT "google-site-verification=njbQGY1kBv94RsRmJf15nSyfOsFBMu2z1QECkTXtJvI"
+wdc 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+civics 300 IN A 121.241.25.4
+civics 300 IN TXT "google-site-verification=X7gVocDUgGvF-RrA7WwiBEg9KOKPPY4mGxvmYCJDvnw"
+civics 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+math 300 IN A 121.241.25.4
+300 IN A 121.241.25.51
+math 300 IN TXT "google-site-verification=Vh87T4JaHaXprkVpijoU9WMelEPnKnkQny1pZvYyfxw"
+math 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+mudlle 300 IN A 121.241.25.4
+mudlle 300 IN TXT "google-site-verification=WSWSl2cRgrOnQr51hFID6Aa45z-GWSeqHatRMPM5HaY"
+mudlle 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+statunit 300 IN A 121.241.25.4
+statunit 300 IN TXT "google-site-verification=ncUquHzROW7Cbq3L3fh7B_A7BzoA_shK-zxZuRb6h7k"
+statunit 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+ernres 300 IN CNAME ernet
+english 300 IN A 121.241.25.4
+english 300 IN TXT "google-site-verification=qHkPxZxjSrtS23iREp-8cpedX9fQLPuHsrok-NHR6fY"
+english 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+conv.mu.ac.in 300 IN A 121.241.25.12
+accounts 300 IN A 121.241.25.4
+accounts 300 IN TXT "google-site-verification=TSyczyZyKHGcLJWHl2_SyDANIjipJgKBLRoSl5dOe3Q"
+accounts 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+origin.beta1 300 IN A 121.241.25.71
+300 IN A 121.241.25.72
+muexam 300 IN A 121.241.25.73
+varnish1 300 IN A 121.241.25.91
+mbox 300 IN A 121.241.25.89
+umail 300 IN A 121.241.25.4
+umail 300 IN TXT "google-site-verification=elPab6NBxCXNQ_5c5W1HymhpODuXL8W1_eg6BBRHuJE"
+umail 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+education 300 IN A 121.241.25.4
+education 300 IN TXT "google-site-verification=nM-MCcbJkyG7bchTfeEng1SFhpN7gufP7ValsWWw6yA"
+education 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+dns2 300 IN A 121.241.25.2
+dns3 300 IN A 121.241.33.68
+dns4 300 IN A 14.139.125.195
+eau 300 IN A 121.241.25.4
+eau 300 IN TXT "google-site-verification=tZ-d5zLEuO9vkdBZNTeM0iFo3htXTVyNC0si2hU01hE"
+eau 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+pali 300 IN A 121.241.25.4
+pali 300 IN TXT "google-site-verification=rdQKcnrAu-3kIOyksmYGthW7yJeWKTRBn3xIKj_2hyU"
+pali 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+reval 300 IN A 121.241.25.87
+edu 300 IN A 121.241.25.4
+edu 300 IN TXT "google-site-verification=1nTnBar_2bALsX1dZmWpViw8QTfqT3IK2XsIjvnwbWY"
+edu 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+philosophy 300 IN TXT "google-site-verification=EF1oI5xKg-yR3YhP4x9h_mhETUFhxdhl_AtuYV9_luw"
+philosophy 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+dl 300 IN A 121.241.25.56
+udlsc 300 IN A 121.241.25.4
+udlsc 300 IN TXT "google-site-verification=M3FeDDP_PpxlXwkvIZBzd53QGOEJkUwHHjdyrLRdwb4"
+udlsc 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+dns 300 IN A 121.241.25.1
+ernet 300 IN A 202.141.154.114
+nms1 300 IN A 121.241.25.27
+nms2 300 IN A 121.241.25.28
+kaspersky 300 IN A 121.241.25.7
+apc1 300 IN A 121.241.25.31

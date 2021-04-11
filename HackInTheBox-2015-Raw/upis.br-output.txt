@@ -1,0 +1,58 @@
+@ 300 IN SOA internet020 internet 2014102701 10800 3600 1209600 3600
+@ 300 IN NS ns.embratel.net.br.
+300 IN NS dns2
+300 IN NS nsbrt
+300 IN NS nsbrt2
+300 IN NS internet020
+@ 300 IN A 200.199.244.67
+300 IN A 200.214.189.133
+@ 300 IN MX 10 smtp
+@ 300 IN TXT "v=spf1 mx ptr ip4:200.214.189.163/26 ip4:200.199.244.86/27 ip4:10.100.1.0/16 ip4:10.100.2.0/16 ip4:10.21.0.0/16 ip4:200.199.244.67 ip4:200.214.189.133 mx:smtp.upis.br a:upis.br 200.163.19.54 -all"
+qualidade 300 IN A 200.214.189.173
+discovirtual.universidadedafotografia 300 IN A 200.214.189.169
+webdisco 300 IN A 200.214.189.169
+systemt 300 IN A 200.214.189.168
+blog 300 IN A 200.199.244.81
+300 IN A 200.214.189.143
+systemt.universidadedafotografia 300 IN A 200.214.189.168
+ssystem08 300 IN A 200.199.244.85
+300 IN A 200.214.189.135
+system11000 300 IN A 200.214.189.140
+monitor 300 IN A 200.214.189.162
+nsbrt 300 IN A 200.199.244.68
+pop3 300 IN A 200.199.244.86
+300 IN A 200.214.189.163
+mail 300 IN A 200.199.244.86
+300 IN A 200.214.189.163
+prova 300 IN A 200.214.189.137
+systemwsus 300 IN A 200.214.189.159
+systembusca 300 IN A 200.214.189.136
+smtp.universidadedafotografia 300 IN A 200.214.189.163
+system7 300 IN CNAME www
+www 300 IN A 200.199.244.67
+300 IN A 200.214.189.133
+dns2 300 IN A 200.214.189.150
+localhost 300 IN A 127.0.0.1
+system7.universidadedafotografia 300 IN CNAME www
+salavirtual 300 IN A 200.199.244.81
+acad 300 IN A 200.199.244.89
+nsbrt2 300 IN A 200.199.244.70
+campus1.universidadedafotografia 300 IN A 200.214.189.170
+biblioteca 300 IN CNAME systembusca
+rondono1 300 IN A 200.214.189.161
+correio 300 IN A 200.199.244.86
+300 IN A 200.214.189.163
+discovirtual 300 IN A 200.214.189.169
+nsbrt.universidadedafotografia 300 IN A 200.199.244.68
+sa 300 IN A 200.214.189.181
+internet020 300 IN A 200.214.189.130
+intranet.universidadedafotografia 300 IN A 200.214.189.173
+www.universidadedafotografia 300 IN A 200.199.244.67
+300 IN A 200.214.189.133
+system400 300 IN A 200.214.189.189
+campus1 300 IN A 200.199.244.71
+300 IN A 200.214.189.170
+smtp 300 IN A 200.199.244.86
+300 IN A 200.214.189.163
+intranet 300 IN A 200.214.189.173
+mail._domainkey.universidadedafotografia 300 IN TXT "v=DKIM1; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDeiXjPhcbqSQpfyLLLsDE9QNxspR5/D/oQQDmfvU2xBhHgR1oHx3lNjaB/DNPUvQrC34eZWbXMVcYYosm4qOmhzCxwYbW1+GjzoA3CXemrEpzPwhJu1njKwEQt5vcMS0CQ9WbVOz5XvvTsuCqpQl2sqFaZLEerkRmRCw3UUaKfiwIDAQAB"

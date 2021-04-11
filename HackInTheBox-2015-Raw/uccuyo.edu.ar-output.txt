@@ -1,0 +1,69 @@
+@ 43200 IN SOA mail hostmaster.mail 2015042401 3600 900 1209600 43200
+@ 43200 IN TXT "google-site-verification=LU3scPE4eMZZABwFbO_b77WQtOfSH_CBvTOgrSGzMM4"
+43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+@ 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+@ 43200 IN NS ns1
+43200 IN NS ns2
+@ 43200 IN A 188.138.122.26
+sitra 43200 IN A 200.5.74.18
+consulta 43200 IN A 200.5.74.18
+derecho 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+derecho 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+derecho 43200 IN A 200.5.74.19
+ns2 43200 IN A 188.138.122.26
+laidentidaddejesus 43200 IN A 188.138.122.26
+uccdigital 43200 IN A 200.5.74.18
+docente 43200 IN A 200.5.74.18
+pergamo 43200 IN A 200.5.74.18
+museo 43200 IN A 200.5.74.18
+zeus 43200 IN A 188.138.122.26
+alimentacion 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+alimentacion 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+alimentacion 43200 IN A 200.5.74.19
+zimbrauccuyo 43200 IN A 200.5.74.19
+encuesta 43200 IN A 200.5.74.18
+mail 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ipv4:188.138.10.227 ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+mail 43200 IN A 200.5.74.19
+sistemas 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+sistemas 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+sistemas 43200 IN A 200.5.74.19
+filosofia 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+filosofia 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+filosofia 43200 IN A 200.5.74.19
+medicina 43200 IN A 200.5.74.18
+digesto 43200 IN A 10.0.5.174
+mail.museo 43200 IN A 200.5.74.18
+laboratorio 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+laboratorio 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+laboratorio 43200 IN A 200.5.74.19
+webmail 43200 IN A 200.5.74.18
+preinscweb 43200 IN A 200.5.74.18
+www 43200 IN A 188.138.122.26
+ofertaeducativa 43200 IN A 188.138.122.26
+poseidon 43200 IN A 188.138.122.26
+intra 43200 IN A 200.5.74.18
+bioetica 43200 IN A 188.138.122.26
+rrhh 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+rrhh 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+rrhh 43200 IN A 200.5.74.19
+catedras 43200 IN A 200.5.74.18
+enciclopediadebioetica 43200 IN A 188.138.122.26
+www.alumno 43200 IN A 200.5.74.18
+ns1 43200 IN A 200.5.74.18
+mx2 43200 IN A 188.138.10.227
+43200 IN A 188.138.122.26
+alumno 43200 IN A 200.5.74.18
+online 43200 IN A 188.138.122.26
+economicas 43200 IN TXT "v=spf1 mx a a:mx2.uccuyo.edu.ar ip4:188.138.122.26/32 ip4:200.5.74.19/32 a:zimbrauccuyo.uccuyo.edu.ar ~all"
+economicas 43200 IN MX 10 mail
+43200 IN MX 20 mx2
+economicas 43200 IN A 200.5.74.19
+mail.medicina 43200 IN A 200.5.74.18
+www2 43200 IN A 188.138.122.26

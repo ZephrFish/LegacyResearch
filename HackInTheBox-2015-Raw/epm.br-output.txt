@@ -1,0 +1,262 @@
+@ 2560 IN SOA ns1 hostmaster 1429715154 16384 2048 1048576 2560
+@ 86400 IN TXT "v=spf1 a mx ip4:200.144.93.172/24 a:mail.epm.br mx:correio.epm.br mx:mail.epm.br ip4:200.17.25.98 ~all"
+@ 259200 IN NS ns1
+259200 IN NS ns2
+@ 600 IN MX 6400 imsva01
+@ 86400 IN A 200.144.93.172
+psicobio 86400 IN MX 20864 mail
+bioestat 86400 IN MX 20864 bioestat
+pneumo 86400 IN MX 20864 mail
+www.biof 86400 IN CNAME trincaferro
+www.oftalmo 86400 IN CNAME trincaferro
+guara 86400 IN A 200.144.93.198
+mirror 86400 IN A 200.144.91.201
+vml001 86400 IN A 200.144.93.138
+vml002 86400 IN A 200.144.93.139
+vml003 86400 IN A 200.144.93.140
+vml004 86400 IN A 200.144.93.141
+vml005 86400 IN A 200.144.93.142
+vml006 86400 IN A 200.144.93.39
+vml007 86400 IN A 200.144.93.55
+vml008 3600 IN TXT "v=spf1  mx  a  ip4:200.144.93.0/24  ~all"
+vml008 86400 IN A 200.144.93.38
+vml008 86400 IN MX 400 vml008
+vml009 86400 IN A 200.144.93.121
+vml011 86400 IN A 200.144.93.162
+vml012 86400 IN A 200.144.93.163
+prograd 259200 IN NS ns1
+259200 IN NS ns2
+prograd 86400 IN A 172.22.4.125
+prograd 86400 IN MX 20864 mail
+wpad 86400 IN A 200.144.93.141
+vml015 86400 IN A 200.144.93.156
+vml016 86400 IN A 200.144.93.178
+vml017 259200 IN A 200.144.93.179
+vml018 86400 IN A 200.144.93.246
+vml019 86400 IN A 200.144.93.247
+vml021 86400 IN A 200.144.93.234
+abibe 86400 IN A 200.144.93.195
+vml023 86400 IN A 200.144.93.231
+vml025 86400 IN A 200.144.93.62
+biocomp 86400 IN CNAME vm0.bioinfo.unifesp.br.
+vml027 86400 IN A 200.144.93.61
+vml028 86400 IN A 200.144.93.105
+vml029 86400 IN A 200.144.93.16
+ema 6400 IN CNAME vml008
+db-postgres 86400 IN A 200.144.93.45
+igen2 86400 IN A 201.6.255.134
+fcr 86400 IN MX 20864 mail
+proex 86400 IN MX 20864 mail
+dbadmin 86400 IN A 200.144.93.239
+galo 86400 IN A 200.144.94.189
+biofis 86400 IN A 200.17.25.37
+biofis 86400 IN MX 20864 mail
+cotinga 86400 IN A 200.144.93.43
+unifesp 86400 IN MX 20864 correio
+neuro 86400 IN MX 20864 mail
+c1b11 86400 IN A 200.144.93.123
+procdados 86400 IN A 200.144.93.254
+alenco 86400 IN A 200.144.93.169
+arara 86400 IN MX 20864 arara
+www 86400 IN A 200.144.93.191
+www.biofis 86400 IN CNAME trincaferro
+almanack 86400 IN A 200.144.93.23
+bigua 86400 IN A 200.144.93.191
+iwsva01 86400 IN A 200.144.92.10
+iwsva02 86400 IN A 200.144.92.20
+iwsva03 86400 IN A 200.144.92.30
+iwsva04 86400 IN A 200.144.92.40
+c1b12 86400 IN A 200.144.93.127
+iwsva06 86400 IN A 200.144.92.60
+dpsiq 86400 IN MX 20864 mail
+nemap1 86400 IN A 172.22.5.69
+roc 86400 IN A 172.22.29.74
+alfa 86400 IN A 200.17.25.207
+alfa 86400 IN MX 20864 mail
+imsva02 86400 IN A 200.144.93.133
+endo 86400 IN MX 20864 mail
+trincaferro 86400 IN A 200.144.93.172
+reforsus 86400 IN MX 20864 reforsus
+tinhosa 86400 IN A 200.144.93.45
+www.estger 86400 IN A 200.17.25.161
+wins 86400 IN A 200.144.93.17
+rh 86400 IN MX 20864 mail
+www.agenciaquixote 86400 IN CNAME trincaferro
+beijaflor 86400 IN A 200.144.93.35
+enge 86400 IN MX 20864 mail
+patologia 86400 IN MX 20864 mail
+oftalmo 86400 IN A 200.144.93.50
+oftalmo 86400 IN MX 20864 harpia
+reitoria 86400 IN MX 20864 mail
+www.coreme 86400 IN CNAME www2.unifesp.br.
+www.compbio 86400 IN CNAME vm0.bioinfo.unifesp.br.
+fosforo.nut 86400 IN CNAME vm1.bioinfo.unifesp.br.
+medprev 86400 IN MX 20864 mail
+www.tabnut 86400 IN CNAME cms.bioinfo.unifesp.br.
+cajubi 86400 IN A 200.144.93.24
+webmail 86400 IN MX 20864 correio
+proex1 86400 IN A 172.22.27.100
+hospitalcotia 86400 IN CNAME procdados
+vml010 86400 IN A 200.144.93.134
+andorinha 86400 IN CNAME ns1
+www.cebrid 86400 IN CNAME trincaferro
+biof 86400 IN CNAME trincaferro
+aracari 86400 IN A 200.144.93.33
+gastro 86400 IN MX 20864 mail
+sars 86400 IN MX 300 mail
+200-144-93-31 86400 IN A 200.144.93.31
+hemato 86400 IN MX 20864 mail
+orahom02-priv 86400 IN A 10.10.10.2
+www.hsp 86400 IN CNAME trincaferro
+www.dcc 86400 IN CNAME trincaferro
+www.virtual 86400 IN A 200.144.93.25
+led 259200 IN NS ns1
+259200 IN NS ns2
+cagu 86400 IN A 172.22.1.224
+www.fosforo.nut 86400 IN CNAME vm1.bioinfo.unifesp.br.
+contraceptivos 86400 IN CNAME vm1.bioinfo.unifesp.br.
+climed 86400 IN MX 20864 mail
+climed 86400 IN CNAME trincaferro
+gralha 86400 IN A 200.144.93.46
+ftp 86400 IN A 200.144.91.201
+pop.prograd 86400 IN A 200.17.25.246
+dpdphp 86400 IN A 200.144.93.135
+mandarim 86400 IN A 200.144.93.182
+codorna 86400 IN A 200.144.93.128
+vml020 86400 IN A 200.144.93.233
+sys-prod 86400 IN A 200.144.93.193
+tom-ps02 86400 IN A 172.22.66.191
+www.projetoquixote 86400 IN CNAME trincaferro
+harpia 86400 IN A 200.144.93.252
+xapu 86400 IN A 200.144.93.11
+orascan1 86400 IN A 200.144.93.100
+vml022 86400 IN A 200.144.93.89
+csts 86400 IN A 200.144.93.70
+pato 86400 IN A 200.144.93.164
+cuco 86400 IN A 200.144.93.36
+macuco 86400 IN A 200.144.93.26
+proxy 86400 IN A 200.144.94.132
+eadmedprev 86400 IN A 200.144.93.124
+rs02 86400 IN A 200.144.93.8
+cosfac 86400 IN MX 20864 mail
+dhsp 86400 IN MX 20864 dhsp
+www.dev 86400 IN A 200.17.25.212
+dpdphp2 86400 IN A 200.144.93.135
+serpro 86400 IN A 161.148.1.201
+micromedex 86400 IN CNAME trincaferro
+ftp.prograd 86400 IN A 200.17.25.246
+www.cedess-ead 86400 IN A 200.17.25.198
+alcatraz 86400 IN A 200.17.25.7
+gastroped 86400 IN MX 20864 mail
+gamba2 86400 IN CNAME trincaferro
+www.farm 86400 IN A 200.17.25.237
+tabnut 86400 IN CNAME cms.bioinfo.unifesp.br.
+ns1 86400 IN A 200.144.93.37
+ns2 86400 IN A 200.144.93.52
+fada 86400 IN CNAME trincaferro
+www.dis 86400 IN A 200.144.93.80
+reumato 86400 IN MX 20864 mail
+ldap-proxy 86400 IN CNAME vml022
+www.biocomp 86400 IN CNAME vm0.bioinfo.unifesp.br.
+gaviao 86400 IN A 200.144.93.85
+compbio 259200 IN NS ns1
+259200 IN NS ns2
+compbio 86400 IN CNAME vm0.bioinfo.unifesp.br.
+compbio 86400 IN MX 20864 mail.dis
+pediatria 86400 IN MX 20864 mail
+nemap 86400 IN A 172.16.167.167
+nemap 86400 IN MX 20864 dpsiq
+chsp 86400 IN MX 20864 mail
+xuri 86400 IN A 200.144.93.9
+discente 86400 IN MX 20864 discente
+mail 6400 IN CNAME vml008
+melanoma.ecb 86400 IN A 200.17.25.163
+maina 86400 IN CNAME propostas.unifesp.br.
+cedess 86400 IN MX 20864 mail
+simula 86400 IN CNAME trincaferro
+mail2.prograd 86400 IN A 172.22.4.1
+virtual 86400 IN A 200.17.25.52
+virtual 86400 IN MX 20864 virtual
+tijuca 86400 IN A 200.144.93.44
+iwsva05 86400 IN A 200.144.92.50
+smtp.prograd 86400 IN A 200.17.25.246
+aquarius-prod1 86400 IN A 200.144.93.12
+orahom03-priv 86400 IN A 10.10.10.3
+ntp 86400 IN CNAME vml018
+bemtevi 86400 IN A 200.144.93.34
+acrobata 86400 IN A 200.144.93.52
+brejal 86400 IN A 200.144.93.170
+gradinfo.prograd 86400 IN A 200.17.25.246
+php-prod 86400 IN A 200.144.93.248
+embu2 86400 IN CNAME trincaferro
+condor 86400 IN A 200.144.93.190
+vmw004 86400 IN A 200.144.93.6
+vmw005 86400 IN A 200.144.93.177
+psiquiatria 86400 IN MX 20864 mail
+oftalmonet 86400 IN A 200.144.93.50
+oftalmonet 86400 IN MX 20864 harpia
+pato2 86400 IN A 200.144.93.49
+cis 86400 IN A 200.17.25.82
+endocrino 86400 IN MX 20864 mail
+ricardo6 86400 IN AAAA 423a:3563::c:1
+cmsdis01 86400 IN A 200.144.93.171
+intranet 86400 IN MX 20864 arara
+nefro 86400 IN MX 600 mail
+nefro 86400 IN A 200.144.93.172
+proxy.prograd 86400 IN A 200.17.25.246
+www.eadmedprev 86400 IN CNAME eadmedprev
+xicu 86400 IN A 200.144.93.10
+pintassilgo 86400 IN A 200.17.25.6
+igen 86400 IN TXT "v=spf1 a mx ip4:200.17.25.137/32 ip4:201.6.255.134/32 -all"
+igen 86400 IN A 200.17.25.137
+igen 86400 IN MX 20864 igen
+86400 IN MX 20864 igen2
+www.bibliotecacsp 86400 IN CNAME trincaferro
+disdesenv 86400 IN MX 20864 disdesenv
+farm 86400 IN MX 20864 mail
+qualim.cfhr 86400 IN MX 20864 cfhr
+diretoriahsp 86400 IN CNAME saripoca
+vzbr01 86400 IN A 200.144.93.54
+services 86400 IN CNAME trincaferro
+c1b03 86400 IN A 200.144.93.117
+c1b04 86400 IN A 200.144.93.118
+c1b05 86400 IN A 200.144.93.119
+virt 86400 IN A 200.144.93.25
+maguari 86400 IN A 200.144.93.158
+redcap 86400 IN CNAME erdos.unifesp.br.
+imsva00 86400 IN A 200.144.93.131
+imsva01 86400 IN A 200.144.93.125
+c1b13 86400 IN A 200.144.93.129
+portalsisreg 86400 IN MX 20864 reforsus
+cfhr 86400 IN MX 20864 mail
+pg 86400 IN MX 20864 mail
+aracua 86400 IN A 200.144.93.196
+dis 86400 IN A 200.17.25.82
+dis 86400 IN MX 600 imsva01
+caidi 86400 IN A 200.144.93.48
+caidi 86400 IN MX 20864 mail
+imap.prograd 86400 IN A 200.17.25.246
+dpd 86400 IN MX 20864 mail
+ecb 86400 IN MX 20864 mail
+pesquisa 86400 IN MX 20864 mail
+igen-externo 86400 IN A 201.6.255.134
+www.pediatria 86400 IN CNAME trincaferro
+pavao 86400 IN A 200.144.93.13
+mail.prograd 86400 IN A 200.17.25.246
+tapera 86400 IN MX 20864 tapera
+dcc 86400 IN CNAME trincaferro
+engenharia 86400 IN CNAME vml010
+coreme 86400 IN CNAME www2.unifesp.br.
+jacamin 86400 IN MX 20864 jacamin
+cache1 86400 IN CNAME abibe
+cache2 86400 IN CNAME aracua
+denf 86400 IN MX 20864 mail
+micromed 86400 IN CNAME trincaferro
+router 86400 IN A 200.144.94.197
+azulao 86400 IN A 200.144.93.56
+fada2 86400 IN CNAME trincaferro
+pastaverde 86400 IN A 200.144.93.12
+orahom04-priv 86400 IN A 10.10.10.4
+border_asrnp 86400 IN A 200.133.208.1
+orahom01-priv 86400 IN A 10.10.10.1
+caidionline 86400 IN A 200.144.93.48

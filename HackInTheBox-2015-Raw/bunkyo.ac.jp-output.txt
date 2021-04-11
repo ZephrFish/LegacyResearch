@@ -1,0 +1,65 @@
+@ 600 IN SOA namesvr3 root.namesvr3 2015011501 1800 600 604800 600
+@ 600 IN NS namesvr
+600 IN NS namesvr1
+600 IN NS namesvr2
+600 IN NS namesvr3
+600 IN NS namesvr4
+@ 600 IN MX 10 ASPMX.L.GOOGLE.COM.
+600 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+600 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+600 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+600 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+600 IN MX 30 ASPMX4.GOOGLEMAIL.COM.
+600 IN MX 30 ASPMX5.GOOGLEMAIL.COM.
+@ 600 IN TXT "v=spf1 ip4:210.188.184.226 include:_spf.google.com ~all"
+newssvr 600 IN CNAME namesvr1
+bibbs 600 IN A 124.215.251.199
+shonan 600 IN NS namesvr
+600 IN NS namesvr1
+600 IN NS namesvr2
+600 IN NS namesvr3
+600 IN NS namesvr4
+gakujyo 600 IN A 124.215.251.197
+koshigaya 600 IN NS namesvr
+600 IN NS namesvr1
+600 IN NS namesvr2
+600 IN NS namesvr3
+600 IN NS namesvr4
+hatanodai 600 IN NS namesvr
+600 IN NS namesvr1
+600 IN NS namesvr2
+600 IN NS namesvr3
+600 IN NS namesvr4
+namesvr 600 IN A 210.188.184.244
+namesvr 600 IN AAAA 2001:268:1700::53:1
+lib 600 IN NS namesvr
+600 IN NS namesvr1
+600 IN NS namesvr2
+600 IN NS namesvr3
+600 IN NS namesvr4
+google4bf5770a711fda34 600 IN CNAME GOOGLE.COM.
+ftp 600 IN CNAME annftp.shonan
+namesvr1 600 IN A 210.188.184.245
+namesvr1 600 IN AAAA 2001:268:1700::53:2
+namesvr2 600 IN A 202.48.48.3
+namesvr2 600 IN AAAA 2001:2f8:1026:c000::3
+namesvr3 600 IN A 124.215.251.194
+namesvr3 600 IN AAAA 2001:268:1601:4::2
+namesvr4 600 IN A 124.215.251.195
+namesvr4 600 IN AAAA 2001:268:1601:4::3
+localhost 600 IN A 127.0.0.1
+canb 600 IN A 210.128.13.33
+stf 600 IN NS namesvr
+600 IN NS namesvr1
+600 IN NS namesvr2
+600 IN NS namesvr3
+www 600 IN A 124.215.251.205
+www 600 IN MX 10 kmail02.koshigaya
+proxy 600 IN CNAME proxy.shonan
+k 600 IN NS namesvr
+600 IN NS namesvr1
+600 IN NS namesvr2
+600 IN NS namesvr3
+600 IN NS namesvr4
+socks 600 IN CNAME proxy.shonan
+download 600 IN A 210.198.113.9

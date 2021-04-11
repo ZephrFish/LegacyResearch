@@ -1,0 +1,169 @@
+@ 86400 IN SOA fupl1 postmaster 2014112101 3600 3600 3600000 86400
+@ 86400 IN NS fupl1
+86400 IN NS reserv1.univ-lille1.fr.
+@ 86400 IN MX 10 mailhost1
+86400 IN MX 10 mailhost2
+ieseg 86400 IN MX 10 mailhost1
+86400 IN MX 10 smtp-inex
+86400 IN MX 20 mailhost2
+isa.isa 86400 IN A 195.220.72.37
+gate18.hei 86400 IN A 195.220.73.18
+gate4.hei 86400 IN A 195.220.73.4
+admin-espas.allhost 86400 IN A 195.220.72.65
+tpphycomes 86400 IN CNAME fupl3
+ftp.hei 86400 IN CNAME lagaffe.hei
+gate11.hei 86400 IN A 195.220.73.11
+www.espas 86400 IN CNAME fupl3
+www.hei 86400 IN CNAME lagaffe.hei
+logos.bnr 86400 IN CNAME fupl3
+sqladmin24 86400 IN CNAME fupl3
+hei.allhost 86400 IN A 195.220.72.76
+gate24.hei 86400 IN A 195.220.73.24
+gate9.hei 86400 IN A 195.220.73.9
+www.isa 86400 IN A 195.220.74.4
+itiape 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost1
+www 86400 IN CNAME fupl3
+gate16.hei 86400 IN A 195.220.73.16
+gate2.hei 86400 IN A 195.220.73.2
+gate21.hei 86400 IN A 195.220.73.21
+lagaffe.hei 86400 IN A 195.220.73.10
+admin-icl.allhost 86400 IN A 195.220.72.78
+ghicl.allhost 86400 IN A 195.220.72.75
+etud-icl.allhost 86400 IN A 195.220.72.73
+fld 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+gate 86400 IN A 195.220.72.7
+flm 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+gate29.hei 86400 IN A 195.220.73.29
+fls 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+webmail 86400 IN CNAME fupl11
+inexistant 86400 IN MX 10 smtp-inex
+sbib 86400 IN A 195.220.72.18
+etud-ieseg.allhost 86400 IN A 195.220.72.80
+dessdci.fls 86400 IN CNAME fupl3
+gate7.hei 86400 IN A 195.220.73.7
+gate14.hei 86400 IN A 195.220.73.14
+theologie 86400 IN CNAME fupl3
+bdeg 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+serveur-sso 86400 IN A 195.220.72.132
+fupl1 86400 IN A 195.220.72.1
+fupl1 86400 IN MX 10 mailhost1
+86400 IN MX 10 mailhost2
+fupl2 86400 IN A 195.220.72.2
+fupl3 86400 IN A 195.220.72.3
+app2 86400 IN A 92.243.0.200
+fupl5 86400 IN A 195.220.72.5
+ia2004 86400 IN CNAME fupl3
+ftp 86400 IN CNAME fupl11
+gate27.hei 86400 IN A 195.220.73.27
+mailhost1 86400 IN A 195.220.72.9
+mailhost2 86400 IN A 195.220.72.10
+bu-vauban 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+estit 86400 IN NS fupl1
+estit 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+hei 86400 IN MX 10 mailhost1
+86400 IN MX 10 smtp-inex
+86400 IN MX 20 mailhost2
+ftp.isa 86400 IN CNAME isa.isa
+estit.allhost 86400 IN A 195.220.72.71
+gate20.hei 86400 IN A 195.220.73.20
+sqladmin1 86400 IN CNAME fupl11
+gate5.hei 86400 IN A 195.220.73.5
+www.labores 86400 IN CNAME fupl3
+etud-espas.allhost 86400 IN A 195.220.72.72
+comes.allhost 86400 IN A 195.220.72.77
+intranet 86400 IN CNAME fupl3
+fupl11 86400 IN A 195.220.72.11
+gate12.hei 86400 IN A 195.220.73.12
+fupl17 86400 IN A 195.220.72.17
+fupl21 86400 IN A 195.220.72.21
+fupl22 86400 IN A 195.220.72.22
+reprocfc 86400 IN CNAME fupl3
+fuplhost 86400 IN A 195.220.72.20
+fupl27 86400 IN A 195.220.72.27
+smtp-inex 86400 IN A 195.220.72.19
+gate30.hei 86400 IN A 195.220.73.30
+ghicl 86400 IN MX 10 98-124-190-109.dsl.ovh.fr.
+86400 IN MX 20 mailhost2
+central25 86400 IN A 195.220.72.10
+cresge 86400 IN MX 10 mailhost1
+86400 IN MX 10 smtp-inex
+86400 IN MX 20 mailhost1
+flse 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+flse 86400 IN A 195.220.72.3
+flsh 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+gate25.hei 86400 IN A 195.220.73.25
+www.groupe-espas-estice-icm 86400 IN CNAME fupl3
+icl 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+icm 86400 IN CNAME fupl3
+caf 86400 IN CNAME fupl3
+questionnaire 86400 IN CNAME fupl3
+www.edp 86400 IN CNAME fupl3
+gate17.hei 86400 IN A 195.220.73.17
+gate3.hei 86400 IN A 195.220.73.3
+mysqladmin 86400 IN CNAME fupl3
+theo 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+mail-ifsante 86400 IN A 195.220.73.161
+sbib2 86400 IN A 195.220.72.19
+gate19.hei 86400 IN A 195.220.73.19
+espas 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+allhost 86400 IN A 195.220.72.19
+cresge.allhost 86400 IN A 195.220.72.68
+planning-islv 86400 IN CNAME fupl3
+gate31.hei 86400 IN A 195.220.73.31
+etud-itiape.allhost 86400 IN A 195.220.72.84
+gate26.hei 86400 IN A 195.220.73.26
+gate23.hei 86400 IN A 195.220.73.23
+gate8.hei 86400 IN A 195.220.73.8
+edp.allhost 86400 IN A 195.220.72.69
+gate22.hei 86400 IN A 195.220.73.22
+support 86400 IN CNAME fupl27
+admin-istc.allhost 86400 IN A 195.220.72.66
+gate15.hei 86400 IN A 195.220.73.15
+gate1.hei 86400 IN A 195.220.73.1
+mailhost.isa 86400 IN CNAME isasrv2.isa
+limesurvey 86400 IN CNAME fupl3
+efas.allhost 86400 IN A 195.220.72.70
+mail-islv 86400 IN A 195.220.73.161
+islv-ifsi.allhost 86400 IN A 195.220.72.82
+isa 86400 IN MX 10 mailhost1
+86400 IN MX 10 smtp-inex
+86400 IN MX 20 mailhost2
+isa.allhost 86400 IN A 195.220.72.81
+gate28.hei 86400 IN A 195.220.73.28
+reverse-proxy 86400 IN A 195.220.72.133
+admin-ieseg.allhost 86400 IN A 195.220.72.79
+gate6.hei 86400 IN A 195.220.73.6
+admin-itiape.allhost 86400 IN A 195.220.72.83
+pophost.hei 86400 IN CNAME lagaffe.hei
+etud-istc.allhost 86400 IN A 195.220.72.74
+app1 86400 IN A 92.243.0.200
+gate13.hei 86400 IN A 195.220.73.13
+app3 86400 IN A 92.243.0.200
+mailhost.hei 86400 IN CNAME lagaffe.hei
+lea-associes 86400 IN CNAME fupl3
+bc 86400 IN A 195.220.72.51
+mailhost 86400 IN CNAME mailhost1
+*.reverse-proxy 86400 IN A 195.220.72.133
+www.test-espas 86400 IN CNAME fupl3
+web3 86400 IN A 195.220.72.23
+edp 86400 IN MX 10 mailhost1
+86400 IN MX 20 mailhost2
+cache1 86400 IN CNAME fupl21
+cache2 86400 IN CNAME fupl22
+fupl24 86400 IN CNAME fupl5
+webmailtest 86400 IN CNAME fupl3
+dns 86400 IN CNAME fupl1
+bdeg.allhost 86400 IN A 195.220.72.67
+test-chamo 86400 IN CNAME fupl3

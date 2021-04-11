@@ -1,0 +1,14 @@
+@ 86400 IN SOA ou hostmaster 81 10800 900 604800 86400
+@ 86400 IN MX 10 mail
+@ 86400 IN NS ou
+@ 86400 IN A 200.79.20.9
+@ 86400 IN TXT "v=spf1 a mx a:mail.olmeca.edu.mx mx:olmeca.edu.mx ip4:200.79.20.9 ~all"
+_domainkey 86400 IN TXT "t=y; o=-"
+_adsp._domainkey 86400 IN TXT "dkim=unknown"
+sidse 86400 IN A 200.79.20.6
+webmail 86400 IN CNAME mail
+www 86400 IN CNAME mail
+mail 86400 IN A 200.79.20.9
+dns 86400 IN A 200.79.20.9
+ou 86400 IN A 200.79.20.9
+3DDF5F8C-83B5-11E4-8C29-E0146CE38E6D._domainkey 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCz2gV5GoKmZjn55naogPs6BinbligQifo7+I7mlv05pnM3synt8DYgt7QqySBpff3BOf+DnyltL7HCptdiRVNqqOYf/ENrtgTI2togcPwIDAxAk9AwGk44LYYreykU1j+ZrMVumK7quVU//2oClb9edCQEd9N58qpFjfFFIEGZZQIDAQAB"

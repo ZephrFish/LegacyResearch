@@ -1,0 +1,247 @@
+@ 2 IN SOA delfin admin 2010053142 10800 3600 604800 38400
+@ 2 IN TXT "MS=ms73597226"
+2 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 2 IN NS delfin
+@ 2 IN A 190.90.164.17
+@ 2 IN MX 0 udes-edu-co.mail.protection.outlook.com.
+portal2cucuta 2 IN A 190.90.163.201
+congresointernacionalderecho 2 IN A 190.90.163.201
+masterbuc 2 IN A 190.90.163.226
+ww1 2 IN A 190.90.163.26
+valledupar 2 IN A 190.90.163.8
+valledupar 2 IN MX 20 valle
+valledupar 2 IN TXT "v=spf1 ip4:190.90.185.99 ~all"
+fs 2 IN A 190.90.163.20
+poseidon.campus 2 IN A 190.90.163.201
+rycinscripciones 2 IN A 190.242.129.135
+evaldocentecucutasemestre 2 IN A 190.90.185.88
+lcg 2 IN A 65.243.121.131
+semilleros 2 IN A 190.90.163.201
+panama 2 IN A 190.90.163.201
+panama 2 IN MX 5 aspmx.l.google.com.
+2 IN MX 10 alt1.aspmx.l.google.com.
+2 IN MX 20 alt2.aspmx.l.google.com.
+2 IN MX 30 aspmx2.googlemail.com.
+2 IN MX 30 aspmx3.googlemail.com.
+2 IN MX 30 aspmx4.googlemail.com.
+2 IN MX 30 aspmx5.googlemail.com.
+panama 2 IN TXT "google-site-verification=XcHvJxLs6VVDS1C0MB8u1M231EsQ8lteMWdhyYrHyZk"
+mail.panama 2 IN CNAME ghs.google.com.
+antiv 2 IN A 192.168.1.15
+ustereo 2 IN A 190.90.163.4
+motilon 2 IN A 190.90.185.84
+presupuesto 2 IN A 190.242.129.135
+agenda 2 IN A 190.90.163.4
+encuesta 2 IN A 190.90.164.17
+matricula 2 IN A 190.242.129.141
+pys 2 IN A 190.242.129.135
+pagosenlinea 2 IN A 190.242.129.135
+inscripciones 2 IN A 190.242.129.135
+gerencia 2 IN A 190.90.163.222
+niifcuc 2 IN A 190.90.163.222
+pop3 2 IN A 190.90.163.7
+sip.mail 2 IN CNAME sipdir.online.lync.com.
+alfaevalu 2 IN A 65.243.121.187
+2 IN A 190.90.163.214
+_sipfederationtls._tcp.mail 2 IN SRV 100 1 5061 sipfed.online.lync.com
+msoid 2 IN CNAME clientconfig.microsoftonline-p.net.
+siproc 2 IN A 190.90.163.4
+tecnologias 2 IN A 190.90.164.17
+sistemas 2 IN A 190.90.163.4
+ares 2 IN A 65.243.121.11
+cronos 2 IN A 192.168.2.45
+disenografico 2 IN A 190.90.164.17
+apasoftvalledupar 2 IN A 190.90.163.4
+_jabber._tcp.campus 2 IN SRV 5 0 5269 xmpp-server.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server1.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server2.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server3.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server4.l.google.com.
+revista 2 IN A 190.90.163.4
+mastercuc 2 IN A 190.90.185.83
+salavirtual 2 IN A 190.66.6.149
+simans 2 IN A 190.90.163.4
+_sipfederationtls._tcp 2 IN SRV 100 1 5061 sipfed.online.lync.com
+www 2 IN A 190.90.164.17
+blogs 2 IN A 190.90.163.4
+inscripcion 2 IN A 190.90.163.201
+w3 2 IN A 190.90.163.4
+w4 2 IN A 190.90.163.4
+bogota 2 IN MX 10 bogota-udes-edu-co.mail.protection.outlook.com.
+bogota 2 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+bogota 2 IN A 190.90.163.201
+_sip._tls 2 IN SRV 100 1 443 sipdir.online.lync.com
+huespedes 2 IN A 190.90.163.4
+notasvalle 2 IN A 65.243.121.55
+humanidades 2 IN A 190.90.164.17
+lagosdelcacique 2 IN A 192.168.5.10
+educacioncontinuada 2 IN A 190.90.164.17
+sid 2 IN A 190.90.163.202
+delfin 2 IN A 190.90.163.2
+reda 2 IN A 190.90.163.230
+sniescucuta 2 IN A 192.168.3.8
+udesaccess 2 IN A 190.90.163.201
+sip 2 IN CNAME sipdir.online.lync.com.
+aulasmoodle 2 IN A 190.90.163.217
+webmail 2 IN A 190.90.163.7
+2 IN A 190.90.164.7
+tv 2 IN A 190.90.163.201
+formularios 2 IN A 190.90.163.4
+niif 2 IN A 190.90.163.222
+test-software 2 IN A 190.90.185.86
+enfermeria 2 IN A 190.90.164.17
+inscritosudes 2 IN A 190.90.163.202
+calidad 2 IN A 190.90.163.225
+evaldocente 2 IN A 190.90.163.235
+portalcucuta 2 IN A 190.90.164.17
+golf 2 IN A 65.243.121.2
+vitrinalaboral 2 IN A 190.90.164.17
+encuestas 2 IN A 190.90.163.201
+2 IN A 190.90.163.225
+soporte-dptosoft 2 IN A 190.90.185.83
+demoemisora 2 IN A 190.90.163.201
+sip.bogota 2 IN CNAME sipdir.online.lync.com.
+scanner 2 IN A 190.90.163.7
+pop 2 IN A 190.90.163.7
+evaluaciones 2 IN A 190.242.129.135
+demowebcucuta 2 IN A 190.90.163.201
+cyc.descuento 2 IN A 190.242.129.135
+autodiscover 2 IN CNAME autodiscover.outlook.com.
+imprenta 2 IN A 190.242.129.135
+service 2 IN A 190.90.185.87
+postgrado 2 IN A 190.90.163.4
+aquiz.calidad 2 IN A 190.90.163.30
+eceudes 2 IN A 190.90.163.201
+jstics 2 IN A 190.90.164.17
+valle 2 IN A 190.66.22.229
+innovaciencia 2 IN A 190.90.164.17
+archivo 2 IN A 190.242.129.135
+consultorioempresarial 2 IN A 190.90.185.87
+moodle 2 IN A 190.90.163.201
+ingenierias 2 IN A 190.90.163.26
+tutrabajo 2 IN CNAME tbjdns.trabajando.com.co.
+correo 2 IN CNAME fs
+sgc-vaf 2 IN A 190.90.164.17
+blearning 2 IN A 190.90.163.210
+lyncdiscover.bogota 2 IN CNAME webdir.online.lync.com.
+ingsoft 2 IN A 190.90.163.216
+planta-fisica 2 IN A 190.90.163.226
+apasoft 2 IN A 190.90.163.4
+internacional 2 IN A 190.90.164.17
+smtp 2 IN A 190.90.163.7
+autodiscover.mail 2 IN CNAME autodiscover.outlook.com.
+test 2 IN A 65.243.121.200
+icefn 2 IN A 190.90.163.4
+ca2 2 IN A 190.90.163.205
+msoid.mail 2 IN CNAME clientconfig.microsoftonline-p.net.
+revistas 2 IN A 190.90.164.17
+contexto 2 IN A 190.90.163.4
+msn 2 IN A 190.90.164.7
+info 2 IN A 192.168.1.183
+aquiz 2 IN A 190.90.163.199
+demo 2 IN A 190.90.164.4
+evaluacion 2 IN A 190.242.129.141
+certificaciones 2 IN A 190.242.129.135
+190.90.163.7 2 IN PTR scanner
+campuscucuta 2 IN CNAME googleffffffffc8cd54fc
+electronica 2 IN A 190.90.163.4
+masterbog 2 IN A 190.90.185.116
+desarrolloacademico 2 IN A 190.90.164.17
+gridits 2 IN A 190.90.163.4
+ftppublicaciones 2 IN A 190.90.163.201
+demo1 2 IN A 190.90.163.201
+poseidon 2 IN A 190.90.163.202
+proxyc2 2 IN A 172.17.5.5
+proyecto-nds 2 IN A 65.243.121.36
+ingenieriaindustrial 2 IN A 190.90.164.17
+idp 2 IN A 190.66.6.151
+proxyc1 2 IN A 172.17.5.11
+democalidad 2 IN A 190.90.163.208
+ofimatica 2 IN A 190.90.163.4
+proyectou 2 IN A 190.90.163.201
+mail 2 IN MX 0 mail-udes-edu-co.mail.protection.outlook.com.
+mail 2 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ava 2 IN A 190.90.163.4
+srpfcuc 2 IN A 190.90.163.204
+project 2 IN A 192.168.1.12
+institutomasira 2 IN A 190.90.163.195
+bibliotecas 2 IN A 190.90.163.10
+recursosdigitales 2 IN A 190.90.163.241
+certificados 2 IN A 190.90.163.201
+paipe 2 IN A 190.242.129.135
+pazysalvos 2 IN A 190.90.163.201
+lyncdiscover 2 IN CNAME webdir.online.lync.com.
+live 2 IN CNAME www.outlook.com.
+calidadinstitucional 2 IN A 190.90.163.225
+opac 2 IN A 190.90.163.201
+evaldocentefaba 2 IN A 190.90.185.119
+cucuta 2 IN A 190.90.164.17
+cucuta 2 IN MX 10 cucuta-udes-edu-co.mail.protection.outlook.com.
+cucuta 2 IN TXT "v=spf1 ip4:190.90.163.201 ~all"
+idiomas 2 IN A 190.90.164.17
+ingesoft 2 IN A 190.90.163.216
+mailcucuta 2 IN A 190.90.185.84
+evaldocentevalledupar 2 IN A 190.66.22.226
+informatica 2 IN A 190.90.164.17
+cetae 2 IN A 190.90.163.201
+consultoriojuridico 2 IN A 190.90.164.17
+avamed 2 IN A 190.90.163.195
+siiar 2 IN A 190.90.163.236
+catalogo 2 IN A 37.59.180.101
+mercadeoypublicidad 2 IN A 190.90.164.17
+portal2 2 IN A 190.90.164.17
+atencionestudiante 2 IN A 190.242.129.135
+recibosmatricula 2 IN A 190.90.163.201
+srpfval 2 IN A 190.90.163.204
+primiparos 2 IN A 190.90.163.26
+revistaconexion 2 IN A 190.90.164.17
+niifval 2 IN A 190.90.163.222
+derecho 2 IN A 65.243.121.131
+simulacro 2 IN A 190.90.163.4
+srpfbuc 2 IN A 190.90.163.204
+adminsiproc 2 IN A 190.90.163.4
+portalvalledupar 2 IN A 190.90.163.201
+_xmpp-server._tcp.campus 2 IN SRV 5 0 5269 xmpp-server.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server1.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server2.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server3.l.google.com.
+2 IN SRV 20 0 5269 xmpp-server4.l.google.com.
+portalegresados 2 IN A 190.90.163.4
+autodiscover.bogota 2 IN CNAME autodiscover.outlook.com.
+registro 2 IN A 190.90.163.199
+lyncdiscover.mail 2 IN CNAME webdir.online.lync.com.
+proxycuc 2 IN A 65.243.121.35
+ips 2 IN A 190.90.164.17
+portalbogota 2 IN A 190.90.163.201
+masterval 2 IN A 190.66.22.230
+_sip._tls.mail 2 IN SRV 100 1 443 sipdir.online.lync.com
+edwin2 2 IN A 190.90.163.4
+departamentoeducacion 2 IN A 190.90.164.17
+campus 2 IN A 200.105.76.67
+campus 2 IN MX 5 aspmx.l.google.com.
+2 IN MX 10 alt1.aspmx.l.google.com.
+2 IN MX 20 alt2.aspmx.l.google.com.
+2 IN MX 30 aspmx2.googlemail.com.
+2 IN MX 30 aspmx3.googlemail.com.
+2 IN MX 30 aspmx4.googlemail.com.
+2 IN MX 30 aspmx5.googlemail.com.
+crm 2 IN A 190.242.129.135
+190.90.185.99 2 IN PTR valle
+mail.campus 2 IN CNAME ghs.google.com.
+centurion 2 IN A 190.90.164.17
+portalcucuta2 2 IN A 190.90.164.17
+snies 2 IN A 190.90.164.10
+inscripcionposgrados 2 IN A 190.90.163.201
+evaldocentecucuta 2 IN A 190.90.185.88
+radius 2 IN A 190.66.6.150
+e-learning 2 IN A 190.90.163.26
+diplomados 2 IN A 190.242.129.135
+tecnev 2 IN A 190.90.164.17
+gestion 2 IN A 190.90.163.201
+catalogo-intra 2 IN A 37.59.180.101
+egresados 2 IN A 190.90.163.202
+compras 2 IN A 190.242.129.135
+cuidarte 2 IN A 190.90.164.17
+portal 2 IN A 190.90.164.17
+ofibuc 2 IN A 192.168.1.91
+proxyvalle 2 IN A 190.90.164.51

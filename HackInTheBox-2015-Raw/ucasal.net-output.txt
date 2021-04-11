@@ -1,0 +1,41 @@
+@ 86400 IN SOA dns1 root 2007122760 5400 7200 604800 86400
+@ 86400 IN TXT "v=spf1 mx ip4:192.168.1.251 ip4:157.15.181.230 ~all"
+@ 86400 IN A 200.45.231.23
+@ 86400 IN NS dns1
+86400 IN NS dns2
+@ 86400 IN MX 10 mail
+webtv 86400 IN CNAME bibliotecas
+sistemas1 86400 IN A 181.15.157.235
+sistemas2 86400 IN A 181.15.157.233
+sistemas 86400 IN A 200.45.231.22
+joomla 86400 IN CNAME bibliotecas
+blog 86400 IN CNAME dns1
+cienciadelasalud 86400 IN CNAME bibliotecas
+encuestas 86400 IN A 181.15.157.228
+comunica 86400 IN CNAME dns1
+foros 86400 IN CNAME alumnos
+reporte-pdf 86400 IN A 181.15.157.234
+mail 86400 IN TXT "v=spf1 a ip4:192.168.1.251 -all"
+mail 86400 IN A 200.45.231.18
+examenes 86400 IN A 200.45.231.30
+inventario 86400 IN CNAME dns1
+examen2 86400 IN CNAME dns1
+capacitacion 86400 IN A 181.15.157.229
+elearning 86400 IN A 200.45.231.21
+alumnos 86400 IN A 200.45.231.28
+bibliotecas 86400 IN A 200.45.231.25
+voip 86400 IN A 181.15.157.227
+www 86400 IN CNAME dns1
+dns1 86400 IN A 200.45.231.23
+dns2 86400 IN A 200.45.231.19
+cer 86400 IN CNAME encuestas
+notas 86400 IN CNAME dns1
+examen 86400 IN CNAME dns1
+equivalencias 86400 IN CNAME dns1
+elearning2013 86400 IN CNAME elearning
+conferencia 86400 IN A 181.15.157.232
+eneg 86400 IN CNAME dns1
+_sip._udp 86400 IN SRV 0 0 5060 voip
+capacitacion2013 86400 IN CNAME capacitacion
+encuentrosenred 86400 IN A 200.45.231.26
+intranet 86400 IN CNAME capacitacion

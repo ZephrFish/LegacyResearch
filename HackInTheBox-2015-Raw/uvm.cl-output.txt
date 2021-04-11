@@ -1,0 +1,32 @@
+@ 86400 IN SOA apc comunicaciones\.dti 2015040801 7200 7200 2419200 86400
+@ 86400 IN TXT "google-site-verification=BTMSe3Ya1SYZNxNAcEUnyiYsih_kHLS8aktaA6xRo1s"
+@ 86400 IN NS apc
+@ 86400 IN MX 5 correo
+vra 86400 IN A 200.72.40.216
+apc 86400 IN A 200.72.14.70
+movil 86400 IN A 200.72.14.68
+magister 86400 IN A 200.72.40.216
+escuelas 86400 IN A 200.72.14.81
+postgrados 86400 IN A 200.72.40.209
+intranet2 86400 IN A 200.72.14.73
+admision 86400 IN A 200.72.40.216
+bibliolinks 86400 IN CNAME movil
+owa 86400 IN A 200.72.14.91
+mail 86400 IN A 200.72.14.91
+vpn 86400 IN A 200.72.14.92
+wifi 86400 IN A 2.2.2.2
+intranetmatr 86400 IN A 200.72.14.80
+fondoanglo 86400 IN A 200.72.40.216
+www 86400 IN CNAME apc
+catalogocineteca 86400 IN A 200.72.14.76
+salud 86400 IN A 200.72.14.88
+correo 86400 IN A 200.72.14.66
+sitios 86400 IN A 200.72.14.74
+biblioteca 86400 IN A 200.72.14.76
+capacitacion 86400 IN A 200.72.40.216
+ayudagoogle 86400 IN CNAME ghs.googlehosted.com
+dae 86400 IN A 200.72.14.82
+ceges 86400 IN A 200.72.14.88
+fb 86400 IN A 200.72.14.71
+intranet 86400 IN A 200.72.14.67
+intradmin 86400 IN A 200.72.14.90

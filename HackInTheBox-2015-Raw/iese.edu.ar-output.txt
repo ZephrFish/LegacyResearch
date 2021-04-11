@@ -1,0 +1,22 @@
+@ 43200 IN SOA dns1 verabatista. 88 3600 1800 86400 43200
+@ 43200 IN NS dns1
+@ 43200 IN MX 10 siu
+43200 IN MX 15 smtp
+@ 43200 IN TXT "MS=ms71613250"
+43200 IN TXT "google-site-verification=Igyi3NLSb5N7RYZDq2s7R0XJWOGO5t9pEbbvWpnc8qg"
+smtp 43200 IN CNAME dns1
+www.escuelasuperiordeguerra 43200 IN A 190.228.21.75
+pop 43200 IN CNAME dns1
+webmail 43200 IN CNAME dns1
+www.est-en 43200 IN CNAME wp
+soporte 43200 IN CNAME ecinfor
+www 43200 IN CNAME wp
+dns1 43200 IN A 190.228.21.74
+www.ingenieriaest-en 43200 IN CNAME wp
+mail 3600 IN CNAME ghs.googlehosted.com
+ecinfor 43200 IN A 10.24.41.6
+siu 43200 IN CNAME wp
+correo 43200 IN CNAME dns1
+estvirtual 43200 IN A 190.228.21.77
+www.ingenieriaest 43200 IN CNAME wp
+wp 43200 IN A 190.228.21.76

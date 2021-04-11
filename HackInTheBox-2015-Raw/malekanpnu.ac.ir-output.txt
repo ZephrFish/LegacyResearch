@@ -1,0 +1,7 @@
+@ 86400 IN SOA ns5.payasolutions.com. hostmaster.change-me-asap.com. 2007091124 10800 3600 604800 86400
+@ 86400 IN NS ns4.payasolutions.com.
+86400 IN NS ns5.payasolutions.com.
+@ 86400 IN A 63.250.48.76
+@ 86400 IN MX 10 mail9.hsphere.cc.
+* 86400 IN A 63.250.48.76
+mail 86400 IN CNAME mail9.hsphere.cc.

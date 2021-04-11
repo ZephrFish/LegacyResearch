@@ -1,0 +1,2872 @@
+@ 86400 IN SOA ns.cp postmaster.cp 2015050100 3600 900 604800 3600
+@ 86400 IN AAAA 2001:770:60:18:5652:ff:fe23:be6e
+@ 86400 IN TXT "v=spf1 ip4:160.6.33.4/24 ip6:2001:770:60:18:200:1cff:fed4:a146 mx a:ogma.cp.dias.ie a:mail.cp.dias.ie a:mailgw.cp.dias.ie mx:cp.dias.ie mx:dias.ie ~all"
+@ 86400 IN MX 40 ogma.cp
+@ 86400 IN A 160.6.33.29
+@ 86400 IN NS ns.cp
+86400 IN NS ns.stp
+86400 IN NS ns.heanet.ie.
+darbyshire.laptops.cp 86400 IN A 160.6.26.56
+tikhonov.cp 86400 IN A 160.6.1.189
+nov12e.laptops.cp 86400 IN A 160.6.26.85
+tcosterm91.stp 86400 IN A 160.6.137.91
+dunsinkap3.dunsink 86400 IN A 160.6.5.243
+phone128.admin 86400 IN A 160.6.129.128
+www.bill.celt 86400 IN CNAME bill.celt
+cluster-enclosure.stp 86400 IN MX 30 ogma.cp
+cluster-enclosure.stp 86400 IN A 160.6.5.50
+nuada-array.ap 86400 IN A 160.6.202.104
+compute-11.stp 86400 IN CNAME compute-11.dunsink
+phone234.voip.cp 86400 IN A 160.6.30.36
+diasg1.guests.ap 86400 IN A 160.6.219.101
+taranis.cp 86400 IN AAAA 2001:770:60:18:210:18ff:fe14:6a2d
+taranis.cp 86400 IN MX 40 mail.cp
+taranis.cp 86400 IN A 160.6.33.3
+mira.ap 86400 IN AAAA 2001:770:60:ca:221:9bff:fe51:c9fe
+mira.ap 86400 IN MX 40 mail.cp
+mira.ap 86400 IN A 160.6.202.123
+diasg1.guests.cp 86400 IN A 160.6.34.101
+phone102.admin 86400 IN A 160.6.129.102
+mathematica.stp 86400 IN AAAA 2001:770:60:8:5054:ff:fefd:e588
+mathematica.stp 86400 IN A 160.6.8.52
+xenhost.ap 86400 IN A 160.6.202.251
+phone78.admin 86400 IN A 160.6.129.78
+grace.voip.ap 86400 IN A 160.6.215.11
+castor.laptops.cp 86400 IN A 160.6.26.112
+dorlas-printer.stp 86400 IN A 160.6.8.27
+medb.celt 86400 IN AAAA 2001:770:60:9:208:74ff:fe37:2549
+medb.celt 86400 IN A 160.6.9.15
+mtfield5.wireless.cp 86400 IN A 160.6.24.89
+it-155.laptops.ap 86400 IN A 160.6.213.155
+bigstore2.ap 86400 IN AAAA 2001:770:60:ca:204:23ff:feb9:48e0
+bigstore2.ap 86400 IN MX 40 mail.cp
+bigstore2.ap 86400 IN A 160.6.202.10
+ceres.ap 86400 IN AAAA 2001:770:60:ca:3617:ebff:feca:2231
+ceres.ap 86400 IN MX 40 mail.cp
+ceres.ap 86400 IN A 160.6.202.160
+encke.ap 86400 IN AAAA 2001:770:60:ca:129a:ddff:fe5e:cbbb
+encke.ap 86400 IN MX 40 mail.cp
+encke.ap 86400 IN A 160.6.202.139
+tcosterm117.stp 86400 IN A 160.6.137.117
+stephane.vpntcp 86400 IN A 160.6.169.3
+dgolden.vpntcp 86400 IN A 160.6.169.4
+vmtest.ap 86400 IN MX 40 mail.cp
+vmtest.ap 86400 IN A 160.6.202.245
+pxe-kvm-install.dunsink 86400 IN A 160.6.5.142
+vpn-roger.admin 86400 IN MX 30 mail.stp
+vpn-roger.admin 86400 IN A 160.6.132.158
+tcosterm28.stp 86400 IN A 160.6.137.28
+grange.wireless.ap 86400 IN A 160.6.206.12
+phone225.voip.cp 86400 IN A 160.6.30.31
+tcosterm167.stp 86400 IN A 160.6.137.167
+phone119.admin 86400 IN A 160.6.129.119
+burl-ap-u.stp 86400 IN A 160.6.130.90
+ntp-133.stp 86400 IN CNAME destokes-133.stp
+argius.cp 86400 IN AAAA 2001:770:60:1:222:19ff:fe00:1972
+argius.cp 86400 IN MX 40 mail.cp
+argius.cp 86400 IN A 160.6.1.157
+tcosterm78.stp 86400 IN A 160.6.137.78
+phone251.admin 86400 IN A 160.6.129.251
+mailscanner 86400 IN A 160.6.33.27
+koha-cp 86400 IN A 160.6.133.43
+p360f2so2sw17.voip.ap 86400 IN A 160.6.215.40
+alan.wireless.cp 86400 IN A 160.6.24.53
+corel.cp 86400 IN MX 40 mail.cp
+corel.cp 86400 IN A 160.6.1.239
+phone224.admin 86400 IN A 160.6.129.224
+reception.dunsink 86400 IN A 160.6.5.232
+intranet.admin 86400 IN AAAA 2001:770:60:18::32
+intranet.admin 86400 IN MX 40 mail.cp
+intranet.admin 86400 IN A 160.6.33.32
+drury2.laptops.ap 86400 IN A 160.6.213.16
+scaife.wireless.cp 86400 IN A 160.6.24.93
+matthew.vpn 86400 IN A 160.6.168.47
+dieckmann.laptops.ap 86400 IN A 160.6.213.5
+tcosterm09.stp 86400 IN A 160.6.137.9
+jones.cp 86400 IN A 160.6.1.163
+drury2.laptops.cp 86400 IN A 160.6.26.35
+voip.ap 86400 IN CNAME bell.voip.ap
+koha-celt 86400 IN A 160.6.133.43
+morley.cp 86400 IN A 160.6.21.250
+phone187.admin 86400 IN A 160.6.129.187
+phone216.voip.cp 86400 IN A 160.6.30.6
+vcu11.voip.ap 86400 IN A 160.6.215.111
+voip.cp 86400 IN CNAME bell.voip.cp
+moorkamp.wireless.cp 86400 IN A 160.6.24.24
+dhcp-91.stp 86400 IN A 160.6.8.91
+tcosterm105.stp 86400 IN A 160.6.137.105
+linutop.ap 86400 IN AAAA 2001:770:60:ca:240:caff:fea5:c27f
+linutop.ap 86400 IN MX 40 mail.cp
+linutop.ap 86400 IN A 160.6.202.248
+synge.stp 86400 IN CNAME mail.stp
+dev.sim-crust 86400 IN CNAME wint
+dirac.stp 86400 IN AAAA 2001:770:60:8:5652:ff:fe0e:1cf
+dirac.stp 86400 IN MX 30 mail.stp
+dirac.stp 86400 IN A 160.6.8.18
+phone161.admin 86400 IN A 160.6.129.161
+tcosterm16.stp 86400 IN A 160.6.137.16
+quakes 86400 IN CNAME wext
+franclus.celt 86400 IN A 160.6.9.55
+hamilton-135.stp 86400 IN A 160.6.135.223
+diasapw2.wireless.ap 86400 IN A 160.6.206.102
+spuirse.celt 86400 IN A 160.6.9.43
+ntp.dunsink 86400 IN CNAME ntp-5.cp
+708.dunsink 86400 IN A 160.6.5.18
+burl-ap-j.stp 86400 IN A 160.6.130.79
+phone134.admin 86400 IN A 160.6.129.134
+vcompute-4.dunsink 86400 IN A 160.6.5.136
+tcosterm66.stp 86400 IN A 160.6.137.66
+ntp.stp 86400 IN CNAME destokes.stp
+dhcp63.dunsink 86400 IN A 160.6.5.63
+leopold.ap 86400 IN AAAA 2001:770:60:ca:213:72ff:fe31:83eb
+leopold.ap 86400 IN MX 40 mail.cp
+leopold.ap 86400 IN A 160.6.202.12
+ns.ap 86400 IN AAAA 2001:770:60:da:200:24ff:fec8:44f4
+ns.ap 86400 IN A 160.6.218.2
+quattro.guests.ap 86400 IN A 160.6.219.66
+burgo.laptops.cp 86400 IN A 160.6.26.31
+ajones.vpntcp 86400 IN A 160.6.169.8
+phone107.admin 86400 IN A 160.6.129.107
+phone207.voip.cp 86400 IN A 160.6.30.46
+ldap.stp 86400 IN AAAA 2001:770:60:8:5652:ff:fe56:52e2
+ldap.stp 86400 IN MX 30 mail.stp
+ldap.stp 86400 IN A 160.6.8.230
+tcosterm165.stp 86400 IN A 160.6.137.165
+ns.cp 86400 IN AAAA 2001:770:60:18:210:18ff:fe14:6a2d
+ns.cp 86400 IN A 160.6.33.3
+proxy.celt 86400 IN A 160.6.9.253
+it-128.laptops.ap 86400 IN A 160.6.213.128
+phone84.admin 86400 IN A 160.6.129.84
+destokes.stp 86400 IN CNAME destokes-135.stp
+books.admin 86400 IN AAAA 2001:770:60:85::21
+books.admin 86400 IN MX 30 mail.stp
+books.admin 86400 IN A 160.6.133.21
+dell1.ap 86400 IN MX 40 mail.cp
+dell1.ap 86400 IN A 160.6.202.247
+google.ext.dias.ie 86400 IN CNAME google.ie.
+password.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe6c:7dfc
+password.ap 86400 IN MX 40 mail.cp
+password.ap 86400 IN A 160.6.202.100
+splunk.ap 86400 IN AAAA 2001:770:60:ca:204:23ff:feb9:48dc
+splunk.ap 86400 IN A 160.6.202.48
+ltounit.ap 86400 IN MX 40 mail.cp
+ltounit.ap 86400 IN A 160.6.202.246
+dhcp.guests.ap 86400 IN A 160.6.219.199
+gridgate.cp 86400 IN MX 40 mail.cp
+gridgate.cp 86400 IN A 160.6.223.129
+dias-gw0.cp 86400 IN A 160.6.1.1
+ichec-ag3.voip.cp 86400 IN A 160.6.30.103
+p315f0so2sw7.voip.ap 86400 IN A 160.6.215.8
+dhcp.guests.cp 86400 IN A 160.6.34.200
+phone220.voip.cp 86400 IN A 160.6.30.9
+compute-2.dunsink 86400 IN A 160.6.5.102
+tcosterm60.stp 86400 IN A 160.6.137.60
+burl-ap-s.stp 86400 IN A 160.6.130.88
+ntp-131.stp 86400 IN CNAME destokes-131.stp
+tcosterm04.stp 86400 IN A 160.6.137.4
+opac.celt 86400 IN CNAME scslibrary.cirqahosting.com.
+aircon.ap 86400 IN A 160.6.202.95
+tcosterm143.stp 86400 IN A 160.6.137.143
+tr.wireless.ap 86400 IN A 160.6.206.60
+klavier.ap 86400 IN A 160.6.202.192
+yamasaki.vpn 86400 IN A 160.6.168.15
+dhcp78.dunsink 86400 IN A 160.6.5.78
+liss.ap 86400 IN AAAA 2001:770:60:ca:d6be:d9ff:fe96:2e8e
+liss.ap 86400 IN MX 40 mail.cp
+liss.ap 86400 IN A 160.6.202.110
+gforkin-printer.admin 86400 IN A 160.6.10.27
+phone230.voip.cp 86400 IN A 160.6.30.33
+phone314.voip.ap 86400 IN A 160.6.215.34
+nuada.ap 86400 IN AAAA 2001:770:60:ca:215:17ff:fe82:b3b8
+nuada.ap 86400 IN MX 40 mail.cp
+nuada.ap 86400 IN A 160.6.202.102
+bonadio.wireless.cp 86400 IN A 160.6.24.115
+tcosterm76.stp 86400 IN A 160.6.137.76
+murphy.wireless.ap 86400 IN A 160.6.206.72
+racktables.cp 86400 IN AAAA 2001:770:60:18::39
+racktables.cp 86400 IN A 160.6.33.39
+ejam.voip.ap 86400 IN A 160.6.215.37
+phone229.admin 86400 IN A 160.6.129.229
+gabici.voip.ap 86400 IN A 160.6.215.18
+eduseis 86400 IN CNAME wext
+eduroam 86400 IN AAAA 2001:770:60:85::47
+eduroam 86400 IN A 160.6.133.47
+it-143.laptops.ap 86400 IN A 160.6.213.143
+compute-24.stp 86400 IN CNAME compute-24.dunsink
+phone268.voip.cp 86400 IN A 160.6.30.41
+ciscoap1-218.ap 86400 IN A 160.6.218.201
+geophysics 86400 IN CNAME wext
+alarm.dunsink 86400 IN A 160.6.5.247
+dana.celt 86400 IN AAAA 2001:770:60:9:20c:f1ff:fe7f:e2b9
+dana.celt 86400 IN A 160.6.9.100
+phone203.admin 86400 IN A 160.6.129.203
+library.cp 86400 IN AAAA 2001:770:60:22::5
+library.cp 86400 IN MX 30 mail.cp
+library.cp 86400 IN A 160.6.22.5
+tcosterm93.stp 86400 IN A 160.6.137.93
+celsius.stp 86400 IN MX 30 mail.stp
+celsius.stp 86400 IN A 160.6.134.3
+phone166.admin 86400 IN A 160.6.129.166
+hp3505dn1.ap 86400 IN AAAA 2001:770:60:ca:21a:4bff:fe24:937c
+hp3505dn1.ap 86400 IN MX 40 mail.cp
+hp3505dn1.ap 86400 IN A 160.6.202.161
+www.maintenance 86400 IN AAAA 2001:770:60:18:216:3eff:fe45:bba1
+www.maintenance 86400 IN A 160.6.33.10
+dhcp-102.stp 86400 IN A 160.6.8.102
+dhcp76.dunsink 86400 IN A 160.6.5.76
+decolle2.wireless.cp 86400 IN A 160.6.24.54
+lully.cp 86400 IN AAAA 2001:770:60:1:221:70ff:feb8:bb6e
+lully.cp 86400 IN MX 40 mail.cp
+lully.cp 86400 IN A 160.6.1.40
+aquila.ap 86400 IN AAAA 2001:770:60:ca:21a:a0ff:fe0a:d860
+aquila.ap 86400 IN MX 40 mail.cp
+aquila.ap 86400 IN A 160.6.202.57
+kvm1.ap 86400 IN MX 40 mail.cp
+kvm1.ap 86400 IN A 160.6.218.17
+acis.cp 86400 IN AAAA 2001:770:60:1:21e:c9ff:fe5b:87fd
+acis.cp 86400 IN A 160.6.1.74
+meitner.cp 86400 IN A 160.6.1.67
+projects.ap 86400 IN CNAME dagda.cp
+tcosterm131.stp 86400 IN A 160.6.137.131
+phone139.admin 86400 IN A 160.6.129.139
+payments.admin 86400 IN AAAA 2001:770:60:85::29
+payments.admin 86400 IN MX 30 mail.stp
+payments.admin 86400 IN A 160.6.133.29
+miri.ap 86400 IN MX 40 mail.cp
+miri.ap 86400 IN A 160.6.218.9
+lectureroom3.stp 86400 IN A 160.6.130.67
+dhcp241.celt 86400 IN A 160.6.9.241
+garcia3.wireless.cp 86400 IN A 160.6.24.60
+tcosterm42.stp 86400 IN A 160.6.137.42
+phone259.voip.cp 86400 IN A 160.6.30.11
+sql.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe10:8469
+sql.ap 86400 IN MX 40 mail.cp
+sql.ap 86400 IN A 160.6.202.86
+tcosterm181.stp 86400 IN A 160.6.137.181
+svn.celt 86400 IN AAAA 2001:770:60:9:216:3eff:fe06:968
+svn.celt 86400 IN A 160.6.9.104
+phone113.admin 86400 IN A 160.6.129.113
+hp3505dn2.ap 86400 IN AAAA 2001:770:60:ca:21a:4bff:fe24:29d8
+hp3505dn2.ap 86400 IN MX 40 mail.cp
+hp3505dn2.ap 86400 IN A 160.6.202.162
+lir.ap 86400 IN AAAA 2001:770:60:ca:214:5eff:fe0a:9ec
+lir.ap 86400 IN A 160.6.202.103
+dhcp246.celt 86400 IN A 160.6.9.246
+rogers.laptops.ap 86400 IN A 160.6.213.72
+yurec.wireless.ap 86400 IN A 160.6.206.64
+proxy 86400 IN CNAME pegasus.cp
+tcosterm92.stp 86400 IN A 160.6.137.92
+phone89.admin 86400 IN A 160.6.129.89
+incident.cp 86400 IN MX 40 mail.cp
+incident.cp 86400 IN A 160.6.202.236
+tc152.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48b9
+tc152.celt 86400 IN A 160.6.9.152
+weather 86400 IN CNAME wext
+gwall.wireless.cp 86400 IN A 160.6.24.75
+taylor.wireless.ap 86400 IN A 160.6.206.27
+compute-12.stp 86400 IN CNAME compute-12.dunsink
+cluster-blade8.dunsink 86400 IN A 160.6.5.58
+kvm2.cp 86400 IN MX 40 mail.cp
+kvm2.cp 86400 IN A 160.6.33.141
+tcosterm50.stp 86400 IN A 160.6.137.50
+destokes-138.stp 86400 IN AAAA 2001:770:60:8a::1
+destokes-138.stp 86400 IN A 160.6.138.254
+agsteph.voip.ap 86400 IN A 160.6.215.167
+phone63.admin 86400 IN A 160.6.129.63
+photocopier.admin 86400 IN A 160.6.130.60
+bgp 86400 IN A 160.6.33.13
+pilar04.laptops.cp 86400 IN A 160.6.26.23
+allman.laptops.cp 86400 IN A 160.6.26.26
+tc157.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48f8
+tc157.celt 86400 IN A 160.6.9.157
+compute-30.stp 86400 IN CNAME compute-30.dunsink
+3rdfloor-color.cp 86400 IN CNAME hp5500.cp
+drury4.wireless.ap 86400 IN A 160.6.206.79
+delaney2.wireless.ap 86400 IN A 160.6.206.69
+marduk.ap 86400 IN AAAA 2001:770:60:ca:a6ba:dbff:fefe:16ad
+marduk.ap 86400 IN MX 40 mail.cp
+marduk.ap 86400 IN A 160.6.202.68
+drury4.wireless.cp 86400 IN A 160.6.24.49
+tc163.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48d3
+tc163.celt 86400 IN A 160.6.9.163
+kvm3.ap 86400 IN MX 40 mail.cp
+kvm3.ap 86400 IN A 160.6.218.19
+phone251.voip.cp 86400 IN A 160.6.30.17
+ajones.wireless.cp 86400 IN A 160.6.24.55
+aschaeff.wireless.cp 86400 IN A 160.6.24.92
+kvm3.cp 86400 IN MX 40 mail.cp
+kvm3.cp 86400 IN A 160.6.33.143
+tcosterm20.stp 86400 IN A 160.6.137.20
+aiteal.celt 86400 IN AAAA 2001:770:60:9:21c:c0ff:fefc:2645
+aiteal.celt 86400 IN A 160.6.9.68
+tcosterm118.stp 86400 IN A 160.6.137.118
+git.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe39:8a8
+git.ap 86400 IN A 160.6.202.58
+tc168.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:4910
+tc168.celt 86400 IN A 160.6.9.168
+dhcp7.guests.ap 86400 IN A 160.6.219.7
+kvm2.ap 86400 IN MX 40 mail.cp
+kvm2.ap 86400 IN A 160.6.218.18
+amber.ap 86400 IN AAAA 2001:770:60:ca:a6ba:dbff:fefe:16ad
+amber.ap 86400 IN MX 40 mail.cp
+amber.ap 86400 IN A 160.6.202.97
+nov12e.wireless.cp 86400 IN A 160.6.24.185
+tcosterm168.stp 86400 IN A 160.6.137.168
+phone331.voip.ap 86400 IN A 160.6.215.39
+dhcp7.guests.cp 86400 IN A 160.6.34.7
+phone235.admin 86400 IN A 160.6.129.235
+tc174.celt 86400 IN A 160.6.9.174
+burl-ap-v.stp 86400 IN A 160.6.130.91
+ntp-134.stp 86400 IN CNAME destokes-134.stp
+kvm4.ap 86400 IN MX 40 mail.cp
+kvm4.ap 86400 IN A 160.6.218.20
+puppet.celt 86400 IN CNAME puppet.ap
+wiki.cp 86400 IN AAAA 2001:770:60:18::38
+wiki.cp 86400 IN MX 40 mail.cp
+wiki.cp 86400 IN A 160.6.33.38
+cctv-room302.admin 86400 IN A 160.6.134.102
+tablet.stp 86400 IN A 160.6.130.236
+kvm4.cp 86400 IN MX 40 mail.cp
+kvm4.cp 86400 IN A 160.6.33.144
+dhcp.wireless.ap 86400 IN A 160.6.206.200
+phone198.admin 86400 IN A 160.6.129.198
+dev 86400 IN A 160.6.202.109
+phi.ap 86400 IN AAAA 2001:770:60:ca:baca:3aff:fe68:bff4
+phi.ap 86400 IN MX 40 mail.cp
+phi.ap 86400 IN A 160.6.202.19
+compute-14.dunsink 86400 IN A 160.6.5.114
+ltsp-laptop.stp 86400 IN MX 30 mail.stp
+ltsp-laptop.stp 86400 IN A 160.6.130.251
+dhcp.wireless.cp 86400 IN A 160.6.24.200
+x61s.wireless.ap 86400 IN A 160.6.206.21
+steph.voip.ap 86400 IN A 160.6.215.230
+nog.ap 86400 IN AAAA 2001:770:60:ca:fab1:56ff:fe9c:7b4a
+nog.ap 86400 IN MX 40 mail.cp
+nog.ap 86400 IN A 160.6.202.138
+webmailx 86400 IN AAAA 2001:770:60:85::45
+webmailx 86400 IN A 160.6.133.45
+iubhar.celt 86400 IN AAAA 2001:770:60:9:f902:e838:cba4:47fa
+iubhar.celt 86400 IN A 160.6.9.88
+localhost.geo 86400 IN A6 \# 17 00000000000000000000000000000000 01
+localhost.geo 86400 IN AAAA ::1
+localhost.geo 86400 IN MX 100 localhost.cp
+localhost.geo 86400 IN A 127.0.0.1
+vrath.vpn 86400 IN A 160.6.168.50
+steph.voip.cp 86400 IN A 160.6.30.230
+webdev.cp 86400 IN CNAME webspace.ap
+phone172.admin 86400 IN A 160.6.129.172
+dhcp243.celt 86400 IN A 160.6.9.243
+ap 86400 IN AAAA 2001:770:60:da:200:24ff:fec8:44f4
+ap 86400 IN MX 40 ogma.cp
+86400 IN MX 80 mail.cp
+ap 86400 IN A 160.6.218.2
+kvm5.ap 86400 IN MX 40 mail.cp
+kvm5.ap 86400 IN A 160.6.218.21
+grange.wireless.cp 86400 IN A 160.6.24.15
+sysadm.stp 86400 IN CNAME sysadmin.stp
+licence.cp 86400 IN MX 40 mail.cp
+licence.cp 86400 IN A 160.6.1.53
+cp 86400 IN TXT "v=spf1 ip4:160.6.33.4/24 ip6:2001:770:60:18:200:1cff:fed4:a146 mx a:ogma.cp.dias.ie a:mail.cp.dias.ie a:mailgw.cp.dias.ie mx:cp.dias.ie mx:dias.ie ~all"
+cp 86400 IN MX 40 ogma.cp
+xavi.vpn 86400 IN A 160.6.168.2
+kvm5.cp 86400 IN MX 40 mail.cp
+kvm5.cp 86400 IN A 160.6.33.145
+phone322.voip.ap 86400 IN A 160.6.215.25
+financecolour.admin 86400 IN A 160.6.10.61
+nuada2.ap 86400 IN AAAA 2001:770:60:ca:230:48ff:fe2c:7996
+nuada2.ap 86400 IN A 160.6.202.101
+phone145.admin 86400 IN A 160.6.129.145
+compute-22.dunsink 86400 IN A 160.6.5.122
+logs.celt 86400 IN AAAA 2001:770:60:85::92
+logs.celt 86400 IN A 160.6.133.92
+dhcp-92.stp 86400 IN A 160.6.8.92
+tcosterm106.stp 86400 IN A 160.6.137.106
+ml.stp 86400 IN CNAME lists.cp
+monitor.stp 86400 IN AAAA 2001:770:60:87::2
+monitor.stp 86400 IN MX 30 mail.stp
+monitor.stp 86400 IN A 160.6.135.2
+druryusb.laptops.ap 86400 IN A 160.6.213.15
+proxy-dmz.stp 86400 IN MX 30 mail.stp
+proxy-dmz.stp 86400 IN A 160.6.133.254
+mtfield3.laptops.cp 86400 IN A 160.6.26.77
+freevents.laptops.cp 86400 IN A 160.6.26.30
+voip-newgw.voip.cp 86400 IN A 160.6.30.248
+phone118.admin 86400 IN A 160.6.129.118
+tcosterm56.stp 86400 IN A 160.6.137.56
+ip 86400 IN CNAME wext
+it-131.laptops.ap 86400 IN A 160.6.213.131
+tcosterm156.stp 86400 IN A 160.6.137.156
+edora.cp 86400 IN AAAA 2001:770:60:1:207:e9ff:fe39:4a3e
+edora.cp 86400 IN MX 40 mail.cp
+edora.cp 86400 IN A 160.6.1.60
+cerberus.guests.ap 86400 IN A 160.6.219.253
+bfu9001.cp 86400 IN A 160.6.1.224
+phone233.voip.cp 86400 IN A 160.6.30.55
+kvm6.ap 86400 IN MX 40 mail.cp
+kvm6.ap 86400 IN A 160.6.218.22
+phone95.admin 86400 IN A 160.6.129.95
+burl-ap-k.stp 86400 IN A 160.6.130.80
+malishev.wireless.ap 86400 IN A 160.6.206.15
+cerberus.guests.cp 86400 IN A 160.6.34.253
+tcosterm67.stp 86400 IN A 160.6.137.67
+kvm6.cp 86400 IN MX 40 mail.cp
+kvm6.cp 86400 IN A 160.6.33.146
+git.stp 86400 IN AAAA 2001:770:60:85::24
+git.stp 86400 IN MX 30 mail.stp
+git.stp 86400 IN A 160.6.133.24
+compute-29.dunsink 86400 IN A 160.6.5.129
+openthinclient-cecil.admin 86400 IN MX 30 mail.admin
+openthinclient-cecil.admin 86400 IN A 160.6.10.103
+windesk4.celt 86400 IN A 160.6.9.116
+ldap.admin 86400 IN A 160.6.10.16
+compute-7.dunsink 86400 IN A 160.6.5.107
+phone68.admin 86400 IN A 160.6.129.68
+jfullea2.wireless.cp 86400 IN A 160.6.24.113
+erp 86400 IN A 160.6.133.33
+phone313.voip.ap 86400 IN A 160.6.215.13
+intranet.celt 86400 IN AAAA 2001:770:60:9:20c:f1ff:fe7f:e2b9
+intranet.celt 86400 IN A 160.6.9.100
+morrigan.ap 86400 IN MX 40 mail.cp
+morrigan.ap 86400 IN A 160.6.202.157
+ext-gw.cp 86400 IN A 160.6.36.254
+bfu9002.cp 86400 IN A 160.6.1.149
+kvm7.ap 86400 IN MX 40 mail.cp
+kvm7.ap 86400 IN A 160.6.218.23
+aether.cp 86400 IN AAAA 2001:770:60:1:21d:9ff:fe22:dbda
+aether.cp 86400 IN MX 40 mail.cp
+aether.cp 86400 IN A 160.6.1.57
+koha-celt-admin 86400 IN A 160.6.133.43
+ntp-22.cp 86400 IN A 160.6.22.199
+dunsinkap2.dunsink 86400 IN A 160.6.5.242
+lawtexts.celt 86400 IN AAAA 2001:770:60:9:20c:f1ff:fe7f:e2b9
+lawtexts.celt 86400 IN A 160.6.9.100
+webmail-old 86400 IN AAAA 2001:770:60:18:216:3eff:fe76:16a6
+webmail-old 86400 IN A 160.6.33.12
+dhcp.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe1a:d502
+dhcp.ap 86400 IN MX 40 mail.cp
+dhcp.ap 86400 IN A 160.6.202.199
+phone224.voip.cp 86400 IN A 160.6.30.20
+dhcp248.celt 86400 IN A 160.6.9.248
+dhcp.cp 86400 IN AAAA 2001:770:60:1:5652:ff:fe20:fffb
+dhcp.cp 86400 IN A 160.6.1.46
+dhcp-88.stp 86400 IN A 160.6.8.88
+hermes-219.ap 86400 IN AAAA 2001:770:60:db::1
+hermes-219.ap 86400 IN A 160.6.219.254
+voip-switch.admin 86400 IN MX 30 mail.admin
+voip-switch.admin 86400 IN A 160.6.129.42
+dhcp-gw.laptops.cp 86400 IN A 160.6.26.254
+git 86400 IN AAAA 2001:770:60:22::50
+git 86400 IN A 160.6.22.50
+sw4.stp 86400 IN A 160.6.135.34
+dhcp-107.stp 86400 IN A 160.6.8.107
+tcosterm05.stp 86400 IN A 160.6.137.5
+pr.vpn 86400 IN A 160.6.168.37
+p342f2so34sw32.voip.ap 86400 IN A 160.6.215.21
+phone241.admin 86400 IN A 160.6.129.241
+kvm8.ap 86400 IN MX 40 mail.cp
+kvm8.ap 86400 IN A 160.6.218.24
+tcosterm144.stp 86400 IN A 160.6.137.144
+mtfield4.wireless.cp 86400 IN A 160.6.24.88
+webspace.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe21:a0a3
+webspace.ap 86400 IN MX 40 mail.cp
+webspace.ap 86400 IN A 160.6.202.109
+curran.wireless.cp 86400 IN A 160.6.24.29
+testbed.cp 86400 IN MX 40 mail.cp
+testbed.cp 86400 IN A 160.6.1.87
+imap.celt 86400 IN AAAA 2001:770:60:9:5652:ff:fe21:e237
+imap.celt 86400 IN A 160.6.9.109
+it-145.laptops.ap 86400 IN A 160.6.213.145
+hermes-201.cp 86400 IN AAAA 2001:770:60:c8::254
+hermes-201.cp 86400 IN A 160.6.201.254
+phone221.voip.cp 86400 IN A 160.6.30.28
+vpn-mary.admin 86400 IN MX 30 mail.stp
+vpn-mary.admin 86400 IN A 160.6.132.155
+tcosterm55.stp 86400 IN A 160.6.137.55
+tcosterm100.stp 86400 IN A 160.6.137.100
+phone214.admin 86400 IN A 160.6.129.214
+mtfield.wireless.cp 86400 IN A 160.6.24.44
+kvm4.stp 86400 IN MX 30 mail.stp
+kvm4.stp 86400 IN A 160.6.135.104
+tcosterm120.stp 86400 IN A 160.6.137.120
+webmail.stp 86400 IN CNAME webmailx
+phone7235.voip.cp 86400 IN A 160.6.30.240
+phone177.admin 86400 IN A 160.6.129.177
+phone215.voip.cp 86400 IN A 160.6.30.8
+vcu10.voip.ap 86400 IN A 160.6.215.110
+kvm9.ap 86400 IN MX 40 mail.cp
+kvm9.ap 86400 IN A 160.6.218.25
+tr.voip.ap 86400 IN A 160.6.215.9
+jones.wireless.cp 86400 IN A 160.6.24.3
+nov12i.laptops.cp 86400 IN A 160.6.26.89
+costigan.wireless.ap 86400 IN A 160.6.206.22
+ntp-24.cp 86400 IN A 160.6.24.200
+miranda.cp 86400 IN AAAA 2001:770:60:1:230:5ff:fe2b:2383
+miranda.cp 86400 IN MX 40 mail.cp
+miranda.cp 86400 IN A 160.6.1.6
+tcosterm63.stp 86400 IN A 160.6.137.63
+vpn-cecil.admin 86400 IN MX 30 mail.stp
+vpn-cecil.admin 86400 IN A 160.6.132.151
+tbgeofield.laptops.cp 86400 IN A 160.6.26.79
+xp3.dunsink 86400 IN MX 40 mail.dunsink
+xp3.dunsink 86400 IN A 160.6.5.43
+dudzinski.laptops.ap 86400 IN A 160.6.213.10
+sw2.celt 86400 IN CNAME sw2.stp
+dana2.celt 86400 IN AAAA 2001:770:60:9::101
+dana2.celt 86400 IN A 160.6.9.101
+dhcp-103.stp 86400 IN A 160.6.8.103
+umbriel.ap 86400 IN AAAA 2001:770:60:ca:208:74ff:fea9:bad2
+umbriel.ap 86400 IN MX 40 mail.cp
+umbriel.ap 86400 IN A 160.6.202.26
+phone124.admin 86400 IN A 160.6.129.124
+faraday.cp 86400 IN AAAA 2001:770:60:1:f24d:a2ff:fedc:e1c
+faraday.cp 86400 IN MX 40 mail.cp
+faraday.cp 86400 IN A 160.6.1.76
+dudzinski.laptops.cp 86400 IN A 160.6.26.10
+phone219.admin 86400 IN A 160.6.129.219
+tcosterm132.stp 86400 IN A 160.6.137.132
+mtrg-heanet.ext.dias.ie 86400 IN CNAME www.hea.net.
+hamilton-133.stp 86400 IN A 160.6.133.223
+dunsink 86400 IN MX 40 mail.cp
+dunsink 86400 IN A 160.6.33.29
+it-159.laptops.ap 86400 IN A 160.6.213.159
+phone206.voip.cp 86400 IN A 160.6.30.45
+alarm.admin 86400 IN A 160.6.134.4
+tcosterm43.stp 86400 IN A 160.6.137.43
+tcosterm31.stp 86400 IN A 160.6.137.31
+tcosterm182.stp 86400 IN A 160.6.137.182
+phone74.admin 86400 IN A 160.6.129.74
+eflood.laptops.cp 86400 IN A 160.6.26.46
+ute04.laptops.cp 86400 IN A 160.6.26.24
+celinemac.wireless.cp 86400 IN A 160.6.24.90
+wormhole.admin 86400 IN MX 30 mail.stp
+wormhole.admin 86400 IN A 160.6.131.2
+canola.cp 86400 IN AAAA 2001:770:60:1:223:aeff:fe8c:ff57
+canola.cp 86400 IN MX 40 mail.cp
+canola.cp 86400 IN A 160.6.1.191
+diasapw1.wireless.ap 86400 IN A 160.6.206.101
+tuatha.cp 86400 IN AAAA 2001:770:60:18:862b:2bff:fe64:db0c
+tuatha.cp 86400 IN MX 40 mail.cp
+tuatha.cp 86400 IN A 160.6.33.39
+sanfil.voip.ap 86400 IN A 160.6.215.249
+leda-install.cp 86400 IN AAAA 2001:770:60:17:230:48ff:fe70:543
+leda-install.cp 86400 IN A 160.6.32.247
+n95.voip.ap 86400 IN A 160.6.215.241
+gridinstall.cp 86400 IN MX 40 mail.cp
+gridinstall.cp 86400 IN A 160.6.223.128
+proxy.dunsink 86400 IN CNAME proxy.cp
+compute-13.stp 86400 IN CNAME compute-13.dunsink
+sanfil.voip.cp 86400 IN A 160.6.30.249
+phone142.admin 86400 IN A 160.6.129.142
+ntp-26.cp 86400 IN A 160.6.26.200
+ichec-ag2.voip.cp 86400 IN A 160.6.30.102
+sblake.vpn 86400 IN A 160.6.168.45
+destokes-140.stp 86400 IN AAAA 2001:770:60:8c::1
+destokes-140.stp 86400 IN A 160.6.140.254
+diasg4.guests.ap 86400 IN A 160.6.219.104
+tcosterm170.stp 86400 IN A 160.6.137.170
+ciscoap8-218.ap 86400 IN A 160.6.218.208
+vcompute-3.dunsink 86400 IN A 160.6.5.135
+burl-ap-h.stp 86400 IN A 160.6.130.77
+gridstore.cp 86400 IN MX 40 mail.cp
+gridstore.cp 86400 IN A 160.6.223.130
+diasg4.guests.cp 86400 IN A 160.6.34.104
+phone196.admin 86400 IN A 160.6.129.196
+destokes-200.stp 86400 IN AAAA 2001:770:60:c8::252
+destokes-200.stp 86400 IN A 160.6.200.252
+webmailx.cp 86400 IN CNAME webmailx
+tc159.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48fe
+tc159.celt 86400 IN A 160.6.9.159
+oldnemesis.ap 86400 IN AAAA 2001:770:60:ca:218:8bff:fef9:31d7
+oldnemesis.ap 86400 IN A 160.6.202.11
+behemoth.ap 86400 IN AAAA 2001:770:60:da:240:caff:fea5:c365
+behemoth.ap 86400 IN MX 40 mail.cp
+behemoth.ap 86400 IN A 160.6.218.11
+phone246.admin 86400 IN A 160.6.129.246
+geataire.celt 86400 IN AAAA 2001:770:60:9:227:eff:fe10:dcd2
+geataire.celt 86400 IN A 160.6.9.93
+piana.wireless.cp 86400 IN A 160.6.24.2
+phone192.admin 86400 IN A 160.6.129.192
+tcosterm171.stp 86400 IN A 160.6.137.171
+finance.admin 86400 IN AAAA 2001:770:60:18::33
+finance.admin 86400 IN MX 40 mail.cp
+finance.admin 86400 IN A 160.6.33.33
+tcosterm119.stp 86400 IN A 160.6.137.119
+skovacs.stp 86400 IN A 160.6.130.242
+geofield081.laptops.cp 86400 IN A 160.6.26.76
+phone220.admin 86400 IN A 160.6.129.220
+dhcp69.dunsink 86400 IN A 160.6.5.69
+flora-printer.stp 86400 IN CNAME hp1505.stp
+www.cp 86400 IN CNAME web
+hamilton.admin 86400 IN MX 30 mail.admin
+hamilton.admin 86400 IN A 160.6.10.223
+copier.dunsink 86400 IN A 160.6.5.233
+leda-home.cp 86400 IN AAAA 2001:770:60:17:204:23ff:feb7:6c76
+leda-home.cp 86400 IN MX 40 mail.cp
+leda-home.cp 86400 IN A 160.6.32.246
+tcosterm169.stp 86400 IN A 160.6.137.169
+tcosterm70.stp 86400 IN A 160.6.137.70
+phone267.voip.cp 86400 IN A 160.6.30.14
+ciscoap0-218.ap 86400 IN A 160.6.218.200
+ntp-135.stp 86400 IN CNAME destokes-135.stp
+squeeze2.dunsink 86400 IN A 160.6.5.32
+dhcp3.guests.ap 86400 IN A 160.6.219.3
+phone183.admin 86400 IN A 160.6.129.183
+alien.wireless.ap 86400 IN A 160.6.206.25
+tcosterm81.stp 86400 IN A 160.6.137.81
+librarian.cp 86400 IN A 160.6.1.56
+geiger.cp 86400 IN AAAA 2001:770:60:1:225:64ff:feb8:56f7
+geiger.cp 86400 IN MX 40 mail.cp
+geiger.cp 86400 IN A 160.6.1.195
+dhcp3.guests.cp 86400 IN A 160.6.34.3
+webmail 86400 IN AAAA 2001:770:60:85::45
+webmail 86400 IN A 160.6.133.45
+phone156.admin 86400 IN A 160.6.129.156
+dhcp77.dunsink 86400 IN A 160.6.5.77
+cmasterson.vpn 86400 IN A 160.6.168.21
+alocer.ap 86400 IN MX 40 mail.cp
+alocer.ap 86400 IN A 160.6.202.159
+eric.wireless.cp 86400 IN A 160.6.24.7
+www.irdsn 86400 IN CNAME wext
+jvozar.wireless.cp 86400 IN A 160.6.24.22
+rochford.wireless.ap 86400 IN A 160.6.206.65
+zdenek.laptops.cp 86400 IN A 160.6.26.74
+1stfloor-bw.cp 86400 IN CNAME epln7000.cp
+dhcp62.dunsink 86400 IN A 160.6.5.62
+it-133.laptops.ap 86400 IN A 160.6.213.133
+fax.voip.ap 86400 IN A 160.6.215.36
+phone129.admin 86400 IN A 160.6.129.129
+wikindx.cp 86400 IN AAAA 2001:770:60:18::37
+wikindx.cp 86400 IN MX 40 mail.cp
+wikindx.cp 86400 IN A 160.6.33.37
+alessio.voip.ap 86400 IN A 160.6.215.4
+dhcp64.dunsink 86400 IN A 160.6.5.64
+ntp-30.cp 86400 IN A 160.6.30.200
+rdelhaye.vpn 86400 IN A 160.6.168.44
+openthinclient-helena.admin 86400 IN A 160.6.10.109
+diasw1.voip.ap 86400 IN A 160.6.215.240
+dhcp-93.stp 86400 IN A 160.6.8.93
+tcosterm107.stp 86400 IN A 160.6.137.107
+phone103.admin 86400 IN A 160.6.129.103
+dhcp85.dunsink 86400 IN A 160.6.5.85
+phone169.admin 86400 IN A 160.6.129.169
+puppet 86400 IN A 160.6.202.93
+dhcp-109.stp 86400 IN A 160.6.8.109
+dias6.wireless.cp 86400 IN A 160.6.24.106
+bfu9011.ap 86400 IN MX 40 mail.cp
+bfu9011.ap 86400 IN A 160.6.202.221
+phone80.admin 86400 IN A 160.6.129.80
+dhcp70.dunsink 86400 IN A 160.6.5.70
+combet.laptops.cp 86400 IN A 160.6.26.7
+hamilton-137.stp 86400 IN A 160.6.137.223
+tcosterm157.stp 86400 IN A 160.6.137.157
+mail.maintenance 86400 IN AAAA 2001:770:60:18:216:3eff:fe45:bba1
+mail.maintenance 86400 IN A 160.6.33.10
+taylor.laptops.ap 86400 IN A 160.6.213.27
+burl-ap-l.stp 86400 IN A 160.6.130.81
+colinf.wireless.cp 86400 IN A 160.6.24.72
+phone338.voip.ap 86400 IN A 160.6.215.38
+tcosterm68.stp 86400 IN A 160.6.137.68
+chernyakova.voip.ap 86400 IN A 160.6.215.14
+otep.ap 86400 IN AAAA 2001:770:60:ca:230:48ff:fe59:241f
+otep.ap 86400 IN MX 40 mail.cp
+otep.ap 86400 IN A 160.6.202.43
+garcia2.wireless.cp 86400 IN A 160.6.24.37
+gila.cp 86400 IN AAAA 2001:770:60:1:1a03:73ff:fead:ff7c
+gila.cp 86400 IN A 160.6.1.9
+niscelli.laptops.cp 86400 IN A 160.6.26.2
+mathematica-laptop.stp 86400 IN AAAA 2001:770:60:82:5054:ff:fe36:8103
+bfu9012.ap 86400 IN MX 40 mail.cp
+bfu9012.ap 86400 IN A 160.6.202.222
+phone249.voip.cp 86400 IN A 160.6.30.58
+dhcp80.dunsink 86400 IN A 160.6.5.80
+celtps4.celt 86400 IN A 160.6.9.14
+taliesin.cp 86400 IN AAAA 2001:770:60:1:5652:ff:fe0e:8e4d
+taliesin.cp 86400 IN A 160.6.1.29
+colourcopier.celt 86400 IN AAAA 2001:770:60:9:200:aaff:fefa:145a
+colourcopier.celt 86400 IN A 160.6.9.12
+atlas.cp 86400 IN AAAA 2001:770:60:1:203:baff:fe16:df0c
+atlas.cp 86400 IN MX 40 mail.cp
+atlas.cp 86400 IN A 160.6.1.30
+jbuckenm.laptops.cp 86400 IN A 160.6.26.70
+compute-5.stp 86400 IN CNAME compute-5.dunsink
+dell2.dunsink 86400 IN A 160.6.5.221
+phone252.admin 86400 IN A 160.6.129.252
+ariadne.cp 86400 IN AAAA 2001:770:60:1:5652:ff:fe1f:c3fe
+ariadne.cp 86400 IN MX 40 mail.cp
+ariadne.cp 86400 IN A 160.6.1.15
+it-147.laptops.ap 86400 IN A 160.6.213.147
+puffy.ap 86400 IN AAAA 2001:770:60:ca:216:3eff:fe75:2ee
+puffy.ap 86400 IN MX 40 mail.cp
+puffy.ap 86400 IN A 160.6.202.231
+phone666.voip.cp 86400 IN A 160.6.30.241
+vcu.stp 86400 IN CNAME vcu.admin
+cwt-heanet.ext.dias.ie 86400 IN CNAME cr2-cwt.hea.net.
+ciscoap7.ap 86400 IN A 160.6.202.207
+cluster-blade7.dunsink 86400 IN A 160.6.5.57
+dhcp-81.stp 86400 IN A 160.6.8.81
+mackey.laptops.ap 86400 IN A 160.6.213.51
+phone330.voip.ap 86400 IN A 160.6.215.33
+phone225.admin 86400 IN A 160.6.129.225
+garcia2.laptops.cp 86400 IN A 160.6.26.57
+drury3.wireless.ap 86400 IN A 160.6.206.29
+bfu9013.ap 86400 IN MX 40 mail.cp
+bfu9013.ap 86400 IN A 160.6.202.223
+ups3.stp 86400 IN A 160.6.135.23
+gmurphy.laptops.ap 86400 IN A 160.6.213.33
+phone242.voip.cp 86400 IN A 160.6.30.10
+phone69.admin 86400 IN A 160.6.129.69
+cagniard.cp 86400 IN AAAA 2001:770:60:1:7a2b:cbff:fe93:16cf
+cagniard.cp 86400 IN A 160.6.1.188
+tcosterm06.stp 86400 IN A 160.6.137.6
+voip.dunsink 86400 IN AAAA 2001:770:60:5:5652:ff:fe4d:746e
+voip.dunsink 86400 IN A 160.6.5.250
+tcosterm145.stp 86400 IN A 160.6.137.145
+phone188.admin 86400 IN A 160.6.129.188
+ntp-33.cp 86400 IN A 160.6.33.200
+mac27ag.wireless.ap 86400 IN A 160.6.206.5
+valenti.wireless.ap 86400 IN A 160.6.206.66
+ltsptest.admin 86400 IN A 160.6.10.252
+mh.vpntcp 86400 IN A 160.6.169.9
+phone241.voip.cp 86400 IN A 160.6.30.18
+tcosterm155.stp 86400 IN A 160.6.137.155
+vcu-ckeaveney.admin 86400 IN MX 30 mail.stp
+vcu-ckeaveney.admin 86400 IN A 160.6.140.2
+pos 86400 IN AAAA 2001:770:60:18:5652:ff:fe53:5ac4
+pos 86400 IN A 160.6.33.24
+phone140.admin 86400 IN A 160.6.129.140
+tcosterm195.stp 86400 IN A 160.6.137.195
+phone399.voip.ap 86400 IN A 160.6.215.253
+ichec-gw.cp 86400 IN A 160.6.34.254
+phone162.admin 86400 IN A 160.6.129.162
+compute-1.stp 86400 IN CNAME compute-1.dunsink
+upr400i1.ap 86400 IN A 160.6.202.186
+nov12d.wireless.cp 86400 IN A 160.6.24.184
+bfu9014.ap 86400 IN MX 40 mail.cp
+bfu9014.ap 86400 IN A 160.6.202.224
+auroraold.ap 86400 IN AAAA 2001:770:60:ca:219:b9ff:feed:a73
+momus.cp 86400 IN AAAA 2001:770:60:1:223:aeff:fe89:4970
+momus.cp 86400 IN MX 40 mail.cp
+momus.cp 86400 IN A 160.6.1.92
+casiopea.ap 86400 IN MX 40 mail.cp
+casiopea.ap 86400 IN A 160.6.202.193
+davidkhoza.vpn 86400 IN A 160.6.168.30
+compute-26.stp 86400 IN CNAME compute-26.dunsink
+osullivan.wireless.ap 86400 IN A 160.6.206.23
+phone321.voip.ap 86400 IN A 160.6.215.1
+tcosterm80.stp 86400 IN A 160.6.137.80
+smtp.stp 86400 IN CNAME synge.stp
+phone135.admin 86400 IN A 160.6.129.135
+ntp-34.cp 86400 IN A 160.6.34.200
+gmurphy.wireless.ap 86400 IN A 160.6.206.33
+cctv-poe-lecture.admin 86400 IN A 160.6.129.61
+tcosterm49.stp 86400 IN A 160.6.137.49
+osullivan.wireless.cp 86400 IN A 160.6.24.23
+ciscostore0.cp 86400 IN A 160.6.1.251
+dhcp10.guests.ap 86400 IN A 160.6.219.10
+duffy.laptops.ap 86400 IN A 160.6.213.48
+www.dunsinkobservatory 86400 IN CNAME web
+dhcp10.guests.cp 86400 IN A 160.6.34.10
+js.laptops.cp 86400 IN A 160.6.26.64
+phone108.admin 86400 IN A 160.6.129.108
+cnode.ap 86400 IN MX 40 mail.cp
+cnode.ap 86400 IN A 160.6.202.115
+bfu9015.ap 86400 IN MX 40 mail.cp
+bfu9015.ap 86400 IN A 160.6.202.225
+phone232.voip.cp 86400 IN A 160.6.30.54
+phone85.admin 86400 IN A 160.6.129.85
+dgolden.vpn 86400 IN A 160.6.168.4
+phone130.admin 86400 IN A 160.6.129.130
+phone-config 86400 IN CNAME wint
+desplat2.wireless.cp 86400 IN A 160.6.24.64
+phone319.voip.ap 86400 IN A 160.6.215.7
+tcosterm133.stp 86400 IN A 160.6.137.133
+mcgroarty.laptops.ap 86400 IN A 160.6.213.64
+xp1.dunsink 86400 IN MX 40 mail.dunsink
+xp1.dunsink 86400 IN A 160.6.5.41
+ciscostore1.cp 86400 IN A 160.6.1.235
+library.guests.ap 86400 IN A 160.6.219.150
+cluster-blade1.stp 86400 IN A 160.6.5.51
+tcosterm44.stp 86400 IN A 160.6.137.44
+dempsey.laptops.ap 86400 IN A 160.6.213.13
+phone312.voip.ap 86400 IN A 160.6.215.19
+705.dunsink 86400 IN A 160.6.5.15
+tcosterm183.stp 86400 IN A 160.6.137.183
+maca.cp 86400 IN A 160.6.1.8
+celtcab2.celt 86400 IN A 160.6.9.4
+compute-21.dunsink 86400 IN A 160.6.5.121
+sip 86400 IN CNAME bell.voip.cp
+bfu9016.ap 86400 IN A 160.6.202.226
+bfu9016.ap 86400 IN MX 40 mail.cp
+malishev.laptops.ap 86400 IN A 160.6.213.12
+tcosterm83.stp 86400 IN A 160.6.137.83
+cordelia.ap 86400 IN MX 40 mail.cp
+cordelia.ap 86400 IN A 160.6.202.18
+tcosterm94.stp 86400 IN A 160.6.137.94
+downes.wireless.ap 86400 IN A 160.6.206.20
+agv.vpntcp 86400 IN A 160.6.169.10
+seismoserver.cp 86400 IN MX 40 mail.cp
+seismoserver.cp 86400 IN A 160.6.1.101
+phone121.admin 86400 IN A 160.6.129.121
+epona.ap 86400 IN AAAA 2001:770:60:ca:f24d:a2ff:feda:5fa5
+epona.ap 86400 IN MX 40 mail.cp
+epona.ap 86400 IN A 160.6.202.94
+guest-gw.guests.ap 86400 IN A 160.6.219.254
+mackey.voip.ap 86400 IN A 160.6.215.7
+leda11.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:99b1
+leda11.cp 86400 IN MX 40 mail.cp
+leda11.cp 86400 IN A 160.6.32.11
+compute-14.stp 86400 IN CNAME compute-14.dunsink
+guest-gw.guests.cp 86400 IN A 160.6.34.254
+phone223.voip.cp 86400 IN A 160.6.30.23
+web.dunsinkobservatory 86400 IN CNAME web
+phone116.admin 86400 IN A 160.6.129.116
+compute-28.dunsink 86400 IN A 160.6.5.128
+bfu9017.ap 86400 IN MX 40 mail.cp
+bfu9017.ap 86400 IN A 160.6.202.227
+phone231.admin 86400 IN A 160.6.129.231
+registrar-printer.admin 86400 IN A 160.6.10.68
+compute-6.dunsink 86400 IN A 160.6.5.106
+stp 86400 IN TXT "v=spf1 mx a:stp.dias.ie mx:mail.stp.dias.ie ip4:160.6.133.10 ip6:2001:770:60:85::10 ip4:134.226.81.11 ~all"
+stp 86400 IN MX 35 mail.stp
+oberon.cp 86400 IN AAAA 2001:770:60:1:f24d:a2ff:fedc:43aa
+oberon.cp 86400 IN MX 40 mail.cp
+oberon.cp 86400 IN A 160.6.1.54
+localhost.maintenance 86400 IN A 127.0.0.1
+svn 86400 IN A 160.6.218.13
+guest.laptops.cp 86400 IN A 160.6.26.32
+phone204.admin 86400 IN A 160.6.129.204
+kvm5.stp 86400 IN MX 30 mail.stp
+kvm5.stp 86400 IN A 160.6.135.105
+maintenance 86400 IN AAAA 2001:770:60:18:216:3eff:fe45:bba1
+maintenance 86400 IN MX 40 mail.maintenance
+maintenance 86400 IN A 160.6.33.10
+tcosterm121.stp 86400 IN A 160.6.137.121
+ups1.stp 86400 IN A 160.6.135.21
+licciardi.laptops.cp 86400 IN A 160.6.26.111
+dhcp240.celt 86400 IN A 160.6.9.240
+badis-laptop.stp 86400 IN A 160.6.130.132
+dunsinkap1.dunsink 86400 IN A 160.6.5.241
+lewis.stp 86400 IN AAAA 2001:770:60:85::9
+lewis.stp 86400 IN MX 30 mail.stp
+lewis.stp 86400 IN A 160.6.133.9
+tcosterm32.stp 86400 IN A 160.6.137.32
+marion2.wireless.cp 86400 IN A 160.6.24.56
+phone167.admin 86400 IN A 160.6.129.167
+phone214.voip.cp 86400 IN A 160.6.30.24
+massilia.cp 86400 IN AAAA 2001:770:60:1:f24d:a2ff:fedd:1ca4
+massilia.cp 86400 IN MX 40 mail.cp
+massilia.cp 86400 IN A 160.6.1.71
+hermes-100.cp 86400 IN AAAA 2001:770:60:7::1
+hermes-100.cp 86400 IN A 160.6.100.254
+mercury.stp 86400 IN CNAME mercury2.stp
+dhcp245.celt 86400 IN A 160.6.9.245
+aurora.ap 86400 IN AAAA 2001:770:60:ca:5054:ff:fe03:4fa3
+aurora.ap 86400 IN MX 40 mail.cp
+aurora.ap 86400 IN A 160.6.202.20
+gridfw.cp 86400 IN MX 40 mail.cp
+gridfw.cp 86400 IN A 160.6.223.133
+mtfield3.wireless.cp 86400 IN A 160.6.24.63
+tcosterm82.stp 86400 IN A 160.6.137.82
+it-135.laptops.ap 86400 IN A 160.6.213.135
+ntp-38.cp 86400 IN A 160.6.38.200
+tc151.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48a8
+tc151.celt 86400 IN A 160.6.9.151
+phone141.admin 86400 IN A 160.6.129.141
+compute-20.stp 86400 IN CNAME compute-20.dunsink
+dris.celt 86400 IN AAAA 2001:770:60:9:7271:bcff:fead:4790
+dris.celt 86400 IN A 160.6.9.73
+tcosterm124.stp 86400 IN A 160.6.137.124
+dbourke.voip.cp 86400 IN A 160.6.30.19
+dhcp6.guests.cp 86400 IN A 160.6.34.6
+guests.ap 86400 IN A 160.6.219.1
+geostore.ap 86400 IN AAAA 2001:770:60:ca:230:48ff:fe55:7a01
+geostore.ap 86400 IN MX 40 mail.cp
+geostore.ap 86400 IN A 160.6.202.9
+laeg.cp 86400 IN AAAA 2001:770:60:1:225:64ff:fe9a:4c70
+laeg.cp 86400 IN MX 40 mail.cp
+laeg.cp 86400 IN A 160.6.1.160
+koha-stp-admin 86400 IN A 160.6.133.43
+eriu-storage.cp 86400 IN A 160.6.39.9
+archive.admin 86400 IN CNAME archive.stp
+guests.cp 86400 IN A 160.6.34.1
+gate.stp 86400 IN CNAME lewis.stp
+phone114.admin 86400 IN A 160.6.129.114
+beno.cp 86400 IN AAAA 2001:770:60:1:d267:e5ff:fef9:2e08
+beno.cp 86400 IN MX 40 mail.cp
+beno.cp 86400 IN A 160.6.1.51
+share.stp 86400 IN AAAA 2001:770:60:85::37
+share.stp 86400 IN MX 30 mail.stp
+share.stp 86400 IN A 160.6.133.37
+phone91.admin 86400 IN A 160.6.129.91
+bourke.wireless.cp 86400 IN A 160.6.24.42
+choran.voip.ap 86400 IN A 160.6.215.30
+web 86400 IN AAAA 2001:770:60:18:5652:ff:fe23:be6e
+web 86400 IN A 160.6.33.29
+seth.cp 86400 IN AAAA 2001:770:60:18:5652:ff:fe65:11d4
+seth.cp 86400 IN MX 40 mail.cp
+seth.cp 86400 IN A 160.6.33.2
+tc162.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:490b
+tc162.celt 86400 IN A 160.6.9.162
+dragan.celt 86400 IN AAAA 2001:770:60:9:226:22ff:feeb:f6ce
+dragan.celt 86400 IN A 160.6.9.65
+whelan.wireless.ap 86400 IN A 160.6.206.9
+phone205.voip.cp 86400 IN A 160.6.30.44
+drury.voip.ap 86400 IN A 160.6.215.1
+imap.stp 86400 IN CNAME synge.stp
+tcosterm18.stp 86400 IN A 160.6.137.18
+dhcp-94.stp 86400 IN A 160.6.8.94
+tcosterm108.stp 86400 IN A 160.6.137.108
+ciscoap0.ap 86400 IN A 160.6.202.200
+vpn 86400 IN A 160.6.27.1
+phone64.admin 86400 IN A 160.6.129.64
+phone364.voip.ap 86400 IN A 160.6.215.26
+tc167.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:4904
+tc167.celt 86400 IN A 160.6.9.167
+koha-stp 86400 IN A 160.6.133.43
+tcosterm19.stp 86400 IN A 160.6.137.19
+joanne.vpn 86400 IN A 160.6.168.39
+xp2.dunsink 86400 IN AAAA 2001:770:60:5:20d:61ff:fe34:9eb
+xp2.dunsink 86400 IN MX 40 mail.dunsink
+xp2.dunsink 86400 IN A 160.6.5.42
+reception-display.cp 86400 IN AAAA 2001:770:60:1:b4b9:e062:c2f7:4999
+seanos.vpn 86400 IN A 160.6.168.22
+diasvoipw1.voip.ap 86400 IN A 160.6.215.101
+tc173.celt 86400 IN A 160.6.9.173
+ichec-ag1.voip.cp 86400 IN A 160.6.30.101
+burl-ap-m.stp 86400 IN A 160.6.130.82
+abaddon.ap 86400 IN AAAA 2001:770:60:ca:215:17ff:fe6f:8796
+abaddon.ap 86400 IN MX 40 mail.cp
+abaddon.ap 86400 IN A 160.6.202.253
+tcosterm69.stp 86400 IN A 160.6.137.69
+carlo.wireless.ap 86400 IN A 160.6.206.32
+ciscoap7-218.ap 86400 IN A 160.6.218.207
+leda-sensor.cp 86400 IN A 160.6.32.200
+yellow-room-printer.cp 86400 IN CNAME hp3700dn2.cp
+it-149.laptops.ap 86400 IN A 160.6.213.149
+gmurphy2.wireless.ap 86400 IN A 160.6.206.16
+tcosterm194.stp 86400 IN A 160.6.137.194
+ciscoap1.ap 86400 IN A 160.6.202.201
+sa.ap 86400 IN AAAA 2001:770:60:dd:210:f3ff:fe10:7aae
+sa.ap 86400 IN A 160.6.221.1
+compute-3.stp 86400 IN CNAME compute-3.dunsink
+vozar.wireless.cp 86400 IN A 160.6.24.84
+destokes-management.stp 86400 IN A 192.168.1.1
+phone236.admin 86400 IN A 160.6.129.236
+oblivion.cp 86400 IN AAAA 2001:770:60:7::1
+oblivion.cp 86400 IN A 160.6.1.126
+vpntcp 86400 IN A 160.6.169.1
+abigor.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe57:eabb
+abigor.ap 86400 IN MX 40 mail.cp
+abigor.ap 86400 IN A 160.6.202.158
+compute-6.stp 86400 IN CNAME compute-6.dunsink
+sw3.cp 86400 IN MX 40 mail.cp
+sw3.cp 86400 IN A 160.6.1.3
+bell.voip.cp 86400 IN A 160.6.30.252
+puppet.dunsink 86400 IN CNAME puppet.ap
+tapelib.cp 86400 IN A 160.6.1.148
+leygnac.laptops.cp 86400 IN A 160.6.26.41
+dev.www.sim-crust 86400 IN CNAME wint
+www 86400 IN CNAME web
+phone199.admin 86400 IN A 160.6.129.199
+nov12i.wireless.cp 86400 IN A 160.6.24.189
+pauli.stp 86400 IN AAAA 2001:770:60:85::22
+pauli.stp 86400 IN MX 30 mail.stp
+pauli.stp 86400 IN A 160.6.133.22
+titanux.laptops.cp 86400 IN A 160.6.26.1
+ciscoap2.ap 86400 IN A 160.6.202.202
+dhcp-82.stp 86400 IN A 160.6.8.82
+dhcp71.dunsink 86400 IN A 160.6.5.71
+vcompute-2.dunsink 86400 IN A 160.6.5.134
+oblivion-200.cp 86400 IN AAAA 2001:770:60:c8::254
+oblivion-200.cp 86400 IN A 160.6.200.254
+phone173.admin 86400 IN A 160.6.129.173
+tcosterm07.stp 86400 IN A 160.6.137.7
+intranet.cp 86400 IN AAAA 2001:770:60:18::36
+intranet.cp 86400 IN A 160.6.33.36
+dhcp61.dunsink 86400 IN A 160.6.5.61
+ogham.celt 86400 IN CNAME wext
+abyrne.voip.ap 86400 IN A 160.6.215.28
+tcosterm146.stp 86400 IN A 160.6.137.146
+openthinclient-grace.admin 86400 IN A 160.6.10.102
+hr.admin 86400 IN AAAA 2001:770:60:18::34
+hr.admin 86400 IN MX 40 mail.cp
+hr.admin 86400 IN A 160.6.33.34
+stehle.wireless.cp 86400 IN A 160.6.24.36
+burl-ap-b.stp 86400 IN A 160.6.130.71
+tcosterm57.stp 86400 IN A 160.6.137.57
+phone146.admin 86400 IN A 160.6.129.146
+ciscoap3.ap 86400 IN A 160.6.202.203
+diasmonitor1.cp 86400 IN A 160.6.31.1
+tcosterm196.stp 86400 IN A 160.6.137.196
+ajones.laptops.cp 86400 IN A 160.6.26.60
+reception-printer.admin 86400 IN A 160.6.130.52
+ntp-130.stp 86400 IN CNAME destokes-130.stp
+oblivion-201.cp 86400 IN AAAA 2001:770:60:c9::254
+oblivion-201.cp 86400 IN A 160.6.201.254
+phone120.admin 86400 IN A 160.6.129.120
+dhcp68.dunsink 86400 IN A 160.6.5.68
+ntp-8.stp 86400 IN CNAME destokes-8.stp
+compute-27.stp 86400 IN CNAME compute-27.dunsink
+phone96.admin 86400 IN A 160.6.129.96
+sw5.cp 86400 IN MX 40 mail.cp
+sw5.cp 86400 IN A 160.6.1.209
+squeeze1.dunsink 86400 IN A 160.6.5.31
+xenia.wireless.cp 86400 IN A 160.6.24.25
+library-photocopier.stp 86400 IN A 160.6.130.63
+ciscoap4.ap 86400 IN A 160.6.202.204
+piana.laptops.cp 86400 IN A 160.6.26.5
+phone70.admin 86400 IN A 160.6.129.70
+vpn-ebarrett.admin 86400 IN MX 30 mail.stp
+vpn-ebarrett.admin 86400 IN A 160.6.132.152
+voip-gw.voip.ap 86400 IN A 160.6.215.254
+dhcp-105.stp 86400 IN A 160.6.8.105
+phone337.voip.ap 86400 IN A 160.6.215.27
+sw6.ap 86400 IN A 160.6.202.209
+mail.stp 86400 IN AAAA 2001:770:60:85::10
+mail.stp 86400 IN MX 30 mail.stp
+mail.stp 86400 IN A 160.6.133.10
+attis.cp 86400 IN AAAA 2001:770:60:1:221:9bff:fe55:5e7e
+attis.cp 86400 IN MX 40 mail.cp
+attis.cp 86400 IN A 160.6.1.173
+voip-gw.voip.cp 86400 IN A 160.6.30.254
+sophos.admin 86400 IN CNAME sophos
+tcosterm134.stp 86400 IN A 160.6.137.134
+leda.cp 86400 IN AAAA 2001:770:60:17:230:48ff:fe70:9470
+leda.cp 86400 IN A 160.6.32.245
+hut3.voip.ap 86400 IN A 160.6.215.26
+puppet.admin 86400 IN CNAME puppet.ap
+tcosterm110.stp 86400 IN A 160.6.137.110
+selket.cp 86400 IN AAAA 2001:770:60:1:9a90:96ff:fe9b:371b
+selket.cp 86400 IN MX 40 mail.cp
+selket.cp 86400 IN A 160.6.1.55
+ciscoap5.ap 86400 IN A 160.6.202.205
+tcosterm45.stp 86400 IN A 160.6.137.45
+tr.vpn 86400 IN A 160.6.168.5
+whelan.laptops.ap 86400 IN A 160.6.213.9
+tcosterm184.stp 86400 IN A 160.6.137.184
+phone248.voip.cp 86400 IN A 160.6.30.57
+cctv-celtdoor.admin 86400 IN A 160.6.134.104
+phone189.admin 86400 IN A 160.6.129.189
+dias5.wireless.cp 86400 IN A 160.6.24.105
+ld.vpntcp 86400 IN A 160.6.169.7
+whelan.laptops.cp 86400 IN A 160.6.26.9
+chogg.laptops.cp 86400 IN A 160.6.26.50
+dhcp84.dunsink 86400 IN A 160.6.5.84
+uphir.ap 86400 IN MX 40 mail.cp
+uphir.ap 86400 IN A 160.6.202.143
+uphir.ap 86400 IN AAAA 2001:770:60:ca:230:48ff:fe59:23ed
+tcosterm95.stp 86400 IN A 160.6.137.95
+hyperion.ap 86400 IN AAAA 2001:770:60:ca:207:e9ff:fe39:4a37
+hyperion.ap 86400 IN MX 40 mail.cp
+hyperion.ap 86400 IN A 160.6.202.188
+graphics.ap 86400 IN AAAA 2001:770:60:ca:230:48ff:fe74:c745
+graphics.ap 86400 IN A 160.6.202.134
+phone242.admin 86400 IN A 160.6.129.242
+tfarrell.vpn 86400 IN A 160.6.168.46
+compute-15.stp 86400 IN CNAME compute-15.dunsink
+malishev.voip.ap 86400 IN A 160.6.215.35
+graphics.cp 86400 IN CNAME graphics.ap
+ag01.cp 86400 IN AAAA 2001:770:60:5:230:48ff:fe70:c655
+ag01.cp 86400 IN A 160.6.25.1
+lenus2.cp 86400 IN A 160.6.33.42
+phone328.voip.ap 86400 IN A 160.6.215.30
+ciscoap6.ap 86400 IN A 160.6.202.206
+phone215.admin 86400 IN A 160.6.129.215
+egobail.cp 86400 IN AAAA 2001:770:60:1:20d:60ff:fe9a:2494
+egobail.cp 86400 IN MX 40 mail.cp
+egobail.cp 86400 IN A 160.6.1.161
+abalam.ap 86400 IN AAAA 2001:770:60:ca:a6ba:dbff:fefe:117d
+abalam.ap 86400 IN MX 40 mail.cp
+abalam.ap 86400 IN A 160.6.202.166
+kvm1.dunsink 86400 IN A 160.6.5.253
+cctv-celtlib.admin 86400 IN A 160.6.134.103
+auth.ap 10 IN AAAA 2001:770:60:ca:5652:ff:fe57:eabb
+auth.ap 10 IN A 160.6.202.158
+farrell.wireless.cp 86400 IN A 160.6.24.39
+i400.ap 86400 IN MX 40 mail.cp
+i400.ap 86400 IN A 160.6.202.182
+phone178.admin 86400 IN A 160.6.129.178
+auth.cp 10 IN A 160.6.1.28
+10 IN A 160.6.1.29
+rain.laptops.ap 86400 IN A 160.6.213.26
+irdsn 86400 IN CNAME wext
+leda10.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fe50:2fde
+leda10.cp 86400 IN MX 40 mail.cp
+leda10.cp 86400 IN A 160.6.32.10
+lwr400i1.celt 86400 IN A 160.6.235.186
+i400.cp 86400 IN A 160.6.1.145
+phone240.voip.cp 86400 IN A 160.6.30.43
+it-137.laptops.ap 86400 IN A 160.6.213.137
+kvm6.stp 86400 IN MX 30 mail.stp
+kvm6.stp 86400 IN A 160.6.135.106
+tcosterm122.stp 86400 IN A 160.6.137.122
+dell1.dunsink 86400 IN A 160.6.5.220
+scaife.voip.ap 86400 IN A 160.6.215.17
+phone152.admin 86400 IN A 160.6.129.152
+houseap3.dunsink 86400 IN A 160.6.5.237
+vrath.wireless.cp 86400 IN A 160.6.24.114
+tcosterm33.stp 86400 IN A 160.6.137.33
+lehmann.cp 86400 IN AAAA 2001:770:60:1:d685:64ff:fecd:ed06
+lehmann.cp 86400 IN MX 40 mail.cp
+lehmann.cp 86400 IN A 160.6.1.5
+drury2.wireless.ap 86400 IN A 160.6.206.35
+tcosterm172.stp 86400 IN A 160.6.137.172
+cluster-blade6.dunsink 86400 IN A 160.6.5.56
+phone320.voip.ap 86400 IN A 160.6.215.36
+ogma.cp 86400 IN AAAA 2001:770:60:18:5652:ff:fe0a:1edb
+ogma.cp 86400 IN A 160.6.33.4
+drury2.wireless.cp 86400 IN A 160.6.24.35
+phone125.admin 86400 IN A 160.6.129.125
+openthinclient-ronan.admin 86400 IN MX 30 mail.admin
+openthinclient-ronan.admin 86400 IN A 160.6.10.101
+dev.ogham.celt 86400 IN CNAME wext
+aharon.laptops.ap 86400 IN A 160.6.213.62
+hebe.cp 86400 IN MX 40 mail.cp
+hebe.cp 86400 IN A 160.6.1.13
+tc175.celt 86400 IN A 160.6.9.175
+dhcp6.guests.ap 86400 IN A 160.6.219.6
+nov12b.laptops.cp 86400 IN A 160.6.26.82
+aharon.laptops.cp 86400 IN A 160.6.26.62
+astronomytrail 86400 IN CNAME wext.dias.ie
+mer-st-basmt1-switch0.cp 86400 IN A 160.6.1.231
+eire.cp 86400 IN CNAME wint
+destokes-129.stp 86400 IN AAAA 2001:770:60:81::1
+destokes-129.stp 86400 IN A 160.6.129.254
+ciscoap8.ap 86400 IN A 160.6.202.208
+bnode.ap 86400 IN MX 40 mail.cp
+bnode.ap 86400 IN A 160.6.202.112
+phone231.voip.cp 86400 IN A 160.6.30.53
+bell.voip.ap 86400 IN A 160.6.215.252
+phone75.admin 86400 IN A 160.6.129.75
+nov12c.wireless.cp 86400 IN A 160.6.24.183
+bigstore.ap 86400 IN AAAA 2001:770:60:ca:215:17ff:fefd:1e54
+bigstore.ap 86400 IN MX 40 mail.cp
+bigstore.ap 86400 IN A 160.6.202.167
+rebeca.wireless.ap 86400 IN A 160.6.206.11
+geosection.laptops.cp 86400 IN A 160.6.26.65
+leda12.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9a9a
+leda12.cp 86400 IN MX 40 mail.cp
+leda12.cp 86400 IN A 160.6.32.12
+burl-ap-n.stp 86400 IN A 160.6.130.83
+lassair.cp 86400 IN AAAA 2001:770:60:1:223:aeff:fe8a:ec95
+lassair.cp 86400 IN MX 40 mail.cp
+lassair.cp 86400 IN A 160.6.1.138
+abaddon18.ap 86400 IN MX 40 mail.cp
+abaddon18.ap 86400 IN A 160.6.218.253
+mer-st-basmt1-switch1.cp 86400 IN A 160.6.1.233
+erne.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe27:292a
+erne.ap 86400 IN A 160.6.202.172
+www.sim-crust 86400 IN CNAME wext
+phone311.voip.ap 86400 IN A 160.6.215.21
+jgracia.voip.ap 86400 IN A 160.6.215.22
+dhcp-95.stp 86400 IN A 160.6.8.95
+tcosterm109.stp 86400 IN A 160.6.137.109
+it-152.laptops.ap 86400 IN A 160.6.213.152
+proxy.admin 86400 IN A 160.6.10.253
+pdaly.voip.cp 86400 IN A 160.6.30.21
+ups0.stp 86400 IN A 160.6.135.20
+diasg2.guests.cp 86400 IN A 160.6.34.102
+tcosterm21.stp 86400 IN A 160.6.137.21
+hp4500.cp 86400 IN A 160.6.1.243
+oblivion-197.cp 86400 IN AAAA 2001:770:60:c5::254
+oblivion-197.cp 86400 IN A 160.6.197.254
+hamilton-140.stp 86400 IN AAAA 2001:770:60:8c:240:63ff:fec0:5aba
+hamilton-140.stp 86400 IN A 160.6.140.223
+tcosterm159.stp 86400 IN A 160.6.137.159
+alex04.laptops.cp 86400 IN A 160.6.26.22
+twiga.cp 86400 IN AAAA 2001:770:60:1:225:64ff:feb8:5cd4
+twiga.cp 86400 IN A 160.6.1.133
+compute-12.dunsink 86400 IN A 160.6.5.112
+leda13.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea2:9479
+leda13.cp 86400 IN MX 40 mail.cp
+leda13.cp 86400 IN A 160.6.32.13
+phone247.admin 86400 IN A 160.6.129.247
+phone222.voip.cp 86400 IN A 160.6.30.25
+wext 86400 IN AAAA 2001:770:60:22:5054:ff:fef1:cafa
+wext 86400 IN A 160.6.22.1
+leda-gate.cp 86400 IN CNAME leda.cp
+tcosterm71.stp 86400 IN A 160.6.137.71
+janh.vpn 86400 IN A 160.6.168.42
+dbourke.vpn 86400 IN A 160.6.168.13
+phone221.admin 86400 IN A 160.6.129.221
+sadhbh.ap 86400 IN A 160.6.202.174
+duygu.vpn 86400 IN A 160.6.168.35
+algol.ap 86400 IN AAAA 2001:770:60:ca:5ab0:35ff:fea3:8a4e
+algol.ap 86400 IN MX 40 mail.cp
+algol.ap 86400 IN A 160.6.202.13
+compute-19.dunsink 86400 IN A 160.6.5.119
+dyson.stp 86400 IN AAAA 2001:770:60:8::15
+dyson.stp 86400 IN MX 30 mail.stp
+dyson.stp 86400 IN A 160.6.8.15
+leda14.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9aa5
+leda14.cp 86400 IN MX 40 mail.cp
+leda14.cp 86400 IN A 160.6.32.14
+phone184.admin 86400 IN A 160.6.129.184
+scox.ap 86400 IN MX 40 mail.cp
+scox.ap 86400 IN A 160.6.202.142
+cctvcam.ap 86400 IN AAAA 2001:770:60:ca:240:8cff:fe8d:9fde
+cctvcam.ap 86400 IN A 160.6.202.243
+registrar-laptop.admin 86400 IN A 160.6.130.57
+phone230.admin 86400 IN A 160.6.129.230
+tesla.stp 86400 IN A 160.6.8.51
+www.incident.cp 86400 IN A 160.6.202.236
+dhcp.voip.ap 86400 IN A 160.6.215.199
+dhcp-100.stp 86400 IN A 160.6.8.100
+phone329.voip.ap 86400 IN A 160.6.215.12
+koha-cp-admin 86400 IN A 160.6.133.43
+lery.laptops.cp 86400 IN A 160.6.26.13
+dhcp-83.stp 86400 IN A 160.6.8.83
+phone157.admin 86400 IN A 160.6.129.157
+phone213.voip.cp 86400 IN A 160.6.30.51
+nvannes.wireless.cp 86400 IN A 160.6.24.112
+rayclie.laptops.cp 86400 IN A 160.6.26.14
+tcosterm150.stp 86400 IN A 160.6.137.150
+malcom.wireless.ap 86400 IN A 160.6.206.76
+compute-27.dunsink 86400 IN A 160.6.5.127
+proxy.ap 86400 IN CNAME nemesis.ap
+tcosterm147.stp 86400 IN A 160.6.137.147
+ray.wireless.cp 86400 IN A 160.6.24.11
+leda15.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9aab
+leda15.cp 86400 IN MX 40 mail.cp
+leda15.cp 86400 IN A 160.6.32.15
+phone131.admin 86400 IN A 160.6.129.131
+compute-5.dunsink 86400 IN A 160.6.5.105
+tcosterm112.stp 86400 IN A 160.6.137.112
+burl-ap-c.stp 86400 IN A 160.6.130.72
+mh.voip.ap 86400 IN A 160.6.215.25
+proxy.cp 86400 IN CNAME pegasus.cp
+tcosterm58.stp 86400 IN A 160.6.137.58
+alicciardi.vpn 86400 IN A 160.6.168.49
+arthur.stp 86400 IN A 160.6.130.243
+oblivion-30.cp 86400 IN AAAA ::1
+oblivion-30.cp 86400 IN A 160.6.30.254
+tcosterm197.stp 86400 IN A 160.6.137.197
+phone104.admin 86400 IN A 160.6.129.104
+localisos.celt 86400 IN A 160.6.9.16
+hp3525.ap 86400 IN AAAA 2001:770:60:ca:223:7dff:fe7b:cd
+hp3525.ap 86400 IN MX 40 mail.cp
+hp3525.ap 86400 IN A 160.6.202.140
+dns.stp 86400 IN AAAA 2001:770:60:85::13
+dns.stp 86400 IN MX 30 mail.stp
+dns.stp 86400 IN A 160.6.133.13
+phone81.admin 86400 IN A 160.6.129.81
+2ndfloor-color.cp 86400 IN CNAME hp4500.cp
+hp5500.ap 86400 IN A 160.6.202.244
+yamasaki.laptops.cp 86400 IN A 160.6.26.52
+romolic.vpn 86400 IN A 160.6.168.51
+compute-28.stp 86400 IN CNAME compute-28.dunsink
+celtps3.celt 86400 IN A 160.6.9.9
+leda16.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9a86
+leda16.cp 86400 IN MX 40 mail.cp
+leda16.cp 86400 IN A 160.6.32.16
+hp5500.cp 86400 IN A 160.6.1.244
+mainttest 86400 IN A 160.6.33.26
+latiaran.cp 86400 IN AAAA 2001:770:60:1:223:aeff:fe89:3551
+latiaran.cp 86400 IN MX 40 mail.cp
+latiaran.cp 86400 IN A 160.6.1.137
+phone353.voip.ap 86400 IN A 160.6.215.15
+cluster-blade1.dunsink 86400 IN A 160.6.5.51
+cctv-recept.admin 86400 IN A 160.6.134.101
+cluster-blade2.dunsink 86400 IN A 160.6.5.52
+js.vpn 86400 IN A 160.6.168.12
+puppet.stp 86400 IN CNAME puppet.ap
+grange.laptops.ap 86400 IN A 160.6.213.8
+www.books 86400 IN CNAME books
+phone207.admin 86400 IN A 160.6.129.207
+wwwlocal.cp 86400 IN CNAME webspace.ap
+brea2.ap 86400 IN A 160.6.202.50
+dhcp-106.stp 86400 IN A 160.6.8.106
+sysadmin.stp 86400 IN AAAA 2001:770:60:8::150
+sysadmin.stp 86400 IN MX 30 mail.stp
+sysadmin.stp 86400 IN A 160.6.8.150
+milne.cp 86400 IN AAAA 2001:770:60:1:d6be:d9ff:fe98:597e
+milne.cp 86400 IN A 160.6.1.229
+monitor.ap 86400 IN AAAA 2001:770:60:da:214:5eff:fe0b:9804
+monitor.ap 86400 IN MX 40 mail.cp
+monitor.ap 86400 IN A 160.6.218.4
+tc169.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48ed
+tc169.celt 86400 IN A 160.6.9.169
+gult.wireless.cp 86400 IN A 160.6.24.108
+tcosterm23.stp 86400 IN A 160.6.137.23
+ciscoap6-218.ap 86400 IN A 160.6.218.206
+tcosterm135.stp 86400 IN A 160.6.137.135
+monitor.cp 86400 IN AAAA 2001:770:60:18:214:5eff:fe0a:575
+monitor.cp 86400 IN A 160.6.33.11
+mail.admin 86400 IN A 160.6.10.17
+phone253.admin 86400 IN A 160.6.129.253
+polycom.dunsink 86400 IN A 160.6.5.14
+phone193.admin 86400 IN A 160.6.129.193
+lim.wireless.cp 86400 IN A 160.6.24.38
+berial.ap 86400 IN MX 40 mail.cp
+berial.ap 86400 IN A 160.6.202.3
+cluster-blade3.stp 86400 IN A 160.6.5.53
+tcosterm46.stp 86400 IN A 160.6.137.46
+jmorin.vpn 86400 IN A 160.6.168.38
+tcosterm185.stp 86400 IN A 160.6.137.185
+compute-20.dunsink 86400 IN A 160.6.5.120
+phone226.admin 86400 IN A 160.6.129.226
+eidheann.celt 86400 IN A 160.6.9.53
+tcosterm162.stp 86400 IN A 160.6.137.162
+tcosterm40.stp 86400 IN A 160.6.137.40
+burl-ap-a.stp 86400 IN A 160.6.130.70
+compute-16.stp 86400 IN CNAME compute-16.dunsink
+tr.vpntcp 86400 IN A 160.6.169.5
+phone190.admin 86400 IN A 160.6.129.190
+compute-7.stp 86400 IN CNAME compute-7.dunsink
+it-139.laptops.ap 86400 IN A 160.6.213.139
+oblivion-1.cp 86400 IN AAAA 2001:770:60:1::1
+oblivion-1.cp 86400 IN A 160.6.1.254
+phone265.voip.cp 86400 IN A 160.6.30.39
+weidelt.cp 86400 IN A 160.6.1.147
+phone163.admin 86400 IN A 160.6.129.163
+phone180.admin 86400 IN A 160.6.129.180
+mer-st-basmt2-switch0.cp 86400 IN A 160.6.1.232
+share 86400 IN A 160.6.133.37
+pop.stp 86400 IN CNAME synge.stp
+diasg3.guests.ap 86400 IN A 160.6.219.103
+uma-switch.cp 86400 IN MX 40 mail.cp
+uma-switch.cp 86400 IN A 160.6.19.253
+allmanj.vpntcp 86400 IN A 160.6.169.6
+phone136.admin 86400 IN A 160.6.129.136
+diasg3.guests.cp 86400 IN A 160.6.34.103
+unknown-printer.cp 86400 IN A 160.6.1.128
+tcosterm123.stp 86400 IN A 160.6.137.123
+phone79.admin 86400 IN A 160.6.129.79
+xps14.laptops.ap 86400 IN AAAA 2001:770:60:d5:20d:60ff:fe80:147c
+xps14.laptops.ap 86400 IN A 160.6.213.18
+leviathan.ap 86400 IN AAAA 2001:770:60:da:5652:ff:fe32:65c0
+leviathan.ap 86400 IN MX 40 mail.cp
+leviathan.ap 86400 IN A 160.6.218.2
+nov12d.laptops.cp 86400 IN A 160.6.26.84
+downes.laptops.ap 86400 IN A 160.6.213.20
+mysql.celt 86400 IN AAAA 2001:770:60:9:216:3eff:fe06:966
+mysql.celt 86400 IN A 160.6.9.102
+tcosterm34.stp 86400 IN A 160.6.137.34
+phone110.admin 86400 IN A 160.6.129.110
+dias-wireless.cp 86400 IN A 160.6.29.253
+ups3.ap 86400 IN CNAME bfu9013.ap
+tcosterm173.stp 86400 IN A 160.6.137.173
+nemed.ap 86400 IN CNAME nemed.celt
+compute-23.stp 86400 IN CNAME compute-23.dunsink
+phone86.admin 86400 IN A 160.6.129.86
+tcosterm160.stp 86400 IN A 160.6.137.160
+tcosterm84.stp 86400 IN A 160.6.137.84
+vcompute-1.dunsink 86400 IN A 160.6.5.133
+stream.cp 86400 IN AAAA 2001:770:60:1:20d:60ff:fe9a:2a10
+stream.cp 86400 IN MX 40 mail.cp
+stream.cp 86400 IN A 160.6.1.82
+mackey.wireless.ap 86400 IN A 160.6.206.51
+farrell1.wireless.cp 86400 IN A 160.6.24.40
+ashaw.voip.ap 86400 IN A 160.6.215.5
+dias7.wireless.cp 86400 IN A 160.6.24.107
+nahm-laptop.stp 86400 IN A 160.6.130.131
+mackey.wireless.cp 86400 IN A 160.6.24.51
+epln7000.ap 86400 IN A 160.6.202.72
+destokes-131.stp 86400 IN AAAA 2001:770:60:83::1
+destokes-131.stp 86400 IN A 160.6.131.254
+trom.celt 86400 IN A 160.6.9.42
+decolle.laptops.cp 86400 IN A 160.6.26.29
+it-154.laptops.ap 86400 IN A 160.6.213.154
+epln7000.cp 86400 IN A 160.6.1.72
+dhcp2.guests.ap 86400 IN A 160.6.219.2
+tcosterm90.stp 86400 IN A 160.6.137.90
+phone336.voip.ap 86400 IN A 160.6.215.23
+auva.ap 86400 IN AAAA 2001:770:60:ca:fab1:56ff:fe9c:7724
+auva.ap 86400 IN MX 40 mail.cp
+auva.ap 86400 IN A 160.6.202.59
+destokes-130.stp 86400 IN AAAA 2001:770:60:82::1
+destokes-130.stp 86400 IN A 160.6.130.254
+dhcp2.guests.cp 86400 IN A 160.6.34.2
+vpn-gforkin.admin 86400 IN A 160.6.132.153
+vpn-gforkin.admin 86400 IN MX 30 mail.stp
+ns.geo 86400 IN AAAA 2001:770:60:18:210:18ff:fe14:6a2d
+ns.geo 86400 IN A 160.6.33.3
+walsh.laptops.cp 86400 IN A 160.6.26.16
+localhost.support 86400 IN A 127.0.0.1
+home.stp 86400 IN CNAME oraifeartaigh.stp
+hut2.voip.ap 86400 IN A 160.6.215.12
+ntp-10.stp 86400 IN CNAME destokes-10.stp
+dhcp67.dunsink 86400 IN A 160.6.5.67
+dhcp.voip.cp 86400 IN A 160.6.30.200
+mantle.wireless.cp 86400 IN A 160.6.24.19
+anatta2.wireless.ap 86400 IN A 160.6.206.82
+wegener.cp 86400 IN AAAA 2001:770:60:1:baca:3aff:fe63:16b4
+wegener.cp 86400 IN MX 40 mail.cp
+wegener.cp 86400 IN A 160.6.1.65
+dhcp-96.stp 86400 IN A 160.6.8.96
+tcosterm111.stp 86400 IN A 160.6.137.111
+mtfield2.laptops.cp 86400 IN A 160.6.26.43
+destokes-8.stp 86400 IN AAAA 2001:770:60:8::1
+destokes-8.stp 86400 IN A 160.6.8.254
+phone247.voip.cp 86400 IN A 160.6.30.40
+goibniu-storage.cp 86400 IN A 160.6.39.11
+vpn-helena.admin 86400 IN MX 30 mail.stp
+vpn-helena.admin 86400 IN A 160.6.132.157
+gwallace.wireless.cp 86400 IN A 160.6.24.76
+i400p2.ap 86400 IN A 160.6.202.184
+alesk.voip.ap 86400 IN A 160.6.215.10
+tcosterm22.stp 86400 IN A 160.6.137.22
+phone232.admin 86400 IN A 160.6.129.232
+gridui.cp 86400 IN MX 40 mail.cp
+gridui.cp 86400 IN A 160.6.223.132
+tcosterm161.stp 86400 IN A 160.6.137.161
+agv.vpn 86400 IN A 160.6.168.10
+dhcp-99.stp 86400 IN A 160.6.8.99
+coffey.laptops.ap 86400 IN A 160.6.213.22
+jef-laptop.stp 86400 IN A 160.6.130.130
+prammos.vpn 86400 IN A 160.6.168.19
+burl-ap-o.stp 86400 IN A 160.6.130.84
+dhcp244.celt 86400 IN A 160.6.9.244
+cabiri.cp 86400 IN AAAA 2001:770:60:1:221:9bff:fe55:65f1
+cabiri.cp 86400 IN MX 40 mail.cp
+cabiri.cp 86400 IN A 160.6.1.175
+dhcp75.dunsink 86400 IN A 160.6.5.75
+tcosterm72.stp 86400 IN A 160.6.137.72
+nov12g.laptops.cp 86400 IN A 160.6.26.87
+mail.dunsink 86400 IN A 160.6.33.4
+kelvin.stp 86400 IN MX 30 mail.stp
+kelvin.stp 86400 IN A 160.6.134.2
+phone205.admin 86400 IN A 160.6.129.205
+tc150.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48ec
+tc150.celt 86400 IN A 160.6.9.150
+kvm6-management.stp 86400 IN A 160.6.135.116
+tcosterm62.stp 86400 IN A 160.6.137.62
+oblivion-5.cp 86400 IN AAAA 2001:770:60:5::1
+oblivion-5.cp 86400 IN A 160.6.5.254
+dhcp249.celt 86400 IN A 160.6.9.249
+anatta.wireless.ap 86400 IN A 160.6.206.77
+openthinclient-finance-guest.admin 86400 IN MX 30 mail.admin
+openthinclient-finance-guest.admin 86400 IN A 160.6.10.106
+coffey.wireless.ap 86400 IN A 160.6.206.83
+tc156.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:489f
+tc156.celt 86400 IN A 160.6.9.156
+dias4.wireless.cp 86400 IN A 160.6.24.104
+tc155.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48b8
+tc155.celt 86400 IN A 160.6.9.155
+iqft.stp 86400 IN CNAME web.stp
+phone238.voip.cp 86400 IN A 160.6.30.250
+tcosterm08.stp 86400 IN A 160.6.137.8
+xentest.ap 86400 IN A 160.6.202.250
+dhcp.stp 86400 IN CNAME hamilton.stp
+compute-8.stp 86400 IN CNAME compute-8.dunsink
+dhcp83.dunsink 86400 IN A 160.6.5.83
+wexi.cp 86400 IN A 160.6.1.14
+vpn-mburke.admin 86400 IN MX 30 mail.stp
+vpn-mburke.admin 86400 IN A 160.6.132.154
+it-134.laptops.ap 86400 IN A 160.6.213.134
+tc161.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:489d
+tc161.celt 86400 IN A 160.6.9.161
+dkhoza.wireless.cp 86400 IN A 160.6.24.78
+kvm1.cp 86400 IN MX 40 mail.cp
+kvm1.cp 86400 IN A 160.6.33.140
+fai-client1.ap 86400 IN A 160.6.202.170
+vpn-gw.cp 86400 IN A 160.6.23.254
+lugh.cp 86400 IN AAAA 2001:770:60:1:5054:ff:fecd:cce0
+lugh.cp 86400 IN MX 40 mail.cp
+lugh.cp 86400 IN A 160.6.1.21
+vlan17-pw-heanet.ext.dias.ie 86400 IN CNAME te0-5-0-1-17-cr2-pw.hea.net.
+dhcp-84.stp 86400 IN A 160.6.8.84
+apollo.cp 86400 IN AAAA 2001:770:60:1:216:36ff:fe2c:3f77
+apollo.cp 86400 IN MX 40 mail.cp
+apollo.cp 86400 IN A 160.6.1.107
+reservations.ap 86400 IN AAAA 2001:770:60:ca:5652:ff:fe25:5f34
+reservations.ap 86400 IN MX 40 mail.cp
+reservations.ap 86400 IN A 160.6.202.107
+wireless.ap 86400 IN A 160.6.206.1
+tc166.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48af
+tc166.celt 86400 IN A 160.6.9.166
+phone318.voip.ap 86400 IN A 160.6.215.24
+cctv.ap 86400 IN AAAA 2001:770:60:ca:216:3eff:fe41:ef1c
+cctv.ap 86400 IN MX 40 mail.cp
+cctv.ap 86400 IN A 160.6.202.242
+phone115.admin 86400 IN A 160.6.129.115
+wireless.cp 86400 IN A 160.6.24.1
+darkangel.ap 86400 IN AAAA 2001:770:60:ca:225:64ff:fe91:29dc
+darkangel.ap 86400 IN MX 40 mail.cp
+darkangel.ap 86400 IN A 160.6.202.16
+twoeyes.cp 86400 IN A 160.6.31.252
+cctv.cp 86400 IN AAAA 2001:770:60:1:214:5eff:fe80:8ad0
+cctv.cp 86400 IN MX 40 mail.cp
+cctv.cp 86400 IN A 160.6.1.89
+tcosterm148.stp 86400 IN A 160.6.137.148
+phone92.admin 86400 IN A 160.6.129.92
+cluster-blade10.stp 86400 IN A 160.6.5.60
+seiscomp.cp 86400 IN MX 40 mail.cp
+seiscomp.cp 86400 IN A 160.6.40.14
+tc172.celt 86400 IN A 160.6.9.172
+burl-ap-d.stp 86400 IN A 160.6.130.73
+gmurphy.vpn 86400 IN A 160.6.168.6
+mallet.cp 86400 IN AAAA 2001:770:60:1:baac:6fff:fe7d:58d7
+mallet.cp 86400 IN MX 40 mail.cp
+mallet.cp 86400 IN A 160.6.1.187
+localhost.incident.cp 86400 IN A 127.0.0.1
+tcosterm59.stp 86400 IN A 160.6.137.59
+anode.ap 86400 IN AAAA 2001:770:60:ca:28c:faff:fe0a:595c
+anode.ap 86400 IN MX 40 mail.cp
+anode.ap 86400 IN A 160.6.202.111
+cups.celt 86400 IN A 160.6.9.10
+phone229.voip.cp 86400 IN A 160.6.30.12
+tcosterm198.stp 86400 IN A 160.6.137.198
+phone65.admin 86400 IN A 160.6.129.65
+dhcp-110.stp 86400 IN A 160.6.8.110
+localhost.stp 86400 IN A 127.0.0.1
+tcosterm164.stp 86400 IN A 160.6.137.164
+openthinclient-ebarrett.admin 86400 IN A 160.6.10.110
+houseap2.dunsink 86400 IN A 160.6.5.238
+kvm3.stp 86400 IN MX 30 mail.stp
+kvm3.stp 86400 IN A 160.6.135.103
+compute-29.stp 86400 IN CNAME compute-29.dunsink
+masha.laptops.ap 86400 IN A 160.6.213.3
+preadman.voip.ap 86400 IN A 160.6.215.31
+burgo.wireless.cp 86400 IN A 160.6.24.31
+cluster-blade5.dunsink 86400 IN A 160.6.5.55
+phone260.voip.cp 86400 IN A 160.6.30.16
+dunsinkobservatory 86400 IN CNAME web
+phone310.voip.ap 86400 IN A 160.6.215.20
+matthew.wireless.cp 86400 IN A 160.6.24.83
+phone299.voip.cp 86400 IN A 160.6.30.253
+gmurphy.wireless.cp 86400 IN A 160.6.24.33
+jmackey.vpn 86400 IN A 160.6.168.29
+library-station.stp 86400 IN AAAA 2001:770:60:82:2e0:c5ff:fe42:cf37
+library-station.stp 86400 IN A 160.6.130.61
+cluster-sensor.cp 86400 IN A 160.6.32.200
+chabert.laptops.cp 86400 IN A 160.6.26.53
+aharon.wireless.ap 86400 IN A 160.6.206.62
+hermes-201.ap 86400 IN AAAA 2001:770:60:c9::253
+hermes-201.ap 86400 IN A 160.6.201.253
+phone208.voip.cp 86400 IN A 160.6.30.47
+nov12b.wireless.cp 86400 IN A 160.6.24.182
+aharon.wireless.cp 86400 IN A 160.6.24.62
+rcurran.laptops.cp 86400 IN A 160.6.26.40
+ntp-129.stp 86400 IN CNAME destokes-129.stp
+phone237.admin 86400 IN A 160.6.129.237
+p338f0so2sw7.voip.ap 86400 IN A 160.6.215.38
+madar.celt 86400 IN A 160.6.9.58
+stats 86400 IN CNAME wint
+hostmaster.stp 86400 IN AAAA 2001:770:60:85::13
+hostmaster.stp 86400 IN MX 30 mail.stp
+hostmaster.stp 86400 IN A 160.6.133.13
+tcosterm136.stp 86400 IN A 160.6.137.136
+kvmcab.stp 86400 IN MX 30 mail.stp
+kvmcab.stp 86400 IN A 160.6.135.3
+vozar.vpn 86400 IN A 160.6.168.41
+sb.wireless.cp 86400 IN A 160.6.24.21
+gracia.wireless.cp 86400 IN A 160.6.24.52
+cctv-room302.stp 86400 IN CNAME cctv-room302.admin
+phone211.admin 86400 IN A 160.6.129.211
+cluster-blade4.stp 86400 IN A 160.6.5.54
+tcosterm47.stp 86400 IN A 160.6.137.47
+it-142.laptops.ap 86400 IN A 160.6.213.142
+nakisa.wireless.ap 86400 IN A 160.6.206.70
+morin.laptops.ap 86400 IN A 160.6.213.21
+valenti.laptops.ap 86400 IN A 160.6.213.66
+tcosterm186.stp 86400 IN A 160.6.137.186
+tcosterm75.stp 86400 IN A 160.6.137.75
+reception.ap 86400 IN MX 40 mail.cp
+reception.ap 86400 IN A 160.6.202.106
+hermes-202.ap 86400 IN AAAA 2001:770:60:ca::1
+hermes-202.ap 86400 IN A 160.6.202.254
+masha2.laptops.ap 86400 IN A 160.6.213.70
+basal.celt 86400 IN A 160.6.9.63
+monasticon.celt 86400 IN CNAME wext
+it-129.laptops.ap 86400 IN A 160.6.213.129
+phone174.admin 86400 IN A 160.6.129.174
+tcosterm97.stp 86400 IN A 160.6.137.97
+lwmail.cp 86400 IN AAAA 2001:770:60:18:5652:ff:fe6a:ab24
+lwmail.cp 86400 IN A 160.6.33.40
+miscweb.celt 86400 IN AAAA 2001:770:60:85::92
+miscweb.celt 86400 IN A 160.6.133.92
+hr-printer.admin 86400 IN A 160.6.10.67
+marion.laptops.cp 86400 IN A 160.6.26.47
+compute-13.dunsink 86400 IN A 160.6.5.113
+compute-17.stp 86400 IN CNAME compute-17.dunsink
+smtp.admin 86400 IN CNAME mail.admin
+compute-11.dunsink 86400 IN A 160.6.5.111
+library-access.stp 86400 IN AAAA 2001:770:60:85::28
+library-access.stp 86400 IN MX 30 mail.stp
+library-access.stp 86400 IN A 160.6.133.28
+sip.voip.ap 86400 IN CNAME bell.voip.ap
+phone147.admin 86400 IN A 160.6.129.147
+phone212.voip.cp 86400 IN A 160.6.30.1
+nov12f.laptops.cp 86400 IN A 160.6.26.86
+mloewer.wireless.cp 86400 IN A 160.6.24.110
+imap 86400 IN A 160.6.133.44
+phone90.admin 86400 IN A 160.6.129.90
+archive-station.admin 86400 IN AAAA 2001:770:60:82:221:70ff:fed2:87c0
+archive-station.admin 86400 IN A 160.6.130.62
+angel.stp 86400 IN AAAA 2001:770:60:8:5054:ff:feb7:cc1a
+angel.stp 86400 IN MX 30 mail.stp
+angel.stp 86400 IN A 160.6.8.17
+ntp-5.cp 86400 IN A 160.6.5.199
+homepages 86400 IN CNAME wext
+duffy.laptops.cp 86400 IN A 160.6.26.48
+trioscar.celt 86400 IN A 160.6.9.41
+alan.laptops.cp 86400 IN A 160.6.26.20
+scaife.laptops.ap 86400 IN A 160.6.213.71
+dynamics.admin 86400 IN A 160.6.10.20
+dhcp-104.stp 86400 IN A 160.6.8.104
+phone97.admin 86400 IN A 160.6.129.97
+nemesis.ap 86400 IN AAAA 2001:770:60:ca:5054:ff:fe28:202b
+nemesis.ap 86400 IN MX 40 mail.cp
+nemesis.ap 86400 IN A 160.6.202.47
+compute-18.dunsink 86400 IN A 160.6.5.118
+vpn-sysadmin.stp 86400 IN CNAME vpn-jfbucas.stp
+jschmoldt.wireless.cp 86400 IN A 160.6.24.58
+nemesis.cp 86400 IN MX 40 mail.cp
+nemesis.cp 86400 IN A 160.6.202.47
+gaia.cp 86400 IN AAAA 2001:770:60:1:221:9bff:fe30:fc3f
+gaia.cp 86400 IN MX 40 mail.cp
+gaia.cp 86400 IN A 160.6.1.83
+payments 86400 IN AAAA 2001:770:60:22::7
+payments 86400 IN MX 40 ogma.cp
+payments 86400 IN A 160.6.22.7
+www.dunsink 86400 IN CNAME wext
+tcosterm35.stp 86400 IN A 160.6.137.35
+bonadio.laptops.cp 86400 IN A 160.6.26.33
+phone71.admin 86400 IN A 160.6.129.71
+denjoe-laptop.stp 86400 IN CNAME mercury.stp
+it-156.laptops.ap 86400 IN A 160.6.213.156
+tcosterm174.stp 86400 IN A 160.6.137.174
+apcpdu.ap 86400 IN A 160.6.202.198
+lugh.celt 86400 IN AAAA 2001:770:60:9::16
+lugh.celt 86400 IN A 160.6.9.16
+cerridwen.cp 86400 IN AAAA 2001:770:60:1:5652:ff:fe16:5f30
+cerridwen.cp 86400 IN A 160.6.1.28
+i400p1.ap 86400 IN A 160.6.202.183
+credne.cp 86400 IN AAAA 2001:770:60:1:222:19ff:fe35:5fea
+credne.cp 86400 IN MX 40 mail.cp
+credne.cp 86400 IN A 160.6.1.192
+tcosterm85.stp 86400 IN A 160.6.137.85
+kvm7-management.stp 86400 IN MX 30 mail.stp
+kvm7-management.stp 86400 IN A 160.6.135.117
+i400p1.cp 86400 IN A 160.6.1.146
+phone362.voip.ap 86400 IN A 160.6.215.15
+compute-26.dunsink 86400 IN A 160.6.5.126
+it-157.laptops.ap 86400 IN A 160.6.213.157
+dg.vpn 86400 IN A 160.6.168.48
+aavdeeva.vpn 86400 IN A 160.6.168.11
+compute-4.dunsink 86400 IN A 160.6.5.104
+dhcp9.guests.ap 86400 IN A 160.6.219.9
+cluster-storage.dunsink 86400 IN AAAA 2001:770:60:5:5054:ff:fec5:b2ab
+cluster-storage.dunsink 86400 IN A 160.6.5.97
+isis.cp 86400 IN A 160.6.23.1
+mtfield4.laptops.cp 86400 IN A 160.6.26.78
+vcu-mburke.admin 86400 IN MX 30 mail.stp
+vcu-mburke.admin 86400 IN A 160.6.129.201
+dhcp9.guests.cp 86400 IN A 160.6.34.9
+feoras.celt 86400 IN AAAA 2001:770:60:9:223:aeff:fe58:f2ec
+feoras.celt 86400 IN A 160.6.9.44
+localhost.cp 86400 IN A6 \# 17 00000000000000000000000000000000 01
+localhost.cp 86400 IN AAAA ::1
+localhost.cp 86400 IN MX 100 localhost.cp
+localhost.cp 86400 IN A 127.0.0.1
+halten.cp 86400 IN AAAA 2001:770:60:1:230:5ff:fe5c:6e45
+halten.cp 86400 IN A 160.6.1.81
+ciscoap5-218.ap 86400 IN A 160.6.218.205
+phone243.admin 86400 IN A 160.6.129.243
+steph.cp 86400 IN A 160.6.27.3
+mtfield2.wireless.cp 86400 IN A 160.6.24.45
+i400p2.cp 86400 IN A 160.6.39.20
+fallon.voip.ap 86400 IN A 160.6.215.13
+wormhole.stp 86400 IN MX 30 mail.stp
+wormhole.stp 86400 IN A 160.6.131.1
+delaney.voip.ap 86400 IN A 160.6.215.19
+moloneca.vpn 86400 IN A 160.6.168.23
+camera.dunsink 86400 IN MX 40 mail.dunsink
+camera.dunsink 86400 IN A 160.6.5.200
+mail.celt 86400 IN AAAA 2001:770:60:9:5652:ff:fe21:e237
+mail.celt 86400 IN A 160.6.9.109
+drury3.laptops.ap 86400 IN A 160.6.213.29
+sos.wireless.cp 86400 IN A 160.6.24.77
+eflood.voip.ap 86400 IN A 160.6.215.16
+dhcp-97.stp 86400 IN A 160.6.8.97
+cluster-blade10.dunsink 86400 IN A 160.6.5.60
+ag02.cp 86400 IN A 160.6.25.2
+destokes-9.stp 86400 IN AAAA 2001:770:60:9::1
+destokes-9.stp 86400 IN A 160.6.9.254
+osullivan.laptops.ap 86400 IN A 160.6.213.23
+tcosterm180.stp 86400 IN A 160.6.137.180
+phone216.admin 86400 IN A 160.6.129.216
+ericmacbook.wireless.cp 86400 IN A 160.6.24.68
+hamilton-130.stp 86400 IN AAAA 2001:770:60:82:240:63ff:fec0:5aba
+hamilton-130.stp 86400 IN A 160.6.130.223
+seismowstation.cp 86400 IN AAAA 2001:770:60:1:214:4fff:fec3:390a
+seismowstation.cp 86400 IN MX 40 mail.cp
+seismowstation.cp 86400 IN A 160.6.1.102
+ssh.stp 86400 IN CNAME lewis.stp
+hermeslo.ap 86400 IN AAAA 2001:770:60:c6::1
+hermeslo.ap 86400 IN A 160.6.198.250
+hermes-206.ap 86400 IN AAAA 2001:770:60:ce::1
+hermes-206.ap 86400 IN A 160.6.206.254
+tcosterm149.stp 86400 IN A 160.6.137.149
+tcosterm27.stp 86400 IN A 160.6.137.27
+i400p3.ap 86400 IN A 160.6.202.185
+cctv.admin 86400 IN MX 30 mail.stp
+cctv.admin 86400 IN A 160.6.133.11
+phone179.admin 86400 IN A 160.6.129.179
+burl-ap-p.stp 86400 IN A 160.6.130.85
+i400p3.cp 86400 IN A 160.6.39.21
+dunsinkap6.dunsink 86400 IN A 160.6.5.246
+tcosterm73.stp 86400 IN A 160.6.137.73
+phone210.admin 86400 IN A 160.6.129.210
+ward.wireless.cp 86400 IN A 160.6.24.34
+dcu.dunsink 86400 IN A 160.6.5.222
+sheehan.laptops.cp 86400 IN A 160.6.26.6
+phone264.voip.cp 86400 IN A 160.6.30.26
+laptops-gw.laptops.ap 86400 IN A 160.6.213.254
+phone153.admin 86400 IN A 160.6.129.153
+desplat.wireless.cp 86400 IN A 160.6.24.27
+destokes-120.stp 86400 IN AAAA 2001:770:60:78::1
+destokes-120.stp 86400 IN A 160.6.120.254
+resolver-dns.dunsink 86400 IN A 160.6.5.252
+puppet.ap 86400 IN AAAA 2001:770:60:ca:216:3eff:fe17:45ad
+puppet.ap 86400 IN A 160.6.202.93
+ups5.ap 86400 IN CNAME bfu9015.ap
+puppet.cp 86400 IN A 160.6.202.93
+seanosph.wireless.cp 86400 IN A 160.6.24.71
+ltsp.celt 86400 IN AAAA 2001:770:60:9::118
+ltsp.celt 86400 IN A 160.6.9.118
+phone126.admin 86400 IN A 160.6.129.126
+rebeca.laptops.ap 86400 IN A 160.6.213.11
+lib.celt 86400 IN CNAME library-access.stp
+compute-9.stp 86400 IN CNAME compute-9.dunsink
+phone344.voip.ap 86400 IN A 160.6.215.29
+spi1.cp 86400 IN MX 40 mail.cp
+spi1.cp 86400 IN A 160.6.1.151
+geosection.wireless.cp 86400 IN A 160.6.24.73
+mantle.laptops.cp 86400 IN A 160.6.26.19
+hp3505dn3.ap 86400 IN MX 40 mail.cp
+hp3505dn3.ap 86400 IN A 160.6.202.163
+ltsp.admin 86400 IN MX 30 mail.admin
+ltsp.admin 86400 IN A 160.6.10.251
+p359f1so31sw34.voip.ap 86400 IN A 160.6.215.34
+pw-heanet.ext.dias.ie 86400 IN CNAME cr2-pw.hea.net.
+it-130.laptops.ap 86400 IN A 160.6.213.130
+house.dunsink 86400 IN A 160.6.5.231
+phone100.admin 86400 IN A 160.6.129.100
+dhcp-85.stp 86400 IN A 160.6.8.85
+avdeev.laptops.cp 86400 IN A 160.6.26.21
+ray.laptops.cp 86400 IN A 160.6.26.11
+dhcp.dunsink 86400 IN A 160.6.5.199
+niscelli.wireless.cp 86400 IN A 160.6.24.5
+dunsinkhouse.dunsink 86400 IN A 160.6.5.19
+resolver-dns.stp 86400 IN AAAA 2001:770:60:85::14
+resolver-dns.stp 86400 IN MX 30 mail.stp
+resolver-dns.stp 86400 IN A 160.6.133.14
+hermes-198.ap 86400 IN AAAA 2001:770:60:c6::1
+hermes-198.ap 86400 IN A 160.6.198.250
+tcosterm17.stp 86400 IN A 160.6.137.17
+autoconfig.celt 86400 IN CNAME wext
+phone76.admin 86400 IN A 160.6.129.76
+pgrange.vpn 86400 IN A 160.6.168.18
+seismostore.cp 86400 IN AAAA 2001:770:60:1:21e:bff:fefd:caae
+seismostore.cp 86400 IN MX 40 mail.cp
+seismostore.cp 86400 IN A 160.6.1.99
+tcosterm11.stp 86400 IN A 160.6.137.11
+dev.homepages 86400 IN CNAME wint
+hamilton-129.stp 86400 IN A 160.6.129.223
+books 86400 IN AAAA 2001:770:60:22::6
+books 86400 IN MX 40 ogma.cp
+books 86400 IN A 160.6.22.6
+amycus.cp 86400 IN AAAA 2001:770:60:1:d6be:d9ff:fe92:6df1
+amycus.cp 86400 IN MX 40 mail.cp
+amycus.cp 86400 IN A 160.6.1.106
+spi2.cp 86400 IN MX 40 mail.cp
+spi2.cp 86400 IN A 160.6.1.153
+burl-ap-e.stp 86400 IN A 160.6.130.74
+pilar.wireless.cp 86400 IN A 160.6.24.66
+phone6221.voip.cp 86400 IN A 160.6.168.7
+whelan.voip.ap 86400 IN A 160.6.215.15
+tcosterm61.stp 86400 IN A 160.6.137.61
+www.isos 86400 IN AAAA 2001:770:60:85::92
+www.isos 86400 IN A 160.6.133.92
+tcosterm199.stp 86400 IN A 160.6.137.199
+phone335.voip.ap 86400 IN A 160.6.215.2
+cluster-blade2.stp 86400 IN A 160.6.5.52
+gridmon.cp 86400 IN MX 40 mail.cp
+gridmon.cp 86400 IN A 160.6.223.131
+hermes-199.ap 86400 IN AAAA 2001:770:60:c7::254
+hermes-199.ap 86400 IN A 160.6.199.254
+ruibh.celt 86400 IN A 160.6.9.57
+compute-31.stp 86400 IN CNAME compute-31.dunsink
+sip-blueface.ext.dias.ie 86400 IN CNAME sip.blueface.ie.
+drury.dunsink 86400 IN A 160.6.5.11
+phone248.admin 86400 IN A 160.6.129.248
+spi3.cp 86400 IN MX 40 mail.cp
+spi3.cp 86400 IN A 160.6.1.154
+kvm5-management.stp 86400 IN A 160.6.135.115
+phone999.voip.cp 86400 IN A 160.6.30.231
+phone246.voip.cp 86400 IN A 160.6.30.4
+ward.laptops.cp 86400 IN A 160.6.26.34
+pilar.laptops.cp 86400 IN A 160.6.26.63
+it-144.laptops.ap 86400 IN A 160.6.213.144
+ns.stp 86400 IN AAAA 2001:770:60:85::13
+ns.stp 86400 IN MX 30 mail.stp
+ns.stp 86400 IN A 160.6.133.13
+phone222.admin 86400 IN A 160.6.129.222
+smyth.dunsink 86400 IN A 160.6.5.12
+dhcp-108.stp 86400 IN A 160.6.8.108
+xavi.vpntcp 86400 IN A 160.6.169.2
+nichelli.laptops.cp 86400 IN A 160.6.26.59
+vcompute-1.stp 86400 IN CNAME vcompute-1.dunsink
+phone326.voip.ap 86400 IN A 160.6.215.13
+phone185.admin 86400 IN A 160.6.129.185
+tcosterm137.stp 86400 IN A 160.6.137.137
+isos 86400 IN AAAA 2001:770:60:85::92
+isos 86400 IN MX 10 smtp.celt
+isos 86400 IN A 160.6.133.92
+moonraker.ap 86400 IN MX 40 mail.cp
+moonraker.ap 86400 IN A 127.0.0.1
+phone6235.voip.cp 86400 IN A 160.6.168.3
+cluster-blade5.stp 86400 IN A 160.6.5.55
+tcosterm48.stp 86400 IN A 160.6.137.48
+dhcp66.dunsink 86400 IN A 160.6.5.66
+seanos.laptops.ap 86400 IN A 160.6.213.61
+tcosterm187.stp 86400 IN A 160.6.137.187
+phone158.admin 86400 IN A 160.6.129.158
+nov12h.laptops.cp 86400 IN A 160.6.26.88
+leda-switch.cp 86400 IN MX 40 mail.cp
+leda-switch.cp 86400 IN A 160.6.32.248
+tcosterm190.stp 86400 IN A 160.6.137.190
+seanos.laptops.cp 86400 IN A 160.6.26.58
+hp3800dn2.ap 86400 IN MX 40 mail.cp
+hp3800dn2.ap 86400 IN A 160.6.202.5
+ldp.ap 86400 IN MX 40 mail.cp
+ldp.ap 86400 IN A 160.6.202.164
+guest.wireless.ap 86400 IN A 160.6.206.78
+caratti2.wireless.ap 86400 IN A 160.6.206.55
+phone132.admin 86400 IN A 160.6.129.132
+compute-18.stp 86400 IN CNAME compute-18.dunsink
+whelan2.laptops.ap 86400 IN A 160.6.213.59
+dhcp74.dunsink 86400 IN A 160.6.5.74
+phone317.voip.ap 86400 IN A 160.6.215.3
+phone105.admin 86400 IN A 160.6.129.105
+feileastram.celt 86400 IN AAAA 2001:770:60:9:213:20ff:fe43:4d82
+feileastram.celt 86400 IN A 160.6.9.85
+hermes-213.ap 86400 IN AAAA 2001:770:60:d5::1
+hermes-213.ap 86400 IN A 160.6.213.254
+dias3.wireless.cp 86400 IN A 160.6.24.103
+nichelli.wireless.cp 86400 IN A 160.6.24.59
+it-158.laptops.ap 86400 IN A 160.6.213.158
+phone82.admin 86400 IN A 160.6.129.82
+balor.stp 86400 IN AAAA 2001:770:60:85::17
+balor.stp 86400 IN MX 30 mail.stp
+balor.stp 86400 IN A 160.6.133.17
+jschmoldt.vpn 86400 IN A 160.6.168.27
+phone228.voip.cp 86400 IN A 160.6.30.30
+tcosterm125.stp 86400 IN A 160.6.137.125
+rg2.wireless.cp 86400 IN A 160.6.24.67
+vcu-brennan.admin 86400 IN MX 30 mail.stp
+vcu-brennan.admin 86400 IN A 160.6.129.200
+dhcp82.dunsink 86400 IN A 160.6.5.82
+moloney.wireless.cp 86400 IN A 160.6.24.20
+tcosterm193.stp 86400 IN A 160.6.137.193
+ag-gw.cp 86400 IN A 160.6.25.254
+tcosterm36.stp 86400 IN A 160.6.137.36
+tcosterm29.stp 86400 IN A 160.6.137.29
+licence 86400 IN A 160.6.1.53
+tcosterm175.stp 86400 IN A 160.6.137.175
+vrath.laptops.cp 86400 IN A 160.6.26.42
+garbhlus2.celt 86400 IN AAAA 2001:770:60:9:213:20ff:fe4a:eda3
+garbhlus2.celt 86400 IN A 160.6.9.82
+eduroam1 86400 IN A 160.6.218.47
+tcosterm86.stp 86400 IN A 160.6.137.86
+monitor.dunsink 86400 IN AAAA 2001:770:60:5:5652:ff:fe73:5d5b
+monitor.dunsink 86400 IN A 160.6.5.248
+alcyone.cp 86400 IN AAAA 2001:770:60:1:225:64ff:feb2:9f46
+alcyone.cp 86400 IN MX 40 mail.cp
+alcyone.cp 86400 IN A 160.6.1.118
+choggmac.laptops.cp 86400 IN A 160.6.26.73
+dair.celt 86400 IN A 160.6.9.51
+oblivion-19.cp 86400 IN AAAA ::1
+oblivion-19.cp 86400 IN A 160.6.19.254
+destokes-133.stp 86400 IN AAAA 2001:770:60:85::1
+destokes-133.stp 86400 IN A 160.6.133.254
+licciardi.wireless.cp 86400 IN A 160.6.24.111
+phone239.admin 86400 IN A 160.6.129.239
+ntp.ap 86400 IN A 160.6.202.199
+86400 IN A 160.6.206.199
+86400 IN A 160.6.213.199
+86400 IN A 160.6.215.199
+86400 IN A 160.6.218.199
+86400 IN A 160.6.219.199
+86400 IN A 160.6.235.199
+ltostore.ap 86400 IN MX 40 mail.cp
+ltostore.ap 86400 IN A 160.6.202.249
+wireless-gw.wireless.ap 86400 IN A 160.6.206.254
+hermes-215.ap 86400 IN AAAA 2001:770:60:d7::1
+hermes-215.ap 86400 IN A 160.6.215.254
+ntp.cp 86400 IN A 160.6.1.46
+86400 IN A 160.6.5.199
+86400 IN A 160.6.24.200
+86400 IN A 160.6.26.200
+86400 IN A 160.6.30.200
+86400 IN A 160.6.33.200
+86400 IN A 160.6.34.200
+86400 IN A 160.6.38.200
+phone227.admin 86400 IN A 160.6.129.227
+phone219.voip.cp 86400 IN A 160.6.30.7
+leda1.cp 86400 IN A 160.6.32.1
+leda1.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9aa8
+leda1.cp 86400 IN MX 40 mail.cp
+dhcp5.guests.ap 86400 IN A 160.6.219.5
+evo.voip.ap 86400 IN A 160.6.215.166
+prelude.cp 86400 IN AAAA 2001:770:60:ca:216:3eff:fe0b:cb90
+prelude.cp 86400 IN MX 40 mail.cp
+prelude.cp 86400 IN A 160.6.202.241
+caratti.wireless.ap 86400 IN A 160.6.206.36
+autoconfig.admin 86400 IN CNAME wext
+flood.wireless.ap 86400 IN A 160.6.206.17
+ntp-206.ap 86400 IN A 160.6.206.199
+dhcp5.guests.cp 86400 IN A 160.6.34.5
+espey.laptops.cp 86400 IN A 160.6.26.18
+houseap1.dunsink 86400 IN A 160.6.5.239
+flood.wireless.cp 86400 IN A 160.6.24.17
+phone191.admin 86400 IN A 160.6.129.191
+kvm3-management.stp 86400 IN A 160.6.135.113
+backstudent.voip.ap 86400 IN A 160.6.215.6
+oblivion-21.cp 86400 IN AAAA ::1
+oblivion-21.cp 86400 IN A 160.6.21.254
+cluster-blade4.dunsink 86400 IN A 160.6.5.54
+dhcp-98.stp 86400 IN A 160.6.8.98
+tcosterm113.stp 86400 IN A 160.6.137.113
+cosmogrid 86400 IN CNAME wext
+melodies.laptops.cp 86400 IN A 160.6.26.49
+ainleog.celt 86400 IN A 160.6.9.67
+ainleog.celt 86400 IN AAAA 2001:770:60:9:226:22ff:feeb:47e0
+4dgraphics.ap 86400 IN AAAA 2001:770:60:db:2e41:38ff:fe9f:dfbd
+4dgraphics.ap 86400 IN MX 40 mail.cp
+4dgraphics.ap 86400 IN A 160.6.219.23
+phone164.admin 86400 IN A 160.6.129.164
+nov12a.wireless.cp 86400 IN A 160.6.24.181
+leda2.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9a99
+leda2.cp 86400 IN MX 40 mail.cp
+leda2.cp 86400 IN A 160.6.32.2
+wpkg.celt 86400 IN A 160.6.9.10
+tcosterm163.stp 86400 IN A 160.6.137.163
+stephane.vpn 86400 IN A 160.6.168.3
+webmail.cp 86400 IN CNAME webmailx
+extreme1.dunsink 86400 IN A 160.6.5.223
+burl-ap-q.stp 86400 IN A 160.6.130.86
+froebrich.laptops.cp 86400 IN A 160.6.26.15
+dhcp.laptops.ap 86400 IN A 160.6.213.199
+phone137.admin 86400 IN A 160.6.129.137
+phone211.voip.cp 86400 IN A 160.6.30.50
+archive.stp 86400 IN AAAA 2001:770:60:85::23
+archive.stp 86400 IN MX 30 mail.stp
+archive.stp 86400 IN A 160.6.133.23
+oblivion-22.cp 86400 IN AAAA 2001:770:60:22::1
+oblivion-22.cp 86400 IN A 160.6.22.254
+tcosterm79.stp 86400 IN A 160.6.137.79
+dhcp.laptops.cp 86400 IN A 160.6.26.200
+it-132.laptops.ap 86400 IN A 160.6.213.132
+bsavoie.stp 86400 IN A 160.6.130.244
+support 86400 IN AAAA 2001:770:60:da:5652:ff:fe7e:19bc
+support 86400 IN MX 40 mail.support
+support 86400 IN A 160.6.218.8
+ichec.cp 86400 IN A 160.6.34.1
+taylora.vpn 86400 IN A 160.6.168.43
+phone6278.voip.cp 86400 IN A 160.6.168.22
+phone111.admin 86400 IN A 160.6.129.111
+delaney.wireless.ap 86400 IN A 160.6.206.7
+leda3.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea2:9488
+leda3.cp 86400 IN MX 40 mail.cp
+leda3.cp 86400 IN A 160.6.32.3
+www.mtnet 86400 IN CNAME wext
+_ldap._tcp.dc._msdcs.DIAS.ap 86400 IN SRV 0 50 636 egobail.cp
+phone87.admin 86400 IN A 160.6.129.87
+seiceamar.celt 86400 IN A 160.6.9.79
+_ldap._tcp.dc._msdcs.DIAS.cp 86400 IN SRV 0 50 636 egobail.cp
+decolle2.laptops.cp 86400 IN A 160.6.26.54
+web-internal.stp 86400 IN AAAA 2001:770:60:85::16
+web-internal.stp 86400 IN MX 30 mail.stp
+web-internal.stp 86400 IN A 160.6.133.16
+dunsink-dcu.dunsink 86400 IN A 160.6.5.140
+tcosterm96.stp 86400 IN A 160.6.137.96
+miach.cp 86400 IN AAAA 2001:770:60:18:5652:ff:fe65:11d4
+miach.cp 86400 IN A 160.6.33.5
+oblivion-23.cp 86400 IN AAAA ::1
+oblivion-23.cp 86400 IN A 160.6.23.254
+jfullea.wireless.cp 86400 IN A 160.6.24.86
+phone213.admin 86400 IN A 160.6.129.213
+phone61.admin 86400 IN A 160.6.129.61
+vpn-wormhole.stp 86400 IN A 160.6.132.1
+www.payments.admin 86400 IN CNAME payments
+dhcp-86.stp 86400 IN A 160.6.8.86
+tcosterm101.stp 86400 IN A 160.6.137.101
+compute-10.dunsink 86400 IN A 160.6.5.110
+dhcp-90.stp 86400 IN A 160.6.8.90
+hermes-218.ap 86400 IN AAAA 2001:770:60:da::1
+hermes-218.ap 86400 IN A 160.6.218.254
+imap.admin 86400 IN CNAME mail.admin
+leda4.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9aa4
+leda4.cp 86400 IN MX 40 mail.cp
+leda4.cp 86400 IN A 160.6.32.4
+tcosterm12.stp 86400 IN A 160.6.137.12
+hp4000ps.cp 86400 IN A 160.6.1.230
+phone208.admin 86400 IN A 160.6.129.208
+hamilton-131.stp 86400 IN A 160.6.131.223
+mail2.ap 86400 IN A 160.6.218.15
+stpbw.stp 86400 IN AAAA 2001:770:60:8:3e4a:92ff:fe43:a727
+stpbw.stp 86400 IN A 160.6.8.26
+burl-ap-f.stp 86400 IN A 160.6.130.75
+caerus.cp 86400 IN MX 40 mail.cp
+caerus.cp 86400 IN A 160.6.1.25
+mail2.cp 86400 IN AAAA 2001:770:60:18:215:c5ff:fee5:5c86
+mail2.cp 86400 IN A 160.6.33.41
+amalthea.ap 86400 IN AAAA 2001:770:60:ca:203:baff:fe30:17ad
+amalthea.ap 86400 IN MX 40 mail.cp
+amalthea.ap 86400 IN A 160.6.202.69
+oblivion-24.cp 86400 IN AAAA ::1
+oblivion-24.cp 86400 IN A 160.6.24.254
+eflood.wireless.cp 86400 IN A 160.6.24.46
+phone194.admin 86400 IN A 160.6.129.194
+ichec.voip.ap 86400 IN A 160.6.215.251
+aschew.wireless.cp 86400 IN A 160.6.24.30
+pxe-kvm-install.stp 86400 IN AAAA 2001:770:60:85::42
+pxe-kvm-install.stp 86400 IN MX 30 mail.stp
+pxe-kvm-install.stp 86400 IN A 160.6.133.42
+compute-17.dunsink 86400 IN A 160.6.5.117
+iearray.cp 86400 IN AAAA 2001:770:60:1:214:5eff:fe0a:49a
+iearray.cp 86400 IN MX 40 mail.cp
+iearray.cp 86400 IN A 160.6.1.164
+smtp.celt 86400 IN AAAA 2001:770:60:9:5652:ff:fe21:e237
+smtp.celt 86400 IN A 160.6.9.109
+ichec.voip.cp 86400 IN A 160.6.30.251
+hermes-220.ap 86400 IN AAAA 2001:770:60:dc::1
+hermes-220.ap 86400 IN A 160.6.220.254
+ciscoap4-218.ap 86400 IN A 160.6.218.204
+it-146.laptops.ap 86400 IN A 160.6.213.146
+geofield.laptops.cp 86400 IN A 160.6.26.55
+leda5.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9a9b
+leda5.cp 86400 IN MX 40 mail.cp
+leda5.cp 86400 IN A 160.6.32.5
+nov12h.wireless.cp 86400 IN A 160.6.24.188
+www.support 86400 IN AAAA 2001:770:60:da:5652:ff:fe7e:19bc
+www.support 86400 IN A 160.6.218.8
+caratti.laptops.ap 86400 IN A 160.6.213.25
+phone233.admin 86400 IN A 160.6.129.233
+phone200.admin 86400 IN A 160.6.129.200
+tc154.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48fb
+tc154.celt 86400 IN A 160.6.9.154
+xenia.laptops.cp 86400 IN A 160.6.26.37
+compute-32.stp 86400 IN CNAME compute-32.dunsink
+ntp-202.ap 86400 IN A 160.6.202.199
+www.books.admin 86400 IN CNAME books
+ariel.ap 86400 IN AAAA 2001:770:60:ca:213:72ff:fe31:83eb
+ariel.ap 86400 IN MX 40 mail.cp
+ariel.ap 86400 IN A 160.6.202.21
+phi-mic0.ap 86400 IN A 172.31.1.1
+mer-st-mews-switch0.cp 86400 IN A 160.6.1.234
+bardic.celt 86400 IN CNAME wext
+lery.vpn 86400 IN A 160.6.168.14
+phone206.admin 86400 IN A 160.6.129.206
+aschaeff.vpn 86400 IN A 160.6.168.33
+tc160.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48f1
+tc160.celt 86400 IN A 160.6.9.160
+phone352.voip.ap 86400 IN A 160.6.215.22
+libcopier.celt 86400 IN A 160.6.9.17
+ld.vpn 86400 IN A 160.6.168.7
+compute-25.dunsink 86400 IN A 160.6.5.125
+autoquake.cp 86400 IN AAAA 2001:770:60:1:5652:ff:fe58:992e
+autoquake.cp 86400 IN A 160.6.1.95
+compute-3.dunsink 86400 IN A 160.6.5.103
+rheltest.ap 86400 IN AAAA 2001:770:60:ca:6ef0:49ff:feb9:a6ae
+rheltest.ap 86400 IN MX 40 mail.cp
+rheltest.ap 86400 IN A 160.6.202.113
+leda6.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9a9d
+leda6.cp 86400 IN MX 40 mail.cp
+leda6.cp 86400 IN A 160.6.32.6
+seanos.wireless.ap 86400 IN A 160.6.206.61
+tc165.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48a6
+tc165.celt 86400 IN A 160.6.9.165
+openthinclient.celt 86400 IN AAAA 2001:770:60:9::117
+openthinclient.celt 86400 IN A 160.6.9.117
+drury.wireless.ap 86400 IN A 160.6.206.4
+it-140.laptops.ap 86400 IN A 160.6.213.140
+vcompute-2.stp 86400 IN MX 30 mail.stp
+vcompute-2.stp 86400 IN A 160.6.8.53
+seanos.wireless.cp 86400 IN A 160.6.24.61
+metis.cp 86400 IN MX 40 mail.cp
+metis.cp 86400 IN A 160.6.1.86
+metis.cp 86400 IN AAAA 2001:770:60:1:223:aeff:fe8c:f4c9
+drury.wireless.cp 86400 IN A 160.6.24.4
+backup-ctbto.cp 86400 IN AAAA 2001:770:60:1:680f:1805:d036:6cce
+backup-ctbto.cp 86400 IN MX 40 mail.cp
+backup-ctbto.cp 86400 IN A 160.6.1.12
+tcosterm138.stp 86400 IN A 160.6.137.138
+phone263.voip.cp 86400 IN A 160.6.30.32
+hamilton-8.stp 86400 IN MX 30 mail.stp
+hamilton-8.stp 86400 IN A 160.6.8.223
+hamilton-8.stp 86400 IN AAAA 2001:770:60:8:5652:ff:fe02:496e
+lectureroom4.stp 86400 IN A 160.6.130.68
+tc171.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:4913
+tc171.celt 86400 IN A 160.6.9.171
+hamilton-134.stp 86400 IN A 160.6.134.223
+oblivion-26.cp 86400 IN AAAA ::1
+oblivion-26.cp 86400 IN A 160.6.26.254
+phone143.admin 86400 IN A 160.6.129.143
+mackey.laptops.cp 86400 IN A 160.6.26.51
+_domainkey.cp 86400 IN TXT "t=y; o=-;"
+cluster-blade6.stp 86400 IN A 160.6.5.56
+labhras.celt 86400 IN A 160.6.9.47
+vapula.ap 86400 IN AAAA 2001:770:60:ca:21b:63ff:fe9c:7b07
+vapula.ap 86400 IN MX 40 mail.cp
+vapula.ap 86400 IN A 160.6.202.169
+pandion.cp 86400 IN AAAA 2001:770:60:1:868f:69ff:fef8:de11
+pandion.cp 86400 IN MX 40 mail.cp
+pandion.cp 86400 IN A 160.6.1.63
+tcosterm188.stp 86400 IN A 160.6.137.188
+oblivion-cw.cp 86400 IN AAAA 2001:770:400:64::2
+oblivion-cw.cp 86400 IN A 193.1.236.14
+gravity.ap 86400 IN AAAA 2001:770:60:ca:230:48ff:fe72:fd70
+gravity.ap 86400 IN MX 40 mail.cp
+gravity.ap 86400 IN A 160.6.202.17
+leda7.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fea9:9aad
+leda7.cp 86400 IN MX 40 mail.cp
+leda7.cp 86400 IN A 160.6.32.7
+gracia.laptops.ap 86400 IN A 160.6.213.52
+midir.cp 86400 IN MX 40 mail.cp
+midir.cp 86400 IN A 160.6.33.7
+tcosterm99.stp 86400 IN A 160.6.137.99
+proxy.stp 86400 IN MX 30 mail.stp
+proxy.stp 86400 IN A 160.6.8.254
+vpn-sysadmin.admin 86400 IN MX 30 mail.stp
+vpn-sysadmin.admin 86400 IN A 160.6.132.150
+tcosterm41.stp 86400 IN A 160.6.137.41
+gracia.laptops.cp 86400 IN A 160.6.26.39
+ntp-213.ap 86400 IN A 160.6.213.199
+phone93.admin 86400 IN A 160.6.129.93
+compute-19.stp 86400 IN CNAME compute-19.dunsink
+mloewer.laptops.cp 86400 IN A 160.6.26.80
+geofield082.wireless.cp 86400 IN A 160.6.24.70
+www.geophysics 86400 IN CNAME wext
+oblivion-27.cp 86400 IN AAAA 2001:770:60:11::1
+oblivion-27.cp 86400 IN A 160.6.27.254
+estelle.wireless.cp 86400 IN A 160.6.24.91
+belial.ap 86400 IN AAAA 2001:770:60:ca:d6be:d9ff:fe97:1c0f
+belial.ap 86400 IN MX 40 mail.cp
+belial.ap 86400 IN A 160.6.202.168
+dunsinkap5.dunsink 86400 IN A 160.6.5.245
+phone66.admin 86400 IN A 160.6.129.66
+hermes-223.ap 86400 IN AAAA 2001:770:60:df::1
+hermes-223.ap 86400 IN A 160.6.223.254
+bfu9000.cp 86400 IN A 160.6.1.223
+shstore 86400 IN AAAA 2001:770:60:eb:230:48ff:fe59:23ef
+shstore 86400 IN A 160.6.235.12
+leda8.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fe7b:ed8d
+leda8.cp 86400 IN MX 40 mail.cp
+leda8.cp 86400 IN A 160.6.32.8
+blake.wireless.cp 86400 IN A 160.6.24.57
+door.celt 86400 IN A 160.6.9.8
+gulten.vpn 86400 IN A 160.6.168.36
+maxwell.cp 86400 IN AAAA 2001:770:60:1:f24d:a2ff:fedc:43aa
+maxwell.cp 86400 IN MX 40 mail.cp
+maxwell.cp 86400 IN A 160.6.1.77
+flood.laptops.ap 86400 IN A 160.6.213.17
+tcosterm126.stp 86400 IN A 160.6.137.126
+flood.laptops.cp 86400 IN A 160.6.26.17
+sql.cp 86400 IN AAAA 2001:770:60:18:5054:ff:fec1:5dfc
+sql.cp 86400 IN MX 40 mail.cp
+sql.cp 86400 IN A 160.6.33.44
+tcosterm37.stp 86400 IN A 160.6.137.37
+hermes-224.ap 86400 IN AAAA 2001:770:60:e0::1
+hermes-224.ap 86400 IN A 160.6.224.254
+tcosterm176.stp 86400 IN A 160.6.137.176
+leda9.cp 86400 IN AAAA 2001:770:60:17:20c:6eff:fe7b:ed6a
+leda9.cp 86400 IN MX 40 mail.cp
+leda9.cp 86400 IN A 160.6.32.9
+cctv.stp 86400 IN CNAME cctv.admin
+pqlx.cp 86400 IN AAAA 2001:770:60:1:216:36ff:fe2f:37d5
+pqlx.cp 86400 IN MX 40 mail.cp
+pqlx.cp 86400 IN A 160.6.1.110
+gc._msdcs.ad.DIAS.ap 86400 IN SRV 0 10 3268 egobail.cp
+phone238.admin 86400 IN A 160.6.129.238
+mrkos.ap 86400 IN AAAA 2001:770:60:ca:f24d:a2ff:feda:5fe2
+mrkos.ap 86400 IN MX 40 mail.cp
+mrkos.ap 86400 IN A 160.6.202.137
+tcosterm87.stp 86400 IN A 160.6.137.87
+ntp-215.ap 86400 IN A 160.6.215.199
+bill.celt 86400 IN AAAA 2001:770:60:85::92
+bill.celt 86400 IN A 160.6.133.92
+gc._msdcs.ad.DIAS.cp 86400 IN SRV 0 10 3268 egobail.cp
+mtfield7.wireless.cp 86400 IN A 160.6.24.97
+phone245.voip.cp 86400 IN A 160.6.30.38
+ajones.vpn 86400 IN A 160.6.168.8
+agolden04.laptops.cp 86400 IN A 160.6.26.25
+oblivion-29.cp 86400 IN AAAA ::1
+oblivion-29.cp 86400 IN A 160.6.29.254
+phone150.admin 86400 IN A 160.6.129.150
+phone237.voip.cp 86400 IN A 160.6.30.27
+destokes-134.stp 86400 IN AAAA 2001:770:60:86::1
+destokes-134.stp 86400 IN A 160.6.134.254
+phone212.admin 86400 IN A 160.6.129.212
+cctv-poe-recept.admin 86400 IN A 160.6.129.60
+eric.laptops.cp 86400 IN A 160.6.26.71
+hermes-21.cp 86400 IN A 160.6.21.254
+hermes-15.cp 86400 IN A 160.6.15.254
+pegman.wireless.cp 86400 IN A 160.6.24.26
+phone175.admin 86400 IN A 160.6.129.175
+tcosterm98.stp 86400 IN A 160.6.137.98
+koha 86400 IN A 160.6.133.43
+ruyman.laptops.ap 86400 IN A 160.6.213.69
+dhcp1.guests.ap 86400 IN A 160.6.219.1
+hermes.ap 86400 IN AAAA 2001:770:60:ca::1
+hermes.ap 86400 IN A 160.6.202.254
+oblivion-31.cp 86400 IN AAAA ::1
+oblivion-31.cp 86400 IN A 160.6.31.254
+www.astronomytrail 86400 IN CNAME wext.dias.ie
+tcosterm114.stp 86400 IN A 160.6.137.114
+phone148.admin 86400 IN A 160.6.129.148
+dhcp1.guests.cp 86400 IN A 160.6.34.1
+hermes.cp 86400 IN AAAA 2001:770:60:1::1
+hermes.cp 86400 IN A 160.6.1.254
+jan.laptops.cp 86400 IN A 160.6.26.38
+www.quakes 86400 IN CNAME wext
+phone236.voip.cp 86400 IN A 160.6.30.35
+tcosterm25.stp 86400 IN A 160.6.137.25
+graphics2.ap 86400 IN A 160.6.202.175
+oraifeartaigh.stp 86400 IN AAAA 2001:770:60:8:5652:ff:fe3f:3240
+oraifeartaigh.stp 86400 IN MX 30 mail.stp
+oraifeartaigh.stp 86400 IN A 160.6.8.12
+hamilton.stp 86400 IN CNAME hamilton-8.stp
+phone122.admin 86400 IN A 160.6.129.122
+aepytus.cp 86400 IN AAAA 2001:770:60:1:223:aeff:fe67:3461
+aepytus.cp 86400 IN MX 40 mail.cp
+aepytus.cp 86400 IN A 160.6.1.18
+burl-ap-r.stp 86400 IN A 160.6.130.87
+vinci.wireless.cp 86400 IN A 160.6.24.50
+lists.stp 86400 IN CNAME lists.cp
+whelan2.wireless.ap 86400 IN A 160.6.206.73
+stash.stp 86400 IN MX 30 mail.stp
+stash.stp 86400 IN A 160.6.133.41
+phone98.admin 86400 IN A 160.6.129.98
+pbx.stp 86400 IN A 160.6.129.41
+pbx.stp 86400 IN MX 30 mail.stp
+oblivion-32.cp 86400 IN AAAA 2001:770:60:17::1
+oblivion-32.cp 86400 IN A 160.6.32.254
+hp3700dn1.cp 86400 IN A 160.6.1.112
+kvm7.stp 86400 IN MX 30 mail.stp
+kvm7.stp 86400 IN A 160.6.135.107
+phone316.voip.ap 86400 IN A 160.6.215.6
+intranet.stp 86400 IN CNAME web-internal.stp
+tcosterm01.stp 86400 IN A 160.6.137.1
+destokes-122.stp 86400 IN AAAA 2001:770:60:7a::1
+destokes-122.stp 86400 IN A 160.6.122.254
+cisco0.dunsink 86400 IN A 160.6.5.224
+phone72.admin 86400 IN A 160.6.129.72
+gw-9.celt 86400 IN AAAA 2001:770:60:9::1
+gw-9.celt 86400 IN A 160.6.9.254
+sipfax.voip.ap 86400 IN CNAME bellfax.voip.ap
+account 86400 IN AAAA 2001:770:60:18::31
+account 86400 IN A 160.6.33.31
+dhcp65.dunsink 86400 IN A 160.6.5.65
+dunsink.wireless.ap 86400 IN A 160.6.206.63
+phone209.voip.cp 86400 IN A 160.6.30.48
+sheehan2.wireless.cp 86400 IN A 160.6.24.65
+masha.wireless.ap 86400 IN A 160.6.206.3
+wint 86400 IN AAAA 2001:770:60:18::30
+wint 86400 IN A 160.6.33.30
+caoilte.celt 86400 IN A 160.6.9.10
+ntp-218.ap 86400 IN A 160.6.218.199
+phone227.voip.cp 86400 IN A 160.6.30.52
+ewhelan.vpn 86400 IN A 160.6.168.24
+anubis.ap 86400 IN AAAA 2001:770:60:ca:a6ba:dbff:fefd:9051
+anubis.ap 86400 IN MX 40 mail.cp
+anubis.ap 86400 IN A 160.6.202.67
+oblivion-33.cp 86400 IN AAAA 2001:770:60:18::1
+oblivion-33.cp 86400 IN A 160.6.33.254
+hp3700dn2.cp 86400 IN A 160.6.1.113
+brea.ap 86400 IN AAAA 2001:770:60:da:862b:2bff:fe62:691e
+brea.ap 86400 IN MX 40 mail.cp
+brea.ap 86400 IN A 160.6.218.14
+resolver-dns.celt 86400 IN AAAA 2001:770:60:9:216:3eff:fe06:96c
+resolver-dns.celt 86400 IN A 160.6.9.108
+tcosterm140.stp 86400 IN A 160.6.137.140
+_ldap._tcp.DIAS.ap 86400 IN SRV 0 0 389 egobail.cp
+mb2012tr.wireless.ap 86400 IN A 160.6.206.68
+dhcp-87.stp 86400 IN A 160.6.8.87
+tcosterm102.stp 86400 IN A 160.6.137.102
+_ldap._tcp.DIAS.cp 86400 IN SRV 0 0 389 egobail.cp
+barreyre.voip.ap 86400 IN A 160.6.215.39
+autoconfig.stp 86400 IN CNAME wext
+destokes-10.stp 86400 IN A 160.6.10.254
+sarace.ap 86400 IN MX 40 mail.cp
+sarace.ap 86400 IN A 160.6.202.96
+dias2.wireless.cp 86400 IN A 160.6.24.102
+dhcp73.dunsink 86400 IN A 160.6.5.73
+aw8.wireless.ap 86400 IN A 160.6.206.26
+it-148.laptops.ap 86400 IN A 160.6.213.148
+tcosterm13.stp 86400 IN A 160.6.137.13
+azzollini.wireless.ap 86400 IN A 160.6.206.80
+tcosterm152.stp 86400 IN A 160.6.137.152
+ntp-219.ap 86400 IN A 160.6.219.199
+phone244.admin 86400 IN A 160.6.129.244
+burl-ap-g.stp 86400 IN A 160.6.130.76
+dnode.ap 86400 IN MX 40 mail.cp
+dnode.ap 86400 IN A 160.6.202.116
+oblivion-34.cp 86400 IN AAAA ::1
+oblivion-34.cp 86400 IN A 160.6.34.254
+ns.admin 86400 IN A 160.6.133.13
+maryam.wireless.cp 86400 IN A 160.6.24.98
+sergei.vpn 86400 IN A 160.6.168.28
+dudzinski.voip.ap 86400 IN A 160.6.215.2
+phone217.admin 86400 IN A 160.6.129.217
+phone218.voip.cp 86400 IN A 160.6.30.5
+vcu13.voip.ap 86400 IN A 160.6.215.113
+windesk.celt 86400 IN AAAA 2001:770:60:9::116
+windesk.celt 86400 IN A 160.6.9.116
+hermes-20.cp 86400 IN A 160.6.20.254
+dns-resolve.celt 86400 IN CNAME resolver-dns.celt
+dhcp81.dunsink 86400 IN A 160.6.5.81
+phone109.admin 86400 IN A 160.6.129.109
+seismostbkup.cp 86400 IN AAAA 2001:770:60:1:21e:bff:fefd:caaa
+seismostbkup.cp 86400 IN MX 40 mail.cp
+seismostbkup.cp 86400 IN A 160.6.1.100
+signet.dunsink 86400 IN A 160.6.5.240
+tcosterm54.stp 86400 IN A 160.6.137.54
+phone181.admin 86400 IN A 160.6.129.181
+jones.laptops.cp 86400 IN A 160.6.26.3
+oblivion-35.cp 86400 IN AAAA 2001:770:60:35::1
+oblivion-35.cp 86400 IN A 160.6.35.254
+coffey.voip.ap 86400 IN A 160.6.215.24
+pdu.dunsink 86400 IN A 160.6.5.230
+pegmanm.vpn 86400 IN A 160.6.168.16
+mail 86400 IN A 160.6.33.45
+phone154.admin 86400 IN A 160.6.129.154
+time.celt 86400 IN CNAME gw-9.celt
+hp3800dn.cp 86400 IN A 160.6.1.140
+cluster-storage.stp 86400 IN AAAA 2001:770:60:5:5054:ff:fec5:b2ab
+cluster-storage.stp 86400 IN MX 30 ogma.cp
+cluster-storage.stp 86400 IN A 160.6.5.97
+jmorin.wireless.ap 86400 IN A 160.6.206.8
+sw0.stp 86400 IN A 160.6.135.30
+basement-printer.cp 86400 IN CNAME hp3700dn1.cp
+ldps.ap 86400 IN MX 40 mail.cp
+ldps.ap 86400 IN A 160.6.202.165
+admin 86400 IN TXT "v=spf1 ip4:160.6.10.17 mx a:mail.admin.dias.ie mx:admin.dias.ie ~all"
+admin 86400 IN MX 10 mail.admin
+phone127.admin 86400 IN A 160.6.129.127
+phone210.voip.cp 86400 IN A 160.6.30.49
+tcosterm158.stp 86400 IN A 160.6.137.158
+hamilton-10.stp 86400 IN A 160.6.10.223
+ltsp.stp 86400 IN MX 30 mail.stp
+ltsp.stp 86400 IN A 160.6.8.251
+tcosterm139.stp 86400 IN A 160.6.137.139
+hamilton-9.stp 86400 IN A 160.6.9.223
+oblivion-36.cp 86400 IN AAAA ::1
+oblivion-36.cp 86400 IN A 160.6.36.254
+phoebe.ap 86400 IN AAAA 2001:770:60:ca:213:72ff:fe11:9dfe
+phoebe.ap 86400 IN MX 40 mail.cp
+phoebe.ap 86400 IN A 160.6.202.38
+cluster-blade7.stp 86400 IN A 160.6.5.57
+tcosterm51.stp 86400 IN A 160.6.137.51
+stpcolour.stp 86400 IN AAAA 2001:770:60:8:225:b3ff:feeb:f011
+stpcolour.stp 86400 IN A 160.6.8.25
+phone101.admin 86400 IN A 160.6.129.101
+tcosterm189.stp 86400 IN A 160.6.137.189
+sharedstorage 86400 IN CNAME shstore
+carlo.laptops.ap 86400 IN A 160.6.213.32
+hermes-22.cp 86400 IN A 160.6.22.254
+cluster-blade3.dunsink 86400 IN A 160.6.5.53
+extreme1.ap 86400 IN A 160.6.202.108
+photocopier-finance.admin 86400 IN A 160.6.10.70
+stargate.cp 86400 IN A 160.6.27.1
+phone77.admin 86400 IN A 160.6.129.77
+vozar.laptops.cp 86400 IN A 160.6.26.72
+extreme1.cp 86400 IN CNAME mer-st-basmt1-switch1.cp
+sw1.cp 86400 IN MX 40 mail.cp
+sw1.cp 86400 IN A 160.6.1.2
+hp2500.cp 86400 IN A 160.6.1.245
+compute-21.stp 86400 IN CNAME compute-21.dunsink
+aglaptop.wireless.cp 86400 IN A 160.6.24.43
+vcu.dunsink 86400 IN A 160.6.5.10
+mantle.cp 86400 IN MX 40 mail.cp
+mantle.cp 86400 IN A 160.6.1.85
+www.geo 86400 IN CNAME wext
+furfur.ap 86400 IN AAAA 2001:770:60:ca:21e:4fff:fecc:cb12
+furfur.ap 86400 IN MX 40 mail.cp
+furfur.ap 86400 IN A 160.6.202.135
+phone201.voip.cp 86400 IN A 160.6.30.56
+wiki.ogham.celt 86400 IN CNAME wext
+ns 86400 IN AAAA 2001:770:60:18:210:18ff:fe14:6a2d
+ns 86400 IN A 160.6.33.3
+hermes-23.cp 86400 IN A 160.6.23.254
+extreme2.ap 86400 IN A 160.6.202.114
+compute-25.stp 86400 IN CNAME compute-25.dunsink
+phone359.voip.ap 86400 IN A 160.6.215.11
+beathnua.celt 86400 IN A 160.6.9.50
+said.wireless.cp 86400 IN A 160.6.24.80
+extreme2.cp 86400 IN CNAME mer-st-mews-switch0.cp
+lcollins.voip.ap 86400 IN A 160.6.215.29
+openthinclient-mburke.admin 86400 IN MX 30 mail.admin
+openthinclient-mburke.admin 86400 IN A 160.6.10.104
+mercury2.stp 86400 IN A 160.6.130.118
+phone249.admin 86400 IN A 160.6.129.249
+nephthis.ap 86400 IN A 160.6.202.171
+tcosterm127.stp 86400 IN A 160.6.137.127
+oblivion-38.cp 86400 IN AAAA ::1
+oblivion-38.cp 86400 IN A 160.6.38.254
+ups2.stp 86400 IN A 160.6.135.22
+lectureroom0.stp 86400 IN A 160.6.130.64
+ciscoap3-218.ap 86400 IN A 160.6.218.203
+tcosterm38.stp 86400 IN A 160.6.137.38
+phone223.admin 86400 IN A 160.6.129.223
+sheehan.wireless.cp 86400 IN A 160.6.24.6
+laptops.ap 86400 IN A 160.6.213.1
+dcu-dunsink.dunsink 86400 IN A 160.6.5.130
+laptops.cp 86400 IN A 160.6.26.1
+tcosterm88.stp 86400 IN A 160.6.137.88
+phone186.admin 86400 IN A 160.6.129.186
+vpn-jfbucas.stp 86400 IN A 160.6.132.102
+phone351.voip.ap 86400 IN A 160.6.215.17
+pgrange.voip.ap 86400 IN A 160.6.215.33
+celtps1.celt 86400 IN A 160.6.9.2
+oblivion-39.cp 86400 IN AAAA ::1
+oblivion-39.cp 86400 IN A 160.6.39.254
+destokes-135.stp 86400 IN A 160.6.135.254
+ipadtr.wireless.ap 86400 IN A 160.6.206.74
+jschmoldt.laptops.cp 86400 IN A 160.6.26.75
+ntp.admin 86400 IN CNAME destokes-10.stp
+austin.ap 86400 IN AAAA 2001:770:60:ca:213:72ff:fe1f:117e
+austin.ap 86400 IN MX 40 mail.cp
+austin.ap 86400 IN A 160.6.202.61
+markd.wireless.ap 86400 IN A 160.6.206.24
+echelon.cp 86400 IN MX 40 mail.cp
+echelon.cp 86400 IN A 160.6.38.150
+phone160.admin 86400 IN A 160.6.129.160
+hermes-25.cp 86400 IN A 160.6.25.254
+donna.laptops.ap 86400 IN A 160.6.213.67
+it-136.laptops.ap 86400 IN A 160.6.213.136
+ruyman.wireless.ap 86400 IN A 160.6.206.10
+nov12g.wireless.cp 86400 IN A 160.6.24.187
+3dsystem.dunsink 86400 IN A 160.6.5.251
+desplat.laptops.cp 86400 IN A 160.6.26.27
+compute-16.dunsink 86400 IN A 160.6.5.116
+coll.celt 86400 IN A 160.6.9.49
+pxe-kvm-install.ap 86400 IN MX 40 mail.cp
+pxe-kvm-install.ap 86400 IN A 160.6.218.16
+dhcp8.guests.ap 86400 IN A 160.6.219.8
+bellfax.voip.ap 86400 IN A 160.6.215.239
+mtnet 86400 IN CNAME wext
+phone133.admin 86400 IN A 160.6.129.133
+pxe-kvm-install.cp 86400 IN MX 40 mail.cp
+pxe-kvm-install.cp 86400 IN A 160.6.33.142
+dhcp8.guests.cp 86400 IN A 160.6.34.8
+tcosterm115.stp 86400 IN A 160.6.137.115
+ns.dunsink 86400 IN CNAME ns.cp
+phone106.admin 86400 IN A 160.6.129.106
+delaney.laptops.ap 86400 IN A 160.6.213.6
+tcosterm26.stp 86400 IN A 160.6.137.26
+phone342.voip.ap 86400 IN A 160.6.215.10
+sysadmin.cp 86400 IN AAAA 2001:770:60:1:5652:ff:fe22:6c60
+sysadmin.cp 86400 IN MX 40 mail.cp
+sysadmin.cp 86400 IN A 160.6.1.150
+jef.wireless.ap 86400 IN A 160.6.206.71
+nov12a.laptops.cp 86400 IN A 160.6.26.81
+backup.celt 86400 IN AAAA 2001:770:60:9:5054:ff:fed8:608a
+backup.celt 86400 IN A 160.6.9.115
+compute-24.dunsink 86400 IN A 160.6.5.124
+phone83.admin 86400 IN A 160.6.129.83
+weather-station 86400 IN A 160.6.5.44
+lists.cp 86400 IN AAAA 2001:770:60:1:216:3eff:fe40:968d
+lists.cp 86400 IN MX 20 lists.cp
+86400 IN MX 60 mail.cp
+lists.cp 86400 IN A 160.6.1.132
+rte.ext.dias.ie 86400 IN CNAME rte.ie.
+mail._domainkey.cp 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0NuOEO7zBPh9FVSPPDsDi11VFKL4Wg50pt73sL0hVsdkvOwUx6qAcLx2QD5bcha1ORnf17ApRoqEj7XGPZQL581cyWjL34PckAVdfJQvy2UKmxBhKyOGoofEsMSnzcwzw3OZGfG683RWCpKAjflPEj7xQKl/QJuhcNj10RRJRAwIDAQAB"
+argand.cp 86400 IN CNAME mallet.cp
+anne.vpn 86400 IN A 160.6.168.20
+drury.laptops.ap 86400 IN A 160.6.213.4
+kvm2.stp 86400 IN MX 30 mail.stp
+kvm2.stp 86400 IN A 160.6.135.102
+ups4.stp 86400 IN A 160.6.135.24
+kvmcab0.ap 86400 IN MX 40 mail.cp
+kvmcab0.ap 86400 IN A 160.6.202.49
+drury.laptops.cp 86400 IN A 160.6.26.4
+c900-front.cp 86400 IN A 160.6.1.121
+ltsp.cp 86400 IN MX 40 mail.cp
+ltsp.cp 86400 IN A 160.6.1.42
+picasso 86400 IN A 160.6.33.30
+compute-4.stp 86400 IN CNAME compute-4.dunsink
+hermes-27.cp 86400 IN A 160.6.27.254
+dunsink.laptops.ap 86400 IN A 160.6.213.63
+compute-32.dunsink 86400 IN A 160.6.5.132
+stokes-129.admin 86400 IN A 160.6.129.254
+it-151.laptops.ap 86400 IN A 160.6.213.151
+compute-9.dunsink 86400 IN A 160.6.5.109
+webmail.celt 86400 IN CNAME webmailx
+jmorin.laptops.ap 86400 IN A 160.6.213.7
+library.stp 86400 IN AAAA 2001:770:60:22::4
+library.stp 86400 IN MX 30 mail.cp
+library.stp 86400 IN A 160.6.22.4
+oberon-serial0.cp 86400 IN A 160.6.12.4
+satabeast1.ap 86400 IN MX 40 mail.cp
+satabeast1.ap 86400 IN A 160.6.202.180
+kvmcab1.ap 86400 IN A 160.6.202.228
+geofield081.wireless.cp 86400 IN A 160.6.24.69
+phone333.voip.ap 86400 IN A 160.6.215.37
+satabeast1.cp 86400 IN A 160.6.1.143
+kvmcab1.cp 86400 IN MX 40 mail.cp
+kvmcab1.cp 86400 IN A 160.6.33.100
+mh.vpn 86400 IN A 160.6.168.9
+tcosterm151.stp 86400 IN A 160.6.137.151
+geo 86400 IN MX 40 ogma.cp
+tcosterm103.stp 86400 IN A 160.6.137.103
+wallace.laptops.cp 86400 IN A 160.6.26.12
+reception.admin 86400 IN AAAA 2001:770:60:82:c23f:d5ff:fe60:8c69
+reception.admin 86400 IN A 160.6.130.51
+dunsinkap4.dunsink 86400 IN A 160.6.5.244
+phone228.admin 86400 IN A 160.6.129.228
+tcosterm14.stp 86400 IN A 160.6.137.14
+amsann.vpn 86400 IN A 160.6.168.40
+phone244.voip.cp 86400 IN A 160.6.30.29
+felix.voip.ap 86400 IN A 160.6.215.3
+tcosterm153.stp 86400 IN A 160.6.137.153
+destokes-197.stp 86400 IN AAAA 2001:770:60:c5::252
+destokes-197.stp 86400 IN A 160.6.197.252
+weather-station.dunsink 86400 IN CNAME weather-station
+oberon-serial1.cp 86400 IN A 160.6.14.4
+seismolap2.wireless.cp 86400 IN A 160.6.24.100
+satabeast2.ap 86400 IN MX 40 mail.cp
+satabeast2.ap 86400 IN A 160.6.202.181
+geo-visitor1.wireless.cp 86400 IN A 160.6.24.94
+kvmcab2.ap 86400 IN A 160.6.202.229
+phone360.voip.ap 86400 IN A 160.6.215.16
+phone202.admin 86400 IN A 160.6.129.202
+apodis.ap 86400 IN AAAA 2001:770:60:ca:3617:ebff:fed7:f82f
+apodis.ap 86400 IN MX 40 mail.cp
+apodis.ap 86400 IN A 160.6.202.129
+tcosterm64.stp 86400 IN A 160.6.137.64
+satabeast2.cp 86400 IN A 160.6.1.144
+kvmcab2.cp 86400 IN MX 40 mail.cp
+kvmcab2.cp 86400 IN A 160.6.33.101
+andy.voip.ap 86400 IN A 160.6.215.27
+chogg.vpn 86400 IN A 160.6.168.32
+ldap.celt 86400 IN AAAA 2001:770:60:9:216:3eff:fe06:967
+ldap.celt 86400 IN A 160.6.9.103
+ldap.dunsink 86400 IN AAAA 2001:770:60:5:5054:ff:fec5:b2db
+ldap.dunsink 86400 IN A 160.6.5.98
+basement.dunsink 86400 IN A 160.6.5.13
+tiger.ap 86400 IN AAAA 2001:770:60:ca:217:f2ff:fed0:c684
+tiger.ap 86400 IN MX 40 mail.cp
+tiger.ap 86400 IN A 160.6.202.53
+phone165.admin 86400 IN A 160.6.129.165
+seismolap.wireless.cp 86400 IN A 160.6.24.82
+sleygnac.vpn 86400 IN A 160.6.168.17
+alastor.ap 86400 IN AAAA 2001:770:60:ca:221:9bff:fe47:6a23
+alastor.ap 86400 IN MX 40 mail.cp
+alastor.ap 86400 IN A 160.6.202.141
+cyclops.cp 86400 IN A 160.6.31.253
+vlan29-cwt-heanet.ext.dias.ie 86400 IN CNAME te0-5-0-1-29-cr2-cwt.hea.net.
+it-150.laptops.ap 86400 IN A 160.6.213.150
+marion.vpn 86400 IN A 160.6.168.25
+mtfield6.wireless.cp 86400 IN A 160.6.24.96
+fax.stp 86400 IN CNAME pbx.stp
+kvmcab3.ap 86400 IN A 160.6.202.230
+nemed.celt 86400 IN AAAA 2001:770:60:eb:5054:ff:fe78:e0a7
+nemed.celt 86400 IN A 160.6.235.19
+wiki.seismology.cp 86400 IN CNAME wint
+darkangelvm.ap 86400 IN MX 40 mail.cp
+darkangelvm.ap 86400 IN A 160.6.202.124
+phone138.admin 86400 IN A 160.6.129.138
+phone235.voip.cp 86400 IN A 160.6.30.2
+seanos-x61s.wireless.cp 86400 IN A 160.6.24.81
+supportold.ap 86400 IN MX 40 mail.cp
+supportold.ap 86400 IN A 160.6.202.234
+haagenti.ap 86400 IN AAAA 2001:770:60:ca:215:17ff:fe9d:4664
+haagenti.ap 86400 IN MX 40 mail.cp
+haagenti.ap 86400 IN A 160.6.202.156
+phone112.admin 86400 IN A 160.6.129.112
+tcosterm02.stp 86400 IN A 160.6.137.2
+phone88.admin 86400 IN A 160.6.129.88
+higgs.stp 86400 IN AAAA 2001:770:60:8::16
+86400 IN AAAA 2001:770:60:8:5054:ff:feb7:abe6
+higgs.stp 86400 IN MX 30 mail.stp
+higgs.stp 86400 IN A 160.6.8.16
+tcosterm141.stp 86400 IN A 160.6.137.141
+cuileann.celt 86400 IN AAAA 2001:770:60:9:12c3:7bff:fe50:54fb
+cuileann.celt 86400 IN A 160.6.9.45
+phone315.voip.ap 86400 IN A 160.6.215.8
+creamh.celt 86400 IN A 160.6.9.74
+3rdfloor-blueroom-color.cp 86400 IN CNAME hp2500.cp
+tcosterm10.stp 86400 IN A 160.6.137.10
+dhcp242.celt 86400 IN A 160.6.9.242
+rains.wireless.ap 86400 IN A 160.6.206.81
+cluster-blade8.stp 86400 IN A 160.6.5.58
+tcosterm52.stp 86400 IN A 160.6.137.52
+phone62.admin 86400 IN A 160.6.129.62
+geofield1001.wireless.cp 86400 IN A 160.6.24.95
+tcosterm191.stp 86400 IN A 160.6.137.191
+phone250.admin 86400 IN A 160.6.129.250
+p336f0so36sw43.voip.ap 86400 IN A 160.6.215.23
+dhcp247.celt 86400 IN A 160.6.9.247
+ups1.ap 86400 IN CNAME bfu9011.ap
+phone226.voip.cp 86400 IN A 160.6.30.13
+conference.guests.cp 86400 IN A 160.6.34.120
+tc153.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48cc
+tc153.celt 86400 IN A 160.6.9.153
+compute-22.stp 86400 IN CNAME compute-22.dunsink
+vcu.admin 86400 IN MX 30 mail.stp
+vcu.admin 86400 IN A 160.6.140.1
+droid.guests.ap 86400 IN A 160.6.219.99
+web.dunsink 86400 IN CNAME wext
+tc158.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48e5
+tc158.celt 86400 IN A 160.6.9.158
+morin.wireless.ap 86400 IN A 160.6.206.41
+photocopier-hr.admin 86400 IN A 160.6.10.69
+dias1.voip.cp 86400 IN A 160.6.30.201
+proxy-laptop.stp 86400 IN MX 30 mail.stp
+proxy-laptop.stp 86400 IN A 160.6.130.254
+ups2.ap 86400 IN CNAME bfu9012.ap
+phone234.admin 86400 IN A 160.6.129.234
+reports.admin 86400 IN AAAA 2001:770:60:18::35
+reports.admin 86400 IN MX 30 mail.stp
+reports.admin 86400 IN A 160.6.33.35
+tc164.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48a3
+tc164.celt 86400 IN A 160.6.9.164
+diasapw3.wireless.ap 86400 IN A 160.6.206.103
+gridnm.cp 86400 IN MX 40 mail.cp
+gridnm.cp 86400 IN A 160.6.223.149
+colinf.laptops.cp 86400 IN A 160.6.26.66
+wkshop-gw.cp 86400 IN A 160.6.29.254
+lugh-storage.cp 86400 IN A 160.6.39.10
+garbhlus.celt 86400 IN AAAA 2001:770:60:9:219:5bff:fe0f:80e7
+garbhlus.celt 86400 IN A 160.6.9.81
+openthinclient-brennan.admin 86400 IN MX 30 mail.admin
+openthinclient-brennan.admin 86400 IN A 160.6.10.105
+tcosterm128.stp 86400 IN A 160.6.137.128
+ravaut.laptops.cp 86400 IN A 160.6.26.8
+phone197.admin 86400 IN A 160.6.129.197
+phone217.voip.cp 86400 IN A 160.6.30.3
+tc170.celt 86400 IN AAAA 2001:770:60:9:2e0:c5ff:fe3a:48f9
+tc170.celt 86400 IN A 160.6.9.170
+vcu12.voip.ap 86400 IN A 160.6.215.112
+lectureroom1.stp 86400 IN A 160.6.130.65
+donnelly.admin 86400 IN A 160.6.10.19
+diasmonitor-gw.cp 86400 IN A 160.6.31.254
+tcosterm39.stp 86400 IN A 160.6.137.39
+mail.cp 86400 IN AAAA 2001:770:60:18:5652:ff:fe0a:1edb
+mail.cp 86400 IN A 160.6.33.4
+3dgraphics.ap 86400 IN AAAA 2001:770:60:ca:226:18ff:fef0:dd7e
+3dgraphics.ap 86400 IN MX 40 mail.cp
+3dgraphics.ap 86400 IN A 160.6.202.176
+www.payments 86400 IN CNAME payments
+tcosterm178.stp 86400 IN A 160.6.137.178
+dias1.wireless.cp 86400 IN A 160.6.24.101
+neanta.celt 86400 IN AAAA 2001:770:60:9:213:20ff:fe43:238a
+neanta.celt 86400 IN A 160.6.9.36
+diasg5.guests.ap 86400 IN A 160.6.219.105
+it-138.laptops.ap 86400 IN A 160.6.213.138
+phone170.admin 86400 IN A 160.6.129.170
+phone171.admin 86400 IN A 160.6.129.171
+tcosterm89.stp 86400 IN A 160.6.137.89
+ntp-235.ap 86400 IN A 160.6.235.199
+dhcp72.dunsink 86400 IN A 160.6.5.72
+ms.wireless.ap 86400 IN A 160.6.206.6
+compute-10.stp 86400 IN CNAME compute-10.dunsink
+masha2.wireless.ap 86400 IN A 160.6.206.31
+phone144.admin 86400 IN A 160.6.129.144
+mmuller.vpn 86400 IN A 160.6.168.26
+aleks.wireless.ap 86400 IN A 160.6.206.37
+aiteann.celt 86400 IN A 160.6.9.40
+styx.cp 86400 IN AAAA 2001:770:60:1:21e:c9ff:fe5b:7e17
+styx.cp 86400 IN A 160.6.1.75
+vpn-rbyrne.admin 86400 IN MX 30 mail.stp
+vpn-rbyrne.admin 86400 IN A 160.6.132.156
+nexsana.ap 86400 IN A 160.6.202.98
+wireless-gw.wireless.cp 86400 IN A 160.6.24.254
+rochford2.wireless.ap 86400 IN A 160.6.206.67
+phone117.admin 86400 IN A 160.6.129.117
+ups4.ap 86400 IN CNAME bfu9014.ap
+mathematica 86400 IN CNAME mathematica.stp
+nov12c.laptops.cp 86400 IN A 160.6.26.83
+tcosterm177.stp 86400 IN A 160.6.137.177
+rogers.wireless.ap 86400 IN A 160.6.206.13
+dhcp79.dunsink 86400 IN A 160.6.5.79
+eric.vpn 86400 IN A 160.6.168.31
+phone94.admin 86400 IN A 160.6.129.94
+phone367.voip.ap 86400 IN A 160.6.215.14
+www.celt 86400 IN CNAME wext
+choggmac.wireless.cp 86400 IN A 160.6.24.85
+kvm1.stp 86400 IN MX 30 mail.stp
+kvm1.stp 86400 IN A 160.6.135.101
+tcosterm116.stp 86400 IN A 160.6.137.116
+dhcp4.guests.ap 86400 IN A 160.6.219.4
+nexsanb.ap 86400 IN A 160.6.202.99
+marion.wireless.cp 86400 IN A 160.6.24.47
+phone67.admin 86400 IN A 160.6.129.67
+ltsp-137.stp 86400 IN MX 30 mail.stp
+ltsp-137.stp 86400 IN A 160.6.137.251
+ichec-ag4.voip.cp 86400 IN A 160.6.30.104
+dhcp4.guests.cp 86400 IN A 160.6.34.4
+tb.vpn 86400 IN A 160.6.168.34
+phone278.voip.cp 86400 IN A 160.6.30.34
+tcosterm166.stp 86400 IN A 160.6.137.166
+diasmonitor2.cp 86400 IN A 160.6.31.2
+roger.wireless.cp 86400 IN A 160.6.24.32
+burl-ap-t.stp 86400 IN A 160.6.130.89
+phone209.admin 86400 IN A 160.6.129.209
+it-153.laptops.ap 86400 IN A 160.6.213.153
+hyakutake.ap 86400 IN AAAA 2001:770:60:ca:21e:4fff:feeb:ce8f
+hyakutake.ap 86400 IN MX 40 mail.cp
+hyakutake.ap 86400 IN A 160.6.202.136
+tcosterm77.stp 86400 IN A 160.6.137.77
+vcu.voip.ap 86400 IN A 160.6.215.253
+3ddisplay.ap 86400 IN MX 40 mail.cp
+3ddisplay.ap 86400 IN A 160.6.202.176
+parroucau.wireless.cp 86400 IN A 160.6.24.16
+phone195.admin 86400 IN A 160.6.129.195
+sergei-laptop.wireless.cp 86400 IN A 160.6.24.74
+phone358.voip.ap 86400 IN A 160.6.215.35
+andrew-laptop.laptops.cp 86400 IN A 160.6.26.68
+ups6.ap 86400 IN CNAME bfu9016.ap
+celt 86400 IN AAAA 2001:770:60:85::92
+celt 86400 IN MX 10 smtp.celt
+celt 86400 IN A 160.6.133.92
+phone240.admin 86400 IN A 160.6.129.240
+phone201.admin 86400 IN A 160.6.129.201
+www.stp 86400 IN AAAA 2001:770:60:22::2
+www.stp 86400 IN MX 30 mail.cp
+www.stp 86400 IN A 160.6.22.2
+leygnac.wireless.cp 86400 IN A 160.6.24.41
+ciscoap2-218.ap 86400 IN A 160.6.218.202
+financebw.admin 86400 IN A 160.6.10.62
+goibniu.cp 86400 IN AAAA 2001:770:60:18:21b:21ff:fe3f:a41
+goibniu.cp 86400 IN MX 40 mail.cp
+goibniu.cp 86400 IN A 160.6.33.20
+analog.voip.ap 86400 IN A 160.6.215.250
+dhcp-89.stp 86400 IN A 160.6.8.89
+tcosterm104.stp 86400 IN A 160.6.137.104
+web.stp 86400 IN AAAA 2001:770:60:22::2
+web.stp 86400 IN MX 30 mail.cp
+web.stp 86400 IN A 160.6.22.2
+eriu.cp 86400 IN AAAA 2001:770:60:1:224:e8ff:fe61:7ad4
+eriu.cp 86400 IN MX 40 mail.cp
+eriu.cp 86400 IN A 160.6.1.10
+openthinclient-test.admin 86400 IN MX 30 mail.admin
+openthinclient-test.admin 86400 IN A 160.6.10.107
+maintenance.admin 86400 IN A 160.6.130.56
+tcosterm15.stp 86400 IN A 160.6.137.15
+ups7.ap 86400 IN CNAME bfu9017.ap
+cluster-blade9.dunsink 86400 IN A 160.6.5.59
+phone176.admin 86400 IN A 160.6.129.176
+tcosterm154.stp 86400 IN A 160.6.137.154
+dhcp250.celt 86400 IN A 160.6.9.250
+phone350.voip.ap 86400 IN A 160.6.215.9
+burl-ap-i.stp 86400 IN A 160.6.130.78
+nakisa.voip.ap 86400 IN A 160.6.215.20
+706.dunsink 86400 IN A 160.6.5.16
+tcosterm65.stp 86400 IN A 160.6.137.65
+oblivion-40.cp 86400 IN AAAA ::1
+oblivion-40.cp 86400 IN A 160.6.40.254
+phone149.admin 86400 IN A 160.6.129.149
+cisco10gb1.cp 86400 IN CNAME mer-st-basmt1-switch0.cp
+calendar 86400 IN AAAA 2001:770:60:22::3
+calendar 86400 IN MX 40 mail.cp
+calendar 86400 IN A 160.6.22.3
+phone261.voip.cp 86400 IN A 160.6.30.42
+ceragon.ap 86400 IN MX 40 mail.cp
+ceragon.ap 86400 IN A 160.6.202.105
+phone123.admin 86400 IN A 160.6.129.123
+pbx.admin 86400 IN MX 30 mail.admin
+pbx.admin 86400 IN A 160.6.129.41
+tcosterm130.stp 86400 IN A 160.6.137.130
+dosullivan.wireless.ap 86400 IN A 160.6.206.75
+mews.voip.ap 86400 IN A 160.6.215.32
+compute-2.stp 86400 IN CNAME compute-2.dunsink
+phone99.admin 86400 IN A 160.6.129.99
+miranda.ap 86400 IN MX 40 mail.cp
+miranda.ap 86400 IN A 160.6.202.6
+proxy-stp.stp 86400 IN MX 30 mail.stp
+proxy-stp.stp 86400 IN A 160.6.8.254
+alantosh.wireless.cp 86400 IN A 160.6.24.79
+sophos 86400 IN AAAA 2001:770:60:85::46
+sophos 86400 IN A 160.6.133.46
+phone168.admin 86400 IN A 160.6.129.168
+cisco10gb2.cp 86400 IN CNAME mer-st-basmt2-switch0.cp
+phone341.voip.ap 86400 IN A 160.6.215.18
+tcosterm192.stp 86400 IN A 160.6.137.192
+phone73.admin 86400 IN A 160.6.129.73
+nov12f.wireless.cp 86400 IN A 160.6.24.186
+sw2.stp 86400 IN A 160.6.135.32
+idp 86400 IN AAAA 2001:770:60:22::51
+idp 86400 IN A 160.6.22.51
+tcosterm03.stp 86400 IN A 160.6.137.3
+tcosterm24.stp 86400 IN A 160.6.137.24
+tcosterm142.stp 86400 IN A 160.6.137.142
+compute-15.dunsink 86400 IN A 160.6.5.115
+phone252.voip.cp 86400 IN A 160.6.30.22
+jschmoldt2.wireless.cp 86400 IN A 160.6.24.87
+cluster-blade9.stp 86400 IN A 160.6.5.59
+tcosterm53.stp 86400 IN A 160.6.137.53
+triton.cp 86400 IN AAAA 2001:770:60:1:2c0:ddff:fe0e:5b86
+triton.cp 86400 IN MX 40 mail.cp
+triton.cp 86400 IN A 160.6.1.124
+phone159.admin 86400 IN A 160.6.129.159
+fraoch.celt 86400 IN A 160.6.9.46
+scatach-storage.cp 86400 IN A 160.6.39.12
+lithos.cp 86400 IN MX 40 mail.cp
+lithos.cp 86400 IN A 160.6.1.218
+hamilton.wireless.ap 86400 IN A 160.6.206.14
+dagda.cp 86400 IN AAAA 2001:770:60:1:215:17ff:feeb:111c
+dagda.cp 86400 IN MX 40 mail.cp
+dagda.cp 86400 IN A 160.6.1.108
+kvm1-management.dunsink 86400 IN A 160.6.5.249
+caratti2.laptops.ap 86400 IN A 160.6.213.55
+cluster-enclosure.dunsink 86400 IN A 160.6.5.50
+707.dunsink 86400 IN A 160.6.5.17
+sergei-laptop.laptops.cp 86400 IN A 160.6.26.67
+phone245.admin 86400 IN A 160.6.129.245
+adhann.celt 86400 IN AAAA 2001:770:60:9:d69a:20ff:fec4:edc8
+adhann.celt 86400 IN A 160.6.9.91
+compute-23.dunsink 86400 IN A 160.6.5.123
+hostmaster.admin 86400 IN A 160.6.133.13
+compute-1.dunsink 86400 IN A 160.6.5.101
+alantosh.laptops.cp 86400 IN A 160.6.26.69
+phone151.admin 86400 IN A 160.6.129.151
+sim-crust 86400 IN CNAME wext
+mail.support 86400 IN AAAA 2001:770:60:da:5652:ff:fe7e:19bc
+mail.support 86400 IN A 160.6.218.8
+phone218.admin 86400 IN A 160.6.129.218
+giolcach.celt 86400 IN A 160.6.9.78
+destokes-199.stp 86400 IN AAAA 2001:770:60:c7::252
+destokes-199.stp 86400 IN A 160.6.199.252
+phone243.voip.cp 86400 IN A 160.6.30.37
+www.eduseis 86400 IN CNAME wext
+tcosterm30.stp 86400 IN A 160.6.137.30
+it-141.laptops.ap 86400 IN A 160.6.213.141
+dhcp-101.stp 86400 IN A 160.6.8.101
+phone182.admin 86400 IN A 160.6.129.182
+master-dns.stp 86400 IN AAAA 2001:770:60:85::13
+master-dns.stp 86400 IN MX 30 mail.stp
+master-dns.stp 86400 IN A 160.6.133.13
+www-heanet.ext.dias.ie 86400 IN CNAME www.heanet.ie.
+compute-31.dunsink 86400 IN A 160.6.5.131
+xserve.ap 86400 IN AAAA 2001:770:60:ca:20d:93ff:fe9c:97a6
+xserve.ap 86400 IN MX 40 mail.cp
+xserve.ap 86400 IN A 160.6.202.51
+tcosterm129.stp 86400 IN A 160.6.137.129
+compute-8.dunsink 86400 IN A 160.6.5.108
+webmail.admin 86400 IN CNAME webmailx
+lorentz.stp 86400 IN A 160.6.8.197
+lectureroom2.stp 86400 IN A 160.6.130.66
+duffy.wireless.ap 86400 IN A 160.6.206.48
+phone262.voip.cp 86400 IN A 160.6.30.15
+phone323.voip.ap 86400 IN A 160.6.215.23
+teile.celt 86400 IN AAAA 2001:770:60:9:213:20ff:fe43:4de1
+teile.celt 86400 IN A 160.6.9.33
+phone346.voip.ap 86400 IN A 160.6.215.4
+phone155.admin 86400 IN A 160.6.129.155
+hermes-pw.ap 86400 IN AAAA 2001:770:90:c4::2
+hermes-pw.ap 86400 IN A 193.1.237.14
+openthinclient-testvm.admin 86400 IN MX 30 mail.admin
+openthinclient-testvm.admin 86400 IN A 160.6.10.108
+duffy.wireless.cp 86400 IN A 160.6.24.48
+delaney2.laptops.ap 86400 IN A 160.6.213.68
+tcosterm179.stp 86400 IN A 160.6.137.179
+tcosterm74.stp 86400 IN A 160.6.137.74
+pegasus.cp 86400 IN AAAA 2001:770:60:1:214:5eff:fe0b:9840
+pegasus.cp 86400 IN A 160.6.1.47
+jsp.wireless.cp 86400 IN A 160.6.24.99
+espey.wireless.cp 86400 IN A 160.6.24.18

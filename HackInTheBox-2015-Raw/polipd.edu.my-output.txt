@@ -1,0 +1,20 @@
+@ 3600 IN SOA dns admin. 211 900 600 86400 3600
+@ 3600 IN NS dns
+3600 IN NS server-one
+@ 3600 IN MX 50 mx.1govuc.gov.my.
+3600 IN MX 10 mx2.1govuc.gov.my.
+3600 IN MX 10 mx3.1govuc.gov.my.
+www 3600 IN CNAME server-one
+server-6 3600 IN A 122.129.120.234
+vc 3600 IN A 122.129.120.239
+tv 3600 IN A 122.129.120.238
+library 3600 IN A 122.129.120.237
+server-one 3600 IN A 122.129.120.232
+spmpdatabase 3600 IN A 122.129.120.242
+spmp 3600 IN A 122.129.120.240
+mail 3600 IN A 122.129.120.234
+myobe 3600 IN A 122.129.120.245
+dns 3600 IN A 122.129.120.231
+spmpopenvpn 3600 IN A 122.129.120.241
+student 3600 IN MX 10 1899649085.pamx1.hotmail.com.
+spkp 3600 IN A 122.129.120.236

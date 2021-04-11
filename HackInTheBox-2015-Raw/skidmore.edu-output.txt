@@ -1,0 +1,367 @@
+@ 600 IN SOA ns1.twtelecom.net. root.mailhost 426784156 3600 3600 604800 10800
+@ 600 IN NS ns1.twtelecom.net.
+600 IN NS ns2.twtelecom.net.
+600 IN NS mena
+600 IN NS acacia
+@ 600 IN A 141.222.1.67
+@ 600 IN MX 0 skidmore-edu.mail.protection.outlook.com.
+@ 600 IN TXT "v=spf1 a:monty3.skidmore.edu include:spf.protection.outlook.com -all"
+@ 600 IN SPF "v=spf1" "a:monty3.skidmore.edu" "include:spf.protection.outlook.com" "-all"
+rover 600 IN MX 30 monty1
+cdta 600 IN CNAME balder
+retired 600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+retired 600 IN MX 0 retired-skidmore-edu.mail.protection.outlook.com.
+fs 600 IN A 141.222.1.188
+communitygeography 600 IN CNAME academics
+apps 600 IN A 141.222.6.8
+apps 600 IN MX 30 monty1
+romulus 600 IN A 141.222.1.127
+_sip._tcp 600 IN SRV 0 0 5060 skid-vcs-e
+asa-vpn 600 IN A 141.222.181.3
+ldg 600 IN CNAME ldg2
+ccenter 600 IN A 141.222.1.73
+boru2 600 IN A 141.222.2.23
+cmsauthor 600 IN A 141.222.1.40
+safetysrv 600 IN CNAME safetysrv2
+launchpad 600 IN A 141.222.1.150
+sip.retired 600 IN CNAME sipdir.online.lync.com.
+oreo 600 IN A 141.222.108.53
+stratos 600 IN A 141.222.2.72
+secweb 600 IN CNAME hudson2
+certify 600 IN A 141.222.1.172
+_sipfederationtls._tcp 600 IN SRV 100 1 5061 sipfed.online.lync.com.
+dir1 600 IN CNAME luna
+scott2 600 IN A 141.222.1.7
+jumbo 600 IN A 141.222.169.21
+mohawk 600 IN A 141.222.1.23
+tps 600 IN A 141.222.1.35
+hollywood 600 IN A 141.222.1.104
+ldgmac2 600 IN A 141.222.64.44
+moodle 600 IN A 50.23.95.106
+kuali 600 IN A 141.222.1.138
+ems 600 IN A 141.222.1.143
+lib 600 IN CNAME vulcan
+helios 600 IN A 141.222.6.16
+helios 600 IN MX 30 monty1
+libsrv 600 IN CNAME illiad
+greatwarimagearchive 600 IN CNAME academics
+appsrv 600 IN CNAME acadsrv
+cricket 600 IN A 141.222.1.21
+cardweb 600 IN A 141.222.5.52
+dreams 600 IN A 141.222.52.128
+lyncdiscover.retired 600 IN CNAME webdir.online.lync.com.
+wco 600 IN A 141.222.1.124
+textbooks 600 IN CNAME bookstore
+ensemble 600 IN CNAME ny6mediawin
+basie 600 IN A 141.222.169.26
+axis 600 IN A 141.222.1.89
+eclipse1 600 IN A 141.222.28.50
+eclipse2 600 IN A 141.222.28.51
+qualtrics 600 IN CNAME skidmore.qualtrics.com.
+help 600 IN A 141.222.1.140
+validate 600 IN A 141.222.1.79
+mingus 600 IN A 141.222.169.32
+atlas 600 IN A 141.222.6.3
+atlas 600 IN MX 30 monty1
+alumdir 600 IN CNAME cucurbit
+rhodes 600 IN A 141.222.6.13
+rhodes 600 IN MX 30 monty1
+msoid.alumni 600 IN CNAME clientconfig.microsoftonline-p.net.
+finaid 600 IN A 141.222.68.33
+_sip._tls 600 IN SRV 100 1 443 sipdir.online.lync.com.
+hobbs 600 IN CNAME scott2
+hconard 600 IN A 141.222.64.38
+m.catalog 600 IN CNAME skidmore.catalog.acalog.com.
+lib2 600 IN A 141.222.2.81
+pine 600 IN A 141.222.2.5
+library 600 IN CNAME vulcan
+gomobile 600 IN A 141.222.2.167
+storymap 600 IN A 141.222.1.153
+cortana 600 IN A 141.222.4.83
+mediashare 600 IN CNAME ny6mediawin
+ebvserver 600 IN A 141.222.88.133
+projectum 600 IN A 141.222.1.43
+webcheckout 600 IN A 141.222.1.185
+chalmers 600 IN A 141.222.1.28
+nohu 600 IN A 141.222.1.205
+venus 600 IN CNAME placid
+loghost 600 IN CNAME scott
+wally 600 IN A 141.222.108.41
+skidnet 600 IN CNAME awc
+sip 600 IN CNAME sipdir.online.lync.com.
+lucy 600 IN CNAME scribe
+acadtemp 600 IN A 141.222.1.74
+advweb 600 IN A 141.222.1.83
+macx3 600 IN A 141.222.143.3
+duplicate 600 IN A 141.222.1.39
+ssmp 600 IN A 141.222.2.129
+LIPUB-UNKBNOWN3 600 IN A 141.222.170.42
+sagefas 600 IN A 141.222.1.111
+astra 600 IN A 141.222.1.27
+cfsrv 600 IN A 141.222.1.47
+oaprod 600 IN CNAME atlas
+hermod 600 IN A 141.222.1.134
+birch 600 IN A 141.222.2.45
+appserv 600 IN CNAME acadsrv
+loadb 600 IN CNAME ec2-54-84-16-58.compute-1.amazonaws.com.
+monty3 600 IN A 141.222.0.13
+monty3 600 IN MX 10 monty3
+www.bookstore 600 IN A 74.205.225.78
+search 600 IN CNAME griffin
+wayback 600 IN A 141.222.88.131
+gungnir 600 IN A 141.222.2.22
+calypso 600 IN A 141.222.1.107
+lserv1 600 IN A 141.222.1.31
+awcsrv 600 IN CNAME awc
+cfsrvtst 600 IN A 141.222.1.45
+boru 600 IN CNAME apps
+cucurbit 600 IN A 141.222.1.30
+calendar 600 IN A 141.222.2.63
+pars 600 IN A 141.222.52.129
+creativematter 600 IN CNAME dcskidmore.bepress.com.
+bird 600 IN A 141.222.169.25
+datastor 600 IN A 141.222.1.41
+hudson2 600 IN A 141.222.1.67
+hudson2 600 IN MX 30 monty1
+_sipfederationtls._tcp.retired 600 IN SRV 100 1 5061 sipfed.online.lync.com.
+cslab 600 IN A 141.222.36.200
+hudson5 600 IN A 141.222.2.6
+autodiscover 600 IN CNAME autodiscover.outlook.com.
+hudson 600 IN CNAME hudson2
+miles 600 IN A 141.222.169.27
+gis 600 IN A 141.222.28.36
+vulcan 600 IN A 141.222.1.142
+vulcan 600 IN MX 20 vulcan
+verify 600 IN A 141.222.2.83
+504382433.live 600 IN CNAME domains.live.com.
+flip 600 IN A 141.222.88.129
+odyssey 600 IN A 141.222.1.151
+omni 600 IN A 141.222.7.66
+omni 600 IN MX 30 monty1
+autodiscover.mail 600 IN CNAME autodiscover.outlook.com.
+omni3 600 IN A 141.222.1.3
+devmobile 600 IN CNAME hudson2
+pmhrouter 600 IN A 141.222.144.1
+monk 600 IN A 141.222.169.22
+luna 600 IN A 141.222.2.3
+luna 600 IN MX 30 monty1
+localhost 600 IN A 127.0.0.1
+basilisk 600 IN A 141.222.1.18
+*.lib2 600 IN A 141.222.2.81
+croesus 600 IN A 141.222.6.18
+loki 600 IN A 141.222.1.14
+cannonball 600 IN A 141.222.169.31
+swright3 600 IN A 141.222.4.254
+mark4 600 IN A 141.222.177.24
+sabine 600 IN A 141.222.2.7
+jobs 600 IN CNAME hudson2
+herbie 600 IN A 141.222.169.29
+scribe 600 IN A 141.222.2.13
+elm2 600 IN A 141.222.2.99
+_h323cs._tcp 600 IN SRV 0 0 1720 skid-vcs-e
+scott 600 IN A 141.222.1.4
+scott 600 IN MX 30 monty1
+600 IN MX 100 monty
+aspen 600 IN A 141.222.2.16
+myocse 600 IN CNAME skidmore-ocse.terradotta.com.
+acacia 600 IN A 141.222.2.9
+lib2dev 600 IN A 141.222.2.80
+skid-vcs-c 600 IN A 141.222.252.5
+kemp 600 IN A 141.222.1.190
+600 IN A 141.222.1.191
+skid-vcs-e 600 IN A 141.222.253.5
+msoid.mail 600 IN CNAME clientconfig.microsoftonline-p.net.
+cmsdbdev 600 IN A 141.222.1.81
+monty1 600 IN A 141.222.0.12
+monty1 600 IN MX 5 monty1
+oak 600 IN A 141.222.2.4
+www 600 IN CNAME ec2-54-84-16-58.compute-1.amazonaws.com.
+oam 600 IN CNAME boru
+apollo 600 IN A 141.222.6.30
+apollo 600 IN MX 30 monty1
+994283654 600 IN CNAME domains.live.com.
+mabel2 600 IN A 141.222.2.2
+skidsms 600 IN A 141.222.1.110
+chromas 600 IN A 141.222.52.130
+monty 600 IN A 141.222.0.11
+monty 600 IN MX 100 monty
+ldg2 600 IN A 141.222.64.42
+card 600 IN CNAME hudson2
+ny6mediawin 600 IN A 141.222.1.61
+hudson-dr 600 IN CNAME ec2-54-84-52-66.compute-1.amazonaws.com.
+terra 600 IN A 141.222.1.177
+avatar 600 IN A 141.222.4.252
+autodiscover.live 600 IN CNAME autodiscover.outlook.com.
+maple2 600 IN A 141.222.2.126
+msoid.live 600 IN CNAME clientconfig.microsoftonline-p.net.
+macx1 600 IN A 141.222.143.1
+dspace 600 IN CNAME titan
+macx2 600 IN A 141.222.143.2
+brain 600 IN A 141.222.88.132
+elm 600 IN A 141.222.2.11
+tangblog 600 IN A 141.222.2.82
+mailhost 600 IN CNAME scott
+goldweb 600 IN A 141.222.1.90
+facctr 600 IN A 141.222.1.54
+mars 600 IN A 141.222.1.157
+griffin 600 IN A 141.222.2.8
+autodiscover.alumni 600 IN CNAME autodiscover.outlook.com.
+mimic 600 IN A 141.222.1.112
+coltrane 600 IN A 141.222.169.23
+acadreplica 600 IN A 141.222.1.80
+sphynx 600 IN A 141.222.1.60
+iacprt 600 IN A 141.222.9.31
+_h323rs._udp 600 IN SRV 0 0 1719 skid-vcs-e
+timepro 600 IN A 141.222.4.82
+nca 600 IN CNAME delphi
+cal 600 IN CNAME calendar
+idm 600 IN A 207.97.243.212
+jupiter 600 IN A 141.222.1.156
+_h323ls._udp 600 IN SRV 0 0 1719 skid-vcs-e
+Temp1 600 IN A 141.222.172.10
+temp2 600 IN CNAME lib2
+Temp3 600 IN A 141.222.172.12
+Temp4 600 IN A 141.222.172.13
+mail 600 IN MX 0 mail-skidmore-edu.mail.protection.outlook.com.
+mail 600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+mail 600 IN SPF "v=spf1" "mx" "mx:monty.skidmore.edu" "mx:monty1.skidmore.edu" "ip4:141.222.0.13" "mx:monty3.skidmore.edu" "-all"
+voyager 600 IN CNAME lucy2
+caesar 600 IN A 141.222.175.150
+proponos 600 IN A 141.222.1.120
+broadway 600 IN A 141.222.1.114
+lucy2 600 IN A 64.74.237.165
+lucy2 600 IN MX 30 monty1
+magpie 600 IN A 141.222.64.37
+mobile 600 IN CNAME hudson2
+dizzy 600 IN A 141.222.169.30
+awc 600 IN A 141.222.1.55
+shiva1 600 IN A 141.222.177.12
+shiva3 600 IN A 141.222.177.11
+hrumc 600 IN CNAME hudson2
+spock 600 IN A 141.222.1.93
+safetysrv2 600 IN A 141.222.1.49
+tang 600 IN CNAME tangweb
+iris 600 IN A 141.222.1.181
+clatina 600 IN A 141.222.2.90
+lyncdiscover 600 IN CNAME webdir.online.lync.com.
+rasserver2 600 IN A 141.222.176.25
+live 600 IN MX 0 live-skidmore-edu.mail.protection.outlook.com.
+boschereymagier 600 IN CNAME academics
+skidpub1 600 IN CNAME skidint
+fischergig1 600 IN A 141.222.1.206
+rds-12.skidmore.edu 600 IN A 141.222.1.84
+ldgmac1 600 IN A 141.222.64.43
+www2 600 IN CNAME cfsrv
+nadir 600 IN A 141.222.1.87
+box 600 IN CNAME hudson
+www.alumni 600 IN A 72.52.5.200
+catalogauthor 600 IN CNAME publisher.skidmore.acalog.com.
+sherman 600 IN A 141.222.2.39
+maple 600 IN A 141.222.2.10
+msoid 600 IN CNAME clientconfig.microsoftonline-p.net.
+psychology 600 IN CNAME hudson2
+athens 600 IN A 141.222.1.33
+athens 600 IN MX 30 monty1
+ge165-mac 600 IN A 141.222.28.138
+moby 600 IN CNAME wayback
+savant 600 IN A 141.222.1.168
+createyour 600 IN CNAME skidmore.inigral.com.
+calvin1 600 IN A 141.222.244.20
+student 600 IN A 141.222.1.121
+netra1 600 IN A 141.222.1.19
+netra1 600 IN MX 30 monty1
+rover1 600 IN A 141.222.244.21
+placid 600 IN A 141.222.1.82
+ldglinux 600 IN CNAME ldg2
+itunes 600 IN CNAME hudson2
+bboard 600 IN CNAME hudson2
+card01 600 IN A 141.222.2.34
+card02 600 IN A 141.222.2.35
+card03 600 IN A 141.222.2.36
+libguides 600 IN CNAME v2.libguides.com.
+dbs 600 IN A 141.222.1.36
+birch2 600 IN A 141.222.2.127
+birch3 600 IN A 141.222.2.34
+blog 600 IN CNAME pubtest
+fliplab 600 IN A 141.222.88.130
+oasis 600 IN A 141.222.6.17
+ge165-pc 600 IN A 141.222.28.137
+orbit 600 IN A 141.222.108.52
+niagara 600 IN CNAME hudson2
+argos 600 IN A 141.222.1.116
+cs 600 IN NS cslab
+delphi 600 IN A 141.222.6.2
+delphi 600 IN MX 30 monty1
+mena 600 IN A 141.222.1.15
+placid3 600 IN A 141.222.1.83
+oatst1 600 IN CNAME atlas
+cms 600 IN CNAME griffin
+_sip._tls.retired 600 IN SRV 100 1 443 sipdir.online.lync.com.
+asianmusic 600 IN CNAME hudson2
+oatst2 600 IN CNAME atlas
+scully2 600 IN A 141.222.28.130
+autodiscover.retired 600 IN CNAME autodiscover.outlook.com.
+thebes 600 IN A 141.222.6.15
+thebes 600 IN MX 30 monty1
+aruba-master 600 IN A 141.222.112.2
+_http._tcp 600 IN SRV 0 5 80 www
+langsrv1 600 IN A 141.222.64.35
+munin 600 IN A 141.222.1.66
+bookstore 600 IN CNAME www.bookstore
+tbweb 600 IN A 141.222.1.161
+langserv 600 IN A 141.222.64.36
+shiva4 600 IN A 141.222.177.10
+willow 600 IN A 141.222.2.12
+owa 600 IN CNAME outlook.office365.com.
+social 600 IN A 141.222.1.50
+poplar 600 IN A 141.222.2.15
+salmagundi 600 IN CNAME magpie
+sparta 600 IN A 141.222.1.146
+vonksrv 600 IN A 141.222.36.32
+rover2 600 IN MX 30 monty1
+mcs2 600 IN A 141.222.36.33
+charlie 600 IN A 141.222.177.30
+jsanders 600 IN A 141.222.4.89
+django 600 IN A 141.222.169.24
+dir 600 IN CNAME luna
+digitalcoll 600 IN CNAME cdm15968.contentdm.oclc.org.
+acadsrv 600 IN A 141.222.1.48
+dance 600 IN CNAME hudson
+LIPUB-UNKNOWN1 600 IN A 141.222.170.37
+illiad 600 IN A 141.222.4.99
+504382433 600 IN CNAME domains.live.com.
+walu 600 IN A 141.222.1.207
+academics 600 IN A 141.222.1.72
+LIPUB-UNKNOWN2 600 IN A 141.222.170.40
+hobbs2 600 IN A 141.222.1.17
+events 600 IN CNAME cfsrv
+skidkms 600 IN A 141.222.1.96
+victor 600 IN A 141.222.1.58
+tandberg 600 IN A 141.222.65.50
+*.lib 600 IN CNAME vulcan
+odin 600 IN A 141.222.1.69
+dopplehudson 600 IN A 141.222.2.67
+woodlawn 600 IN A 141.222.156.25
+vishnu 600 IN A 141.222.1.65
+tangweb 600 IN A 141.222.1.16
+balder 600 IN A 141.222.1.130
+catalog 600 IN CNAME skidmore.catalog.acalog.com.
+vanity 600 IN A 141.222.1.29
+alumni 600 IN A 72.52.5.200
+alumni 600 IN MX 0 alumni-skidmore-edu.mail.protection.outlook.com.
+alumni 600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+libpubrouter 600 IN A 141.222.170.1
+cmsfewin2 600 IN CNAME cmsauthor
+titan 600 IN A 141.222.1.158
+okeefe 600 IN A 141.222.64.34
+duke 600 IN A 141.222.169.28
+acadclone 600 IN A 141.222.1.80
+msoid.retired 600 IN CNAME clientconfig.microsoftonline-p.net.
+ooVidKhqMnzvSwoLmDqw 600 IN CNAME www.incommon.org.
+careers 600 IN CNAME skidmore.peopleadmin.com.
+lab 600 IN A 141.222.100.10
+psych 600 IN CNAME hudson2
+don 600 IN A 141.222.169.33
+learn 600 IN A 141.222.1.144
+2131952177.live 600 IN CNAME domains.live.com.
+fischergig2 600 IN A 141.222.1.207

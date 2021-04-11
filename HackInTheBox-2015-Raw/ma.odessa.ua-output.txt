@@ -1,0 +1,9 @@
+@ 3600 IN SOA ns.uptel.net. root.ns.uptel.net 2010031101 10800 3600 2419200 86400
+@ 3600 IN MX 5 relay.uptel.net.
+@ 3600 IN A 195.138.160.8
+@ 3600 IN NS ns.odtel.net.
+3600 IN NS ns.uptel.net.
+test 3600 IN A 195.138.160.8
+ftp 3600 IN A 195.138.166.130
+localhost 3600 IN A 127.0.0.1
+www 3600 IN A 195.138.160.8

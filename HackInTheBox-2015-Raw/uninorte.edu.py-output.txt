@@ -1,0 +1,15 @@
+@ 172800 IN SOA ns1 postmaster 2015022401 3600 600 1209600 3600
+@ 172800 IN NS ns1
+172800 IN NS ns2
+@ 172800 IN MX 10 mail
+@ 3600 IN TXT "MS=ms51887012"
+3600 IN TXT "v=spf1 a:mail.uninorte.edu.py mx ptr ip4:201.222.49.214 ~all"
+3600 IN TXT "v=spf1 a mx ptr ip4:201.222.49.214 mx:mail.uninorte.edu.py -all"
+investigacion 172800 IN CNAME www
+postgrado 172800 IN CNAME www
+ns1 172800 IN A 201.222.53.238
+ns2 172800 IN A 201.217.23.2
+www 172800 IN A 201.222.50.138
+autoevaluacion 172800 IN CNAME www
+mail 172800 IN A 201.222.50.134
+im 172800 IN A 201.222.53.238

@@ -1,0 +1,33 @@
+@ 86400 IN SOA ns postmaster 2015010704 28800 14400 3600000 86400
+@ 86400 IN A 150.60.19.89
+@ 3600 IN TXT "MS=ms48061790"
+3600 IN TXT "v=spf1 +ip4:211.128.70.0/25~all"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 3600 IN MX 0 hakodateu-ac-jp02b.mail.protection.outlook.com.
+@ 86400 IN NS ns
+86400 IN NS ns2
+websso 86400 IN A 210.191.208.213
+ns2 86400 IN A 210.191.208.196
+wbt 86400 IN A 210.191.208.200
+web 86400 IN CNAME in-www
+moodle 86400 IN A 210.191.208.209
+mailf 86400 IN CNAME mg
+peer2 86400 IN A 210.191.208.215
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+m251 86400 IN A 210.191.208.217
+www 86400 IN A 150.60.19.89
+ns 86400 IN A 210.191.208.195
+cbdb 86400 IN A 210.191.208.203
+regi-s 86400 IN A 210.191.208.199
+cp-server 86400 IN A 172.30.200.8
+w3 86400 IN A 210.191.208.201
+w4 86400 IN CNAME ns
+ws3 86400 IN CNAME ws
+localhost 86400 IN A 127.0.0.1
+mg 86400 IN A 210.191.208.208
+m19 86400 IN A 210.191.208.217
+in-www 86400 IN A 210.191.208.197
+yagi-s 86400 IN CNAME ns2
+opac 86400 IN A 210.191.208.198
+peers 86400 IN A 210.191.208.214

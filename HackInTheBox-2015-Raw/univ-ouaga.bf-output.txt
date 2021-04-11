@@ -1,0 +1,55 @@
+@ 604800 IN SOA agora hostmaster 2013042301 604800 86400 2419200 604800
+@ 604800 IN NS agora
+604800 IN NS castor.teleglobe.net.
+604800 IN NS nahouri.onatel.bf.
+@ 604800 IN MX 10 mail
+604800 IN MX 20 mail2
+ceei 604800 IN CNAME cisco
+asdi 604800 IN CNAME cisco
+cisco 604800 IN A 212.52.131.34
+sobusam 604800 IN CNAME cisco
+gw 604800 IN A 212.52.131.1
+sobuchir 604800 IN CNAME cisco
+deda 604800 IN CNAME cisco
+astro 604800 IN CNAME cisco
+cluo 604800 IN CNAME cisco
+voip 604800 IN A 212.52.131.7
+pmb 604800 IN A 10.10.10.30
+cerleshs 604800 IN CNAME cisco
+fasolex 604800 IN A 212.52.131.35
+ouaga 604800 IN A 212.52.131.15
+visioconf 604800 IN A 212.52.131.14
+mail 604800 IN A 212.52.131.4
+igedd 604800 IN CNAME cisco
+reseauedp 604800 IN CNAME cisco
+ldap 604800 IN A 212.52.131.16
+iutenligne 604800 IN A 212.52.131.31
+mail2 604800 IN A 212.52.131.5
+mail.test 604800 IN A 212.52.131.20
+mail.test 604800 IN TXT "google-site-verification=NaMP6dpCOJ4dMdj4Wf7HtAFO_kv7eP3RuoslDz_AvRs"
+mail.test 604800 IN MX 1 ASPMX.L.GOOGLE.COM.
+604800 IN MX 3 ALT1.ASPMX.L.GOOGLE.COM.
+604800 IN MX 3 ALT2.ASPMX.L.GOOGLE.COM.
+604800 IN MX 5 ASPMX2.GOOGLEMAIL.COM.
+604800 IN MX 5 ASPMX3.GOOGLEMAIL.COM.
+etude 604800 IN MX 30 email.etude
+test 604800 IN MX 30 email.test
+www 604800 IN A 212.52.131.9
+agora 604800 IN A 212.52.131.2
+cepape 604800 IN CNAME cisco
+ibam 604800 IN CNAME cisco
+ecoleCIMPA09 604800 IN CNAME cisco
+uoinfo 604800 IN CNAME cisco
+bibliotheque 604800 IN CNAME cisco
+recherche 604800 IN CNAME cisco
+lame-phys 604800 IN CNAME cisco
+dpntic-esxi1 604800 IN A 212.52.131.11
+dpntic-esxi2 604800 IN A 10.10.10.10
+intranet 604800 IN A 212.52.131.13
+mail.etude 604800 IN A 212.52.131.8
+annuaire 604800 IN CNAME cisco
+etude-lame-phys 604800 IN CNAME cisco
+officebac 604800 IN CNAME cisco
+dpntic 604800 IN CNAME cisco
+ccna 604800 IN A 212.52.131.6
+gril 604800 IN CNAME cisco

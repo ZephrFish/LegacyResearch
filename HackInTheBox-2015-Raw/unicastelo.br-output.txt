@@ -1,0 +1,52 @@
+@ 86400 IN SOA dns-a.eveo.com.br. noc.nrserver.net. 2015042700 86400 7200 3600000 86400
+@ 14400 IN MX 10 mx.eveo.com.br.
+14400 IN MX 20 fallbackmx.eveocloud.com.
+14400 IN MX 30 lastmx.eveocloud.net.
+@ 14400 IN TXT "v=spf1 +a +mx +ip4:187.108.192.65 +ip4:187.108.192.90 +include:spf.eveo.com.br ~all"
+@ 86400 IN NS dns-a.eveo.com.br.
+86400 IN NS dns-b.eveo.com.br.
+86400 IN NS dns-c.eveo.com.br.
+@ 14400 IN A 187.108.198.187
+www.ppgebm 14400 IN CNAME @
+ppgebm 14400 IN CNAME @
+ead2 14400 IN A 187.108.198.186
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1y3Kde0JAh2dcXu52jvP8pxmSldq78L/oacm4IMJdjKGCsAGLUbojhRT1pS/Zcmc33+BIFuDqqKWCfyPp21K9/qOTakTRqO55nBTR2Ye2+efyWaEDKXRPQqw6EeCOtatgAHRNhbveKuWHyBjhpPA8FoRN9RVSxBnYZ8ZlhV5hjwIDAQAB;"
+www.ead 14400 IN A 187.108.198.186
+webmail 14400 IN CNAME smtp
+temp 14400 IN A 187.108.192.15
+www.leao13 14400 IN A 187.108.192.15
+www.epginic 14400 IN A 187.108.198.187
+leao13 14400 IN TXT "v=spf1 +a +mx +ip4:187.108.192.65 +ip4:187.108.192.90 +include:spf.eveo.com.br ~all"
+leao13 14400 IN A 187.108.192.15
+autoconfig.leao13 14400 IN A 187.108.192.15
+temp2 14400 IN A 187.108.194.9
+mx 14400 IN A 187.108.192.90
+epginic 14400 IN A 187.108.198.187
+chat 14400 IN A 187.62.223.108
+mail 14400 IN CNAME smtp
+whm 14400 IN A 187.108.192.15
+google._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkpCdf6YP9QRPw0KphtfKPpkqficoSiG6wgg6p8/X5SWvJ11DZ9aq7LtVaSOUz6Sc6dmn998oMeehr+xtKFTT1nUcEg3vPqHrlzB57UO9Mg3X+6mB+tGWI27Dfa0DWtN+di/FMe9aP3DxYoEwRrP7vwjUpjOIwxNxA6qSPhPeDRQIDAQAB"
+ead 14400 IN A 187.108.198.186
+default._domainkey.leao13 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHLYMqTKU1M/XmcKcHeK6s7efic0i7HxeRq/uB1LcZ7j68+HxhCzkz7Tr10bPLhWp76zmSeanoPbtZHGR+sd7PBbm73aMqDefRAKQSrzCWdXjLVskDM/ttAgwLYfFi3HLNwOJnO2wgkq6LEwy8aDlTsOwGBNDnbJrOiuJ0Yw4AIwIDAQAB;"
+ajuda 14400 IN A 187.62.223.110
+voip 14400 IN A 187.62.223.108
+pop 14400 IN CNAME smtp
+webdisk 14400 IN A 187.108.192.15
+ftp 14400 IN CNAME @
+cpanel 14400 IN A 187.108.192.15
+_autodiscover._tcp.leao13 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.leao13 14400 IN A 187.108.192.15
+autodiscover.leao13 14400 IN A 187.108.192.15
+sibem 14400 IN A 187.108.198.187
+localhost 14400 IN A 127.0.0.1
+sec 14400 IN A 187.62.223.109
+imap 14400 IN CNAME smtp
+biblioteca 14400 IN A 187.62.223.107
+www 14400 IN CNAME @
+ppgbioeng 14400 IN A 187.108.198.187
+mysql 14400 IN A 187.108.192.85
+boletimtecnicopa 14400 IN A 187.108.198.187
+cmail 14400 IN CNAME smtp
+portalrm 14400 IN CNAME 189.57.48.138.
+smtp 14400 IN A 187.108.192.90
+mail2 14400 IN CNAME ghs.googlehosted.com.

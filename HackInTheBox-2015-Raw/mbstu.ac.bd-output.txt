@@ -1,0 +1,39 @@
+@ 86400 IN SOA ns3.technobd.com. support.technobd.com. 2013102113 86400 7200 3600000 86400
+@ 300 IN TXT "v=spf1 a mx ip4:67.227.142.4 ?all"
+@ 300 IN MX 0 @
+@ 86400 IN NS ns3.technobd.com.
+86400 IN NS ns4.technobd.com.
+@ 300 IN A 67.227.142.6
+webdisk.admission 300 IN A 67.227.142.6
+default._domainkey 300 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAOC/LCUX9RWtZHcQ1Sf1In22tV5W6bLBeR5ayjQwCD4vuWiN+WPWmuG4EVWPsy0hUHIn166/iBcX1TlRSCQCsTktzHmEXNCD0DFOPgxyh7CUzlE1iTpfXhx1eubrI4KxDwIDAQAB;"
+webmail 300 IN A 67.227.142.6
+_autodiscover._tcp.old 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.old 14400 IN A 67.227.142.6
+_autodiscover._tcp.new 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.new 14400 IN A 67.227.142.6
+autoconfig.admission 300 IN A 67.227.142.6
+www.admission 14400 IN A 67.227.142.6
+default._domainkey.admission 300 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAOGLfbKZlNzOpBRxArBdHkxuhDBV7SNiqAH1h+EvVygN4xCDZ4GeIk40gFkXH2nnHuBTn2Z1zh4tS1ZMONJs1EgXHf6YzmzaVyLCIrbcxwhDu4GLAAvljbGqmzj0iCl5GQIDAQAB;"
+autoconfig.old 300 IN A 67.227.142.6
+admission 300 IN TXT "v=spf1 a mx ip4:67.227.142.4 ?all"
+admission 14400 IN A 67.227.142.6
+webdisk.old 300 IN A 67.227.142.6
+autoconfig.new 300 IN A 67.227.142.6
+webdisk.new 300 IN A 67.227.142.6
+_autodiscover._tcp.admission 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk 300 IN A 67.227.142.6
+autodiscover 300 IN A 67.227.142.6
+autodiscover.admission 300 IN A 67.227.142.6
+whm 300 IN A 67.227.142.6
+autodiscover.new 300 IN A 67.227.142.6
+autodiscover.old 300 IN A 67.227.142.6
+mail 300 IN CNAME @
+ftp 300 IN A 67.227.142.6
+cpanel 300 IN A 67.227.142.6
+www 300 IN CNAME @
+old 14400 IN A 67.227.142.6
+localhost 300 IN A 127.0.0.1
+new 14400 IN A 67.227.142.6
+default._domainkey.rails 300 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhANX9oV18LqBmrezdCzYQVzCB/F5qHvKMWge71OeUlrgTIg8gPXNW2WNbbru1FjSNFPmuqNlbL3BEYuYYjpoYOgVLODYAxz0z2nENVAqrGIcbntI5HejN/e32px6wyypOcwIDAQAB;"
+_autodiscover._tcp 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig 300 IN A 67.227.142.6

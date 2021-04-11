@@ -1,0 +1,47 @@
+@ 86400 IN SOA dns hostmaster 2014040701 10800 3600 604800 600
+@ 202 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+202 IN TXT "google-site-verification=sem3XbboCT2n6vGyKF5c9Oij7Z8k1i7wk3hJHpXIt0A"
+@ 3600 IN MX 50 hut-edu-vn.mail.protection.outlook.com.
+@ 86400 IN NS dns
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+sip 3600 IN CNAME sipdir.online.lync.com.
+msoid.staff 3600 IN CNAME clientconfig.microsoftonline-p.net.
+staff.mail 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+staff.mail 3600 IN MX 50 staff-mail-hut-edu-vn.mail.protection.outlook.com.
+_sip._tls.staff.mail 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+_sipfederationtls._tcp.mail 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls.staff 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+_sipfederationtls._tcp.staff.mail 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+lyncdiscover.mail 3600 IN CNAME webdir.online.lync.com.
+autodiscover.staff.mail 3600 IN CNAME autodiscover.outlook.com.
+mail 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+mail 3600 IN MX 50 mail-hut-edu-vn.mail.protection.outlook.com.
+sip.mail 3600 IN CNAME sipdir.online.lync.com.
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+autodiscover.mail 3600 IN CNAME autodiscover.outlook.com.
+msoid.staff.mail 3600 IN CNAME clientconfig.microsoftonline-p.net.
+lyncdiscover.staff 3600 IN CNAME webdir.online.lync.com.
+student 86400 IN MX 30 ASPMX.L.GOOGLE.com.
+86400 IN MX 40 ALT1.L.GOOGLE.com.
+86400 IN MX 40 ALT2.L.GOOGLE.com.
+86400 IN MX 50 ASPMX2.GOOGLEMAIL.com.
+86400 IN MX 50 ASPMX3.GOOGLEMAIL.com.
+86400 IN MX 50 ASPMX4.GOOGLEMAIL.com.
+86400 IN MX 50 ASPMX5.GOOGLEMAIL.com.
+dns2 86400 IN A 202.191.57.8
+dns3 86400 IN A 202.191.58.8
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+staff 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+staff 3600 IN MX 50 staff-hut-edu-vn.mail.protection.outlook.com.
+mail.student 86400 IN CNAME ghs.GOOGLE.com.
+office365 86400 IN CNAME portal.microsoftonline.com.
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+lyncdiscover.staff.mail 3600 IN CNAME webdir.online.lync.com.
+_sipfederationtls._tcp.staff 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+msoid.mail 3600 IN CNAME clientconfig.microsoftonline-p.net.
+_sip._tls.mail 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+dns 86400 IN A 202.191.56.8
+autodiscover.staff 3600 IN CNAME autodiscover.outlook.com.
+sip.staff 3600 IN CNAME sipdir.online.lync.com.
+sip.staff.mail 3600 IN CNAME sipdir.online.lync.com.
