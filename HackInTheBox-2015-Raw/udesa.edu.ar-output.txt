@@ -1,0 +1,77 @@
+@ 300 IN SOA @ root.ns1 2015042901 300 300 300 300
+@ 300 IN TXT "v=spf1 include:_spf.google.com include:syncmail.net include:_spf.embluemail.com ip4:190.220.3.41 ip4:190.220.3.30 ip4:64.76.120.172 ip4:64.76.120.179 ip4:64.76.120.162 " "ip4:200.69.248.35 ip4:200.69.248.100 ip4:190.106.129.60 ip4:184.173.174.106 ip4:184.173.174.107 ip4:184.173.137.203 ip4:64.18.1.25 ip4:74.112.67.111 mx:mx1.udesa.edu.ar -all"
+300 IN TXT "MS=ms80285433"
+300 IN TXT "DZC=R5OZbjp"
+300 IN TXT "google-site-verification=aPTOwzhsng3DHZ7qt8tVRw9_rdH_lNwjg3Zbv3oTOrw"
+@ 300 IN SPF "v=spf1 include:_spf.google.com include:syncmail.net include:_spf.embluemail.com ip4:190.220.3.41 ip4:190.220.3.30 ip4:64.76.120.172 ip4:64.76.120.179 ip4:64.76.120.162 " "ip4:200.69.248.35 ip4:200.69.248.100 ip4:190.106.129.60 ip4:184.173.174.106 ip4:184.173.174.107 ip4:184.173.137.203 ip4:64.18.1.25 ip4:74.112.67.111 mx:mx1.udesa.edu.ar -all"
+@ 300 IN NS ns1
+300 IN NS ns1.techtel.com.ar.
+300 IN NS ns3.syncromind.com.
+@ 300 IN MX 1 ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+300 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+300 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+@ 86400 IN A 23.253.205.241
+campusvirtual 86400 IN A 184.173.174.106
+loopback 86400 IN A 127.0.0.1
+default._domainkey 300 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2uhPUiSP+3CHwOlDZXySyPtifyQDa5HdxH8U2qHM88T7RdcgMUC8gfJP/4oJ2TVjyYjiScO5PDSrKp+/JmIVIT1lXoh+HaJ9J6Fu3oZguY3Legr41AlWi/XZVMbPAmaj04lWmc8OWPcCArzOS9f89bqameZ8Woma3qoXu73cK/wIDAQAB"
+plataforma 86400 IN A 184.173.137.203
+sites 86400 IN CNAME ghs.google.com.
+webxplorer 86400 IN CNAME webacademicos
+ns1 300 IN A 190.220.3.6
+udesaonline 86400 IN A 207.36.17.242
+oldwebct 86400 IN CNAME atoz
+cisco 86400 IN A 190.220.3.1
+red 86400 IN CNAME ghs.googlehosted.com.
+repositorio 86400 IN A 190.220.3.3
+camseg 86400 IN A 190.220.3.35
+fobos 86400 IN A 190.220.2.218
+www.sidpa 86400 IN CNAME udesa.hosting.syncromind.com.
+sigeduweb 86400 IN A 190.220.3.9
+eza 86400 IN A 190.220.3.39
+standard 86400 IN CNAME webacademicos
+epexo._domainkey.udesa.edu.ar 300 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC92DPEfr8M28KVopiGVgDo3uYLBtSgNIsarAUjOTLiW2LGC+k2WrEBTIyk/XM+N6mUZc9mf7hlrw3zG2T975IPKk1eg4XnqDj45xpKplqyvDFgehuARlSzv1dp2NlqayECXihlFwrtzvXXoEv/9QiH3Efaii/GeMsVqYrxBNSHmQIDAQAB"
+sigedu 86400 IN A 190.220.3.8
+calendar 86400 IN CNAME ghs.google.com.
+mx1 300 IN A 190.220.3.30
+combis 86400 IN A 190.220.3.29
+blogderecho 86400 IN A 23.253.205.241
+faculty 86400 IN CNAME udesa.hosting.syncromind.com.
+bart 86400 IN A 190.220.3.20
+*.eza 86400 IN A 190.220.3.39
+wp 86400 IN A 184.173.174.106
+crmcisposfl 86400 IN A 190.220.3.36
+mails 86400 IN CNAME ghs.google.com.
+graduado 86400 IN CNAME udesa.hosting.syncromind.com.
+campusvirtualcee 86400 IN A 184.173.174.107
+ntop 86400 IN CNAME atoz
+lab 86400 IN A 184.173.137.203
+webacademicos 86400 IN A 190.220.3.28
+atoz 86400 IN A 190.220.3.5
+mx2 300 IN A 190.220.3.5
+docs 86400 IN CNAME ghs.google.com.
+ntp 86400 IN A 190.220.3.6
+educacion 86400 IN A 184.173.174.107
+ariel 86400 IN A 190.220.3.12
+gestion 86400 IN A 190.220.3.29
+www2 86400 IN A 50.57.157.98
+nuevocodigocivilycomercial 86400 IN A 23.253.205.241
+biblioteca 86400 IN CNAME udesa.hosting.syncromind.com.
+deimos 86400 IN A 190.220.3.10
+4fx6ju6xtjcd 86400 IN CNAME gv-sw36xias7ko635.dv.googlehosted.com.
+catalogobiblio 86400 IN A 190.220.3.26
+asterion 86400 IN A 190.220.3.26
+intratest 86400 IN A 190.220.3.34
+localhost 86400 IN CNAME loopback
+conservar 86400 IN A 190.220.3.40
+molleja 86400 IN A 190.220.3.19
+pegaso 86400 IN CNAME mx1
+revistajuridica 86400 IN A 23.253.205.241
+wwwphp 86400 IN A 23.253.205.241
+www.amicus 86400 IN CNAME udesa.hosting.syncromind.com.
+moodletest 86400 IN A 190.220.3.24
+amicus 86400 IN CNAME udesa.hosting.syncromind.com.
+sigeva 86400 IN A 190.220.3.11
+intranet 86400 IN A 190.220.3.33
+www 86400 IN CNAME udesa.hosting.syncromind.com.

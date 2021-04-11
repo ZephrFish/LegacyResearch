@@ -1,0 +1,26 @@
+@ 86400 IN SOA mstrsky.vbnservices.net. hostmaster.vbnservices.net. 2009111163 28800 7200 604800 86400
+@ 86400 IN NS ns1uul.vbnservices.net.
+86400 IN NS ns1vbn.vbnservices.net.
+86400 IN NS ns2uul.vbnservices.net.
+86400 IN NS ns2vbn.vbnservices.net.
+86400 IN NS mstrsky.vbnservices.net.
+86400 IN NS mstruul.vbnservices.net.
+@ 86400 IN MX 1 aspmx.l.google.com.
+86400 IN MX 2 alt1.aspmx.l.google.com.
+86400 IN MX 3 aspmx.l.google.com.
+86400 IN MX 4 aspmx2.googlemail.com.
+86400 IN MX 5 aspmx3.googlemail.com.
+mstrsky.vbnservices.net. 86400 IN A 83.143.30.20
+ns1vbn.vbnservices.net. 86400 IN A 83.143.24.39
+sites 86400 IN CNAME ghs.google.com.
+ns2vbn.vbnservices.net. 86400 IN A 83.143.24.38
+calander 86400 IN CNAME ghs.google.com.
+ns1uul.vbnservices.net. 86400 IN A 196.41.161.139
+groups 86400 IN CNAME ghs.google.com.
+docs 86400 IN CNAME ghs.google.com.
+mail 86400 IN CNAME ghs.google.com.
+ns2uul.vbnservices.net. 86400 IN A 196.41.161.138
+imap 86400 IN CNAME imap.gmail.com.
+smtp 86400 IN CNAME smtp.gmail.com.
+prtg 86400 IN A 41.216.208.50
+mstruul.vbnservices.net. 86400 IN A 196.41.161.150

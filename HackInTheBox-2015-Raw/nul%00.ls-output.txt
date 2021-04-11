@@ -1,0 +1,36 @@
+@ 86400 IN SOA thaba postmaster.thebe 2014090401 10800 3600 604800 86400
+@ 86400 IN NS hippo.ru.ac.za.
+86400 IN NS thaba
+86400 IN NS ucthpx.uct.ac.za.
+@ 86400 IN MX 10 thebe
+@ 86400 IN A 197.220.158.7
+cheche 86400 IN A 54.187.156.226
+cheche 86400 IN MX 10 thebe
+thaba 86400 IN A 197.220.158.5
+thaba 86400 IN MX 10 thebe
+thuto 86400 IN A 197.220.158.29
+thuto 86400 IN MX 10 thebe
+tsebo 86400 IN A 197.220.151.142
+thebe 86400 IN A 197.220.158.4
+thebe 86400 IN MX 10 thebe
+tlou 86400 IN A 197.220.142.17
+tlou 86400 IN MX 10 thebe
+lekanyane 86400 IN A 197.220.156.33
+lekanyane 86400 IN MX 10 thebe
+thuhlo 86400 IN A 197.220.158.6
+thuhlo 86400 IN MX 10 thebe
+library 86400 IN A 197.220.151.140
+library 86400 IN MX 10 thebe
+cs 86400 IN A 197.220.153.160
+cs 86400 IN MX 10 poso
+www 86400 IN CNAME cheche
+tau 86400 IN A 197.220.158.34
+tau 86400 IN MX 10 thebe
+mail 86400 IN CNAME thebe
+nare 86400 IN A 197.220.158.35
+nare 86400 IN MX 10 thebe
+lists 86400 IN CNAME poso
+admissions 86400 IN A 197.220.153.210
+admissions 86400 IN MX 10 thebe
+phiri 86400 IN A 197.220.142.18
+phiri 86400 IN MX 10 thebe

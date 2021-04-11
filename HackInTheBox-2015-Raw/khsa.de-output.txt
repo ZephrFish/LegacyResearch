@@ -1,0 +1,5 @@
+@ 300 IN SOA ns1.virturo.de. mail.virturo.de. 2015021804 28800 7200 604800 86400
+@ 300 IN NS ns1.virturo.de.
+300 IN NS ns2.virturo.de.
+@ 300 IN A 46.4.100.167
+www 300 IN A 46.4.100.167

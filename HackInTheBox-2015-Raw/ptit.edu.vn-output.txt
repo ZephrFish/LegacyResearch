@@ -1,0 +1,51 @@
+@ 86400 IN SOA ns1.vdconline.vn. vdconline.tld. 2015042404 28800 7200 1209600 86400
+@ 86400 IN TXT "v=spf1 mx:ptit-edge01.ptit.edu.vn ip4:203.162.10.123 ip4:203.162.91.5 -all"
+@ 86400 IN MX 10 ptit-edge01
+@ 86400 IN A 113.171.248.52
+@ 86400 IN NS ns1.vdconline.vn.
+86400 IN NS ns2.vdconline.vn.
+tuyensinh 86400 IN A 113.171.248.52
+open 86400 IN A 203.162.91.1
+dlib 86400 IN A 203.162.88.123
+edoc 86400 IN A 203.162.10.105
+moodle-pttc2 86400 IN A 113.161.98.137
+caodangnghehcm 86400 IN A 23.229.171.231
+pttc1 86400 IN A 222.252.222.43
+pttc2 86400 IN A 123.30.174.116
+dtn 86400 IN A 113.171.248.52
+tinnoibo 86400 IN A 203.162.10.110
+itc 86400 IN A 222.252.222.46
+mail 86400 IN A 203.162.91.5
+cdit 86400 IN A 113.171.248.51
+elearning 86400 IN A 222.255.28.54
+cdn 86400 IN A 203.162.88.113
+proxy 86400 IN A 10.10.10.1
+sdh 86400 IN A 113.171.248.52
+hcm 86400 IN A 113.161.98.131
+mail.student 86400 IN CNAME ghs.google.com.
+imap 86400 IN A 203.162.91.5
+nhaphoc 86400 IN A 203.162.10.98
+elib 86400 IN A 203.162.88.122
+www 86400 IN A 113.171.248.52
+uglbzdnw24v5 86400 IN CNAME gv-ne6w2e6v5t6mibcja36kmxtgtaly6dbvf754hpa5ix33udpqmyoq.domainverify.googlehosted.com.
+ptit-edge01 86400 IN A 203.162.10.123
+hrm 86400 IN A 203.162.10.97
+proxy02 86400 IN A 10.10.20.1
+khoaktdt1 86400 IN A 113.171.248.52
+ilc 86400 IN A 113.171.248.52
+smtp 86400 IN A 203.162.91.5
+stu 86400 IN A 203.162.91.2
+qldt 86400 IN A 203.162.10.122
+tradiem 86400 IN A 203.162.10.98
+support 86400 IN A 113.171.248.52
+student 86400 IN TXT "google-site-verification=0mzad8mpj6gypv4h7i6n788_xkrykiacqzlusyz_p6o"
+student 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+student 86400 IN A 203.162.88.113
+log 86400 IN A 203.162.88.111
+dtkhcn 86400 IN A 203.162.10.103

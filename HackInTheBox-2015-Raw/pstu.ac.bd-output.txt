@@ -1,0 +1,16 @@
+@ 28800 IN SOA ns1.dnsexit.com. admin.netdorm.com. 2000060701 604800 2400 1814400 1200
+@ 28800 IN NS ns1.dnsexit.com.
+28800 IN NS ns2.dnsexit.com.
+28800 IN NS ns3.dnsexit.com.
+28800 IN NS ns4.dnsexit.com.
+@ 28800 IN MX 10 aspmx.l.google.com.
+28800 IN MX 20 alt1.aspmx.l.google.com.
+28800 IN MX 20 alt2.aspmx.l.google.com.
+28800 IN MX 30 aspmx2.googlemail.com.
+28800 IN MX 30 aspmx3.googlemail.com.
+28800 IN MX 30 aspmx4.googlemail.com.
+28800 IN MX 30 aspmx5.googlemail.com.
+@ 28800 IN A 64.187.229.218
+bam 28800 IN A 64.187.229.218
+www.bam 28800 IN CNAME bam
+www 120 IN CNAME @

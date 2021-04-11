@@ -1,0 +1,432 @@
+@ 3600 IN SOA ns sakhi 2015041401 7200 3600 864000 86400
+@ 3600 IN TXT "v=spf1 ip4:196.11.235.51/32 ip4:196.11.235.61/32 ?all"
+3600 IN TXT "MS=ms10254181"
+3600 IN TXT "google-site-verification=KnAZbsqs4JtMCB_LVdeucKDdq91JrN7m2hgeR9QGk5I"
+@ 3600 IN NS ns
+3600 IN NS disa.tenet.ac.za.
+3600 IN NS hippo.ru.ac.za.
+3600 IN NS ucthpx.uct.ac.za.
+@ 3600 IN A 196.21.45.85
+@ 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+ictinhe 3600 IN A 196.21.45.8
+cmsdev 3600 IN A 196.11.235.58
+rfc 3600 IN A 196.21.45.22
+*.rewrite 3600 IN A 196.11.235.119
+hrdb 3600 IN A 196.11.235.111
+www.bcb 3600 IN CNAME www.botany
+elearn2006 3600 IN A 196.21.45.36
+itsprodapps2 3600 IN A 196.21.45.117
+dbadmin 3600 IN CNAME pear
+server.biochemistry 3600 IN CNAME www.biochemistry
+154.proxy 3600 IN A 196.11.235.253
+mail.biotechnology 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+devkewl 3600 IN A 196.11.235.115
+www.seaweedafrica 3600 IN A 196.21.45.144
+gforge 3600 IN A 196.21.45.48
+gforge 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+gforge 3600 IN TXT "20060619 dschroder@uwc.ac.za"
+rms 3600 IN A 196.11.235.70
+roc 3600 IN A 196.11.235.220
+www.cimpauwc 3600 IN A 196.11.235.44
+elearn00 3600 IN A 196.11.235.50
+elearn02 3600 IN A 196.21.45.78
+elearn03 3600 IN A 196.21.45.79
+fairshare 3600 IN CNAME fairshare.uwc.ac.za.opennetworks.co.za.
+mail.dentistry 3600 IN A 198.54.234.2
+98.proxy 3600 IN A 196.11.235.248
+mailman 3600 IN A 196.21.45.50
+mailman 3600 IN MX 100 mailman
+relaymail03 3600 IN A 196.11.235.61
+relaymail04 3600 IN A 196.11.235.51
+research 3600 IN A 196.21.45.37
+72.proxy 3600 IN A 196.11.235.246
+sog 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+www.mobile 3600 IN A 196.21.45.110
+bcb-imageserver 3600 IN A 196.21.45.152
+dc3.ad 3600 IN A 196.11.235.131
+learningcapeindaba 3600 IN CNAME www
+crane 3600 IN A 196.11.235.135
+cache 3600 IN CNAME squid
+38.proxy 3600 IN A 196.11.235.237
+stats 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+wcknowledgehub 3600 IN A 196.21.45.109
+sos.biotech 3600 IN A 196.11.235.81
+www.coe 3600 IN A 196.11.235.44
+webstats 3600 IN A 196.21.45.63
+32.proxy 3600 IN A 196.11.235.235
+kris 3600 IN CNAME kngforge
+sushi 3600 IN A 196.11.235.50
+digitalfreedom 3600 IN CNAME chisimba
+netstorage 3600 IN CNAME gw1
+18.proxy 3600 IN A 196.11.235.231
+planet.botany 3600 IN A 196.21.45.150
+gwmail 3600 IN A 192.102.9.84
+3600 IN A 192.102.9.73
+examiner 3600 IN A 196.11.235.133
+hrapp 3600 IN A 196.11.235.110
+ifolder 3600 IN CNAME gw1
+biochem 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+protea.botany 3600 IN A 196.21.45.136
+mail 3600 IN CNAME ns
+thetha1 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+zlb1 3600 IN A 196.11.235.53
+zlb2 3600 IN A 196.11.235.241
+dllconferences 3600 IN CNAME oldavoir
+ikamva-test 3600 IN A 196.11.235.74
+mapserver 3600 IN A 196.21.45.147
+msupdate 3600 IN A 196.11.235.131
+www.chrflagship 3600 IN CNAME webhost1
+www.maths 3600 IN A 196.11.235.44
+aawg14 3600 IN A 196.21.45.139
+gwuwc 3600 IN CNAME itsnw
+softbridge 3600 IN A 196.11.235.124
+libcall 3600 IN A 196.21.45.37
+student 3600 IN A 196.11.235.133
+kgroups 3600 IN CNAME elearn2006
+libguides 3600 IN A 174.132.16.38
+freecourseware 3600 IN TXT "jsoble@uwc.ac.za"
+freecourseware 3600 IN A 196.21.45.42
+math 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+wiki 3600 IN A 196.21.45.37
+www.epu 3600 IN A 196.21.45.138
+elearntest 3600 IN A 196.21.45.101
+chisimba 3600 IN A 196.21.45.50
+152.proxy 3600 IN A 196.11.235.252
+rgc5.biotech 3600 IN CNAME solexa.biotech
+ntapps 3600 IN A 196.11.235.34
+tabres 3600 IN A 196.21.45.37
+development.ioi 3600 IN A 196.11.235.22
+www.cshe 3600 IN CNAME www.epu
+leaverequest 3600 IN A 196.11.235.48
+forum1 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+forum2 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+forum3 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+sanordstage 3600 IN A 196.21.45.87
+itsunix 3600 IN A 196.11.235.90
+itsunix 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+alumni 3600 IN A 196.21.45.102
+100.proxy 3600 IN A 196.11.235.249
+vconference 3600 IN A 196.11.235.227
+CEUdatabase 3600 IN A 196.21.45.78
+cse1 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+jabber 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+horizon.cs 3600 IN A 196.11.235.104
+csunx 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+www.botany 3600 IN A 196.21.45.139
+balin 3600 IN A 196.11.235.86
+44.proxy 3600 IN A 196.11.235.240
+trac 3600 IN A 196.21.45.40
+newlib 3600 IN A 196.11.235.52
+24.proxy 3600 IN A 196.11.235.233
+www 3600 IN A 196.21.45.85
+venturia.biotech 3600 IN A 196.11.235.31
+kpostgraduate 3600 IN CNAME elearn2006
+seawaste 3600 IN A 196.21.45.134
+vidyogw 3600 IN A 196.21.45.125
+netteltrial 3600 IN CNAME kewl
+velvet.biotech 3600 IN A 196.11.235.31
+oldavoir 3600 IN A 196.21.45.48
+oldavoir 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+oldavoir 3600 IN TXT "JScoble@uwc.ac.za"
+uwcportaltest 3600 IN A 196.21.45.87
+free 3600 IN A 196.21.45.42
+tempsite 3600 IN A 196.11.235.65
+postgrad 3600 IN CNAME kngforge
+eteaching 3600 IN A 196.21.45.26
+3600 IN A 196.21.45.25
+etd 3600 IN A 196.21.45.118
+physics-vc 3600 IN A 196.11.235.200
+sasl 3600 IN A 196.11.235.49
+mail.biotech 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+mail.biotech 3600 IN A 196.11.235.35
+avoirtest 3600 IN A 196.21.45.88
+202.proxy 3600 IN A 196.11.235.254
+projects.cs 3600 IN A 196.11.235.44
+pear 3600 IN A 196.21.45.41
+solexa.biotech 3600 IN A 196.11.235.31
+eguide 3600 IN CNAME gw1
+nopatents 3600 IN CNAME kngforge
+www.ioi 3600 IN A 196.21.45.140
+sog-vc 3600 IN A 196.11.235.224
+icecast 3600 IN A 196.11.235.92
+xray2.biotech 3600 IN A 196.11.235.98
+plaasssca 3600 IN A 196.21.45.111
+www.aawg14 3600 IN A 196.21.45.139
+www.dentistry 3600 IN A 198.54.234.2
+www.seawaste 3600 IN CNAME seawaste
+hrhforafrica 3600 IN A 196.21.45.16
+fsiu 3600 IN CNAME chisimba
+mail01 3600 IN A 196.11.235.222
+mail02 3600 IN A 196.11.235.228
+www.hicte 3600 IN CNAME ictinhe
+uwc-uninet-router 3600 IN A 196.11.235.3
+uwcinternet 3600 IN A 196.11.235.133
+gforge2 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+gforge2 3600 IN TXT "20060619 dschroder@uwc.ac.za"
+gforge2 3600 IN A 196.21.45.48
+apu 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+kngdemo 3600 IN CNAME kngforge
+scns 3600 IN A 196.21.45.51
+anka 3600 IN A 66.240.233.14
+tutor 3600 IN A 196.11.235.133
+www.bgis 3600 IN CNAME www.seaweedafrica
+prospectus 3600 IN A 196.21.45.66
+scarab 3600 IN A 196.11.235.100
+mail.biochem 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+icstest 3600 IN A 196.21.45.88
+opac 3600 IN A 196.21.74.125
+elearn 3600 IN CNAME elearn00
+www.iubs 3600 IN A 196.21.45.139
+70.proxy 3600 IN A 196.11.235.245
+www.biochemistry 3600 IN A 196.11.235.35
+committeeadmin 3600 IN CNAME kngforge
+database.botany 3600 IN A 196.11.235.93
+finance 3600 IN CNAME leaverequest
+chs 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+orenia 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+50.proxy 3600 IN A 196.11.235.242
+hypnea.botany 3600 IN A 196.21.45.139
+timetable 3600 IN A 196.11.235.133
+cvs2 3600 IN A 196.21.45.40
+cvs2 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+das 3600 IN A 72.14.183.76
+www.lib 3600 IN A 196.21.45.97
+36.proxy 3600 IN A 196.11.235.236
+mail.biochemistry 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+cms 3600 IN A 196.11.235.80
+secretariatroom1-vc 3600 IN A 196.11.235.82
+uwcfw2 3600 IN A 196.11.235.4
+arundo 3600 IN A 196.21.41.134
+zoom-edge-ext 3600 IN A 196.21.45.116
+10.proxy 3600 IN A 196.11.235.229
+cpu 3600 IN CNAME www.seaweedafrica
+law-vc 3600 IN A 196.11.235.225
+uwc-ext 3600 IN A 196.11.235.11
+uwc-ext 3600 IN TXT "External squid cache"
+mylibrary 3600 IN A 196.21.45.38
+csi 3600 IN CNAME elearn2006
+bgis 3600 IN CNAME www.seaweedafrica
+angel 3600 IN CNAME elearn2006
+hicteforum 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+ap 3600 IN A 196.11.235.132
+nat00 3600 IN A 196.11.235.250
+portal 3600 IN CNAME www.uwcportal
+iubs 3600 IN A 196.21.45.139
+cvs 3600 IN A 196.21.45.28
+cvs 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+cs 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+www.chemistry 3600 IN A 196.11.235.44
+libacq 3600 IN A 196.21.45.61
+apps 3600 IN A 196.11.235.76
+pome.biotech 3600 IN CNAME www.biochemistry
+security.ad 3600 IN A 196.11.235.131
+gw 3600 IN A 196.11.235.116
+hr 3600 IN A 196.21.45.17
+*.ezproxy 3600 IN A 196.21.45.59
+unix 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+chr-vc 3600 IN A 196.11.235.229
+uct-net-nat 3600 IN A 196.11.235.223
+uct-net-nat 3600 IN TXT "Blade36, contact jstoltenkamp@uwc.ac.za"
+ems 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+64.proxy 3600 IN A 196.11.235.244
+ns 3600 IN A 196.11.235.5
+pastexams 3600 IN A 196.21.45.37
+epu 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+brawamsiswam 3600 IN CNAME kngforge
+vm04 3600 IN A 196.11.235.18
+library 3600 IN A 196.21.45.32
+application 3600 IN A 196.11.235.133
+repository 3600 IN A 196.21.45.31
+ems-vc 3600 IN A 196.11.235.20
+cace 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+elections 3600 IN CNAME convocation
+plaas 3600 IN A 196.21.45.138
+us 3600 IN A 64.65.60.51
+africadotedu 3600 IN A 196.21.45.7
+eduroam0 3600 IN A 196.11.235.40
+eduroam1 3600 IN A 196.11.235.47
+m2a 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+siksp 3600 IN A 196.11.235.44
+sanord 3600 IN A 196.21.45.92
+5ive 3600 IN CNAME pear
+e-workver6 3600 IN A 196.11.235.133
+hal 3600 IN CNAME www.seaweedafrica
+lanplex2500-1 3600 IN A 196.11.235.113
+blade22.ad 3600 IN CNAME security.ad
+ftp 3600 IN A 196.21.45.45
+ftp 3600 IN AAAA 2001:4200:3010::214:5eff:fe41:7ca4
+achel 3600 IN CNAME chisimba
+48.proxy 3600 IN A 196.11.235.241
+sanahere 3600 IN CNAME kngforge
+uwcfw 3600 IN A 196.11.235.1
+42.proxy 3600 IN A 196.11.235.239
+ikamva 3600 IN A 196.11.235.215
+taap 3600 IN CNAME elearn2006
+smart 3600 IN A 196.11.235.242
+devman 3600 IN A 196.21.45.60
+planet 3600 IN CNAME planet.botany
+www2 3600 IN A 196.11.235.240
+inmagic 3600 IN A 196.11.235.41
+oldkewl 3600 IN A 196.21.45.16
+gw2 3600 IN A 196.11.235.91
+gw3 3600 IN A 196.21.45.123
+muthi 3600 IN A 196.21.45.109
+icessd 3600 IN A 196.21.45.46
+www.uwcportal 3600 IN A 196.21.45.100
+systems 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+newton 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+search.seaweedafrica 3600 IN A 196.11.235.85
+pstngw.cs 3600 IN A 196.11.235.123
+oldics 3600 IN A 196.21.45.102
+ics 3600 IN A 196.21.45.103
+cache-nat 3600 IN A 196.11.235.12
+webmanforge 3600 IN A 196.11.235.108
+4.proxy 3600 IN A 196.11.235.226
+knisl 3600 IN CNAME elearn2006
+uwclib 3600 IN A 196.21.45.37
+kewl 3600 IN CNAME elearn00
+uwc1-vc 3600 IN A 196.11.235.56
+hrh 3600 IN A 196.21.45.36
+www.fairshare 3600 IN CNAME fairshare.uwc.ac.za.opennetworks.co.za.
+www.ictinhe 3600 IN CNAME ictinhe
+kngforge 3600 IN A 196.21.45.48
+imf 3600 IN A 196.21.45.151
+mods 3600 IN A 196.21.45.88
+ezproxy 3600 IN A 196.21.45.59
+libservice 3600 IN A 196.21.45.38
+blog 3600 IN A 196.21.45.37
+kewlforge 3600 IN A 196.21.45.29
+www.medicalbioscience 3600 IN CNAME www.science
+irc 3600 IN CNAME vm04
+150.proxy 3600 IN A 196.11.235.251
+ns-int 3600 IN A 192.102.9.102
+students 3600 IN CNAME ghs.google.com.
+midesslearn 3600 IN A 196.21.45.133
+biochemistry 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+poc2 3600 IN CNAME elearnafrica
+its 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+tto 3600 IN CNAME webhost1
+eteaching-dev 3600 IN CNAME pear
+nursing-vc 3600 IN A 196.11.235.230
+santec 3600 IN A 196.21.45.101
+pcres 3600 IN A 196.21.45.37
+nisl-ei 3600 IN CNAME oldkewl
+www.biotech 3600 IN CNAME www.biochemistry
+dentistry 3600 IN A 198.54.234.2
+dentistry 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+kim 3600 IN A 196.21.45.87
+services-02 3600 IN CNAME itsnw
+aricea 3600 IN CNAME www.aricea
+ras.biotech 3600 IN CNAME ras.bioc
+leftside 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+google2eeac9763d610628 3600 IN CNAME google.com.
+itsnw 3600 IN A 196.11.235.7
+itsnw 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+squirrel 3600 IN A 196.11.235.63
+squirrel 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+harpy 3600 IN A 63.246.140.210
+teal 3600 IN CNAME chisimba
+convocation 3600 IN A 196.21.45.76
+webhost1 3600 IN A 196.21.45.93
+unicenter 3600 IN A 196.11.235.122
+squid 3600 IN A 196.11.235.119
+gwpool 3600 IN A 196.11.235.21
+turnitin 3600 IN A 196.21.45.120
+lib 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+lib 3600 IN A 196.21.45.97
+rules 3600 IN A 196.21.45.32
+rwl5 3600 IN CNAME oldavoir
+www.cs 3600 IN A 196.11.235.44
+education 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+www.ikamva 3600 IN A 196.11.235.215
+14.proxy 3600 IN A 196.11.235.230
+atlas 3600 IN A 196.21.45.148
+www.soph 3600 IN CNAME www.epu
+humanities 3600 IN A 196.21.45.115
+gemini 3600 IN A 196.21.45.19
+mapserver.botany 3600 IN A 196.21.45.147
+sa-isislearn 3600 IN CNAME midesslearn
+secretariatroom2-vc 3600 IN A 196.11.235.84
+www.hr 3600 IN A 196.21.45.17
+www.tto 3600 IN CNAME webhost1
+uwc5 3600 IN A 196.11.98.2
+kiwl 3600 IN A 196.11.235.79
+www.fsiu 3600 IN A 196.11.235.45
+eteaching-stage 3600 IN CNAME eteaching
+sbio.biotech 3600 IN A 196.21.45.39
+m.eteaching 3600 IN A 196.21.45.25
+madinainstitute 3600 IN A 196.21.45.79
+nettelforum 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+botunix 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+elearn.hicte 3600 IN A 196.21.45.9
+sperm 3600 IN CNAME www.science
+physiology 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+vidyoportal 3600 IN A 196.21.45.124
+librooms 3600 IN A 196.21.45.32
+smokeping 3600 IN CNAME ns2
+ics-vc 3600 IN A 196.11.235.227
+prodsites 3600 IN CNAME elearnafrica
+server.biochem 3600 IN CNAME www.biochem
+nanoscience-vc 3600 IN A 196.11.235.206
+openvpn 3600 IN A 196.11.235.62
+us.elearn 3600 IN A 64.65.60.51
+msa 3600 IN CNAME pear
+www.us 3600 IN CNAME us
+nisl 3600 IN CNAME nisl-ei
+www.biotechnology 3600 IN CNAME www.biochemistry
+finance1 3600 IN A 196.11.235.100
+chemistry 3600 IN A 196.11.235.44
+jail01 3600 IN CNAME vm04
+ns2 3600 IN A 196.11.235.6
+jail08 3600 IN A 196.11.235.9
+ocw 3600 IN CNAME ocw.mit.edu.
+bnspoc 3600 IN A 196.11.235.203
+chisimba3 3600 IN A 196.21.45.41
+kewlforums 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+vostok 3600 IN A 196.21.45.117
+hrtst 3600 IN A 196.11.235.121
+mobile 3600 IN A 196.21.45.110
+ras.bioc 3600 IN A 196.11.235.59
+80.proxy 3600 IN A 196.11.235.247
+sajellywatch 3600 IN A 196.11.235.44
+uwc-iafrica-router 3600 IN A 196.11.235.2
+chrflagship 3600 IN CNAME webhost1
+uwcunx 3600 IN A 196.11.235.8
+www.science 3600 IN A 196.21.45.141
+uwcrms 3600 IN A 196.21.45.19
+ahero 3600 IN CNAME elearn2006
+www.herbal-sciences 3600 IN CNAME www.science
+www.plaas 3600 IN CNAME plaas
+junior 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+xray1.biotech 3600 IN A 196.11.235.97
+60.proxy 3600 IN A 196.11.235.243
+studentresults 3600 IN CNAME ntapps
+www.aricea 3600 IN A 196.21.45.10
+gwia5 3600 IN A 192.102.9.79
+maths 3600 IN A 196.11.235.46
+40.proxy 3600 IN A 196.11.235.238
+26.proxy 3600 IN A 196.11.235.234
+pharmacy 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+20.proxy 3600 IN A 196.11.235.232
+dbbs 3600 IN A 196.21.45.101
+odimex 3600 IN CNAME kngforge
+law1 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+mathlinux 3600 IN A 196.11.235.77
+poc 3600 IN CNAME elearnafrica
+avoir2 3600 IN A 196.21.45.48
+avoir2 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+avoir2 3600 IN TXT "20060619 dschroder@uwc.ac.za"
+nettelafrica 3600 IN A 196.21.45.15
+elearnafrica 3600 IN A 196.21.45.103
+acsa 3600 IN A 196.21.45.65
+physics 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+events 3600 IN A 173.203.201.87
+cscience1 3600 IN MX 10 uwc-inboundmx.mailredir.iitsp.net.
+8.proxy 3600 IN A 196.11.235.228
+rad 3600 IN A 196.11.235.45
+rah 3600 IN A 196.21.45.23
+chameleon 3600 IN A 196.11.235.45
+bclme 3600 IN A 196.21.45.140
+eteaching123 3600 IN A 196.21.45.18
+pilot 3600 IN A 196.21.45.30
+mailists 3600 IN A 196.21.45.32

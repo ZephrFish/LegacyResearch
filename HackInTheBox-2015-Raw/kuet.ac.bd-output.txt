@@ -1,0 +1,35 @@
+@ 86400 IN SOA dnspri root 280 86400 3600 604800 10800
+@ 86400 IN A 180.211.192.67
+@ 86400 IN NS dnspri
+@ 86400 IN MX 5 webmail
+www.cse 86400 IN A 180.211.192.73
+webmail 86400 IN A 180.211.192.75
+webmail 86400 IN MX 5 webmail
+phy 86400 IN MX 5 webmail
+math 86400 IN MX 5 webmail
+www.admission 86400 IN A 180.211.192.82
+academic 86400 IN A 180.211.192.78
+www.webmail.kuet.ac.bd 86400 IN A 180.211.192.75
+admission 86400 IN A 180.211.192.82
+le 86400 IN MX 5 webmail
+iem 86400 IN MX 5 webmail
+me 86400 IN MX 5 webmail
+bme 86400 IN MX 5 webmail
+cse 86400 IN A 180.211.192.73
+cse 86400 IN MX 5 webmail
+mail 86400 IN A 180.211.192.75
+mail 86400 IN MX 5 webmail
+chem 86400 IN MX 5 webmail
+www 86400 IN A 180.211.192.67
+ece 86400 IN MX 5 webmail
+dnspri 86400 IN A 180.211.192.66
+www.mail.kuet.ac.bd 86400 IN A 180.211.192.75
+ce 86400 IN MX 5 webmail
+eee 86400 IN MX 5 webmail
+portal 86400 IN A 180.211.192.69
+www2 86400 IN A 180.211.192.68
+library 86400 IN A 180.211.192.70
+becm 86400 IN MX 5 webmail
+hum 86400 IN MX 5 webmail
+urp 86400 IN MX 5 webmail
+te 86400 IN MX 5 webmail

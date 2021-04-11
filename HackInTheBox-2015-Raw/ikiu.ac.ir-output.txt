@@ -1,0 +1,108 @@
+@ 262800 IN SOA ns1 info 2012062539 86400 10800 3024000 172800
+@ 172800 IN A 85.185.209.15
+@ 172800 IN NS ns2
+172800 IN NS ns1
+@ 172800 IN MX 10 webmail
+@ 172800 IN TXT "v=spf1 mx -all"
+jplt.journals 172800 IN A 85.185.209.9
+dastanpajuhi.journals 172800 IN A 85.185.209.9
+spechemo.sci 172800 IN A 85.185.209.10
+sip 172800 IN A 85.185.209.30
+golestan 172800 IN A 85.185.209.11
+lobab.journals 172800 IN A 85.185.209.9
+lobab.journals 172800 IN MX 10 webmail
+ut.journals 172800 IN A 85.185.209.9
+g03.cs 172800 IN A 217.218.239.116
+jfs.journals 172800 IN A 85.185.209.9
+jfs.journals 172800 IN MX 10 webmail
+ns1 172800 IN A 85.185.209.32
+anjomanelmi 172800 IN A 85.185.209.10
+ijgpb.journals 172800 IN A 85.185.209.9
+ijgpb.journals 172800 IN MX 10 ijgpb.journals
+soc 172800 IN MX 10 webmail
+jahad 172800 IN A 79.132.212.113
+qhs.journals 172800 IN A 85.185.209.9
+qhs.journals 172800 IN MX 10 webmail
+qrrc 172800 IN A 85.185.209.10
+pay2 172800 IN A 85.185.209.16
+edu 172800 IN MX 10 webmail
+arc 172800 IN MX 10 webmail
+g04.cs 172800 IN A 217.218.239.116
+nlp.cs 172800 IN A 85.185.209.33
+kvm 172800 IN A 85.185.209.37
+rroltd.journals 172800 IN A 85.185.209.9
+rroltd.journals 172800 IN MX 10 webmail
+lms.cs 172800 IN A 85.185.209.10
+it 172800 IN MX 10 webmail
+dp.journals 172800 IN A 85.185.209.9
+dp.journals 172800 IN MX 10 webmail
+elt.journals 172800 IN A 85.185.209.9
+elt.journals 172800 IN MX 10 webmail
+hum 172800 IN MX 10 webmail
+uot.conf 172800 IN A 79.175.172.36
+admission 172800 IN A 85.185.209.10
+org 172800 IN MX 10 webmail
+mail 172800 IN A 85.185.209.22
+vpn 172800 IN A 79.127.34.54
+isr 172800 IN MX 10 webmail
+g02.cs 172800 IN A 217.218.239.116
+roshd 172800 IN A 85.185.209.10
+eng 172800 IN MX 10 webmail
+hpc 172800 IN A 85.185.209.25
+jfak.journals 172800 IN A 85.185.209.9
+jfak.journals 172800 IN MX 10 webmail
+farhangi 172800 IN A 85.185.209.10
+ns2 172800 IN A 85.185.209.20
+gej.journals 172800 IN A 85.185.209.9
+gej.journals 172800 IN MX 10 webmail
+journals 172800 IN A 85.185.209.9
+journals 172800 IN MX 10 webmail
+sci 172800 IN MX 10 webmail
+webmail 172800 IN A 85.185.209.22
+env 172800 IN A 85.185.209.6
+ftp 172800 IN CNAME @
+rdwa1 172800 IN A 85.185.209.31
+tolp.journals 172800 IN A 85.185.209.9
+tolp.journals 172800 IN MX 10 webmail
+www 172800 IN CNAME @
+conf 172800 IN A 85.185.209.15
+conf 172800 IN MX 10 webmail
+hcin.journals 172800 IN A 85.185.209.9
+hcin.journals 172800 IN MX 10 webmail
+pay 172800 IN A 85.185.209.12
+at.journals 172800 IN A 85.185.209.9
+news 172800 IN A 85.185.209.10
+bbb 172800 IN A 217.218.239.240
+fut 172800 IN MX 10 webmail
+ejs.journals 172800 IN A 85.185.209.9
+basij 172800 IN A 85.185.209.10
+eda 172800 IN A 85.185.209.19
+research 172800 IN A 85.185.209.15
+lem.journals 172800 IN A 85.185.209.9
+lem.journals 172800 IN MX 10 webmail
+ljgpb.journals 172800 IN A 85.185.209.9
+karafarini 172800 IN A 85.185.209.10
+pr 172800 IN A 85.185.209.15
+plc 172800 IN A 85.185.209.10
+plc 172800 IN MX 10 webmail
+g01.cs 172800 IN A 217.218.239.116
+gallery 172800 IN A 85.185.209.15
+office 172800 IN A 85.185.209.14
+alm 172800 IN MX 10 webmail
+jhsi.journals 172800 IN A 85.185.209.9
+jhsi.journals 172800 IN MX 10 webmail
+library 172800 IN A 85.185.209.13
+cs 172800 IN A 85.185.209.10
+pst 172800 IN MX 10 webmail
+psiw.journals 172800 IN A 85.185.209.9
+psiw.journals 172800 IN MX 10 webmail
+ee 172800 IN A 85.185.209.10
+lms.plc 172800 IN A 85.185.209.17
+lms 172800 IN A 85.185.209.29
+cms.cs 172800 IN A 85.185.209.10
+mhre.journals 172800 IN A 85.185.209.9
+mhre.journals 172800 IN MX 10 webmail
+sca 172800 IN A 85.185.209.15
+ir-tr.conf 172800 IN A 85.185.209.10
+acssu.conf 172800 IN A 85.185.209.10
+refahi 172800 IN A 85.185.209.35

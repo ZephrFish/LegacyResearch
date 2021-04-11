@@ -1,0 +1,12 @@
+@ 3600 IN SOA appologroup. root.appologroup. 2014022500 10800 3600 604800 86400
+@ 3600 IN TXT "v=spf1 ip4:62.109.18.36 a mx ~all"
+@ 3600 IN NS ns1.firstvds.ru.
+3600 IN NS ns2.firstvds.ru.
+@ 3600 IN MX 10 mail
+3600 IN MX 20 mail
+@ 3600 IN A 188.120.228.25
+pop 3600 IN A 188.120.228.25
+ftp 3600 IN A 188.120.228.25
+www 3600 IN A 188.120.228.25
+mail 3600 IN A 188.120.228.25
+smtp 3600 IN A 188.120.228.25

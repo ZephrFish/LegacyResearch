@@ -1,0 +1,20 @@
+@ 604800 IN SOA ns fvillalobos 1 604800 86400 2419200 604800
+@ 3600 IN NS ns
+@ 3600 IN MX 0 uia-ac-cr.mail.eo.outlook.com.
+3600 IN MX 10 mail
+@ 3600 IN TXT "v=spf1" "include:spf.protection.outlook.com" "-all"
+3600 IN TXT "MS=ms71514738"
+rcmail 3600 IN A 201.192.229.164
+pruebas2 3600 IN A 201.195.91.99
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com
+uiain 3600 IN A 201.193.198.62
+webmail 3600 IN A 201.192.229.164
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+www 3600 IN CNAME web.uia-soporte.net.
+moodle 3600 IN A 163.178.76.26
+ns 3600 IN A 201.192.229.162
+mail 3600 IN A 201.192.229.164
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+sip 3600 IN CNAME sipdir.online.lync.com.
+mailo 3600 IN A 201.192.229.165
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com

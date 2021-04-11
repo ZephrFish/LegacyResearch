@@ -1,0 +1,54 @@
+@ 3600 IN SOA ns1 magokbas 2015031901 43200 7200 2419200 10800
+@ 3600 IN NS ns1
+3600 IN NS ns2
+@ 3600 IN A 88.255.149.200
+@ 3600 IN MX 5 antispam
+3600 IN MX 10 smtpguard
+@ 86400 IN TXT "v=spf1 ip4:88.255.149.210 ip4:88.255.149.211 mx:antispam.ticaret.edu.tr mx:smtpguard.ticaret.edu.tr a:iticu.edu.tr +all"
+ezproxy 3600 IN A 193.255.82.100
+sip 3600 IN A 88.255.149.218
+sinav 3600 IN CNAME www
+ns2 10800 IN A 88.255.149.211
+webmail 3600 IN CNAME mail
+ns1 10800 IN A 88.255.149.210
+mars 3600 IN A 88.255.149.201
+nokta 3600 IN A 88.255.149.204
+proxy 3600 IN A 195.175.203.2
+anket 3600 IN CNAME ww3
+acikerisim 3600 IN A 88.255.149.215
+riskanaliz 3600 IN A 88.255.149.206
+_ssp._domainkey 86400 IN TXT "t=y; dkim=unknown"
+selfservice 3600 IN A 88.255.149.222
+canliyayin 3600 IN A 88.255.149.200
+ogs 3600 IN CNAME www
+betasite 3600 IN CNAME www
+e-payment 3600 IN A 37.205.1.131
+destek 3600 IN A 88.255.149.213
+_adsp._domainkey 86400 IN TXT "dkim=unknown"
+mail 3600 IN A 88.255.149.202
+vpn 3600 IN A 88.255.149.193
+saturn 3600 IN CNAME mail
+ww3 3600 IN A 88.255.149.203
+yayin 3600 IN A 88.255.149.196
+dersyuku 3600 IN CNAME www
+ww4 3600 IN A 88.255.149.203
+crm 3600 IN A 88.255.149.221
+mobil 3600 IN CNAME www
+ikis-payment 3600 IN A 37.205.6.21
+antispam 3600 IN A 88.255.149.210
+exchcaslb 3600 IN CNAME mail
+connect 3600 IN A 88.255.149.209
+svn 3600 IN A 88.255.149.219
+bologna 3600 IN CNAME www
+mag 3600 IN A 88.255.149.206
+_domainkey 86400 IN TXT "t=y; o=~"
+ws 3600 IN CNAME www
+www 3600 IN A 88.255.149.200
+default._domainkey 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8pjZ5zisJsx8iIaS4KTIsKTplg+HCin6IW/Fwir4WrWLerar7dS6qQBRXctJLrm84M4mZEnxus3vmPjv/tzrRSFqLlZlQhH58fZ/qKh8Uou3R0GnBrtdiIiNuxNcvQ44ha7GXOT1nC6gB2w5c7qiMLJ5uYBpvzro/X6o6Ufkf3QIDAQAB"
+kgk 3600 IN CNAME www
+exch1 3600 IN CNAME mail
+exch2 3600 IN CNAME mail
+library 3600 IN A 88.255.149.217
+puantaj 3600 IN CNAME www
+smtpguard 3600 IN A 88.255.149.211
+meeting 3600 IN A 88.255.149.198

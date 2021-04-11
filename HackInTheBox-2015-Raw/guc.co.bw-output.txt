@@ -1,0 +1,7 @@
+@ 3600 IN SOA dns1.zebranet.co.bw. root.zebranet.co.bw. 2014051702 43200 86400 604800 3600
+@ 3600 IN NS dns1.zebranet.co.bw.
+@ 3600 IN MX 10 mail.zebranet.co.bw.
+mail 3600 IN A 197.231.192.10
+smtp 3600 IN A 197.231.192.10
+www 3600 IN A 168.167.42.2
+dns1 3600 IN A 197.231.192.10

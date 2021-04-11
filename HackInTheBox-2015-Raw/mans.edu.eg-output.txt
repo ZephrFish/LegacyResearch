@@ -1,0 +1,535 @@
+@ 90000 IN SOA maindns admin 20071916 10800 1800 604800 90000
+@ 600 IN A 193.227.50.3
+@ 90000 IN NS maindns
+90000 IN NS frcu.eun.eg.
+@ 3600 IN MX 9 muedge
+3600 IN MX 10 mail03
+@ 90000 IN TXT "v=spf1 mx ptr mx:mail03.mans.edu.eg mx:muedge.mans.edu.eg +all"
+1126686763.comd 90000 IN CNAME domains.live.com.
+sip.dent 3600 IN CNAME sipdir.online.lync.com.
+stda 90000 IN A 193.227.50.205
+pgsr 90000 IN A 193.227.50.121
+1906710887.dent 90000 IN CNAME domains.live.com.
+spedud 3600 IN MX 0 401360611.mail.outlook.com.
+spedud 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+_sip._tls.tah 3600 IN SRV 100 1 443 tah
+www.bce 3600 IN A 193.227.50.182
+dstaffcms 90000 IN CNAME dml
+mail.mansvu 90000 IN A 193.227.51.203
+elearning 90000 IN A 193.227.51.210
+scc 90000 IN A 193.227.51.219
+scc 90000 IN MX 10 mail.scc
+sci 3600 IN MX 0 261902608.mail.outlook.com.
+sci 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+fartsfac 90000 IN A 193.227.50.121
+\194\160_sipfederationtls._tcp.agr.mans.edu.eg._tcp.agr 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+staff 3600 IN A 193.227.50.240
+account 90000 IN CNAME app5
+sipdir.med 3600 IN CNAME sipdir.online.lync.com.
+ser 90000 IN A 193.227.50.10
+_sip._tls 3600 IN SRV 0 0 5061 ledge
+\194\160_sipfederationtls._tcp.spedu.mans.edu.eg._tcp.spedu 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+sft 90000 IN A 193.227.50.121
+autodiscover.nurs 90000 IN CNAME autodiscover.outlook.com.
+credit 3600 IN A 193.227.50.66
+fsoffice 90000 IN CNAME www2
+shr 90000 IN A 193.227.50.209
+gcce 90000 IN A 193.227.51.243
+tah 3600 IN MX 3 1865342636.mail.outlook.com.
+3600 IN MX 0 tah-mans-edu-eg.mail.eo.outlook.com.
+tah 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+itcau 90000 IN A 193.227.50.121
+_sipfederationtls._tcp.spedmg 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+autodiscover.dent 90000 IN CNAME autodiscover.outlook.com.
+mail.students 90000 IN A 193.227.50.16
+_sipfederationtls._tcp.spedmn 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+autodiscover.scid 90000 IN CNAME autodiscover.outlook.com.
+smh 90000 IN A 193.227.50.121
+citcsav 90000 IN A 193.227.50.213
+gcfs 90000 IN A 193.227.51.242
+autodiscover.agr 90000 IN CNAME autodiscover.outlook.com.
+euhr 90000 IN A 193.227.50.56
+\194\160_sipfederationtls._tcp.artd.mans.edu.eg._tcp.artd 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+centers 90000 IN CNAME www2
+www.mucconf 3600 IN A 193.227.50.182
+196533293.spedmg 90000 IN CNAME domains.live.com.
+gateportal 3600 IN A 193.227.50.177
+std 90000 IN A 193.227.50.116
+536170088.nurs 90000 IN CNAME domains.live.com.
+1464844787.edud 90000 IN CNAME domains.live.com.
+_sipfederationtls._tcp.law 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+\194\160_sipfederationtls._tcp.nurs.mans.edu.eg._tcp.nurs 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+lynced 3600 IN A 193.227.50.93
+timeatt 90000 IN A 193.227.50.66
+udc 90000 IN A 193.227.50.60
+sun 90000 IN MX 10 ss20.sun
+_sip._tls.vet 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+eupc 90000 IN A 193.227.50.57
+repo 90000 IN A 193.227.50.175
+lyncdiscover.agr 3600 IN CNAME webdir.online.lync.com.
+_sipfederationtls._tcp.vet 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+dent 3600 IN MX 0 dent-mans-edu-eg.mail.eo.outlook.com.
+3600 IN MX 3 1906710887.mail.outlook.com.
+dent 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+912532948.law 90000 IN CNAME domains.live.com.
+engss 90000 IN A 193.227.50.121
+gcse 90000 IN A 193.227.51.244
+ibnsenaprivate 90000 IN A 193.227.50.83
+demoportal 90000 IN A 193.227.50.121
+ugw 90000 IN A 193.227.51.219
+autodiscover.art 90000 IN CNAME autodiscover.outlook.com.
+\194\160_sipfederationtls._tcp.med.mans.edu.eg.\194\160_tcp.med 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+srv136 90000 IN A 193.227.50.136
+srv137 90000 IN A 193.227.50.137
+gcui 90000 IN A 193.227.51.246
+thfac 90000 IN A 193.227.50.121
+ibnsenatest 90000 IN A 193.227.50.183
+mail 90000 IN CNAME mail03
+agrd 3600 IN MX 0 1797716761.mail.outlook.com.
+agrd 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+sip.vet 3600 IN CNAME sipdir.online.lync.com.
+470792522.phr 90000 IN CNAME domains.live.com.
+manchester 90000 IN CNAME www2
+_sipfederationtls._tcp.med 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+conf 90000 IN A 193.227.50.121
+vet 3600 IN MX 3 476406396.mail.outlook.com.
+3600 IN MX 0 vet-mans-edu-eg.mail.eo.outlook.com.
+vet 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+srv195 90000 IN A 193.227.50.11
+srv197 90000 IN A 192.168.200.197
+citcpc201 90000 IN A 193.227.50.113
+netwoks 90000 IN A 193.227.50.176
+srv216 90000 IN A 193.227.50.78
+ibnsena 90000 IN A 193.227.50.25
+vmail 90000 IN A 193.227.50.22
+staffclub 90000 IN A 193.227.50.121
+lyncdiscover.dent 3600 IN CNAME webdir.online.lync.com.
+maps 3600 IN A 193.227.50.6
+autodiscover.edud 90000 IN CNAME autodiscover.outlook.com.
+exdc 90000 IN A 193.227.50.211
+firms 90000 IN CNAME srv63
+app1old 90000 IN A 193.227.50.9
+kinderfac 90000 IN A 193.227.50.121
+aljwhara 90000 IN A 193.227.50.217
+web 90000 IN A 193.227.50.60
+\194\160_sipfederationtls._tcp.art.mans.edu.eg._tcp.art 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+autodiscover.com 90000 IN CNAME autodiscover.outlook.com.
+_sip._udp.sun 90000 IN SRV 0 0 5060 ss10.sun
+musipx 90000 IN A 193.227.50.22
+autodiscover.spedu 90000 IN CNAME autodiscover.outlook.com.
+projects 90000 IN CNAME www2
+future 3600 IN A 193.227.50.37
+frcu.eun.eg. 90000 IN A 193.227.1.1
+exhr 90000 IN A 193.227.50.209
+vpn 90000 IN CNAME citcsrv064
+647478830.kind 90000 IN CNAME domains.live.com.
+www.haelab 3600 IN A 193.227.50.182
+sip.nurs 3600 IN CNAME sipdir.online.lync.com.
+uyw 90000 IN CNAME www2
+autodiscover.csi 90000 IN CNAME autodiscover.outlook.com.
+mepcon2015 3600 IN A 193.227.1.33
+scom2012 90000 IN A 193.227.50.183
+mucam 90000 IN A 193.227.50.129
+autodiscover.edu 90000 IN CNAME autodiscover.outlook.com.
+lyncdiscover.com 3600 IN CNAME webdir.online.lync.com.
+stusrv1.students 1200 IN A 193.227.50.15
+citc23 90000 IN A 193.227.50.70
+\194\160_sipfederationtls._tcp.appd.mans.edu.eg._tcp.appd 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+lyncdiscover.spedu 3600 IN CNAME webdir.online.lync.com.
+exta 90000 IN A 193.227.50.66
+lyncdiscover.csi 90000 IN CNAME webdir.online.lync.com.
+sefac 90000 IN A 193.227.50.121
+sada 90000 IN A 193.227.50.121
+syndicate 90000 IN A 193.227.50.89
+citc55 1200 IN A 193.227.50.122
+\194\160_sipfederationtls._tcp.phr.mans.edu.eg.\194\160_tcp.phr 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+ugw3 3600 IN A 193.227.50.229
+stores 90000 IN A 193.227.50.163
+autodiscover.eng 90000 IN CNAME autodiscover.outlook.com.
+lyncdiscover.edu 3600 IN CNAME webdir.online.lync.com.
+autodiscover.phyd 90000 IN CNAME autodiscover.outlook.com.
+www.ipv6 90000 IN AAAA 2001:4300:2001:601::6
+election 90000 IN A 193.227.50.63
+sccsrv1.scc 90000 IN A 193.227.51.219
+autodiscover.appd 90000 IN CNAME autodiscover.outlook.com.
+adminofdns 90000 IN RP mum .
+www 90000 IN A 193.227.50.179
+\194\160_sipfederationtls._tcp.spedmn.mans.edu.eg._tcp.spedmn 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+egnnsrv1 90000 IN A 193.227.50.43
+allstd 90000 IN A 193.227.50.205
+_sip._tls.agr 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+future-ks 90000 IN A 193.227.50.21
+alex 90000 IN A 193.227.50.177
+omar 90000 IN A 193.227.50.177
+muschools 90000 IN A 193.227.50.177
+sip.tah 3600 IN CNAME sipdir.online.lync.com.
+\194\160_sipfederationtls._tcp.kind.mans.edu.eg._tcp.kind 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+autodiscover.artd 90000 IN CNAME autodiscover.outlook.com.
+mail.scc 90000 IN A 193.227.51.205
+aac 90000 IN A 193.227.50.121
+lyncdiscover.eng 3600 IN CNAME webdir.online.lync.com.
+ag0 90000 IN A 193.227.50.8
+csifac 90000 IN A 193.227.50.121
+_sipfederationtls._tcp.dent 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+\194\160_sipfederationtls._tcp.com.mans.edu.eg._tcp.com 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+ophthc 3600 IN A 193.227.1.33
+comfac 90000 IN A 193.227.50.121
+sip.agr 3600 IN CNAME sipdir.online.lync.com.
+ibnsina 90000 IN CNAME srv137
+agb 90000 IN A 193.227.50.9
+_sip._tls.kind 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+nurs 3600 IN MX 3 536170088.mail.outlook.com.
+3600 IN MX 0 nurs-mans-edu-eg.mail.protection.outlook.com.
+nurs 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+agr 90000 IN A 193.227.50.93
+agr 3600 IN MX 3 564054716.mail.outlook.com.
+3600 IN MX 0 agr-mans-edu-eg.mail.eo.outlook.com.
+agr 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+_sip._tls.art 90000 IN SRV 100 1 443 sipdir.online.lync.com.
+652891285.csi 90000 IN CNAME domains.live.com.
+ipv6 90000 IN AAAA 2001:4300:2001:601::6
+staffcms 90000 IN A 193.227.50.74
+citcsrv061 3600 IN A 193.227.50.61
+webdir.online.lync.com.spedmg 3600 IN CNAME lyncdiscover.spedmg
+\194\160_sipfederationtls._tcp.csi.mans.edu.eg._tcp.csi 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+citcsrv064 90000 IN A 193.227.50.94
+graduates 90000 IN A 193.227.50.205
+scid 3600 IN MX 0 70341790.mail.outlook.com.
+scid 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+postmaster 90000 IN MB \# 2 c1ad
+70341790.scid 90000 IN CNAME domains.live.com.
+elaegypt 90000 IN A 193.227.50.65
+citcsrv095 90000 IN CNAME ocs
+mail03 90000 IN A 193.227.50.13
+401360611.spedud 90000 IN CNAME domains.live.com.
+engineers 90000 IN A 193.227.50.89
+maindns2 90000 IN CNAME maindns
+lyncdiscover.nurs 3600 IN CNAME webdir.online.lync.com.
+art 3600 IN MX 3 1084125414.mail.outlook.com.
+3600 IN MX 0 art-mans-edu-eg.mail.eo.outlook.com.
+art 90000 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all"
+ledge 3600 IN A 193.227.50.93
+261902608.sci 90000 IN CNAME domains.live.com.
+mailx 90000 IN A 193.227.50.240
+_sip._tls.com 3600 IN SRV 1 100 443 sipdir.online.lync.com.
+3600 IN SRV 100 1 443 sipdir.online.lync.com.
+papers 90000 IN CNAME app2
+stream 90000 IN A 193.227.50.6
+lyncdiscover 90000 IN A 193.227.50.75
+medfac 90000 IN A 193.227.50.121
+elearn 90000 IN CNAME flora
+_sipfederationtls._tcp.tah 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+stdaresult 90000 IN A 193.227.50.205
+citcsrv2 1200 IN A 193.227.50.60
+_sip._tls.csi 3600 IN SRV 1 100 443 sipdir.online.lync.com.
+cie 90000 IN CNAME www1
+mucconf 90000 IN A 193.227.50.182
+\194\160_sipfederationtls._tcp.phy.mans.edu.eg._tcp.phy 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+\194\160_sipfederationtls._tcp.eng.mans.edu.eg._tcp.eng 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+iaems 90000 IN A 193.227.50.205
+ruext 90000 IN CNAME citcsrv2
+legalaffairs 90000 IN A 193.227.50.205
+sip.com 3600 IN CNAME sipdir.online.lync.com.
+dcm 90000 IN A 193.227.50.176
+dicomarchive1 90000 IN A 172.16.23.123
+ophc 90000 IN A 193.227.50.121
+159697530.spedmn 90000 IN CNAME domains.live.com.
+_sipfederationtls._tcp.spedu 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+sipdir.online.lync.com.spedmg 3600 IN CNAME sip.spedmg
+ibnalhitham 90000 IN CNAME app1
+thebes 90000 IN CNAME citcsrv064
+com 3600 IN MX 0 com-mans-edu-eg.mail.eo.outlook.com.
+3600 IN MX 3 846876614.mail.outlook.com.
+com 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all"
+sip.spedmn.mans.edu.eg.spedmn 3600 IN CNAME sipdir.online.lync.com.
+sip.csi 3600 IN CNAME sipdir.online.lync.com.
+muproxy 1200 IN A 172.16.0.29
+edud 3600 IN MX 0 1464844787.mail.outlook.com.
+edud 3600 IN TXT "v=spf1 include:outlook.com ~all" "" ""
+cse 90000 IN A 193.227.51.201
+csi 3600 IN MX 3 652891285.mail.outlook.com.
+3600 IN MX 0 csi-mans-edu-eg.mail.protection.outlook.com.
+csi 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all"
+app1 1200 IN A 193.227.50.7
+app2 1200 IN A 193.227.50.37
+app3 1200 IN A 193.227.50.44
+app4 90000 IN A 193.227.50.39
+app5 90000 IN A 193.227.50.39
+app6 90000 IN A 193.227.50.36
+app7 90000 IN A 193.227.50.44
+sip.edu 3600 IN CNAME sipdir.online.lync.com.
+molex 90000 IN A 193.227.50.205
+_sip._tls.eng 3600 IN SRV 1 100 443 sipdir.online.lync.com.
+\194\160_sipfederationtls._tcp.sci.mans.edu.eg._tcp.sci 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+citcrouter 90000 IN A 193.227.50.1
+espsb 3600 IN A 193.227.1.33
+\194\160_sipfederationtls._tcp.edu.mans.edu.eg._tcp.edu 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+maindns 90000 IN A 193.227.50.3
+dml 90000 IN A 193.227.40.142
+autodiscover.kind 90000 IN CNAME autodiscover.outlook.com.
+nurfac 90000 IN A 193.227.50.121
+portal 90000 IN CNAME www2
+altcns 90000 IN A 193.227.50.121
+edu 3600 IN MX 0 edu-mans-edu-eg.mail.eo.outlook.com.
+3600 IN MX 3 1012686171.mail.outlook.com.
+edu 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+training 90000 IN A 193.227.50.168
+appd 3600 IN MX 0 1562655724.mail.outlook.com.
+appd 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+autodiscover.law 90000 IN CNAME autodiscover.outlook.com.
+musystems 90000 IN A 193.227.50.66
+hr 90000 IN A 193.227.50.56
+sip.eng 3600 IN CNAME sipdir.online.lync.com.
+lyncdiscoverinternal 90000 IN A 193.227.50.75
+_sipfederationtls._tcp.nurs 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+\194\160_sipfederationtls._tcp.edud.mans.edu.eg._tcp.edud 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+clibrary 90000 IN A 193.227.50.121
+eng 3600 IN MX 0 eng-mans-edu-eg.mail.eo.outlook.com.
+3600 IN MX 3 1811266932.mail.outlook.com.
+eng 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all"
+lawfac 90000 IN A 193.227.50.121
+almuneer 90000 IN A 193.227.50.208
+env 90000 IN A 193.227.50.121
+lyncdiscover.law 3600 IN CNAME webdir.online.lync.com.
+virtual_university 90000 IN A 193.227.51.209
+esa 90000 IN A 193.227.50.121
+muiro 90000 IN A 193.227.50.121
+dentfac 90000 IN A 193.227.50.121
+autodiscover.med 90000 IN CNAME autodiscover.outlook.com.
+etc 3600 IN A 193.227.50.121
+library 3600 IN A 193.227.1.33
+564054716.agr 90000 IN CNAME domains.live.com.
+sh 90000 IN A 193.227.50.121
+\194\160_sipfederationtls._tcp.scid.mans.edu.eg._tcp.scid 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+phyd 3600 IN MX 0 66059987.mail.outlook.com.
+phyd 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+spofac 3600 IN A 193.227.50.182
+farabi 90000 IN A 193.227.50.223
+elections 90000 IN CNAME election
+result 90000 IN A 193.227.50.130
+stimetable 90000 IN A 193.227.50.205
+lyncdiscover.spedmn.mans.edu.eg.spedmn 3600 IN CNAME webdir.online.lync.com.
+newhr 90000 IN A 193.227.50.155
+archive 90000 IN A 193.227.50.205
+300031528.med 90000 IN CNAME domains.live.com.
+ss10.sun 90000 IN A 193.227.50.130
+budget 90000 IN A 193.227.50.205
+msdnaa 90000 IN A 193.227.50.18
+ehis 3600 IN A 193.227.50.161
+lyncdiscover.med 3600 IN CNAME webdir.online.lync.com.
+mubridge 90000 IN A 193.227.50.75
+\194\160_sipfederationtls._tcp.agrd.mans.edu.eg._tcp.agrd 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+1797716761.agrd 90000 IN CNAME domains.live.com.
+artd 3600 IN MX 0 1494519844.mail.outlook.com.
+artd 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+www.rubia 90000 IN A 193.227.50.10
+citcconf 1200 IN A 193.227.50.120
+pharfac 90000 IN A 193.227.50.182
+edufac 90000 IN A 193.227.50.121
+vetfac 90000 IN A 193.227.50.121
+\194\160_sipfederationtls._tcp.spedmg.mans.edu.eg._tcp.spedmg 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+mainproxy 90000 IN A 172.16.0.11
+credithours 90000 IN A 193.227.50.7
+www1 90000 IN A 193.227.50.60
+www2 90000 IN A 193.227.50.6
+medisu 90000 IN A 193.227.50.60
+gsc 90000 IN A 193.227.50.121
+his 90000 IN CNAME srv137
+alzahraa 90000 IN A 193.227.50.227
+sipx 90000 IN A 193.227.50.10
+ccdc 90000 IN A 193.227.50.121
+joese 3600 IN A 193.227.1.33
+store 90000 IN CNAME stores
+1012686171.edu 90000 IN CNAME domains.live.com.
+sip.kind 3600 IN CNAME sipdir.online.lync.com.
+exams 90000 IN A 193.227.50.226
+engfac 90000 IN A 193.227.50.121
+_sip._tls.edu 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+arado 90000 IN A 193.227.50.217
+mumic 90000 IN CNAME citcsrv2
+sip.spedu 3600 IN CNAME sipdir.online.lync.com.
+wn03 90000 IN A 193.227.51.249
+wn04 90000 IN A 193.227.51.250
+democonf 90000 IN A 193.227.50.58
+sr-citc 90000 IN A 193.227.50.120
+schools 90000 IN A 193.227.50.165
+mansbw 90000 IN A 193.227.50.77
+mansdf 90000 IN A 193.227.50.44
+autodiscover.phr 90000 IN CNAME autodiscover.outlook.com.
+cards 90000 IN A 193.227.50.224
+www.scc 3600 IN A 193.227.51.219
+scifac 90000 IN A 193.227.50.121
+autodiscover.phy 90000 IN CNAME autodiscover.outlook.com.
+jes 3600 IN A 193.227.1.33
+_sip._tls.dent 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+846876614.com 90000 IN CNAME domains.live.com.
+_sipinternaltls._tcp 3600 IN SRV 0 0 5061 lynced
+_sipfederationtls._tcp.agr 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+autodiscover.sci 90000 IN CNAME autodiscover.outlook.com.
+students 600 IN A 193.227.50.15
+students 90000 IN MX 10 cmail.students
+1084125414.art 90000 IN CNAME domains.live.com.
+66059987.phyd 90000 IN CNAME domains.live.com.
+_sip._tls.law 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+kau 90000 IN A 193.227.50.57
+\194\160_sipfederationtls._tcp.comd.mans.edu.eg._tcp.comd 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+newexhr 90000 IN A 193.227.50.155
+ss11 90000 IN A 193.227.50.108
+lyncdiscover.phr 3600 IN CNAME webdir.online.lync.com.
+1865342636.tah 90000 IN CNAME domains.live.com.
+stusrv02.students 1200 IN A 193.227.50.16
+proxyv6 90000 IN AAAA 2001:4300:2001:601::12
+kids 90000 IN A 193.227.50.205
+kfu 90000 IN A 193.227.50.217
+emag 90000 IN A 193.227.50.226
+_sip._tls.spedmg 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+sip.law 3600 IN CNAME sipdir.online.lync.com.
+_sip._tls.spedmn 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+\194\160_sipfederationtls._tcp.vet.mans.edu.eg._tcp.vet 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+_sipfederationtls._tcp.art 90000 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls.med 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+law 3600 IN MX 3 912532948.mail.outlook.com.
+3600 IN MX 0 law-mans-edu-eg.mail.eo.outlook.com.
+law 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all" ""
+muegde1 90000 IN A 193.227.50.69
+artsfac 90000 IN A 193.227.50.121
+lync 90000 IN A 193.227.50.75
+scimfac 90000 IN CNAME www1
+\194\160_sipfederationtls._tcp.spedud.mans.edu.eg._tcp.spedud 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+decpc 90000 IN CNAME citcsrv2
+1562655724.appd 90000 IN CNAME domains.live.com.
+alfa 90000 IN A 193.227.50.161
+kind 3600 IN MX 3 647478830.mail.outlook.com.
+3600 IN MX 0 kind-mans-edu-eg.mail.eo.outlook.com.
+kind 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+spedu 3600 IN MX 3 709309951.mail.outlook.com.
+3600 IN MX 0 spedu-mans-edu-eg.mail.protection.outlook.com.
+spedu 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+mansvu 3600 IN A 193.227.50.226
+mansvu 90000 IN MX 10 mail.mansvu
+works 90000 IN A 193.227.50.168
+_sipfederationtls._tcp.phr 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+ss20.sun 90000 IN A 193.227.50.129
+lib 90000 IN A 193.227.1.33
+csimu 90000 IN A 193.227.51.203
+muqac 90000 IN A 193.227.51.200
+mac 90000 IN A 193.227.50.60
+conferences 90000 IN CNAME srv58
+mupis 90000 IN CNAME srv136
+1494519844.artd 90000 IN CNAME domains.live.com.
+mas 90000 IN A 193.227.50.174
+emunit 90000 IN A 193.227.50.121
+mci 90000 IN A 196.219.36.136
+med 90000 IN A 193.227.50.172
+med 3600 IN MX 0 med-mans-edu-eg.mail.eo.outlook.com.
+3600 IN MX 3 300031528.mail.outlook.com.
+med 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all"
+lms 90000 IN A 193.227.51.222
+galaatmg 90000 IN A 192.168.10.1
+_sipfederationtls._tcp.com 3600 IN SRV 1 100 5061 sipfed.online.lync.com.
+autodiscover.tah 90000 IN CNAME autodiscover.outlook.com.
+deraya 3600 IN A 193.227.50.205
+citcsrv01 90000 IN A 193.227.50.5
+citcsrv04 90000 IN A 193.227.50.4
+agrfac 90000 IN A 193.227.50.121
+nigo 90000 IN A 193.227.50.60
+astv6 90000 IN AAAA 2001:4300:2001:601:207:e9ff:fe31:4aae
+medstores 90000 IN A 193.227.50.67
+lyncdiscover.kind 3600 IN CNAME webdir.online.lync.com.
+_sipfederationtls._tcp.csi 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+tempmans 90000 IN CNAME tempus
+journals 3600 IN A 193.227.50.121
+_sipfederationtls._tcp.edu 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+lyncdiscover.tah 3600 IN CNAME webdir.online.lync.com.
+pediatrics 3600 IN A 193.227.50.121
+ictp 90000 IN CNAME citcsrv2
+treasury 90000 IN CNAME app5
+_sip._tls.spedu 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.soillab 3600 IN A 193.227.50.182
+wsus 90000 IN A 193.227.50.42
+autodiscover.agrd 90000 IN CNAME autodiscover.outlook.com.
+ophthalmology 90000 IN CNAME www1
+msh 90000 IN A 193.227.50.66
+capdegypt 90000 IN CNAME citcsrv2
+egyneotest 3600 IN A 193.227.50.204
+aswan 90000 IN A 193.227.50.205
+autodiscover.comd 90000 IN CNAME autodiscover.outlook.com.
+476406396.vet 90000 IN CNAME domains.live.com.
+muc 90000 IN A 193.227.51.226
+muh 90000 IN CNAME www2
+emhospital 90000 IN CNAME www2
+mum 90000 IN CNAME mail03
+mainprxy 90000 IN CNAME mainproxy
+alfarabi 90000 IN A 193.227.50.223
+ocs 90000 IN A 193.227.50.95
+_sipfederationtls._tcp.eng 3600 IN SRV 1 100 5061 sipfed.online.lync.com.
+autodiscover.spedmg 90000 IN CNAME autodiscover.outlook.com.
+spedmg 3600 IN MX 0 spedmg-mans-edu-eg.mail.eo.outlook.com.
+spedmg 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+\194\160_sipfederationtls._tcp.phyd.mans.edu.eg._tcp.phyd 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+autodiscover.spedmn 90000 IN CNAME autodiscover.outlook.com.
+oes 90000 IN CNAME citcsrv2
+_sip._tls.phr 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+709309951.spedu 90000 IN CNAME domains.live.com.
+_sip._tls.nurs 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+223587504.phy 90000 IN CNAME domains.live.com.
+voip 90000 IN A 193.227.50.22
+much 90000 IN CNAME aac
+autodiscover.vet 90000 IN CNAME autodiscover.outlook.com.
+mudb 90000 IN A 193.227.50.7
+mucl 90000 IN A 193.227.50.207
+hemag 90000 IN A 193.227.50.240
+\194\160_sipfederationtls._tcp.tah.mans.edu.eg._tcp.tah 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+autodiscover.spedud 90000 IN CNAME autodiscover.outlook.com.
+mucr 90000 IN A 193.227.51.226
+muct 90000 IN A 193.227.51.227
+alexpgs 90000 IN A 193.227.50.177
+srv58 90000 IN A 193.227.50.58
+srv63 90000 IN A 193.227.50.63
+db 90000 IN A 193.227.50.128
+comsrv 90000 IN A 193.227.51.74
+arrivals 90000 IN A 193.227.50.205
+sip.phr 3600 IN CNAME sipdir.online.lync.com.
+pet 90000 IN A 193.227.50.68
+srv80 90000 IN A 193.227.50.80
+srv83 90000 IN A 193.227.50.83
+tempus 90000 IN A 193.227.50.33
+home 90000 IN CNAME citcsrv2
+pgs 90000 IN A 193.227.50.178
+phr 3600 IN MX 0 phr-mans-edu-eg.mail.protection.outlook.com.
+3600 IN MX 3 470792522.mail.outlook.com.
+phr 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+wn01 90000 IN A 193.227.51.247
+wn02 90000 IN A 193.227.51.248
+\194\160_sipfederationtls._tcp.dent.mans.edu.eg._tcp.dent 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+phy 3600 IN MX 0 223587504.mail.outlook.com.
+phy 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+osh 90000 IN A 193.227.50.6
+comd 3600 IN MX 0 1126686763.mail.outlook.com.
+comd 3600 IN TXT "v=spf1 include:outlook.com ~all" ""
+cmail.students 90000 IN A 193.227.50.166
+osp 90000 IN CNAME citcsrv2
+citc 90000 IN CNAME www2
+lyncdiscover.vet 3600 IN CNAME webdir.online.lync.com.
+mus1 90000 IN A 193.227.1.175
+ocs2 90000 IN A 193.227.50.92
+_sipfederationtls._tcp.kind 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+mumm 1200 IN A 193.227.50.17
+www.mansvu 90000 IN A 193.227.50.226
+ocmu 90000 IN CNAME www2
+dc1.sun 90000 IN A 193.227.50.124
+taskmanager 90000 IN A 193.227.50.206
+1811266932.eng 90000 IN CNAME domains.live.com.
+olympic 90000 IN CNAME www2
+muedge 90000 IN A 193.227.50.133
+dascostores 90000 IN A 193.227.50.208
+musc 90000 IN CNAME www2
+ocse 90000 IN CNAME citcsrv093
+musg 90000 IN CNAME www2
+spedmn 3600 IN MX 0 spedmn-mans-edu-eg.mail.eo.outlook.com.
+3600 IN MX 3 159697530.mail.outlook.com.
+spedmn 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \226\128\147all" ""
+\194\160_sipfederationtls._tcp.law.mans.edu.eg._tcp.law 90000 IN SRV 10 2 5061 \194\160federation.messenger.msn.com.
+newapp7 90000 IN A 193.227.50.183
+ecenter 90000 IN A 193.227.50.74
+hotels 90000 IN CNAME graduates

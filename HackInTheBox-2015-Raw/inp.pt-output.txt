@@ -1,0 +1,21 @@
+@ 38400 IN SOA ns.isg.pt. dsi.ensinus.pt. 1361196758 10800 3600 604800 38400
+@ 38400 IN TXT "google-site-verification=LRJYkCHFcMz6Cs9cMsyetXH9-5I7f2jm7POGwqZ9SE0"
+@ 38400 IN MX 1 ASPMX.L.GOOGLE.COM.
+38400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+38400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+38400 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+38400 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+@ 38400 IN NS cosmos
+38400 IN NS galileu
+netpa 38400 IN CNAME fpo.ulusofona.pt.
+galileu 38400 IN A 193.137.222.101
+acesso 38400 IN CNAME amcoelho.ulusofona.pt.
+alumni 38400 IN NS cosmos.inp.pt
+38400 IN NS galileu.inp.pt
+internacional 38400 IN CNAME amcoelho.ulusofona.pt.
+www 38400 IN CNAME gvelho.ulusofona.pt.
+moodle 38400 IN CNAME fpo.ulusofona.pt.
+mail 38400 IN CNAME ghs.google.com.
+appsrv1 38400 IN A 193.137.222.109
+candidaturas 38400 IN CNAME acesso.grupolusofona.pt.
+cosmos 38400 IN A 193.137.222.100

@@ -1,0 +1,105 @@
+@ 36000 IN SOA tegata postmaster.tegata 2015032701 3600 600 1209600 900
+@ 36000 IN NS tegata
+36000 IN NS akitau
+@ 36000 IN MX 0 mailgw
+@ 36000 IN TXT "v=spf1 include:_spf1.akita-u.ac.jp include:_spf2.akita-u.ac.jp include:_spf3.akita-u.ac.jp include:_spf4.akita-u.ac.jp ~all"
+ie 36000 IN NS dewa.ie
+hs 36000 IN NS dips09
+wpad 36000 IN A 158.215.2.19
+is 36000 IN NS ns.is
+wproxy7-a 36000 IN A 158.215.8.27
+kg 36000 IN NS kns.kg
+tech 36000 IN NS cero.tech
+gaku 36000 IN NS www.gaku
+eng 36000 IN NS ns.gipc
+mech 36000 IN NS dips12
+lib 36000 IN NS orion.lib
+wproxy1-a 36000 IN A 158.215.8.21
+dips01 36000 IN A 158.215.26.3
+dips03 36000 IN A 158.215.70.12
+dips04 36000 IN A 158.215.70.14
+dips05 36000 IN A 158.215.73.181
+dips06 36000 IN A 158.215.72.212
+dips07 36000 IN A 158.215.97.17
+dips08 36000 IN A 158.215.97.18
+dips10 36000 IN A 158.215.132.40
+dips11 36000 IN A 158.215.140.26
+dips12 36000 IN A 158.215.142.10
+dips12 36000 IN MX 0 mail
+dips12 36000 IN TXT "v=spf1 include:_spf1.akita-u.ac.jp include:_spf2.akita-u.ac.jp include:_spf3.akita-u.ac.jp include:_spf4.akita-u.ac.jp ~all"
+dips13 36000 IN A 158.215.148.199
+dips13 36000 IN MX 0 mail
+dips13 36000 IN TXT "v=spf1 include:_spf1.akita-u.ac.jp include:_spf2.akita-u.ac.jp include:_spf3.akita-u.ac.jp include:_spf4.akita-u.ac.jp ~all"
+dips14 36000 IN A 158.215.172.10
+dips14 36000 IN MX 0 mail
+dips14 36000 IN TXT "v=spf1 include:_spf1.akita-u.ac.jp include:_spf2.akita-u.ac.jp include:_spf3.akita-u.ac.jp include:_spf4.akita-u.ac.jp ~all"
+cerp 36000 IN NS dips02.cerp
+mat 36000 IN NS dips13
+snws-m 36000 IN A 158.215.97.20
+pcix 36000 IN NS www.pcix
+med 36000 IN NS gbns1.med
+kk01 36000 IN NS bbs-sv00.kk01
+kk02 36000 IN NS mailhost.kk02
+sh 36000 IN NS ns.sh
+cges 36000 IN NS taiheizan.cges
+gw 36000 IN NS ns.gipc
+cpera 36000 IN NS kkss.cpera
+phys 36000 IN NS ns.phys
+wproxy2-a 36000 IN A 158.215.8.22
+wm 36000 IN A 158.215.2.41
+wm 36000 IN MX 0 wms
+wm 36000 IN TXT "v=spf1 include:_spf1.akita-u.ac.jp include:_spf2.akita-u.ac.jp include:_spf3.akita-u.ac.jp include:_spf4.akita-u.ac.jp ~all"
+_spf1 36000 IN TXT "v=spf1 ip4:158.215.8.2 ip4:158.215.8.16 ip4:158.215.2.46 ip4:158.215.2.44 ip4:158.215.2.40 ip4:158.215.2.42 -all"
+svbl 36000 IN NS svbl8200.svbl
+aes 36000 IN NS littlepigeon.aes
+daigakudb-ers 36000 IN A 158.215.41.148
+mail 36000 IN A 158.215.2.44
+mail 36000 IN MX 0 mail
+mail 36000 IN TXT "v=spf1 include:_spf1.akita-u.ac.jp include:_spf2.akita-u.ac.jp include:_spf3.akita-u.ac.jp include:_spf4.akita-u.ac.jp ~all"
+rproxy 36000 IN A 158.215.8.3
+gipc 36000 IN NS ns.gipc
+wproxy3-a 36000 IN A 158.215.8.23
+mus 36000 IN NS ns.gipc
+36000 IN NS kuroko.mus
+auas 36000 IN A 158.215.27.4
+akitauinfo 36000 IN A 158.215.26.185
+wproxy1 36000 IN A 158.215.29.21
+wproxy2 36000 IN A 158.215.29.22
+wproxy3 36000 IN A 158.215.29.23
+wproxy4 36000 IN A 158.215.29.24
+wproxy5 36000 IN A 158.215.29.25
+wproxy6 36000 IN A 158.215.29.26
+wproxy7 36000 IN A 158.215.29.27
+wproxy4-a 36000 IN A 158.215.8.24
+mailgw2 36000 IN A 158.215.2.46
+hos 36000 IN NS sv-nw6.hos
+mailgw 36000 IN A 158.215.2.46
+jimu 36000 IN NS office.jimu
+wproxy 36000 IN A 158.215.29.31
+_spf2 36000 IN TXT "v=spf1 ip4:158.215.2.6 ip4:158.215.33.11 ip4:158.215.77.11 ip4:158.215.195.71 ip4:158.215.172.138 ip4:158.215.172.140 -all"
+_spf3 36000 IN TXT "v=spf1 ip4:158.215.172.143 ip4:158.215.172.142 ip4:158.215.172.19 ip4:158.215.59.19 ip4:158.215.152.3 ip4:158.215.152.11 -all"
+_spf4 36000 IN TXT "v=spf1 ip4:158.215.117.18 ip4:158.215.41.41 ip4:158.215.41.42 ip4:158.215.132.106 ip4:158.215.126.21 ip4:158.215.126.11 -all"
+cis 36000 IN NS ns.gipc
+kikou 36000 IN A 158.215.26.190
+wproxy5-a 36000 IN A 158.215.8.25
+ipc 36000 IN NS ns.gipc
+tegata 36000 IN A 158.215.8.16
+math 36000 IN NS swallow.math
+dips09 36000 IN A 158.215.108.11
+crc 36000 IN NS ns.gipc
+daigakudb-ed 36000 IN A 158.215.88.48
+www 36000 IN A 158.215.8.3
+mono 36000 IN NS ns.gipc
+dial 36000 IN NS ns.gipc
+bb 36000 IN NS ns.gipc
+wproxy6-a 36000 IN A 158.215.8.26
+ipc-ed 36000 IN NS ns.gipc
+as 36000 IN NS dips14
+ce 36000 IN NS cens.ce
+mine 36000 IN NS ns.mine
+akitau 36000 IN A 158.215.8.2
+daigakudb-a 36000 IN A 158.215.26.184
+wms 36000 IN A 158.215.2.40
+ed 36000 IN NS ns.ed
+ee 36000 IN NS dips10.ee
+jrh 36000 IN NS cns.jrh

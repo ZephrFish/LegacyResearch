@@ -1,0 +1,12 @@
+@ 7200 IN SOA ns.africaonline.co.tz. hostmaster.africaonline.co.tz. 2015041700 21600 3600 604800 604800
+@ 7200 IN NS ns1.africaonline.co.tz.
+7200 IN NS ns2.africaonline.co.tz.
+@ 7200 IN A 80.72.111.12
+@ 7200 IN MX 10 mail2-incoming.africaonline.co.tz.
+7200 IN MX 20 mx2.iwayafrica.net.
+saris 7200 IN A 196.46.129.212
+mail 7200 IN CNAME samaki.africaonline.co.tz.
+_domainkey.mnma.ac.tz 7200 IN TXT "t=y"
+www 7200 IN CNAME @
+opac 7200 IN A 196.46.129.211
+m1._domainkey.mnma.ac.tz 7200 IN TXT "g=; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNzt/G/q608/+vu0ZhNf6wJ2qUvk/90WOytKXfAxtGRnw/WzJscY8bz9OpXS4e4t9a87Imx1964aTBW1XoEs8TumsNkXKlHri9LWybCXMeCvRfSSBP+HkMpA8r8gvrdvmDYsXDIgk/s/NpjLd0wl9B3d0kOyQXIZSwvJ6pKz3FywIDAQAB;"

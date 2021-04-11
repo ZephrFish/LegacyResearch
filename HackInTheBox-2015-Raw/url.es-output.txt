@@ -1,0 +1,30 @@
+@ 3600 IN SOA ns1.url.edu. informatica.url.edu. 2014031801 3600 7200 2419200 172800
+@ 3600 IN NS ns1.url.edu.
+3600 IN NS ns2.url.edu.
+3600 IN NS nso.nic.es.
+iqs 3600 IN NS ns1.iqs.url.edu.
+3600 IN NS ns2.iqs.url.edu.
+webgrec 3600 IN CNAME grec
+convenis 3600 IN CNAME grec
+llistes 3600 IN MX 10 servidor.url.edu.
+noserver2 3600 IN A 84.88.240.254
+nougrec 3600 IN CNAME grec
+filosofia 3600 IN NS dns1.blanquerna.edu.
+3600 IN NS dns2.blanquerna.edu.
+www 3600 IN CNAME www.url.edu.
+view.rectorat 3600 IN A 84.88.243.46
+localhost 3600 IN A 127.0.0.1
+peretarres 3600 IN MX 10 ecampus.peretarres.org.
+icesb 3600 IN NS dns1.blanquerna.edu.
+3600 IN NS dns2.blanquerna.edu.
+convocatories 3600 IN CNAME grec
+blanquerna 3600 IN NS dns1.blanquerna.edu.
+3600 IN NS dns2.blanquerna.edu.
+noserver 3600 IN A 84.88.240.253
+servidor 3600 IN A 84.88.240.200
+grec 3600 IN A 84.88.240.202
+fundemi 3600 IN NS fletxa.iqs.es.
+3600 IN NS comserver.fundemi.com.
+preinscripcio.peretarres 3600 IN A 217.116.0.182
+www.tsi 3600 IN CNAME turisme.stignasi.es.
+fletxa.iqs 3600 IN A 84.88.229.7

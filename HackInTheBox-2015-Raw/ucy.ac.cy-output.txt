@@ -1,0 +1,294 @@
+@ 497664000 IN SOA ns1 hostmaster 2011080818 43200 3600 1209600 10368000
+@ 3600 IN TXT "MS=ms85942091"
+3600 IN TXT "google-site-verification=QcMPY84-JUOVNNHJdntk6XaFaj7SJReaVwoHO7E74zQ."
+@ 497664000 IN MX 5 prom01.cc
+497664000 IN MX 5 prom02.cc
+@ 497664000 IN A 194.42.1.70
+@ 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+vega1 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+sam2012 497664000 IN CNAME electra
+sstest 497664000 IN A 194.42.1.140
+library2 497664000 IN A 194.42.22.20
+gk 497664000 IN A 194.42.34.39
+imap 600 IN CNAME zmlb00.csrv
+heraclitus 497664000 IN CNAME heraclitus.cc
+thales.ece 497664000 IN A 194.42.10.227
+student2 497664000 IN A 194.42.22.23
+foss 497664000 IN CNAME pvwebsvr.photovoltaic
+www.intelliCIS 497664000 IN CNAME intelliCIS.sharks
+mas 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+ns1.cs 497664000 IN A 194.42.16.11
+www.texnopleysi 497664000 IN CNAME engwbs03.polytech
+iloportal 497664000 IN A 194.42.22.226
+vega2 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www.ekonomia 497664000 IN CNAME ekonomia.cc
+biotextquest 497664000 IN CNAME biotextquest.biol
+www.emflab 497664000 IN CNAME ucyweb
+pvwebsvr.photovoltaic 497664000 IN A 194.42.22.221
+helpdesk 497664000 IN CNAME sdserver.cc
+www.hep 497664000 IN A 194.42.1.97
+libblog 497664000 IN CNAME ghs.google.com.
+lconline 497664000 IN A 194.42.9.95
+mysite 497664000 IN CNAME prtlweb.csrv
+webboard-old 497664000 IN CNAME webboard-old.cc
+lib 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+enal 497664000 IN CNAME pvwebsvr.photovoltaic
+www.mbnet 497664000 IN CNAME mbnet.cc
+epayments 497664000 IN CNAME epayments.csrv
+SFIL038 497664000 IN A 194.42.22.219
+pvtechnology 497664000 IN CNAME pvwebsvr.photovoltaic
+triton 497664000 IN A 194.42.22.213
+newsletters 497664000 IN CNAME datacenters.cc
+www.biophys 497664000 IN CNAME biophys.cc
+sunlabgp 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www.logipaignion 497664000 IN A 194.42.16.25
+tmcm 497664000 IN CNAME tmcm.cc
+ns2.cc 497664000 IN A 194.42.1.5
+iam 497664000 IN A 194.42.1.128
+noticeboard 497664000 IN CNAME noticeboard.cc
+ucyold 497664000 IN CNAME heraclitus.xxi
+orion.eng 497664000 IN CNAME orion.polytech
+DomainDnsZones 497664000 IN NS RHEA.xxi
+497664000 IN NS atlas.xxi
+497664000 IN NS cronus.xxi
+webct 497664000 IN CNAME webct.cc
+ns2.cs 497664000 IN A 194.42.16.12
+library 497664000 IN A 194.42.22.4
+smtpout02 497664000 IN A 194.42.22.22
+ec2-2013 497664000 IN CNAME electra
+www.eumedis-cy 497664000 IN CNAME eumedis-cy.cc
+mybackup 497664000 IN A 194.42.22.19
+ucyvoicelive 497664000 IN A 194.42.34.22
+atropos 497664000 IN CNAME atropos.cc
+sxolikes.library 497664000 IN A 194.42.26.39
+smtp 600 IN CNAME zmlb00.csrv
+zeus.cc 497664000 IN A 194.42.1.1
+testudo 497664000 IN A 194.42.14.198
+www.apollon 497664000 IN A 194.42.1.99
+lpg 497664000 IN CNAME leda.sharks
+ucycnr1 497664000 IN A 194.42.14.97
+ocean 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+applications 497664000 IN A 194.42.20.2
+teletesapofoitiseon 497664000 IN CNAME streamingsrv.vconf
+webmail 600 IN CNAME zmlb00.csrv
+www.cee 497664000 IN CNAME engwbs03.polytech
+googleffffffffb6a0bfab 497664000 IN CNAME google.com.
+www.oldbooks 497664000 IN CNAME oldbooks.elmagio.com.cy.
+smtpout01 497664000 IN A 194.42.22.21
+www.bpa 497664000 IN CNAME ucyweb
+xxi 497664000 IN CNAME xxi.cc
+www.proclil 497664000 IN CNAME www.proclil.org.
+biol 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+mirror.library 497664000 IN A 194.42.22.9
+www.ecmp 497664000 IN A 194.42.20.1
+ucyweb 497664000 IN A 194.42.1.70
+ucyav 497664000 IN CNAME is-reporter.cc
+release 497664000 IN CNAME ucyweb
+soe 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www.theory 497664000 IN CNAME seacorn.cs
+lekythos.library 497664000 IN CNAME lekythos.lib
+www.hum 497664000 IN CNAME ucyweb
+cytld 497664000 IN CNAME cytld.cc
+cyhep 497664000 IN CNAME ucyweb
+ns3.cs 497664000 IN A 184.42.16.58
+is-reporter 497664000 IN A 194.42.1.24
+ditis 497664000 IN CNAME ditis.cc
+www.multical.ece 497664000 IN A 194.42.10.224
+banssb 497664000 IN A 194.42.34.40
+www.netrl 497664000 IN CNAME www.netrl.cs
+ucyvpn 497664000 IN CNAME ikaros.vega1
+csrv 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+ftp 497664000 IN CNAME zeus.cc
+websrv 497664000 IN CNAME websrv.cc
+chem 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www.proy 497664000 IN CNAME ucyweb
+new 497664000 IN A 194.42.1.131
+www.ultrafast 497664000 IN CNAME athena.phy
+webboard 497664000 IN CNAME webboard.cc
+www.emfwavecontrolcy 497664000 IN CNAME hep.phy
+sso 497664000 IN A 194.42.1.165
+photonics 497664000 IN CNAME photonics.cc
+media 497664000 IN A 194.42.1.64
+www.qcd 497664000 IN CNAME qcd.cc
+fedra.library 497664000 IN CNAME fedra.lib
+electra 497664000 IN A 194.42.22.220
+srm 497664000 IN CNAME sapwebdis01.csrv
+biophys 497664000 IN CNAME biophys.cc
+vpnholisticlab 497664000 IN A 194.42.8.162
+ssoportal 497664000 IN CNAME prtlsso.csrv
+iscol 497664000 IN CNAME engwbs03.polytech
+polytech 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www.foss 497664000 IN CNAME pvwebsvr.photovoltaic
+linc 497664000 IN CNAME grid
+www.xxi 497664000 IN CNAME xxi.cc
+ns1 497664000 IN A 194.42.1.50
+ns2 497664000 IN A 194.42.1.55
+www.dir 497664000 IN CNAME ucyweb
+victorhugo 497664000 IN CNAME student
+constanstinoulab 497664000 IN CNAME ucyweb
+sourcecorpus 497664000 IN CNAME ucyweb
+www.ece 497664000 IN CNAME engwbs03.polytech
+www.victorhugo 497664000 IN CNAME student
+ucycnr2 497664000 IN A 194.42.14.193
+_tcp 497664000 IN NS RHEA.xxi
+497664000 IN NS atlas.xxi
+497664000 IN NS cronus.xxi
+www.testeng 497664000 IN CNAME engwbs02.polytech
+www.nestor 497664000 IN CNAME ucyweb
+can 497664000 IN A 68.178.254.124
+jupiter 497664000 IN CNAME jupiter.cc
+www.psm 497664000 IN CNAME psm
+www.texnoplefsi 497664000 IN CNAME engwbs03.polytech
+www.mesarch 497664000 IN A 194.42.22.211
+filesender 497664000 IN A 194.42.1.143
+lclinux 497664000 IN A 194.42.9.119
+ultrafast 497664000 IN CNAME athena.phy
+iacoveio 497664000 IN NS ns1
+497664000 IN NS ns2
+www.ucynano 497664000 IN CNAME ucyweb
+eshop 497664000 IN A 194.42.20.12
+www.politistiko 497664000 IN CNAME ucyweb
+ccs 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+pba 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+econ 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+_msdcs 497664000 IN NS RHEA.xxi
+497664000 IN NS atlas.xxi
+497664000 IN NS cronus.xxi
+www.ieeesb 497664000 IN A 194.42.10.223
+ForestDnsZones 497664000 IN NS RHEA.xxi
+497664000 IN NS atlas.xxi
+497664000 IN NS cronus.xxi
+vega3 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+biodiversitylab 497664000 IN CNAME ucyweb
+mani 497664000 IN A 194.42.34.31
+ucitserasmusip2012 497664000 IN CNAME electra
+effinet 497664000 IN A 194.42.22.227
+mobileucyapp 497664000 IN CNAME clio.cs
+phy 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www2 497664000 IN CNAME student
+lcweb 497664000 IN CNAME lcweb.iacoveio
+mbnet 497664000 IN CNAME mbnet.cc
+www.pvtechnology 497664000 IN CNAME pvwebsvr.photovoltaic
+www3 497664000 IN CNAME ucyweb
+www.emf 497664000 IN CNAME photovoltaic.sharks
+grid 497664000 IN NS ns1.cs
+497664000 IN NS ns1
+497664000 IN NS ns2.cs
+497664000 IN NS ns2
+497664000 IN NS ns3.cs
+student 497664000 IN A 194.42.20.1
+www.media 497664000 IN CNAME media
+intranet 497664000 IN CNAME intranet.sunlabgp
+www.eng 497664000 IN CNAME engwbs03.polytech
+_udp 497664000 IN NS RHEA.xxi
+497664000 IN NS atlas.xxi
+497664000 IN NS cronus.xxi
+eduroam-ucy 497664000 IN A 194.42.1.40
+vconf 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www.cytld 497664000 IN CNAME cytld.cc
+www.cyhep 497664000 IN CNAME ucyweb
+servicedesk 497664000 IN CNAME sdserver.cc
+www.heplab 497664000 IN CNAME ucyweb
+www.ditis 497664000 IN CNAME ditis.cc
+ekonomia 497664000 IN CNAME ekonomia.cc
+www.mba 497664000 IN CNAME srv3.easyconsole.com.
+sms-server 497664000 IN CNAME sm-server.cc
+logipaignion 497664000 IN A 194.42.16.25
+psychol 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+www.arch 497664000 IN CNAME engwbs03.polytech
+www.pr 497664000 IN CNAME ucyweb
+www.erc 497664000 IN CNAME ucyweb
+qcd 497664000 IN CNAME qcd.cc
+www.lexisgrammar 497664000 IN CNAME ucyweb
+leventis 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+nestor 497664000 IN CNAME ucyweb
+www.enal 497664000 IN CNAME pvwebsvr.photovoltaic
+PVLabSimul-public.photovoltaic 497664000 IN A 194.42.22.210
+www.kios 497664000 IN A 194.42.10.64
+heraclitus2 497664000 IN A 194.42.1.61
+labpolytech 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+lexcy.library 497664000 IN CNAME lexcy.lib
+lsg 497664000 IN CNAME leda.sharks
+_sites 497664000 IN NS RHEA.xxi
+497664000 IN NS atlas.xxi
+497664000 IN NS cronus.xxi
+ucysis 497664000 IN A 194.42.34.23
+sirius.eng 497664000 IN CNAME sirius.polytech
+pop 600 IN CNAME zmlb00.csrv
+1816372273 497664000 IN CNAME domains.live.com.
+www.hermes 497664000 IN CNAME ucyweb
+mesarch 497664000 IN CNAME domains.tumblr.com.
+webapps 497664000 IN A 194.42.14.194
+www 497664000 IN CNAME ucyweb
+www-np 497664000 IN CNAME npserv1.phy
+www.rcse 497664000 IN CNAME ucyweb
+sharks 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+ADFSWP01 497664000 IN A 194.42.13.134
+ADFSWP02 497664000 IN A 194.42.13.135
+blackboard 497664000 IN A 194.42.14.197
+cc 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+realoptions 497664000 IN NS ns1
+497664000 IN NS ns2
+497664000 IN NS estia.ics.forth.gr.
+ucysisinb 497664000 IN A 172.20.20.3
+psm 497664000 IN A 194.42.10.47
+portal 497664000 IN CNAME prtlweb.csrv
+cp 497664000 IN A 194.42.22.16
+www.texnopleusi 497664000 IN CNAME engwbs03.polytech
+cs 497664000 IN NS ns1.cs
+497664000 IN NS ns1
+497664000 IN NS ns2.cs
+497664000 IN NS ns2
+497664000 IN NS ns3.cs
+multical.ece 497664000 IN A 194.42.10.224
+www.ucyvoice 497664000 IN CNAME ucyweb
+www.afn 497664000 IN CNAME ucyweb
+www.pvlabmaps 497664000 IN CNAME pvlabmaps.sharks
+www.mme 497664000 IN CNAME engwbs03.polytech
+www.oceanography 497664000 IN CNAME cyoceans.ocean

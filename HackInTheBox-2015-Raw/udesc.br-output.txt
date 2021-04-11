@@ -1,0 +1,372 @@
+@ 43200 IN SOA dns root.dns 2015043002 43200 7200 2419200 43200
+@ 43200 IN AAAA 2801:bc:0:105::194
+@ 43200 IN A 200.19.105.194
+@ 3600 IN MX 10 mailscanner-01
+3600 IN MX 10 mailscanner-02
+3600 IN MX 20 mailscanner-03
+@ 43200 IN NS ns.pop-ufsc.rct-sc.br.
+43200 IN NS dns
+43200 IN NS dns2
+43200 IN NS adns1.pop-sc.rnp.br.
+43200 IN NS adns2.pop-sc.rnp.br.
+eventos.virtual 3600 IN CNAME virtual
+www.cadu 43200 IN CNAME pages
+fm 3600 IN CNAME radio
+ceart 43200 IN NS dns
+43200 IN NS ns1.ceart
+43200 IN NS dns2
+www.neh 43200 IN CNAME neh
+sistemas 43200 IN NS dns
+43200 IN NS dns2
+www.intranet 3600 IN CNAME sistemas3
+sqlserver 3600 IN A 200.19.105.180
+pegasus-h 3600 IN AAAA 2801:bc:0:105::194
+pegasus-h 3600 IN A 200.19.105.194
+www.erbd2010 43200 IN CNAME www.erbd
+eleicao 43200 IN A 200.19.105.144
+novo.vestibular 3600 IN CNAME vestibular
+id 3600 IN A 200.19.105.150
+wiki 43200 IN CNAME dns2
+eventos-dev 43200 IN A 200.19.105.202
+radio 3600 IN A 200.19.105.197
+www.oeste 43200 IN CNAME oeste
+ceavi 43200 IN NS dns
+43200 IN NS npd
+43200 IN NS dns2
+www.siga 43200 IN CNAME siga
+semanaousada.ufsc 43200 IN CNAME semanaousada
+alexandria 3600 IN A 200.19.105.205
+noticias-dev 3600 IN CNAME pegasus-dev
+cefid.suporte 43200 IN CNAME cacic2
+pergamumj 3600 IN A 200.19.105.206
+www.4cijd2013 43200 IN CNAME eventos
+plataforma.proppg 43200 IN A 200.247.246.138
+cacic2 3600 IN A 200.19.105.200
+gerencia 3600 IN A 200.135.14.3
+conferencia 3600 IN A 200.19.105.153
+www.eventos 43200 IN CNAME eventos
+pop3 3600 IN CNAME hermes
+www-dev.sst 3600 IN CNAME pegasus-dev
+ena 3600 IN A 200.19.105.221
+webceart 43200 IN A 200.19.105.237
+mppt 43200 IN CNAME webfaed
+fej 43200 IN NS npd
+gceped 3600 IN CNAME pegasus-h
+www.ppginfo 43200 IN CNAME webfaed
+www.bu 3600 IN CNAME pegasus-h
+museudaescola 43200 IN A 200.19.105.212
+expresso-01 43200 IN A 200.19.105.245
+expresso-02 43200 IN A 200.19.105.246
+www.inscricoesead 3600 IN CNAME inscricoes
+www.multiculturalismo 43200 IN CNAME webfaed
+hermes 3600 IN A 200.19.105.193
+www 3600 IN CNAME pegasus-h
+www.atlasdoesportesc 43200 IN CNAME atlasdoesportesc
+sistemas3 3600 IN A 200.19.105.170
+printweb 3600 IN A 200.19.105.146
+vd 3600 IN A 200.19.105.218
+siga-rel 43200 IN A 200.19.105.182
+www.semanaousada 43200 IN CNAME semanaousada
+atlas 3600 IN A 200.19.105.197
+www.inscricoes 3600 IN CNAME inscricoes
+listas 43200 IN A 200.19.105.189
+radiofm 3600 IN CNAME radio
+smtp.nte 43200 IN CNAME polvo
+ppge 3600 IN CNAME webfaed
+rocknroll 3600 IN AAAA 2801:bc:0:103::4
+rocknroll 3600 IN A 200.19.105.4
+luso2010 43200 IN CNAME eventos
+ppgh 3600 IN CNAME webfaed
+polvo.virtual 43200 IN CNAME virtual
+webirc.nte 43200 IN CNAME polvo
+joinville 43200 IN NS ns.joinville
+43200 IN NS dns
+43200 IN NS dns2
+webfaed 3600 IN A 200.19.105.233
+multiculturalismo 43200 IN CNAME webfaed
+mysql-dev 3600 IN CNAME mysql-d
+www.labges 3600 IN CNAME labges
+www-dev 3600 IN CNAME pegasus-dev
+www.idemi2015 43200 IN CNAME eventos
+www.sigeofd 3600 IN CNAME sigeofd1
+concursos 3600 IN A 200.19.105.201
+www.biblioteca 3600 IN CNAME pegasus-h
+smtp 3600 IN CNAME hermes
+www.micromundos 3600 IN CNAME virtual
+www.museudaescola 43200 IN CNAME museudaescola
+imaps 3600 IN CNAME imap-01
+siga 43200 IN A 200.19.105.181
+www.radio 3600 IN CNAME radio
+imap-01 3600 IN A 200.19.105.240
+siga2 43200 IN A 200.19.105.192
+ntl7.sreitoria 43200 IN A 200.19.103.253
+sistemas.virtual 43200 IN CNAME virtual
+webmail 43200 IN CNAME hermes
+rt-reitoria 3600 IN A 179.97.96.22
+hermes-02 3600 IN A 200.19.105.239
+www.nte 43200 IN CNAME polvo
+inscricoes 3600 IN A 200.19.105.171
+svn-trac 43200 IN A 200.19.105.190
+sistemas4 3600 IN CNAME sistemas3
+www.gmg 43200 IN CNAME conectazoo
+www.conectazoo 43200 IN CNAME conectazoo
+neh 43200 IN A 200.19.101.2
+cadu 43200 IN CNAME pages
+pop 3600 IN CNAME hermes
+cafe 3600 IN A 200.19.105.173
+secon 3600 IN A 200.19.105.236
+consultas 3600 IN A 200.19.105.219
+painelpublico 43200 IN A 200.19.102.17
+aaesc 43200 IN CNAME webceart
+sigeof 3600 IN CNAME sistemas5
+ppgdesign 43200 IN CNAME webceart
+sbs 43200 IN NS npd
+43200 IN NS ns1.sbs
+www.labtic 43200 IN CNAME labtic
+gerenciador-dev 3600 IN CNAME pegasus-dev
+www.musics 3600 IN CNAME ftp
+sreitoria 43200 IN NS ntl7.sreitoria
+mail._domainkey.labtic 43200 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTOrn5oi5yms8043Jwv4ntMWgUJ0fQ06e00maL9EHohgVCLosScCOizv5SfxZ8gg3TwrRJeOlmsTdVY6/2B1TLbQ0pcAg5FO9RLgXu8HbesIHQ9aYm0UqfVeL9nhyxZG1wDM4DodbsMTJoJwjd7eTLQQmwSlwYgJPFR6Mn9ekS9wIDAQAB"
+www.virtual 3600 IN CNAME virtual
+www.sistemas4 3600 IN CNAME sistemas3
+www.pergamumj 3600 IN CNAME pergamumj
+moodle 43200 IN A 200.19.105.215
+www.ppge 3600 IN CNAME webfaed
+pergamumweb 3600 IN CNAME alexandria
+wsus.reitoria 43200 IN A 200.19.97.30
+www.consultas 3600 IN CNAME consultas
+museu 43200 IN CNAME museudaescola
+lages 43200 IN NS ns.cav
+43200 IN NS dns
+sigeofd1 3600 IN A 200.19.105.209
+mysql-d 3600 IN A 200.19.105.154
+pegasus2 3600 IN A 200.19.105.151
+monitor 3600 IN A 200.19.105.135
+www.agencia 3600 IN CNAME pegasus-h
+eureciclo 43200 IN A 200.18.7.3
+www-cav 3600 IN CNAME pegasus-h
+www2.virtual 3600 IN A 200.19.110.5
+tic 3600 IN A 200.19.102.3
+mail 3600 IN CNAME hermes-02
+ftp 3600 IN A 200.19.105.222
+www.eleicao 43200 IN CNAME eleicao
+eventos 43200 IN A 200.19.105.204
+www.sistemabu 3600 IN CNAME pergamumj
+smtps 3600 IN A 200.19.105.184
+www.sistemas2 3600 IN CNAME sistemas3
+sistemas-d 43200 IN NS dns
+43200 IN NS dns2
+ceplan 43200 IN NS npd
+43200 IN NS ns1.sbs
+www-cct 3600 IN CNAME pegasus-h
+www.mecanica 43200 IN CNAME mecanica
+www.sistemas3 3600 IN CNAME sistemas3
+forum 43200 IN CNAME eventos
+inscricoesead 3600 IN CNAME inscricoes
+pegasus-dev 3600 IN A 200.19.105.196
+servidor.ceart 43200 IN A 200.19.108.4
+sqwebmail 3600 IN CNAME hermes
+www.vd 3600 IN CNAME vd
+dominio 43200 IN A 200.19.105.141
+www.cpa 3600 IN CNAME cpa
+www.educacaoemrede 43200 IN CNAME educacaoemrede
+periodicos 3600 IN CNAME revistas
+sapi 43200 IN A 200.19.105.178
+revistas 3600 IN A 200.19.105.203
+www.erbd 43200 IN A 200.18.7.3
+gmg 43200 IN CNAME conectazoo
+whatsup 3600 IN CNAME gerencia
+labges 43200 IN A 200.19.102.4
+cicpg2010 43200 IN CNAME eventos
+micromundos 3600 IN CNAME virtual
+ppginfo 43200 IN CNAME webfaed
+www.sigeof 3600 IN CNAME sistemas5
+www2 3600 IN CNAME pegasus2
+siga-dev 43200 IN A 200.19.105.183
+idemi2015 43200 IN CNAME eventos
+sistemas-h 43200 IN NS dns
+43200 IN NS dns2
+webmail.virtual 43200 IN CNAME virtual
+ppginf 43200 IN CNAME webfaed
+ns1 43200 IN A 200.19.108.5
+www.polvo 43200 IN CNAME polvo
+www.labtecgc 43200 IN CNAME labtecgc
+www.moodle 43200 IN CNAME moodle
+www.culturanoparque 43200 IN CNAME pages
+sistemas2 3600 IN CNAME sistemas3
+www.mundovirtual 43200 IN CNAME webceart
+faed 3600 IN A 200.19.101.2
+faed 3600 IN NS dns.faed
+3600 IN NS dns
+3600 IN NS dns2
+www.midia 3600 IN CNAME midia
+mailscanner-01 3600 IN A 200.19.105.184
+mailscanner-02 3600 IN A 200.19.105.185
+mailscanner-03 3600 IN A 200.19.105.186
+www.cicpg2010 43200 IN CNAME eventos
+ns.joinville 3600 IN A 200.18.7.3
+npd 3600 IN A 200.19.105.217
+ns.cav 43200 IN A 200.19.104.1
+www.conferencia2 3600 IN CNAME conferencia2
+sistemas5 3600 IN A 200.19.105.221
+webesag 3600 IN A 200.19.105.234
+labtic 43200 IN TXT "v=spf1 a mx ip4:200.19.105.216"
+labtic 43200 IN MX 100 labtic
+labtic 43200 IN A 200.19.105.216
+maia 3600 IN A 200.19.105.198
+www.criamus 43200 IN CNAME webceart
+www.projeto2 43200 IN CNAME webceart
+pages.virtual 43200 IN CNAME virtual
+musics 3600 IN CNAME ftp
+tede 3600 IN CNAME maia
+www.copadomundododesign 43200 IN CNAME webceart
+educacaoemrede 43200 IN A 200.19.101.40
+cav 43200 IN NS ns.cav
+43200 IN NS dns
+cce 3600 IN A 200.19.101.40
+cce 3600 IN NS npd
+3600 IN NS servidor.deodoro
+www.educacaosexual 43200 IN CNAME webfaed
+www.daom 43200 IN CNAME webfaed
+copadomundododesign 43200 IN CNAME webceart
+www.antigo.vestibular 3600 IN CNAME vestibular
+4cijd2013 43200 IN CNAME eventos
+www.polvo5 43200 IN CNAME polvo5
+cefid 43200 IN NS dns
+43200 IN NS npd
+43200 IN NS dns2
+vestibular 3600 IN A 200.19.105.220
+expresso-dev 43200 IN A 200.19.105.248
+nt.cead 43200 IN A 200.19.110.2
+pages 3600 IN CNAME ftp
+fat 3600 IN CNAME secon
+cesfi 43200 IN NS dns
+43200 IN NS dns2
+www.concursofotografia 43200 IN CNAME eventos
+lotus 3600 IN A 200.19.105.251
+arquimedes 3600 IN AAAA 2801:bc:0:103::2
+arquimedes 3600 IN A 200.19.105.2
+polvo5 43200 IN A 200.19.105.214
+www-dev.vestibular 3600 IN CNAME pegasus-dev
+cav.suporte 43200 IN CNAME cacic2
+pergamum 3600 IN CNAME alexandria
+ceo 43200 IN NS dns
+43200 IN NS npd
+rt-fpolis 3600 IN A 179.97.96.21
+ntp 43200 IN CNAME rt-reitoria
+inovareavancar.eleicao 43200 IN CNAME eleicao
+www.pergamumweb 3600 IN CNAME alexandria
+www.siga2 43200 IN CNAME siga2
+www.pergamum 3600 IN CNAME alexandria
+ns1.sbs 43200 IN A 200.19.99.2
+semanaousada 43200 IN CNAME eventos
+www.nupeart 43200 IN CNAME webceart
+cead.ead 43200 IN A 200.19.110.2
+webmail.nte 43200 IN CNAME polvo
+labtecgc 43200 IN A 200.19.101.250
+culturanoparque 43200 IN CNAME pages
+www.concursos 3600 IN CNAME concursos
+www.secon 3600 IN CNAME secon
+portalantigo.ceres 3600 IN A 200.19.105.230
+www2.ceres 3600 IN A 200.19.105.151
+www.aaesc 43200 IN CNAME webceart
+trac 43200 IN CNAME svn-trac
+www.ppginf 43200 IN CNAME webfaed
+servidor.esag 43200 IN A 200.19.102.2
+conferencia2 3600 IN A 200.19.105.129
+agencia 3600 IN CNAME pegasus-h
+www.ena 3600 IN CNAME ena
+mundovirtual 43200 IN CNAME webceart
+project 43200 IN A 200.19.105.210
+intranet 3600 IN CNAME sistemas3
+www.revistas 3600 IN CNAME revistas
+sistemas-dev 3600 IN CNAME sistemas-d
+atlasdoesportesc 43200 IN A 200.19.105.235
+sistemacafe 3600 IN CNAME cafe
+plural.eleicao 43200 IN CNAME eleicao
+www.painelpublico 43200 IN CNAME painelpublico
+expressov3-dev 43200 IN CNAME sistemas-d
+anpedsul2014 43200 IN CNAME eventos
+cesfi.suporte 43200 IN CNAME cacic2
+cct 43200 IN NS dns
+43200 IN NS dns2
+polvo 43200 IN MX 100 polvo
+polvo 3600 IN A 200.19.105.214
+db-www-h 3600 IN A 200.19.105.207
+www.ppgdesign 43200 IN CNAME webceart
+_domainkey.labtic 43200 IN TXT "t=y; o=-"
+agencia-dev 3600 IN CNAME pegasus-dev
+www.vestibular 3600 IN CNAME vestibular
+www.tede 3600 IN CNAME maia
+cpa 3600 IN A 200.19.105.188
+www.mppt 43200 IN CNAME webfaed
+sistemabu 3600 IN CNAME pergamumj
+www.cacic2 43200 IN CNAME cacic2
+nte 43200 IN CNAME polvo
+www.politeia 43200 IN CNAME labtic
+cead 43200 IN NS nt.cead
+43200 IN NS npd
+www.forum 43200 IN CNAME eventos
+projeto2 43200 IN CNAME webceart
+prof-esag 3600 IN CNAME labges
+oeste 43200 IN A 200.19.105.229
+www.luso2010 43200 IN CNAME eventos
+vpn 3600 IN A 179.97.96.221
+mecanica 43200 IN A 200.18.7.3
+www.eureciclo 43200 IN CNAME eureciclo
+reitoria.suporte 43200 IN CNAME cacic2
+politeia 43200 IN CNAME labtic
+www.gceped 3600 IN CNAME pegasus-h
+suporte 43200 IN CNAME cacic2
+conectazoo 43200 IN A 200.19.105.191
+midia 3600 IN A 200.19.105.225
+virtual 3600 IN MX 10 hermes
+virtual 3600 IN A 200.19.110.5
+ead 43200 IN NS cead.ead
+criamus 43200 IN CNAME webceart
+pop.nte 43200 IN CNAME polvo
+www.periodicos 3600 IN CNAME revistas
+www.ceres 3600 IN A 200.19.105.194
+webreitoria 3600 IN CNAME secon
+daom 43200 IN CNAME webfaed
+dape 3600 IN NS npd
+svn 43200 IN CNAME svn-trac
+dns2 3600 IN AAAA 2801:bc:0:105::217
+dns2 3600 IN A 200.19.105.217
+esag 43200 IN NS dns
+43200 IN NS dns2
+43200 IN NS servidor.esag
+expresso 60 IN A 200.19.105.245
+60 IN A 200.19.105.246
+colmeia 43200 IN NS dns
+43200 IN NS npd
+www.ppgh 3600 IN CNAME webfaed
+antigo2.vestibular 3600 IN CNAME vestibular
+arquivo.reitoria 43200 IN A 200.19.103.4
+softville 3600 IN NS ns.softville
+educacaosexual 43200 IN CNAME webfaed
+sistemanit.eda 3600 IN A 200.19.105.172
+samba 43200 IN A 200.19.105.140
+biblioteca 3600 IN CNAME pegasus-h
+www.conferencia 3600 IN CNAME conferencia
+www.antigo2.vestibular 3600 IN CNAME vestibular
+bu 3600 IN CNAME pegasus-h
+pobox 3600 IN CNAME hermes
+ceres 43200 IN NS dns
+43200 IN NS npd
+43200 IN NS dns2
+reservado.virtual 43200 IN CNAME virtual
+siga-app1 43200 IN CNAME siga
+siga-app2 43200 IN A 200.19.105.187
+www.semanaousada.ufsc 43200 IN CNAME semanaousada
+www.webmail 3600 IN CNAME hermes
+ns.softville 3600 IN A 200.18.3.10
+www.sapi 43200 IN CNAME sapi
+antigo.vestibular 3600 IN CNAME vestibular
+www.museu 43200 IN CNAME museudaescola
+dns 3600 IN AAAA 2801:bc:0:105::195
+dns 3600 IN A 200.19.105.195
+oracle11g 3600 IN A 200.19.105.224
+sistemas-ht 3600 IN A 200.19.105.176
+concursofotografia 43200 IN CNAME eventos
+nupeart 43200 IN CNAME webceart

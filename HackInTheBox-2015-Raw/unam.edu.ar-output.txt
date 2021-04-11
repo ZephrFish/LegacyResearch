@@ -1,0 +1,259 @@
+@ 86400 IN SOA ns hostmaster.ns 2015050609 10800 3600 1296000 3600
+@ 3600 IN NS ns
+3600 IN NS ns1.riu.edu.ar.
+3600 IN NS ns2
+@ 3600 IN A 170.210.197.72
+@ 3600 IN MX 5 mailhub
+@ 86400 IN TXT "v=spf1 a mx ip4:170.210.197.7 ip4:170.210.197.14 ip4:170.210.197.15 ip4:170.210.197.46 ip4:170.210.197.42 ip4:170.210.197.12 ip4:170.210.197.45 a:ptmi132.ptmi.org.ar -all"
+democ.transmedia 3600 IN A 170.210.197.49
+ev 3600 IN A 170.210.197.22
+default._domainkey 86400 IN TXT "v=DKIM1; t=s; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDiY4W+efzFHn2j74KnDfxcgepNdtMdQWx9m5+33a+IiVUC8SL1T8Do4Rhcsp24SXp2ie00fQLfe+arn6+YBEYjR/Ra/2bNWGhVzPHriso4NmJgRV8zPpyo5C76sKhrQYLgMah6Tds5zqg+LHjI0JMbnTTrPqEgtLrTOwCtF+HkvQIDAQAB"
+carancho 3600 IN A 170.210.192.8
+cyt 3600 IN CNAME tabay
+sistemas 3600 IN NS ns
+egv 3600 IN CNAME tabay
+artes 3600 IN NS ns
+mocona 3666 IN A 170.210.192.13
+tabay 3600 IN A 170.210.192.5
+fm 3600 IN A 170.210.197.37
+fm 3600 IN MX 10 mailgateway
+acaragua 3600 IN A 170.210.197.90
+arai 3666 IN A 170.210.197.2
+mailstat 3600 IN CNAME tabay
+wsn 3600 IN A 170.210.197.58
+escenf 3600 IN NS ns
+fce 3600 IN NS ns
+investigadores.sgcyt 3600 IN CNAME sgcyt
+www.articulacion 3600 IN A 170.210.197.82
+acuifero 3600 IN CNAME tabay
+www.fmunam 3600 IN A 170.210.197.37
+saspi.sgcyt 3600 IN CNAME sgcyt
+vpn.campus 3600 IN A 170.210.197.102
+br-nurse 3600 IN A 170.210.192.39
+ns0 3600 IN A 170.210.192.12
+fmunam 3600 IN A 170.210.197.37
+mamcyp 3600 IN CNAME zamanbay
+desarrollolocal 3600 IN CNAME tabay
+cae2015 3600 IN A 170.210.197.79
+cae2015 3600 IN MX 10 mailgateway
+febe 3600 IN A 170.210.197.20
+ns2 3600 IN A 170.210.192.3
+webmail-ua 3666 IN A 170.210.197.3
+ipam 3666 IN A 170.210.192.10
+br-quimica 3600 IN A 170.210.192.35
+noos 3600 IN A 170.210.197.10
+www 3600 IN CNAME 2014
+ocs 3600 IN A 170.210.197.30
+ns 3600 IN A 170.210.192.11
+dyn 3600 IN NS ns
+pindapoy 3600 IN A 170.210.197.170
+www.perspectivas 3600 IN A 170.210.197.131
+apt-cache 3600 IN A 170.210.197.65
+chafariz 3600 IN A 170.210.197.110
+itaembe 3600 IN A 170.210.197.52
+www.ev 3600 IN A 170.210.197.22
+br-homero 3600 IN A 170.210.192.37
+fio 3600 IN NS ns
+vpn-voip 3600 IN A 170.210.197.53
+imap01 3600 IN A 170.210.197.70
+imap02 3600 IN A 170.210.197.81
+zorzal 3600 IN A 170.210.197.120
+saspi-muleto.sgcyt 3600 IN CNAME sgcyt
+default._domainkey.campus 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMh1JDhsUCakxGjYiqqsPNPOu6tlf0ZqVtjl9BiIBptnVqn4+vqRBAIbemASR92Yk+6hvMI9hIY63YaZnhVW7QQYzT0JkJsPBNerqBBLIHPBwa46+vbVjYhj1/NKFA7SsnhaSfwYAhZqglxZl3KYaxZ6Nl7tDt/0UjC9Ooo6x5dQIDAQAB"
+www.nanduti 3600 IN A 170.210.197.39
+invs 3600 IN NS ns
+default._domainkey.fce 86400 IN TXT "v=DKIM1; k=rsa; g=*; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/2tluZIKcRNrlXYjBQv5kipLvTiIbQyvWLogHP9BTKIvQGy3xRkGyGG0mn2lS9Wv+TwxBvInmrTwxMF36kH0K+myRJnjaJ8yEoDQ3t6Sz5hpzIoOWNGMiFXDWE/SJCSvHTWxIpdSDkSzDfI7T0MGnTZZ3156FbQBNsk3WLEh58wIDAQAB"
+eldorado 3600 IN A 170.210.192.65
+default._domainkey.iteciguazu.edu.ar 86400 IN TXT "v=DKIM1; k=rsa; g=*; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpoZWiumUwQH0Ujv+kDs1ZvSyWJSN5uJvYNJSVRc5bf5SolI7Z57ObxB6gKYkBBoogXHwOsFl8aU+5sC7Yt0IjS65Af1MAsKIy6oDK3242phAUphdL3HlUjI2BvUqgbzOlHayraxJLc83AtK69vF8WWD3pJ1eQBylFnEnqC0YF6QIDAQAB"
+www.fm 3600 IN A 170.210.197.37
+log 3600 IN A 170.210.197.75
+smtp 3600 IN A 170.210.197.71
+smtp 3600 IN MX 10 smtp
+www.ava 3600 IN CNAME guaranaiba
+articulacion 3600 IN A 170.210.197.82
+apipe 3600 IN A 170.210.197.21
+apipe 3600 IN MX 10 mailhub
+tv-vivo 3600 IN A 170.210.197.32
+www.digitalrep 3600 IN A 170.210.197.23
+fhycs 3600 IN NS ns
+antonisca 3600 IN A 170.210.192.87
+vc 3600 IN A 170.210.192.27
+tv 3600 IN A 170.210.197.19
+unam2 3600 IN A 170.210.192.18
+unam3 3600 IN A 170.210.192.73
+www.docman 3600 IN CNAME martires
+br-fm-eldorado 3600 IN A 170.210.192.66
+www.tv 3600 IN A 170.210.197.19
+gw-pdas-ss 3600 IN A 170.210.192.33
+nurse-mk800 3600 IN A 170.210.192.241
+cloud 3600 IN A 170.210.197.27
+administracion 3600 IN CNAME tabay
+inbiomis 3600 IN A 170.210.197.18
+fceqyn 3600 IN NS ns
+antropologia 3600 IN CNAME host98.fhycs
+sgcyt 3600 IN A 170.210.197.104
+debian 3600 IN CNAME ns2
+chat 3600 IN A 170.210.197.64
+fce-unammk 3600 IN A 170.210.192.78
+ibs 3600 IN MX 10 mailhub
+fmvivo 3600 IN CNAME tabay
+pass 3600 IN A 170.210.197.83
+martires 3600 IN A 170.210.197.66
+www.comunicaciones 3600 IN CNAME martires
+guri 3600 IN A 170.210.197.50
+economiasregionales 3600 IN A 170.210.197.78
+economiasregionales 3600 IN MX 10 mailgateway
+www.imam 3600 IN CNAME chimiray
+imap 3600 IN A 170.210.197.84
+rt 3600 IN CNAME tabay
+test 3600 IN A 170.210.197.43
+test 3600 IN MX 10 mailgateway
+mail 3600 IN A 170.210.197.12
+mail 3600 IN MX 10 mailgateway
+ftp 3600 IN A 170.210.197.64
+default._domainkey.editorial 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDasMd1ebGi6dEfeHQG6c1JUt2gsBphNWsKznbi1W3GfZxhM9OiSQGt/ZCngJBhlsytep8gbupenuwFnW2ibudGpKhu2yvjFePyKXHv56H82lyoXMhMtcYilz0uGkaKI4XsIZ4tdsEgNneuDnTLuYKLuNqdNwcKRKXdw4KqCEK4cQIDAQAB"
+rec-teco 3600 IN A 200.45.145.129
+editorial 3600 IN CNAME chimiray
+fio-teco 3600 IN A 200.45.145.145
+jct 3600 IN CNAME martires
+comunam 3600 IN CNAME tabay
+www.noos 3600 IN CNAME noos
+correo 3600 IN MX 10 mailhub
+mailtest 3600 IN MX 10 mailgateway
+gw-du 3600 IN CNAME pora.invs
+patrimonioeinclusion 3600 IN A 170.210.197.30
+patrimonioeinclusion 3600 IN MX 10 mailgateway
+relint 3600 IN CNAME @
+proxy 3600 IN CNAME tatacua
+mbocay 3600 IN A 170.210.197.12
+nuevo 3600 IN CNAME tv
+localhost 3600 IN A 127.0.0.1
+www3 3600 IN CNAME carancho
+dmz-teco 3600 IN A 200.45.145.134
+tatacua 3666 IN A 170.210.197.1
+mailg 3600 IN A 170.210.197.15
+comunicaciones 3600 IN CNAME martires
+unam1-unam3 3600 IN A 170.210.192.74
+slapd01 3600 IN A 170.210.197.47
+ldap 3600 IN A 170.210.197.59
+br-gw-mbyf 3600 IN A 170.210.192.45
+nanduti 3600 IN A 170.210.197.39
+bridge 3600 IN A 170.210.192.34
+default._domainkey.listas 86400 IN TXT "v=DKIM1; k=rsa; g=*; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJaz0fH3sKeHSf/ZdjyiSNRs/c1Z9I2N4Ga7pOvklxbNg9HpM9AmTShYD58yMKjGqWanB3Lmsx9wm8qZqRJwCi+cIEcvyDdQ6g6QzKOGk20/juHpKbE2dyXD7H4vRM3FC/SOjnrjDp+K2C06VZAsNr/UiF4Z3kOoHhJ1grLkpEIQIDAQAB"
+docman 3600 IN CNAME martires
+mitai 3600 IN A 170.210.197.60
+www.test.nanduti 3600 IN A 170.210.197.39
+default._domainkey.unam.edu.ar 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDiY4W+efzFHn2j74KnDfxcgepNdtMdQWx9m5+33a+IiVUC8SL1T8Do4Rhcsp24SXp2ie00fQLfe+arn6+YBEYjR/Ra/2bNWGhVzPHriso4NmJgRV8zPpyo5C76sKhrQYLgMah6Tds5zqg+LHjI0JMbnTTrPqEgtLrTOwCtF+HkvQIDAQAB"
+asc 3600 IN NS ns
+gorrion 3600 IN A 170.210.197.130
+www.ecm 3600 IN A 170.210.197.9
+www.digesto 3600 IN CNAME digesto
+listas.fce 3600 IN MX 10 mailhub
+default._domainkey.parana 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDje60A93ncoGxjfGq+vV9Gk0I02vM3nfUkBAliutx/YsIwI5xKZLzULan6GiVkRB9dobrFyhEPEdusMyfA/ztNxo0hScp1l5G1U3RxUsDb04jwOqOw7ks89vEFbbokyvEiVlzlZ0+IREwdS1YrVoz9gRXqbA7tRYhOSTCHOctrJQIDAQAB"
+cuartoencuentro 3600 IN CNAME tabay
+idm 3600 IN A 170.210.197.173
+rm 3600 IN A 170.210.197.62
+epio 3600 IN CNAME tabay
+apostoles 3600 IN A 170.210.193.193
+www.doc 3600 IN CNAME martires
+seguro 3600 IN CNAME martires
+inciso1 3600 IN CNAME carancho
+webmail 3600 IN A 170.210.197.68
+ava 3600 IN MX 10 mailhub
+default._domainkey.mupum 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDyvZiiiimGKGE6xd7Jg3WrFyqVSmyG0lQ55+aMFQQwB+SDVBbVy+EmHGNpUnjNxNPiZ0JQbJc7ayvhmnESfE/0I6QE+HiLe/wmyRFGPq+9Wz5wQJqDKvlUaIv1ZKunVFuVPH8uOim7jnfy4FxkTDGIERNr+ocL8a7Y2Wy5xVj0XQIDAQAB"
+iteciguazu 3600 IN A 170.210.197.56
+unam1 3600 IN A 170.210.192.17
+mailgateway 3600 IN A 170.210.197.7
+3600 IN A 170.210.197.42
+br-pora 3600 IN A 170.210.192.41
+www.cloud 3600 IN A 170.210.197.27
+lapacho-pap 3600 IN A 170.210.192.68
+voip 3600 IN A 200.45.145.133
+voip 3600 IN MX 10 mailgateway
+puppet-master 3600 IN A 170.210.197.62
+unammk-fce 3600 IN A 170.210.192.77
+default._domainkey.fmuniversidad 86400 IN TXT "v=DKIM1; k=rsa; g=*; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHMhhGpOwv5FxKGGsWGYGmpc/pZauOAPhxwEEKiXZH6kLyx89z4VgqNRBFSka5ZlmSOwGwpcqfBLOw9DvkBoN/Ghm2r5VP+xC0qFAvPlZM31XhHv+YpUp9RAhNdnmM0LXr/wqxXb+eOMTkabhAosAW4pI6i8UUJ63v1b5QMhTQ0wIDAQAB"
+transmedia 3600 IN A 170.210.197.31
+transmedia 3600 IN MX 10 mailgateway
+ntp 3600 IN CNAME ns
+cominst 3600 IN CNAME tabay
+www.webmail 3600 IN CNAME webmail
+br-for-eldorado 3600 IN A 170.210.192.67
+listas 3600 IN A 170.210.197.46
+listas 3600 IN MX 10 mailgateway
+proyectos.sgcyt 3600 IN CNAME sgcyt
+cgi 3600 IN A 173.254.28.23
+proxy-bib 3600 IN A 170.210.197.63
+www.procyp 3600 IN CNAME zamanbay
+ona 3600 IN CNAME pass
+document 3600 IN CNAME apipe
+perspectivas 3600 IN A 170.210.197.131
+cimj 3600 IN CNAME tabay
+piray 3600 IN A 170.210.197.61
+tucan 3600 IN A 170.210.197.129
+default._domainkey.mbocay 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDbbFi4mI1BSRT7avy3eCjyyKk4mQo8+N6dCPZCpsrUR73c7TCSaIPs9E9GmGci5FP8xo6SEfTvATSw5oAHmz4dgsJ+pbLRuTrMUM+EZUexoTOxBOugrPY3wWiMf+brj64aca0HB4CXbpVvolF/5uyPEF+ELBagpvTcyN3qd9YLHwIDAQAB"
+hotspot 3600 IN A 10.9.0.11
+hornero 3600 IN A 170.210.197.128
+extension 3600 IN CNAME tabay
+mupum 3600 IN A 170.210.197.17
+mupum 3600 IN MX 10 mailgateway
+fmuniversidad 3600 IN MX 10 mailhub
+2012 3600 IN CNAME martires
+2014 3600 IN A 170.210.197.72
+open 3600 IN A 170.210.197.54
+parana 3600 IN A 170.210.192.26
+chimiray 3600 IN A 170.210.192.81
+chimiray 3600 IN MX 10 mailhub
+default._domainkey.correo 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTKsvPj+eRCVK1wsCAjRwZBQzXrX5CbaKzxhPxCBxe9SH+w+8680Ubtp56QV6ZFi7ohgJ5KN41K4kV7VpZn/7Z6XE7ooZ3aqCai3WS/xIEoLm1FJ/lNvjYvMb25tpxmonF/MA0l3hM3KdY9whBWPB2OHdLdikBBlRUV5MdUbIsAwIDAQAB"
+www.mupum 3600 IN A 170.210.197.17
+vicario 3600 IN A 170.210.192.6
+cme 3600 IN CNAME tabay
+fiobera 3600 IN NS ns
+jeung 3600 IN CNAME tabay
+test.nanduti 3600 IN A 170.210.197.39
+dj 3600 IN A 170.210.197.171
+ciadicyp 3600 IN CNAME tabay
+default._domainkey.fm 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBeNvZR+ro4WGEDvLpD2PlxHFySGxKCa4VqtCQmJPOw1adIwL0NeHLmsQNlJOdLF6JufSjC16dAikIN0R3/CAICm18fLo6OVYw06BNSUBe4C7+yWEAX8E3thcWaP0SwwjW2zVvqKDrNiKwsVaWEpZk5DmEc94YRVEcVjMsbCBu9QIDAQAB"
+default._domainkey.ev 86400 IN TXT "v=DKIM1; k=rsa; g=*; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDOSsbqF+j9RK/RmNnheEVoycMy8LAGEfXyn4dVl7MJtq+8wPawgsSnLCfr7cZNf9lw8h2FfaS/99Jb/pzEu9n1dvvp6aLzdprrmbh/qOg2VwQ+rD6NyIpws3ohw7SspVPNwJDEiz9VTIhGD10QWpyZrB6EDJWQ+8LpnuDRLUPcoQIDAQAB"
+cpng 3600 IN CNAME tabay
+mailhub 3600 IN A 170.210.197.14
+3600 IN A 170.210.197.15
+www.iteciguazu 3600 IN CNAME iteciguazu
+gerd 3600 IN CNAME antonisca
+mbigua 3600 IN A 170.210.197.6
+vpn 3600 IN A 170.210.192.13
+iguazu 3600 IN A 170.210.197.33
+agencom 3600 IN A 170.210.197.35
+guaranaiba 3600 IN A 170.210.192.88
+jornadas.sgcyt 3600 IN CNAME sgcyt
+apunam 3600 IN CNAME tabay
+digesto 3600 IN A 170.210.197.48
+campus 3600 IN A 170.210.197.45
+campus 3600 IN MX 10 mailgateway
+eae 3600 IN NS ns
+procyp 3600 IN CNAME zamanbay
+www.editorial 3600 IN CNAME chimiray
+yabebiri 3600 IN A 170.210.197.160
+fayd 3600 IN NS ns
+fayd 3600 IN MX 10 mailgateway
+fceqyn-mk800 3600 IN A 170.210.192.219
+www.transmedia 3600 IN CNAME transmedia
+am 3600 IN A 170.210.197.75
+3600 IN A 170.210.197.172
+default._domainkey.poseidon.fce 86400 IN TXT "v=DKIM1; k=rsa; g=*; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEkWnhZ359tfhvXDZQzgMcRjpTRDUaKuEW7ur4Kz6/a/vzn5KOUttYzK0zGX3ElUxMaG/q8deb4BefZC0PC3JpTBfcvCRIOLR6qJnoj34FuAbp6M7EGlQAH/IC78G97pLvlpfggYbUn/xsMlBYC6NVYSlwjWrgqh0s02AI6X6AZQIDAQAB"
+www.mamcyp 3600 IN CNAME zamanbay
+ecm 3600 IN A 170.210.197.9
+zaiman 3600 IN A 170.210.197.40
+facfor 3600 IN NS ns
+testmail 3600 IN A 170.210.197.71
+slapd 3600 IN A 170.210.197.55
+digitalrep 3600 IN A 170.210.197.23
+default._domainkey.piray 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMK1Jekpi02oWIwcQXgPHhm6HNdKNUiKYHwGlbXla2RmfzzUuv1rZZnqMQpLsuEHbftfXUyYag/HBk7gaDchYRFVfxReDpEHzPb0hTeAQshj88HlfVbnfTFNaXJewMq9i8CDL4N8D472SLK7Kl2BsCrle99Eu2F708Rt3GOuzFWwIDAQAB"
+uruguay 3600 IN A 170.210.197.32
+default._domainkey.mail 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCks4wZdgQc/mckpd2PJOKucTMaA7b3dpFA+itUJsWJ+bNOSK/6UidT10E33KoxJ+aQ/CrE4H0zIQfHI3iMPd+Z4lsyuY8hJszXF3fWggbbsBskvnHBjZu2Auy7N/ELrL09XbL3emKnR3r0kDhlIzQLRFbU7QuZ/7FwbGheLgg36wIDAQAB"
+virtualvoip 3600 IN A 170.210.197.69
+doc 3600 IN A 170.210.197.67
+zamanbay 3600 IN A 170.210.192.83
+dns 3600 IN A 170.210.192.7
+obera 3600 IN A 170.210.192.121
+friendica 3600 IN A 170.210.197.73

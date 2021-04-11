@@ -1,0 +1,26 @@
+@ 3600 IN SOA ujap root.ujap 2014120819 10800 3600 604800 3600
+@ 3600 IN NS gw
+3600 IN NS ujap
+@ 3600 IN MX 10 ujap
+www.acropolispre 3600 IN CNAME acropolispre
+gw 3600 IN A 200.44.56.243
+www.acropolispost 3600 IN CNAME acropolispost
+ujap 3600 IN A 200.44.56.242
+ujap 3600 IN MX 10 ujap
+acropolispre 3600 IN A 201.249.74.132
+web 3600 IN CNAME w3
+gateway 3600 IN CNAME gw
+adm 3600 IN A 201.249.74.130
+samosalud 3600 IN CNAME ujap
+mail 3600 IN CNAME ujap
+www.acropolisint 3600 IN CNAME acropolisint
+acropolispost 3600 IN A 201.249.74.133
+jornadas 3600 IN CNAME ujap
+pop 3600 IN CNAME ujap
+acropolisint 3600 IN A 201.249.74.134
+www 3600 IN CNAME ujap
+dns1 3600 IN CNAME ujap
+dns2 3600 IN CNAME gw
+localhost 3600 IN A 127.0.0.1
+w3 3600 IN A 201.249.74.131
+www.adm 3600 IN CNAME adm

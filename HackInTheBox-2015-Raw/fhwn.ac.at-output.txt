@@ -1,0 +1,120 @@
+@ 300 IN SOA hpux it-services 2013100192 43200 7200 2419200 7200
+@ 300 IN NS ns5.univie.ac.at.
+300 IN NS hpux
+300 IN NS manu
+300 IN NS ns10.univie.ac.at.
+@ 300 IN SPF "v=spf1 mx a:hpux.fhwn.ac.at a:mail.fhwn.ac.at a:mail2.fhwn.ac.at ip4:193.170.62.81 ip4:193.170.62.78 -all"
+@ 3600 IN TXT "MS=ms52981453"
+3600 IN TXT "v=spf1 mx a:hpux.fhwn.ac.at a:mail.fhwn.ac.at a:mail2.fhwn.ac.at ip4:193.170.62.81 ip4:193.170.62.78 -all"
+@ 300 IN MX 10 mail
+300 IN MX 10 mail2
+@ 300 IN A 193.170.62.75
+@ 300 IN AAAA 2001:628:2270:101::50
+wieselburg 300 IN MX 0 mail.wieselburg
+300 IN MX 10 ben.wieselburg
+wieselburg 300 IN A 85.31.9.196
+wieselburg 300 IN TXT "v=spf1 mx ip4:85.31.9.194 -all"
+onlineanmeldung 300 IN CNAME philipp
+cerberus 300 IN CNAME itprojekte
+onlinebewerbung 300 IN CNAME philipp
+tulln 300 IN MX 0 mail.tulln
+tulln 300 IN A 83.64.76.2
+netacad 300 IN CNAME itprojekte
+fhiz 300 IN CNAME philipp
+verena2 300 IN A 193.170.62.81
+m 300 IN CNAME philipp
+www.ppm 300 IN CNAME www.wieselburg
+futurelearning 300 IN CNAME moodle
+shibboleth 300 IN A 193.170.62.82
+shibboleth 300 IN AAAA 2001:628:2270:101::118
+fhsbr 300 IN CNAME fhsbr.schmu.at.
+tele2uta 300 IN CNAME dsl-66-126.utaonline.at.
+jarvis 300 IN CNAME reverse
+hivemanager.fhiz 300 IN A 10.250.10.1
+www.students 300 IN CNAME ghs.google.com.
+meetings 300 IN A 193.170.62.84
+firewall 300 IN A 193.170.62.66
+students 300 IN MX 1 ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+300 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+300 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+300 IN MX 10 ASPMX4.GOOGLEMAIL.COM.
+300 IN MX 10 ASPMX5.GOOGLEMAIL.COM.
+eportfolio 300 IN CNAME moodle
+stud.ppm 300 IN A 193.171.253.244
+nagios-ext.tulln 300 IN A 83.64.76.4
+router 300 IN A 193.170.62.65
+router 300 IN AAAA 2001:628:2270::1
+opac.ppm 300 IN A 85.31.9.198
+mail.ppm 300 IN CNAME mail.wieselburg
+qualitaet 300 IN CNAME reverse
+isgus 300 IN CNAME reverse
+hpux 300 IN MX 0 hpux
+hpux 300 IN A 193.170.62.70
+hpux 300 IN AAAA 2001:628:2270::10
+moodle.tulln 300 IN A 83.64.76.5
+hivemanager 300 IN A 10.250.10.1
+moodle 300 IN CNAME reverse
+kollegium 300 IN CNAME wiki
+mail.tulln 300 IN A 83.64.76.3
+mail 300 IN A 193.170.62.78
+mail 300 IN AAAA 2001:628:2270:101::18
+piwik 300 IN CNAME wiki
+cyto 300 IN CNAME reverse
+autodiscover 300 IN CNAME mail
+vpn 300 IN A 193.170.62.74
+elearning 300 IN CNAME moodle
+han 300 IN A 193.170.62.77
+crm 300 IN CNAME moodle
+mail2 300 IN A 193.170.62.81
+mail2 300 IN AAAA 2001:628:2270:101::112
+wiki 300 IN CNAME reverse
+philipp 300 IN A 193.170.62.75
+philipp 300 IN AAAA 2001:628:2270:101::50
+www.moodle 300 IN CNAME moodle
+ppm 300 IN MX 0 mail.wieselburg
+www.wieselburg 300 IN A 85.31.9.196
+www 300 IN A 193.170.62.75
+www 300 IN AAAA 2001:628:2270:101::50
+radius 300 IN A 193.170.62.83
+radius 300 IN AAAA 2001:628:2270:101::117
+mail.wieselburg 300 IN A 85.31.9.194
+ex2013 300 IN CNAME reverse
+reverse 300 IN A 193.170.62.80
+reverse 300 IN AAAA 2001:628:2270:101::81
+*.han 300 IN A 193.170.62.77
+medtech 300 IN CNAME moodle
+www.fh-ball 300 IN CNAME fh-ball
+www.tulln 300 IN A 83.64.76.2
+openvpn 300 IN A 193.170.62.73
+moodle.wieselburg 300 IN CNAME www.wieselburg
+moodle2 300 IN CNAME reverse
+www.alumni 300 IN CNAME philipp
+vpnneu 300 IN AAAA 2001:628:2270::72
+vpnneu 300 IN A 193.170.62.72
+itprojekte 300 IN MX 0 itprojekte
+alumni 300 IN CNAME philipp
+svc.ppm 300 IN A 85.31.9.200
+manu 300 IN A 193.170.62.71
+manu 300 IN AAAA 2001:628:2270::11
+tickets 300 IN CNAME reverse
+bibliothek 300 IN CNAME reverse
+marie 300 IN A 193.170.62.76
+marie 300 IN AAAA 2001:628:2270:102::30
+_autodiscover._tcp 300 IN SRV 0 0 443 mail
+fiz 300 IN CNAME philipp
+edubite 300 IN CNAME philipp
+wwww.tulln 300 IN A 83.64.76.4
+fh-ball 300 IN A 195.58.160.97
+fire1 300 IN AAAA 2001:628:2270::91
+fire1 300 IN A 193.170.62.91
+fire2 300 IN AAAA 2001:628:2270::92
+fire2 300 IN A 193.170.62.92
+students.tulln 300 IN A 83.64.76.5
+phone 300 IN A 193.170.62.79
+cyto.itgeo 300 IN CNAME reverse
+verena3 300 IN A 193.170.62.78
+intranet 300 IN CNAME philipp
+ben.wieselburg 300 IN A 85.31.9.201
+autodiscover.tulln 300 IN CNAME mail.tulln

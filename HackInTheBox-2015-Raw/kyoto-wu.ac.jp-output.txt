@@ -1,0 +1,122 @@
+@ 60 IN SOA ns-ext1 root 2015041601 10800 1800 3600000 3600
+@ 60 IN NS dns-x.sinet.ad.jp.
+60 IN NS ns-ext1
+60 IN NS ns-ext2
+@ 60 IN MX 50 mail-ext1
+60 IN MX 50 mail-ext2
+r15 60 IN A 202.255.229.17
+r17 60 IN A 202.255.229.19
+r18 60 IN A 202.255.229.20
+r19 60 IN A 202.255.229.21
+r21 60 IN A 202.255.229.23
+r22 60 IN A 202.255.229.24
+r16 60 IN A 202.255.229.18
+z3950 60 IN CNAME ns-ext1
+fw 60 IN A 202.255.229.193
+gp 60 IN CNAME kiya.cs
+gyouseki 60 IN A 202.255.229.73
+r20 60 IN A 202.255.229.22
+videoserv 60 IN A 202.255.229.122
+kierkegaard.cs 60 IN CNAME melisande.cs
+mail-ext2-old 60 IN A 202.255.229.125
+* 60 IN MX 50 mail-ext1
+60 IN MX 50 mail-ext2
+r23 60 IN A 202.255.229.25
+nat0 60 IN A 202.255.229.194
+nat1 60 IN A 202.255.229.195
+nat2 60 IN A 202.255.229.196
+nat3 60 IN A 202.255.229.197
+nat4 60 IN A 202.255.229.198
+nat5 60 IN A 202.255.229.199
+nat6 60 IN A 202.255.229.200
+nat7 60 IN A 202.255.229.201
+nat8 60 IN A 202.255.229.202
+nat9 60 IN A 202.255.229.203
+semi.cs 60 IN CNAME portal.cs
+webclass 60 IN A 163.49.81.34
+lib 60 IN NS sinet
+60 IN NS bflets
+www.cs 60 IN CNAME gion.cs
+www 60 IN A 49.212.239.159
+mediasite 60 IN CNAME videoserv
+www.fn 60 IN CNAME susanna
+mail-ext1-old 60 IN A 202.255.229.124
+circle 60 IN CNAME melisande.cs
+ns-ext1 60 IN NS sinet
+60 IN NS bflets
+ns-ext2 60 IN NS sinet
+60 IN NS bflets
+tmp.cs 60 IN NS sinet
+60 IN NS bflets
+test 60 IN TXT "v=spf1 include:yahoo.co.jp ~all"
+test 60 IN MX 10 ptndemomx1.mail.yahoo.co.jp.
+fwd 60 IN A 202.255.229.65
+ssl 60 IN CNAME ns-ext1
+kiya.cs 60 IN NS sinet
+60 IN NS bflets
+bflets 60 IN A 60.36.187.50
+miyaken.cs 60 IN MX 10 miyaken.cs
+miyaken.cs 60 IN NS sinet
+60 IN NS bflets
+fwr 60 IN A 202.255.229.1
+www3 60 IN CNAME ns-ext1
+w3.cs 60 IN CNAME kiya.cs
+repo 60 IN A 202.255.229.118
+portal.cs 60 IN NS sinet
+60 IN NS bflets
+philosophy.cs 60 IN CNAME melisande.cs
+hanase 60 IN A 202.255.229.253
+www.food-nutrition 60 IN CNAME susanna
+mail.cs 60 IN CNAME ponto.cs
+miyaken-lom.cs 60 IN NS sinet
+60 IN NS bflets
+nishikyogoku 60 IN A 202.255.229.2
+test_kyoto-wu20100804._domainkey.test 60 IN TXT "k=rsa; t=y; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhALwl4WK5xmFUvqveuvxX4s1YxYjCBz5jmJDeyFj9+Az2GRftSzyRU9O0nfikRz+HgK1ntNXTdYHQjl0CKOagZdX/Sm/Uw4uF81M0YfumgZBmjY0/gQ0ocyt7xmPpw5QMGQIDAQAB; n=A 768 bit key"
+sinet 60 IN A 202.255.229.250
+e-iris 60 IN A 54.248.83.111
+arashiyama 60 IN A 202.255.229.254
+mediasite-wmv 60 IN A 202.255.229.123
+ponto.cs 60 IN NS sinet
+60 IN NS bflets
+syllabus 60 IN CNAME ns-ext1
+sastik 60 IN A 202.255.229.112
+www2 60 IN MX 10 www2
+www2 60 IN A 210.239.33.51
+ruby 60 IN NS sinet
+60 IN NS bflets
+manage 60 IN A 160.16.118.45
+math 60 IN NS sinet
+60 IN NS bflets
+ao.cs 60 IN A 202.255.229.119
+gyouseki-db 60 IN CNAME ns-ext1
+vpn 60 IN NS sinet
+60 IN NS bflets
+melisande.cs 60 IN NS sinet
+60 IN NS bflets
+vpn-client-0 60 IN A 202.255.229.120
+vpn-client-1 60 IN A 202.255.229.121
+crs 60 IN A 202.255.229.113
+60 IN A 202.255.229.114
+60 IN A 202.255.229.115
+60 IN A 202.255.229.116
+webclass-old 60 IN A 113.52.158.84
+mail-ext1 60 IN A 202.255.229.66
+mail-ext2 60 IN A 202.255.229.67
+gion.cs 60 IN A 202.255.229.101
+r09 60 IN A 202.255.229.11
+gyouseki-vpn 60 IN A 202.255.229.117
+cs 60 IN TXT "google-site-verification=KSz6Z2n3fTUlC7xxReXlVRmr5xdctb7C2QdOZXsFFoY"
+cs 60 IN MX 10 ponto.cs
+r01 60 IN A 202.255.229.3
+r02 60 IN A 202.255.229.4
+r03 60 IN A 202.255.229.5
+r04 60 IN A 202.255.229.6
+r05 60 IN A 202.255.229.7
+r06 60 IN A 202.255.229.8
+r07 60 IN A 202.255.229.9
+r08 60 IN A 202.255.229.10
+r10 60 IN A 202.255.229.12
+r11 60 IN A 202.255.229.13
+r12 60 IN A 202.255.229.14
+r13 60 IN A 202.255.229.15
+r14 60 IN A 202.255.229.16

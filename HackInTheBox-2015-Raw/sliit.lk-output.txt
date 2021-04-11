@@ -1,0 +1,74 @@
+@ 3600 IN SOA ns1 pramod 2007013269 6000 600 1814400 3600
+@ 3600 IN A 203.94.78.35
+@ 3600 IN NS ns1
+3600 IN NS ns3
+@ 3600 IN MX 1 mx2
+3600 IN MX 1 mx3
+@ 3600 IN TXT "v=spf1 mx ip4:203.94.78.45 ptr:exchange.sliit.lk mx:mx3.sliit.lk ip4:203.94.78.46 include:sliit.lk mx:exchange.sliit.lk ~all"
+exchange 3600 IN A 203.94.78.46
+courseweb 3600 IN A 203.94.78.33
+webmail 3600 IN CNAME mail.my
+ns1 3600 IN A 203.115.26.74
+blog 3600 IN A 203.94.78.35
+computing 3600 IN A 203.94.78.35
+oldmoodle 3600 IN A 119.235.5.195
+dspace 3600 IN A 203.94.78.34
+cnap 3600 IN A 192.168.0.9
+foss 3600 IN CNAME ghs.google.com.
+research 3600 IN A 203.94.78.35
+his 3600 IN A 203.94.78.37
+3600 IN A 119.235.6.117
+toastmasters 3600 IN A 203.94.78.35
+netexam2 3600 IN A 192.168.0.161
+mlb-library 3600 IN A 172.16.20.126
+bim 3600 IN A 203.94.78.35
+stdcmb 3600 IN NS sliitdns.sliitcmb
+webconf 3600 IN A 119.235.6.116
+3600 IN A 203.94.78.38
+it 3600 IN A 203.94.78.35
+ns3 3600 IN A 203.94.78.45
+mlb-cweb-01 3600 IN A 202.69.202.35
+hackathon 3600 IN A 203.94.78.37
+projects 3600 IN A 119.235.6.117
+sms 3600 IN A 172.16.21.133
+biz 3600 IN A 203.94.78.35
+moodle 3600 IN CNAME courseweb
+mail 3600 IN NS sliitdns.sliitcmb
+vpn 3600 IN A 203.189.69.6
+pms 3600 IN A 172.16.10.9
+eng 3600 IN A 203.94.78.35
+gis 3600 IN A 203.94.78.35
+studentmail 3600 IN NS sliitdns.sliitcmb
+domino 3600 IN A 203.115.26.74
+sliitcmb 3600 IN NS sliitdns.sliitcmb
+metro-library 3600 IN A 192.168.0.9
+testsims 3600 IN A 172.16.10.12
+pop 3600 IN A 203.94.78.46
+test 3600 IN A 203.115.26.74
+boardpac 3600 IN A 203.94.78.36
+osgeolab 3600 IN A 203.94.78.35
+www 3600 IN A 203.94.78.35
+my 3600 IN NS sliitdns.sliitcmb
+sims2 3600 IN A 172.16.21.133
+support 3600 IN A 203.94.78.45
+3600 IN A 172.16.10.5
+mlb-itsd-01 3600 IN A 202.69.202.35
+ece 3600 IN NS sliitdns.sliitcmb
+fgs 3600 IN A 203.94.78.35
+rms 3600 IN A 172.16.10.6
+relay 3600 IN A 203.115.26.74
+alumni 3600 IN A 203.94.78.35
+mx2 3600 IN A 203.115.26.75
+cdap 3600 IN A 203.94.78.34
+mlb_virdef 3600 IN A 172.16.10.15
+msc 3600 IN A 203.94.78.35
+library 3600 IN A 203.115.26.74
+thapal 3600 IN A 192.168.0.44
+mx3 3600 IN A 203.94.78.45
+conceptnursery 3600 IN A 203.94.78.47
+dns 3600 IN A 203.115.26.74
+student 3600 IN NS sliitdns.sliitcmb
+csnsc 3600 IN NS sliitdns.sliitcmb
+oas 3600 IN A 10.0.7.200
+sims 3600 IN A 172.16.10.12
+mail2 3600 IN A 203.115.26.75

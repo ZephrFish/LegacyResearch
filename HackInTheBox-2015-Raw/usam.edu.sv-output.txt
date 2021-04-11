@@ -1,0 +1,13 @@
+@ 3600 IN SOA ns root.systelix.com. 2000111702 3600 3600 3600 3600
+@ 3600 IN MX 20 proxy
+@ 3600 IN A 192.169.196.126
+@ 3600 IN NS tazumal.systelixdns.info.
+proxy 3600 IN A 200.31.165.35
+virtual 3600 IN A 200.31.165.34
+webmail 3600 IN A 200.31.165.34
+www 3600 IN A 192.169.196.126
+panel 3600 IN A 192.169.196.126
+virtual2 3600 IN A 200.31.165.35
+mail 3600 IN A 200.31.165.35
+17547210746756282751.u.usam.edu.sv 3600 IN CNAME domains.live.com.
+masferrer 3600 IN A 200.31.165.35

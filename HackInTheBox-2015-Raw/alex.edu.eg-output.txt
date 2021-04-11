@@ -1,0 +1,30 @@
+@ 3600 IN SOA ns1.alexu.edu.eg. postmaster.alexu.edu.eg. 2014040501 10800 900 1814400 10800
+@ 3600 IN NS ns1.alexu.edu.eg.
+3600 IN NS ns2.alexu.edu.eg.
+@ 3600 IN MX 10 mail
+@ 3600 IN TXT "v=spf1 mx ~all"
+ns1 3600 IN A 193.227.16.70
+ns2 3600 IN A 193.227.16.71
+googledd9f7baa2bb4e578.alex.edu.eg 3600 IN CNAME google.com.
+alexitu 3600 IN A 193.227.16.42
+mis 3600 IN A 193.227.16.95
+univtest 3600 IN A 193.227.16.31
+sife 3600 IN A 193.227.16.50
+mail 3600 IN A 193.227.16.29
+agrd 3600 IN A 193.227.16.42
+vtour 3600 IN A 193.227.16.42
+elearning 3600 IN A 193.227.16.42
+vetmd 3600 IN A 193.227.16.42
+vtstream 3600 IN A 193.227.16.106
+test-elearningsite 3600 IN A 193.227.16.42
+www 3600 IN A 193.227.16.130
+aumis 3600 IN A 193.227.16.97
+ictp 3600 IN A 193.227.16.42
+epu 3600 IN A 193.227.16.42
+3600 IN A 193.227.16.130
+old 3600 IN A 193.227.16.50
+e-quiz 3600 IN A 193.227.16.130
+moneoii 3600 IN A 193.227.16.42
+misvir 3600 IN A 193.227.16.96
+vtmena 3600 IN A 193.227.16.41
+alexwebalizer 3600 IN A 193.227.16.50

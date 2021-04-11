@@ -1,0 +1,14 @@
+@ 259200 IN SOA ns1 root 2013101101 3600 600 604800 1800
+@ 259200 IN NS ns1.unach.cl.
+259200 IN NS ns2.unach.cl.
+259200 IN NS secundario.nic.cl.
+@ 259200 IN TXT "spf1 mx includeHgoogle.com, includeHgooglemail.com ~all"
+259200 IN TXT "google-site-verification=dvZQCv5W2dyl8KsNuTg-KcIEA9Sfjcq2BzQnmIRS5dY"
+@ 259200 IN MX 1 aspmx.l.google.com.
+259200 IN MX 3 alt1.aspmx.l.google.com.
+259200 IN MX 3 alt2.aspmx.l.google.com.
+259200 IN MX 5 aspmx2.l.googlemail.com.
+259200 IN MX 5 aspmx3.l.googlemail.com.
+259200 IN MX 5 aspmx4.l.googlemail.com.
+259200 IN MX 5 aspmx5.l.googlemail.com.
+@ 259200 IN DNAME unach.cl.

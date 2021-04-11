@@ -1,0 +1,3155 @@
+@ 43200 IN SOA adufsc hostmaster 2014022464 3600 300 864000 43200
+@ 43200 IN AAAA 2801:84:0:2::10
+@ 43200 IN TXT "MS=ms43621418"
+43200 IN TXT "v=spf1 a:spf.mail.ufsc.br -all"
+43200 IN TXT "google-site-verification=KqzBVKAUYtqRosoo6foRwzH6bBNQAJrFKVAVj2xQ_1o"
+43200 IN TXT "v=DKIM1; g=*; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWawxl+GTWO4Yeq6Q1krkcYCQ0md1bJIwr3QdmK2dL8jgO0ohMuWywH7f0RcYlT3K/MMi7UnoHumrSsF1BfqrdJlCzdQvj1EI0acYUu68++lllzFkWwM81dhvRgJjYKddnB/5cO0OjTa6R3cdfS4u08tOp1afgUjYS1SF3JBr6bQIDAQAB"
+@ 43200 IN MX 10 mx.mail
+@ 43200 IN NS ns1.sc.gov.br.
+43200 IN NS ns67
+43200 IN NS ns69
+43200 IN NS adns1.pop-sc.rnp.br.
+43200 IN NS adns2.pop-sc.rnp.br.
+43200 IN NS adufsc
+43200 IN NS adufsc03
+43200 IN NS adufsc04
+43200 IN NS vdesktop.vdesktop
+@ 600 IN A 150.162.2.10
+microeletronica 43200 IN NS slave
+ontobrasil 43200 IN NS troia.led
+labcon 43200 IN NS slave
+eleicao 43200 IN NS slave
+liict 43200 IN NS ns.npd
+43200 IN NS jurere.liict
+caafe 43200 IN NS slave
+pgfis 43200 IN NS ns.npd
+43200 IN NS server.ieb
+fpolis 43200 IN NS slave
+negict 600 IN MX 10 pc105-136.cse
+administracao 43200 IN NS slave
+legislacao 43200 IN NS slave
+labharte 43200 IN NS slave
+seminarioformprof 43200 IN NS slave
+cenicas 43200 IN NS slave
+UFSC153460 1200 IN AAAA 2801:84::1047:c978:aeba:d361:e261
+1200 IN AAAA 2801:84::1047:d32c:3a4d:a629:c1c2
+UFSC153460 1200 IN A 150.162.47.63
+comeleufsc 43200 IN NS slave
+labeee 43200 IN NS ns
+43200 IN NS slave
+43200 IN NS slave2
+mecanica 43200 IN NS slave
+inventario 43200 IN NS slave
+novaapufsc 43200 IN NS slave
+fone._udp 43200 IN SRV 0 0 5060 150.162.248.41.
+biotemas 43200 IN NS slave
+designsocial 43200 IN NS slave
+VM-VPNSEGURANCA 1200 IN AAAA 2801:84::1248:2d26:cf57:f540:e58a
+1200 IN AAAA 2801:84::1248:37a4:55bd:8924:c05
+VM-VPNSEGURANCA 1200 IN A 150.162.248.45
+barcosolar 43200 IN NS slave
+h 43200 IN NS slave
+simpozio 43200 IN NS slave
+fecaeg 43200 IN NS slave
+l 43200 IN NS slave
+trmsoftware 1200 IN AAAA 2801:84::1044:6ce3:43a2:aef5:1121
+1200 IN AAAA 2801:84::1044:9987:c155:25e7:f21a
+trmsoftware 1200 IN A 150.162.44.19
+tradukon 43200 IN NS slave
+pgfsc 43200 IN NS slave
+analisesensorial 43200 IN NS slave
+concursos 43200 IN NS slave
+oesc 43200 IN NS slave
+med052 43200 IN NS slave
+combustao 43200 IN NS slave
+dead 43200 IN NS slave
+florianopolis 43200 IN NS slave
+UFSC168448 1200 IN AAAA 2002:96a2:d610::96a2:d610
+UFSC168448 1200 IN A 150.162.214.16
+ACESSOPERGAMUM 1200 IN AAAA 2801:84::1242:b42e:6c73:fdc2:35f4
+1200 IN AAAA 2801:84::1242:cf07:3f1e:c1b0:9674
+ACESSOPERGAMUM 1200 IN A 150.162.242.69
+cabio 43200 IN NS slave
+sinmec 43200 IN NS firewall.sinmec
+egestao 43200 IN NS slave
+conheca 43200 IN NS slave
+npdp 43200 IN NS slave
+santander22366 1200 IN AAAA 2801:84::1168:8187:c33c:a834:4ccc
+1200 IN AAAA 2801:84::1168:d510:363b:2d50:f6a2
+santander22366 1200 IN A 150.162.168.25
+santander22367 1200 IN AAAA 2801:84::1168:244b:111b:503f:bc0e
+1200 IN AAAA 2801:84::1168:3400:7471:492b:8af5
+santander22367 1200 IN A 150.162.168.21
+santander22368 1200 IN AAAA 2801:84::1168:8862:3cb9:4104:1c2d
+santander22368 1200 IN A 150.162.168.24
+diretoria-01 1200 IN AAAA 2002:96a2:f88b::96a2:f88b
+diretoria-01 1200 IN A 150.162.248.139
+antropologia 43200 IN NS slave
+santander22372 1200 IN AAAA 2801:84::1168:6deb:e208:59e0:f38c
+1200 IN AAAA 2801:84::1168:8591:cae8:d7e0:5130
+santander22372 1200 IN A 150.162.168.22
+cienciassociais 43200 IN NS slave
+blogdagestao 43200 IN NS slave
+santander22377 1200 IN AAAA 2801:84::1168:42d1:d4bc:1eb6:8bb0
+1200 IN AAAA 2801:84::1168:e92a:bddb:d3fa:ca89
+santander22377 1200 IN A 150.162.168.18
+autojun 43200 IN NS slave
+bioativos 43200 IN NS citosina.intelab
+deel 43200 IN NS slave
+npft 43200 IN NS slave
+degc 43200 IN NS ns.led
+43200 IN NS ns.npd
+sepri 43200 IN NS slave
+cinestagio 43200 IN NS slave
+incubadora 43200 IN NS slave
+sempapel 43200 IN NS slave
+psicologiajuridica 43200 IN NS slave
+UFSC226533 1200 IN AAAA 2801:84::1248:3c7c:4aad:fa5e:607f
+UFSC226533 1200 IN A 150.162.236.89
+1200 IN A 150.162.248.181
+ddp-2014 43200 IN NS slave
+pgeel 43200 IN NS slave
+coai 43200 IN NS slave
+sbpc 43200 IN NS slave
+cacic 43200 IN NS slave
+nova 43200 IN NS slave
+iusgentium 43200 IN NS slave
+cienciasbiologicas 43200 IN NS slave
+code 43200 IN NS slave
+farmacia 43200 IN NS slave
+npms 43200 IN NS slave
+squid01 43200 IN A 200.237.194.197
+planodegestaofortes 43200 IN NS slave
+citizenkane.ufsc-team 600 IN A 150.162.14.100
+labecovegetal 43200 IN NS slave
+coisalivre 43200 IN NS ns.npd
+43200 IN NS ns.geness
+crrufsc 43200 IN NS slave
+rifiotis 43200 IN NS slave
+ciscao 43200 IN AAAA 2801:84:0:251::3
+ciscao 43200 IN A 150.162.251.251
+ecrisla2011 43200 IN NS slave
+ecrisla2013 43200 IN NS slave
+ecrisla2015 43200 IN NS slave
+troia.led 43200 IN A 150.162.114.3
+bernardo 43200 IN NS slave
+labfsg 43200 IN NS slave
+gamenaufsc 43200 IN NS slave
+deps 43200 IN NS slave
+gsigma 43200 IN NS slave1
+43200 IN NS slave2
+calenf 43200 IN NS slave
+ascom 43200 IN NS slave
+aquos 43200 IN NS slave
+cpaf 43200 IN NS slave
+nefipo 43200 IN NS slave
+caleqa 43200 IN NS slave
+si3a 43200 IN NS slave
+centraldeanalises 43200 IN NS slave
+katalysis 43200 IN NS slave
+qmcinorganica 43200 IN NS slave
+calesa 43200 IN NS slave
+aquiferoguarani 43200 IN NS slave
+cacti 43200 IN NS slave
+caeca 43200 IN NS slave
+endodontia 43200 IN NS slave
+semeando 43200 IN NS slave
+cpga 43200 IN NS slave
+cpgd 43200 IN NS slave
+cpge 43200 IN NS slave
+labhin 43200 IN NS slave
+aprendendo-python 43200 IN NS slave
+paad 43200 IN NS slave
+fonoaudiologia 43200 IN NS slave
+core 43200 IN NS slave
+textodigital 43200 IN NS slave
+paai 43200 IN NS slave
+vestibular2012 43200 IN NS slave
+parasitologiaclinica 43200 IN NS slave
+c2e 43200 IN NS slave
+murilo 43200 IN NS slave
+pascal.ctclab 43200 IN A 150.162.65.1
+scepd 43200 IN NS slave
+coss 43200 IN NS slave
+pact 43200 IN NS slave
+fourier.ufsc-team 600 IN A 150.162.14.56
+www.idufsc 43200 IN A 150.162.2.173
+intelliweb 86400 IN A 150.162.2.101
+gamedesigngroup 43200 IN NS slave
+enfermagem 43200 IN NS slave
+roboticsworkshop 43200 IN NS slave
+caema 43200 IN NS slave
+sibiotec 43200 IN NS slave
+cppd 43200 IN NS slave
+webfisio 43200 IN NS slave
+oira 43200 IN NS slave
+sbgg-sc 43200 IN NS slave
+ssind 43200 IN NS brava.edugraf
+43200 IN NS forte.edugraf
+eneeali 43200 IN NS slave
+oficinas 43200 IN NS slave
+eneeamb 43200 IN NS slave
+saudeeducacao 43200 IN NS ns.npd
+43200 IN NS server.ieb
+p3e 43200 IN NS slave
+_xmpp-client._tcp 43200 IN SRV 5 0 5222 xmpp
+brincamane 43200 IN NS slave
+labima 43200 IN NS slave
+pbcd 43200 IN NS slave
+dial 43200 IN NS dc.npd
+labimi 43200 IN NS slave
+nrva 43200 IN NS slave
+eneh2006 43200 IN NS slave
+labinc 43200 IN NS slave
+etnorede 43200 IN NS slave
+cafil 43200 IN NS slave
+minibaja 43200 IN NS slave
+sestatnet 43200 IN NS slave
+biopibid 43200 IN NS slave
+proad 43200 IN NS slave
+proaf 43200 IN NS slave
+geodesia 43200 IN NS slave
+labiqs 43200 IN NS slave
+pgmat 43200 IN NS slave
+semanadojornalismo 43200 IN NS slave
+sv1.lisha 43200 IN A 150.162.62.1
+bioengenharia 43200 IN NS citosina.intelab
+linse 43200 IN NS linse-gw.linse
+firewall.sinmec 43200 IN A 150.162.24.1
+contato 43200 IN NS slave1
+43200 IN NS slave2
+gipeo 43200 IN NS slave
+servidor-licencas 1200 IN A 150.162.242.42
+proex 43200 IN NS slave
+sergiomartins 43200 IN NS slave
+letraslibras 43200 IN NS slave
+marca 43200 IN NS slave
+projetounasus 43200 IN NS slave
+3r 43200 IN NS slave
+nuer 43200 IN NS slave
+amigo2010 43200 IN NS slave
+ctc2 43200 IN NS slave
+pnem 43200 IN NS slave
+qmcorganica 43200 IN NS slave
+lacbio 43200 IN NS slave
+jlbm-eel-ieb 43200 IN NS slave
+listas 43200 IN NS slave
+lablam 43200 IN NS slave
+espanhol 43200 IN NS slave
+nonatobase 43200 IN NS slave
+inventores 43200 IN NS slave
+ladeiraabaixo 43200 IN NS slave
+numa 43200 IN NS slave
+computacaonaescola 43200 IN NS slave
+ebat 43200 IN NS slave
+gtacervos 43200 IN NS slave
+g12 43200 IN NS slave
+prpex 43200 IN NS slave
+propg 43200 IN NS slave
+mafua 43200 IN NS slave
+pronera 43200 IN NS slave
+aca 43200 IN NS slave
+aat 43200 IN NS slave
+salaverde 43200 IN NS slave
+sociologia 43200 IN NS slave
+magma 43200 IN NS slave
+egolloge 43200 IN NS ns.npd
+43200 IN NS citosina.intelab
+acl 43200 IN NS slave
+laboratorio-de-aguas-urbanas 43200 IN NS slave
+matavirus 600 IN A 150.162.1.16
+caagro 43200 IN NS slave
+adm 43200 IN NS slave
+sial2012 43200 IN NS slave
+adr 43200 IN NS slave
+ciencia 43200 IN NS slave
+simposiocin 43200 IN NS slave
+neben 43200 IN NS slave
+proto 43200 IN NS slave
+labmat 43200 IN NS slave
+ecac 43200 IN NS slave
+g2e 43200 IN NS slave
+ortodontia 43200 IN NS slave
+fundboiteux 43200 IN NS slave
+labmec 43200 IN NS slave
+libufsc.gpweb 43200 IN A 150.162.242.23
+xiiienanpur 43200 IN NS slave
+sustentabilidade 43200 IN NS slave
+slave2 43200 IN A 150.162.1.84
+UFSC153319 1200 IN AAAA 2801:84::1047:8824:3daf:3a74:e59e
+UFSC153319 1200 IN A 150.162.47.160
+sinter 43200 IN NS slave
+ama 43200 IN NS slave
+siiepe 43200 IN NS ns.led
+nga 43200 IN NS slave
+jornaluniversitario 43200 IN NS slave
+traces 43200 IN NS slave
+as2 43200 IN NS slave
+censoinep 43200 IN NS slave
+seesul 43200 IN NS slave
+labmin 43200 IN NS slave
+mail2 600 IN CNAME posgrad
+yguarani 43200 IN NS slave
+vestibular 43200 IN NS slave
+comprassustentaveis 43200 IN NS slave
+backup 600 IN A 150.162.4.10
+apg 43200 IN NS slave
+idosos 43200 IN NS slave
+labnat 43200 IN NS slave
+apm 43200 IN NS slave
+app 43200 IN NS slave
+aqi 43200 IN NS slave
+dlit 43200 IN NS slave
+cursoscad 43200 IN NS slave
+labnec 43200 IN NS slave
+cab 43200 IN NS slave
+cad 43200 IN NS slave
+arq 43200 IN NS slave
+cal 43200 IN NS slave
+periodicos 43200 IN NS slave
+cca 43200 IN NS slave
+ccb 43200 IN NS slave
+dmec 43200 IN NS slave
+ccd 43200 IN NS slave
+cce 43200 IN NS slave
+nucleodelatim 43200 IN NS slave
+ccj 43200 IN NS slave
+ccn 43200 IN NS slave
+ecoh 43200 IN NS slave
+ccr 43200 IN NS slave
+ccs 43200 IN NS slave
+ceb 43200 IN NS slave
+ced 43200 IN NS slave
+ecos 43200 IN NS slave
+stream 43200 IN NS slave
+cep 43200 IN NS slave
+cfh 43200 IN NS slave
+cfi 43200 IN NS slave
+cga 43200 IN NS slave
+cet 600 IN NS chapolin.cet
+ceu 43200 IN NS slave
+cfm 43200 IN NS slave
+43200 IN NS slave2
+lisha 43200 IN NS sv1.lisha
+bqa 43200 IN NS slave
+iridio.lva 43200 IN A 150.162.102.1
+peub 43200 IN NS slave
+cid 43200 IN NS slave
+cif 43200 IN NS slave
+tempo 43200 IN NS slave
+historiarte 43200 IN NS slave
+cik 43200 IN NS slave
+dac 43200 IN NS slave
+emae 43200 IN NS slave
+dae 43200 IN NS slave
+4smallcinemas 43200 IN NS slave
+ns.geness 43200 IN A 150.162.66.228
+cis 43200 IN NS slave
+labeflu 43200 IN NS slave
+dap 43200 IN NS slave
+das 43200 IN NS slave
+midiaonline 43200 IN NS slave
+dav 43200 IN A 150.162.2.73
+dce 43200 IN NS slave
+dcf 43200 IN NS slave
+pget 43200 IN NS slave
+scmlab 43200 IN NS slave
+clm 43200 IN NS slave
+locusiuris 43200 IN NS slave
+_ldap._tcp 600 IN SRV 0 100 389 adufsc
+600 IN SRV 0 100 389 adufsc03
+600 IN SRV 0 100 389 adufsc04
+calcs 43200 IN NS slave
+def 43200 IN NS slave
+calec 43200 IN NS slave
+dmpi 43200 IN NS slave
+microclinica 43200 IN NS slave
+cnm 43200 IN NS slave
+registro 43200 IN NS slave
+dep 43200 IN NS slave
+calem 43200 IN NS slave
+arquivologia 43200 IN NS slave
+cpa 43200 IN NS slave
+vamos 43200 IN NS slave
+dgc 43200 IN NS slave
+com 43200 IN NS slave
+dfo 43200 IN NS slave
+estudosdejornalismo 43200 IN NS slave
+designlab 43200 IN NS slave
+dmsg 43200 IN NS slave
+teniscor 43200 IN NS slave
+die 43200 IN NS slave
+labiosignal 43200 IN NS slave
+labped 43200 IN NS slave
+labdesenvolvimentoprodutos 43200 IN NS slave
+cse 43200 IN NS slave
+csf 43200 IN NS slave
+csi 43200 IN NS slave
+cta 43200 IN NS slave
+dit 43200 IN NS slave
+ctc 43200 IN NS slave
+ac 43200 IN NS slave
+planetario 43200 IN NS slave
+histologia 43200 IN NS slave
+bb 43200 IN NS slave
+camat 43200 IN NS slave
+ar 43200 IN NS slave
+as 43200 IN NS slave
+necas 43200 IN NS slave
+edugraf 43200 IN NS brava.edugraf
+43200 IN NS canudos.hipernet
+pedagogia 43200 IN NS slave
+correio 43200 IN NS slave
+ceramicanet 600 IN NS materiais
+ecv 43200 IN NS slave
+bu 43200 IN NS slave
+dmp 600 IN CNAME reitoria
+i9 43200 IN NS slave
+forumgrad 43200 IN NS slave
+dms 43200 IN NS slave
+eel 43200 IN NS slave
+43200 IN NS slave2
+projetodse 43200 IN NS slave
+edx 43200 IN NS slave
+efi 43200 IN NS slave
+dns 43200 IN NS slave
+egc 43200 IN NS ns.led
+43200 IN NS ns.npd
+dpe 43200 IN NS slave
+en 43200 IN NS slave
+dor 43200 IN NS slave
+es 43200 IN NS slave
+rbcdh 43200 IN NS slave
+pgss 43200 IN NS slave
+egr 43200 IN NS slave
+ivsmallcinemas 43200 IN NS slave
+santander22376 1200 IN AAAA 2801:84::1168:6975:554f:59fd:9a70
+1200 IN AAAA 2801:84::1168:c909:8eeb:f8a3:e686
+santander22376 1200 IN A 150.162.168.23
+ft 43200 IN NS slave
+videos 43200 IN NS slave
+fotojornalismo 43200 IN NS slave
+eii 43200 IN NS slave
+gr 43200 IN NS slave
+pruen 43200 IN NS slave
+id 43200 IN A 150.162.2.173
+diversifica 43200 IN NS slave
+petpedagogia 43200 IN NS slave
+ejm 43200 IN NS slave
+hu 43200 IN NS slave
+documentosbu 43200 IN NS slave
+dss 43200 IN NS slave
+abdsul 43200 IN NS slave
+iu 43200 IN NS slave
+dto 43200 IN NS slave
+domp 43200 IN NS slave
+emc 43200 IN NS slave
+ju 43200 IN NS slave
+las 43200 IN NS slave
+li 43200 IN NS slave
+enc 43200 IN NS slave
+ene 600 IN NS escola.ene
+lmsecv 43200 IN NS slave
+eob 43200 IN NS slave
+na 43200 IN NS slave
+nb 43200 IN NS slave
+cluster 43200 IN NS slave
+enq 43200 IN NS slave
+ens 43200 IN NS slave
+fap.fapeu 43200 IN A 150.162.78.82
+labplan 43200 IN NS ns.labplan
+pixel 43200 IN NS slave
+eqa 43200 IN NS slave
+codigos 43200 IN NS slave
+ns 600 IN MX 10 mbox1
+ns 43200 IN A 150.162.1.3
+campi 43200 IN NS slave
+pc 1200 IN A 150.162.94.8
+ceq-sc 43200 IN NS slave
+eps 43200 IN NS slave
+fazendogenero8 43200 IN NS slave
+lci 43200 IN NS slave
+fil 43200 IN NS slave
+pu 43200 IN NS slave
+andrealapa 43200 IN NS slave
+fit 43200 IN NS slave
+gao 43200 IN NS slave
+gap 43200 IN NS slave
+rq 43200 IN NS slave
+server.gpeb 600 IN A 150.162.17.1
+jornalismo 43200 IN NS slave
+ru 43200 IN NS slave
+tj 43200 IN NS slave
+pibic 43200 IN NS slave
+vc 43200 IN NS slave
+tv 43200 IN NS slave
+geg 43200 IN NS ns.npd
+43200 IN NS citosina.intelab
+homologacao3 43200 IN NS slave
+homologacao4 43200 IN NS slave
+labsad 43200 IN NS slave
+egov 43200 IN NS slave
+jornalismoonline 43200 IN NS slave
+ger 43200 IN NS slave
+encafit 43200 IN NS slave
+atens 43200 IN NS slave
+lcs 43200 IN NS slave
+planosdecultura 43200 IN NS slave
+larhbhi 43200 IN NS slave
+_gc._tcp.default-first-site-name._sites 600 IN SRV 0 100 3268 adufsc
+600 IN SRV 0 100 3268 adufsc03
+lec 43200 IN NS ns.led
+43200 IN NS ns.npd
+autobiografiasindigenas 43200 IN NS slave
+prevestibular 43200 IN NS slave
+labsec 43200 IN NS ns.npd
+43200 IN NS khazad.labsec
+labsed 43200 IN NS slave
+fsc 43200 IN NS slave
+web1 43200 IN NS slave
+imprensa 43200 IN NS slave
+geneticacomportamento 43200 IN NS slave
+parquesefauna 43200 IN NS slave
+6workshop 43200 IN NS slave
+labsem 43200 IN NS slave
+erecs2006 43200 IN NS slave
+silvana 43200 IN NS slave
+ftp 43200 IN NS slave
+calpsi 43200 IN NS slave
+centros 43200 IN NS slave
+cimject 43200 IN NS ns.npd
+43200 IN NS acetal.cimject
+viagem-1974 43200 IN NS slave
+semanadehistoria 43200 IN NS slave
+fellowmundus 43200 IN NS slave
+labsin 43200 IN NS slave
+UFSC244700 1200 IN AAAA 2801:84::1047:1bc9:34cd:c579:e3f9
+1200 IN AAAA 2801:84::1047:c90c:e300:d29d:d80d
+UFSC244700 1200 IN A 150.162.47.31
+revisaopdi 43200 IN NS slave
+logistica 43200 IN NS slave
+fotovoltaica 43200 IN NS slave
+encontrohidroponia 43200 IN NS slave
+_carddavs._tcp 43200 IN SRV 10 5 8443 dav
+cliping 43200 IN NS slave
+nusmer 43200 IN NS slave
+grf 43200 IN NS slave
+fap2.fapeu 43200 IN A 150.162.78.2
+labtec 43200 IN NS slave
+artenaufsc 43200 IN NS slave
+ereco 43200 IN NS slave
+gse 43200 IN NS slave
+gte 43200 IN NS slave
+labgestao 43200 IN NS slave
+systemcenter 43200 IN NS slave
+conference 43200 IN NS slave
+fazenda 43200 IN NS slave
+gva 43200 IN NS slave
+eficem 43200 IN NS slave
+icp 43200 IN NS slave
+ieb 43200 IN NS ns.npd
+43200 IN NS server.ieb
+eleicoes 43200 IN NS slave
+ejesam 43200 IN NS slave
+sol.repres-ctc-cun 600 IN A 150.162.12.3
+petroleo 43200 IN NS dc.npd
+43200 IN NS firewall.sinmec
+semanadabio 43200 IN NS slave
+carrosderolima 43200 IN NS slave
+VDESKTOP.vdesktop 43200 IN AAAA 2801:84::1044:5171:8bce:1a72:d2d4
+43200 IN AAAA 2801:84::1044:5680:cff4:49c:9b1e
+VDESKTOP.vdesktop 43200 IN A 150.162.44.1
+medfasee 43200 IN NS slave
+labeur 43200 IN NS slave
+cameras 43200 IN NS slave
+sead2 43200 IN A 150.162.96.5
+sead2 43200 IN NS sead2
+gedesterro 43200 IN NS slave
+lemate 43200 IN NS slave
+cidadesfortificadas 43200 IN NS slave
+tetis 43200 IN NS slave
+ns.coperve 600 IN A 150.162.91.1
+laes 43200 IN NS slave
+labtox 43200 IN NS slave
+caqmc 43200 IN NS slave
+embriocomunidade 43200 IN NS slave
+ine 43200 IN NS slave
+inf 43200 IN NS slave
+paginas 43200 IN NS slave
+rizoma3 43200 IN NS slave
+ama-arq 43200 IN NS slave
+autotronicanaescola 43200 IN NS slave
+iot 43200 IN NS slave
+pnap 43200 IN NS slave
+npd-oper 43200 IN NS slave
+materiaisdentarios 43200 IN NS slave
+dsst 43200 IN NS slave
+jim 43200 IN NS slave
+fabiano 43200 IN NS slave
+neamb 43200 IN NS slave
+bragecrim 43200 IN NS slave
+licitacoes 43200 IN NS slave
+astronomiaefisica 43200 IN NS slave
+nisfaps 43200 IN NS slave
+semanari 43200 IN NS slave
+UFSC200475 1200 IN AAAA 2801:84::1138:34ad:26f6:1a54:174d
+1200 IN AAAA 2801:84::1138:b5f4:35a1:6a10:e1fb
+UFSC200475 1200 IN A 150.162.138.37
+pmpg 43200 IN NS slave
+laburb 43200 IN NS slave
+camilasp 43200 IN NS slave
+vmexchange 1200 IN AAAA 2801:84::1009:80cc:7253:2e3b:52ec
+1200 IN AAAA 2801:84::1009:8d85:2a69:5ae3:cadd
+vmexchange 1200 IN A 150.162.9.85
+softwarelivre 43200 IN NS bixin.softwarelivre
+43200 IN NS gufsc.softwarelivre
+researchers 43200 IN NS slave
+wright.ava 43200 IN A 150.162.41.3
+africa 43200 IN NS slave
+cfs 43200 IN NS slave
+emaj 43200 IN NS slave
+institucional 43200 IN NS slave
+lae 43200 IN NS slave
+necat 43200 IN NS slave
+antivirus 43200 IN NS slave
+casin 43200 IN NS slave
+portalcca 43200 IN NS slave
+duna 43200 IN NS slave
+sol.anpet2004 43200 IN A 150.162.12.3
+submissoes 43200 IN NS slave
+buccality 43200 IN NS slave
+lda 43200 IN NS slave
+labomidia 43200 IN NS slave
+lcm 43200 IN NS slave
+jve 43200 IN NS slave
+fontes 43200 IN NS slave
+lea 43200 IN NS slave
+ldl 43200 IN NS slave
+led 43200 IN NS ns.led
+43200 IN NS ns.npd
+lee 43200 IN NS slave
+clee2008 43200 IN NS slave
+custosemedidas 43200 IN NS slave
+lem 43200 IN NS slave
+len 43200 IN NS slave
+tracor 43200 IN NS slave
+video 43200 IN NS slave
+npdsc 43200 IN NS slave
+nppj 43200 IN NS slave
+butze 43200 IN NS slave
+quasimodo.eneca 43200 IN A 150.162.12.2
+labcal-cca 43200 IN NS slave
+lia 43200 IN NS slave
+necip 43200 IN NS slave
+labento 43200 IN NS slave
+aposentados 43200 IN NS slave
+polo 43200 IN NS slave
+lhw 43200 IN NS slave
+UFSC200476 1200 IN A 150.162.138.54
+ppgc 43200 IN NS slave
+dsgexperiencial 43200 IN NS slave
+labneuro 43200 IN NS slave
+lit 43200 IN NS slave
+bioteriocentral 43200 IN NS slave
+comiteinteruniversitario 43200 IN NS slave
+UFSC200490 1200 IN AAAA 2002:96a2:5a84::96a2:5a84
+UFSC200490 1200 IN A 150.162.90.132
+enea 43200 IN NS slave
+ingresso 43200 IN NS slave
+enec 43200 IN NS slave
+endo 43200 IN NS slave
+veleiroeco 43200 IN NS slave
+lma 43200 IN NS ns.npd
+43200 IN NS labmetro
+ppgd 43200 IN NS slave
+ppge 43200 IN NS slave
+ppgf 43200 IN NS slave
+ppgg 43200 IN NS slave
+llp 43200 IN NS slave
+mdh 43200 IN NS slave
+ener 43200 IN NS slave
+mcu 43200 IN NS dc.npd
+lmm 43200 IN NS slave
+ppgp 43200 IN NS slave
+lmo 43200 IN NS slave
+lmp 43200 IN NS slave
+www.id 43200 IN A 150.162.2.173
+necon 43200 IN NS slave
+posdesign 43200 IN NS slave
+loc 43200 IN NS slave
+men 43200 IN NS slave
+mga 43200 IN NS slave
+nupecon 43200 IN NS slave
+spb 43200 IN NS slave
+comissaodesustentabilidade 43200 IN NS slave
+lpm 43200 IN NS slave
+proletramento 43200 IN NS slave
+iberoacosolaboral2015 43200 IN NS slave
+ppgn 43200 IN NS slave
+nedip 43200 IN NS slave
+mic 43200 IN NS ns.led
+43200 IN NS ns.npd
+s3e 43200 IN NS slave
+lrg 43200 IN NS slave
+discriminacao 43200 IN NS slave
+ufscsempapel 43200 IN NS slave
+vestibular2009libras 43200 IN NS slave
+lsc 43200 IN NS slave
+ensinodeantropologia 43200 IN NS slave
+naf 43200 IN NS slave
+mip 43200 IN NS slave
+astro 43200 IN NS slave
+labconri 43200 IN NS slave
+lrv 43200 IN NS ns.led
+43200 IN NS ns.npd
+nopec 43200 IN NS slave
+lua 43200 IN NS slave
+9cecemm 43200 IN NS slave
+ncc 43200 IN NS slave
+lnh 43200 IN NS slave
+lva 43200 IN NS ns.npd
+43200 IN NS iridio.lva
+niepge 43200 IN NS slave
+ndi 43200 IN NS slave
+nea 43200 IN NS slave
+nec 43200 IN NS slave
+ncv 43200 IN NS slave
+fortalezasmultimidia 43200 IN NS slave
+nfa 43200 IN NS slave
+ndt 43200 IN A 150.162.2.49
+nel 43200 IN NS slave
+neo 43200 IN NS ns1.certi.org.br.
+43200 IN NS ns2.certi.org.br.
+nep 43200 IN NS slave
+labplan2 43200 IN NS slave
+cicloviaecoeficiente 43200 IN NS slave
+nes 43200 IN NS slave
+prae 43200 IN NS slave
+ngd 43200 IN NS slave
+mor 43200 IN NS slave
+forumcadastro 43200 IN NS slave
+wireless 43200 IN NS slave
+enecic 43200 IN NS slave
+ngs 43200 IN NS ns.led
+43200 IN NS ns.npd
+prce 43200 IN NS slave
+adns1.pop-sc.rnp.br. 43200 IN AAAA 2001:12f0:200::10
+adns1.pop-sc.rnp.br. 43200 IN A 200.237.192.10
+nig 43200 IN NS slave
+gaama 43200 IN NS slave
+audin 43200 IN NS slave
+nis 43200 IN NS slave
+pesquisa 43200 IN NS slave
+preg 43200 IN NS slave
+audit 43200 IN NS ns.led
+43200 IN NS ns.npd
+epec 43200 IN NS slave
+mtm 43200 IN NS jurere.mtm
+ouvidoria 43200 IN NS slave
+nmd 43200 IN NS slave
+ns2 600 IN A 150.162.1.7
+ahsuc 43200 IN NS slave
+ns4 43200 IN A 150.162.2.3
+ensinogeo 43200 IN NS slave
+ett2002 43200 IN NS slave
+cinemateca 43200 IN NS slave
+fexp 43200 IN NS slave
+labcs 43200 IN NS slave
+grifim 43200 IN NS slave
+noe 43200 IN NS slave
+amprosul 43200 IN NS slave
+VM-Fabricio 1200 IN AAAA 2002:96a2:f832::96a2:f832
+VM-Fabricio 1200 IN A 150.162.248.50
+glean 43200 IN NS slave
+npc 43200 IN NS slave
+npd 43200 IN NS slave
+netcos 43200 IN NS slave
+UFSC248263 1200 IN AAAA 2801:84::251:5080:5b91:a117:2139
+1200 IN AAAA 2801:84::252:5080:5b91:a117:2139
+1200 IN AAAA 2801:84::1009:5080:5b91:a117:2139
+UFSC248263 1200 IN A 150.162.9.179
+educaintegral 43200 IN NS slave
+journalegc 43200 IN NS slave
+pggrid 43200 IN NS slave
+lantec 43200 IN NS slave
+fepese 43200 IN NS ns
+43200 IN NS webserv.fepese
+webmail 43200 IN NS slave
+projetopasch 43200 IN NS slave
+saudenaboa 43200 IN NS slave
+rade 43200 IN NS slave
+darwin.das2 43200 IN A 150.162.12.20
+ns3 43200 IN A 150.162.1.9
+prof 43200 IN NS slave
+ntp 43200 IN AAAA 2801:84:0:1001::8
+ntp 600 IN A 150.162.1.8
+ntr 43200 IN NS slave
+prpe 43200 IN NS slave
+labtucal 43200 IN NS slave1
+43200 IN NS slave2
+prpg 43200 IN NS slave
+nur 43200 IN NS slave
+eppb 43200 IN NS slave
+labmidiaeconhecimento 43200 IN NS slave
+credtec 43200 IN NS slave
+ovisto 43200 IN NS slave
+orlab 43200 IN NS slave
+flo-pref 43200 IN NS ns.npd
+43200 IN NS ns.geness
+pga 43200 IN NS slave
+icpedu 43200 IN NS slave
+pge 43200 IN NS slave
+sobraep 43200 IN NS slave
+redessociais 43200 IN NS slave
+exchange 43200 IN NS slave
+ord 43200 IN NS slave
+labox 43200 IN NS slave
+sccomercioexterior 43200 IN NS slave
+vcenterview 43200 IN NS slave
+caxif 43200 IN NS slave
+inpeau 43200 IN NS slave
+orm 43200 IN NS slave
+pip 43200 IN NS slave
+pis 43200 IN NS slave
+sgca 43200 IN NS slave
+labsd 43200 IN NS slave
+labinfoemc 43200 IN NS slave
+erem 43200 IN NS slave
+VM-FABIO2 43200 IN A 150.162.248.75
+tremfloripa 43200 IN NS slave
+necst 43200 IN NS slave
+colaboracao 43200 IN NS slave
+geologia 43200 IN NS slave
+vestibular2004 43200 IN NS slave
+rari 43200 IN NS slave
+campus 43200 IN NS slave
+campvs 43200 IN NS slave
+eadccb 43200 IN NS slave
+ludus 43200 IN NS slave
+UFSC153321 1200 IN AAAA 2002:96a2:2f0a::96a2:2f0a
+UFSC153321 1200 IN A 150.162.47.10
+esai 43200 IN NS slave
+pra 43200 IN NS slave
+UFSC153325 1200 IN AAAA 2801:84::1047:237c:d3f1:694:9037
+1200 IN AAAA 2801:84::1047:41a1:5a63:47fa:73b8
+UFSC153325 1200 IN A 150.162.47.84
+UFSC153326 1200 IN AAAA 2801:84::1047:41b:da9b:8436:31e1
+1200 IN AAAA 2801:84::1047:a1ac:549f:cc01:af22
+UFSC153326 1200 IN A 150.162.47.76
+UFSC153327 1200 IN AAAA 2801:84::1047:5197:871:5dc9:78ab
+1200 IN AAAA 2801:84::1047:a888:f7fe:d448:af9f
+UFSC153327 1200 IN A 150.162.47.108
+cursospsf 43200 IN NS slave
+UFSC153334 1200 IN AAAA 2801:84::1047:79ea:fb51:aeb0:be50
+1200 IN AAAA 2801:84::1047:a0f5:eda2:67a3:95d3
+UFSC153334 1200 IN A 150.162.47.29
+designdehipermidia 43200 IN NS slave
+UFSC153338 1200 IN AAAA 2801:84::1047:4414:866:4a59:2039
+1200 IN AAAA 2801:84::1047:a044:8f14:5d9a:3849
+UFSC153338 1200 IN A 150.162.47.111
+desktop 43200 IN A 150.162.44.6
+UFSC153343 1200 IN AAAA 2801:84::1047:2d78:e6c4:737a:2b80
+1200 IN AAAA 2801:84::1047:861c:94aa:4aac:1f68
+UFSC153343 1200 IN A 150.162.47.203
+UFSC153344 1200 IN AAAA 2801:84::1047:1f27:930b:a3df:74be
+1200 IN AAAA 2801:84::1047:9061:d5f3:40e2:4cf9
+UFSC153344 1200 IN A 150.162.47.46
+prv 43200 IN NS slave
+UFSC153350 1200 IN AAAA 2801:84::1047:4970:ab26:88d5:bddf
+1200 IN AAAA 2801:84::1047:7ade:e0a4:40cd:eb31
+UFSC153350 1200 IN A 150.162.47.45
+projetorondon 43200 IN NS slave
+ras 43200 IN NS slave
+ptl 43200 IN NS slave
+UFSC153357 1200 IN AAAA 2801:84::1047:58ba:ce08:4ea2:3a67
+1200 IN AAAA 2801:84::1047:81c5:cf8d:8d4c:201a
+UFSC153357 1200 IN A 150.162.47.16
+gestaoderesiduos 43200 IN NS slave
+UFSC153360 1200 IN AAAA 2801:84::1047:d970:e807:a2aa:b1e1
+1200 IN AAAA 2801:84::1047:da68:ffe6:29e2:738f
+UFSC153360 1200 IN A 150.162.47.144
+licenciaturaindigena 43200 IN NS slave
+UFSC153362 1200 IN AAAA 2801:84::1047:3d61:66bf:eeea:712e
+1200 IN AAAA 2801:84::1047:51f8:2d08:fa3b:ecf3
+UFSC153362 1200 IN A 150.162.47.23
+notes 43200 IN NS slave
+grucad 43200 IN NS slave
+UFSC168397 1200 IN AAAA 2002:96a2:d613::96a2:d613
+UFSC168397 1200 IN A 150.162.214.19
+rea 43200 IN NS slave
+neurociencias 43200 IN NS slave
+nat 43200 IN NS slave
+eron 43200 IN NS slave
+UFSC153379 1200 IN AAAA 2801:84::1047:5a55:6e5:571f:1c74
+1200 IN AAAA 2801:84::1047:f5f9:58b1:c43f:94ba
+UFSC153379 1200 IN A 150.162.47.202
+UFSC153382 1200 IN AAAA 2801:84::1047:7330:92da:cee1:99b6
+1200 IN AAAA 2801:84::1047:b16d:9d:45f1:1d5e
+UFSC153382 1200 IN A 150.162.47.115
+UFSC153384 1200 IN AAAA 2801:84::1047:812e:fb61:b871:529d
+1200 IN AAAA 2801:84::1047:f8f5:3c05:6e32:d738
+UFSC153384 1200 IN A 150.162.47.168
+UFSC153385 1200 IN AAAA 2801:84::1047:34d2:f73:a17b:23db
+UFSC153385 1200 IN A 150.162.47.151
+imap 43200 IN CNAME imap.mail
+UFSC153389 1200 IN AAAA 2801:84::1047:2ea:da83:1b1:54b1
+1200 IN AAAA 2801:84::1047:9493:9074:59d:ebc
+UFSC153389 1200 IN A 150.162.47.28
+UFSC153391 1200 IN AAAA 2801:84::1047:6e94:33a1:8858:f35c
+1200 IN AAAA 2801:84::1047:a03a:83f1:4b6c:6caa
+UFSC153391 1200 IN A 150.162.47.87
+UFSC153392 1200 IN AAAA 2801:84::1047:e55c:7cc6:6076:1556
+UFSC153392 1200 IN A 150.162.47.159
+UFSC153393 1200 IN AAAA 2801:84::1047:13d5:4262:a0b9:e58c
+1200 IN AAAA 2801:84::1047:e00b:d871:a74:2dee
+UFSC153393 1200 IN A 150.162.47.89
+UFSC153394 1200 IN AAAA 2801:84::1047:40d1:63a8:5486:aae4
+1200 IN AAAA 2801:84::1047:8174:a829:a9bf:3061
+UFSC153394 1200 IN A 150.162.47.127
+UFSC153405 1200 IN AAAA 2801:84::1047:940b:6206:2b71:e811
+UFSC153405 1200 IN A 150.162.47.153
+UFSC153396 1200 IN AAAA 2801:84::1047:1b7b:dcf0:d010:2692
+1200 IN AAAA 2801:84::1047:9d87:e2cb:673e:ddbe
+UFSC153396 1200 IN A 150.162.47.33
+UFSC153407 1200 IN AAAA 2801:84::1047:785e:94b9:91a9:f70e
+1200 IN AAAA 2801:84::1047:8038:95a2:9315:bdd3
+UFSC153407 1200 IN A 150.162.47.2
+UFSC153398 1200 IN AAAA 2801:84::1047:d5b6:303f:a8c:3184
+UFSC153398 1200 IN A 150.162.47.58
+UFSC153409 1200 IN AAAA 2801:84::1047:4575:a4e4:1967:253d
+1200 IN AAAA 2801:84::1047:85c7:6595:dcf0:4d62
+UFSC153409 1200 IN A 150.162.47.122
+caminhodasaguas 43200 IN NS slave
+UFSC153422 1200 IN AAAA 2801:84::1047:3826:3686:552:2fa7
+UFSC153422 1200 IN A 150.162.47.154
+fita 43200 IN NS slave
+compartilhar 43200 IN NS slave
+comunica 43200 IN NS slave
+UFSC153432 1200 IN AAAA 2801:84::1047:157d:dc27:55ff:ad37
+1200 IN AAAA 2801:84::1047:840e:b266:984b:24d8
+UFSC153432 1200 IN A 150.162.47.95
+nfrinfor 43200 IN NS slave
+nejap 43200 IN NS slave
+UFSC153436 1200 IN AAAA 2801:84::1047:c030:56e7:159e:8258
+1200 IN AAAA 2801:84::1047:e14a:78a6:e38e:f772
+UFSC153436 1200 IN A 150.162.47.71
+UFSC153437 1200 IN AAAA 2801:84::1047:25be:e446:bd0a:272a
+1200 IN AAAA 2801:84::1047:b3b9:e46d:3a4e:f593
+UFSC153437 1200 IN A 150.162.47.85
+UFSC153438 1200 IN AAAA 2801:84::1047:d841:e755:ad36:95d7
+UFSC153438 1200 IN A 150.162.47.140
+saf 43200 IN NS slave
+UFSC153442 1200 IN AAAA 2801:84::1047:4471:19c2:bcf3:9d84
+UFSC153442 1200 IN A 150.162.47.157
+geness 43200 IN NS ns.npd
+43200 IN NS ns.geness
+UFSC153444 1200 IN AAAA 2801:84::1047:d579:c3b5:c2b8:bbac
+UFSC153444 1200 IN A 150.162.47.155
+sal 43200 IN NS slave
+UFSC153448 1200 IN AAAA 2801:84::1047:f84e:f3ce:7fc7:18db
+UFSC153448 1200 IN A 150.162.47.158
+UFSC153451 1200 IN AAAA 2801:84::1047:e5cd:7f3f:7a63:64ea
+1200 IN AAAA 2801:84::1047:f017:a414:221:b82f
+UFSC153451 1200 IN A 150.162.47.118
+posgrad 43200 IN NS slave
+etec 43200 IN NS slave
+UFSC153457 1200 IN AAAA 2801:84::1047:3a3:527f:1b73:403a
+1200 IN AAAA 2801:84::1047:9842:a172:5850:36ce
+UFSC153457 1200 IN A 150.162.47.130
+scf 43200 IN NS slave
+UFSC153461 1200 IN AAAA 2801:84::1047:58ea:b8d0:1305:712f
+1200 IN AAAA 2801:84::1047:ad31:1e7e:9e41:e134
+UFSC153461 1200 IN A 150.162.47.128
+UFSC153463 1200 IN AAAA 2801:84::1047:31e2:2f09:6943:449e
+1200 IN AAAA 2801:84::1047:c734:6bd1:89ad:93fc
+UFSC153463 1200 IN A 150.162.47.132
+UFSC153466 1200 IN AAAA 2801:84::1047:586b:e3e7:4409:2546
+1200 IN AAAA 2801:84::1047:a096:a21b:fc0:5477
+UFSC153466 1200 IN A 150.162.47.129
+UFSC153467 1200 IN AAAA 2801:84::1047:6dd9:a0b3:765c:e4a3
+1200 IN AAAA 2801:84::1047:bae3:6e83:8ba3:4b0a
+UFSC153467 1200 IN A 150.162.47.35
+abrapec 43200 IN NS slave
+cartuchonet 600 IN NS materiais
+rna 43200 IN NS slave
+labflor 43200 IN NS slave
+sdm 43200 IN NS slave
+UFSC153478 1200 IN AAAA 2801:84::1047:d43d:554a:dcb8:4bb8
+UFSC153478 1200 IN A 150.162.47.125
+cobem 43200 IN NS slave
+pura 43200 IN NS slave
+rni 43200 IN NS slave
+fmc-aulainterativa 43200 IN NS slave
+_sip._udp 43200 IN SRV 0 0 5060 150.162.248.41.
+cbs 43200 IN NS slave
+sia 43200 IN NS slave
+mecsol2011 43200 IN NS slave
+vestibular2001 43200 IN NS slave
+geracaodeideias 43200 IN NS ns.led
+43200 IN NS ns.npd
+ned 43200 IN NS slave
+lafic 43200 IN NS slave
+rede 43200 IN NS slave
+acaojunior 43200 IN NS slave
+idenfermagem 43200 IN NS slave
+avaad 43200 IN NS slave
+grucon 43200 IN NS slave
+pontao 43200 IN NS ns.npd
+43200 IN NS ns.geness
+eneq2016 43200 IN NS slave
+arquitetonico 43200 IN NS slave
+SQLSERVER2012 1200 IN AAAA 2801:84::1009:31fd:2aa6:e0ae:8d44
+1200 IN AAAA 2801:84::1009:cf9f:91b7:414e:53b8
+SQLSERVER2012 1200 IN A 150.162.9.62
+mailman 43200 IN NS slave
+esus 43200 IN NS slave
+tcc 43200 IN NS slave
+tislr9 43200 IN NS slave
+atencaodomiciliar 43200 IN NS slave
+VM-FABIO 43200 IN A 150.162.248.32
+museu 43200 IN NS slave
+lapesd 43200 IN NS slave
+snc 43200 IN NS slave
+cursodeinverno 43200 IN NS slave
+vestibular2010 43200 IN NS slave
+vigilancia 43200 IN NS slave
+XDMCPSUSE.labufsc 43200 IN A 150.162.198.1
+taxonomiacem 43200 IN NS slave
+snt 43200 IN NS slave
+coneeq2009 43200 IN NS slave
+euje 43200 IN NS slave
+aurora 43200 IN NS slave
+atendimentoteste 43200 IN NS slave
+digital 43200 IN NS slave
+tic 43200 IN NS slave
+pethistoria 43200 IN NS slave
+rema 43200 IN NS slave
+ecotox2004 43200 IN NS slave
+razaocontabil 43200 IN NS slave
+pgau-cidade 43200 IN NS slave
+nejuc 43200 IN NS slave
+ssi 43200 IN NS slave
+sta 43200 IN NS slave
+sip.udp 43200 IN SRV 0 0 5060 150.162.248.41.
+UFSC169182 1200 IN AAAA 2002:96a2:5c30::96a2:5c30
+UFSC169182 1200 IN A 150.162.92.48
+capacitacao 43200 IN NS slave
+idosonocds 43200 IN NS slave
+psicologia 43200 IN NS slave
+labgeop 43200 IN NS slave
+sdsst 43200 IN NS slave
+rfic 43200 IN NS slave
+kinein 43200 IN NS slave
+divulga 43200 IN NS slave
+nfr 43200 IN NS slave
+giateinfo 43200 IN NS slave
+nelic 43200 IN NS slave
+cartografiaescolar 43200 IN NS slave
+geaa 43200 IN NS slave
+xvi-smirmecologia 43200 IN NS slave
+blumenau 43200 IN NS slave
+webensino 43200 IN NS slave
+petnutri 43200 IN NS slave
+nemac 43200 IN NS slave
+geap 43200 IN NS slave
+7forum 43200 IN NS slave
+alunointegrado 43200 IN NS slave
+binho 43200 IN NS slave
+emcjunior 43200 IN NS slave
+gedn 43200 IN NS slave
+UFSC169185 1200 IN AAAA 2002:96a2:5c51::96a2:5c51
+UFSC169185 1200 IN A 150.162.92.81
+coedh 43200 IN NS slave
+eqanalises 43200 IN NS slave
+nutresan 43200 IN NS slave
+bernardowb 43200 IN NS slave
+pesquisafeijao 43200 IN NS slave
+conevajr 43200 IN NS slave
+gpvoisin 43200 IN NS slave
+nessop 43200 IN NS slave
+crustaceoseplancton 43200 IN NS slave
+natsaude 43200 IN NS slave
+stadiumjr 43200 IN NS slave
+infohab 43200 IN NS slave
+empreendedor 600 IN NS odin.eps
+gfam 43200 IN NS slave
+hipermidiasbioquimica 43200 IN NS slave
+enejri 43200 IN NS slave
+malembemalembe 43200 IN NS slave
+lincoln 43200 IN NS slave
+scsustentavel 43200 IN NS slave
+estagios 43200 IN NS slave
+nesphis 43200 IN NS slave
+ppgeco 43200 IN NS slave
+odonto 43200 IN NS slave
+web 43200 IN NS slave
+fnpc 43200 IN NS slave
+concursosed 43200 IN NS slave
+concursosef 43200 IN NS slave
+eadingles 43200 IN NS slave
+ppgeel 43200 IN NS slave
+vms 43200 IN NS slave
+sbrc2014 43200 IN NS slave
+gabinete 43200 IN NS slave
+gepp 43200 IN NS slave
+concursoses 43200 IN NS slave
+fisio 43200 IN NS slave
+sial2013 43200 IN NS slave
+POWERMANAGEMENT 1200 IN AAAA 2801:84::1242:1481:165:8617:5103
+1200 IN AAAA 2801:84::1242:f390:2fef:d83:96e5
+POWERMANAGEMENT 1200 IN A 150.162.242.103
+serpro 600 IN A 150.162.1.147
+inclusaodigital 43200 IN NS slave
+iuscommune 43200 IN NS slave
+estudosangloamericanos 43200 IN NS slave
+estevam 43200 IN NS slave
+nisra 43200 IN NS slave
+dicionariompb-sc 43200 IN NS slave
+producaocivil 43200 IN NS slave
+ssocial 43200 IN NS slave
+senha 43200 IN A 150.162.2.73
+objethos 43200 IN NS slave
+creem2009 43200 IN NS slave
+l3c-ara 43200 IN NS slave
+incubado 43200 IN NS slave
+cienciasrurais 43200 IN NS slave
+dynamic-sme 43200 IN NS slave
+ws2 43200 IN NS slave
+frostah 43200 IN NS slave
+minerva 43200 IN NS slave
+portalsocial 43200 IN NS slave
+VM-BrunoAmattos 1200 IN AAAA 2002:96a2:f851::96a2:f851
+VM-BrunoAmattos 1200 IN A 150.162.248.81
+perspectiva 43200 IN NS slave
+saac 43200 IN NS slave
+saad 43200 IN NS slave
+ingles 43200 IN NS slave
+ghab 43200 IN NS slave
+wow 43200 IN A 150.162.35.35
+nepad 43200 IN NS slave
+secretariadoexecutivo 43200 IN NS slave
+simposiodereservatorios 43200 IN NS slave
+gfte 43200 IN NS slave
+lecera 43200 IN NS slave
+nepas 43200 IN NS slave
+foto 43200 IN NS slave
+radio 600 IN NS cce
+saec 43200 IN NS slave
+workshopbuiatul 43200 IN NS slave
+gepronas 43200 IN NS slave
+saep 43200 IN NS slave
+mnpef 43200 IN NS slave
+auth.idufsc 43200 IN A 150.162.1.49
+nepet 43200 IN NS slave
+nepev 43200 IN NS slave
+nepex 43200 IN NS slave
+assistenciaestudantilara 43200 IN NS slave
+ppggeo 43200 IN NS slave
+geodex 43200 IN NS slave
+permacultura 43200 IN NS slave
+prologis 43200 IN NS slave
+arqmodernasc 43200 IN NS slave
+montanhas 43200 IN NS slave
+alunos 43200 IN NS slave
+UFSC169060 1200 IN AAAA 2801:84::1138:d0e:81db:44ec:54bc
+1200 IN AAAA 2801:84::1138:89c2:a1f5:ca20:8c80
+UFSC169060 1200 IN A 150.162.138.95
+printservercbs 1200 IN AAAA 2002:96a2:d40a::96a2:d40a
+printservercbs 1200 IN A 150.162.212.10
+www 43200 IN AAAA 2801:84:0:2::10
+www 43200 IN A 150.162.2.10
+prosaude3 43200 IN NS slave
+t4tenglish 43200 IN NS slave
+rita 43200 IN NS slave
+gemurb 43200 IN NS slave
+oportunidadesinternacionais 43200 IN NS slave
+ccedh 43200 IN NS slave
+gibi 43200 IN NS slave
+sepex 43200 IN NS slave
+concursotrt 43200 IN NS slave
+_kerberos._tcp.default-first-site-name._sites 600 IN SRV 0 100 88 adufsc
+600 IN SRV 0 100 88 adufsc03
+600 IN SRV 0 100 88 adufsc04
+petletras 43200 IN NS slave
+lahimar 43200 IN NS slave
+lamaq 43200 IN NS slave
+inovacaosc 43200 IN NS slave
+lamat 43200 IN NS slave
+giem 43200 IN NS slave
+encontrocndp 43200 IN NS slave
+gieq 43200 IN NS slave
+murilo10 43200 IN NS slave
+50anos 43200 IN NS slave
+nepom 43200 IN NS slave
+neppe 43200 IN NS slave
+lameb 43200 IN NS slave
+lapmar 43200 IN NS slave
+repensul 43200 IN NS slave
+apoiopedagogico 43200 IN NS slave
+amulhernaliteratura 43200 IN NS slave
+lamep 600 IN CNAME inep
+dssmovimentossociais 43200 IN NS slave
+lamex 43200 IN NS slave
+cineclube 43200 IN NS slave
+scbr 43200 IN NS slave
+sustentavel 43200 IN NS slave
+UFSC169080 1200 IN AAAA 2801:84::1138:20a7:6c06:897c:b717
+1200 IN AAAA 2801:84::1138:a775:474d:cb39:d6b6
+UFSC169080 1200 IN A 150.162.138.60
+oes 43200 IN NS slave
+hack 43200 IN NS slave
+farmaco 43200 IN NS slave
+geomatica 43200 IN NS slave
+_jabber._tcp 43200 IN SRV 5 0 5269 xmpp
+tvdigitalinterativa 43200 IN NS slave
+ppgich 43200 IN NS slave
+sec-traducao1 43200 IN NS slave
+infojur 43200 IN NS slave
+seagro2012 43200 IN NS slave
+acaojr 43200 IN NS slave
+geoeng 43200 IN NS slave
+curadores 43200 IN NS slave
+ns.lapad 43200 IN A 150.162.156.1
+clinicacirurgica 43200 IN NS slave
+landi 43200 IN NS slave
+psicologiadotransito 43200 IN NS slave
+labsfac 43200 IN NS slave
+alsfal2008 43200 IN NS slave
+fapeu 600 IN NS fap.fapeu
+600 IN NS fap2.fapeu
+forumdebates 43200 IN NS slave
+navi 43200 IN NS slave
+omega 43200 IN NS slave
+condicap 43200 IN NS slave
+gita 43200 IN NS slave
+punctum 43200 IN NS slave
+desis 43200 IN NS slave
+girolamofracastoro 43200 IN NS slave
+semantica 43200 IN NS slave
+neurolab 43200 IN NS slave
+rangel 43200 IN NS slave
+genoma 43200 IN NS slave
+perfildojornalista 43200 IN NS slave
+probolsas 43200 IN NS slave
+slave1 43200 IN A 150.162.242.74
+sementesul 43200 IN NS slave
+nesfi 43200 IN NS slave
+nuplitt 43200 IN NS slave
+ntdi 43200 IN NS slave
+seac 43200 IN NS slave
+marciotto 43200 IN NS slave
+seai 43200 IN NS slave
+hari 43200 IN NS slave
+nesig 43200 IN NS slave
+14ihpc 43200 IN NS slave
+anparq 43200 IN NS slave
+barenominals 43200 IN NS slave
+automacao 43200 IN NS slave
+terminal 43200 IN NS slave
+lapoge 43200 IN NS slave
+lapad 43200 IN NS ns.npd
+43200 IN NS ns.lapad
+maglab 43200 IN NS slave
+deptoodt 43200 IN NS slave
+netec 43200 IN NS slave
+planodesaude 43200 IN NS slave
+projetofortalezasmultimidia 43200 IN NS slave
+autoconfig 43200 IN CNAME webmail
+mj.fepese 43200 IN A 150.162.249.193
+mapainterativo 43200 IN NS slave
+workshopsco 43200 IN NS slave
+neutron 43200 IN NS slave
+dev.gpweb 43200 IN A 150.162.242.23
+unasul 43200 IN NS slave
+gestaoindustrial 43200 IN NS slave
+unasus 43200 IN NS slave
+gmac 43200 IN NS slave
+identidade 43200 IN NS slave
+ilhadodesterro 43200 IN NS slave
+projetocentronorte 43200 IN NS slave
+engenhariaflorestal 43200 IN NS slave
+english 43200 IN NS slave
+setic 43200 IN NS slave
+43200 IN NS slave2
+lapis 43200 IN NS slave
+lapix 43200 IN NS slave
+accuracy2012 43200 IN NS slave
+murilo2 43200 IN NS slave
+gapps 43200 IN NS slave
+lapoa 43200 IN NS slave
+irene 43200 IN NS slave
+pessoas 43200 IN NS slave
+patologiabucal 43200 IN NS slave
+lapom 43200 IN NS slave
+etica 43200 IN NS slave
+ns.labmetro 43200 IN A 150.162.167.1
+producaoonline 43200 IN NS slave
+gpepsm 43200 IN NS slave
+vestibular2009suplementar 43200 IN NS slave
+auto7 43200 IN NS slave
+grad-eel 43200 IN NS slave
+conaq 43200 IN NS slave
+mapearte 43200 IN NS slave
+siem 43200 IN NS slave
+astronomia 43200 IN NS slave
+anpege 43200 IN NS slave
+ppgmga 43200 IN NS slave
+pdi 43200 IN NS slave
+e-democracia 43200 IN NS slave
+nut 43200 IN NS slave
+aeroespacial 43200 IN NS slave
+hawking.das2 43200 IN A 150.162.12.21
+entreimagens 43200 IN NS slave
+celsul 43200 IN NS slave
+labmetro 43200 IN NS slave
+bleuetrouge 43200 IN NS slave
+cebime 43200 IN NS slave
+seurs 43200 IN NS slave
+rpot 43200 IN NS slave
+formulacem 43200 IN NS slave
+momnv 43200 IN NS slave
+webgd 43200 IN NS slave
+bajacem 43200 IN NS slave
+popnet 600 IN NS ns.npd
+600 IN NS materiais
+rpsc 43200 IN NS slave
+pen 43200 IN NS slave
+cedes 43200 IN NS slave
+_VLMCS._tcp 3600 IN SRV 0 0 1688 servidor-licencas
+seminariotematico 43200 IN NS slave
+rexapp 43200 IN NS slave
+06aa9451-1598-4277-bba4-095bcc40f3d2 43200 IN CNAME adufsc04
+vijornadacatarinensepm 43200 IN NS slave
+psitrab 43200 IN NS slave
+gpda 43200 IN NS slave
+sief 43200 IN NS slave
+mytilus.interop 43200 IN A 150.162.248.1
+desafiointerdisciplinar 43200 IN NS slave
+siei 43200 IN NS slave
+engenhariamecanica 43200 IN NS slave
+gpeb 43200 IN NS ns.npd
+43200 IN NS server.gpeb
+mundoabeiramar 43200 IN NS slave
+cpgcm 43200 IN NS ns.npd
+43200 IN NS server.ieb
+mpenf 43200 IN NS slave
+cpgea 600 IN NS ns.npd
+600 IN NS citosina.intelab
+atualiza 600 IN CNAME web
+cirurgia 43200 IN NS slave
+neitec 43200 IN NS slave
+montealegre 43200 IN NS slave
+bioteriofarmaco 43200 IN NS slave
+labtate 43200 IN NS slave
+latep 43200 IN NS slave
+_gc._tcp 600 IN SRV 0 100 3268 adufsc
+600 IN SRV 0 100 3268 adufsc03
+SQLServer-DES 1200 IN AAAA 2801:84::1090:6da0:8f48:cd29:f272
+1200 IN AAAA 2801:84::1090:cb98:6b72:b43:5237
+SQLServer-DES 1200 IN A 150.162.9.69
+1200 IN A 150.162.90.133
+cecanesc 43200 IN NS slave
+ecoaustral2010 43200 IN NS slave
+dlnotes2 43200 IN NS slave
+midiadigital 43200 IN NS slave
+calj 43200 IN NS slave
+gepades 43200 IN NS slave
+latim 43200 IN NS slave
+enabet-2015 43200 IN NS slave
+teste-fs02 1200 IN A 150.162.248.146
+teste-fs03 1200 IN AAAA 2801:84::1248:55db:bf4f:e805:27de
+1200 IN AAAA 2801:84::1248:cd82:2673:2417:9d1d
+teste-fs03 1200 IN A 150.162.248.149
+vestibular2014 43200 IN NS slave
+tecnaval 43200 IN NS slave
+hack-ead 43200 IN NS slave
+bioeticasocial 43200 IN NS slave
+biblio 43200 IN NS slave
+araranguaintruders 43200 IN NS slave
+nexos 43200 IN NS slave
+sbpot 43200 IN NS slave
+gpps 43200 IN NS slave
+conapir-seppir 43200 IN NS slave
+neuroexercise 43200 IN NS slave
+semanadecinema 43200 IN NS slave
+grad 43200 IN NS slave
+ceeqa 43200 IN NS slave
+consultapublica 43200 IN NS slave
+disciplinaisolada 43200 IN NS slave
+neurofarmacologia 43200 IN NS slave
+mailman1 43200 IN NS slave
+grcc 43200 IN NS slave
+garfos 43200 IN NS slave
+pergamum 43200 IN NS slave
+osc 43200 IN NS slave
+lecota 43200 IN NS slave
+_msdcs 43200 IN NS adufsc
+43200 IN NS adufsc03
+43200 IN NS adufsc04
+podostemaceae 43200 IN NS slave
+cultartara 43200 IN NS slave
+printserver01 1200 IN AAAA 2002:96a2:229::96a2:229
+1200 IN AAAA 2002:96a2:cc01::96a2:cc01
+printserver01 1200 IN A 150.162.2.41
+printserver02 1200 IN AAAA 2002:96a2:22a::96a2:22a
+1200 IN AAAA 2002:96a2:cc02::96a2:cc02
+printserver02 1200 IN A 150.162.2.42
+ixenpeh 43200 IN NS slave
+printserver04 1200 IN A 150.162.211.1
+_kerberos._tcp 600 IN SRV 0 100 88 adufsc
+600 IN SRV 0 100 88 adufsc03
+600 IN SRV 0 100 88 adufsc04
+eventos2 600 IN NS dc.npd
+600 IN NS mytilus.interop
+educacaodocampo2014 43200 IN NS slave
+educacaodocampo2015 43200 IN NS slave
+ararangua 43200 IN NS slave
+abinitio 43200 IN NS slave
+apilab 43200 IN NS slave
+leia 43200 IN NS slave
+nupill 43200 IN NS slave
+inct-catalise 43200 IN NS slave
+saudesuplementar 43200 IN NS slave
+cenesp 43200 IN NS slave
+infosam 43200 IN NS slave
+temporalidade 43200 IN NS slave
+neurologia 43200 IN NS ns.led
+43200 IN NS ns.npd
+lauro 43200 IN NS slave
+economiaufscparaensinomedio 43200 IN NS slave
+ppgqmc 43200 IN NS slave
+_kpasswd._tcp 600 IN SRV 0 100 464 adufsc
+600 IN SRV 0 100 464 adufsc03
+600 IN SRV 0 100 464 adufsc04
+fileserver 1200 IN AAAA 2002:96a2:f23b::96a2:f23b
+fileserver 1200 IN A 150.162.242.59
+capg 43200 IN NS slave
+_kerberos._udp 600 IN SRV 0 100 88 adufsc
+600 IN SRV 0 100 88 adufsc03
+600 IN SRV 0 100 88 adufsc04
+gepirseu 43200 IN NS slave
+server03.sintufsc 43200 IN A 150.162.80.1
+notesmail 600 IN MX 10 notes
+servicosocial 43200 IN NS slave
+labtele 43200 IN NS slave
+proenem 43200 IN NS slave
+ARA-102008 1200 IN AAAA 2002:96a2:e8f0::96a2:e8f0
+ARA-102008 1200 IN A 150.162.232.240
+evolucaodosconceitosdafisica 43200 IN NS slave
+UFSCSEMPAPELOCR 1200 IN AAAA 2801:84::3:c032:af28:d8:c81f
+UFSCSEMPAPELOCR 1200 IN A 150.162.3.191
+ppgec 43200 IN NS slave
+informa 43200 IN NS slave
+wcscisco 1200 IN A 150.162.254.250
+estudantes 43200 IN NS slave
+gtec 43200 IN NS slave
+dotprojecttelelab 43200 IN NS slave
+labsoft 43200 IN NS slave
+bmic2012 43200 IN NS slave
+_kpasswd._udp 600 IN SRV 0 100 464 adufsc
+600 IN SRV 0 100 464 adufsc03
+600 IN SRV 0 100 464 adufsc04
+default._domainkey 43200 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDcihdqRfupueFlIunx0ljptevV9lWmgUxqbH7ek+28zN4l0KGO4ufgxUtnTwIG3n+VO3nkASe18YBkP+849pD4bhhuzGHDHui1GiobUJcgZFpntJOglWqVchp0VL4/l9PqPq8ITuobr5SHkmfEviGxpCIfTNeKardu2FgUVLyFdQIDAQAB"
+biodiesel 43200 IN NS chapolin.cet
+sistemas 43200 IN NS slave
+orgaosdeliberativos 43200 IN NS slave
+economia 43200 IN NS slave
+personarium 43200 IN NS slave
+fourier.robocup 600 IN A 150.162.14.56
+genesporte 43200 IN NS slave
+revistalanda 43200 IN NS slave
+solidworks 43200 IN NS slave
+conahpa 43200 IN NS slave
+pls 43200 IN NS slave
+cotic 43200 IN NS slave
+composer 43200 IN NS slave
+gual 43200 IN NS slave
+classehospitalar 43200 IN NS slave
+iate 43200 IN NS slave
+museologia 43200 IN NS slave
+tede 43200 IN NS slave
+ufscnamidia 43200 IN NS slave
+recenbio 43200 IN NS slave
+shib-ds 43200 IN A 150.162.1.55
+SimaPro 1200 IN AAAA 2801:84::1006:26a6:ba31:2544:6a23
+1200 IN AAAA 2801:84::1006:5432:b33f:ee42:f1cb
+SimaPro 1200 IN A 150.162.6.10
+rizoma 43200 IN NS slave
+*.guiadefontes 43200 IN A 150.162.2.10
+tedx 43200 IN NS slave
+CSS-04 1200 IN AAAA 2801:84::1009:31fa:c218:904f:e898
+CSS-04 1200 IN A 150.162.9.126
+licenciaturas 43200 IN NS slave
+zabot 43200 IN NS slave
+apufsc 43200 IN NS server.apufsc
+literatura 43200 IN NS slave
+lareso 43200 IN NS slave
+parasitologiaanimal 43200 IN NS slave
+arranjosmpes 43200 IN NS slave
+fernandocruz 43200 IN NS slave
+reorganiza 43200 IN NS slave
+rotaract 43200 IN NS slave
+lageci 43200 IN NS slave
+ppgtic 43200 IN NS slave
+smtp 43200 IN CNAME smtp.mail
+semanadaagricultura2008 43200 IN NS slave
+gtva 43200 IN NS ns.npd
+43200 IN NS iridio.lva
+hospital 43200 IN NS slave
+shibboleth 43200 IN NS slave
+formula 43200 IN NS slave
+custoslogisticos 43200 IN NS slave
+labspot 600 IN NS sol.labspot
+plugplay 43200 IN NS slave
+gepiee 43200 IN NS slave
+casadosgirassois 43200 IN NS slave
+versus-sc 43200 IN NS slave
+hellen-2014 43200 IN NS slave
+lodkem 43200 IN NS ns.led
+43200 IN NS ns.npd
+setic-henrique 1200 IN AAAA 2801:84:0:1248::141
+1200 IN AAAA 2801:84::1248:6c1f:358a:d32c:4da8
+setic-henrique 1200 IN A 150.162.248.141
+vpn 43200 IN NS slave
+lepege 43200 IN NS slave
+pos 43200 IN NS slave
+vapraq 43200 IN NS slave
+estrutura 43200 IN NS slave
+niepc 43200 IN NS slave
+spdd 43200 IN NS slave
+lsnano 43200 IN NS slave
+geografiascom 43200 IN NS slave
+bibliojunior 43200 IN NS slave
+internoise2005 43200 IN NS slave
+lagartixa 43200 IN NS slave
+sead 43200 IN NS slave
+teste-fs01 1200 IN A 150.162.248.39
+mover 43200 IN NS slave
+pepweb 43200 IN NS slave
+interara 43200 IN NS slave
+odontopediatria 43200 IN NS slave
+alcoolicosanonimos-sc 43200 IN NS slave
+comunic 43200 IN NS slave
+_ldap._tcp.ForestDnsZones 600 IN SRV 0 100 389 adufsc
+600 IN SRV 0 100 389 adufsc03
+600 IN SRV 0 100 389 adufsc04
+600 IN SRV 0 100 389 vdesktop.vdesktop
+cobrac 43200 IN NS slave
+copaufsc 43200 IN NS slave
+iela 43200 IN NS slave
+agenda21ibiraquera 43200 IN NS slave
+nuquiocat 43200 IN NS slave
+primo14 43200 IN NS slave
+linden 43200 IN NS slave
+portalcatarina 43200 IN NS slave
+UFSC153337 1200 IN AAAA 2801:84::1047:265c:d2e:a3da:df6a
+1200 IN AAAA 2801:84::1047:54a5:3a62:32be:16c0
+UFSC153337 1200 IN A 150.162.47.82
+labrestauro 43200 IN NS slave
+mestradointensivos-paliativos 43200 IN NS slave
+extensaoara 43200 IN NS slave
+sppi 43200 IN NS slave
+UFSC168186 1200 IN AAAA 2002:96a2:5c33::96a2:5c33
+UFSC168186 1200 IN A 150.162.92.51
+UFSC168187 1200 IN AAAA 2002:96a2:5c84::96a2:5c84
+UFSC168187 1200 IN A 150.162.92.132
+UFSC168202 1200 IN AAAA 2002:96a2:5c91::96a2:5c91
+UFSC168202 1200 IN A 150.162.92.145
+UFSC168193 1200 IN AAAA 2002:96a2:5c86::96a2:5c86
+UFSC168193 1200 IN A 150.162.92.134
+UFSC168195 1200 IN AAAA 2002:96a2:5c9c::96a2:5c9c
+UFSC168195 1200 IN A 150.162.92.156
+eress2005 43200 IN NS slave
+UFSC168208 1200 IN AAAA 2002:96a2:5c40::96a2:5c40
+UFSC168208 1200 IN A 150.162.92.64
+UFSC168199 1200 IN AAAA 2002:96a2:5c2d::96a2:5c2d
+UFSC168199 1200 IN A 150.162.92.45
+helmintologia 43200 IN NS slave
+feiradamobilidade 43200 IN NS slave
+politicaesociedade 43200 IN NS slave
+santander22378 1200 IN A 150.162.168.27
+uniaguas 43200 IN NS slave
+fileservercce 43200 IN NS slave
+digital-storytelling 43200 IN NS slave
+rcc 43200 IN NS slave
+linguisticaforense 43200 IN NS slave
+UFSC153347 1200 IN AAAA 2801:84::1047:b8f3:18b1:937d:b92d
+UFSC153347 1200 IN A 150.162.47.148
+rexlab 43200 IN NS ns.led
+43200 IN NS ns.npd
+UFSC168254 1200 IN AAAA 2002:96a2:5c56::96a2:5c56
+UFSC168254 1200 IN A 150.162.92.86
+sulpet 43200 IN NS slave
+vestibular2009ead 43200 IN NS slave
+eneac2013 43200 IN NS slave
+UFSC153351 1200 IN AAAA 2801:84::1047:49ba:989e:66ea:444d
+1200 IN AAAA 2801:84::1047:b5b4:c06b:2d46:1977
+UFSC153351 1200 IN A 150.162.47.112
+forumtilspife 43200 IN NS slave
+divulgacao 43200 IN NS slave
+nutricao 43200 IN NS slave
+ergonomia 600 IN NS ns.npd
+600 IN NS nucleo.qualimetria
+larita 43200 IN NS slave
+autenticacao 43200 IN A 150.162.1.66
+43200 IN A 150.162.1.67
+43200 IN A 150.162.1.69
+reuni 43200 IN NS slave
+remas 43200 IN NS slave
+relle 43200 IN NS slave
+serprosna 43200 IN NS slave
+chapolin.cet 43200 IN A 150.162.20.1
+sociologiaecienciapolitica 43200 IN NS slave
+smmmfloripa 43200 IN NS slave
+hortomedicinaldohu 43200 IN NS slave
+saladeleiturahu 43200 IN NS slave
+geoeconomica 43200 IN NS slave
+sambaqui 43200 IN NS slave
+udesc 43200 IN NS slave
+design 43200 IN NS slave
+vitrocer 43200 IN NS slave
+qmc 43200 IN NS slave
+pesquisador 43200 IN NS slave
+iglu 43200 IN NS slave
+27958665-85fe-4042-a921-886c1bd04a83 43200 IN CNAME adufsc03
+biologiavegetal 43200 IN NS slave
+limnos 43200 IN NS slave
+zeroconvergencia 43200 IN NS slave
+qualitr 43200 IN NS slave
+petservicosocial 43200 IN NS slave
+scientiatraductionis 43200 IN NS slave
+diferentetodomundoe 43200 IN NS slave
+enebi2009 43200 IN NS slave
+UFSC168403 1200 IN AAAA 2002:96a2:d611::96a2:d611
+UFSC168403 1200 IN A 150.162.214.17
+Marcio-Desktop 1200 IN AAAA 2801:84::1009:29ef:f53b:d446:3330
+1200 IN AAAA 2801:84::1009:e11b:635d:e14:a86
+Marcio-Desktop 1200 IN A 150.162.9.80
+gestcon 43200 IN NS slave
+laquas 43200 IN NS slave
+pastas 43200 IN NS slave
+stae 43200 IN NS slave
+ethowatcher 43200 IN NS slave
+johuha 43200 IN NS slave
+universidadenacomunidade 43200 IN NS slave
+_ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones 600 IN SRV 0 100 389 adufsc
+600 IN SRV 0 100 389 adufsc03
+600 IN SRV 0 100 389 adufsc04
+600 IN SRV 0 100 389 vdesktop.vdesktop
+sisbiota 43200 IN NS slave
+dmc-ns 43200 IN NS slave
+ForestDnsZones 600 IN AAAA 2002:96a2:142::96a2:142
+600 IN AAAA 2002:96a2:143::96a2:143
+600 IN AAAA 2801:84:0:1001::69
+600 IN AAAA 2801:84::1001:1448:8da0:3b5b:d634
+600 IN AAAA 2801:84::1044:7ef:692d:564:b868
+600 IN AAAA 2801:84::1044:5171:8bce:1a72:d2d4
+600 IN AAAA 2801:84::1243:1448:8da0:3b5b:d634
+ForestDnsZones 600 IN A 150.162.1.66
+600 IN A 150.162.1.67
+600 IN A 150.162.1.69
+600 IN A 150.162.44.1
+bioeng 43200 IN NS citosina.intelab
+boxorganicos 43200 IN NS slave
+hiperlab 43200 IN NS wright.ava
+43200 IN NS wolverine.ava
+igti 43200 IN NS ns.led
+43200 IN NS ns.npd
+idufsc 43200 IN AAAA 2801:84::2:150:162:2:173
+idufsc 43200 IN A 150.162.2.173
+cppta 43200 IN NS slave
+UFSC153378 1200 IN AAAA 2801:84::1047:297f:9721:99fd:ae03
+UFSC153378 1200 IN A 150.162.47.152
+observandoaconjunturaglobal 43200 IN NS slave
+ereasul2011 43200 IN NS slave
+terapeutas 43200 IN NS slave
+moodle 43200 IN NS slave
+coperve 600 IN NS ns.npd
+600 IN NS ns.coperve
+_ldap._tcp.domaindnszones 600 IN SRV 0 100 389 adufsc
+600 IN SRV 0 100 389 adufsc03
+600 IN SRV 0 100 389 adufsc04
+alunointegrado2011 43200 IN NS slave
+mecanicaposgraduacao 43200 IN NS slave
+coloquio12 43200 IN NS slave
+bioquimica 43200 IN NS slave
+tsgagua 43200 IN NS slave
+vestibular2013ead 43200 IN NS slave
+intercambio 43200 IN NS slave
+aulamagna 43200 IN NS slave
+UFSC244594 1200 IN AAAA 2801:84::1047:5732:70b9:a17e:ec98
+1200 IN AAAA 2801:84::1047:acaa:bc0d:f319:a9cc
+UFSC244594 1200 IN A 150.162.47.88
+ceped 43200 IN NS slave
+neurologiahu 43200 IN NS slave
+curtasufsc 43200 IN NS slave
+toxicologiaclinica2010 43200 IN NS slave
+semageo 43200 IN NS slave
+etusc 43200 IN NS slave
+tvcultura 43200 IN NS slave
+convivencia 43200 IN NS slave
+labhstc 43200 IN NS slave
+UFSC153401 1200 IN AAAA 2801:84::1047:2a16:c023:8153:b16d
+1200 IN AAAA 2801:84::1047:807f:a6fa:8610:3904
+UFSC153401 1200 IN A 150.162.47.14
+radioponto 43200 IN NS slave
+eventoeditores 43200 IN NS slave
+cepid 43200 IN NS slave
+nute 43200 IN NS slave
+educampo 43200 IN NS slave
+UFSC153406 1200 IN AAAA 2801:84::1047:c509:7d1a:3f58:e52e
+1200 IN AAAA 2801:84::1047:fd3b:8070:ca08:5db0
+UFSC153406 1200 IN A 150.162.47.54
+UFSC153408 1200 IN AAAA 2801:84::1047:a91e:9c83:fe3d:60ef
+1200 IN AAAA 2801:84::1047:fc84:30c7:6f50:b46a
+UFSC153408 1200 IN A 150.162.47.180
+UFSC153410 1200 IN AAAA 2801:84::1047:2a92:55f9:1900:77ac
+1200 IN AAAA 2801:84::1047:f162:9874:5856:eae5
+UFSC153410 1200 IN A 150.162.47.3
+www.email 43200 IN A 150.162.2.10
+seminariogestao 43200 IN NS slave
+consultapublicahu 43200 IN NS slave
+ecal 43200 IN NS slave
+ijie 43200 IN NS slave
+PrintServerWeb 1200 IN AAAA 2801:84::1248:bd1b:43f0:5dfe:bafe
+1200 IN AAAA 2801:84::1248:f8d4:2949:679e:a906
+PrintServerWeb 1200 IN A 150.162.248.82
+qmcgeral 43200 IN NS slave
+labsisco 43200 IN NS slave
+designdeinterfaces 43200 IN NS slave
+nuppe 43200 IN NS slave
+cepsh 43200 IN NS slave
+ns.lec 43200 IN A 150.162.51.2
+ns.led 43200 IN A 150.162.114.3
+simbiosis 43200 IN NS slave
+capesfipse 43200 IN NS slave
+UFSC153424 1200 IN AAAA 2801:84::1047:3713:390:5c2b:b3df
+1200 IN AAAA 2801:84::1047:8976:173e:619d:b004
+UFSC153424 1200 IN A 150.162.47.119
+ensino 43200 IN NS slave
+labimha 43200 IN NS slave
+propesq 43200 IN NS slave
+UFSC153426 1200 IN AAAA 2801:84::1047:8c44:9b49:2c6d:2744
+1200 IN AAAA 2801:84::1047:cdc7:dee8:5f67:8f4c
+UFSC153426 1200 IN A 150.162.47.163
+hipernet 43200 IN NS brava.edugraf
+43200 IN NS forte.edugraf
+mbox1 43200 IN NS slave
+5ebem 43200 IN NS slave
+materiais 43200 IN NS slave
+portalbu 43200 IN NS slave
+portalfeminista 43200 IN NS slave
+medicinaveterinaria 43200 IN NS slave
+gesthab 43200 IN NS slave
+campuspresencial 43200 IN NS slave
+acessoainformacao 43200 IN NS slave
+_ldap._tcp.default-first-site-name._sites.domaindnszones 600 IN SRV 0 100 389 adufsc
+600 IN SRV 0 100 389 adufsc03
+600 IN SRV 0 100 389 adufsc04
+inovacao 43200 IN NS ns.npd
+43200 IN NS ns.geness
+repom 43200 IN NS slave
+pediatria 43200 IN NS slave
+mecatronica 43200 IN NS slave
+UFSC226529 1200 IN AAAA 2801:84::1009:51ff:85c6:57fc:8187
+1200 IN AAAA 2801:84::1009:9dea:e339:2e84:1adf
+UFSC226529 1200 IN A 150.162.9.209
+ns2.voip 43200 IN A 150.162.189.32
+cimgae 43200 IN NS slave
+ticonto 43200 IN NS slave
+aplysia 43200 IN NS slave
+literaturabrasileira 43200 IN NS slave
+ilha 43200 IN NS slave
+labufsc 43200 IN NS xdmcpsuse.labufsc
+vetores 43200 IN NS slave
+yunju 43200 IN NS slave
+geotecnia 43200 IN NS slave
+certificados 43200 IN NS slave
+fatorhumano 43200 IN NS slave
+producaomecanica 43200 IN NS slave
+UFSC153446 1200 IN AAAA 2801:84::1047:6c07:d51b:db26:ab1b
+UFSC153446 1200 IN A 150.162.47.156
+libras 43200 IN NS slave
+formulasae 43200 IN NS slave
+posarq 43200 IN NS slave
+corpuslibras 43200 IN NS slave
+redacaooficial 43200 IN NS slave
+araboinc 43200 IN NS slave
+cursinho 43200 IN NS slave
+siare 43200 IN NS slave
+lcqar 43200 IN NS slave
+spedconpedi 43200 IN NS slave
+brava.edugraf 43200 IN A 150.162.61.2
+uffs 43200 IN NS slave
+temas 43200 IN NS slave
+portal.estagio 43200 IN A 150.162.2.10
+jurere.mtm 43200 IN A 150.162.32.1
+gt-med 43200 IN NS slave
+UFSC153456 1200 IN AAAA 2801:84::1047:ac7e:ca0c:d5c5:713c
+UFSC153456 1200 IN A 150.162.47.149
+resan 43200 IN NS slave
+aasufsc 43200 IN NS slave
+monipe 43200 IN NS slave
+viadigital 43200 IN NS ns.npd
+43200 IN NS ns.geness
+gpaju 43200 IN NS slave
+UFSC153459 1200 IN AAAA 2801:84::1047:2178:8bbc:ef9d:8f7b
+UFSC153459 1200 IN A 150.162.47.150
+painelconjuntura 43200 IN NS slave
+boiling 43200 IN NS slave
+UFSC169032 1200 IN AAAA 2801:84::1138:60c5:901:47f6:77d6
+1200 IN AAAA 2801:84::1138:e1f1:e2d9:d2c6:65da
+UFSC169032 1200 IN A 150.162.138.61
+vdesktop 3600 IN NS vdesktop.vdesktop
+inpetro 43200 IN NS slave
+linjur 43200 IN NS slave
+UFSC169048 1200 IN AAAA 2801:84::1138:bdd8:aee9:944f:5618
+UFSC169048 1200 IN A 150.162.138.77
+ufsc169050 1200 IN AAAA 2801:84::1138:a0aa:887c:10d0:1fed
+1200 IN AAAA 2801:84::1138:c02d:81ed:c9ab:567e
+ufsc169050 1200 IN A 150.162.138.114
+ufsc169055 1200 IN AAAA 2801:84::1138:7500:6142:56ad:dccc
+1200 IN AAAA 2801:84::1138:a806:d5fb:1f5a:1cca
+ufsc169055 1200 IN A 150.162.138.82
+anacleto 43200 IN NS slave
+propesquisa 43200 IN NS slave
+gesto 43200 IN NS slave
+stela 43200 IN NS ns.led
+43200 IN NS ns.npd
+UFSC169082 1200 IN AAAA 2801:84::1138:44bd:bfa8:77b8:c0c9
+1200 IN AAAA 2801:84::1138:5843:a739:82d:8b6c
+UFSC169082 1200 IN A 150.162.138.89
+inep 43200 IN NS slave
+gpweb 43200 IN A 150.162.242.23
+atleticaadm 43200 IN NS slave
+revistaegc 43200 IN NS slave
+formaturas 43200 IN NS slave
+gpcam 43200 IN NS slave
+grupoge 43200 IN NS slave
+UFSC153474 1200 IN AAAA 2801:84::1047:e50c:174f:5e7:1edd
+1200 IN AAAA 2801:84::1047:ec37:819e:35d3:2dd
+UFSC153474 1200 IN A 150.162.47.117
+licitacao 43200 IN NS slave
+lebima 43200 IN NS slave
+UFSC153314 1200 IN AAAA 2801:84::1047:5dbd:fe7:643b:5519
+1200 IN AAAA 2801:84::1047:f67d:ae54:6b10:ea03
+UFSC153314 1200 IN A 150.162.47.109
+projeto-inovacao 43200 IN NS slave
+nicse 43200 IN NS slave
+sicog 43200 IN NS slave
+praxis 43200 IN NS slave
+fronteiraeconomica 43200 IN NS slave
+gt-mre 43200 IN NS slave
+unaberta 43200 IN NS slave
+projetoimagine 43200 IN NS slave
+UFSC153479 1200 IN AAAA 2801:84::1047:709b:5a5a:2a5:fd7d
+1200 IN AAAA 2801:84::1047:a6ee:3849:5a6:4864
+UFSC153479 1200 IN A 150.162.47.126
+lithistrad 43200 IN NS slave
+justicaecologica 43200 IN NS slave
+sidie 43200 IN NS slave
+capoeiradailha 43200 IN NS slave
+sinppef 43200 IN NS slave
+setic182265 1200 IN AAAA 2002:96a2:95f::96a2:95f
+setic182265 1200 IN A 150.162.9.95
+poseco 43200 IN NS slave
+noticias 43200 IN NS slave
+filmesdeeconomia 43200 IN NS slave
+foruns 43200 IN NS slave
+pibid-nela 43200 IN NS slave
+vcoloquiodeprosodia 43200 IN NS slave
+pdsj 43200 IN NS slave
+grupopastoreiovoisin 43200 IN NS slave
+starlight 43200 IN NS slave
+nidsc 43200 IN NS slave
+educacaonaculturadigital 43200 IN NS slave
+nucidh 43200 IN NS slave
+aapvu 43200 IN NS slave
+extensao 43200 IN NS slave
+consub 43200 IN NS slave
+robotica 43200 IN NS slave
+literaturatraduzida 43200 IN NS slave
+espiritismo 43200 IN NS slave
+seacon 43200 IN NS slave
+labmidia 43200 IN NS slave
+caltech 43200 IN NS slave
+psico 43200 IN NS slave
+vestibular2011ead 43200 IN NS slave
+test.idufsc 43200 IN A 150.162.2.173
+sbpjor 43200 IN NS slave
+pdti 43200 IN NS slave
+begecz 43200 IN NS slave
+neagua 43200 IN NS slave
+pnaic 43200 IN NS slave
+proplan 43200 IN NS slave
+labmoderna 43200 IN NS slave
+meuni 43200 IN NS slave
+server.ieb 43200 IN A 150.162.161.1
+posenq 43200 IN NS slave
+duna2013 43200 IN NS slave
+fisicadovoocem 43200 IN NS slave
+labhidro 43200 IN NS slave
+sindicato 43200 IN NS brava.edugraf
+43200 IN NS canudos.hipernet
+extensio 43200 IN NS slave
+ensaiofotojornalismo 43200 IN NS slave
+fonaprace 43200 IN NS slave
+tropicalgothic 43200 IN NS slave
+cidts 43200 IN NS slave
+posfil 43200 IN NS slave
+congressodireitodesportivo 43200 IN NS slave
+engclin 43200 IN NS ns.npd
+43200 IN NS server.ieb
+gecem 43200 IN NS slave
+uaberta 43200 IN NS slave
+tsga 43200 IN NS slave
+sgr 43200 IN NS slave
+server.lpds 43200 IN A 150.162.46.1
+interfaces 43200 IN NS slave
+uipi 43200 IN NS slave
+eracing 43200 IN NS slave
+grafica 43200 IN NS slave
+bixin.softwarelivre 43200 IN A 150.162.60.144
+almmed 43200 IN NS slave
+sic 43200 IN NS slave
+ipv6 43200 IN NS slave
+dswf-ismp2015 43200 IN NS slave
+qualimetria 43200 IN NS slave
+brasao 43200 IN NS slave
+aluno 43200 IN NS slave
+portalreitoria 43200 IN NS slave
+VM-VPNSeTIC 1200 IN AAAA 2801:84::1009:2bb0:cc15:1e71:b499
+1200 IN AAAA 2801:84::1009:549a:78fd:daf5:507f
+VM-VPNSeTIC 1200 IN A 150.162.9.119
+vcenter 1200 IN A 150.162.2.14
+gpend 43200 IN NS slave
+lecie 43200 IN NS slave
+licenciaturasindigenas 43200 IN NS slave
+sinalizacao 43200 IN NS slave
+pibidfisica 43200 IN NS slave
+atleticactc 43200 IN NS slave
+itirg 43200 IN NS slave
+direitoautoral 43200 IN NS slave
+forumprimeiraedicao 43200 IN NS slave
+violenciaesaude 43200 IN NS slave
+UFSC168198-PC 1200 IN AAAA 2002:96a2:5c88::96a2:5c88
+UFSC168198-PC 1200 IN A 150.162.92.136
+meridianum 43200 IN NS slave
+dserravalle 43200 IN NS slave
+lmplaser 43200 IN NS slave
+www.gpweb 43200 IN A 150.162.242.23
+ccc 43200 IN NS slave
+uolpesquisa 43200 IN NS slave
+gamesnaufsc 43200 IN NS slave
+tutor 43200 IN NS slave
+sigmo 43200 IN NS slave
+grante 43200 IN NS slave
+nucasul 43200 IN NS slave
+iridio.lmpt 43200 IN A 150.162.21.1
+iris 43200 IN NS slave
+services 43200 IN NS slave
+rodoviasverdes 43200 IN NS slave
+conexoes 43200 IN NS slave
+*.dev.idufsc 43200 IN A 150.162.248.85
+coloquiopanamericano2010 43200 IN NS slave
+ava 43200 IN NS wright.ava
+43200 IN NS wolverine.ava
+interpet 43200 IN NS slave
+cpgenq 43200 IN NS slave
+fabiano1 43200 IN NS slave
+cit-sc 43200 IN NS slave
+UFSC244589 1200 IN AAAA 2801:84::1047:4dd9:beeb:818b:a124
+1200 IN AAAA 2801:84::1047:88a2:84f:2355:155a
+UFSC244589 1200 IN A 150.162.47.137
+UFSC244591 1200 IN AAAA 2801:84::1047:3001:e4bf:3756:2012
+1200 IN AAAA 2801:84::1047:77f9:d8fe:7587:b8b0
+UFSC244591 1200 IN A 150.162.47.59
+lepten 43200 IN NS slave1
+43200 IN NS slave2
+efcasjr 43200 IN NS slave
+ledoc 43200 IN NS slave
+egclabs 43200 IN NS ns.lec
+43200 IN NS ns.led
+43200 IN NS ns.npd
+oficinascad 43200 IN NS slave
+sibratecmbc 43200 IN NS slave
+leegi 43200 IN NS slave
+atleticaesa 43200 IN NS slave
+nplog 43200 IN NS slave
+suporte 43200 IN NS slave
+microbiologiadaagua 43200 IN NS slave
+catalogodeescritoras 43200 IN NS slave
+sbsi 43200 IN NS slave
+viagemdeestudo 43200 IN NS slave
+printserver03 1200 IN AAAA 2002:96a2:22b::96a2:22b
+1200 IN AAAA 2002:96a2:cc03::96a2:cc03
+printserver03 1200 IN A 150.162.2.43
+1200 IN A 150.162.204.3
+wolverine.ava 43200 IN A 150.162.41.5
+iteb 43200 IN NS ns.npd
+43200 IN NS server.ieb
+biotecnologia 43200 IN NS slave
+seagro 43200 IN NS slave
+dylton 43200 IN NS slave
+neurobiologiadoestresse 43200 IN NS slave
+tessituras 600 IN MX 10 tessituras
+caligeo 43200 IN NS slave
+cds 43200 IN NS slave
+kosmos 43200 IN NS slave
+semana 43200 IN NS slave
+nutrijr 43200 IN NS slave
+culturamovel 43200 IN NS slave
+cinema 43200 IN NS slave
+labcadcam 43200 IN NS slave
+observatoriodasaude 43200 IN NS slave
+teopoetica 43200 IN NS slave
+ramoieee 43200 IN NS slave
+gipedu 43200 IN NS slave
+forplad 43200 IN NS slave
+portal 43200 IN NS slave
+isae2013 43200 IN NS slave
+lefis 43200 IN NS slave
+secarte 43200 IN NS slave
+publicacoes 43200 IN NS slave
+semaqui 43200 IN NS slave
+arqbrasii 43200 IN NS slave
+jornalismonahistoria 43200 IN NS slave
+itno 43200 IN NS slave
+criticajuridica 43200 IN NS slave
+WHATSUPGOLD 1200 IN A 150.162.250.1
+sipccb2012 43200 IN NS slave
+posjor 43200 IN NS slave
+nelool 43200 IN NS slave
+batman 43200 IN NS slave
+dicionariodetradutores 43200 IN NS slave
+sisetec 43200 IN NS slave
+citosina.intelab 43200 IN A 150.162.72.1
+jurere.liict 43200 IN A 150.162.65.2
+siiris 43200 IN NS slave
+VM-Arthur 1200 IN AAAA 2801:84::1248:5438:c899:baf:86d4
+1200 IN AAAA 2801:84::1248:8d8c:b986:be90:1088
+VM-Arthur 1200 IN A 150.162.248.84
+bioinformatica 43200 IN NS slave
+cascgo 43200 IN NS slave
+produnews 43200 IN NS slave
+prefeituras 43200 IN NS ns.npd
+43200 IN NS ns.geness
+legis 43200 IN NS slave
+ecosciencias 43200 IN NS slave
+acesa 43200 IN NS slave
+server.apufsc 43200 IN A 150.162.85.1
+mycolleagues 43200 IN NS slave
+coloquio 43200 IN NS slave
+profor 43200 IN NS slave
+estacaodasbicicletas 43200 IN NS slave
+UFSC244753 1200 IN AAAA 2801:84::1047:4415:a2ef:b8b7:e9e7
+1200 IN AAAA 2801:84::1047:8c00:399b:c3df:6824
+UFSC244753 1200 IN A 150.162.47.110
+_caldavs._tcp 43200 IN SRV 10 5 8443 dav
+extracurricularingles 43200 IN NS slave
+UFSC244650 1200 IN AAAA 2801:84::1047:64ff:f5c1:b547:9228
+1200 IN AAAA 2801:84::1047:bc55:5cd7:44b2:b848
+UFSC244650 1200 IN A 150.162.47.67
+inovamid 43200 IN NS slave
+novocfm 43200 IN NS slave
+coordlinguasestrangeiras 43200 IN NS slave
+nucomo 43200 IN NS slave
+licenca 43200 IN NS slave
+pcemc 43200 IN NS slave
+bioengineering 43200 IN NS citosina.intelab
+webserv.fepese 43200 IN A 150.162.141.2
+disciplinasacl 43200 IN NS slave
+pgcm 43200 IN NS ns.npd
+43200 IN NS server.ieb
+coordenacaocnm 43200 IN NS slave
+gastro 43200 IN NS slave
+dns.nime 43200 IN A 150.162.57.254
+francistourinho 43200 IN NS slave
+posmec 43200 IN NS slave
+papociencia 43200 IN NS slave
+cin 43200 IN NS slave
+anima 43200 IN NS slave
+odontologia 43200 IN NS slave
+montez 43200 IN NS slave
+eticaprofissao 43200 IN NS slave
+ppgfarmaco 43200 IN NS slave
+enebi-2009 43200 IN NS slave
+estudantesafrica 43200 IN NS slave
+trilhasdoribeirao 43200 IN NS slave
+geimm 43200 IN NS slave
+uab 43200 IN NS slave
+labgeodin 43200 IN NS slave
+encontrodepublicacoes 43200 IN NS slave
+idemi2012 43200 IN NS slave
+classificados 43200 IN NS slave
+joel 43200 IN NS slave
+petemb 43200 IN NS slave
+crescersemviolencia 43200 IN NS slave
+editora 43200 IN NS slave
+intelab 43200 IN NS ns.npd
+43200 IN NS citosina.intelab
+femetro 43200 IN NS slave
+asascem 43200 IN NS slave
+observatorio 43200 IN NS slave
+medicina 43200 IN NS slave
+quasimodo.repres-ctc-cun 600 IN A 150.162.12.2
+UFSC244680 1200 IN AAAA 2801:84::1047:116e:c469:71d9:22e2
+1200 IN AAAA 2801:84::1047:26ed:d602:bf84:4ea4
+UFSC244680 1200 IN A 150.162.47.90
+UFSC244681 1200 IN AAAA 2801:84::1047:294d:b021:2f21:4a
+1200 IN AAAA 2801:84::1047:b8a6:ed2:6a1c:ded5
+UFSC244681 1200 IN A 150.162.47.74
+peteps 43200 IN NS slave
+forumaugm2014 43200 IN NS slave
+jpas 43200 IN NS slave
+TERMSOFTACAD 1200 IN AAAA 2801:84::1044:1ed2:8873:90a7:d2de
+1200 IN AAAA 2801:84::1044:345c:9268:1395:b721
+TERMSOFTACAD 1200 IN A 150.162.44.39
+sybase 600 IN CNAME sybase.npd
+unila 43200 IN NS slave
+prac 600 IN CNAME reitoria
+flordocampus 43200 IN NS slave
+saudecoletiva 43200 IN NS slave
+dcm 43200 IN NS slave
+vii-eneaam 43200 IN NS slave
+orquideas 43200 IN NS slave
+UFSC244701 1200 IN AAAA 2801:84::1047:1329:74ef:a65:d699
+1200 IN AAAA 2801:84::1047:6d47:8116:bf21:771f
+UFSC244701 1200 IN A 150.162.47.68
+graduacao 43200 IN NS slave
+enancib 43200 IN NS slave
+jornadafisioterapia 43200 IN NS slave
+UFSC244706 1200 IN AAAA 2801:84::1047:c57:6831:3734:d2cc
+1200 IN AAAA 2801:84::1047:5b49:2dd9:6609:e7cc
+UFSC244706 1200 IN A 150.162.47.143
+UFSC244697 1200 IN AAAA 2801:84::1047:2653:e4ee:a614:12ce
+1200 IN AAAA 2801:84::1047:99f5:db17:832c:41da
+UFSC244697 1200 IN A 150.162.47.36
+servicosocialjoi 43200 IN NS slave
+farmaciavivadohu 43200 IN NS slave
+telefones 43200 IN NS slave
+filosofiaantiga 43200 IN NS slave
+UFSC244709 1200 IN AAAA 2801:84::1047:31ff:78e1:99d7:bec7
+1200 IN AAAA 2801:84::1047:dd56:ccd:7baf:5c9
+UFSC244709 1200 IN A 150.162.47.121
+nucron 43200 IN NS slave
+redeufscsemfio 43200 IN NS slave
+labnita 43200 IN NS slave
+calimed 43200 IN NS slave
+aquicultura 43200 IN NS slave
+morrodobau 43200 IN NS slave
+escolaqueprotege 43200 IN NS slave
+gowin 43200 IN NS slave
+UFSC244716 1200 IN AAAA 2801:84::1047:6b5:3591:9073:a945
+1200 IN AAAA 2801:84::1047:f1e4:3c56:bf3e:bb22
+UFSC244716 1200 IN A 150.162.47.75
+segesp 43200 IN NS slave
+controleacesso 1200 IN A 150.162.162.3
+email 43200 IN A 150.162.2.10
+startup 43200 IN NS slave
+posticsenasp 43200 IN NS slave
+b6495884-ac63-4339-a614-4e357a36c6cb 43200 IN CNAME adufsc
+planejamento 43200 IN NS slave
+engecon 600 IN NS odin.eps
+inscricoes 43200 IN NS slave
+espanol 43200 IN NS slave
+gemco 43200 IN NS slave
+homologacao 43200 IN NS slave
+lacert 43200 IN NS slave
+literato 43200 IN NS slave
+rgv 43200 IN NS slave
+gelog 43200 IN NS slave
+projetomanguezal 43200 IN NS slave
+_ldap._tcp.default-first-site-name._sites 600 IN SRV 0 100 389 adufsc
+600 IN SRV 0 100 389 adufsc03
+600 IN SRV 0 100 389 adufsc04
+lemat 43200 IN NS slave
+telefonia 43200 IN NS slave
+lastro 43200 IN NS slave
+direitoshumanos 43200 IN NS slave
+UFSC244731 1200 IN AAAA 2801:84::1047:db7:1457:d99a:f522
+1200 IN AAAA 2801:84::1047:45c4:bbe8:243e:c1b5
+UFSC244731 1200 IN A 150.162.47.136
+nupeau 43200 IN NS slave
+aerodesign 43200 IN NS slave
+assediomoral 43200 IN NS slave
+evolucaoaplicada 43200 IN NS slave
+vestibulando 43200 IN NS slave
+ppghistoria 43200 IN NS slave
+habermas 43200 IN NS slave
+UFSC244734 1200 IN AAAA 2801:84::1047:798:3f35:3e54:42e4
+1200 IN AAAA 2801:84::1047:15a9:8457:5f97:4ce7
+UFSC244734 1200 IN A 150.162.47.86
+arquivos 43200 IN NS slave
+socialmedia 43200 IN NS slave
+fazendogenero6 43200 IN NS slave
+fazendogenero7 43200 IN NS slave
+coorarq 43200 IN NS slave
+fazendogenero9 43200 IN NS slave
+laam 43200 IN NS slave
+eadadm 43200 IN NS slave
+seprosul 43200 IN NS slave
+fejesc 43200 IN NS slave
+planetafisica 43200 IN NS slave
+cpl 43200 IN NS slave
+eolica 43200 IN NS slave
+tns 43200 IN NS slave
+laci 43200 IN NS slave
+museufritzplaumann 43200 IN NS slave
+marint 43200 IN NS slave
+UFSC244740 1200 IN AAAA 2801:84::1047:757:b40f:628:71c9
+1200 IN AAAA 2801:84::1047:81e6:330a:39:3161
+UFSC244740 1200 IN A 150.162.47.120
+lca 43200 IN NS slave
+helpdesk 43200 IN NS slave
+laed 43200 IN A 150.162.37.1
+laed 43200 IN NS dc.npd
+43200 IN NS laed
+laef 43200 IN NS slave
+sbseg2005 43200 IN NS slave
+gptool 43200 IN A 150.162.242.51
+laga 43200 IN NS slave
+ppgbqa 43200 IN NS slave
+oficinaderobotica 43200 IN NS slave
+petinf 43200 IN NS slave
+nico 43200 IN NS slave
+nupebisc 43200 IN NS slave
+sedimentos 43200 IN NS slave
+laif 43200 IN NS slave
+UFSC153390 1200 IN AAAA 2801:84::1047:262f:d754:ecbf:1
+1200 IN AAAA 2801:84::1047:41c3:27f7:c583:6f45
+UFSC153390 1200 IN A 150.162.47.69
+convenios 43200 IN NS slave
+gead 43200 IN NS slave
+emcjr 43200 IN NS slave
+lbbm 43200 IN NS slave
+numavam 43200 IN NS slave
+pingifes 43200 IN NS slave
+muralafrica 43200 IN NS slave
+web2 43200 IN NS slave
+poeticasdavoz 43200 IN NS slave
+orchidaceae-santacatarina 43200 IN NS slave
+e3 43200 IN NS slave
+nuperh 43200 IN NS slave
+sip._udp 43200 IN SRV 0 0 5060 ser.voip
+aclsc 43200 IN NS slave
+UFSC244758 1200 IN AAAA 2801:84::1047:3ad8:e026:3214:a90f
+1200 IN AAAA 2801:84::1047:d801:4627:e187:925d
+UFSC244758 1200 IN A 150.162.47.44
+ead 43200 IN NS slave
+principia 43200 IN NS slave
+tvd 43200 IN NS slave
+designcatarina 43200 IN NS slave
+ceventos 43200 IN NS slave
+pessoa 43200 IN NS slave
+_xmpp-server._tcp 43200 IN SRV 5 0 5269 xmpp
+roboturb 600 IN NS ns.npd
+600 IN NS labmetro
+lara 43200 IN NS slave
+ectjoinville 43200 IN NS slave
+larc 43200 IN NS slave
+suzuki 43200 IN NS slave
+SQLServer2008SP2 1200 IN A 150.162.2.199
+lari 43200 IN NS slave
+gastroenterologia 43200 IN NS slave
+larm 43200 IN NS slave
+quasimodo.wtr2004 600 IN A 150.162.12.2
+anpet 43200 IN NS slave
+aaamed 43200 IN NS slave
+ijkem 43200 IN NS slave
+seguranca 43200 IN NS slave
+ns.gsigma-grucon 43200 IN A 150.162.27.90
+cadastro 43200 IN NS slave
+biosseguranca 43200 IN NS slave
+lccp 43200 IN NS slave
+eventos 43200 IN NS slave
+harpia 43200 IN NS slave
+lbmm 43200 IN NS slave
+estudante 43200 IN NS slave
+engenhariaferroviaria 43200 IN NS slave
+platic 43200 IN NS slave
+edulei 43200 IN NS slave
+linse-gw.linse 43200 IN A 150.162.83.1
+projeteee 43200 IN NS slave
+nispe 43200 IN NS slave
+dbpro01 600 IN A 150.162.4.2
+journal 43200 IN NS slave
+fisica 43200 IN NS slave
+gpsam 43200 IN NS slave
+geosc 43200 IN NS slave
+prohumor 43200 IN NS slave
+labcitea 43200 IN NS slave
+siaer2015 43200 IN NS slave
+enancib2013 43200 IN NS slave
+gerpro 43200 IN NS slave
+sites 43200 IN NS slave
+ldap 43200 IN NS slave
+calipro 43200 IN NS slave
+fotolivre 43200 IN NS slave
+aajo 43200 IN NS slave
+lcme 43200 IN NS slave
+financas 43200 IN NS slave
+dns-r1 43200 IN AAAA 2801:84::1001:250:56ff:feb0:f2
+dns-r1 43200 IN A 150.162.1.33
+dns-r2 43200 IN AAAA 2801:84::2:250:56ff:feb0:f3
+dns-r2 43200 IN A 150.162.2.33
+botcem 43200 IN NS slave
+hepatologia 43200 IN NS slave
+periodontia 43200 IN NS slave
+competencia 43200 IN NS slave
+ca 43200 IN NS slave
+UFSC244670 1200 IN AAAA 2801:84::1047:1c15:f691:20ab:f428
+1200 IN AAAA 2801:84::1047:8960:4ac7:8036:1ac4
+UFSC244670 1200 IN A 150.162.47.39
+klom 43200 IN NS ns.led
+43200 IN NS ns.npd
+ns.voip 43200 IN A 150.162.189.31
+brasilnorteasul 43200 IN NS slave
+abet 43200 IN NS slave
+travessiapacificoatlantico 43200 IN NS slave
+anpur 43200 IN NS slave
+voip 43200 IN NS ns.voip
+43200 IN NS ns2.voip
+www.estagio 43200 IN A 150.162.242.23
+banheiroseco 43200 IN NS slave
+codecer 600 IN NS ns.npd
+600 IN NS materiais
+grama 43200 IN NS slave
+eadceped 43200 IN NS ns.led
+43200 IN NS ns.npd
+nasdesign 43200 IN NS slave
+macrocontabilidade 43200 IN NS slave
+abjc 43200 IN NS slave
+leap 43200 IN NS slave
+encontrohistoriasm 43200 IN NS slave
+lebm 43200 IN NS slave
+vitormarinho 43200 IN NS slave
+eed 43200 IN NS slave
+cibio 43200 IN NS slave
+dicionarionepom 43200 IN NS slave
+jornada2005 43200 IN NS slave
+literaturainfantiljuvenilsc 43200 IN NS slave
+ns1.sc.gov.br. 43200 IN A 200.19.215.1
+interop 43200 IN NS slave
+geem 43200 IN NS slave
+petdireito 43200 IN NS slave
+nupeds 43200 IN NS slave
+cienciaempauta 43200 IN NS slave
+48ceo 43200 IN NS slave
+labcontrole 43200 IN NS ns.npd
+43200 IN NS sol.labspot
+atermicas 43200 IN NS slave
+speckle2010 43200 IN NS ns.ndp
+43200 IN NS ns.labmetro
+cipeel 600 IN NS peteel
+abop 43200 IN NS slave
+sol.lcmi 600 IN A 150.162.12.3
+gesad 43200 IN NS slave
+atendimento 43200 IN A 150.162.242.119
+nupaf 43200 IN NS slave
+petterini 43200 IN NS slave
+saudeidoso 43200 IN NS slave
+dc.npd 43200 IN A 150.162.2.1
+ldrx 43200 IN NS slave
+semaq 43200 IN NS slave
+UFSC244604 1200 IN AAAA 2801:84::1047:3176:19b3:7103:ff2d
+1200 IN AAAA 2801:84::1047:f03d:d296:e4e5:7639
+UFSC244604 1200 IN A 150.162.47.43
+nupec 43200 IN NS slave
+nuped 43200 IN NS slave
+agronomia 43200 IN NS slave
+coletivosaude 43200 IN NS slave
+laboratorioembriologia 43200 IN NS slave
+prolicen 43200 IN NS slave
+lemp 43200 IN NS slave
+petmtm 43200 IN NS slave
+calouros 43200 IN NS slave
+saudeprisional 43200 IN NS slave
+semanadeteatro 43200 IN NS slave
+lfdgv 43200 IN NS slave
+calendario 43200 IN NS slave
+vram 43200 IN NS slave
+dpi 43200 IN NS slave
+posgraduacao 43200 IN NS slave
+leta 43200 IN NS slave
+planodiretor 43200 IN NS slave
+portaladm 43200 IN NS slave
+pibe 43200 IN NS slave
+telemedicina 43200 IN NS slave
+latin.gpweb 43200 IN A 150.162.242.23
+chapa4 43200 IN NS slave
+geteq 43200 IN NS slave
+repositorio 43200 IN NS slave
+transes 43200 IN NS slave
+universosilhas 43200 IN NS slave
+novomtm 43200 IN NS slave
+lab-dmc-ns 43200 IN NS slave
+aefc 43200 IN NS slave
+nupra 43200 IN NS slave
+meninasdigitais 43200 IN NS slave
+poite 43200 IN NS slave
+cthab 43200 IN NS slave
+floripa 43200 IN NS slave
+nephijor 43200 IN NS slave
+cisufsc 43200 IN NS slave
+adsl 43200 IN NS slave
+lattes 43200 IN NS slave
+labling 43200 IN NS slave
+cyclops 43200 IN NS slave
+petmcem 43200 IN NS slave
+nures 43200 IN NS slave
+cadernos 43200 IN NS slave
+senhas 43200 IN A 150.162.2.73
+citizenkane.robocup 600 IN A 150.162.14.100
+comunicajr 43200 IN NS slave
+jornaldocce 43200 IN NS slave
+cifes 43200 IN NS slave
+UFSC244586 1200 IN AAAA 2801:84::1047:3510:d88e:2b12:652b
+1200 IN AAAA 2801:84::1047:3d29:21c9:9b9:e04
+UFSC244586 1200 IN A 150.162.47.26
+UFSC244588 1200 IN AAAA 2801:84::1047:482a:99c0:a3d8:cfae
+1200 IN AAAA 2801:84::1047:81a1:66dd:7ca3:b19
+UFSC244588 1200 IN A 150.162.47.60
+nupffale 43200 IN NS slave
+portalccj 43200 IN NS slave
+hidroponia 43200 IN NS slave
+UFSC244597 1200 IN AAAA 2801:84::1047:9117:9a12:6134:103c
+1200 IN AAAA 2801:84::1047:e9d2:704a:d05b:6c93
+UFSC244597 1200 IN A 150.162.47.116
+UFSC244598 1200 IN AAAA 2801:84::1047:c1a:6489:6e07:edc2
+1200 IN AAAA 2801:84::1047:f586:1e2d:4b10:7fa1
+UFSC244598 1200 IN A 150.162.47.30
+musicaecultura 43200 IN NS slave
+UFSC244612 1200 IN AAAA 2801:84::1047:7f7a:bbbc:659c:539
+1200 IN AAAA 2801:84::1047:88c3:7737:2145:a8c7
+UFSC244612 1200 IN A 150.162.47.113
+getts 43200 IN NS slave
+lgti 43200 IN NS slave
+liat 43200 IN NS slave
+portalcds 43200 IN NS slave
+UFSC244623 1200 IN AAAA 2801:84::1047:babf:d5ed:8e39:4e6d
+1200 IN AAAA 2801:84::1047:c936:1338:4dde:2565
+UFSC244623 1200 IN A 150.162.47.91
+sintufsc 43200 IN NS server03.sintufsc
+fernanda-g-carvalho 43200 IN NS slave
+portalcfh 43200 IN NS slave
+sepef2012 43200 IN NS slave
+lidi 43200 IN NS slave
+egressos 43200 IN NS slave
+UFSC244643 1200 IN AAAA 2801:84::1047:1208:35af:cb02:56bc
+1200 IN AAAA 2801:84::1047:217e:72f8:be01:8a2e
+UFSC244643 1200 IN A 150.162.47.201
+urm 43200 IN NS slave
+UFSC244648 1200 IN AAAA 2801:84::1047:20cf:8e51:4297:20ec
+1200 IN AAAA 2801:84::1047:a270:d816:b6d3:1a7f
+UFSC244648 1200 IN A 150.162.47.61
+UFSC244649 1200 IN AAAA 2801:84::1047:9b8:823f:1:ff6b
+1200 IN AAAA 2801:84::1047:e4dc:340f:b325:bd38
+UFSC244649 1200 IN A 150.162.47.57
+UFSC244651 1200 IN AAAA 2801:84::1047:57d5:60ac:9fce:ae29
+1200 IN AAAA 2801:84::1047:5841:5fe:9e43:4886
+UFSC244651 1200 IN A 150.162.47.37
+UFSC244652 1200 IN AAAA 2801:84::1047:6a69:6cde:1fc5:3fd6
+1200 IN AAAA 2801:84::1047:b017:9dca:3dad:7476
+UFSC244652 1200 IN A 150.162.47.65
+UFSC244653 1200 IN AAAA 2801:84::1047:81fd:d7b3:3ce3:2c3e
+1200 IN AAAA 2801:84::1047:cc29:ae68:d9e:20a1
+UFSC244653 1200 IN A 150.162.47.48
+UFSC244654 1200 IN AAAA 2801:84::1047:d572:ce4f:9d2c:c308
+1200 IN AAAA 2801:84::1047:ff73:f198:eb59:876e
+UFSC244654 1200 IN A 150.162.47.66
+antiga 43200 IN A 150.162.1.152
+liga 43200 IN NS slave
+producaoeletrica 43200 IN NS slave
+prolibras 43200 IN NS slave
+UFSC244664 1200 IN AAAA 2801:84::1047:1dc7:6b79:1f3e:c22f
+1200 IN AAAA 2801:84::1047:fdc2:2f0e:cf1:303c
+UFSC244664 1200 IN A 150.162.47.78
+UFSC244665 1200 IN AAAA 2801:84::1047:306b:feb8:28e3:ba02
+1200 IN AAAA 2801:84::1047:84c0:f845:efbf:c130
+UFSC244665 1200 IN A 150.162.47.79
+UFSC244666 1200 IN AAAA 2801:84::1047:a50c:e637:a026:59f5
+1200 IN AAAA 2801:84::1047:adc3:c48b:9835:545b
+UFSC244666 1200 IN A 150.162.47.41
+petbiologia 43200 IN NS slave
+UFSC244669 1200 IN AAAA 2801:84::1047:202e:971:241c:bed9
+1200 IN AAAA 2801:84::1047:912f:3bf7:dee7:20ad
+UFSC244669 1200 IN A 150.162.47.92
+UFSC244671 1200 IN AAAA 2801:84::1047:7049:6ace:a26a:2005
+1200 IN AAAA 2801:84::1047:a732:6b97:b2c2:2283
+UFSC244671 1200 IN A 150.162.47.64
+UFSC244673 1200 IN AAAA 2801:84::1047:1b5:ebea:9933:c12d
+1200 IN AAAA 2801:84::1047:1325:2ca7:1c24:7a35
+UFSC244673 1200 IN A 150.162.47.96
+UFSC244674 1200 IN AAAA 2801:84::1047:1354:d179:2882:367b
+1200 IN AAAA 2801:84::1047:c9ce:7d43:f169:8270
+UFSC244674 1200 IN A 150.162.47.106
+labrural 43200 IN NS slave
+UFSC244676 1200 IN AAAA 2801:84::1047:adf6:de40:fec3:815d
+1200 IN AAAA 2801:84::1047:f78f:2a9a:127a:fac
+UFSC244676 1200 IN A 150.162.47.94
+UFSC244677 1200 IN AAAA 2801:84::1047:b7d7:de44:c6f4:511d
+1200 IN AAAA 2801:84::1047:d8a4:c657:7888:c64b
+UFSC244677 1200 IN A 150.162.47.19
+littrad 43200 IN NS slave
+fotografia 43200 IN NS slave
+marque 43200 IN NS slave
+UFSC244688 1200 IN AAAA 2801:84::1047:393d:23:f7b5:29a8
+1200 IN AAAA 2801:84::1047:5dd6:ddcc:fc57:cbc8
+UFSC244688 1200 IN A 150.162.47.17
+UFSC244689 1200 IN AAAA 2801:84::1047:1fb:3b2f:dbd1:c15
+1200 IN AAAA 2801:84::1047:50f:82be:b12:f8e7
+UFSC244689 1200 IN A 150.162.47.5
+UFSC244691 1200 IN AAAA 2801:84::1047:20b0:5f48:d0bc:629f
+1200 IN AAAA 2801:84::1047:855f:9d30:57b3:e9c8
+UFSC244691 1200 IN A 150.162.47.70
+CarlosMoresco 1200 IN A 150.162.248.126
+UFSC244703 1200 IN AAAA 2801:84::1047:bbde:a6e0:5f0b:cd0d
+1200 IN AAAA 2801:84::1047:f4c6:732a:1047:53a4
+UFSC244703 1200 IN A 150.162.47.42
+UFSC244704 1200 IN AAAA 2801:84::1047:88:6155:8802:6867
+1200 IN AAAA 2801:84::1047:efa1:6349:87cc:cd8e
+UFSC244704 1200 IN A 150.162.47.131
+prdhs 43200 IN NS slave
+UFSC244696 1200 IN AAAA 2801:84::1047:8a70:7f1e:f76c:a3f8
+1200 IN AAAA 2801:84::1047:ec7b:2fc2:9ac7:3fdf
+UFSC244696 1200 IN A 150.162.47.51
+santander22364 1200 IN AAAA 2801:84::1168:b3b:9293:7ad1:cb77
+1200 IN AAAA 2801:84::1168:481a:edaf:e249:aadb
+santander22364 1200 IN A 150.162.168.20
+UFSC244698 1200 IN AAAA 2801:84::1047:916a:367e:823:6fff
+1200 IN AAAA 2801:84::1047:e331:d7bc:b478:1eb8
+UFSC244698 1200 IN A 150.162.47.55
+UFSC244699 1200 IN AAAA 2801:84::1047:20de:70ca:e37d:ca97
+1200 IN AAAA 2801:84::1047:a5fa:a3f5:9bc4:5b2d
+UFSC244699 1200 IN A 150.162.47.98
+UFSC244712 1200 IN AAAA 2801:84::1047:6cdd:92ef:91be:7059
+1200 IN AAAA 2801:84::1047:b07f:8123:e9c5:afbb
+UFSC244712 1200 IN A 150.162.47.81
+UFSC244713 1200 IN AAAA 2801:84::1047:bc3:2993:c308:cc30
+1200 IN AAAA 2801:84::1047:19e4:618b:b4c0:e2bb
+UFSC244713 1200 IN A 150.162.47.107
+UFSC244714 1200 IN AAAA 2801:84::1047:11b8:d07a:4f0e:8f5d
+1200 IN AAAA 2801:84::1047:d192:c6dd:4950:71f6
+UFSC244714 1200 IN A 150.162.47.72
+labdren 43200 IN NS slave
+UFSC244717 1200 IN AAAA 2801:84::1047:24f7:de75:b0ad:a624
+1200 IN AAAA 2801:84::1047:8890:9d12:8b33:1715
+UFSC244717 1200 IN A 150.162.47.56
+emtese 43200 IN NS slave
+UFSC244723 1200 IN AAAA 2801:84::1047:2349:7deb:57fe:13bb
+1200 IN AAAA 2801:84::1047:58c6:70af:4e95:c6b9
+UFSC244723 1200 IN A 150.162.47.38
+UFSC244727 1200 IN AAAA 2801:84::1047:831:9de7:3a22:c511
+1200 IN AAAA 2801:84::1047:98d2:c687:9154:1014
+UFSC244727 1200 IN A 150.162.47.83
+UFSC244729 1200 IN AAAA 2801:84::1047:95ff:5ee1:b2ee:de32
+1200 IN AAAA 2801:84::1047:a8f7:2c2e:dc1a:52b8
+UFSC244729 1200 IN A 150.162.47.103
+gial2016 43200 IN NS slave
+UFSC244732 1200 IN AAAA 2801:84::1047:7de1:4334:1feb:a210
+1200 IN AAAA 2801:84::1047:fd8b:419f:dd68:4459
+UFSC244732 1200 IN A 150.162.47.77
+UFSC244733 1200 IN AAAA 2801:84::1047:5383:8df3:aaa6:8b18
+1200 IN AAAA 2801:84::1047:c0b4:1e8:80dd:2b97
+UFSC244733 1200 IN A 150.162.47.80
+falafloripa 43200 IN NS slave
+UFSC244735 1200 IN AAAA 2801:84::1047:5da7:d844:9cc9:a01
+1200 IN AAAA 2801:84::1047:87ed:f470:6fb4:7ae4
+UFSC244735 1200 IN A 150.162.47.104
+parquesfauna 43200 IN NS slave
+UFSC220314 1200 IN AAAA 2801:84::1248:cd2d:15ad:a063:6341
+1200 IN AAAA 2801:84::1248:e159:9d68:7682:e180
+UFSC220314 1200 IN A 150.162.248.73
+1200 IN A 172.10.160.73
+UFSC244739 1200 IN AAAA 2801:84::1047:633b:6c74:1752:2653
+1200 IN AAAA 2801:84::1047:b800:3292:304e:ee3c
+UFSC244739 1200 IN A 150.162.47.102
+UFSC244743 1200 IN AAAA 2801:84::1047:402c:8104:3594:9472
+1200 IN AAAA 2801:84::1047:b876:d904:961f:98a9
+UFSC244743 1200 IN A 150.162.47.99
+estagiosmen 43200 IN NS slave
+UFSC244745 1200 IN AAAA 2801:84::1047:6c2b:b3af:2ece:ff31
+1200 IN AAAA 2801:84::1047:af2c:e4a9:3093:3472
+UFSC244745 1200 IN A 150.162.47.50
+UFSC244746 1200 IN AAAA 2801:84::1047:1f77:7ad3:75cd:3933
+1200 IN AAAA 2801:84::1047:602f:9c73:ad25:8e19
+UFSC244746 1200 IN A 150.162.47.114
+rodadehistorias 43200 IN NS slave
+UFSC244748 1200 IN AAAA 2801:84::1047:98eb:c195:13ac:a802
+1200 IN AAAA 2801:84::1047:b379:9eae:73f7:720a
+UFSC244748 1200 IN A 150.162.47.93
+UFSC244750 1200 IN AAAA 2801:84::1047:4471:29b1:fe53:99bb
+1200 IN AAAA 2801:84::1047:90d3:e39e:cf07:b9c8
+UFSC244750 1200 IN A 150.162.47.100
+dcesabermudar 43200 IN NS slave
+UFSC244754 1200 IN AAAA 2801:84::1047:1829:53ac:834c:aae2
+1200 IN AAAA 2801:84::1047:7d33:7047:2390:4957
+UFSC244754 1200 IN A 150.162.47.105
+agecom 43200 IN NS slave
+UFSC244756 1200 IN AAAA 2801:84::1047:5e4:e03d:c609:a9b6
+1200 IN AAAA 2801:84::1047:3c79:dc3:d6e2:d3e5
+UFSC244756 1200 IN A 150.162.47.133
+UFSC244757 1200 IN AAAA 2801:84::1047:4bb:89cc:707a:6f20
+1200 IN AAAA 2801:84::1047:b5e5:609f:54de:967e
+UFSC244757 1200 IN A 150.162.47.12
+oceanografia 43200 IN NS slave
+ecaej 43200 IN NS slave
+musica 43200 IN NS slave
+impressao 43200 IN NS slave
+liop 43200 IN NS slave
+portalcse 43200 IN NS slave
+teste-moodle 43200 IN NS slave
+quasimodo.anpet2004 43200 IN A 150.162.12.2
+lisa 43200 IN NS slave
+mail 43200 IN NS slave
+cainter 43200 IN NS ns.led
+43200 IN NS slave
+notesieb 43200 IN NS ns.npd
+43200 IN NS server.ieb
+filosofia 43200 IN NS slave
+pgquimica 43200 IN NS slave
+jeancastro 43200 IN NS slave
+liuf 43200 IN NS slave
+UFSC244690 1200 IN AAAA 2801:84::1047:188b:67af:3dc6:29d4
+1200 IN AAAA 2801:84::1047:c5a5:4004:8b64:ff9d
+UFSC244690 1200 IN A 150.162.47.97
+agua 43200 IN NS slave
+guiadefontes 43200 IN A 150.162.2.10
+esusab 43200 IN NS slave
+me 43200 IN NS slave
+admin 43200 IN NS slave
+gufsc.softwarelivre 43200 IN A 150.162.60.141
+mapa 43200 IN NS slave
+cadastrocomunidade 43200 IN NS slave
+coloquioconesul 43200 IN NS slave
+cartadeservicos 43200 IN NS slave
+ppgect 43200 IN NS slave
+drosophila 43200 IN NS slave
+clinicamedica 43200 IN NS slave
+aqinarua 43200 IN NS slave
+ns.labplan 43200 IN A 150.162.19.204
+graphica2013 43200 IN NS slave
+grife 43200 IN NS slave
+luteria 43200 IN NS slave
+aikido 43200 IN NS slave
+neogap 43200 IN NS slave
+victurino 43200 IN NS slave
+ala1460 43200 IN NS slave
+vijornadascatarinensespm 43200 IN NS slave
+portalfil 43200 IN NS slave
+editoriaemdebate 43200 IN NS slave
+petengenhariamobilidade 43200 IN NS slave
+cogepi 43200 IN NS slave
+gepecisc 43200 IN NS slave
+vivianeklein 43200 IN NS slave
+interalimentos2012 43200 IN NS slave
+posnutri 43200 IN NS slave
+ppgau 43200 IN NS slave
+grima 43200 IN NS slave
+43200 IN NS slave2
+grupoepeja 43200 IN NS slave
+baja 43200 IN NS slave
+ppgcm 43200 IN NS slave
+professor 43200 IN NS slave
+enejr 43200 IN NS slave
+ppgea 43200 IN NS slave
+lmcc 43200 IN NS slave
+ppgef 43200 IN NS slave
+lmbv 43200 IN NS slave
+ppgep 43200 IN NS slave
+santander22374 1200 IN AAAA 2801:84::1168:2615:64b1:2f63:e897
+1200 IN AAAA 2801:84::1168:f82b:9fad:ae0c:ce8
+santander22374 1200 IN A 150.162.168.28
+correcaodefluxoescolar 43200 IN NS slave
+nuppre 43200 IN NS slave
+sobrac 43200 IN NS slave
+gsigma-grucon 43200 IN NS ns.npd
+43200 IN NS ns.gsigma-grucon
+aquaseg 43200 IN NS slave
+fia 43200 IN NS slave
+laship 43200 IN NS slave
+bbet 43200 IN NS slave
+casulo 43200 IN NS slave
+procuradoriafederal 43200 IN NS slave
+necodi 43200 IN NS slave
+slave 43200 IN A 150.162.1.84
+43200 IN A 150.162.242.74
+observatoriometroferro 43200 IN NS slave
+observatoriomercosul 43200 IN NS slave
+eneri 43200 IN NS slave
+feesc 43200 IN NS ns3.feesc.org.br.
+43200 IN NS ns4.feesc.org.br.
+empag 43200 IN NS slave
+graduacaohistoria 43200 IN NS slave
+indicacaogeografica 43200 IN NS slave
+comunicacao 43200 IN NS slave
+biodiversidade 43200 IN NS slave
+processoviverhumano 43200 IN NS slave
+machadodeassis 43200 IN NS slave
+laborpeci 43200 IN NS slave
+bscca 43200 IN NS slave
+conexaosaude 43200 IN NS slave
+efernando 43200 IN NS slave
+ppgri 43200 IN NS slave
+ppgsc 43200 IN NS slave
+lmpt 43200 IN NS ns.npd
+43200 IN NS iridio.lmpt
+campanha2012 43200 IN NS slave
+ppgsp 43200 IN NS slave
+bscfm 43200 IN NS jurere.mtm
+ppgss 43200 IN NS slave
+proinfra 43200 IN NS slave
+mnemosine 43200 IN NS slave
+necont 43200 IN NS slave
+eneri2012 43200 IN NS slave
+ifac-oilfield 43200 IN NS slave
+ri 43200 IN NS slave
+gestar 43200 IN NS slave
+copa-trad 43200 IN NS slave
+transito 43200 IN NS slave
+melo 43200 IN NS slave
+resi 43200 IN NS slave
+audiolivros 43200 IN NS slave
+db2pro01 600 IN CNAME db2pro01.servers.npd
+materiaestelar 43200 IN NS slave
+arquivocentral 43200 IN NS slave
+gestaoambiental 43200 IN NS slave
+prograd 43200 IN NS slave
+labinfo1 43200 IN NS slave
+julianabergmann 43200 IN NS slave
+dnsufsc01 43200 IN AAAA 2801:84::2:150:162:2:69
+dnsufsc01 43200 IN A 150.162.2.69
+dnsufsc02 43200 IN AAAA 2801:84::2:150:162:2:67
+dnsufsc02 43200 IN A 150.162.2.67
+logo 43200 IN NS slave
+contabilidade 43200 IN NS slave
+memoriapolitica 43200 IN NS slave
+sillic 43200 IN NS slave
+gav 43200 IN NS slave
+sol.wtr2004 600 IN A 150.162.12.3
+adufsc 43200 IN AAAA 2801:84:0:1001::69
+43200 IN AAAA 2801:84::1001:1448:8da0:3b5b:d634
+adufsc 43200 IN A 150.162.1.69
+sistemascce 43200 IN NS slave
+capacitacao.gpweb 43200 IN A 150.162.242.23
+forum 43200 IN NS ns.npd
+43200 IN NS ns.telemedicina
+anba 43200 IN NS slave
+cermat 43200 IN NS slave
+labmico 43200 IN NS slave
+capes-fipse 43200 IN NS slave
+lpds 43200 IN NS ns.npd
+43200 IN NS server.lpds
+whatsup 43200 IN A 150.162.250.1
+labinfor 43200 IN NS slave
+historia50anos 43200 IN NS slave
+nadec 43200 IN NS slave
+ppgcc 43200 IN NS slave
+nepalp 43200 IN NS slave
+gthidro 43200 IN NS slave
+gestor 43200 IN NS slave
+hiperv 43200 IN NS slave
+ufscmelhor 43200 IN NS slave
+comunidade 43200 IN NS slave
+cb3e 43200 IN NS slave
+jornadabio 43200 IN NS slave
+davalos 43200 IN NS slave
+epifloripa 43200 IN NS slave
+sbenbio3 43200 IN NS slave
+xsimpurb 43200 IN NS slave
+valores 43200 IN NS slave
+lanespe 43200 IN NS slave
+gpqcom 43200 IN NS slave
+sismob 43200 IN NS slave
+xmpp 43200 IN NS slave
+teste.gpweb 43200 IN A 150.162.242.23
+homologacao2 43200 IN NS slave
+policom 43200 IN NS slave
+translog 43200 IN NS slave
+drosofilideos 43200 IN NS slave
+estagio 43200 IN A 150.162.242.23
+agroecologia2005 43200 IN NS slave
+lvapli 43200 IN NS slave
+tecnologiasinclusivas 43200 IN NS slave
+solarpreproducao 43200 IN NS slave
+alers 43200 IN NS slave
+observatoriodolitoral 43200 IN NS slave
+secretaria-eps 43200 IN NS slave
+vm 43200 IN NS slave
+fernandes 43200 IN NS slave
+lras 43200 IN NS slave
+obrasraras 43200 IN NS slave
+equipecatarina 43200 IN NS slave
+floripasat 43200 IN NS slave
+nafar 43200 IN NS slave
+beto 43200 IN NS slave
+posgraduacaomecanica 43200 IN NS slave
+vivaciencia 43200 IN NS slave
+05863140 43200 IN CNAME google.com.
+saudepublica 43200 IN NS slave
+psicoinfo 43200 IN NS slave
+posmci 43200 IN NS slave
+redesementesul 43200 IN NS slave
+santaafrocatarina 43200 IN NS slave
+galeria 43200 IN NS slave
+SISTEMASDSI 1200 IN AAAA 2002:96a2:f236::96a2:f236
+SISTEMASDSI 1200 IN A 150.162.242.54
+cidadeesociedade 43200 IN NS slave
+saene 43200 IN NS slave
+saeng 43200 IN NS slave
+simposioflorestal 43200 IN NS slave
+ws 43200 IN NS slave
+portasabertas 43200 IN NS slave
+saeqa 43200 IN NS slave
+labectomicorrizas 43200 IN NS slave
+sisceram 43200 IN NS slave
+subtropicos 43200 IN NS slave
+portalccs 43200 IN NS slave
+nepedi 43200 IN NS slave
+tvdigital 43200 IN NS slave
+textoecontexto 43200 IN NS slave
+projeto1230 43200 IN NS slave
+ruido 43200 IN NS slave
+coloquiocomcientifica 43200 IN NS slave
+nusserge 43200 IN NS slave
+vestibular2002 43200 IN NS slave
+vestibular2003 43200 IN NS slave
+quasimodo.lcmi 600 IN A 150.162.12.2
+vestibular2005 43200 IN NS slave
+vestibular2006 43200 IN NS slave
+vestibular2007 43200 IN NS slave
+vestibular2008 43200 IN NS slave
+vestibular2009 43200 IN NS slave
+vestibular2011 43200 IN NS slave
+biosferacatarina 43200 IN NS slave
+vestibular2013 43200 IN NS slave
+agenda 43200 IN NS slave
+vestibular2015 43200 IN NS slave
+dicespanhol 43200 IN NS slave
+master 43200 IN A 150.162.242.64
+pesquisaeextensaoca 43200 IN NS slave
+riomais20sc 43200 IN NS slave
+forgrad 43200 IN NS slave
+citizenkane.srds2004 600 IN A 150.162.14.100
+neurobica 43200 IN NS slave
+troteintegrado 43200 IN NS slave
+bioinfo 43200 IN NS slave
+brasilplural 43200 IN NS slave
+biosanta 43200 IN NS citosina.intelab
+labclimagri 43200 IN NS slave
+speckle10 43200 IN NS ns.ndp
+43200 IN NS ns.labmetro
+peteel 43200 IN NS slave
+labclima 43200 IN NS slave
+jornal 43200 IN NS slave
+semanaclarice 43200 IN NS slave
+UFSC244744 1200 IN AAAA 2801:84::1047:e4c8:a2ae:42b3:2124
+1200 IN AAAA 2801:84::1047:f434:418d:3165:8eeb
+UFSC244744 1200 IN A 150.162.47.7
+manutencao 43200 IN A 150.162.3.1
+aric 43200 IN NS slave
+rmav-fln 600 IN NS dc.npd
+conselhos 43200 IN NS slave
+prodocencia 43200 IN NS slave
+caad 43200 IN NS slave
+agronomiacbs 43200 IN NS slave
+acoes-afirmativas 43200 IN NS slave
+naui 43200 IN NS slave
+caaq 43200 IN NS slave
+cabi 43200 IN NS slave
+funjab 43200 IN NS slave
+cade 43200 IN NS slave
+guilhermemoura 43200 IN NS slave
+ciclo2004 43200 IN NS slave
+ciclo2006 43200 IN NS slave
+ciclo2007 43200 IN NS slave
+autenticidade 43200 IN NS slave
+radiologiaodontologica 43200 IN NS slave
+caee 43200 IN NS slave
+cafb 43200 IN NS slave
+cael 43200 IN NS slave
+xxxieneh 43200 IN NS slave
+cafe 43200 IN NS slave
+externos 43200 IN NS slave
+menulab 43200 IN NS slave
+biblioteconomia 43200 IN NS slave
+cognicao 43200 IN NS slave
+gshst 43200 IN NS slave
+dicite 43200 IN NS slave
+avecbrasil 43200 IN NS slave
+cagr 43200 IN NS slave
+tarefas 43200 IN NS slave
+planejaprae 43200 IN NS slave
+contabilidadesocial 43200 IN NS slave
+arte 43200 IN NS slave
+labantibio 43200 IN NS slave
+cala 43200 IN NS slave
+calb 43200 IN NS slave
+cale 43200 IN NS slave
+calf 43200 IN NS slave
+calh 43200 IN NS slave
+enfermagem-teste 43200 IN NS slave
+henriquespada 43200 IN NS slave
+call 43200 IN NS slave
+came 43200 IN NS slave
+enciclotrad 43200 IN NS slave
+UFSC153427 1200 IN AAAA 2801:84::1047:9527:80a8:e8e7:1565
+1200 IN AAAA 2801:84::1047:f428:b779:d32a:b224
+UFSC153427 1200 IN A 150.162.47.73
+eventoaids 43200 IN NS slave
+nepegeo 43200 IN NS slave
+camp 43200 IN NS slave
+inovatorium 43200 IN NS slave
+www3 600 IN A 150.162.1.149
+ppgo 43200 IN NS slave
+cbeu 43200 IN NS slave
+divulgacaodafisica 43200 IN NS slave
+topografia 43200 IN NS slave
+bsjoi 43200 IN NS slave
+animacatarina 43200 IN NS slave
+glossariolibras 43200 IN NS slave
+cepedcursos 43200 IN NS ns.led
+43200 IN NS ns.npd
+cotidiano 43200 IN NS slave
+olimpiadas 43200 IN NS slave
+cari 43200 IN NS slave
+googleffffffffcca80633 43200 IN CNAME google.com.
+spgquimica 43200 IN NS slave
+ADufsc02 1200 IN AAAA 2801:84:0:2::100
+ADufsc02 1200 IN A 150.162.2.4
+adufsc03 43200 IN A 150.162.1.67
+adufsc04 43200 IN A 150.162.1.66
+nepef 43200 IN NS slave
+cultura 43200 IN NS slave
+teachduino 43200 IN NS slave
+epeja 43200 IN NS slave
+babitonga 43200 IN NS slave
+tearad 43200 IN NS slave
+herpetologia 43200 IN NS slave
+pensarocinema 43200 IN NS slave
+abepss 43200 IN NS slave
+usicon 43200 IN NS slave
+telessaude 43200 IN NS slave
+ccev 43200 IN NS slave
+labmorf 43200 IN NS slave
+relacoesinternacionais 43200 IN NS slave
+UFSC244737 1200 IN AAAA 2801:84::1047:2fab:b05e:7f22:886d
+1200 IN AAAA 2801:84::1047:d0d8:c151:5cb0:280f
+UFSC244737 1200 IN A 150.162.47.101
+electrum 43200 IN NS slave
+dev.idufsc 43200 IN A 150.162.248.85
+grude 43200 IN NS slave
+abrapt 43200 IN NS slave
+fortalezas 43200 IN NS slave
+pepco 43200 IN NS slave
+justicaeconstituicao 43200 IN NS slave
+master1 43200 IN A 150.162.242.78
+liaaq 43200 IN NS slave
+nemu 43200 IN NS slave
+nepe 43200 IN NS slave
+nepi 43200 IN NS slave
+sicafi 43200 IN NS slave
+nepp 43200 IN NS slave
+engenhariabiomecanica 43200 IN NS slave
+uniaodasaguas 43200 IN NS slave
+trangelidb 43200 IN NS slave
+secult 43200 IN NS slave
+mail._domainkey 43200 IN TXT "v=DKIM1; g=*; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/hNlFRwrwmM76J24E1fXdWMIzP8qv1YVJj0xnuPhYcHYAA8BZK1EB48icxbNVaV+HwMmaqZ+cXwbcEJ4ilj8exYiEYUbvYV5tMPf+gybPgjN5rrwAIdTMjskaNPwbcwc3fcL9ImkFEZJm2yTOH+poPH5bzmY+I3GRse52d+clMwIDAQAB"
+neta 43200 IN NS slave
+cead 43200 IN NS slave
+nesp 43200 IN NS slave
+neti 43200 IN NS slave
+sol.eneca 43200 IN A 150.162.12.3
+congressodireito 43200 IN NS slave
+adaptativaweb 43200 IN NS slave
+caoqa 43200 IN NS slave
+mpef 43200 IN NS slave
+grupo 43200 IN NS slave
+aberta 43200 IN NS slave
+escola.ene 600 IN A 150.162.99.1
+bibli 43200 IN NS slave
+saudedafamilia 43200 IN NS slave
+more 43200 IN NS slave
+cursoapadeanhatomirim 43200 IN NS slave
+gmpope 43200 IN NS slave
+giate 43200 IN NS slave
+ecpibid 43200 IN NS slave
+cruzeirodosul 43200 IN NS slave
+polimat 43200 IN NS slave
+etografo 43200 IN NS ns.npd
+43200 IN NS server.ieb
+anpecsul2011 43200 IN NS mj.fepese
+43200 IN NS webserv.fepese
+desenvolvimento 600 IN MX 10 desenvolvimento
+gqs 43200 IN NS slave
+historia 43200 IN NS slave
+mees 43200 IN NS ns.led
+43200 IN NS ns.npd
+siiepe2015 43200 IN NS slave
+celt 43200 IN NS slave
+sbcc 43200 IN NS slave
+gapefam 43200 IN NS slave
+saeel 43200 IN NS slave
+simposio 43200 IN NS slave
+fourier.srds2004 600 IN A 150.162.14.56
+impressoras 43200 IN NS slave
+aric2009 43200 IN NS slave
+eadadm07 43200 IN NS slave
+nautilus 43200 IN NS slave
+toxicel 43200 IN NS slave
+genocardio 43200 IN NS ns.npd
+43200 IN NS citosina.intelab
+dicole 43200 IN NS slave
+simposioliteraturainformatica 43200 IN NS slave
+mpsm 43200 IN NS slave
+cesf 43200 IN NS slave
+nica 43200 IN NS slave
+nicb 43200 IN NS slave
+erebiosul2 43200 IN NS slave
+ceua 43200 IN NS slave
+ciclodevida 43200 IN NS slave
+formatura 43200 IN NS slave
+domaindnszones 600 IN AAAA 2002:96a2:142::96a2:142
+600 IN AAAA 2002:96a2:143::96a2:143
+600 IN AAAA 2801:84:0:1001::69
+600 IN AAAA 2801:84::1001:1448:8da0:3b5b:d634
+600 IN AAAA 2801:84::1243:1448:8da0:3b5b:d634
+domaindnszones 600 IN A 150.162.1.66
+600 IN A 150.162.1.67
+600 IN A 150.162.1.69
+compete 43200 IN NS slave
+apuro 43200 IN NS slave
+joinville 43200 IN NS slave
+101termosemet 43200 IN NS slave
+graocafe 43200 IN NS ns1.jean.adm.br.
+43200 IN NS ns2.jean.adm.br.
+vitrinetecnologica 43200 IN NS slave
+Fapesc03546 1200 IN AAAA 2801:84::1138:d116:d2e4:96a:620e
+1200 IN AAAA 2801:84::1138:d9ce:c906:41c2:673f
+Fapesc03546 1200 IN A 150.162.138.83
+reitoria 43200 IN NS slave
+leeiching 43200 IN NS slave
+campusvirtual 43200 IN NS slave
+buscalegis 43200 IN NS slave
+nigs 43200 IN NS slave
+curitibanos 43200 IN NS slave
+servidor 43200 IN NS slave
+direito71 600 IN MX 10 reitoria
+sol.labspot 600 IN A 150.162.16.3
+conjuntura 43200 IN NS slave
+labtrans 43200 IN NS slave
+gitcem 43200 IN NS slave
+khazad.labsec 43200 IN A 150.162.66.4
+nime 43200 IN NS dns.nime
+43200 IN NS inf
+lagoasc 43200 IN NS slave
+historicocultural 43200 IN NS slave
+grupoapis 43200 IN NS slave
+ontem 43200 IN NS slave
+cglp 43200 IN NS slave
+eficienciaenergetica 43200 IN NS slave
+recursoshumanos 43200 IN NS slave
+solidariedade 43200 IN NS slave
+nipe 43200 IN NS slave
+percepcoes 43200 IN NS slave
+nipp 43200 IN NS slave
+ejep 43200 IN NS slave
+fazendogenero 43200 IN NS slave
+agronegocios 43200 IN NS slave
+especializacaochs 43200 IN NS slave
+rexmobile 43200 IN NS slave
+contabeis 43200 IN NS slave
+snaserver 600 IN A 150.162.1.154
+encontros-bibli 43200 IN NS slave
+nita 43200 IN NS slave
+margens 43200 IN NS slave
+historiaambientallusofona 43200 IN NS slave
+grupopraxis 43200 IN NS slave
+nepne 43200 IN NS slave
+labtermo 43200 IN NS slave
+petma 43200 IN NS slave
+adns2.pop-sc.rnp.br. 43200 IN AAAA 2001:12f0:200:a014::10
+adns2.pop-sc.rnp.br. 43200 IN A 200.135.14.10
+voluntario 43200 IN NS slave
+musa 43200 IN NS slave
+ieg 43200 IN NS slave
+anaisdesaudemental 43200 IN NS slave
+projetoconchas 43200 IN NS slave
+pensamentopolitico 43200 IN NS slave
+suinoseambiente 43200 IN NS slave
+moradia 43200 IN NS slave
+grad-research 43200 IN NS slave
+quimica 43200 IN NS slave
+UFSC244755 1200 IN AAAA 2801:84::1047:8013:7dd6:9580:f90b
+1200 IN AAAA 2801:84::1047:bae0:9860:23dc:ce6a
+UFSC244755 1200 IN A 150.162.47.134
+pgcin 43200 IN NS slave
+enusb 43200 IN NS slave
+novembrada 43200 IN NS slave
+telelabdot 43200 IN NS slave
+pgfar 43200 IN NS slave
+rbcdh-online 43200 IN NS slave
+polofloripa 43200 IN NS slave
+bsca 43200 IN NS slave
+semesam 43200 IN NS slave
+cepedcurso 43200 IN NS ns.led
+43200 IN NS ns.npd
+cilp 43200 IN NS slave
+telelab 43200 IN NS slave
+seplan 43200 IN NS slave
+cimm 600 IN NS ns1.cimm.com.br.
+600 IN NS ns2.cimm.com.br.
+siafti2007 43200 IN NS slave
+residenciamedica 43200 IN NS slave
+gtgeneroanpuhnacional 43200 IN NS slave
+projetocasadinho 43200 IN NS slave
+sapsi 43200 IN NS slave
+gthrr 43200 IN NS slave
+daex 43200 IN NS slave
+semanaagronomia 43200 IN NS slave
+labsolar 43200 IN NS slave1
+43200 IN NS slave2
+grupog2e 43200 IN NS slave
+enapet 43200 IN NS slave
+labcal 43200 IN NS slave
+pgeal 43200 IN NS slave
+labsolda 43200 IN NS slave
+gestaosocial 43200 IN NS slave
+pgeas 43200 IN NS slave
+13issbn 43200 IN NS slave
+simulado 43200 IN NS slave
+cirp 43200 IN NS slave
+psiclin 43200 IN NS slave
+bapijor 43200 IN NS slave
+organic 43200 IN NS slave
+geografia 43200 IN NS slave
+clipping 43200 IN NS slave
+dali 43200 IN NS slave
+deseg 43200 IN NS slave
+fisicamoderna 43200 IN NS slave
+acetal.cimject 43200 IN A 150.162.107.3
+labcet 43200 IN NS chapolin.cet
+labcev 43200 IN NS slave
+ns67 43200 IN AAAA 2801:84:0:1001::67
+ns67 43200 IN A 150.162.1.67
+ns69 43200 IN AAAA 2801:84:0:1001::69
+ns69 43200 IN A 150.162.1.69
+mat 600 IN A 150.162.32.1
+labcig 43200 IN NS slave
+aerospace 43200 IN NS slave
+zero 43200 IN NS slave
+bibliotecademusica 43200 IN NS slave
+giate-idigital 43200 IN NS slave
+namidia 43200 IN NS slave
+coleta-paai 43200 IN NS slave
+exemplo 43200 IN NS slave
+incod 43200 IN NS slave
+dcaf 43200 IN NS slave
+collecta 43200 IN NS slave
+biofisica 43200 IN NS slave
+Atendimento-05 1200 IN AAAA 2002:96a2:9a4::96a2:9a4
+Atendimento-05 1200 IN A 150.162.9.164
+apopen 43200 IN NS slave
+banconigs 43200 IN NS slave
+matematica 600 IN A 150.162.32.1

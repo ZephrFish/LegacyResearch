@@ -1,0 +1,17 @@
+@ 2 IN SOA linuab eloy.linuab 2009090210 259200 900 604800 86400
+@ 2 IN NS linuab
+@ 2 IN MX 11 mailuab
+virtual 2 IN A 186.121.206.27
+finanzas 2 IN A 186.121.206.20
+linuab 2 IN A 186.121.206.18
+mail 2 IN CNAME mailuab
+googleffffffffa1ef4b32 2 IN CNAME google.com.
+eloy 2 IN A 186.121.206.20
+calendario 2 IN CNAME ghs.google.com.
+mailuab 2 IN A 186.121.206.18
+www 2 IN A 186.121.206.19
+academico 2 IN A 186.121.206.20
+algo 2 IN A 186.121.206.20
+sinai 2 IN A 186.121.206.26
+webmail 2 IN A 186.121.206.18
+correo 2 IN CNAME ghs.google.com.

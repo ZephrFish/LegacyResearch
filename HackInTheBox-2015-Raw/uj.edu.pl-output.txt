@@ -1,0 +1,779 @@
+@ 86400 IN SOA theta.uoks hostmaster.theta.uoks 2015042801 7200 1800 2592000 86400
+@ 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+86400 IN NS nms.cyf-kr.edu.pl.
+86400 IN NS europa.coi.pw.edu.pl.
+86400 IN NS io.coi.pw.edu.pl.
+86400 IN NS services.ii
+@ 3600 IN MX 0 aspam.uoks
+3600 IN MX 5 vanth.uoks
+@ 3600 IN TXT "google-site-verification=ArLg586A_gNwHEVXMxQbVqu5yJ0GigPI9f8gYlQix2g"
+3600 IN TXT "v=spf1 ptr:uj.edu.pl include:spf.protection.outlook.com -all"
+3600 IN TXT "MS=ms32529605"
+@ 3600 IN A 149.156.225.212
+www.samorzad 3600 IN CNAME elvis.uoks
+www.archeo 3600 IN CNAME sites.prod.zpu
+msoid.o365 3600 IN CNAME clientconfig.microsoftonline-p.net.
+www.esn.student 3600 IN CNAME delfin.esn.student
+www.przeglad 3600 IN CNAME sites.prod.zpu
+poprzednia 600 IN CNAME www6.uoks
+www.antropologia.polonistyka 3600 IN CNAME sites.prod.zpu
+www.zkz 600 IN CNAME sites.prod.zpu
+zapisy.usos 3600 IN A 149.156.89.85
+www.igu-innovation.confer 600 IN CNAME sites.prod.zpu
+helios.wbbib 3600 IN CNAME sites.prod.zpu
+www.media.kultura 600 IN CNAME www5.uoks
+www.napodbuj.projekt 600 IN CNAME sites.prod.zpu
+lex.wpia 600 IN A 149.156.224.6
+panel.rkn 3600 IN CNAME elvis.uoks
+_sip._tls.student 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+msoid.samorzad 3600 IN CNAME clientconfig.microsoftonline-p.net.
+www.eg-ice-2016.fais 3600 IN CNAME gate.czn
+idm.dev 600 IN A 149.156.225.214
+old.cittru 3600 IN CNAME www2
+czn 600 IN NS theta.uoks
+600 IN NS jetta.uoks
+www2.europeistyka 3600 IN CNAME erasmus.in
+sci 600 IN NS eta.im
+600 IN NS jetta.uoks
+www.apd 3600 IN CNAME www.srs
+www3.cittru 3600 IN CNAME www6.uoks
+msoid.doctoral 3600 IN CNAME clientconfig.microsoftonline-p.net.
+www.techem 600 IN CNAME ether394.ch
+www.studia2.socjologia 3600 IN CNAME platon2.phils
+mx001 86400 IN A 149.156.225.121
+mx002 86400 IN A 149.156.225.122
+www.cespia 3600 IN CNAME sites.prod.zpu
+aktualnosci 600 IN CNAME ali.uoks
+www2.chemia 3600 IN CNAME porsacz.ch
+www.650 600 IN CNAME 650
+www.suss 600 IN CNAME sites.prod.zpu
+easa2000 3600 IN MX 0 aspam.uoks
+www.pegaz2 600 IN CNAME pegaz2
+www.kongresdydaktyki.polonistyka 3600 IN CNAME sites.prod.zpu
+www.funduszarsdocendi 600 IN CNAME gate.czn
+www.bju 600 IN CNAME sites.prod.zpu
+www.iccpb2015.confer 600 IN CNAME sites.prod.zpu
+site02.suss 600 IN CNAME susseu01.suss
+www.kpen.polonistyka 3600 IN CNAME sites.prod.zpu
+www.rekrutacja 600 IN CNAME sites.prod.zpu
+www2.muzykologia 3600 IN CNAME euridice.hist
+mzsa 86400 IN MX 0 kocina.in
+www.knsij.judaistyka 600 IN CNAME sites.prod.zpu
+www.wkolorosji.rkn 3600 IN CNAME sites.prod.zpu
+www.biurokarier 600 IN CNAME sites.prod.zpu
+mailman 86400 IN A 149.156.89.161
+www.wszechnica 3600 IN CNAME www5.uoks
+www.bnp 3600 IN CNAME sites.prod.zpu
+www.fototeka.ihs 3600 IN A 149.156.79.160
+www.ces 3600 IN CNAME sites.prod.zpu
+www.arsdocendi 600 IN CNAME sites.prod.zpu
+confluence 600 IN A 149.156.89.150
+eol.interna2 3600 IN CNAME interna2
+www.bon 600 IN CNAME sites.prod.zpu
+www.mail 3600 IN CNAME mail
+tcs 3600 IN A 149.156.75.211
+tcs 3600 IN NS eta.im
+3600 IN NS theta.uoks
+www.edytorstwo.polonistyka 3600 IN CNAME sites.prod.zpu
+www.futuronauta.cittru 3600 IN CNAME sites.prod.zpu
+www.azs 600 IN CNAME php.zpu
+_sip._tls.samorzad 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.oer 600 IN CNAME gate.czn
+login 86400 IN A 149.156.89.239
+www.panel.rkn 3600 IN CNAME elvis.uoks
+www.synchrotron 600 IN CNAME sites.prod.zpu
+www2.unesco 600 IN CNAME info.filg
+lyncdiscover.sharepoint 3600 IN CNAME webdir.online.lync.com.
+www.mzsa 3600 IN CNAME kocina.in
+www.ibrosummerschool 600 IN CNAME sites.prod.zpu
+www.iphils 3600 IN CNAME platon2.phils
+drivers 600 IN CNAME www4.uoks
+mol 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+www.kwestura 600 IN CNAME sites.prod.zpu
+www.retoryka.polonistyka 3600 IN CNAME sites.prod.zpu
+www.gaba.confer 600 IN CNAME sites.prod.zpu
+www.mur.confer 600 IN CNAME sites.prod.zpu
+usosweb 3600 IN CNAME www.usosweb
+www.polishasforeign 600 IN CNAME www2
+www.mzuj 600 IN CNAME www4.uoks
+student.chemia 3600 IN MX 0 pirx.ch
+poprzednia.antropologia.polonistyka 3600 IN CNAME www4.uoks
+farmacja 86400 IN NS pinus.farmacja
+86400 IN NS jetta.uoks
+www.wspolczesna.kultura 600 IN CNAME www5.uoks
+www.konferencja.inp 3600 IN CNAME sites.prod.zpu
+extranet 86400 IN A 149.156.89.220
+www.sap 3600 IN CNAME jazon.hist
+www.znp 600 IN CNAME sites.prod.zpu
+www.jcsm 600 IN CNAME sites.prod.zpu
+lyncdiscover.samorzad 3600 IN CNAME webdir.online.lync.com.
+sharepoint 3600 IN TXT "MS=ms88717822"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+sharepoint 3600 IN MX 0 sharepoint-uj-edu-pl.mail.protection.outlook.com.
+autodiscover.alumni 3600 IN CNAME autodiscover.outlook.com.
+www.hierofanie.religioznawstwo 3600 IN CNAME sites.prod.zpu
+ankiety.fais 3600 IN CNAME www5.uoks
+www.student 3600 IN CNAME www2
+jcet 86400 IN CNAME negro.mol
+www.rkn 3600 IN CNAME sites.prod.zpu
+mail 86400 IN A 149.156.89.147
+www.edumetric.confer 600 IN CNAME sites.prod.zpu
+www.dpb 600 IN CNAME sites.prod.zpu
+www2.azs 600 IN CNAME www4.uoks
+www.don 600 IN CNAME sites.prod.zpu
+www.dpi 3600 IN CNAME sites.prod.zpu
+zamawiane 3600 IN NS eta.im
+3600 IN NS jetta.uoks
+etyka 86400 IN CNAME sites.prod.zpu
+www.zchts.chemia 600 IN CNAME sites.prod.zpu
+extranet2 86400 IN A 149.156.89.23
+extranet3 86400 IN A 149.156.89.106
+www.inib 3600 IN CNAME sites.prod.zpu
+_sip._tls.sharepoint 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+skryba.inib 3600 IN CNAME skryba.wzks
+crazy 600 IN MX 0 crazy.if
+www.transformation.confer 600 IN CNAME sites.prod.zpu
+www.kognitywistyka.iphils 3600 IN CNAME platon2.phils
+www.dso 600 IN CNAME sites.prod.zpu
+pine.krasp 3600 IN A 149.156.161.17
+www.dti 600 IN CNAME sites.prod.zpu
+www.chromosomes.binoz 600 IN CNAME kiwi.phils
+www.due 600 IN CNAME www.zapisynawarsztaty
+edukacja.socjologia 3600 IN CNAME prac01.phils
+www.sjikp 600 IN CNAME sites.prod.zpu
+alf.wzks 3600 IN A 149.156.172.14
+student 3600 IN TXT "v=spf1 ptr:uj.edu.pl include:spf.protection.outlook.com -all"
+3600 IN TXT "MS=ms59980063"
+student 3600 IN MX 0 student-uj-edu-pl.mail.protection.outlook.com.
+www.helenamodrzejewska 600 IN CNAME www5.uoks
+www.nike.ces 3600 IN CNAME erasmus.in
+www.mcb 600 IN CNAME sites.prod.zpu
+www.dwm 600 IN CNAME sites.prod.zpu
+www.trone.archeo 600 IN CNAME sites.prod.zpu
+vmc 3600 IN A 149.156.89.236
+www.zbtr.wbbib 600 IN CNAME sites.prod.zpu
+www2.fais 3600 IN CNAME www4.uoks
+www.wspolczesne-zarzadzanie 600 IN CNAME kwartalnik.wzks
+www.filozofia 600 IN CNAME sites.prod.zpu
+www.iz.binoz 3600 IN CNAME sites.prod.zpu
+pegaz0 600 IN A 149.156.89.162
+www.tdb.confer 600 IN CNAME sites.prod.zpu
+mailman.sapiens 600 IN A 149.156.89.172
+www.aksodk.ihs 3600 IN CNAME sites.prod.zpu
+eta.im 3600 IN A 149.156.75.201
+www.stemcell.wbbib 600 IN CNAME sites.prod.zpu
+www.efch.jcj 600 IN CNAME sites.prod.zpu
+www.maska.psc 600 IN CNAME sites.prod.zpu
+www.fizyka 600 IN CNAME www5.uoks
+_sip._tls.doctoral 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.przyszlosc 600 IN CNAME php.zpu
+www.jakosc 600 IN CNAME sites.prod.zpu
+www.bezporownania.polonistyka 3600 IN CNAME sites.prod.zpu
+www.tempus.inp 3600 IN CNAME kocina.in
+www.zbo.wbbib 600 IN CNAME sites.prod.zpu
+www.knp.inp 3600 IN CNAME sites.prod.zpu
+mbox 86400 IN A 149.156.89.253
+www.wpia 600 IN CNAME sites.prod.zpu
+msoid.student 3600 IN CNAME clientconfig.microsoftonline-p.net.
+www.wyboryssuj 600 IN CNAME php.zpu
+www.ksp.wpia 600 IN CNAME sites.prod.zpu
+inib 86400 IN MX 0 pryncyp.mol
+www.aktualnosci 600 IN CNAME aktualnosci
+alumni 600 IN TXT "MS=ms78312268"
+600 IN TXT "v=spf1 ptr:uj.edu.pl include:spf.protection.outlook.com -all"
+alumni 3600 IN MX 0 alumni-uj-edu-pl.mail.protection.outlook.com.
+mckp 86400 IN NS amicus.cm-uj.krakow.pl.
+86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+86400 IN NS nms.cyf-kr.edu.pl.
+www.etnologia 3600 IN CNAME sites.prod.zpu
+mordor.wzks 3600 IN A 149.156.173.12
+www.bazy 3600 IN CNAME www2
+www.religions.confer 600 IN CNAME sites.prod.zpu
+www.set 600 IN CNAME sites.prod.zpu
+autodiscover.student 3600 IN CNAME autodiscover.outlook.com.
+cac.historia 600 IN A 149.156.225.136
+www.pm.media 3600 IN CNAME sites.prod.zpu
+wnz 3600 IN NS amicus.cm-uj.krakow.pl.
+3600 IN NS jetta.uoks
+3600 IN NS nms.cyf-kr.edu.pl.
+badania.jakosc 600 IN A 149.156.229.15
+www.kultura 600 IN CNAME sites.prod.zpu
+usosownia 3600 IN CNAME php.zpu
+help.ruj 600 IN A 149.156.88.31
+www.pmp.polonistyka 3600 IN CNAME sites.prod.zpu
+www.wsz.confer 600 IN CNAME sites.prod.zpu
+services.ii 3600 IN A 149.156.65.10
+pi 600 IN A 149.156.170.98
+www2.cittru 3600 IN CNAME www4.uoks
+www.dzien-otwarty 600 IN CNAME sites.prod.zpu
+www.projektor 600 IN CNAME sites.prod.zpu
+www.analizaprzeplywowa.confer 600 IN CNAME sites.prod.zpu
+sip.alumni 3600 IN CNAME sipdir.online.lync.com.
+nkch.chemia 3600 IN CNAME sites.prod.zpu
+www2.usos 3600 IN A 149.156.89.164
+pegaz-dev 3600 IN CNAME pegaz0
+www.kariera 600 IN CNAME sites.prod.zpu
+www.podatki.confer 600 IN CNAME sites.prod.zpu
+www.zbfm.wbbib 3600 IN CNAME sites.prod.zpu
+www.kn.psc 600 IN CNAME www5.uoks
+zadania.aktualnosci 600 IN CNAME aktualnosci
+eduroam 3600 IN CNAME sites.prod.zpu
+www.zjazd14.socjologia 3600 IN CNAME platon2.phils
+www.zfmo.fais 3600 IN CNAME sites.prod.zpu
+www 3600 IN A 149.156.225.215
+www 3600 IN MX 0 aspam.uoks
+www.zapisynawarsztaty 600 IN A 149.156.73.193
+www.wiking.fais 600 IN CNAME wiking.if
+interna2 86400 IN NS eol.interna2
+86400 IN NS theta.uoks
+www2.socjologia 3600 IN CNAME www.czn
+www.press 600 IN CNAME press
+www.iras 600 IN CNAME sites.prod.zpu
+www.sharepoint 3600 IN CNAME ujchmura-public.sharepoint.com.
+www.sbs.socjologia 3600 IN CNAME platon2.phils
+zapisy.usosweb 3600 IN CNAME www.usosweb
+studies 3600 IN NS theta.uoks
+3600 IN NS jetta.uoks
+usoswiki 3600 IN CNAME www5.uoks
+www2.ceapp 600 IN CNAME platon2.phils
+www.bip 600 IN CNAME sites.prod.zpu
+www.englishplusplus.jcj 600 IN CNAME englishplusplus.jcj
+bmz.wbbib 3600 IN CNAME www
+users 3600 IN A 149.156.89.136
+_sipfederationtls._tcp.samorzad 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www.doktoranci.historyczny 600 IN CNAME sites.prod.zpu
+www.pogranicze.polonistyka 3600 IN CNAME sites.prod.zpu
+www.judaistyka 600 IN CNAME sites.prod.zpu
+pegaz 600 IN A 149.156.225.210
+www.dziewczynydoscislych 600 IN CNAME sites.prod.zpu
+www.ic.europeistyka 3600 IN CNAME sites.prod.zpu
+www.hre2012 3600 IN CNAME sites.prod.zpu
+sip.doctoral 3600 IN CNAME sipdir.online.lync.com.
+www.mat-fiz 3600 IN CNAME www2
+msoid.sharepoint 3600 IN CNAME clientconfig.microsoftonline-p.net.
+chromosomes.binoz 3600 IN CNAME kiwi.phils
+www.zbk.wbbib 3600 IN CNAME sites.prod.zpu
+_sipfederationtls._tcp.alumni 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+adm 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+www.zzft.fais 3600 IN CNAME sites.prod.zpu
+www.klj2014-badania.socjologia 3600 IN A 149.156.163.212
+kolo.religioznawstwo 3600 IN CNAME platon2.phils
+zpgk.fais 3600 IN CNAME sites.prod.zpu
+www.spu.ukrainoznawstwo 3600 IN CNAME sites.prod.zpu
+www.jcj 600 IN CNAME sites.prod.zpu
+www.rle.confer 600 IN CNAME sites.prod.zpu
+www.admissions 600 IN CNAME sites.prod.zpu
+www.mikolaj.kopernik 600 IN CNAME sites.prod.zpu
+isonline.usosweb 3600 IN CNAME www.usosweb
+www.mygen.wbbib 3600 IN CNAME sites.prod.zpu
+www.inp 3600 IN CNAME sites.prod.zpu
+www.biurokarier.chemia 600 IN CNAME sites.prod.zpu
+www2.kultura 600 IN CNAME www5.uoks
+www.lider.fais 600 IN CNAME sites.prod.zpu
+www.kolonaukowe.muzykologia 3600 IN CNAME sites.prod.zpu
+sieve 3600 IN CNAME cyrus2b.uoks
+forum 86400 IN CNAME www2
+_sip._tls.o365 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.ips 600 IN CNAME sites.prod.zpu
+sipdir.doctoral 3600 IN CNAME webdir.online.lync.com.
+sipdir.samorzad 3600 IN CNAME webdir.online.lync.com.
+www.oboz.bon 600 IN CNAME php.zpu
+englishplusplus.jcj 600 IN A 149.156.65.213
+www.religioznawstwo 3600 IN CNAME platon2.phils
+chemia 600 IN MX 0 mail.ch
+www.paphos-agora.archeo 3600 IN CNAME sites.prod.zpu
+www.samorzad.wpia 600 IN CNAME sites.prod.zpu
+mail1 86400 IN A 149.156.89.193
+zpu 3600 IN NS theta.uoks
+3600 IN NS jetta.uoks
+3600 IN NS services.ii
+autodiscover.sharepoint 3600 IN CNAME autodiscover.outlook.com.
+nac.oa 3600 IN A 149.156.70.5
+www.kolo.kryminologii.wpia 600 IN CNAME sites.prod.zpu
+apd 600 IN CNAME www.srs
+nwip 86400 IN NS pto2.if
+www.irun 600 IN CNAME sites.prod.zpu
+www.kognitywistyka 600 IN CNAME sites.prod.zpu
+www.socjologia 3600 IN CNAME sites.prod.zpu
+www.zamowienia 600 IN CNAME gate.czn
+650 86400 IN A 149.156.2.248
+www.kfp 600 IN CNAME www5.uoks
+www.promocja 600 IN CNAME sites.prod.zpu
+funduszarsdocendi 86400 IN CNAME gate.czn
+www.naukawsztuce.fais 600 IN CNAME sites.prod.zpu
+www.dbamoswoje 600 IN CNAME php.zpu
+www3.fais 3600 IN CNAME www5.uoks
+www2.transatlantic 3600 IN CNAME www6.uoks
+_adsp._domainkey.iphils 3600 IN TXT "dkim=all"
+www.euroculture.europeistyka 3600 IN CNAME www2
+poprzednia.rekrutacja 600 IN A 149.156.89.155
+www.medschool 600 IN CNAME sites.prod.zpu
+stream 3600 IN A 149.156.89.191
+3600 IN A 149.156.89.234
+www.kkm 3600 IN CNAME www.czn
+ces 600 IN MX 0 erasmus.in
+www.knpmp.wpia 600 IN CNAME sites.prod.zpu
+tempus.inp 3600 IN MX 0 kocina.in
+www2.inp 3600 IN CNAME poczta.inp
+www.klk 3600 IN CNAME klk.wzks
+indico.maximum 600 IN A 149.156.84.45
+www2.media 3600 IN CNAME www5.uoks
+www.cittru 3600 IN CNAME sites.prod.zpu
+bpp 600 IN A 149.156.225.135
+cusi 600 IN NS theta.uoks
+600 IN NS jetta.uoks
+www.nauka 600 IN CNAME sites.prod.zpu
+www.bezpieczny-student 600 IN CNAME sites.prod.zpu
+www.fototeka.maius 3600 IN A 149.156.82.112
+www.mistrzostwa.azs 600 IN CNAME mistrzostwa.mistrzostwa.azs
+www2.iaisp 3600 IN CNAME www6.uoks
+jira 86400 IN CNAME leda.uoks
+tabularium.archiwum 3600 IN A 149.156.89.242
+www.cac.historia 600 IN CNAME cac.historia
+kosztorys.rkn 3600 IN CNAME elvis.uoks
+snp.cittru 3600 IN CNAME php.zpu
+pegaz-dev02 3600 IN CNAME pegaz0
+pegaz-dev03 3600 IN CNAME pegaz0
+maius 86400 IN MX 0 maius1.in
+www.projektor.cittru 3600 IN CNAME sites.prod.zpu
+www.ksi 3600 IN CNAME orzech.wzks
+www.wydawnictwo 3600 IN CNAME www2
+ruj 600 IN CNAME bpp
+www.rmg.maius 3600 IN CNAME sites.prod.zpu
+www.crsz 600 IN CNAME sapiens.uoks
+econ 3600 IN NS theta.uoks
+3600 IN NS jetta.uoks
+www.mat-inf 3600 IN CNAME www.matinf
+www.renesans.polonistyka 3600 IN CNAME sites.prod.zpu
+neuroegonomics.ips 600 IN CNAME sites.prod.zpu
+www.badania 3600 IN CNAME sites.prod.zpu
+www.china-cee.confer 600 IN CNAME sites.prod.zpu
+www.pjac 600 IN CNAME sites.prod.zpu
+cps 600 IN NS jetta.uoks
+600 IN NS theta.uoks
+600 IN NS services.ii
+poczta 600 IN A 149.156.81.157
+www.e-podpis 600 IN A 149.156.89.218
+www.knpp.tbsp.wpia 600 IN CNAME sites.prod.zpu
+www.estreicher 600 IN CNAME estreicher2.filg
+matinf 86400 IN NS eta.im
+86400 IN NS theta.uoks
+devel 600 IN NS theta.uoks
+www.soi 600 IN CNAME sites.prod.zpu
+miks 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+86400 IN NS services.ii
+www.mid 600 IN CNAME sites.prod.zpu
+www.konsultant.wszechnica 3600 IN CNAME www5.uoks
+sip.student 3600 IN CNAME sipdir.online.lync.com.
+bj 600 IN NS jetta.uoks
+600 IN NS theta.uoks
+bm 600 IN NS amicus.cm-uj.krakow.pl.
+600 IN NS theta.uoks
+ch 600 IN NS theta.uoks
+600 IN NS jetta.uoks
+rekrutacja 600 IN CNAME sites.prod.zpu
+www2.turystyka 600 IN CNAME www5.uoks
+cm 600 IN NS amicus.cm-uj.krakow.pl.
+600 IN NS jetta.uoks
+600 IN NS nms.cyf-kr.edu.pl.
+polonistyka 600 IN MX 0 filon.filg
+www.iwap 600 IN CNAME virt2.matinf
+www.cbnhi.philo 600 IN CNAME sites.prod.zpu
+dl 600 IN A 149.156.89.84
+ee 3600 IN A 149.156.62.146
+dlibra.archiwum 3600 IN CNAME tabularium.archiwum
+ds 600 IN NS theta.uoks
+600 IN NS jetta.uoks
+www.litterahistorica.polonistyka 3600 IN CNAME sites.prod.zpu
+www.turystyka 600 IN CNAME sites.prod.zpu
+www.szkolaprzedsiebiorczosci 600 IN CNAME www5.uoks
+www.kariera.fais 600 IN CNAME wiking.if
+www.instytutkonfucjusza 600 IN CNAME sites.prod.zpu
+www.cash.polonistyka 3600 IN CNAME sites.prod.zpu
+www.student.chemia 3600 IN CNAME pirx.ch
+autodiscover.o365 3600 IN CNAME autodiscover.outlook.com.
+www.ecoevo 3600 IN CNAME iron2.eko
+www.inwentaryzacja 3600 IN CNAME sites.prod.zpu
+phils 600 IN NS jetta.uoks
+600 IN NS theta.uoks
+www.lingvaria.polonistyka 3600 IN CNAME sites.prod.zpu
+ib 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+ic 86400 IN A 149.156.89.17
+if 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+86400 IN NS nms.cyf-kr.edu.pl.
+86400 IN NS nac.oa
+86400 IN NS dns64.uoks
+ii 86400 IN NS services.ii
+86400 IN NS theta.uoks
+86400 IN NS info.cyf-kr.edu.pl.
+www.etyka 3600 IN CNAME sites.prod.zpu
+im 86400 IN NS eta.im
+86400 IN NS jetta.uoks
+in 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+www.knjs.rkn 3600 IN CNAME sites.prod.zpu
+eko 3600 IN NS theta.uoks
+3600 IN NS jetta.uoks
+iz 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+86400 IN NS services.ii
+gra.rkn 3600 IN CNAME elvis.uoks
+www4.cittru 3600 IN CNAME www6.uoks
+www.eurocourses.europeistyka 3600 IN CNAME www2
+www.transfam.socjologia 3600 IN CNAME sites.prod.zpu
+www.obp 3600 IN CNAME www2
+oa 3600 IN NS nac.oa
+3600 IN NS theta.uoks
+birt.usos 3600 IN A 149.156.225.218
+epi 3600 IN NS jetta.uoks
+3600 IN NS theta.uoks
+www.koordynacja.confer 600 IN CNAME sites.prod.zpu
+platon._domainkey.iphils 3600 IN TXT "v=DKIM1;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG7hR/Jw29fFrnj8JpF8q2u23yUrTVwZCW31jYuDGrysRNh3Wk4te6EJUgUVKVmghWo+OSoTlbWZUcmB8MOHbf5oavY2f+xl3IuE2lspGhXUwHu9Vsyd2QQQqLGyzrsFWEx7R5MulUUT78DSf0OYMuriqYMWTfcvV+QVT6uGrulQIDAQAB;s=email;t=s"
+www.wzkwartalnik 3600 IN CNAME kwartalnik.wzks
+www.kierunki-zamawiane 600 IN CNAME php.zpu
+gondor.wzks 3600 IN A 149.156.172.16
+old.holocaust 600 IN CNAME www5.uoks
+www.nauka2.0.cittru 3600 IN CNAME sites.prod.zpu
+www.bm.wbbib 3600 IN CNAME sites.prod.zpu
+www.tbsp.wpia 600 IN CNAME sites.prod.zpu
+www.katedrateatru.polonistyka 3600 IN CNAME sites.prod.zpu
+erk 86400 IN NS theta.uoks
+86400 IN NS jetta.uoks
+lyncdiscover.alumni 3600 IN CNAME webdir.online.lync.com.
+www.pedagogika 3600 IN CNAME www.czn
+baza-wiedzy.suss 600 IN CNAME gerlach.iz
+www.chemia 3600 IN CNAME sites.prod.zpu
+www.isonline.usosweb 3600 IN CNAME www.usosweb
+_sipfederationtls._tcp.sharepoint 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+elf.ii 3600 IN A 149.156.65.17
+www.kwjp.polonistyka 3600 IN CNAME sites.prod.zpu
+www.konferencje 600 IN CNAME www4.uoks
+www.cbip 3600 IN CNAME sites.prod.zpu
+www.zba.wbbib 3600 IN CNAME sites.prod.zpu
+www.knp.rkn 3600 IN CNAME sites.prod.zpu
+uoks 3600 IN NS jetta.uoks
+3600 IN NS theta.uoks
+www.pse.polonistyka 3600 IN CNAME sites.prod.zpu
+delfin.esn.student 3600 IN A 149.156.80.34
+odyseusz.student 3600 IN CNAME elvis.uoks
+geo 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+wl 3600 IN NS amicus.cm-uj.krakow.pl.
+3600 IN NS jetta.uoks
+3600 IN NS nms.cyf-kr.edu.pl.
+platon.iphils 3600 IN A 149.156.163.133
+filozofia 86400 IN CNAME sites.prod.zpu
+www.deweycenter 3600 IN CNAME platon2.phils
+www.oldm.polonistyka 3600 IN CNAME sites.prod.zpu
+www.binoz 3600 IN CNAME sites.prod.zpu
+www.archiwum 3600 IN CNAME sites.prod.zpu
+wiki.usos 3600 IN CNAME php.zpu
+www.zn.binoz 3600 IN CNAME sites.prod.zpu
+tolerance.research 3600 IN CNAME erasmus.in
+site03.suss 600 IN CNAME susseu01.suss
+www.opc 3600 IN CNAME www2
+www.fais 3600 IN CNAME sites.prod.zpu
+www.fim.psc 600 IN CNAME sites.prod.zpu
+www.menhir.archeo 3600 IN CNAME sites.prod.zpu
+esn.student 3600 IN MX 0 delfin.esn.student
+www.holocaust 600 IN CNAME sites.prod.zpu
+www.judaiki.judaistyka 600 IN CNAME sites.prod.zpu
+www.nzs 3600 IN CNAME sites.prod.zpu
+www4.fais 3600 IN CNAME www2
+www.nobel.wbbib 3600 IN CNAME sites.prod.zpu
+www.cbsw 600 IN CNAME sites.prod.zpu
+www.sylff 600 IN CNAME sites.prod.zpu
+www2 3600 IN A 149.156.89.132
+www3 3600 IN CNAME virgo.ii
+gryf.inib 3600 IN CNAME gryf.wzks
+www.rubl 3600 IN CNAME ares.filg
+www.kns.inib 3600 IN CNAME sites.prod.zpu
+www.mish 600 IN CNAME sites.prod.zpu
+www.podyplomowe 3600 IN CNAME sites.prod.zpu
+aktualnosci1 600 IN A 149.156.89.149
+sip.samorzad 3600 IN CNAME sipdir.online.lync.com.
+printers 600 IN CNAME pa3.wzks
+jubileum 86400 IN MX 0 jubilat.in
+kampus 86400 IN NS theta.uoks
+86400 IN NS jetta.uoks
+www.pon 600 IN CNAME php.zpu
+doctoral 3600 IN TXT "v=spf1 ptr:uj.edu.pl include:spf.protection.outlook.com -all"
+3600 IN TXT "MS=ms40660653"
+doctoral 3600 IN MX 0 doctoral-uj-edu-pl.mail.protection.outlook.com.
+srs 3600 IN CNAME www.srs
+www.centrumars.wpia 600 IN CNAME sites.prod.zpu
+pegaz-dev01 3600 IN CNAME pegaz0
+www.knk.rkn 3600 IN CNAME sites.prod.zpu
+www.psc 600 IN CNAME sites.prod.zpu
+poczta.ces 3600 IN CNAME erasmus.in
+www.ptc 600 IN CNAME www4.uoks
+poprzednia.archiwum 3600 IN CNAME jazon.hist
+www.poczta 3600 IN CNAME poczta
+mailman1 86400 IN A 149.156.89.153
+www.momt 3600 IN CNAME momt
+otrs 3600 IN CNAME prosum1b.uoks
+www.antropologia.historia 600 IN CNAME sites.prod.zpu
+rss4 600 IN A 149.156.89.240
+www.ogrod 3600 IN CNAME sites.prod.zpu
+www.mojedziedzictwo.kultura 600 IN CNAME sites.prod.zpu
+www2.cash.polonistyka 3600 IN CNAME www6.uoks
+www.usos 3600 IN CNAME sites.prod.zpu
+sip.o365 3600 IN CNAME sipdir.online.lync.com.
+www.rosjoznawstwo 600 IN CNAME sites.prod.zpu
+www.pegaz 600 IN CNAME pegaz
+www.biblioteka.polonistyka 3600 IN CNAME sites.prod.zpu
+www.zpz.confer 600 IN CNAME php.zpu
+www.portal 600 IN CNAME sites.prod.zpu
+www.szkolatrenerow 600 IN CNAME www5.uoks
+www.swfis 600 IN CNAME sites.prod.zpu
+www.polonistyka 3600 IN CNAME sites.prod.zpu
+test.polonistyka 3600 IN CNAME ares.filg
+apps.usos 3600 IN CNAME birt.usos
+www.nszz-solidarnosc 600 IN CNAME sites.prod.zpu
+www.zarzadzaniemediami.confer 600 IN CNAME sites.prod.zpu
+www.zapisy.usosweb 3600 IN CNAME www.usosweb
+ing 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+www-stara.ips 600 IN CNAME www5.uoks
+sztuka-prezentacji.chemia 3600 IN CNAME tsk.ch
+wziks.techem 600 IN NS theta.uoks
+orient 3600 IN NS theta.uoks
+3600 IN NS jetta.uoks
+inp 86400 IN MX 0 poczta.inp
+www.ibhp 600 IN CNAME sites.prod.zpu
+mail.ces 3600 IN CNAME erasmus.in
+www.jubileum 3600 IN CNAME www2
+www.krasp 3600 IN CNAME pine.krasp
+www.diametros.iphils 3600 IN CNAME platon2.phils
+www.wieloglos.polonistyka 3600 IN CNAME sites.prod.zpu
+www.doctoral 3600 IN CNAME php.zpu
+snp2.cittru 3600 IN CNAME php.zpu
+chemeryna.wbbib 3600 IN CNAME www
+_http._tcp 86400 IN SRV 0 9 80 sites.prod.zpu
+www.fundusze 3600 IN CNAME sites.prod.zpu
+www.gra.rkn 3600 IN CNAME elvis.uoks
+www2.almamater 600 IN CNAME www5.uoks
+confer 600 IN A 149.156.89.135
+wzks 3600 IN NS gondor.wzks
+3600 IN NS theta.uoks
+3600 IN NS jetta.uoks
+www.dg 600 IN CNAME sites.prod.zpu
+kognitywistyka.iphils 3600 IN CNAME platon2.phils
+isp 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+sword 3600 IN CNAME php.zpu
+www.sla.polonistyka 3600 IN CNAME sites.prod.zpu
+ecwzks 3600 IN A 149.156.173.57
+enviromount 3600 IN MX 0 beskid.geo
+www.pec2013.confer 600 IN CNAME sites.prod.zpu
+www.almamater 600 IN CNAME sites.prod.zpu
+ius 86400 IN A 149.156.225.219
+www.sis 600 IN CNAME sites.prod.zpu
+momt 86400 IN A 149.156.12.252
+autodiscover.doctoral 3600 IN CNAME autodiscover.outlook.com.
+hist 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+www.geq.socjologia 3600 IN CNAME sites.prod.zpu
+www.smo 600 IN CNAME www.bosz
+www.smp 600 IN CNAME sites.prod.zpu
+www.knsr.rosjoznawstwo 600 IN CNAME sites.prod.zpu
+www.plschool 600 IN CNAME sites.prod.zpu
+pegaz-test01 3600 IN CNAME pegaz0
+sipdir.sharepoint 3600 IN CNAME webdir.online.lync.com.
+www.modus.ihs 3600 IN CNAME sites.prod.zpu
+www.zbf.wbbib 3600 IN CNAME sites.prod.zpu
+www.usosweb 3600 IN A 149.156.89.78
+law 86400 IN NS theta.uoks
+86400 IN NS jetta.uoks
+filr.dui 600 IN CNAME filr.uoks
+www.przewodniki 600 IN CNAME gate.czn
+projekty.doktoranci 3600 IN CNAME php.zpu
+www.nimb 600 IN CNAME www5.uoks
+www.srs 3600 IN A 149.156.225.199
+www.tjk 600 IN CNAME sites.prod.zpu
+micro.wbbib 3600 IN CNAME sites.prod.zpu
+www.bosz 600 IN CNAME sites.prod.zpu
+www.funduszkochanowskiego 600 IN CNAME www5.uoks
+www.knbn.inp 3600 IN CNAME sites.prod.zpu
+unigis 3600 IN MX 0 beskid.geo
+www.pomiar-edukacyjny 600 IN CNAME sites.prod.zpu
+www2.doktoranci 3600 IN CNAME www2
+www.rosja2012.confer 600 IN CNAME sites.prod.zpu
+www.blizejnauki.fais 600 IN CNAME sites.prod.zpu
+www.polishstudies 600 IN CNAME sites.prod.zpu
+www.media 3600 IN CNAME sites.prod.zpu
+www.bs 600 IN CNAME sites.prod.zpu
+www.horyzontynauki 600 IN CNAME sites.prod.zpu
+www.drivers 3600 IN CNAME www4.uoks
+www.cn 600 IN CNAME sites.prod.zpu
+badania 600 IN CNAME sites.prod.zpu
+sipdir.student 3600 IN CNAME webdir.online.lync.com.
+www.odyseusz.student 3600 IN CNAME elvis.uoks
+www.dn 600 IN CNAME sites.prod.zpu
+o365 3600 IN MX 0 o365-uj-edu-pl.mail.protection.outlook.com.
+o365 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+medschool 86400 IN NS amicus.cm-uj.krakow.pl.
+86400 IN NS theta.uoks
+www.en 600 IN CNAME sites.prod.zpu
+mcb 600 IN MX 10 biotka.mol
+www.dz 600 IN CNAME sites.prod.zpu
+msoid.alumni 3600 IN CNAME clientconfig.microsoftonline-p.net.
+www-old.inib 3600 IN CNAME skryba.wzks
+www.maius 3600 IN CNAME sites.prod.zpu
+www.sapiens 600 IN CNAME sapiens.uoks
+www.zftr.binoz 600 IN CNAME kiwi.phils
+www.ukrainoznawstwo 3600 IN CNAME sites.prod.zpu
+57e321373f760fc0e8c375103314a091 3600 IN CNAME verify.bing.com.
+www.exnihilo.religioznawstwo 3600 IN CNAME sites.prod.zpu
+www.cel.journal 600 IN CNAME sites.prod.zpu
+www.immunologia.wbbib 3600 IN CNAME sites.prod.zpu
+www.krytyka.polonistyka 3600 IN CNAME sites.prod.zpu
+www2.polonistyka 3600 IN CNAME ares.filg
+www.ip 600 IN CNAME www5.uoks
+www.energyandsociety.confer 600 IN CNAME sites.prod.zpu
+www.odyseusz 600 IN CNAME sites.prod.zpu
+zamowienia 3600 IN CNAME gate.czn
+pinus.farmacja 3600 IN A 149.156.59.6
+www.ktl.polonistyka 600 IN CNAME sites.prod.zpu
+www.religiousstudies 3600 IN CNAME platon2.phils
+www.mobility 600 IN CNAME www.zapisynawarsztaty
+www.principia 3600 IN CNAME platon2.phils
+eg-ice-2016.fais 3600 IN CNAME gate.czn
+search 600 IN A 149.156.89.72
+www.klks.polonistyka 3600 IN CNAME sites.prod.zpu
+www.incet 3600 IN CNAME platon2.phils
+www.survey.ceapp 600 IN A 149.156.225.130
+www.wjl.maius 3600 IN CNAME sites.prod.zpu
+www.historia 600 IN CNAME sites.prod.zpu
+calendar 600 IN A 149.156.89.122
+www.biologia 600 IN CNAME sites.prod.zpu
+www.palimpsest.socjologia 3600 IN CNAME platon2.phils
+lyncdiscover.doctoral 3600 IN CNAME webdir.online.lync.com.
+www.pegaz0 600 IN CNAME pegaz0
+thesis.research 3600 IN CNAME galicja.bj
+www.kns.unesco 600 IN CNAME sites.prod.zpu
+www.dialektologia.polonistyka 3600 IN CNAME sites.prod.zpu
+www.actaphys 600 IN CNAME th.if
+lyncdiscover.o365 3600 IN CNAME webdir.online.lync.com.
+site01.suss 600 IN CNAME susseu01.suss
+www.ipwi 3600 IN CNAME zeus.wzks
+www.ceapp 600 IN CNAME sites.prod.zpu
+www.abstract.jcj 600 IN CNAME sites.prod.zpu
+www.wbbib 3600 IN CNAME sites.prod.zpu
+www.ru 600 IN CNAME sites.prod.zpu
+www.utw 600 IN CNAME sites.prod.zpu
+www.sp 600 IN CNAME sites.prod.zpu
+www.st 600 IN CNAME sites.prod.zpu
+susseu01.suss 600 IN A 149.156.91.150
+www.doit.fais 3600 IN CNAME sites.prod.zpu
+sipdir.alumni 3600 IN CNAME webdir.online.lync.com.
+www.cell.confer 600 IN CNAME sites.prod.zpu
+pto2.if 3600 IN A 149.156.64.202
+autodiscover.samorzad 3600 IN CNAME autodiscover.outlook.com.
+www.stowarzyszenie-absolwentow 600 IN CNAME sites.prod.zpu
+www.europeistyka 3600 IN CNAME sites.prod.zpu
+www.unesco 600 IN CNAME sites.prod.zpu
+www.isko2014.confer 600 IN CNAME sites.prod.zpu
+pegaz2 600 IN A 149.156.225.210
+portaltest 600 IN CNAME portal.uoks
+www.khlor.polonistyka 3600 IN CNAME sites.prod.zpu
+www.slowianki 600 IN CNAME www5.uoks
+sbt.student 3600 IN CNAME ares.filg
+www.knhd 600 IN CNAME sites.prod.zpu
+www.doktoranci 3600 IN CNAME sites.prod.zpu
+www.usosownia 600 IN CNAME php.zpu
+www.rozwojtrenerow 600 IN CNAME www5.uoks
+www.choinka 600 IN CNAME php.zpu
+www.transatlantic 3600 IN CNAME sites.prod.zpu
+archesis 600 IN CNAME platon2.phils
+mail-admin 86400 IN A 149.156.89.148
+ecotox 3600 IN CNAME ecotox.eko
+www.historyczny 600 IN CNAME sites.prod.zpu
+oer 3600 IN CNAME gate.czn
+neuro.chemia 3600 IN A 149.156.67.98
+www.sbt.samorzad 3600 IN CNAME sites.prod.zpu
+www.atomin 600 IN CNAME sites.prod.zpu
+www.komunikacja.polonistyka 3600 IN CNAME sites.prod.zpu
+wdsdwdst 3600 IN A 149.156.167.97
+pegaz-test 3600 IN CNAME pegaz0
+www.performatyka.polonistyka 3600 IN CNAME sites.prod.zpu
+www.dran.socjologia 3600 IN CNAME platon2.phils
+www.pibawdu.confer 600 IN CNAME student.tcs
+www.enviromount 3600 IN CNAME beskid.geo
+www.informator 600 IN CNAME www.usosweb
+kronika.archiwum 3600 IN CNAME tabularium.archiwum
+www.wolks.polonistyka 3600 IN CNAME sites.prod.zpu
+www.knpm 600 IN CNAME sites.prod.zpu
+www.sokrates-migrants 3600 IN CNAME erasmus.in
+zbk.wbbib 3600 IN CNAME www
+www.wolontariat 600 IN CNAME www5.uoks
+www.film 3600 IN CNAME sites.prod.zpu
+pegaz-test02 3600 IN CNAME pegaz0
+pegaz-test03 3600 IN CNAME pegaz0
+poczta.inp 3600 IN A 149.156.81.60
+www.conradianum.polonistyka 3600 IN CNAME www4.uoks
+iphils 3600 IN A 149.156.163.133
+iphils 86400 IN MX 0 platon.iphils
+iphils 86400 IN TXT "v=spf1 mx -all"
+www.biblioteka.muzykologia 3600 IN CNAME sites.prod.zpu
+www.intergetup.research 3600 IN CNAME www2
+www.ceiapp 600 IN CNAME platon2.phils
+www.menedzer.wszechnica 3600 IN CNAME www5.uoks
+poradnia.polonistyka 3600 IN CNAME ares.filg
+www.muzykologia 3600 IN CNAME sites.prod.zpu
+samorzad 3600 IN TXT "v=spf1 ptr:uj.edu.pl include:spf.protection.outlook.com -all"
+samorzad 3600 IN MX 0 samorzad-uj-edu-pl.mail.protection.outlook.com.
+_sipfederationtls._tcp.doctoral 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+przewodniki 600 IN CNAME gate.czn
+press 600 IN A 149.156.225.225
+www.astronomiawkrakowie.fais 3600 IN CNAME sites.prod.zpu
+ftp.iphils 3600 IN CNAME platon.iphils
+cosires.confer 600 IN CNAME www5.uoks
+kns.inib 3600 IN CNAME skryba.wzks
+www.khlp.polonistyka 3600 IN CNAME sites.prod.zpu
+www.zsp 3600 IN CNAME www2
+www2.maius 3600 IN CNAME www4.uoks
+www.ihs 3600 IN CNAME sites.prod.zpu
+psychologia 600 IN NS theta.uoks
+600 IN NS jetta.uoks
+www.archesis 600 IN CNAME platon2.phils
+pharm 600 IN NS pinus.farmacja
+600 IN NS jetta.uoks
+www.unigis 3600 IN CNAME beskid.geo
+www.centrumars.confer 600 IN CNAME sites.prod.zpu
+mistrzostwa.azs 600 IN CNAME www5.uoks
+www2.rosjoznawstwo 600 IN CNAME www4.uoks
+www.komparatystyka.polonistyka 3600 IN CNAME sites.prod.zpu
+kierunek 86400 IN CNAME www.zapisynawarsztaty
+pon 600 IN CNAME php.zpu
+theta.uoks 3600 IN A 149.156.89.30
+www.kognitywistyka.fais 600 IN CNAME pollab1.if
+www.iaisp 3600 IN CNAME sites.prod.zpu
+www.ciss.confer 600 IN CNAME sites.prod.zpu
+www.cosires.confer 600 IN CNAME www5.uoks
+www.bromatologia2014.confer 3600 IN CNAME sites.prod.zpu
+_sipfederationtls._tcp.o365 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+old.psc 600 IN CNAME www.czn
+lyncdiscover.student 3600 IN CNAME webdir.online.lync.com.
+sip.sharepoint 3600 IN CNAME sipdir.online.lync.com.
+filg 86400 IN NS jetta.uoks
+86400 IN NS theta.uoks
+bakteria 600 IN NS jetta.uoks
+600 IN NS theta.uoks
+www.ztg.fais 3600 IN CNAME sites.prod.zpu
+corpus.archiwum 3600 IN CNAME tabularium.archiwum
+corpusvitrearum.ihs 3600 IN CNAME php.zpu
+wsmip 3600 IN NS jetta.uoks
+3600 IN NS theta.uoks
+jetta.uoks 3600 IN A 149.156.89.2
+_sipfederationtls._tcp.student 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+wbbib 3600 IN CNAME wbbib.mol
+_sip._tls.alumni 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.klub-zeglarski 600 IN CNAME sites.prod.zpu

@@ -1,0 +1,7 @@
+@ 38400 IN SOA ns.telemovil.com. hostmaster.ns.telemovil.com. 2012031901 10800 3600 604800 38400
+@ 38400 IN MX 10 mail
+@ 38400 IN NS ns.telemovil.com.
+38400 IN NS www.telemovil.com.
+webmail 38400 IN A 50.61.254.21
+mail 38400 IN A 50.61.254.21
+www 38400 IN A 50.61.254.21

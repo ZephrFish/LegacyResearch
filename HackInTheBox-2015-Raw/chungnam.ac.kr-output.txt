@@ -1,0 +1,326 @@
+@ 28800 IN SOA baekma.cnu.ac.kr. please_set_email.absolutely.nowhere. 1437 10800 3600 2592000 900
+@ 28800 IN NS baekma.cnu.ac.kr.
+28800 IN NS baekma2
+@ 28800 IN A 168.188.253.130
+@ 28800 IN MX 10 cuvic.cnu.ac.kr.
+fdcl 28800 IN A 168.188.49.116
+lifelong 28800 IN A 218.54.28.215
+mec 28800 IN A 168.188.119.53
+cnulis 28800 IN MX 10 cnulis
+cnulis 28800 IN A 168.188.74.225
+oradb 28800 IN A 168.188.1.155
+tango 28800 IN A 168.188.1.50
+law 28800 IN CNAME law.cnu.ac.kr.
+topinfo 28800 IN CNAME topinfo.cnu.ac.kr.
+horti 28800 IN CNAME agro
+microwave 28800 IN MX 10 microwave
+microwave 28800 IN A 168.188.41.195
+omtse 28800 IN CNAME omtse.cnu.ac.kr.
+cybermms1 28800 IN A 168.188.1.37
+almiran 28800 IN CNAME almiran.cnu.ac.kr.
+davinci 28800 IN CNAME davinci.cnu.ac.kr.
+rtclab 28800 IN A 168.188.43.119
+cnupress 28800 IN A 168.188.19.42
+cirtrc 28800 IN CNAME csalab
+ip 28800 IN CNAME ip.cnu.ac.kr.
+cs8282 28800 IN A 168.188.2.201
+gifted 28800 IN A 168.188.69.126
+forestry 28800 IN CNAME agro
+radiowave 28800 IN A 168.188.41.224
+mosis 28800 IN CNAME mosis.cnu.ac.kr.
+cybervod 28800 IN A 168.188.1.59
+linguist 28800 IN MX 10 linguist
+linguist 28800 IN A 168.188.82.99
+fovu 28800 IN CNAME fovu.cnu.ac.kr.
+propulsion 28800 IN A 168.188.49.182
+polymer 28800 IN A 168.188.34.108
+powersys 28800 IN A 168.188.140.192
+eng 28800 IN A 168.188.32.27
+cipher 28800 IN CNAME www-math
+nano 28800 IN A 168.188.140.138
+www.lifelong 28800 IN CNAME lifelong
+fst 28800 IN CNAME agro
+slp 28800 IN CNAME slp.cnu.ac.kr.
+ppcl 28800 IN MX 10 ppcl
+ppcl 28800 IN A 168.188.34.72
+stat 28800 IN MX 10 stat
+stat 28800 IN A 168.188.68.130
+okfiber 28800 IN A 168.188.33.159
+inuri 28800 IN CNAME semi3
+shannon 28800 IN CNAME shannon.cnu.ac.kr.
+mba 28800 IN A 168.188.254.23
+qdod 28800 IN A 168.188.99.82
+dorm 28800 IN CNAME cnudorm.cnu.ac.kr.
+kanf 28800 IN CNAME kanf.cnu.ac.kr.
+crop 28800 IN CNAME agro
+itams 28800 IN CNAME itams.cnu.ac.kr.
+frag 28800 IN A 168.188.50.7
+clins 28800 IN MX 10 clins
+crow 28800 IN MX 10 crow
+crow 28800 IN A 168.188.48.136
+wjjung 28800 IN CNAME wjjung.cnu.ac.kr.
+www 28800 IN CNAME www.cnu.ac.kr.
+seo 28800 IN A 168.188.50.10
+baekma 28800 IN MX 10 baekma
+baekma 28800 IN A 168.188.1.1
+w3 28800 IN A 168.188.253.10
+seeglab 28800 IN A 168.188.68.227
+pony 28800 IN CNAME cuvic
+mde 28800 IN A 168.188.33.229
+loghost 28800 IN CNAME localhost
+kkili 28800 IN CNAME adelita
+m 28800 IN CNAME m.cnu.ac.kr.
+rctcp 28800 IN CNAME rctcp.cnu.ac.kr.
+hydrogen 28800 IN MX 10 hydrogen
+hydrogen 28800 IN A 168.188.32.213
+w2 28800 IN A 168.188.1.21
+e-learn 28800 IN CNAME e-learn.cnu.ac.kr.
+backupcenter 28800 IN CNAME reservoir
+adelita 28800 IN A 168.188.129.146
+rech 28800 IN A 168.188.1.25
+nanodevicelab 28800 IN A 168.188.90.23
+nsphys 28800 IN CNAME physics
+eun 28800 IN A 168.188.48.227
+physics-alumni 28800 IN A 168.188.99.112
+ysko 28800 IN A 168.188.41.209
+museum 28800 IN A 168.188.14.26
+nms 28800 IN A 168.188.1.12
+caryna 28800 IN CNAME caryna.cnu.ac.kr.
+foryou 28800 IN A 168.188.50.4
+antenna 28800 IN A 168.188.41.228
+cnutis 28800 IN A 168.188.1.10
+loadbal 28800 IN CNAME loadbal.cnu.ac.kr.
+emsl 28800 IN CNAME emsl.cnu.ac.kr.
+rtislab 28800 IN CNAME rtislab.cnu.ac.kr.
+reservoir 28800 IN A 168.188.1.20
+perl 28800 IN CNAME perl.cnu.ac.kr.
+solution 28800 IN A 168.188.1.11
+aero 28800 IN CNAME aero.cnu.ac.kr.
+depart 28800 IN A 168.188.99.162
+sslab 28800 IN A 168.188.128.107
+sasl 28800 IN CNAME sasl.cnu.ac.kr.
+telco 28800 IN A 168.188.39.88
+metaphysics 28800 IN CNAME metaphysics.cnu.ac.kr.
+qbint 28800 IN CNAME qbint.cnu.ac.kr.
+eda 28800 IN A 168.188.46.236
+yslee 28800 IN A 168.188.150.50
+cslab 28800 IN A 168.188.43.231
+login 28800 IN CNAME login.cnu.ac.kr.
+e-life 28800 IN CNAME e-life.cnu.ac.kr.
+agl 28800 IN CNAME agl.cnu.ac.kr.
+uddi 28800 IN A 168.188.46.23
+bk21-math 28800 IN A 168.188.62.114
+polynet 28800 IN CNAME polymer
+biopolymer 28800 IN CNAME polymer
+femto 28800 IN CNAME femto.cnu.ac.kr.
+eltech 28800 IN CNAME eltech.cnu.ac.kr.
+ship 28800 IN A 168.188.47.157
+epoch 28800 IN A 168.188.130.212
+chem 28800 IN A 168.188.99.231
+obcheme 28800 IN CNAME che
+cnusompb 28800 IN CNAME cnusompb.cnu.ac.kr.
+intam 28800 IN A 168.188.57.170
+infocomm3 28800 IN CNAME norang
+atdc 28800 IN A 168.188.2.237
+cyber 28800 IN CNAME cyber.cnu.ac.kr.
+elpwer1 28800 IN MX 10 elpwer1
+elpwer1 28800 IN A 168.188.40.130
+kenji 28800 IN CNAME ppcl
+edutech 28800 IN A 168.188.82.75
+cals 28800 IN CNAME agro
+astro13 28800 IN A 168.188.99.185
+csalab 28800 IN A 168.188.129.198
+tango42 28800 IN A 168.188.1.42
+miclab 28800 IN MX 10 miclab
+miclab 28800 IN A 168.188.128.96
+agrieco 28800 IN CNAME agro
+networks 28800 IN CNAME networks.cnu.ac.kr.
+ipsi 28800 IN A 168.188.1.5
+ngn 28800 IN MX 10 ngn
+ngn 28800 IN A 168.188.48.200
+laser88 28800 IN A 168.188.1.88
+extek 28800 IN A 168.188.48.82
+vulcan2 28800 IN A 168.188.99.165
+tango41 28800 IN A 168.188.1.41
+applchem 28800 IN CNAME applchem.cnu.ac.kr.
+sems 28800 IN A 168.188.140.161
+mmic 28800 IN A 168.188.41.57
+plas 28800 IN CNAME plas.cnu.ac.kr.
+esperosun 28800 IN CNAME home
+ufis1 28800 IN CNAME ufis1.cnu.ac.kr.
+cybermms2 28800 IN A 168.188.1.38
+news 28800 IN CNAME news.cnu.ac.kr.
+datacom 28800 IN MX 10 datacom
+datacom 28800 IN A 168.188.48.203
+robot 28800 IN CNAME isee
+cfdclub 28800 IN CNAME ship
+norang 28800 IN MX 10 norang
+norang 28800 IN A 168.188.48.5
+ivlab 28800 IN MX 0 ivlab
+ivlab 28800 IN A 168.188.48.81
+home 28800 IN MX 10 home
+home 28800 IN A 168.188.127.173
+ling 28800 IN MX 10 ling
+ling 28800 IN A 168.188.83.225
+top 28800 IN CNAME top.cnu.ac.kr.
+medicine 28800 IN A 168.188.150.252
+ara 28800 IN A 168.188.181.13
+bic 28800 IN CNAME bic.cnu.ac.kr.
+sys 28800 IN A 168.188.140.191
+dbslab 28800 IN CNAME dbslab.cnu.ac.kr.
+ice 28800 IN CNAME bkmc
+smtc 28800 IN CNAME smtc.cnu.ac.kr.
+astrospace 28800 IN CNAME astrospace.cnu.ac.kr.
+asb 28800 IN CNAME agro
+shiri 28800 IN A 168.188.76.249
+hokang 28800 IN A 168.188.50.164
+wolf 28800 IN A 168.188.32.74
+bio 28800 IN A 168.188.108.147
+gymn 28800 IN CNAME gymn.cnu.ac.kr.
+cclab 28800 IN MX 10 cclab
+cclab 28800 IN A 168.188.127.64
+catella 28800 IN A 168.188.99.185
+rose 28800 IN A 168.188.1.44
+toolman 28800 IN A 168.188.48.223
+tango43 28800 IN A 168.188.1.43
+grad 28800 IN CNAME grad.cnu.ac.kr.
+cnuautocad 28800 IN CNAME cnuautocad.cnu.ac.kr.
+hippo206 28800 IN CNAME hippo206.cnu.ac.kr.
+coling 28800 IN MX 10 coling
+coling 28800 IN A 168.188.83.8
+nspc-info 28800 IN A 168.188.32.8
+pharmacology 28800 IN MX 10 pharmacology
+pharmacology 28800 IN A 168.188.150.247
+edms 28800 IN A 168.188.1.6
+cnst 28800 IN CNAME intam
+ccl 28800 IN MX 10 ccl
+ccl 28800 IN A 168.188.48.107
+multimedia 28800 IN A 168.188.129.112
+bme 28800 IN CNAME agro
+solid 28800 IN MX 10 solid
+solid 28800 IN A 168.188.99.198
+cnupig 28800 IN A 168.188.1.16
+tinasvr 28800 IN A 168.188.1.170
+mobile 28800 IN A 168.188.48.164
+agro 28800 IN A 168.188.254.16
+challenge 28800 IN CNAME propulsion
+ufis 28800 IN CNAME ufis.cnu.ac.kr.
+strauss 28800 IN CNAME strauss.cnu.ac.kr.
+cybercampus 28800 IN A 168.188.1.34
+massmail 28800 IN CNAME massmail.cnu.ac.kr.
+roci 28800 IN A 168.188.117.234
+globus 28800 IN A 168.188.48.196
+sbb 28800 IN A 168.188.108.149
+hpv 28800 IN A 168.188.49.148
+giftedcnu 28800 IN CNAME gifted
+cnuac 28800 IN A 168.188.58.140
+cnuad 28800 IN A 168.188.9.238
+carbon 28800 IN MX 10 carbon
+carbon 28800 IN A 168.188.35.203
+isee 28800 IN A 168.188.117.59
+pplab 28800 IN CNAME polymer
+young 28800 IN A 168.188.2.48
+abio 28800 IN CNAME agro
+winslab 28800 IN CNAME winslab.cnu.ac.kr.
+che 28800 IN A 168.188.35.66
+mano 28800 IN CNAME mano.cnu.ac.kr.
+seeg 28800 IN A 168.188.68.226
+cic 28800 IN CNAME plus
+diamond 28800 IN CNAME diamond.cnu.ac.kr.
+selab 28800 IN A 168.188.46.197
+fishstar 28800 IN A 168.188.1.223
+sniper 28800 IN A 168.188.1.202
+bksw 28800 IN A 168.188.129.8
+bsd 28800 IN A 168.188.130.214
+eece 28800 IN CNAME bkmc
+8282 28800 IN CNAME cs8282
+edueval 28800 IN CNAME edueval.cnu.ac.kr.
+human 28800 IN A 168.188.80.81
+dal 28800 IN A 168.188.117.88
+happy 28800 IN A 168.188.44.90
+portal 28800 IN CNAME portal.cnu.ac.kr.
+reminis 28800 IN MX 10 reminis
+reminis 28800 IN A 168.188.117.246
+canopus 28800 IN MX 10 canopus
+canopus 28800 IN A 168.188.99.136
+aeroship 28800 IN CNAME ship
+minix 28800 IN A 168.188.130.213
+vivace 28800 IN MX 10 vivace
+vivace 28800 IN A 168.188.129.52
+nice2 28800 IN A 168.188.1.7
+rndcard 28800 IN A 210.112.177.85
+cnujob 28800 IN CNAME cnujob.cnu.ac.kr.
+cals-nas 28800 IN CNAME cals-nas.cnu.ac.kr.
+dcl 28800 IN CNAME grigg
+mics 28800 IN CNAME mics.cnu.ac.kr.
+nomad 28800 IN A 168.188.48.109
+argos 28800 IN A 168.188.129.115
+ciro 28800 IN A 168.188.117.125
+web 28800 IN A 168.188.253.11
+oops 28800 IN A 168.188.2.40
+dcollection 28800 IN A 168.188.11.11
+grast 28800 IN CNAME grast.cnu.ac.kr.
+baekma2 28800 IN A 168.188.1.2
+nxrd 28800 IN CNAME nxrd.cnu.ac.kr.
+irc 28800 IN CNAME adelita
+chsong 28800 IN A 168.188.126.87
+dmpr 28800 IN CNAME dmpr.cnu.ac.kr.
+iqs 28800 IN A 168.188.90.42
+mccs 28800 IN CNAME atdc
+sky 28800 IN A 168.188.181.19
+cybercampus2 28800 IN A 168.188.1.33
+prt1 28800 IN A 168.188.1.189
+plus 28800 IN CNAME plus.cnu.ac.kr.
+c2 28800 IN A 168.188.50.5
+isl 28800 IN A 168.188.117.143
+yemofs 28800 IN CNAME chsong
+www-math 28800 IN A 168.188.62.170
+wood 28800 IN CNAME agro
+civil 28800 IN A 168.188.141.221
+cnudorm 28800 IN CNAME cnudorm.cnu.ac.kr.
+cre 28800 IN MX 10 cre
+cre 28800 IN A 168.188.104.118
+nsastro8 28800 IN MX 10 nsastro8
+nsastro8 28800 IN A 168.188.99.135
+edtech 28800 IN A 168.188.34.250
+signifie 28800 IN A 168.188.98.72
+fisma 28800 IN CNAME fisma.cnu.ac.kr.
+cnulaw 28800 IN CNAME cnulaw.cnu.ac.kr.
+awcl 28800 IN A 168.188.39.223
+marble 28800 IN A 168.188.39.51
+spss 28800 IN A 168.188.254.172
+mario 28800 IN MX 10 mario
+mario 28800 IN A 168.188.99.79
+joa 28800 IN A 168.188.129.150
+physics 28800 IN MX 0 physics
+physics 28800 IN A 168.188.99.151
+civile 28800 IN CNAME civil
+midaslab 28800 IN A 168.188.43.166
+cislab 28800 IN A 168.188.43.208
+skuld 28800 IN MX 10 skuld
+skuld 28800 IN A 168.188.48.129
+cuvic 28800 IN MX 10 cuvic
+cuvic 28800 IN A 168.188.1.8
+dnlabnas 28800 IN CNAME dnlabnas.cnu.ac.kr.
+fincl 28800 IN CNAME ship
+color 28800 IN A 168.188.52.244
+nsccl 28800 IN CNAME ccl
+cnupo 28800 IN CNAME dblab
+semi3 28800 IN A 168.188.43.153
+mmlab 28800 IN CNAME mmlab.cnu.ac.kr.
+localhost 28800 IN A 127.0.0.1
+cybero 28800 IN A 168.188.1.213
+dblab 28800 IN CNAME dblab.cnu.ac.kr.
+ipv6router 28800 IN CNAME ipv6router.cnu.ac.kr.
+stellar 28800 IN A 168.188.48.140
+ecocity 28800 IN CNAME agro
+grigg 28800 IN MX 10 grigg
+grigg 28800 IN A 168.188.48.210
+ee 28800 IN CNAME bkmc
+imal 28800 IN A 168.188.117.30
+psy 28800 IN A 168.188.163.202
+linguistics 28800 IN CNAME linguistics.cnu.ac.kr.
+eslab 28800 IN CNAME eslab.cnu.ac.kr.
+biomecha 28800 IN A 168.188.117.208
+hecc 28800 IN A 168.188.45.6
+finechem 28800 IN CNAME finechem.cnu.ac.kr.

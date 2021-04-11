@@ -1,0 +1,122 @@
+@ 3600 IN SOA dns pmpal.dns 2015022002 86400 7200 3600000 3600
+@ 3600 IN NS dns
+3600 IN NS ns2.iif.hu.
+3600 IN NS domser.unideb.hu.
+@ 3600 IN MX 10 mx1.ttre.hu.
+doczyg 3600 IN A 193.6.175.247
+doczyg 3600 IN MX 10 doczyg
+gh 3600 IN A 193.6.173.55
+gh 3600 IN MX 10 mx1.ttre.hu.
+drkg-bay 3600 IN A 193.6.175.196
+silver2 3600 IN A 193.6.173.101
+esperes 3600 IN A 193.6.175.56
+drhe-lib 3600 IN CNAME silver2
+doczy-sw 3600 IN A 193.6.175.245
+nyomda 3600 IN A 193.6.175.222
+marothi 3600 IN CNAME doczyg
+nt-sw 3600 IN A 193.6.175.35
+gh-gw 3600 IN A 193.6.175.38
+gw-drhe 3600 IN A 193.6.175.11
+maildrk 3600 IN CNAME drhelev
+www 3600 IN CNAME iszk7
+infvez 3600 IN A 193.6.175.22
+www.kisrefi 3600 IN CNAME kisrefi
+palota 3600 IN A 193.6.173.55
+palota 3600 IN MX 10 mx1.ttre.hu.
+diakonia 3600 IN A 193.6.175.12
+muzeum 3600 IN A 193.6.173.101
+www.museum 3600 IN CNAME muzeum
+etn 3600 IN A 193.6.175.153
+tkonyv 3600 IN A 193.6.175.200
+museum 3600 IN CNAME muzeum
+www.biblia 3600 IN CNAME digit
+tan 3600 IN A 193.6.175.199
+www.pushiv 3600 IN CNAME pushiv
+mail-gw 3600 IN A 193.6.175.4
+drhelev 3600 IN A 193.6.175.15
+zeneugy 3600 IN A 193.6.173.55
+zeneugy 3600 IN MX 10 mx1.ttre.hu.
+csillagvirag 3600 IN CNAME doczy
+digit 3600 IN A 193.6.173.52
+pushiv2srv 3600 IN A 193.6.175.60
+gh-sw 3600 IN A 193.6.175.37
+iroda 3600 IN A 193.6.175.198
+www.drhe-lib 3600 IN CNAME silver2
+drhelin 3600 IN A 193.6.175.21
+drhe-gw 3600 IN A 193.6.175.5
+comenius 3600 IN CNAME iszk7
+www.biglib 3600 IN CNAME silver2
+gimn 3600 IN A 193.6.175.210
+gimn-sw 3600 IN A 193.6.175.197
+kazay.silver 3600 IN CNAME kazay
+drhe 3600 IN A 193.6.173.55
+drhe 3600 IN MX 10 mx1.ttre.hu.
+epitesziroda 3600 IN A 193.6.173.55
+epitesziroda 3600 IN MX 10 mx1.ttre.hu.
+tanugy 3600 IN A 193.6.173.55
+tanugy 3600 IN MX 10 mx1.ttre.hu.
+gerundium 3600 IN CNAME refint
+mrtg 3600 IN A 193.6.175.17
+www.ovi 3600 IN CNAME ovoda
+kisrefi 3600 IN A 193.6.175.122
+tivoli 3600 IN A 193.6.175.59
+drkg 3600 IN A 193.6.173.159
+biblia 3600 IN CNAME digit
+pushiv 3600 IN A 193.6.173.30
+doczy 3600 IN A 193.6.173.101
+doczy 3600 IN MX 10 mx1.ttre.hu.
+naplo 3600 IN CNAME refint
+hitek 3600 IN CNAME silver2
+iszk6 3600 IN A 193.6.175.6
+iszk7 3600 IN A 193.6.173.101
+ugyvediiroda 3600 IN A 193.6.173.55
+ugyvediiroda 3600 IN MX 10 mx1.ttre.hu.
+monari 3600 IN A 193.6.173.52
+tamszolg 3600 IN A 193.6.173.55
+tamszolg 3600 IN MX 10 mx1.ttre.hu.
+drkg2 3600 IN CNAME drkg-bay
+mail 3600 IN A 193.6.173.55
+ultra 3600 IN A 193.6.175.25
+nk-gw 3600 IN A 193.6.175.190
+libprn 3600 IN A 193.6.175.186
+www.hatvani 3600 IN CNAME silver2
+biglib 3600 IN CNAME silver2
+drta 3600 IN CNAME iszk7
+kossuth 3600 IN A 193.6.175.254
+phsrv.pushiv 3600 IN CNAME pushiv
+ftp.pushiv 3600 IN CNAME pushiv
+phtitk 3600 IN A 193.6.175.48
+www.doczy 3600 IN CNAME doczy
+drtasrv 3600 IN CNAME drhelev
+ttre 3600 IN A 193.6.175.57
+refilin 3600 IN A 193.6.175.208
+kerulet 3600 IN A 193.6.173.55
+kerulet 3600 IN MX 10 mx1.ttre.hu.
+www.digit 3600 IN CNAME digit
+bgaal 3600 IN CNAME iszk7
+phadmin 3600 IN A 193.6.175.46
+ftp.refi 3600 IN CNAME refint
+telkp 3600 IN A 193.6.175.70
+leveltar 3600 IN CNAME iszk7
+hazkezeloseg 3600 IN A 193.6.173.55
+hazkezeloseg 3600 IN MX 10 mx1.ttre.hu.
+kazay 3600 IN A 193.6.173.101
+teszt 3600 IN A 193.6.173.3
+igazg 3600 IN A 193.6.175.206
+puspok 3600 IN A 193.6.175.47
+doczymayor 3600 IN A 193.6.173.177
+refint 3600 IN A 193.6.173.163
+refint 3600 IN MX 10 refint
+silver 3600 IN A 193.6.173.101
+silver 3600 IN MX 10 mx1.ttre.hu.
+mail.silver 3600 IN CNAME palota
+ovoda 3600 IN A 193.6.173.101
+drkgproxy 3600 IN A 193.6.175.207
+hatvani 3600 IN A 193.6.175.246
+mnyr 3600 IN A 193.6.173.101
+levdrk 3600 IN A 193.6.175.19
+www.hitek 3600 IN CNAME silver2
+www.silver 3600 IN CNAME silver
+www.muzeum 3600 IN CNAME muzeum
+dns 3600 IN A 193.6.175.20
+wwwold.drhe 3600 IN CNAME drhe

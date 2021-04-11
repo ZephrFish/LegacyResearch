@@ -1,0 +1,586 @@
+@ 7200 IN SOA ns pdaoud 2012241358 28800 900 1209600 7200
+@ 7200 IN NS ns
+7200 IN NS ns1
+@ 7200 IN A 216.235.200.156
+@ 7200 IN MX 10 zimbra
+7200 IN MX 20 zimbra2
+@ 7200 IN TXT "v=spf1 ip4:192.116.5.2 a mx"
+7200 IN TXT "google-site-verification=jqekwQyOojk1I_99o9u-GQXf2P6BiefhsS2ov_zrwW4"
+mlama 7200 IN A 192.116.5.18
+www.cmli 7200 IN A 216.235.200.156
+www.edportal 7200 IN A 192.116.4.2
+wifi 7200 IN A 192.168.192.1
+_ldap._tcp.gc._msdcs.bustorage 600 IN SRV 0 100 3268 BUStorage.bustorage
+business 7200 IN A 216.235.200.156
+_ldap._tcp.ma-server 600 IN SRV 0 100 389 server.ma-server
+wpdm10 7200 IN A 192.116.4.6
+wpdm11 7200 IN A 192.116.4.6
+_kerberos._udp.marandrea 600 IN SRV 0 100 88 marandreaserver.marandrea
+wpdm13 7200 IN A 192.116.4.6
+bustoragecampus 7200 IN A 192.168.3.86
+nativity-DC2 600 IN A 192.168.0.20
+wpdm16 7200 IN A 192.116.4.6
+wpdm17 7200 IN A 192.116.4.6
+wpdm18 7200 IN A 192.116.4.6
+wpdm19 7200 IN A 192.116.4.6
+wpdm21 7200 IN A 192.116.4.6
+wpdm22 7200 IN A 192.116.4.6
+cais_backup 7200 IN A 192.116.4.3
+wpdm24 7200 IN A 192.116.4.6
+wpdm25 7200 IN A 192.116.4.6
+hrl2 7200 IN A 192.116.5.1
+wpdm27 7200 IN A 192.116.4.6
+wpdm28 7200 IN A 192.116.4.6
+wpdm29 7200 IN A 192.116.4.6
+star 7200 IN A 192.168.1.1
+_ldap._tcp.dc._msdcs.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+cmsr2 7200 IN A 192.116.5.1
+www.cmsr 7200 IN A 192.116.5.1
+jet-MarAndrea 7200 IN A 192.168.3.66
+staff 7200 IN A 216.235.200.156
+palarch2 7200 IN A 192.116.5.1
+zimbraCampus 7200 IN A 192.168.3.7
+chapel 7200 IN A 192.116.5.1
+www.aftf 7200 IN A 216.235.200.156
+jet-FinanceOfficer 7200 IN A 192.168.5.103
+photos 7200 IN A 216.235.200.156
+www.lcei2 7200 IN A 192.116.5.1
+mzuluf 7200 IN A 192.168.5.2
+www.cmli2 7200 IN A 192.116.5.1
+nativity-DC2.nativity.nativity 1200 IN A 192.168.0.20
+jet-MarAndreaMK 7200 IN A 192.168.3.73
+D213_Sec 7200 IN A 192.168.5.24
+cmli 7200 IN A 216.235.200.156
+cais-msgroup 7200 IN A 192.116.4.3
+www.wpdm30 7200 IN A 192.116.4.6
+www.icp-eclass 7200 IN A 192.116.4.6
+eclass 7200 IN A 192.116.4.2
+jet-MarAndrea2 7200 IN A 192.168.3.90
+jet-L005 7200 IN A 192.168.3.104
+math-switch 7200 IN A 192.116.4.247
+alquds 7200 IN A 192.116.4.10
+www.civ 7200 IN A 216.235.200.156
+www.buj 7200 IN A 216.235.200.156
+studentambassador 7200 IN A 216.235.200.156
+icpmail 7200 IN A 192.116.5.1
+_kerberos._tcp.bustorage 600 IN SRV 0 100 88 storrepl.bustorage
+600 IN SRV 0 100 88 BUStorage.bustorage
+_gc._tcp.Default-First-Site-Name._sites.marandrea 600 IN SRV 0 100 3268 marandreaserver.marandrea
+_ldap._tcp.e73e5468-0b06-4408-bd96-88fdd1e79d9d.domains._msdcs.ma-server 600 IN SRV 0 100 389 server.ma-server
+cmsr 7200 IN A 192.116.5.1
+www.palarch2 7200 IN A 192.116.5.1
+admusallam2 7200 IN A 192.116.5.1
+www.unescobercen2 7200 IN A 192.116.5.1
+eduportal 7200 IN A 192.116.5.1
+aftf 7200 IN A 216.235.200.156
+_kerberos._udp.nativity 600 IN SRV 0 100 88 Nativity-DC2.nativity
+600 IN SRV 0 100 88 Auth2012.nativity
+_ldap._tcp.dc._msdcs.nativity 600 IN SRV 0 100 389 Auth2012.nativity
+600 IN SRV 0 100 389 Nativity-DC2.nativity
+wpdm12 7200 IN A 192.116.4.6
+m2-switch 7200 IN A 192.116.4.252
+wpdm14 7200 IN A 192.116.4.6
+jet-LibraryGF 7200 IN A 192.168.3.100
+wpdm15 7200 IN A 192.116.4.6
+sharepoint 7200 IN A 192.116.4.104
+marandreaserver.marandrea 1200 IN A 192.168.0.3
+www.calendar2 7200 IN A 192.116.5.1
+www.admission 7200 IN A 192.116.5.1
+www.math2 7200 IN A 192.116.5.1
+wpdm20 7200 IN A 192.116.4.6
+jet-D200Arabic 7200 IN A 192.168.3.18
+mail 7200 IN MX 1 ASPMX.L.GOOGLE.COM.
+7200 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+7200 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+7200 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+7200 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+jet-Fuglister 7200 IN A 192.168.3.105
+www.campus 7200 IN A 192.116.5.1
+wpdm23 7200 IN A 192.116.4.6
+jet-M210 7200 IN A 192.168.3.137
+alumni2 7200 IN A 192.116.5.1
+ma-server 600 IN A 192.168.0.3
+wpdm26 7200 IN A 192.116.4.6
+LibSys-Server 7200 IN A 192.168.0.4
+7200 IN A 192.116.4.4
+libbackup 7200 IN A 192.168.3.186
+jet-b008 7200 IN A 192.168.3.59
+gc._msdcs.marandrea 600 IN A 192.168.0.3
+admin 7200 IN A 192.116.5.10
+wpdm30 7200 IN A 192.116.4.6
+hchaya 7200 IN A 192.116.4.3
+adnan 7200 IN A 216.235.200.156
+bustorageadmin 7200 IN A 192.168.5.15
+www.mec2 7200 IN A 192.116.5.1
+jet-260 7200 IN A 192.116.4.14
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.marandrea 600 IN SRV 0 100 88 marandreaserver.marandrea
+nabusaad 7200 IN A 216.235.200.156
+cetl2 7200 IN A 192.116.5.1
+web 7200 IN A 216.235.200.156
+indman 7200 IN A 192.168.5.7
+_gc._tcp.ma-server 600 IN SRV 0 100 3268 server.ma-server
+jet-b116x 7200 IN A 192.168.3.183
+A1002726 7200 IN A 192.116.4.3
+www.healthscience 7200 IN A 216.235.200.156
+79fe51a9-84b2-4dcf-ab11-c0ad7f486ee4._msdcs.marandrea 600 IN CNAME marandreaserver.marandrea
+www.wpdm11 7200 IN A 192.116.4.6
+www.wpdm12 7200 IN A 192.116.4.6
+www.wpdm13 7200 IN A 192.116.4.6
+www.wpdm14 7200 IN A 192.116.4.6
+www.wpdm15 7200 IN A 192.116.4.6
+www.wpdm16 7200 IN A 192.116.4.6
+cais2 7200 IN A 192.116.5.1
+www.wpdm18 7200 IN A 192.116.4.6
+www.wpdm19 7200 IN A 192.116.4.6
+A1103271 7200 IN A 192.116.4.3
+www.wpdm22 7200 IN A 192.116.4.6
+www.wpdm23 7200 IN A 192.116.4.6
+www.wpdm24 7200 IN A 192.116.4.6
+www.wpdm25 7200 IN A 192.116.4.6
+www.wpdm26 7200 IN A 192.116.4.6
+www.wpdm27 7200 IN A 192.116.4.6
+www.wpdm28 7200 IN A 192.116.4.6
+nativity 600 IN A 192.168.2.208
+600 IN A 192.168.0.20
+_kerberos._tcp.dc._msdcs.bustorage 600 IN SRV 0 100 88 storrepl.bustorage
+600 IN SRV 0 100 88 BUStorage.bustorage
+_ldap._tcp.pdc._msdcs.ma-server 600 IN SRV 0 100 389 server.ma-server
+A1002774 7200 IN A 192.116.4.3
+students 7200 IN A 192.116.5.2
+jet-SecDeanOfStudents 7200 IN A 192.168.3.19
+download 7200 IN A 192.116.5.1
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.ma-server 600 IN SRV 0 100 389 server.ma-server
+jet-marandrea-marketing 7200 IN A 192.168.3.73
+www.chapel 7200 IN A 192.116.5.1
+www.wpdm10 7200 IN A 192.116.4.6
+alumni 7200 IN A 216.235.200.156
+A1002824 7200 IN A 192.116.4.3
+A1103346 7200 IN A 192.116.4.3
+math 7200 IN A 216.235.200.156
+jet-d015 7200 IN A 192.168.3.185
+arts-switch 7200 IN A 192.116.4.248
+www.photos2 7200 IN A 192.116.5.1
+jet-residence 7200 IN A 192.168.3.88
+mec2 7200 IN A 192.116.5.1
+_ldap._tcp.bustorage 600 IN SRV 0 100 389 storrepl.bustorage
+600 IN SRV 0 100 389 BUStorage.bustorage
+www.religiousstudies2 7200 IN A 192.116.5.1
+www.wpdm17 7200 IN A 192.116.4.6
+A1103390 7200 IN A 192.116.4.3
+A1002876 7200 IN A 192.116.4.3
+www.wpdm20 7200 IN A 192.116.4.6
+wpad 7200 IN A 192.116.5.1
+lab1082-switch 7200 IN A 192.116.4.18
+bueclass 7200 IN A 192.116.4.2
+A1002887 7200 IN A 192.116.4.3
+A1103424 7200 IN A 192.116.4.3
+A1002894 7200 IN A 192.116.4.3
+mediastream 7200 IN A 192.168.3.84
+jet-D101 7200 IN A 192.168.3.19
+_ldap._tcp.Default-First-Site-Name._sites.ma-server 600 IN SRV 0 100 389 server.ma-server
+ns1 7200 IN A 192.116.4.1
+jet-D113 7200 IN A 192.168.3.103
+Jet-E307 7200 IN A 192.168.3.80
+www 7200 IN A 216.235.200.156
+www.wpdm29 7200 IN A 192.116.4.6
+bbnc 7200 IN CNAME 46062.bbnc.bbcust.com.
+www.icp 7200 IN A 216.235.200.134
+www.admusallam2 7200 IN A 192.116.5.1
+budc2011.nativity 1200 IN A 192.168.2.5
+biolinux-server 7200 IN A 192.116.5.217
+www.ftdc 7200 IN CNAME 46062.bbnc.bbcust.com.
+www.micad 7200 IN A 216.235.200.156
+_kpasswd._udp.marandrea 600 IN SRV 0 100 464 marandreaserver.marandrea
+jet-D200 7200 IN A 192.168.3.18
+jet-d201 7200 IN A 192.168.3.35
+jet-d202 7200 IN A 192.168.3.36
+LIB-Server 7200 IN A 192.116.4.4
+jet-D208 7200 IN A 192.168.3.17
+jet-D212 7200 IN A 192.168.5.100
+jet-D213 7200 IN A 192.168.5.95
+jet-D217 7200 IN A 192.168.5.97
+jet-S306c 7200 IN A 192.168.3.102
+jet-d220 7200 IN A 192.168.5.96
+jet-D224 7200 IN A 192.168.5.102
+m02-switch 7200 IN A 192.116.4.249
+_kerberos._udp.ma-server 600 IN SRV 0 100 88 server.ma-server
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.nativity 600 IN SRV 0 100 389 Auth2012.nativity
+600 IN SRV 0 100 389 Nativity-DC2.nativity
+A1103587 7200 IN A 192.116.4.3
+_ldap._tcp.dc._msdcs.ma-server 600 IN SRV 0 100 389 server.ma-server
+_ldap._tcp.Default-First-Site-Name._sites.nativity 600 IN SRV 0 100 389 Auth2012.nativity
+600 IN SRV 0 100 389 Nativity-DC2.nativity
+jet-ICPc 7200 IN A 192.168.3.54
+Library_NAS 7200 IN A 192.168.0.18
+jet-Admission 7200 IN A 192.168.5.121
+www.edic 7200 IN A 192.116.5.1
+zimbra2 7200 IN A 192.116.5.2
+7200 IN A 192.116.5.6
+868f5f1d-5994-4d9a-8b97-542d92c19463._msdcs.nativity 600 IN CNAME Nativity-DC2.nativity
+jet-e7 7200 IN A 192.168.3.189
+e-icp 7200 IN A 192.116.4.6
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs.marandrea 600 IN SRV 0 100 3268 marandreaserver.marandrea
+proxy 7200 IN A 192.168.0.180
+_ldap._tcp.f41040e3-b2fa-4336-a5a7-666db05c44c4.domains._msdcs.nativity 600 IN SRV 0 100 389 Auth2012.nativity
+600 IN SRV 0 100 389 Nativity-DC2.nativity
+religiousconference 7200 IN A 192.116.5.1
+A1103668 7200 IN A 192.116.4.3
+www.iru 7200 IN A 216.235.200.156
+m3-switch 7200 IN A 192.116.4.253
+webmail2 7200 IN A 192.116.5.2
+backup 7200 IN A 192.116.5.19
+_kerberos._tcp.marandrea 600 IN SRV 0 100 88 marandreaserver.marandrea
+ftdc 7200 IN CNAME 46062.bbnc.bbcust.com.
+www.cmsr2 7200 IN A 192.116.5.1
+admission2 7200 IN A 192.116.5.1
+jet-tempRania 7200 IN A 192.168.3.57
+_ldap._tcp.gc._msdcs.nativity 600 IN SRV 0 100 3268 Auth2012.nativity
+600 IN SRV 0 100 3268 Nativity-DC2.nativity
+9d8f58b3-810b-4e34-9730-155f22bd3118._msdcs.nativity 600 IN CNAME Auth2012.nativity
+bustorage 600 IN A 192.168.5.18
+600 IN A 192.168.3.86
+budata 7200 IN A 192.168.5.2
+_kpasswd._tcp.bustorage 600 IN SRV 0 100 464 storrepl.bustorage
+600 IN SRV 0 100 464 BUStorage.bustorage
+library-switch 7200 IN A 192.116.4.19
+healthscience2 7200 IN A 192.116.5.1
+sci-switch 7200 IN A 192.116.4.2
+_gc._tcp.Default-First-Site-Name._sites.ma-server 600 IN SRV 0 100 3268 server.ma-server
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.bustorage 600 IN SRV 0 100 88 storrepl.bustorage
+600 IN SRV 0 100 88 BUStorage.bustorage
+www.campus2 7200 IN A 192.116.5.1
+www.alumni 7200 IN A 192.116.5.1
+music-cais 7200 IN A 192.116.4.3
+hsaca 7200 IN A 216.235.200.156
+auth2012 7200 IN A 192.168.2.208
+civ 7200 IN A 216.235.200.156
+_gc._tcp.bustorage 600 IN SRV 0 100 3268 BUStorage.bustorage
+_kerberos._tcp.Default-First-Site-Name._sites.marandrea 600 IN SRV 0 100 88 marandreaserver.marandrea
+photos2 7200 IN A 192.116.5.1
+palarch 7200 IN A 216.235.200.156
+server2012 7200 IN A 192.168.2.208
+moodle18 7200 IN A 192.116.4.6
+_ldap._tcp.pdc._msdcs.bustorage 600 IN SRV 0 100 389 BUStorage.bustorage
+furno-lpt 7200 IN A 192.116.5.101
+jet-phys 7200 IN A 192.116.4.13
+sqmgr 7200 IN A 192.116.5.1
+science 7200 IN A 216.235.200.156
+www.mec 7200 IN A 216.235.200.156
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.bustorage 600 IN SRV 0 100 389 storrepl.bustorage
+600 IN SRV 0 100 389 BUStorage.bustorage
+_ldap._tcp.gc._msdcs.marandrea 600 IN SRV 0 100 3268 marandreaserver.marandrea
+www.religiousstudies 7200 IN A 192.116.4.6
+deleteGAPPSnotBefore20150215utc 7199 IN CNAME case-05447082-for-bethlehem.edu-at.google.com.
+icp-server 7200 IN A 192.116.4.6
+www.wpdm7 7200 IN A 192.116.4.6
+dmclacie 7200 IN A 192.168.0.103
+ftdc2 7200 IN A 192.116.5.1
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.nativity 600 IN SRV 0 100 88 Nativity-DC2.nativity
+600 IN SRV 0 100 88 Auth2012.nativity
+www.admusallam 7200 IN A 216.235.200.156
+gapps 7200 IN MX 1 ASPMX.L.GOOGLE.COM.
+7200 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+7200 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+7200 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+jet-m-2 7200 IN A 192.116.4.225
+gc._msdcs.ma-server 600 IN A 192.168.0.3
+_ldap._tcp.396058a8-d3c8-49a7-bfe2-5dfc900cc0f5.domains._msdcs.bustorage 600 IN SRV 0 100 389 storrepl.bustorage
+600 IN SRV 0 100 389 BUStorage.bustorage
+www.unescobercen 7200 IN A 216.235.200.156
+A1104056 7200 IN A 192.116.4.3
+jet-m105 7200 IN A 192.168.3.107
+jet-M108 7200 IN A 192.168.3.150
+wseru2 7200 IN A 192.116.5.1
+jet-Lab260_200dn 7200 IN A 192.116.4.205
+A1103975 7200 IN A 192.116.4.3
+auth2012.nativity 1200 IN A 192.168.2.208
+b846a157-cfe4-4095-b91f-8872681f60bf._msdcs.nativity 600 IN CNAME BUDC2010.nativity
+jet-M09 7200 IN A 192.168.5.122
+ForestDnsZones.marandrea 600 IN A 192.168.0.3
+www.survey 7200 IN A 192.116.5.1
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.ma-server 600 IN SRV 0 100 88 server.ma-server
+_kerberos._tcp.Default-First-Site-Name._sites.nativity 600 IN SRV 0 100 88 Nativity-DC2.nativity
+600 IN SRV 0 100 88 Auth2012.nativity
+icp-eclass 7200 IN A 192.116.4.6
+pdaoud 7200 IN A 192.116.5.17
+wifiproxy 7200 IN A 82.213.15.34
+HR 7200 IN A 192.116.4.102
+_ldap._tcp.Default-First-Site-Name._sites.bustorage 600 IN SRV 0 100 389 storrepl.bustorage
+600 IN SRV 0 100 389 BUStorage.bustorage
+_kerberos._tcp.nativity 600 IN SRV 0 100 88 Nativity-DC2.nativity
+600 IN SRV 0 100 88 Auth2012.nativity
+ip 7200 IN A 192.116.5.1
+bumoodle 7200 IN A 192.116.5.1
+cc 7200 IN A 216.235.200.156
+calendar2 7200 IN A 192.116.5.1
+admission 7200 IN A 192.116.5.1
+budc2000 7200 IN A 192.168.2.7
+budc2003 7200 IN A 192.168.2.2
+jet-b002 7200 IN A 192.168.3.164
+jet-B004 7200 IN A 192.168.3.152
+budc2010 1200 IN A 192.168.2.7
+budc2011 7200 IN A 192.168.2.5
+jet-dev_4600c 7200 IN A 192.116.5.102
+na 7200 IN A 192.116.5.5
+mt 7200 IN A 192.116.5.1
+ns 7200 IN A 192.116.5.1
+A1201812 7200 IN A 192.116.4.3
+jet-fug 7200 IN A 192.116.4.204
+pr 7200 IN A 216.235.200.156
+www.cetl2 7200 IN A 192.116.5.1
+library 7200 IN A 192.116.5.1
+cloud 7200 IN A 192.116.4.2
+wpdm1 7200 IN A 192.116.4.6
+wpdm2 7200 IN A 192.116.4.6
+wpdm3 7200 IN A 192.116.4.6
+wpdm4 7200 IN A 192.116.4.6
+wpdm5 7200 IN A 192.116.4.6
+wpdm6 7200 IN A 192.116.4.6
+wpdm7 7200 IN A 192.116.4.6
+wpdm8 7200 IN A 192.116.4.6
+wpdm9 7200 IN A 192.116.4.6
+jet-m305 7200 IN A 192.168.3.158
+jet-M307 7200 IN A 192.168.3.149
+jet-m308 7200 IN A 192.168.3.157
+jet-m310 7200 IN A 192.168.3.159
+_kerberos._udp.bustorage 600 IN SRV 0 100 88 storrepl.bustorage
+600 IN SRV 0 100 88 BUStorage.bustorage
+jet-b103 7200 IN A 192.168.3.30
+jet-b104 7200 IN A 192.168.3.31
+jet-b105 7200 IN A 192.168.3.32
+jet-b106 7200 IN A 192.168.3.33
+jet-b111 7200 IN A 192.168.0.125
+jet-b113 7200 IN A 192.168.3.74
+jet-b115 7200 IN A 192.168.3.98
+jet-b120 7200 IN A 192.168.3.58
+jet-b121 7200 IN A 192.168.0.146
+_ldap._tcp.dc._msdcs.bustorage 600 IN SRV 0 100 389 storrepl.bustorage
+600 IN SRV 0 100 389 BUStorage.bustorage
+gc._msdcs.nativity 600 IN A 192.168.2.208
+600 IN A 192.168.0.20
+SQLSERVER 7200 IN A 192.168.5.170
+www.opd 7200 IN A 192.116.4.2
+jet-SecArabic 7200 IN A 192.168.3.17
+cais 7200 IN A 216.235.200.156
+eicp 7200 IN A 216.235.200.156
+religiousstudies2 7200 IN A 192.116.5.1
+_kpasswd._udp.nativity 600 IN SRV 0 100 464 Nativity-DC2.nativity
+600 IN SRV 0 100 464 Auth2012.nativity
+jet-m405 7200 IN A 192.168.3.160
+jet-m406 7200 IN A 192.168.3.161
+jet-m407 7200 IN A 192.168.3.162
+jet-M408 7200 IN A 192.168.3.148
+jet-D115x 7200 IN A 192.168.3.176
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs.nativity 600 IN SRV 0 100 3268 Auth2012.nativity
+600 IN SRV 0 100 3268 Nativity-DC2.nativity
+_ldap._tcp.be44cb8f-42fa-4189-a38a-88f7786b21e1.domains._msdcs.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+jobs 7200 IN A 192.168.1.1
+appss 7200 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+DomainDnsZones.marandrea 600 IN A 192.168.0.3
+www2 7200 IN A 192.116.5.1
+www.pr2 7200 IN A 192.116.5.1
+adnan2 7200 IN A 192.116.5.1
+www.eclass 7200 IN A 192.116.4.2
+jet-S106 7200 IN A 192.168.1.152
+religiousstudies 7200 IN A 192.116.4.6
+main-switch-a 7200 IN A 192.116.5.10
+_kpasswd._udp.ma-server 600 IN SRV 0 100 464 server.ma-server
+linux2 7200 IN A 192.116.4.245
+unifi 7200 IN A 192.168.1.205
+Jet-E102 7200 IN A 192.168.1.146
+marandrea.bethlehem 7200 IN A 192.168.0.3
+icp 7200 IN A 216.235.200.134
+_ldap._tcp.nativity 600 IN SRV 0 100 389 Auth2012.nativity
+600 IN SRV 0 100 389 Nativity-DC2.nativity
+paltelcais 7200 IN A 192.168.3.253
+buj 7200 IN A 216.235.200.156
+_gc._tcp.Default-First-Site-Name._sites.bustorage 600 IN SRV 0 100 3268 BUStorage.bustorage
+mailgw 7200 IN A 192.116.5.1
+jet-S200 7200 IN A 192.168.5.29
+jet-english 7200 IN A 192.116.4.200
+jet-S206 7200 IN A 192.168.3.140
+jet-icpprojcoor 7200 IN A 192.168.3.91
+_gc._tcp.nativity 600 IN SRV 0 100 3268 Auth2012.nativity
+600 IN SRV 0 100 3268 Nativity-DC2.nativity
+micad2 7200 IN A 192.116.5.1
+jet-Lib_4600C 7200 IN A 192.116.4.208
+hrl 7200 IN A 216.235.200.156
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs.ma-server 600 IN SRV 0 100 3268 server.ma-server
+www.wseru2 7200 IN A 192.116.5.1
+Jet-E201 7200 IN A 192.168.1.145
+Jet-E204 7200 IN A 192.168.1.147
+Jet-E205 7200 IN A 192.168.1.144
+Jet-E206 7200 IN A 192.168.1.143
+_kerberos._tcp.dc._msdcs.marandrea 600 IN SRV 0 100 88 marandreaserver.marandrea
+www.forms 7200 IN A 192.116.5.1
+www.wpdm1 7200 IN A 192.116.4.6
+cmsr101 7200 IN A 192.116.4.3
+m1-switch 7200 IN A 192.116.4.251
+jet-S306 7200 IN A 192.168.3.106
+jet-s307 7200 IN A 192.168.3.38
+jet-S308 7200 IN A 192.168.3.16
+BUDC2010.nativity 1200 IN A 192.168.2.7
+jet-math 7200 IN A 192.116.4.203
+cmli2 7200 IN A 192.116.5.1
+www.arabic2 7200 IN A 192.116.5.1
+server.ma-server 1200 IN A 192.168.0.3
+busrv 7200 IN CNAME admin
+d7f09acf-b909-42d7-9cb7-6d78cfbb6ff9._msdcs.bustorage 600 IN CNAME storrepl.bustorage
+lcei2 7200 IN A 192.116.5.1
+iru 7200 IN A 216.235.200.156
+_ldap._tcp.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+jet-Periodical 7200 IN A 192.168.0.16
+Jet-E305 7200 IN A 192.168.1.248
+Jet-E306 7200 IN A 192.168.1.140
+gc._msdcs.bustorage 600 IN A 192.168.5.18
+600 IN A 192.168.3.86
+mahd24 7200 IN A 192.116.4.99
+Jet-E314 7200 IN A 192.168.1.141
+wseru 7200 IN A 216.235.200.156
+busus 7200 IN A 192.168.2.75
+main-switch 7200 IN A 192.116.4.220
+jet-Exdean 7200 IN A 192.168.3.52
+zimbraAdmin 7200 IN A 192.168.5.7
+www.cais2 7200 IN A 192.116.5.1
+jet-D217pc 7200 IN A 192.168.5.78
+jet-c211a 7200 IN A 192.168.5.125
+www.palarch 7200 IN A 216.235.200.156
+_ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+jet-S02 7200 IN A 192.168.3.124
+public 7200 IN A 82.213.13.14
+jet-s05 7200 IN A 192.168.3.94
+jet-s06 7200 IN A 192.168.3.193
+jet-c213pc 7200 IN A 192.168.5.121
+www.icp2 7200 IN A 192.116.4.6
+Jet_Science_Breighith 7200 IN A 192.168.3.29
+campus2 7200 IN A 192.116.5.1
+_kerberos._tcp.Default-First-Site-Name._sites.ma-server 600 IN SRV 0 100 88 server.ma-server
+_kerberos._tcp.dc._msdcs.nativity 600 IN SRV 0 100 88 Nativity-DC2.nativity
+600 IN SRV 0 100 88 Auth2012.nativity
+marandreaserver 7200 IN A 192.168.0.3
+Jet-E304 7200 IN A 192.168.1.142
+A1202449 7200 IN A 192.116.4.3
+micad 7200 IN A 216.235.200.156
+jet-mec2 7200 IN A 192.168.3.175
+ns-local 7200 IN A 192.168.5.1
+helpdesk 7200 IN A 192.116.5.1
+unescobercen 7200 IN A 216.235.200.156
+jet-b115pc 7200 IN A 192.168.3.153
+_ldap._tcp.gc._msdcs.ma-server 600 IN SRV 0 100 3268 server.ma-server
+www.lcei 7200 IN A 216.235.200.156
+education 7200 IN A 216.235.200.156
+math2 7200 IN A 192.116.5.1
+jet-Lab260_4600C 7200 IN A 192.116.4.206
+cais.msgroup 7200 IN A 192.116.4.3
+_gc._tcp.Default-First-Site-Name._sites.nativity 600 IN SRV 0 100 3268 Auth2012.nativity
+600 IN SRV 0 100 3268 Nativity-DC2.nativity
+www.adnan2 7200 IN A 192.116.5.1
+mec 7200 IN A 216.235.200.156
+scc-switch 7200 IN A 192.116.4.246
+icp2 7200 IN A 192.116.4.6
+storrepl 7200 IN A 192.168.5.21
+www.ip 7200 IN A 192.116.5.1
+moodleold 7200 IN A 192.116.5.1
+b9c37939-8838-4764-b800-49fbba577b0f._msdcs.ma-server 600 IN CNAME server.ma-server
+ipdaoud 7200 IN A 192.116.4.6
+A1104910 7200 IN A 192.116.4.3
+healthscience 7200 IN A 216.235.200.156
+unmurononbasta 7200 IN A 216.235.200.156
+jet-L005c 7200 IN A 192.168.3.147
+www.ftdc2 7200 IN A 192.116.5.1
+jet-bcc 7200 IN A 192.116.5.199
+www.mt 7200 IN A 192.116.5.1
+lab1081-switch 7200 IN A 192.116.4.17
+calendar 7200 IN A 216.235.200.156
+www.alumni2 7200 IN A 192.116.5.1
+jet-Lib_2200d 7200 IN A 192.116.4.209
+BUStorage.bustorage 1200 IN A 192.168.3.86
+1200 IN A 192.168.5.18
+www.pr 7200 IN A 216.235.200.156
+eliasj 7200 IN A 216.235.200.156
+www.admission2 7200 IN A 192.116.5.1
+site1 7200 IN A 192.168.1.250
+site2 7200 IN A 192.168.1.250
+www.micad2 7200 IN A 192.116.5.1
+jet-deanofstudents 7200 IN A 192.116.4.201
+marandrea 600 IN A 192.168.0.3
+lcei 7200 IN A 216.235.200.156
+712490ea-0f16-479a-aa86-8920896ef2bb._msdcs.bustorage 600 IN CNAME BUStorage.bustorage
+jet-Lab108 7200 IN A 192.116.4.207
+lab2603-switch 7200 IN A 192.116.4.11
+_kpasswd._tcp.marandrea 600 IN SRV 0 100 464 marandreaserver.marandrea
+_kpasswd._udp.bustorage 600 IN SRV 0 100 464 storrepl.bustorage
+600 IN SRV 0 100 464 BUStorage.bustorage
+jet-MA3rd 7200 IN A 192.168.3.142
+www.religiousconference 7200 IN CNAME religiousconference
+wbticket 7200 IN A 192.116.5.1
+www.civ2 7200 IN A 192.116.5.1
+artcentre 7200 IN A 216.235.200.156
+mrtg 7200 IN A 192.116.5.1
+survey 7200 IN A 192.116.5.1
+_kerberos._tcp.ma-server 600 IN SRV 0 100 88 server.ma-server
+admproxy 7200 IN CNAME ns
+www.healthscience2 7200 IN A 192.116.5.1
+_ldap._tcp.ForestDnsZones.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+bukasper 7200 IN A 192.168.2.208
+arabic 7200 IN A 216.235.200.156
+jet-registrar 7200 IN A 192.168.5.102
+_gc._tcp.marandrea 600 IN SRV 0 100 3268 marandreaserver.marandrea
+m01-switch 7200 IN A 192.116.4.250
+admusallam 7200 IN A 216.235.200.156
+mailgw1 7200 IN A 192.116.4.1
+www.mahd24 7200 IN A 192.116.4.99
+zimbra 7200 IN A 192.116.5.2
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs.bustorage 600 IN SRV 0 100 3268 BUStorage.bustorage
+storrepl.bustorage 1200 IN A 192.168.3.194
+1200 IN A 192.168.5.21
+www.cloud 7200 IN A 192.116.4.2
+ntd 7200 IN A 192.116.5.1
+www.wpdm2 7200 IN A 192.116.4.6
+www.wpdm3 7200 IN A 192.116.4.6
+www.wpdm4 7200 IN A 192.116.4.6
+www.wpdm5 7200 IN A 192.116.4.6
+www.wpdm6 7200 IN A 192.116.4.6
+_ldap._tcp.pdc._msdcs.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+www.wpdm8 7200 IN A 192.116.4.6
+www.wpdm9 7200 IN A 192.116.4.6
+www.buap 7200 IN A 192.116.5.1
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+rawan 7200 IN A 192.116.4.3
+www.wbticket 7200 IN A 192.116.5.1
+opd 7200 IN A 192.116.4.2
+nativity-DC2.nativity 1200 IN A 192.168.0.20
+civ2 7200 IN A 192.116.5.1
+jet-D213c 7200 IN A 192.168.5.94
+gpserver 7200 IN A 192.116.4.103
+jet-D213g 7200 IN A 192.168.5.135
+forms 7200 IN A 192.116.5.1
+arabic2 7200 IN A 192.116.5.1
+jet-s205 7200 IN A 192.168.3.34
+jet-S201a 7200 IN A 192.168.3.151
+jet-S201b 7200 IN A 192.168.3.151
+pr2 7200 IN A 192.116.5.1
+www.hrl2 7200 IN A 192.116.5.1
+jet-D217a 7200 IN A 192.168.5.103
+jet-c201 7200 IN A 192.168.3.57
+www.wpdm21 7200 IN A 192.116.4.6
+jet-c213 7200 IN A 192.168.5.120
+jet-208 7200 IN A 192.116.5.7
+unescobercen2 7200 IN A 192.116.5.1
+campus 7200 IN A 192.116.5.1
+_ldap._tcp.Default-First-Site-Name._sites.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+A1002145 7200 IN A 192.116.4.3
+nsicp 7200 IN A 192.116.4.6
+_ldap._tcp.DomainDnsZones.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea
+_kerberos._tcp.dc._msdcs.ma-server 600 IN SRV 0 100 88 server.ma-server
+_kerberos._tcp.Default-First-Site-Name._sites.bustorage 600 IN SRV 0 100 88 storrepl.bustorage
+600 IN SRV 0 100 88 BUStorage.bustorage
+A1002184 7200 IN A 192.116.4.3
+_kpasswd._tcp.ma-server 600 IN SRV 0 100 464 server.ma-server
+buap 7200 IN A 192.116.5.1
+_kpasswd._tcp.nativity 600 IN SRV 0 100 464 Nativity-DC2.nativity
+600 IN SRV 0 100 464 Auth2012.nativity
+_ldap._tcp.pdc._msdcs.nativity 600 IN SRV 0 100 389 Auth2012.nativity
+bucc 7200 IN CNAME ns
+m4-switch 7200 IN A 192.116.4.254
+_ldap._tcp.Default-First-Site-Name._sites.DomainDnsZones.marandrea 600 IN SRV 0 100 389 marandreaserver.marandrea

@@ -1,0 +1,1368 @@
+@ 86400 IN SOA ns1 root.ns1 2015042303 36000 3600 1180800 10800
+@ 86400 IN MX 20 lists
+86400 IN MX 30 bavaria
+@ 86400 IN TXT "v=spf1 a mx a:bavaria.utcluj.ro ~all"
+@ 86400 IN A 193.226.5.7
+@ 86400 IN AAAA 2001:b30:5000:2::7
+@ 86400 IN NS ns1
+86400 IN NS hercule
+86400 IN NS marmota.cluj.roedu.net.
+chestionar 86400 IN CNAME webhosting
+ap211a.dor 86400 IN A 193.226.17.154
+www.bioresol 86400 IN CNAME detect.east
+www.icdesign 86400 IN CNAME webhosting
+stan 86400 IN A 193.226.5.15
+www.mediogrid.research 86400 IN CNAME mediogrid.research
+www.gabriela-sunzuianu 86400 IN CNAME webhosting
+luc 86400 IN A 193.226.5.75
+www.intranet 86400 IN A 193.226.5.51
+www.archive.atna-mam 86400 IN CNAME detect.east
+cester 86400 IN CNAME detect.east
+serverbd.lab-bd 86400 IN A 193.226.5.103
+jimmy.management 86400 IN A 192.168.70.225
+CISCO-CAPWAP-CONTROLLER 86400 IN A 10.132.0.254
+iedpfc 86400 IN CNAME webhosting
+voxcom 86400 IN CNAME webhosting
+inndrive 86400 IN CNAME webhosting
+nasuivasile 86400 IN A 193.231.17.28
+eaglewatch 86400 IN A 193.226.6.41
+temp 86400 IN CNAME webhosting
+www.centru-mat 86400 IN CNAME webhosting
+www.bioenerg 86400 IN CNAME detect.east
+moodle 86400 IN CNAME portal
+ramses-math 86400 IN CNAME webhosting
+ria 86400 IN A 193.226.7.173
+www.decidfr 86400 IN CNAME decidfr
+www.ecom 86400 IN CNAME webhosting
+icecast.panzer 86400 IN CNAME panzer
+ufo.campus 86400 IN CNAME c2.campus
+www.jeopard 86400 IN CNAME jeopard
+www.greenmining 86400 IN CNAME webhosting
+sirius 86400 IN A 193.226.17.134
+rochi2010 86400 IN A 193.226.5.226
+www.librarie 86400 IN CNAME webhosting
+aiuga.et 86400 IN A 193.226.5.193
+ispconfig 86400 IN A 193.226.5.8
+www.etti 86400 IN A 193.226.5.156
+electromotion 86400 IN CNAME webhosting
+uranus 86400 IN A 193.226.5.82
+wendy 86400 IN A 193.226.5.141
+www.bel 86400 IN CNAME phoebe
+cardionet 86400 IN CNAME webhosting
+scd 86400 IN A 193.226.5.233
+wash.c4.campus 86400 IN CNAME c4-router.campus
+gallery.cc 86400 IN CNAME webhosting
+www.termo 86400 IN A 193.226.7.132
+mecanica 86400 IN MX 20 bavaria
+mecanica 86400 IN TXT "v=spf1 a mx ~all"
+mecanica 86400 IN A 193.226.5.156
+scm 86400 IN CNAME apollo
+www.constructii 86400 IN CNAME beta
+ns.microsoft 86400 IN A 193.226.17.220
+www.scti 86400 IN CNAME webhosting
+c7.campus 86400 IN A 193.226.6.226
+c7.campus 86400 IN MX 10 freebsd
+86400 IN MX 20 hercule
+staff 86400 IN MX 20 bavaria
+staff 86400 IN TXT "v=spf1 a mx ~all"
+gt-ige 86400 IN A 193.226.5.102
+esop 86400 IN CNAME detect.east
+switch-bar25 86400 IN A 193.226.5.30
+mnit.museum 86400 IN A 193.226.5.179
+romanasul 86400 IN CNAME webhosting
+idei205_2008 86400 IN CNAME detect.east
+chestionare 86400 IN CNAME webhosting
+ethm 86400 IN MX 20 bavaria
+ethm 86400 IN TXT "v=spf1 a mx ~all"
+ethm 86400 IN AAAA 2001:b30:5000:2::150
+ethm 86400 IN A 193.226.5.150
+voinicel 86400 IN A 193.226.17.95
+www.gdgi 86400 IN CNAME detect.east
+t3281.el 86400 IN A 193.226.5.169
+www.cam 86400 IN CNAME webhosting
+gw-ctmed 86400 IN A 193.226.17.145
+c5.campus 86400 IN CNAME monitorizare.campus
+icapm2011 86400 IN CNAME webhosting
+webmail.ctmed 86400 IN A 193.226.17.1
+www.ccd 86400 IN CNAME webhosting
+t5101.el.obs 86400 IN A 193.226.6.184
+rrg 86400 IN A 193.226.17.242
+old.etti 86400 IN CNAME webhosting
+old.ie 86400 IN CNAME webhosting
+mm1.ctmed 86400 IN A 193.226.17.3
+sim 86400 IN A 193.226.5.150
+sim 86400 IN MX 20 bavaria
+sim 86400 IN TXT "v=spf1 a mx ~all"
+www.depingo 86400 IN CNAME sinu
+museum 86400 IN MX 10 mnit.museum
+86400 IN MX 20 hercule
+www.blr 86400 IN CNAME webhosting
+upec2014 86400 IN CNAME webhosting
+www.aut 86400 IN A 193.226.6.120
+www.invata-automatica 86400 IN CNAME webhosting
+gw.ctmed 86400 IN A 193.226.17.17
+c3.campus 86400 IN A 193.226.6.229
+c3.campus 86400 IN MX 10 c3.campus
+86400 IN MX 20 hercule
+www.cursfizica 86400 IN A 199.34.228.73
+www.spitalulmunicipal 86400 IN CNAME apollo
+cnap 86400 IN CNAME webhosting
+ns.office365 86400 IN A 217.73.173.44
+research 86400 IN MX 20 bavaria
+research 86400 IN TXT "v=spf1 a mx ~all"
+research 86400 IN AAAA 2001:b30:5000:2::150
+research 86400 IN A 193.226.5.150
+club 86400 IN A 193.226.17.234
+psihologie 86400 IN CNAME webhosting
+www.harmath 86400 IN CNAME webhosting
+tcm 86400 IN MX 20 bavaria
+tcm 86400 IN TXT "v=spf1 a mx ~all"
+cestruct.itec 86400 IN CNAME webhosting
+wrs 86400 IN CNAME webhosting
+ispm 86400 IN MX 20 bavaria
+ispm 86400 IN TXT "v=spf1 a mx ~all"
+www.mail 86400 IN A 193.226.5.35
+www.inndrive 86400 IN CNAME webhosting
+www.desy 86400 IN CNAME webhosting
+www.marketing 86400 IN CNAME webhosting
+logia 86400 IN CNAME webhosting
+www.robotics10 86400 IN CNAME detect.east
+decsap 86400 IN A 193.226.7.133
+test 86400 IN CNAME webhosting
+www.bri 86400 IN CNAME bri
+www.dac 86400 IN CNAME dac
+www.rezi 86400 IN CNAME detect.east
+ultra.et 86400 IN A 193.226.5.196
+t4033.el.obs 86400 IN A 193.226.6.169
+ex 86400 IN MX 20 bavaria
+dce.el 86400 IN A 193.226.5.164
+www.iman 86400 IN CNAME detect.east
+testavl 86400 IN A 193.226.5.237
+c4-router.campus 86400 IN A 193.226.6.228
+cryptorand 86400 IN CNAME webhosting
+www.tcm 86400 IN CNAME webhosting
+www.arma 86400 IN CNAME detect.east
+triton.bel 86400 IN A 193.226.6.189
+etti 86400 IN A 193.226.5.156
+www.se 86400 IN CNAME webhosting
+www.cnette 86400 IN CNAME detect.east
+white4.et.obs 86400 IN A 193.226.6.221
+www.algappl 86400 IN CNAME webhosting
+www.mecanica 86400 IN A 193.226.5.156
+www.inginerie 86400 IN CNAME beta
+www.cnb 86400 IN CNAME detect.east
+tower 86400 IN A 193.226.17.91
+freebsd 86400 IN A 193.226.6.231
+freebsd 86400 IN AAAA 2001:b30:5000:9::2
+cache 86400 IN A 193.226.5.148
+86400 IN A 193.226.5.155
+sso 86400 IN A 193.226.5.2
+etti-master 86400 IN CNAME ares
+sp 86400 IN CNAME webhosting
+test-ovidiu 86400 IN A 193.226.5.16
+mixer.icdesign 86400 IN A 193.226.5.201
+stm 86400 IN MX 20 bavaria
+86400 IN MX 30 hercule
+stm 86400 IN TXT "v=spf1 a mx ~all"
+www.cnp 86400 IN CNAME webhosting
+www.infonet 86400 IN A 193.226.7.169
+efs 86400 IN MX 20 bavaria
+efs 86400 IN TXT "v=spf1 a mx ~all"
+rtsp2007 86400 IN CNAME webhosting
+storage.cc 86400 IN CNAME panzer
+www.com 86400 IN A 193.226.6.174
+infra 86400 IN MX 20 bavaria
+infra 86400 IN TXT "v=spf1 a mx ~all"
+maar 86400 IN MX 20 bavaria
+maar 86400 IN TXT "v=spf1 a mx ~all"
+www.simimed 86400 IN CNAME webhosting
+cerex 86400 IN CNAME webhosting
+gdgi 86400 IN MX 20 bavaria
+gdgi 86400 IN TXT "v=spf1 a mx ~all"
+materiale 86400 IN CNAME webhosting
+www.intranetc5.campus 86400 IN CNAME monitorizare.campus
+www.c5.campus 86400 IN CNAME monitorizare.campus
+www.math 86400 IN CNAME webhosting
+litere 86400 IN CNAME beta
+foodtrace 86400 IN A 193.226.17.219
+www.webhosting 86400 IN AAAA 2001:b30:5000:2::150
+www.webhosting 86400 IN A 193.226.5.150
+www.cemiva 86400 IN CNAME webhosting
+admin.ctmed 86400 IN A 193.226.17.11
+www.moodle 86400 IN CNAME portal
+simac 86400 IN A 193.226.17.22
+www.sp 86400 IN CNAME webhosting
+test-esaform 86400 IN CNAME webhosting
+b.radius 86400 IN A 193.226.5.147
+emd 86400 IN MX 20 bavaria
+emd 86400 IN TXT "v=spf1 a mx ~all"
+emd 86400 IN AAAA 2001:b30:5000:2::150
+emd 86400 IN A 193.226.5.150
+sharepoint 86400 IN A 94.52.104.109
+www.ctcvideoscope 86400 IN CNAME webhosting
+www.research 86400 IN AAAA 2001:b30:5000:2::150
+www.research 86400 IN A 193.226.5.150
+net-vlan13-cia 86400 IN A 193.226.17.216
+router.obs 86400 IN CNAME blackbird.obs
+rss2000 86400 IN A 193.226.17.124
+old.instalatii 86400 IN AAAA 2001:b30:5000:2::150
+old.instalatii 86400 IN A 193.226.5.150
+www.emes 86400 IN CNAME webhosting
+scdoc 86400 IN MX 20 bavaria
+scdoc 86400 IN TXT "v=spf1 a mx ~all"
+ceprodec 86400 IN CNAME webhosting
+detect.east 86400 IN A 193.226.7.195
+mgmt-dnsmasq.mosigrid 86400 IN A 217.73.173.25
+tdlab.et.obs 86400 IN A 193.226.6.195
+www.cwl 86400 IN CNAME webhosting
+caracterizarea-materialelor 86400 IN CNAME detect.east
+www.een 86400 IN CNAME webhosting
+madad 86400 IN CNAME detect.east
+musatin 86400 IN A 193.226.17.77
+electromotion2013 86400 IN CNAME webhosting
+www.armeva261eu 86400 IN CNAME webhosting
+desy 86400 IN CNAME webhosting
+www.campus 86400 IN A 193.226.17.55
+timy.management 86400 IN A 192.168.70.226
+master-psi 86400 IN CNAME ares
+www.pacsf 86400 IN A 193.226.7.174
+adems09 86400 IN CNAME webhosting
+www.catalog 86400 IN CNAME catalog
+rezi 86400 IN MX 20 bavaria
+rezi 86400 IN TXT "v=spf1 a mx ~all"
+www.gallery 86400 IN CNAME webhosting
+www.impt 86400 IN CNAME webhosting
+mm18.ctmed 86400 IN A 193.226.17.22
+leadership 86400 IN A 193.226.5.70
+www.conmec 86400 IN CNAME detect.east
+student.obs 86400 IN CNAME caldera.obs
+www.mcld 86400 IN CNAME detect.east
+compaq.el.obs 86400 IN A 193.226.6.173
+86400 IN A 193.226.6.179
+imap 86400 IN CNAME bavaria
+mm12.ctmed 86400 IN A 193.226.17.14
+jedi 86400 IN A 193.226.17.26
+astr-cluj 86400 IN CNAME webhosting
+www.ipreale 86400 IN CNAME webhosting
+www.e-marketing 86400 IN CNAME webhosting
+www.posdru55652 86400 IN CNAME webhosting
+kenny.management 86400 IN A 192.168.70.221
+guest 86400 IN MX 20 bavaria
+guest 86400 IN TXT "v=spf1 a mx ~all"
+algappl 86400 IN CNAME webhosting
+www.esaform 86400 IN AAAA 2001:b30:5000:2::150
+www.esaform 86400 IN A 193.226.5.150
+roadsafety 86400 IN CNAME webhosting
+imec 86400 IN AAAA 2001:b30:5000:2::150
+imec 86400 IN A 193.226.5.150
+ce01.mosigrid 86400 IN A 217.73.173.21
+cemaso 86400 IN A 193.226.7.173
+www.emb 86400 IN CNAME webhosting
+www.cursuri 86400 IN CNAME portal
+www.emd 86400 IN AAAA 2001:b30:5000:2::150
+www.emd 86400 IN A 193.226.5.150
+ui01.mosigrid 86400 IN A 217.73.173.20
+dsrl.coned 86400 IN CNAME coned
+student 86400 IN MX 20 mail.student
+86400 IN MX 30 mail
+student 86400 IN TXT "v=spf1 a mx ~all"
+student 86400 IN A 193.226.5.3
+student 86400 IN AAAA 2001:b30:5000:2::3
+estart 86400 IN CNAME webhosting
+jimmy 86400 IN A 193.226.5.23
+ns.ctmed 86400 IN A 193.226.17.1
+net 86400 IN MX 20 bavaria
+net 86400 IN TXT "v=spf1 a mx ~all"
+ngi-ro.mosigrid 86400 IN A 217.73.173.28
+lfc01.mosigrid 86400 IN A 217.73.173.24
+www.enm 86400 IN AAAA 2001:b30:5000:2::150
+www.enm 86400 IN A 193.226.5.150
+automation 86400 IN CNAME users
+mail.teste.ccd 86400 IN A 193.226.5.137
+www.cester 86400 IN CNAME detect.east
+dicom 86400 IN A 193.226.5.109
+insemtives 86400 IN A 193.226.5.118
+cpaddd 86400 IN MX 20 bavaria
+cpaddd 86400 IN TXT "v=spf1 a mx ~all"
+cpaddd 86400 IN AAAA 2001:b30:5000:2::150
+cpaddd 86400 IN A 193.226.5.150
+www.voxcom 86400 IN CNAME webhosting
+math 86400 IN MX 20 bavaria
+math 86400 IN TXT "v=spf1 a mx ~all"
+snom07 86400 IN CNAME webhosting
+sap 86400 IN A 193.226.5.76
+c4s 86400 IN CNAME webhosting
+senat 86400 IN MX 20 bavaria
+senat 86400 IN TXT "v=spf1 a mx ~all"
+www.eps 86400 IN AAAA 2001:b30:5000:2::150
+www.eps 86400 IN A 193.226.5.150
+lna-cad1.icdesign 86400 IN A 193.226.5.200
+www.nasuivasile 86400 IN A 193.231.17.28
+dspam 86400 IN CNAME bavaria
+rochi2008 86400 IN A 193.226.5.226
+www.ramses-math 86400 IN CNAME webhosting
+icecast4 86400 IN A 193.226.17.185
+gold.c3 86400 IN CNAME c3.campus
+collab 86400 IN A 193.226.17.123
+www.pcfi 86400 IN CNAME webhosting
+tdx33.el.obs 86400 IN A 193.226.6.177
+www.connet 86400 IN CNAME zeus.east
+icegd 86400 IN CNAME webhosting
+www.obs 86400 IN CNAME blackbird.obs
+mtc 86400 IN MX 20 bavaria
+www.ceprodec 86400 IN CNAME webhosting
+www.fau 86400 IN A 193.226.5.149
+www.energoecofarm 86400 IN CNAME detect.east
+ok 86400 IN CNAME users
+rochi2006 86400 IN A 193.226.5.226
+rochi2007 86400 IN A 193.226.5.226
+www.cestruct.itec 86400 IN CNAME webhosting
+www.emdrc 86400 IN CNAME webhosting
+www.lejpt 86400 IN CNAME chimie
+rochi2012 86400 IN A 193.226.5.226
+apollo 86400 IN A 193.226.7.154
+rochi2014 86400 IN A 193.226.5.226
+mm6.ctmed 86400 IN A 193.226.17.8
+nutzu 86400 IN A 193.226.5.149
+image.et.obs 86400 IN A 193.226.6.208
+www.management 86400 IN CNAME webhosting
+gw.licbar 86400 IN A 217.73.171.98
+info 86400 IN A 193.226.17.66
+CISCO-LWAPP-CONTROLLER 86400 IN A 10.132.0.254
+www.adems 86400 IN CNAME webhosting
+www.multimedia 86400 IN CNAME webhosting
+silver.management 86400 IN A 192.168.70.52
+ispdc 86400 IN CNAME webhosting
+vpn-ccd 86400 IN A 193.226.5.12
+www.ococ 86400 IN AAAA 2001:b30:5000:2::150
+www.ococ 86400 IN A 193.226.5.150
+www.wash.c5.campus 86400 IN CNAME monitorizare.campus
+impt 86400 IN CNAME webhosting
+simimed 86400 IN CNAME webhosting
+www.ggi 86400 IN AAAA 2001:b30:5000:2::150
+www.ggi 86400 IN A 193.226.5.150
+media.ctmed 86400 IN A 193.226.17.14
+alumni 86400 IN MX 20 bavaria
+alumni 86400 IN TXT "v=spf1 a mx ~all"
+ns 86400 IN CNAME hercule
+mcld 86400 IN CNAME detect.east
+www.chestionare 86400 IN CNAME webhosting
+moodle.services 86400 IN CNAME services
+freemail 86400 IN A 193.226.5.10
+itec001 86400 IN A 193.226.5.248
+comodici 86400 IN CNAME webhosting
+itec003 86400 IN A 193.226.5.250
+t4052.el.obs 86400 IN A 193.226.6.163
+freebsd-gw 86400 IN A 193.226.6.231
+www.qualityres 86400 IN CNAME zeus.east
+www.parasurg 86400 IN CNAME detect.east
+orion 86400 IN A 193.226.5.55
+commboard 86400 IN A 193.226.5.117
+bc-biblio-obs-vlan12 86400 IN A 193.226.17.239
+bronse.management 86400 IN A 192.168.70.53
+mythbuster 86400 IN A 193.226.5.48
+www.museum 86400 IN CNAME mnit.museum
+dep-tcm 86400 IN MX 20 bavaria
+dep-tcm 86400 IN TXT "v=spf1 a mx ~all"
+www.wrs 86400 IN CNAME webhosting
+ctmed 86400 IN A 193.226.17.1
+ctmed 86400 IN MX 10 ctmed
+www.ci579 86400 IN CNAME webhosting
+www.memm 86400 IN CNAME webhosting
+mirror.obs 86400 IN CNAME caldera.obs
+optoel.el 86400 IN A 193.226.5.173
+hitech-hev 86400 IN CNAME webhosting
+jabber 86400 IN CNAME hercule
+balazs 86400 IN A 193.226.5.60
+old.mecanica 86400 IN AAAA 2001:b30:5000:2::150
+nas-webhosting.management 86400 IN A 192.168.70.250
+wheel-ee 86400 IN CNAME webhosting
+radio 86400 IN A 193.226.5.105
+www.robotica_m 86400 IN CNAME icpd
+agnes 86400 IN A 193.226.5.135
+CISCO-CAPWAP-CONTROLLER.eduroam 86400 IN A 10.132.0.254
+white3.et.obs 86400 IN A 193.226.6.220
+proinova 86400 IN CNAME platinova
+cartman.management 86400 IN A 192.168.70.223
+www.decsap 86400 IN CNAME decsap
+intranetc5.campus 86400 IN CNAME monitorizare.campus
+www.roadsafety 86400 IN CNAME webhosting
+www.hl7 86400 IN CNAME webhosting
+lab211a.dor 86400 IN A 193.226.17.157
+servcalc 86400 IN A 193.226.5.227
+www.frmm 86400 IN A 193.226.5.149
+www.nutu 86400 IN CNAME webhosting
+webhosting 86400 IN AAAA 2001:b30:5000:2::150
+webhosting 86400 IN A 193.226.5.150
+ingmed 86400 IN CNAME detect.east
+r-caman 86400 IN A 217.73.171.36
+www.servcalc 86400 IN CNAME servcalc
+elbioarch 86400 IN CNAME webhosting
+centrulnationalbiodiesel 86400 IN CNAME detect.east
+tempus.east 86400 IN A 193.226.7.33
+mail 86400 IN AAAA 2001:b30:5000:2::35
+mail 86400 IN A 193.226.5.35
+transilvania.coned 86400 IN CNAME coned
+satu-mare 86400 IN CNAME webhosting
+farap 86400 IN CNAME webhosting
+helios 86400 IN A 193.226.5.228
+www 86400 IN A 193.226.5.7
+www 86400 IN AAAA 2001:b30:5000:2::7
+platinova 86400 IN A 193.226.5.104
+ifolder1.student 86400 IN CNAME fs.obs
+linux 86400 IN CNAME webhosting
+bb.obs 86400 IN CNAME blackbird.obs
+proxyv4.sinu 86400 IN A 172.27.161.6
+86400 IN A 172.27.161.7
+86400 IN A 172.27.166.6
+86400 IN A 172.27.166.7
+86400 IN A 172.27.167.6
+86400 IN A 172.27.167.7
+sidoc 86400 IN CNAME webhosting
+www.upec2014 86400 IN CNAME webhosting
+rochi2015 86400 IN A 193.226.5.226
+music.cc 86400 IN CNAME armageddon
+www.etti-master 86400 IN CNAME ares
+nyquist 86400 IN A 193.226.5.247
+www.snom07 86400 IN CNAME webhosting
+www.infoap 86400 IN CNAME infoap
+www.cgutcn 86400 IN CNAME webhosting
+t5071.el.obs 86400 IN A 193.226.6.187
+server-install 86400 IN A 193.226.5.13
+personal.aut 86400 IN CNAME users
+www.amma2013 86400 IN CNAME webhosting
+www.koroattc 86400 IN CNAME koroattc
+www.freemail 86400 IN CNAME freemail
+www.comodici 86400 IN CNAME webhosting
+instalatii 86400 IN AAAA 2001:b30:5000:2::156
+instalatii 86400 IN A 193.226.5.156
+cadlic.icdesign 86400 IN A 193.226.5.204
+didatec 86400 IN CNAME webhosting
+koroattc 86400 IN A 193.226.17.218
+b26a.cs 86400 IN A 193.226.5.232
+ctmtc 86400 IN A 193.226.17.4
+ctmed-gw 86400 IN A 193.226.17.146
+ctmed-gw 86400 IN MX 5 icar
+86400 IN MX 10 hercule
+roedu2008 86400 IN CNAME webhosting
+asterisk.dor 86400 IN A 193.226.17.155
+zem 86400 IN CNAME webhosting
+dacit 86400 IN CNAME cim.east
+main.ael 86400 IN A 193.226.5.73
+main.ael 86400 IN MX 10 main.ael
+www.unigraphics 86400 IN CNAME detect.east
+www.didatec 86400 IN CNAME webhosting
+memm 86400 IN CNAME webhosting
+www.wheel-ee 86400 IN CNAME webhosting
+www.iit 86400 IN CNAME webhosting
+resolmet 86400 IN CNAME detect.east
+mm17.ctmed 86400 IN A 193.226.17.21
+master-sicas 86400 IN CNAME webhosting
+ael 86400 IN MX 20 bavaria
+ael 86400 IN TXT "v=spf1 a mx ~all"
+admitere 86400 IN A 193.226.17.188
+ge-4-21-2.r-core 86400 IN A 193.226.17.253
+asiem 86400 IN A 193.226.7.172
+aer 86400 IN CNAME webhosting
+mm11.ctmed 86400 IN A 193.226.17.13
+remsis 86400 IN A 193.226.17.52
+rochi2011 86400 IN A 193.226.5.226
+www.ecot 86400 IN CNAME detect.east
+amgd 86400 IN A 217.73.171.82
+www.virfab 86400 IN CNAME webhosting
+servercs.b26a.cs 86400 IN A 193.226.5.231
+www.munte 86400 IN CNAME webhosting
+www.imm 86400 IN CNAME beta
+decidfr 86400 IN A 193.226.7.133
+rochi2013 86400 IN A 193.226.5.226
+4dpostdoc 86400 IN CNAME webhosting
+mm7.ctmed 86400 IN A 193.226.17.9
+www.cmrmc 86400 IN CNAME webhosting
+frmm 86400 IN A 193.226.5.149
+sic 86400 IN CNAME webhosting
+comodici.ctmed 86400 IN CNAME mm8.ctmed
+east 86400 IN NS tempus.east
+arheologie 86400 IN A 193.226.5.180
+r2811-2.dor 86400 IN A 193.226.17.158
+icecast 86400 IN A 193.226.5.148
+www.isge 86400 IN CNAME webhosting
+dntcj-gw 86400 IN A 193.226.17.255
+genesis.et 86400 IN A 193.226.5.208
+pid 86400 IN A 193.226.6.123
+pid 86400 IN MX 10 pid
+atna-mam 86400 IN CNAME wh01-muri.east
+www.ipm 86400 IN CNAME webhosting
+desen 86400 IN MX 20 bavaria
+desen 86400 IN TXT "v=spf1 a mx ~all"
+desen 86400 IN A 193.226.5.150
+ge-4-5-4.r-core 86400 IN A 193.226.17.209
+masserv 86400 IN A 193.226.5.178
+proxy 86400 IN A 193.226.5.148
+86400 IN A 193.226.5.155
+www.irc 86400 IN CNAME webhosting
+atracting 86400 IN A 46.243.115.186
+resin 86400 IN CNAME webhosting
+bistum.management 86400 IN A 192.168.70.54
+www.constructii-masini 86400 IN CNAME zeus.east
+antenna.icdesign 86400 IN A 193.226.5.203
+www.cemaso 86400 IN CNAME cemaso
+www.monitorccd 86400 IN CNAME webhosting
+www.p3s 86400 IN CNAME webhosting
+ancs 86400 IN A 193.226.17.221
+www.ism 86400 IN CNAME detect.east
+cam 86400 IN CNAME webhosting
+www.estart 86400 IN CNAME webhosting
+semlet 86400 IN CNAME webhosting
+bel 86400 IN A 193.226.5.66
+bel 86400 IN MX 20 bavaria
+bel 86400 IN TXT "v=spf1 a mx ~all"
+www.cermi 86400 IN CNAME zeus.east
+www.biodiesel 86400 IN CNAME zeus.east
+mercur 86400 IN A 193.226.6.162
+se01.mosigrid 86400 IN A 217.73.173.22
+vsx8000 86400 IN A 193.226.17.125
+elearning-1stepsinelectronics 86400 IN A 46.149.18.80
+tm 86400 IN MX 20 bavaria
+tm 86400 IN TXT "v=spf1 a mx ~all"
+ebook 86400 IN CNAME webhosting
+www.ssip2010 86400 IN CNAME webhosting
+www.cpaddd 86400 IN AAAA 2001:b30:5000:2::150
+www.cpaddd 86400 IN A 193.226.5.150
+www.sic 86400 IN CNAME webhosting
+cs-gw 86400 IN A 193.226.5.112
+www.itec 86400 IN CNAME webhosting
+apr 86400 IN MX 20 bavaria
+apr 86400 IN TXT "v=spf1 a mx ~all"
+www.keg 86400 IN CNAME webhosting
+depinfo 86400 IN CNAME sinu
+osmium.management 86400 IN A 192.168.70.55
+catomt 86400 IN CNAME webhosting
+posdru55652 86400 IN CNAME webhosting
+nagios.mosigrid 86400 IN A 217.73.173.29
+id1100 86400 IN CNAME webhosting
+mm5.ctmed 86400 IN A 193.226.17.7
+signup.student 86400 IN CNAME portal
+arsip 86400 IN A 193.226.6.124
+asl 86400 IN A 193.226.6.222
+discipline.ctmed 86400 IN A 193.226.17.1
+zut 86400 IN CNAME webhosting
+olga.el 86400 IN A 193.226.5.174
+86400 IN A 193.226.5.175
+t4071.el.obs 86400 IN A 193.226.6.183
+www.old.mecanica 86400 IN AAAA 2001:b30:5000:2::150
+ccd 86400 IN CNAME webhosting
+parmis 86400 IN CNAME detect.east
+harmath 86400 IN CNAME webhosting
+www.liderxxi 86400 IN CNAME webhosting
+iris 86400 IN A 193.226.17.27
+minas 86400 IN CNAME webhosting
+ccm 86400 IN MX 20 bavaria
+ccm 86400 IN TXT "v=spf1 a mx ~all"
+services 86400 IN A 193.226.5.149
+tcom1.el 86400 IN A 193.226.5.161
+blr 86400 IN CNAME webhosting
+www.isse 86400 IN CNAME webhosting
+aut 86400 IN A 193.226.6.120
+aut 86400 IN MX 20 bavaria
+aut 86400 IN TXT "v=spf1 a mx ~all"
+ge-4-3-1.r-core 86400 IN A 193.226.5.222
+tts1 86400 IN A 46.243.115.3
+www.elbioarch 86400 IN CNAME webhosting
+www.sset-etti 86400 IN CNAME webhosting
+bmt 86400 IN MX 20 bavaria
+bmt 86400 IN TXT "v=spf1 a mx ~all"
+www.cwnp 86400 IN AAAA 2001:b30:5000:2::150
+www.cwnp 86400 IN A 193.226.5.150
+colective 86400 IN MX 20 bavaria
+colective 86400 IN TXT "v=spf1 a mx ~all"
+www.stiinte 86400 IN CNAME beta
+www.electromotion 86400 IN CNAME webhosting
+www.biomapim 86400 IN CNAME detect.east
+ticia2015 86400 IN CNAME webhosting
+octopus 86400 IN A 193.226.6.184
+innowecs 86400 IN CNAME webhosting
+icmsav 86400 IN CNAME detect.east
+cia 86400 IN A 193.226.17.222
+tat 86400 IN MX 20 bavaria
+tat 86400 IN TXT "v=spf1 a mx ~all"
+isge 86400 IN CNAME webhosting
+t4031.el.obs 86400 IN A 193.226.6.167
+cif 86400 IN MX 20 bavaria
+cif 86400 IN TXT "v=spf1 a mx ~all"
+www.lem 86400 IN CNAME webhosting
+bri 86400 IN A 193.226.7.133
+dac 86400 IN A 193.226.17.76
+head.opennode 86400 IN A 193.226.6.2
+www.nanograd 86400 IN CNAME webhosting
+nanograd 86400 IN CNAME webhosting
+CISCO-LWAPP-CONTROLLER.eduroam 86400 IN A 10.132.0.254
+beta 86400 IN NS ns.beta
+amma2013 86400 IN CNAME webhosting
+cercetare 86400 IN CNAME icar
+www.logia 86400 IN CNAME webhosting
+invata-automatica 86400 IN CNAME webhosting
+infonet 86400 IN A 193.226.7.169
+pluto 86400 IN A 193.226.5.81
+polibaschet 86400 IN CNAME webhosting
+best 86400 IN A 193.226.17.100
+helios.el.obs 86400 IN A 193.226.6.170
+rdns 86400 IN A 193.226.5.151
+tcom2.el 86400 IN A 193.226.5.162
+www.mae 86400 IN CNAME webhosting
+mail.student 86400 IN A 193.226.5.10
+mail.student 86400 IN AAAA 2001:b30:5000:2::10
+cnb 86400 IN CNAME detect.east
+el-compaq.el.obs 86400 IN A 193.226.6.190
+intranet2 86400 IN A 193.226.5.3
+intranet2 86400 IN AAAA 2001:b30:5000:2::3
+itec002 86400 IN A 193.226.5.249
+www.licbar 86400 IN CNAME gw.licbar
+www.ljs 86400 IN CNAME chimie
+cnp 86400 IN CNAME webhosting
+www.mce 86400 IN CNAME webhosting
+itec 86400 IN CNAME webhosting
+com 86400 IN MX 20 bavaria
+com 86400 IN TXT "v=spf1 a mx ~all"
+www.lmc 86400 IN CNAME webhosting
+www.solar 86400 IN CNAME webhosting
+conta 86400 IN A 193.226.17.70
+nexenta.fs.obs 86400 IN CNAME caldera.obs
+www.atna-mam 86400 IN CNAME wh01-muri.east
+wiki.mosigrid 86400 IN CNAME webhosting
+www.mdm 86400 IN AAAA 2001:b30:5000:2::150
+www.mdm 86400 IN A 193.226.5.150
+nealocat.amgd.utcluj.ro 86400 IN A 217.73.171.85
+www.ingmed 86400 IN CNAME detect.east
+lvme.obs 86400 IN A 193.226.6.129
+www.icegd 86400 IN CNAME webhosting
+dc.helios 86400 IN CNAME helios
+giga-4-11-sec 86400 IN A 193.226.17.161
+imap.student 86400 IN A 193.226.5.10
+imap.student 86400 IN AAAA 2001:b30:5000:2::10
+old.ac 86400 IN CNAME webhosting
+www.cerex 86400 IN CNAME webhosting
+rectorat-prdid 86400 IN A 193.226.17.85
+caman 86400 IN CNAME webhosting
+docs 86400 IN A 193.226.5.4
+docs 86400 IN AAAA 2001:b30:5000:2::4
+meditech 86400 IN CNAME webhosting
+isse 86400 IN CNAME webhosting
+cjfsg 86400 IN CNAME webhosting
+lists 86400 IN A 193.226.5.41
+lists 86400 IN AAAA 2001:b30:5000:2::41
+www.mie 86400 IN CNAME webhosting
+ge-4-2.r-core 86400 IN A 193.226.5.40
+master-estart 86400 IN A 46.243.115.186
+cc 86400 IN CNAME webhosting
+cwnp 86400 IN MX 20 bavaria
+cwnp 86400 IN TXT "v=spf1 a mx ~all"
+cwnp 86400 IN AAAA 2001:b30:5000:2::150
+cwnp 86400 IN A 193.226.5.150
+cur 86400 IN A 193.226.5.150
+cur 86400 IN MX 10 mx5.mxmailer.com.
+catalog 86400 IN A 193.226.17.182
+www.mis 86400 IN CNAME detect.east
+cm 86400 IN A 193.226.5.156
+www.intereviss 86400 IN A 46.243.115.186
+portal 86400 IN A 193.226.5.52
+edr 86400 IN MX 20 bavaria
+edr 86400 IN TXT "v=spf1 a mx ~all"
+nemesis 86400 IN A 193.226.17.163
+www.hera 86400 IN A 193.226.17.165
+cwl 86400 IN CNAME webhosting
+een 86400 IN CNAME webhosting
+cv 86400 IN CNAME webhosting
+cursfizica 86400 IN A 199.34.228.73
+research.com 86400 IN CNAME ares
+www.phys 86400 IN CNAME webhosting
+ipreale 86400 IN CNAME webhosting
+www.survey 86400 IN CNAME webhosting
+atflow 86400 IN CNAME webhosting
+mm16.ctmed 86400 IN A 193.226.17.20
+et 86400 IN MX 20 bavaria
+et 86400 IN TXT "v=spf1 a mx ~all"
+et 86400 IN A 193.226.5.150
+et 86400 IN AAAA 2001:b30:5000:2::150
+gd 86400 IN MX 20 bavaria
+gd 86400 IN TXT "v=spf1 a mx ~all"
+cemiva 86400 IN CNAME webhosting
+iel.ctmed 86400 IN A 193.226.17.22
+mm10.ctmed 86400 IN A 193.226.17.12
+mediogrid.research 86400 IN A 193.226.5.231
+ramses 86400 IN A 217.73.173.6
+www.madad 86400 IN CNAME detect.east
+cursuri 86400 IN CNAME portal
+odin.sinu 86400 IN A 193.226.17.183
+dpcf 86400 IN MX 20 bavaria
+dpcf 86400 IN TXT "v=spf1 a mx ~all"
+ie 86400 IN A 193.226.5.149
+www.alnemad 86400 IN CNAME webhosting
+camin 86400 IN CNAME webhosting
+coned 86400 IN A 193.226.5.124
+coned 86400 IN MX 10 coned
+86400 IN MX 20 hercule
+iccp2010 86400 IN CNAME webhosting
+old.fau 86400 IN CNAME webhosting
+t3301.el 86400 IN A 193.226.5.163
+im 86400 IN MX 20 bavaria
+im 86400 IN TXT "v=spf1 a mx ~all"
+im 86400 IN AAAA 2001:b30:5000:2::150
+im 86400 IN A 193.226.5.150
+comod 86400 IN CNAME webhosting
+dst 86400 IN MX 20 bavaria
+dst 86400 IN TXT "v=spf1 a mx ~all"
+fau 86400 IN A 193.226.5.149
+igeservices 86400 IN A 193.226.5.100
+www.parmis 86400 IN CNAME detect.east
+etti-admitere 86400 IN CNAME webhosting
+blackbird.obs 86400 IN A 193.226.6.133
+blackbird.obs 86400 IN AAAA 2001:b30:5000:6::1:2
+blackbird.obs 86400 IN MX 10 blackbird.obs
+86400 IN MX 20 hercule
+www.coroziune 86400 IN CNAME webhosting
+emb 86400 IN CNAME webhosting
+kyle.management 86400 IN A 192.168.70.222
+arch 86400 IN MX 20 bavaria
+arch 86400 IN TXT "v=spf1 a mx ~all"
+csdsite 86400 IN A 193.226.5.251
+www.remsis 86400 IN A 193.226.17.52
+www.masini-unelte 86400 IN A 193.226.7.252
+obs.cs 86400 IN A 193.226.6.199
+wash.c5.campus 86400 IN CNAME monitorizare.campus
+www.test 86400 IN CNAME webhosting
+microsoft 86400 IN NS ns.microsoft
+86400 IN NS hercule
+86400 IN NS marmota.cluj.roedu.net.
+impt.ctmed 86400 IN A 193.226.17.1
+www.msl 86400 IN CNAME webhosting
+serverobs.obs 86400 IN A 193.226.6.199
+www.msal 86400 IN A 46.243.115.186
+www.old.instalatii 86400 IN AAAA 2001:b30:5000:2::150
+www.old.instalatii 86400 IN A 193.226.5.150
+enm 86400 IN MX 20 bavaria
+enm 86400 IN TXT "v=spf1 a mx ~all"
+enm 86400 IN AAAA 2001:b30:5000:2::150
+enm 86400 IN A 193.226.5.150
+users 86400 IN A 193.226.5.4
+users 86400 IN AAAA 2001:b30:5000:2::4
+neptun.el.obs 86400 IN A 193.226.6.162
+wcom2.el 86400 IN A 193.226.5.71
+lna.icdesign 86400 IN A 193.226.5.200
+mu 86400 IN MX 20 bavaria
+mu 86400 IN TXT "v=spf1 a mx ~all"
+ares 86400 IN A 193.226.17.162
+mx 86400 IN CNAME mail
+www.minas 86400 IN CNAME webhosting
+spitalulmunicipal 86400 IN CNAME apollo
+apel01.mosigrid 86400 IN A 217.73.173.26
+www.mmfm 86400 IN CNAME detect.east
+server2.el.obs 86400 IN A 193.226.6.161
+mmfin 86400 IN MX 20 bavaria
+mmfin 86400 IN TXT "v=spf1 a mx ~all"
+eps 86400 IN MX 20 bavaria
+eps 86400 IN TXT "v=spf1 a mx ~all"
+eps 86400 IN AAAA 2001:b30:5000:2::150
+eps 86400 IN A 193.226.5.150
+concorde.el.obs 86400 IN A 193.226.6.186
+www.ticia2015 86400 IN CNAME webhosting
+larkc 86400 IN A 193.226.5.74
+www.meditech 86400 IN CNAME webhosting
+www.dicom 86400 IN CNAME dicom
+remote.ctmed 86400 IN A 128.211.247.172
+gw-corpa-fe-2-0-9 86400 IN A 193.226.5.225
+t4032.el.obs 86400 IN A 193.226.6.168
+mail-ng 86400 IN A 193.226.5.38
+se 86400 IN CNAME webhosting
+hercule 86400 IN A 193.226.5.33
+hercule 86400 IN AAAA 2001:b30:5000:2::33
+www.mosto 86400 IN CNAME webhosting
+smtp.student 86400 IN A 193.226.5.10
+smtp.student 86400 IN AAAA 2001:b30:5000:2::10
+dc.mercur 86400 IN CNAME mercur
+el.el.obs 86400 IN A 193.226.6.174
+el.el.obs 86400 IN MX 10 el.el.obs
+86400 IN MX 20 hercule
+catedra_tcm 86400 IN CNAME detect.east
+www.osut 86400 IN CNAME webhosting
+rcube 86400 IN CNAME webhosting
+ivir 86400 IN A 81.196.156.3
+mm4.ctmed 86400 IN A 193.226.17.6
+staff-db.management 86400 IN A 192.168.70.11
+tango-vz 86400 IN A 193.226.6.242
+hera 86400 IN A 193.226.17.165
+arma 86400 IN MX 20 bavaria
+arma 86400 IN TXT "v=spf1 a mx ~all"
+precious.campus 86400 IN CNAME c4-router.campus
+dppd 86400 IN MX 20 bavaria
+dppd 86400 IN TXT "v=spf1 a mx ~all"
+dmcdi 86400 IN CNAME webhosting
+www.rts2007 86400 IN CNAME webhosting
+phys 86400 IN MX 20 bavaria
+phys 86400 IN TXT "v=spf1 a mx ~all"
+www.artens2010 86400 IN CNAME webhosting
+ns.beta 86400 IN A 193.226.5.156
+www.catomt 86400 IN CNAME webhosting
+ns.cunbm 86400 IN A 193.231.17.20
+www.testecocel 86400 IN CNAME detect.east
+fabrin 86400 IN CNAME webhosting
+www.id1100 86400 IN CNAME webhosting
+www.chestionar 86400 IN CNAME webhosting
+c2.campus 86400 IN A 193.226.6.230
+ggi 86400 IN MX 20 bavaria
+ggi 86400 IN TXT "v=spf1 a mx ~all"
+ggi 86400 IN AAAA 2001:b30:5000:2::150
+ggi 86400 IN A 193.226.5.150
+www.nutzu 86400 IN A 193.226.5.149
+fs.obs 86400 IN CNAME caldera.obs
+www.resin 86400 IN CNAME webhosting
+www.iccp2010 86400 IN CNAME webhosting
+net-biblio-obs-vlan12 86400 IN A 193.226.17.232
+wpad 86400 IN CNAME webhosting
+gate.campus 86400 IN A 193.226.6.227
+oraul 86400 IN A 193.226.5.46
+neptun 86400 IN A 193.226.5.84
+www.sport 86400 IN CNAME webhosting
+ns.os.obs 86400 IN A 193.226.6.134
+www.ispdc 86400 IN CNAME webhosting
+wiki.management 86400 IN A 192.168.70.249
+www.specialmath.ebook 86400 IN CNAME webhosting
+gold.management 86400 IN A 192.168.70.51
+www.certeta 86400 IN CNAME webhosting
+www.eucomes2010 86400 IN CNAME webhosting
+www.icmsav 86400 IN CNAME detect.east
+luke 86400 IN CNAME jedi
+sign-on.management 86400 IN A 192.168.70.10
+dntcj 86400 IN A 193.226.17.254
+www.atps 86400 IN CNAME webhosting
+t3303.el 86400 IN A 193.226.5.165
+www.auif 86400 IN CNAME webhosting
+www.design 86400 IN A 193.226.7.223
+zabbix 86400 IN A 193.226.5.2
+www.master-sicas 86400 IN CNAME webhosting
+ftp 86400 IN CNAME webhosting
+www.ori 86400 IN A 193.226.5.25
+r-dialin 86400 IN A 193.226.5.36
+mecon 86400 IN MX 20 bavaria
+mecon 86400 IN TXT "v=spf1 a mx ~all"
+www.sicomsuv 86400 IN CNAME detect.east
+white1.et.obs 86400 IN A 193.226.6.218
+www.ctmed 86400 IN A 193.226.17.1
+ntp 86400 IN A 193.226.17.61
+bavaria 86400 IN A 193.226.5.35
+bavaria 86400 IN AAAA 2001:b30:5000:2::35
+new.etti 86400 IN A 193.226.5.156
+biblio-obs 86400 IN A 193.226.17.235
+mmfm 86400 IN MX 20 bavaria
+mmfm 86400 IN TXT "v=spf1 a mx ~all"
+www.staffu 86400 IN CNAME webhosting
+termo 86400 IN MX 20 bavaria
+termo 86400 IN TXT "v=spf1 a mx ~all"
+biblioteca 86400 IN A 193.226.5.156
+dhcp-kenny 86400 IN A 193.226.5.145
+sesizari 86400 IN A 193.226.5.16
+www.etti-admitere 86400 IN CNAME webhosting
+www.plm 86400 IN CNAME detect.east
+www.centrulnationalbiodiesel 86400 IN CNAME detect.east
+ticks 86400 IN A 193.226.17.61
+mmic 86400 IN A 193.226.7.178
+rochi2009 86400 IN A 193.226.5.226
+white2.et.obs 86400 IN A 193.226.6.219
+iac 86400 IN A 193.226.5.28
+www.instalatii 86400 IN AAAA 2001:b30:5000:2::156
+www.instalatii 86400 IN A 193.226.5.156
+ns2 86400 IN A 193.226.5.6
+ns2 86400 IN AAAA 2001:b30:5000:2::6
+observsl.obs 86400 IN A 193.226.6.2
+osut 86400 IN CNAME webhosting
+kenny 86400 IN A 193.226.5.37
+kenny 86400 IN AAAA 2001:b30:5000:2::37
+blah 86400 IN A 193.226.5.150
+blah 86400 IN MX 10 mx4.mxmailer.com.
+www.rochi2014 86400 IN A 193.226.5.226
+www.renewable-energy 86400 IN CNAME webhosting
+televiziune 86400 IN CNAME webhosting
+www.sidoc 86400 IN CNAME webhosting
+conference 86400 IN A 193.226.5.35
+conference 86400 IN MX 20 bavaria
+conference 86400 IN TXT "v=spf1 a mx ~all"
+biblio 86400 IN A 193.226.17.96
+biblio 86400 IN MX 20 bavaria
+biblio 86400 IN TXT "v=spf1 a mx ~all"
+actionari 86400 IN A 193.226.5.108
+stormos.fs.obs 86400 IN CNAME caldera.obs
+cunbm 86400 IN NS ns.cunbm
+pi.obs 86400 IN A 193.226.6.136
+www.farap 86400 IN CNAME webhosting
+lmn.et 86400 IN CNAME webhosting
+ce-ige.mosigrid 86400 IN A 217.73.173.34
+www.imec 86400 IN AAAA 2001:b30:5000:2::150
+www.imec 86400 IN A 193.226.5.150
+mediogrid 86400 IN NS ns.mediogrid
+www.linux 86400 IN CNAME webhosting
+www.ccsr 86400 IN CNAME detect.east
+catedramuri 86400 IN MX 10 catedramuri
+86400 IN MX 20 hercule
+catedramuri 86400 IN A 193.226.7.174
+rm 86400 IN CNAME webhosting
+www.auto 86400 IN AAAA 2001:b30:5000:2::150
+www.auto 86400 IN A 193.226.5.150
+management 86400 IN CNAME webhosting
+www.cardionet 86400 IN CNAME webhosting
+www.actamecanica 86400 IN CNAME webhosting
+www.elearning-1stepsinelectronics 86400 IN A 46.149.18.80
+multimedia 86400 IN CNAME webhosting
+ori 86400 IN A 193.226.5.25
+ceex1 86400 IN A 193.226.5.236
+omt 86400 IN MX 20 bavaria
+omt 86400 IN TXT "v=spf1 a mx ~all"
+ge-4-12-vlan12-biblio 86400 IN A 193.226.17.233
+ghizmo 86400 IN A 193.226.5.230
+webmail 86400 IN CNAME intranet
+adabsolutum 86400 IN CNAME webhosting
+gm1.mosigrid 86400 IN A 217.73.173.19
+atps 86400 IN CNAME webhosting
+ns.ael 86400 IN CNAME main.ael
+auif 86400 IN CNAME webhosting
+www.romanasul 86400 IN CNAME webhosting
+www.tts1 86400 IN A 46.243.115.3
+www.ecotrans 86400 IN CNAME detect.east
+iit 86400 IN CNAME webhosting
+vision 86400 IN A 193.226.5.101
+t3305.el 86400 IN A 193.226.5.167
+ossimm 86400 IN CNAME webhosting
+www.cryptorand 86400 IN CNAME webhosting
+marketing 86400 IN CNAME webhosting
+www.ria 86400 IN CNAME ria
+asterix.obs 86400 IN A 193.226.6.133
+asterix.obs 86400 IN MX 10 blackbird.obs
+86400 IN MX 20 hercule
+c1.et 86400 IN A 193.226.5.198
+www.inovex 86400 IN A 193.226.7.192
+solar 86400 IN CNAME webhosting
+mecon1 86400 IN A 193.226.17.75
+cercetare.com 86400 IN CNAME ares
+grid 86400 IN MX 20 bavaria
+grid 86400 IN TXT "v=spf1 a mx ~all"
+lejpt 86400 IN CNAME chimie
+www.atflow 86400 IN CNAME webhosting
+imm 86400 IN CNAME beta
+old.constructii 86400 IN A 193.226.5.150
+robotica_m 86400 IN CNAME icpd
+www.iedpfc 86400 IN CNAME webhosting
+rdns2 86400 IN A 193.226.5.43
+www.depinfotest 86400 IN A 193.226.17.66
+hl7 86400 IN CNAME webhosting
+www.asiem 86400 IN CNAME asiem
+rucc 86400 IN CNAME webhosting
+dspp 86400 IN CNAME webhosting
+cgutcn 86400 IN CNAME webhosting
+int 86400 IN NS hercule
+observ.obs 86400 IN A 193.226.6.133
+observ.obs 86400 IN MX 10 blackbird.obs
+86400 IN MX 20 hercule
+www.scm 86400 IN CNAME apollo
+www.cfdp 86400 IN AAAA 2001:b30:5000:2::150
+www.cfdp 86400 IN A 193.226.5.150
+salar 86400 IN A 193.226.17.69
+sset-etti 86400 IN CNAME webhosting
+ipm 86400 IN MX 20 bavaria
+ipm 86400 IN TXT "v=spf1 a mx ~all"
+www.old.fau 86400 IN CNAME webhosting
+irc 86400 IN CNAME webhosting
+eduroam 86400 IN CNAME webhosting
+taxe 86400 IN CNAME sinu
+mail._domainkey 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCx++PxiLvzFswS0rozsEL0pEm/Ll0NnlhYgeTd6+GeLxccMgAZkl+J7HlDsPBsRpnfbFZVELzcHuDI5D4dZt1r9KKqffqGXNbI8LIJvujboxYvXG+3kuKT/Jr1lAcd4whHwB6xO5DSsasjZgZKmy05rwttVIbpsEgfLwhhh15NCQIDAQAB"
+robotics10 86400 IN CNAME detect.east
+ssh.student 86400 IN CNAME fs.obs
+caldera.obs 86400 IN A 193.226.6.137
+caldera.obs 86400 IN AAAA 2001:b30:5000:6:208:2ff:feef:d43a
+www.eltc 86400 IN CNAME webhosting
+p3s 86400 IN CNAME webhosting
+t3306.el 86400 IN A 193.226.5.168
+www.vlib 86400 IN CNAME vlib
+grok 86400 IN CNAME panzer
+www.desen 86400 IN A 193.226.5.150
+www.mas 86400 IN CNAME webhosting
+gw-camine-marasti 86400 IN A 193.226.7.9
+qdoc 86400 IN CNAME webhosting
+email 86400 IN CNAME coolerl.cluj.roedu.net.
+esaform 86400 IN MX 20 bavaria
+esaform 86400 IN TXT "v=spf1 a mx ~all"
+esaform 86400 IN AAAA 2001:b30:5000:2::150
+esaform 86400 IN A 193.226.5.150
+www.iac 86400 IN A 193.226.5.28
+c2.et 86400 IN A 193.226.5.199
+colegiu 86400 IN MX 20 bavaria
+colegiu 86400 IN TXT "v=spf1 a mx ~all"
+auto 86400 IN MX 20 bavaria
+auto 86400 IN TXT "v=spf1 a mx ~all"
+auto 86400 IN AAAA 2001:b30:5000:2::150
+auto 86400 IN A 193.226.5.150
+www.cert 86400 IN CNAME cert.east
+www.sim 86400 IN A 193.226.5.150
+www.satu-mare 86400 IN CNAME webhosting
+mambo.ctmed 86400 IN A 193.226.17.1
+ldap 86400 IN CNAME mail
+keg 86400 IN CNAME webhosting
+ovps 86400 IN A 46.243.115.40
+ecomm 86400 IN CNAME webhosting
+mm3.ctmed 86400 IN A 193.226.17.5
+dsp148 86400 IN A 193.226.17.244
+tcm1981 86400 IN CNAME detect.east
+mantec 86400 IN CNAME webhosting
+ssip2010 86400 IN CNAME webhosting
+defplast 86400 IN MX 20 bavaria
+defplast 86400 IN TXT "v=spf1 a mx ~all"
+www.ebook 86400 IN CNAME webhosting
+t5091.el.obs 86400 IN A 193.226.6.185
+www.old.etti 86400 IN CNAME webhosting
+specialmath.ebook 86400 IN CNAME webhosting
+ftp.ael 86400 IN CNAME main.ael
+t4062.el.obs 86400 IN A 193.226.6.182
+lolita.c7.campus 86400 IN A 193.226.6.233
+lolita.c7.campus 86400 IN MX 10 lolita.c7.campus
+86400 IN MX 20 freebsd
+prodoc 86400 IN CNAME webhosting
+monitorccd 86400 IN CNAME webhosting
+www.leadership 86400 IN CNAME leadership
+parting 86400 IN A 193.226.17.4
+www.wash.c4.campus 86400 IN CNAME c4-router.campus
+www.materiale 86400 IN CNAME webhosting
+mgmt.mosigrid 86400 IN A 217.73.173.23
+l.academicdirect 86400 IN A 193.226.7.203
+gw-cfdp 86400 IN A 193.226.6.50
+muri 86400 IN MX 20 bavaria
+muri 86400 IN TXT "v=spf1 a mx ~all"
+studorg 86400 IN MX 20 bavaria
+studorg 86400 IN TXT "v=spf1 a mx ~all"
+www.catedra_tcm 86400 IN CNAME detect.east
+librarie 86400 IN CNAME webhosting
+c5-vz.campus 86400 IN A 193.226.6.243
+nameserver 86400 IN CNAME hercule
+munte 86400 IN CNAME webhosting
+mae 86400 IN MX 20 bavaria
+mae 86400 IN TXT "v=spf1 a mx ~all"
+www.proinova 86400 IN CNAME platinova
+www.ViAcLab 86400 IN CNAME detect.east
+biodiesel 86400 IN CNAME zeus.east
+gm0.mosigrid 86400 IN A 217.73.173.18
+ctcvideoscope 86400 IN CNAME webhosting
+evaluare 86400 IN A 193.226.17.182
+www.idei205_2008 86400 IN CNAME detect.east
+bc-vlan23-arch 86400 IN A 193.226.17.215
+virfab 86400 IN CNAME webhosting
+www.icpd 86400 IN A 193.226.7.192
+www.fabrin 86400 IN CNAME webhosting
+emes 86400 IN CNAME webhosting
+www.polibaschet 86400 IN CNAME webhosting
+icdesign 86400 IN CNAME webhosting
+www.revistacpa 86400 IN CNAME webhosting
+a.radius 86400 IN A 193.226.5.147
+cfdp 86400 IN MX 20 bavaria
+cfdp 86400 IN TXT "v=spf1 a mx ~all"
+cfdp 86400 IN AAAA 2001:b30:5000:2::150
+cfdp 86400 IN A 193.226.5.150
+lem 86400 IN CNAME webhosting
+www.ac 86400 IN A 193.226.5.156
+icar-gw 86400 IN A 193.226.17.147
+sinu 86400 IN A 193.226.17.188
+white0.et.obs 86400 IN A 193.226.6.217
+icar 86400 IN A 193.226.17.145
+pop3 86400 IN CNAME bavaria
+vpn.campus 86400 IN A 193.226.6.235
+bavaria.el 86400 IN A 193.226.5.190
+www.cc 86400 IN CNAME webhosting
+filter.icdesign 86400 IN A 193.226.5.202
+www.detect 86400 IN CNAME zeus.east
+globus-ce.mosigrid 86400 IN A 217.73.173.35
+eltc 86400 IN CNAME webhosting
+renewable-energy 86400 IN CNAME webhosting
+www.cm 86400 IN A 193.226.5.156
+netserver 86400 IN A 193.226.5.54
+office365 86400 IN NS ns.office365
+www.cs 86400 IN CNAME csdsite
+ca4.et.obs 86400 IN A 193.226.6.212
+www.cv 86400 IN CNAME webhosting
+www.ossimm 86400 IN CNAME webhosting
+www.astr-cluj 86400 IN CNAME webhosting
+cestruct 86400 IN CNAME webhosting
+cert 86400 IN CNAME cert.east
+chimie 86400 IN A 193.226.7.140
+mar 86400 IN MX 20 bavaria
+mar 86400 IN TXT "v=spf1 a mx ~all"
+ljs 86400 IN CNAME chimie
+t3304.el 86400 IN A 193.226.5.166
+mce 86400 IN CNAME webhosting
+www.et 86400 IN AAAA 2001:b30:5000:2::150
+www.et 86400 IN A 193.226.5.150
+www.postinfo 86400 IN CNAME zeus.east
+testecocel 86400 IN CNAME detect.east
+www.parting 86400 IN A 193.226.17.4
+cassy 86400 IN A 193.226.5.130
+lmc 86400 IN CNAME webhosting
+archive.atna-mam 86400 IN CNAME detect.east
+www.qdoc 86400 IN CNAME webhosting
+www.qiem 86400 IN AAAA 2001:b30:5000:2::150
+www.qiem 86400 IN A 193.226.5.150
+mirrors.obs 86400 IN CNAME caldera.obs
+sindut 86400 IN CNAME webhosting
+pacsf 86400 IN A 193.226.7.174
+www.ciat 86400 IN CNAME webhosting
+lab-bd 86400 IN MX 10 serverbd.lab-bd
+86400 IN MX 20 hercule
+lab-bd 86400 IN NS serverbd.lab-bd
+www.ie 86400 IN A 193.226.5.149
+t286.aut 86400 IN A 193.226.6.189
+student-db.management 86400 IN A 192.168.70.12
+mep 86400 IN MX 20 bavaria
+mep 86400 IN TXT "v=spf1 a mx ~all"
+control.aut 86400 IN A 193.226.6.116
+smtp 86400 IN CNAME bavaria
+www.tcm1981 86400 IN CNAME detect.east
+csmartis 86400 IN CNAME webhosting
+www.mtem 86400 IN CNAME webhosting
+mosto 86400 IN CNAME webhosting
+www.electromotion2013 86400 IN CNAME webhosting
+greenmining 86400 IN CNAME webhosting
+www.askot 86400 IN CNAME detect.east
+netacad 86400 IN CNAME webhosting
+phoebe 86400 IN A 193.226.5.66
+mixer-cad2.icdesign 86400 IN A 193.226.5.201
+mircea.et.obs 86400 IN A 193.226.6.214
+monitor.mosigrid 86400 IN A 217.73.173.27
+www.lcmn 86400 IN CNAME webhosting
+odin 86400 IN A 193.226.5.34
+doctorat 86400 IN A 193.226.5.25
+www.tenefabco 86400 IN CNAME webhosting
+mie 86400 IN CNAME webhosting
+mdm 86400 IN MX 20 bavaria
+mdm 86400 IN TXT "v=spf1 a mx ~all"
+mdm 86400 IN AAAA 2001:b30:5000:2::150
+mdm 86400 IN A 193.226.5.150
+www.biblio 86400 IN CNAME biblio
+teste.ccd 86400 IN MX 10 mail.teste.ccd
+sicomsuv 86400 IN CNAME detect.east
+icps13.conference 86400 IN CNAME webhosting
+minesa 86400 IN A 188.27.146.141
+minesa 86400 IN MX 20 minesa
+86400 IN MX 30 hercule
+www.musatin 86400 IN CNAME musatin
+www.old.ac 86400 IN CNAME webhosting
+mis 86400 IN MX 20 bavaria
+mis 86400 IN TXT "v=spf1 a mx ~all"
+sport 86400 IN CNAME webhosting
+www.caman 86400 IN CNAME webhosting
+cgis 86400 IN A 193.226.5.226
+icpd 86400 IN A 193.226.7.192
+www.hitech-hev 86400 IN CNAME webhosting
+teleoraltum.ctmed 86400 IN CNAME mm8.ctmed
+mm14.ctmed 86400 IN A 193.226.17.18
+energoecofarm 86400 IN CNAME detect.east
+www.catedramuri 86400 IN A 193.226.7.174
+mail.ctmed 86400 IN A 193.226.17.1
+panzer 86400 IN A 193.226.5.49
+panzer 86400 IN AAAA 2001:b30:5000:2:21a:4dff:fe53:1a97
+alnemad 86400 IN CNAME webhosting
+www.ovps 86400 IN CNAME ovps
+www.wendy 86400 IN CNAME wendy
+labacal 86400 IN A 193.226.5.72
+bc-vlan13-cia 86400 IN A 193.226.17.223
+insta 86400 IN MX 20 bavaria
+insta 86400 IN TXT "v=spf1 a mx ~all"
+szilard.et.obs 86400 IN A 193.226.6.210
+www.test-esaform 86400 IN CNAME webhosting
+timmy 86400 IN A 193.226.5.24
+tdx66.el.obs 86400 IN A 193.226.6.178
+www.rochi2015 86400 IN A 193.226.5.226
+rambo2 86400 IN CNAME netserver
+conta.amgd 86400 IN A 217.73.171.83
+constructii 86400 IN MX 20 bavaria
+constructii 86400 IN TXT "v=spf1 a mx ~all"
+constructii 86400 IN A 193.226.5.156
+staffu 86400 IN CNAME webhosting
+ac 86400 IN A 193.226.5.156
+obs2-campus-gw 86400 IN A 193.226.6.225
+mail.amgd 86400 IN A 217.73.171.84
+chem 86400 IN MX 20 bavaria
+chem 86400 IN TXT "v=spf1 a mx ~all"
+www.adabsolutum 86400 IN CNAME webhosting
+www.acam 86400 IN CNAME webhosting
+ossec 86400 IN A 193.226.5.27
+new 86400 IN A 193.226.5.156
+sedna 86400 IN A 193.226.5.44
+pcfi 86400 IN CNAME webhosting
+video 86400 IN A 193.226.17.22
+deathkiss 86400 IN A 193.226.5.57
+www.prodoc 86400 IN CNAME webhosting
+www.imadd 86400 IN AAAA 2001:b30:5000:2::150
+www.imadd 86400 IN A 193.226.5.150
+mecprog 86400 IN MX 20 bavaria
+mecprog 86400 IN TXT "v=spf1 a mx ~all"
+www.c4s 86400 IN CNAME webhosting
+speech 86400 IN A 193.226.5.150
+www.cestruct 86400 IN CNAME webhosting
+cracu.ctmed 86400 IN CNAME tarrega.cs.purdue.edu.
+www.old.ie 86400 IN CNAME webhosting
+www.innowecs 86400 IN CNAME webhosting
+observium 86400 IN A 193.226.5.53
+observium 86400 IN AAAA 2001:b30:5000:2:221:70ff:fec0:2a60
+www.camin 86400 IN CNAME webhosting
+www.coned 86400 IN CNAME coned
+www.adems09 86400 IN CNAME webhosting
+www.master-estart 86400 IN A 46.243.115.186
+emdrc 86400 IN CNAME webhosting
+msl 86400 IN CNAME webhosting
+survey 86400 IN CNAME webhosting
+m.mecanica 86400 IN A 193.226.5.150
+www.comod 86400 IN CNAME webhosting
+qiem 86400 IN MX 20 bavaria
+qiem 86400 IN TXT "v=spf1 a mx ~all"
+qiem 86400 IN AAAA 2001:b30:5000:2::150
+qiem 86400 IN A 193.226.5.150
+radiocom 86400 IN A 193.226.5.114
+events 86400 IN MX 20 bavaria
+events 86400 IN TXT "v=spf1 a mx ~all"
+ciat 86400 IN CNAME webhosting
+adems 86400 IN CNAME webhosting
+nutu 86400 IN CNAME webhosting
+www.lab-bd 86400 IN CNAME serverbd.lab-bd
+eel 86400 IN CNAME webhosting
+ns1 86400 IN A 193.226.5.5
+www.csmartis 86400 IN CNAME webhosting
+vcenter.management 86400 IN A 192.168.70.50
+lang 86400 IN MX 20 bavaria
+lang 86400 IN TXT "v=spf1 a mx ~all"
+rochi 86400 IN A 193.226.5.226
+wcom1.el 86400 IN A 193.226.5.171
+hac3ru 86400 IN A 193.226.5.47
+consola-opennode 86400 IN A 193.226.6.3
+licbar 86400 IN A 217.73.171.98
+licbar 86400 IN MX 10 gw.licbar
+mm8.ctmed 86400 IN A 193.226.17.10
+hpmiclea.et.obs 86400 IN A 193.226.6.215
+lcmn 86400 IN CNAME webhosting
+www.rm 86400 IN CNAME webhosting
+stiinte 86400 IN CNAME beta
+blacklist 86400 IN A 193.226.17.111
+www.semlet 86400 IN CNAME webhosting
+scti 86400 IN CNAME webhosting
+gallery.panzer 86400 IN CNAME panzer
+ci579 86400 IN CNAME webhosting
+www.eel 86400 IN CNAME webhosting
+bl 86400 IN NS blacklist
+coroziune 86400 IN CNAME webhosting
+webapp 86400 IN A 193.226.5.25
+t4061.el.obs 86400 IN A 193.226.6.181
+concorde 86400 IN A 193.226.6.186
+www.mim 86400 IN A 46.105.97.208
+www.muri 86400 IN A 193.226.7.174
+www.platinova 86400 IN CNAME platinova
+eucomes2010 86400 IN CNAME webhosting
+proteus.bel 86400 IN A 193.226.6.188
+t4054.el.obs 86400 IN A 193.226.6.165
+www.resolmet 86400 IN CNAME detect.east
+12a.ctmed 86400 IN A 193.226.17.22
+www.octopus 86400 IN CNAME octopus
+intereviss 86400 IN A 46.243.115.186
+inginerie 86400 IN CNAME beta
+old 86400 IN CNAME webhosting
+certeta 86400 IN CNAME webhosting
+ns.acal 86400 IN A 193.226.5.72
+cnette 86400 IN CNAME detect.east
+numerica 86400 IN CNAME users
+www.mantec 86400 IN CNAME webhosting
+www.speech 86400 IN A 193.226.5.150
+t4041.el.obs 86400 IN A 193.226.6.171
+www.dmcdi 86400 IN CNAME webhosting
+ftp.ctmed 86400 IN A 193.226.17.1
+acal 86400 IN NS ns.acal
+acam 86400 IN CNAME webhosting
+mim 86400 IN A 46.105.97.208
+centru-mat 86400 IN CNAME webhosting
+ge-4-13-vlan13-cia 86400 IN A 193.226.17.217
+ns.mediogrid 86400 IN A 193.226.5.231
+gallery 86400 IN CNAME webhosting
+www.wiki.mosigrid 86400 IN CNAME webhosting
+bioresol 86400 IN CNAME detect.east
+t4021.el.obs 86400 IN A 193.226.6.172
+west 86400 IN A 193.226.17.238
+intranet 86400 IN A 193.226.5.51
+intranet 86400 IN MX 20 bavaria
+intranet 86400 IN TXT "v=spf1 a mx ~all"
+gabriela-sunzuianu 86400 IN CNAME webhosting
+www.psihologie 86400 IN CNAME webhosting
+www.m.mecanica 86400 IN A 193.226.5.150
+os.obs 86400 IN NS ns.os.obs
+cartman 86400 IN A 193.226.5.39
+www.roedu2008 86400 IN CNAME webhosting
+logging 86400 IN CNAME marmota.cluj.roedu.net.
+tenefabco 86400 IN CNAME webhosting
+www.im 86400 IN AAAA 2001:b30:5000:2::150
+www.im 86400 IN A 193.226.5.150
+actamecanica 86400 IN CNAME webhosting
+tepes 86400 IN A 193.226.5.50
+tepes 86400 IN AAAA 2001:b30:5000:2::40
+www.netacad 86400 IN CNAME webhosting
+bioenerg 86400 IN CNAME detect.east
+cs 86400 IN A 193.226.5.251
+cs 86400 IN MX 20 bavaria
+cs 86400 IN TXT "v=spf1 a mx ~all"
+www.televiziune 86400 IN CNAME webhosting
+www.ael 86400 IN CNAME webhosting
+www.wpad 86400 IN CNAME webhosting
+stan.management 86400 IN A 192.168.70.224
+ge-4-11-1.rcore 86400 IN A 193.226.17.153
+mas 86400 IN MX 20 bavaria
+mas 86400 IN TXT "v=spf1 a mx ~all"
+inovex 86400 IN A 193.226.7.192
+plm 86400 IN CNAME detect.east
+www.eduroam 86400 IN CNAME webhosting
+msal 86400 IN A 46.243.115.186
+www.icapm2011 86400 IN CNAME webhosting
+ococ 86400 IN MX 20 bavaria
+ococ 86400 IN TXT "v=spf1 a mx ~all"
+ococ 86400 IN AAAA 2001:b30:5000:2::150
+ococ 86400 IN A 193.226.5.150
+saturn 86400 IN A 193.226.5.83
+white.et.obs 86400 IN A 193.226.6.193
+armeva261eu 86400 IN CNAME webhosting
+imadd 86400 IN MX 20 bavaria
+imadd 86400 IN TXT "v=spf1 a mx ~all"
+imadd 86400 IN AAAA 2001:b30:5000:2::150
+imadd 86400 IN A 193.226.5.150
+www.4dpostdoc 86400 IN CNAME webhosting
+monitorizare.campus 86400 IN A 193.226.6.234
+www.lmn.et 86400 IN CNAME webhosting
+campus 86400 IN A 193.226.17.55
+www.esop 86400 IN CNAME detect.east
+time 86400 IN A 193.226.17.61
+www.concorde 86400 IN CNAME concorde
+millenium 86400 IN A 193.226.17.74
+vlib 86400 IN A 193.226.5.229
+jeopard 86400 IN A 193.226.5.241
+radius 86400 IN A 193.226.5.147
+www.ethm 86400 IN AAAA 2001:b30:5000:2::150
+www.ethm 86400 IN A 193.226.5.150
+conmec 86400 IN CNAME detect.east
+weblab.aut 86400 IN A 193.226.6.122
+www.zem 86400 IN CNAME webhosting
+www.atracting 86400 IN A 46.243.115.186
+e-marketing 86400 IN CNAME webhosting
+cazare 86400 IN A 193.226.5.120
+www.temp 86400 IN CNAME webhosting
+dicomge 86400 IN A 193.226.5.116
+revistacpa 86400 IN CNAME webhosting
+www.sindut 86400 IN CNAME webhosting
+infoap 86400 IN A 193.226.7.133
+depinfotest 86400 IN A 193.226.17.66
+artens2010 86400 IN CNAME webhosting
+stuff 86400 IN TXT "v=spf1 a mx ~all"
+stuff 86400 IN MX 20 bavaria
+cmrmc 86400 IN CNAME webhosting
+www.aer 86400 IN CNAME webhosting
+comondore 86400 IN CNAME users
+livecam 86400 IN A 10.1.1.2
+www.cnap 86400 IN CNAME webhosting
+ge2-4.r-caman 86400 IN A 193.226.17.185
+nas 86400 IN A 193.226.5.58
+mm15.ctmed 86400 IN A 193.226.17.19

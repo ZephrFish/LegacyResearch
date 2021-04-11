@@ -1,0 +1,21 @@
+@ 86400 IN SOA e-eihq02.eis.ernet.in. postmast.eis.ernet.in. 2014110702 10800 900 86400 86400
+@ 86400 IN NS dns.ernet.in.
+86400 IN NS e-eihq01.eis.ernet.in.
+86400 IN NS e-eihq02.eis.ernet.in.
+86400 IN NS e-iisc03.iisc.ernet.in.
+@ 85621 IN MX 10 @
+85621 IN MX 30 mail2
+@ 86400 IN A 103.37.200.153
+mansa 86400 IN A 103.37.200.68
+mgcl 86400 IN A 103.37.200.189
+jeeadv 86400 IN CNAME edge.live.getpantheon.com.
+portal 86400 IN A 103.37.200.193
+bhagirathi 86400 IN A 103.37.200.188
+coedmm 86400 IN A 103.37.200.187
+www 86400 IN A 103.37.200.184
+mail 86400 IN A 103.37.200.154
+vpn 86400 IN A 103.37.200.10
+opac.mgcl 86400 IN A 103.37.200.194
+mail2 86400 IN A 103.37.200.155
+nse 86400 IN A 103.37.200.191
+86400 IN A 103.37.200.192

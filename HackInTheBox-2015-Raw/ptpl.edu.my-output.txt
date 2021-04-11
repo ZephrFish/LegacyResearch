@@ -1,0 +1,38 @@
+@ 86400 IN SOA ns1.bioinformatics.com.my. postmaster.msu.edu.my. 2015012501 10800 3600 604800 3600
+@ 86400 IN TXT "v=spf1 a ip4:58.27.26.0/25 -all"
+@ 86400 IN A 58.27.26.40
+@ 86400 IN NS ns1.bioinformatics.com.my.
+86400 IN NS ns2.bioinformatics.com.my.
+@ 86400 IN MX 10 mx.msu.edu.my.
+itguide 86400 IN A 58.27.26.40
+chasiss-demo 86400 IN A 58.27.26.40
+webmail 86400 IN A 58.27.26.40
+itsupport-demo 86400 IN A 58.27.26.40
+chasiss 86400 IN A 58.27.26.40
+maint-demo 86400 IN A 58.27.26.40
+techlab01 86400 IN A 219.93.37.121
+nms 86400 IN A 219.93.37.115
+noc 86400 IN A 219.93.37.115
+netgraph 86400 IN A 219.93.37.115
+wpad 86400 IN A 58.27.26.40
+maint 86400 IN A 58.27.26.40
+demo-klas2 86400 IN A 58.27.26.40
+elibrary 86400 IN A 58.27.26.56
+sms 86400 IN A 58.27.26.66
+mail 86400 IN A 58.27.26.51
+cctvsa 86400 IN A 219.93.37.118
+ptpl2u 86400 IN A 58.27.26.40
+klas 86400 IN A 58.27.26.40
+chasiss-old 86400 IN A 58.27.26.40
+techlab 86400 IN A 175.136.238.249
+www 86400 IN A 58.27.26.40
+localhost 86400 IN A 127.0.0.1
+srm 86400 IN A 58.27.26.62
+dyn 86400 IN NS ns.dyn
+supportdev 86400 IN A 58.27.26.40
+cache 86400 IN A 219.93.37.119
+websms 86400 IN A 58.27.26.66
+stream-svr 86400 IN A 58.27.26.40
+pymtgtwy 86400 IN A 58.27.26.40
+itsupport 86400 IN A 58.27.26.40
+ns.dyn 86400 IN A 58.27.26.47

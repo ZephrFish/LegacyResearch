@@ -1,0 +1,70 @@
+@ 86400 IN SOA ns1.qx.net. hostmaster 2014111413 1200 600 1814400 3600
+@ 3600 IN A 64.191.188.12
+@ 3600 IN NS ns1.qx.net.
+3600 IN NS ns2.qx.net.
+@ 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+@ 3600 IN TXT "v=spf1 mx ip4:64.191.188.12 ip4:64.191.188.45 ip4:64.191.188.59 ip4:64.191.188.10 ip4:64.191.188.27 ip4:64.191.188.30 include:Retailspf.smtp.com include:_spf.google.com ~all"
+bonnie.cs 3600 IN A 64.191.188.23
+talert 3600 IN A 64.191.188.60
+alumniphotos 3600 IN A 64.191.188.48
+museum 3600 IN A 64.191.188.33
+datatel 3600 IN A 64.191.188.27
+libguides 3600 IN CNAME libguides.com.
+ldap 3600 IN A 64.191.188.16
+mailman 3600 IN A 64.191.188.59
+ocs 3600 IN A 64.191.188.39
+moodlestg 3600 IN A 64.191.188.13
+google 3600 IN A 64.191.188.80
+math 3600 IN A 64.191.188.22
+hamming.math 3600 IN A 64.191.188.22
+sammett.cs 3600 IN A 64.191.188.21
+*.museum 3600 IN A 64.191.188.33
+coteach 3600 IN A 64.191.188.80
+greendot 3600 IN A 64.191.188.80
+tnet 3600 IN A 64.191.188.30
+mta 3600 IN A 64.191.188.10
+christian 3600 IN CNAME ghs.googlehosted.com.
+art 3600 IN A 64.191.188.43
+kaston 3600 IN A 64.191.188.14
+mox 3600 IN A 64.191.188.53
+ns1.qx.net. 3600 IN A 64.191.128.5
+gohde 3600 IN A 64.191.188.51
+moodle 3600 IN A 64.191.188.45
+alcohol 3600 IN A 64.191.188.80
+vpn 3600 IN A 216.7.130.10
+*.cs 3600 IN A 64.191.188.33
+tucuda1 3600 IN A 64.191.188.88
+womensclub 3600 IN CNAME ghs.googlehosted.com.
+careerdev 3600 IN A 64.191.188.68
+selfserv 3600 IN A 64.191.188.29
+www.cs 3600 IN A 64.191.188.33
+outside 3600 IN A 64.191.188.54
+radiotlx 3600 IN A 64.191.188.68
+choosetest 3600 IN A 64.191.188.57
+selfservtest 3600 IN A 64.191.188.26
+events 3600 IN A 64.191.188.49
+tumedia 3600 IN A 64.191.188.67
+ns2.qx.net. 3600 IN A 64.191.128.15
+devwww 3600 IN A 64.191.188.66
+www 3600 IN A 64.191.188.12
+www.alumni 3600 IN CNAME nonhosted.imodules.com.
+pubpics 3600 IN A 64.191.188.50
+alumni 3600 IN A 64.191.188.80
+alumni 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+ns 3600 IN A 64.191.188.2
+choose 3600 IN A 64.191.188.56
+sophos 3600 IN A 64.191.188.38
+library 3600 IN A 64.191.188.19
+cs 3600 IN A 64.191.188.33
+cs 3600 IN MX 10 bonnie.cs
+*.alumni 3600 IN A 64.191.188.80
+hdrive 3600 IN A 64.191.188.6
+homepages 3600 IN A 64.191.188.5

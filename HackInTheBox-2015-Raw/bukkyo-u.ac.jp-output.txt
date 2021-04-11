@@ -1,0 +1,108 @@
+@ 600 IN SOA ns01 hostmaster 2015030533 10800 3600 3600000 86400
+@ 600 IN MX 10 cluster6.us.messagelabs.com.
+600 IN MX 20 cluster6a.us.messagelabs.com.
+@ 600 IN TXT "v=spf1 ip4:216.82.240.0/20 ip4:67.219.240.0/20 ip4:85.158.136.0/21" " ip4:95.131.104.0/21 ip4:46.226.48.0/21" " ip4:117.120.16.0/21 ip4:193.109.254.0/23 ip4:194.106.220.0/23" " ip4:195.245.230.0/23 ip4:103.9.96.0/22" " ip4:203.183.222.96/27 ip4:202.218.232.192/27 ip4:203.116.194.128/27 ~all"
+@ 600 IN NS ns01
+600 IN NS ns02
+600 IN NS ns03
+600 IN NS ns04
+600 IN NS sigw.sinet.ad.jp.
+600 IN NS ns-tk023.ocn.ad.jp.
+butsudai 600 IN NS linkproof01
+600 IN NS linkproof02
+ns01 600 IN A 202.254.198.27
+hokentemp 600 IN CNAME sansarahelp
+ns03 600 IN A 202.254.194.27
+ns04 600 IN A 202.254.194.28
+jsste 600 IN CNAME sansarahelp
+sansara 600 IN NS linkproof01
+600 IN NS linkproof02
+www.kyosyoku 600 IN A 112.78.119.213
+sansarahelp 600 IN NS linkproof01
+600 IN NS linkproof02
+bulib 600 IN NS linkproof01
+600 IN NS linkproof02
+http1 600 IN NS linkproof01
+600 IN NS linkproof02
+http2 600 IN NS linkproof01
+600 IN NS linkproof02
+ns02 600 IN A 202.254.198.28
+sstnet03 600 IN A 210.172.56.165
+sstnet00 600 IN A 210.172.40.227
+wwwlib 600 IN NS linkproof01
+600 IN NS linkproof02
+cms1 600 IN NS linkproof01
+600 IN NS linkproof02
+wbcportal 600 IN NS linkproof01
+600 IN NS linkproof02
+ts-intra 600 IN NS linkproof01
+600 IN NS linkproof02
+mmc07 600 IN NS linkproof01
+600 IN NS linkproof02
+bu-jsste 600 IN NS linkproof01
+600 IN NS linkproof02
+sso 600 IN NS linkproof01
+600 IN NS linkproof02
+bird 600 IN NS linkproof01
+600 IN NS linkproof02
+mail 600 IN NS linkproof01
+600 IN NS linkproof02
+vpn 600 IN NS linkproof01
+600 IN NS linkproof02
+sansaraweb 600 IN NS linkproof01
+600 IN NS linkproof02
+manaba 600 IN A 220.157.253.30
+libportal 600 IN NS linkproof01
+600 IN NS linkproof02
+www02 600 IN CNAME sstnet02
+www03 600 IN CNAME sstnet03
+oldsansara 600 IN NS linkproof01
+600 IN NS linkproof02
+sansarahelp2 600 IN CNAME sansarahelp
+archives 600 IN NS linkproof01
+600 IN NS linkproof02
+www.btrec 600 IN A 210.188.198.81
+bulib01 600 IN NS linkproof01
+600 IN NS linkproof02
+localhost 600 IN CNAME localhost.
+smtpgw 600 IN NS linkproof01
+600 IN NS linkproof02
+sstnet02 600 IN A 210.172.56.164
+blib-ezproxy 600 IN NS linkproof01
+600 IN NS linkproof02
+gakujutsudb 600 IN NS linkproof01
+600 IN NS linkproof02
+recjin 600 IN NS linkproof01
+600 IN NS linkproof02
+kyosyoku-folio 600 IN A 220.157.253.33
+linkproof01 600 IN A 202.254.197.10
+linkproof02 600 IN A 202.254.193.10
+media 600 IN NS linkproof01
+600 IN NS linkproof02
+www 600 IN NS linkproof01
+600 IN NS linkproof02
+recjin2 600 IN NS linkproof01
+600 IN NS linkproof02
+g 600 IN MX 10 ASPMX.L.GOOGLE.COM.
+600 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+600 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+600 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+600 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+g 600 IN TXT "google-site-verification=a9W1LnDHC2YrDWIHwZjJRDqikJYKC7K_nns62HS-jeg"
+www.btrec2011 600 IN CNAME www.btrec
+www.kenkyuweb 600 IN NS linkproof01
+600 IN NS linkproof02
+sstnet01 600 IN A 210.172.56.163
+www.career 600 IN NS linkproof01
+600 IN NS linkproof02
+infolib 600 IN NS linkproof01
+600 IN NS linkproof02
+training 600 IN NS linkproof01
+600 IN NS linkproof02
+kenkyuweb 600 IN NS linkproof01
+600 IN NS linkproof02
+vspam 600 IN NS linkproof01
+600 IN NS linkproof02
+portal 600 IN NS linkproof01
+600 IN NS linkproof02
+fukuoka 600 IN A 112.78.119.213

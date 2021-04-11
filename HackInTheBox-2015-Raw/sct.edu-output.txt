@@ -1,0 +1,7 @@
+@ 86400 IN SOA ns.spsu.edu. hostmaster 2013011400 3600 300 604800 86400
+@ 3600 IN NS ns.spsu.edu.
+3600 IN NS ns1.usg.edu.
+3600 IN NS ns2.usg.edu.
+3600 IN NS ns3.usg.edu.
+3600 IN NS ns4.usg.edu.
+www 3600 IN A 168.28.176.243

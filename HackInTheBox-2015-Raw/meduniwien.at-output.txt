@@ -1,0 +1,5 @@
+@ 11111 IN SOA ns1.meduniwien.ac.at. domain-admin.meduniwien.ac.at. 2010020901 28800 7200 604800 86400
+@ 11111 IN NS ns1.meduniwien.ac.at.
+11111 IN NS ns2.meduniwien.ac.at.
+www 11111 IN CNAME www-walda.srv.meduniwien.ac.at.
+www2 11111 IN CNAME www2.srv.meduniwien.ac.at.

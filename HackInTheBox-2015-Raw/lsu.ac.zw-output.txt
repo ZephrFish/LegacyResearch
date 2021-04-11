@@ -1,0 +1,8 @@
+@ 14400 IN SOA ns1.telone.co.zw. hostmaster.telone.co.zw. 2015040101 10800 3600 604800 14400
+@ 14400 IN NS ns1.telone.co.zw.
+14400 IN NS ns2.telone.co.zw.
+@ 14400 IN MX 10 mail
+@ 14400 IN A 192.186.229.213
+mail 14400 IN A 192.186.229.213
+library 14400 IN A 41.220.19.156
+www 14400 IN A 192.186.229.213

@@ -1,0 +1,25 @@
+@ 86400 IN SOA ns1.sysglobales.com. julio_pescador.hotmail.com. 2013082200 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+14400 IN MX 0 ms44242073.msv1.invalid.outlook.com.
+@ 86400 IN NS ns1.sysglobales.com.
+86400 IN NS ns2.sysglobales.com.
+@ 14400 IN A 66.7.214.201
+agenda 14400 IN A 66.7.214.201
+cpanel 14400 IN A 66.7.214.201
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8KiQTwlRHphce8irywxUuX73vyu7KJA8Mdj+tKEMMIhdiDED1Cf3pI5cIvzex1YngqOPB3ZURERsRaZm3H79K2PvbvuaGfT1zzFZGXuZTUgukY6b3Itgc2nMo3JfacbseS7J9yUL4i5wOhWrFYLcE9UvNiQ2lfIZfVWKQ1Xz4xQIDAQAB;"
+autoconfig.agenda 14400 IN A 66.7.214.201
+webmail 14400 IN A 66.7.214.201
+webdisk 14400 IN A 66.7.214.201
+ftp 14400 IN A 66.7.214.201
+autodiscover 14400 IN A 66.7.214.201
+www 14400 IN CNAME @
+default._domainkey.agenda 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDaP+Fis7hnY3hgNhbekih8SujMtWqOl9tR++RKU+InD0PmM1J3YQbqAzVR2z6OBHnCBpieR3KQKPkBlyQugCQYqZnZZA3zwtFJXjarEIeqbfENgNTrGzeilAUnZHda39XQE1UufnRykUU8w5W4+7M8uy+XVN++vMsi+GXfMYFsSwIDAQAB;"
+www.agenda 14400 IN A 66.7.214.201
+autodiscover.agenda 14400 IN A 66.7.214.201
+mail 14400 IN CNAME @
+autoconfig 14400 IN A 66.7.214.201
+_autodiscover._tcp.agenda 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.agenda 14400 IN A 66.7.214.201
+whm 14400 IN A 66.7.214.201
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+localhost 14400 IN A 127.0.0.1

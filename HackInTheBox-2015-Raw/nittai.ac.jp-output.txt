@@ -1,0 +1,61 @@
+@ 1800 IN SOA ns root.ns 60 1800 900 3600000 900
+@ 1800 IN TXT "MS=ms85932431"
+1800 IN TXT "v=spf1 ip4:61.200.34.156 ip4:202.231.22.2 ip4:202.231.22.3 +include:spf.protection.outlook.com -all"
+@ 1800 IN MX 20 dc-mta01
+1800 IN MX 30 dc-mta02
+@ 1800 IN NS ns01
+1800 IN NS ns02
+1800 IN NS dns-x.sinet.ad.jp.
+ns01 1800 IN A 202.231.22.2
+ns02 1800 IN A 202.231.22.3
+sip 1800 IN CNAME sipdir.online.lync.com.
+library2 1800 IN A 202.231.22.172
+n-pass 1800 IN A 202.231.22.150
+blog 1800 IN CNAME nss.editblog.jp.
+imap.old 1800 IN CNAME email
+portal 1800 IN CNAME dc-ptl01
+cms 1800 IN A 61.200.34.156
+dc-mta01 1800 IN A 202.231.22.2
+dc-mta02 1800 IN A 202.231.22.3
+cms2 1800 IN CNAME cms
+adx 1800 IN NS testdns.adx
+imap.old1 1800 IN CNAME email
+imap.old2 1800 IN CNAME email
+dc-adfs 1800 IN A 202.231.22.4
+s 1800 IN TXT "v=spf1 include:outlook.com include:spf.messaging.microsoft.com ~all"
+s 1800 IN MX 10 1375910157.mail.outlook.com.
+cda 1800 IN A 61.200.34.153
+dc-ml01 1800 IN A 202.231.22.7
+ml 1800 IN A 202.231.22.7
+ml 1800 IN TXT "v=spf1 include:nittai.ac.jp -all"
+ml 1800 IN MX 10 dc-mta01
+1800 IN MX 20 dc-mta02
+dc-adpx01 1800 IN A 202.231.22.5
+dc-adpx02 1800 IN A 202.231.22.6
+dc-fw01 1800 IN A 202.231.22.253
+lyncdiscover 1800 IN CNAME webdir.online.lync.com.
+old 1800 IN MX 10 dc-mta01
+1800 IN MX 20 dc-mta02
+dc-disk01 1800 IN A 202.231.22.8
+autodiscover 1800 IN CNAME autodiscover.outlook.com.
+dc-nas01 1800 IN A 202.231.22.21
+dc-nas02 1800 IN A 202.231.22.22
+_sipfederationtls._tcp 1800 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 1800 IN A 61.200.34.155
+_sip._tls 1800 IN SRV 100 1 443 sipdir.online.lync.com.
+f 1800 IN TXT "v=spf1 include:outlook.com include:spf.messaging.microsoft.com ~all"
+f 1800 IN MX 10 1150564571.mail.outlook.com.
+ns 1800 IN A 202.231.22.2
+staging.library 1800 IN A 202.231.22.171
+library 1800 IN A 202.231.22.171
+o 1800 IN TXT "v=spf1 include:outlook.com include:spf.messaging.microsoft.com ~all"
+o 1800 IN MX 10 624952518.mail.outlook.com.
+p 1800 IN TXT "v=spf1 include:outlook.com include:spf.messaging.microsoft.com ~all"
+p 1800 IN MX 10 1363054456.mail.outlook.com.
+disk 1800 IN CNAME dc-disk01
+old1 1800 IN MX 10 dc-mta01
+1800 IN MX 20 dc-mta02
+old2 1800 IN MX 10 dc-mta01
+1800 IN MX 20 dc-mta02
+sq 1800 IN A 202.231.22.9
+dc-ptl01 1800 IN A 202.231.22.1

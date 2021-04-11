@@ -1,0 +1,57 @@
+@ 3600 IN SOA pororoca root 2015032501 3600 600 1209600 3600
+@ 3600 IN MX 5 atlantico
+@ 3600 IN NS server1.pop-ap.rnp.br.
+3600 IN NS pororoca
+@ 3600 IN TXT "v=spf1 a mx ip4:200.129.167.68 -all"
+nitdesk 3600 IN A 200.139.21.9
+saojose 3600 IN A 200.129.167.81
+webmail 3600 IN CNAME atlantico
+wiki.sigu 3600 IN A 200.139.21.82
+sipac 3600 IN A 200.139.21.5
+lides 3600 IN A 200.129.167.71
+*.professores.unifap.br 14400 IN A 200.129.167.85
+kerberos 3600 IN A 200.129.167.100
+3600 IN A 200.139.21.10
+cafe 3600 IN A 200.139.21.2
+tumucumaque 3600 IN A 200.129.167.98
+pororoca 3600 IN A 200.129.167.70
+oiapoque 3600 IN A 200.129.167.75
+maraca 3600 IN A 200.129.167.85
+cassipore 3600 IN A 200.129.167.99
+siteantigo 3600 IN A 200.139.21.82
+sigu 3600 IN A 200.139.21.82
+tede 3600 IN A 200.129.167.84
+sigaa 3600 IN A 200.139.21.5
+rute-ap 3600 IN A 200.129.167.77
+tambaqui 3600 IN A 200.129.167.95
+santana 3600 IN A 200.129.167.83
+ead 3600 IN CNAME tumucumaque
+redmine 3600 IN A 200.139.21.14
+eduroam 3600 IN A 200.129.167.66
+voip 3600 IN CNAME voip1.voip
+pop 3600 IN CNAME atlantico
+forte 3600 IN A 200.129.167.94
+depsec 3600 IN A 200.129.167.67
+voip1.voip 3600 IN A 200.129.167.91
+atlantico 3600 IN A 200.129.167.68
+server1 3600 IN A 200.129.167.34
+moodle-teste 3600 IN A 200.139.21.7
+professores 3600 IN CNAME maraca
+sigrh 3600 IN A 200.139.21.5
+salavirtual 3600 IN A 200.139.21.6
+www 3600 IN A 200.139.21.82
+unifap.br 3600 IN A 200.129.167.82
+mundoacademico 3600 IN CNAME cunani
+moodle2 3600 IN A 200.139.21.3
+appsig 3600 IN A 200.139.21.15
+wiki.ead 3600 IN A 200.139.21.4
+www2 3600 IN A 200.139.21.82
+www3 3600 IN CNAME saojose
+webroom 3600 IN A 200.139.21.12
+marcozero 3600 IN A 200.129.167.76
+voip2.voip 3600 IN A 200.129.167.92
+periodicos 3600 IN A 200.139.21.8
+curiau 3600 IN A 200.129.167.87
+fonernp 3600 IN A 200.139.21.11
+sigadmin 3600 IN A 200.139.21.5
+smtp 3600 IN CNAME atlantico

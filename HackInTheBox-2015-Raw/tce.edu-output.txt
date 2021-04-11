@@ -1,0 +1,42 @@
+@ 604800 IN SOA ns1 admin-tcenet.tce.edu 5 604800 86400 2419200 604800
+@ 300 IN MX 1 ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+300 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+300 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+@ 604800 IN NS ns1
+604800 IN NS ns2
+@ 604800 IN TXT "v=spf1 mx include:spf.mandrillapp.com a:mail.tce.edu -all"
+@ 604800 IN SPF "v=spf1 mx include:spf.mandrillapp.com a:mail.tce.edu -all"
+@ 604800 IN A 210.212.252.76
+web 604800 IN A 210.212.252.70
+ns1 604800 IN A 210.212.252.66
+ns2 604800 IN A 210.212.252.67
+fstival 604800 IN CNAME web
+gw 604800 IN A 210.212.252.74
+hr 604800 IN A 210.212.252.71
+dev 604800 IN A 210.212.252.77
+mail 604800 IN A 210.212.252.72
+vpn 604800 IN A 210.212.252.75
+qeee-mech 604800 IN A 210.212.252.90
+git 604800 IN A 210.212.252.78
+glugot 604800 IN CNAME web
+tcenet 604800 IN A 210.212.252.68
+drive 604800 IN CNAME web
+tams 604800 IN A 210.212.252.69
+www 604800 IN CNAME @
+lists 604800 IN MX 1 lists
+lists 604800 IN TXT "v=spf1 mx -all"
+lists 604800 IN SPF "v=spf1 mx -all"
+lists 604800 IN A 210.212.252.80
+mandrill._domainkey 604800 IN CNAME dkim.almabaseapp.com.
+stage 604800 IN CNAME web
+cc 604800 IN A 210.212.252.79
+planet 604800 IN CNAME web
+alumni 604800 IN CNAME tce.almabaseapp.com.
+iram 604800 IN CNAME web
+stage1 604800 IN A 210.212.252.93
+quest2015 604800 IN CNAME web
+inbound 604800 IN CNAME tce.almabaseapp.com.
+gmail 3600 IN CNAME ghs.googlehosted.com.
+testbed 604800 IN CNAME web

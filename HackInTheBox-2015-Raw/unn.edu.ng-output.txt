@@ -1,0 +1,47 @@
+@ 300 IN SOA ns1.host8.biz. admin.host8.biz. 2015041301 300 300 604800 300
+@ 300 IN NS ns1.host8.biz.
+300 IN NS ns2.host8.biz.
+300 IN NS ns3.host8.biz.
+300 IN NS ns4.host8.biz.
+@ 300 IN A 50.31.233.226
+@ 300 IN MX 10 aspmx.l.google.com.
+300 IN MX 20 alt1.aspmx.l.google.com.
+300 IN MX 20 alt2.aspmx.l.google.com.
+300 IN MX 30 aspmx2.googlemail.com.
+300 IN MX 30 aspmx3.googlemail.com.
+300 IN MX 30 aspmx4.googlemail.com.
+300 IN MX 30 aspmx5.googlemail.com.
+@ 300 IN TXT "v=spf1 a mx a:mail.unn.edu.ng mx:mail.unn.edu.ng ip4:50.31.233.226 include:gmail.com ~all"
+ecommerce 300 IN A 46.38.160.187
+apps.grid 300 IN A 196.222.127.49
+wn03.grid 300 IN A 196.222.127.43
+sgw.grid 300 IN A 196.222.127.47
+dspace 300 IN A 196.222.2.5
+ldap.grid 300 IN A 196.222.127.46
+www.unnportal 300 IN CNAME yowaj.x.incapdns.net.
+ce1.grid 300 IN A 196.222.127.11
+* 300 IN A 50.31.233.226
+unnportal 300 IN CNAME yowaj.x.incapdns.net.
+wn05.grid 300 IN A 196.222.127.45
+www.elearning 300 IN A 196.222.2.254
+mail 300 IN CNAME ghs.google.com.
+se1.grid 300 IN A 196.222.127.31
+distancelearning 300 IN A 196.222.2.6
+ui.grid 300 IN A 196.222.127.21
+elearning 300 IN A 196.222.2.254
+idp.grid 300 IN A 196.222.127.48
+wn01.grid 300 IN A 196.222.127.41
+bdii.grid 300 IN A 196.222.127.1
+bdii01.grid 300 IN A 196.222.127.2
+ce2.grid 300 IN A 196.222.127.12
+koha-library 300 IN A 196.222.2.4
+www 300 IN A 50.31.233.226
+itranscript 300 IN A 68.169.48.87
+www.dspace 300 IN A 196.222.2.5
+se2.grid 300 IN A 196.222.127.32
+wn02.grid 300 IN A 196.222.127.42
+alumni 300 IN A 68.169.48.87
+portal 300 IN A 64.37.119.16
+wn04.grid 300 IN A 196.222.127.44
+studentportal 300 IN A 31.222.174.145
+grid 300 IN A 196.222.127.22

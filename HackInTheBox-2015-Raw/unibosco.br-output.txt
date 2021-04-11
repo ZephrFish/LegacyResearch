@@ -1,0 +1,4 @@
+@ 3600 IN SOA @ root.ucdb.br. 2014051600 3600 360 604800 86400
+@ 3600 IN NS ns1.ucdb.br.
+3600 IN NS ns2.ucdb.br.
+www 3600 IN CNAME siia.ucdb.br.

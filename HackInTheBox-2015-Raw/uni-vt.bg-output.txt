@@ -1,0 +1,52 @@
+@ 600 IN SOA ns lazarov 2014102897 43200 600 1296000 86400
+@ 86400 IN NS ns
+86400 IN NS amigo.acad.bg.
+@ 86400 IN MX 5 mail
+@ 86400 IN TXT "v=spf1  mx ptr ip4:194.141.66.139 mx:mail.uni-vt.bg -all"
+86400 IN TXT "MS=ms45703788"
+proekt-ateliefr.domain1 1200 IN A 10.100.4.69
+eprep 86400 IN A 194.141.66.106
+r-422-asus.domain1 1200 IN A 10.100.2.68
+vk 86400 IN A 194.141.66.149
+media2 86400 IN A 194.141.66.142
+R-609-1.domain1 1200 IN A 192.168.1.174
+sip 86400 IN CNAME sipdir.online.lync.com.
+_sip._tls 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+ws 86400 IN A 194.141.66.151
+r-304-stoianov.domain1 1200 IN A 192.168.1.3
+eorg 86400 IN A 192.168.6.24
+ns 86400 IN A 194.141.66.2
+r-422-lab.domain1 1200 IN A 192.168.0.103
+radio 86400 IN A 194.141.66.92
+anketi 86400 IN A 194.141.66.143
+k5-405-2.domain5 1200 IN A 192.168.0.100
+mail 86400 IN A 194.141.66.139
+libserver 86400 IN A 194.141.66.145
+iorg 86400 IN A 194.141.66.104
+autodiscover 86400 IN CNAME autodiscover.outlook.com.
+mgm 86400 IN A 194.141.66.107
+msoid 86400 IN CNAME clientconfig.microsoftonline-p.net.
+laptop7.domain1 1200 IN A 10.100.1.129
+dis 86400 IN A 194.141.66.144
+r-101-mbc.domain1 1200 IN A 10.100.2.200
+1200 IN A 192.168.2.88
+lyncdiscover 86400 IN CNAME webdir.online.lync.com.
+my 86400 IN A 194.141.66.147
+einsp 86400 IN A 194.141.66.150
+geoarchce 86400 IN A 194.141.66.91
+edocs 86400 IN A 194.141.66.105
+ph 86400 IN A 192.168.6.32
+e-st 86400 IN A 194.141.66.138
+laptop3.domain1 1200 IN A 192.168.14.214
+_sipfederationtls._tcp 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 86400 IN A 194.141.66.141
+amigo.acad.bg. 86400 IN A 194.141.0.3
+media 86400 IN A 194.141.66.146
+laptop2.domain1 1200 IN A 10.100.2.114
+akr 86400 IN A 194.141.66.102
+alumni 86400 IN A 194.141.66.101
+vtu_ksk_1.domain 1200 IN A 10.100.0.218
+laptop1.domain1 1200 IN A 10.100.3.159
+ras 86400 IN A 194.141.66.148
+epriem 86400 IN A 194.141.66.103
+est 86400 IN A 194.141.66.138

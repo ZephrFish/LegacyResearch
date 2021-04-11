@@ -1,0 +1,42 @@
+@ 600 IN SOA ns.heanet.ie. hostmaster.heanet.ie. 2015030900 86400 7200 3600000 600
+@ 600 IN MX 10 rcpi-ie.mail.protection.outlook.com.
+@ 600 IN NS ns.heanet.ie.
+600 IN NS ns1.kerna.ie.
+600 IN NS auth-ns2.heanet.ie.
+@ 600 IN A 82.195.133.136
+@ 600 IN TXT "MS=ms62953752"
+600 IN TXT "v=spf1 ip4:82.195.133.139 include:spf.protection.outlook.com -all"
+600 IN TXT "google-site-verification=kUUbrBKcOzn4F8za8Gax3YH3mR1NVKMr0djHyuXPYlY"
+sip 600 IN CNAME sipdir.online.lync.com.
+number6 600 IN A 217.114.174.67
+learning 600 IN CNAME rcpi.enovation.ie.
+edugate 600 IN A 193.1.242.236
+quercus 600 IN A 54.247.119.254
+relay 600 IN A 82.195.133.139
+idp 600 IN A 82.195.134.74
+_sipfederationtls._tcp 600 IN SRV 100 1 5061 sipfed.online.lync.com.
+hmt 600 IN A 217.114.172.158
+mail 600 IN A 193.1.242.229
+vpn 600 IN A 82.195.133.132
+Calmview 600 IN A 82.195.133.134
+learninguat 600 IN A 37.188.117.6
+msoid 600 IN CNAME clientconfig.microsoftonline-p.net.
+rtdevserver 600 IN MX 20 rtmail
+idp1 600 IN A 82.195.134.75
+idp2 600 IN A 82.195.133.135
+84421ca3cb06298a54b3f584b6f413a1 600 IN CNAME verify.bing.com.
+lyncdiscover 600 IN CNAME webdir.online.lync.com.
+www 600 IN CNAME @
+autodiscover 600 IN CNAME autodiscover.outlook.com.
+members 600 IN A 82.195.133.134
+koha 600 IN A 82.195.133.142
+drvpn 600 IN A 212.78.239.132
+_sip._tls 600 IN SRV 100 1 443 sipdir.online.lync.com.
+adfs 600 IN A 82.195.133.140
+rtmail 600 IN A 82.195.133.139
+library 600 IN A 217.114.174.67
+cdpmms 600 IN CNAME cdpmms.rcpi.ie.s3-website-eu-west-1.amazonaws.com.
+gpt 600 IN A 217.114.172.158
+smtp 600 IN A 193.1.242.228
+mail2 600 IN A 86.47.254.117
+ss 600 IN A 217.114.172.158

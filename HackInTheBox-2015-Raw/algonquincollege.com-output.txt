@@ -1,0 +1,266 @@
+@ 3600 IN SOA ns5 fwadm 2015043002 3600 3600 1209600 3600
+@ 3600 IN MX 20 mailgate14
+3600 IN MX 30 mailgate10
+3600 IN MX 50 mailgate12
+3600 IN MX 50 mailgate13
+@ 3600 IN NS ns5
+3600 IN NS ns3
+3600 IN NS ns6
+3600 IN NS ns4
+@ 3600 IN A 54.86.119.60
+@ 3600 IN SPF "v=spf1 mx ip4:205.211.50.46 ip4:205.211.52.46 ip4:205.211.54.46 ip4:205.211.50.47 ip4:205.211.52.47 ip4:205.211.54.47" " ip4:205.211.51.132 ip4:205.211.53.132 ip4:205.211.55.132 ip4:205.211.51.133 ip4:205.211.53.133 ip4:205.211.55.133 include:mktomail.com ~all"
+@ 3600 IN TXT "v=spf1 mx ip4:205.211.50.46 ip4:205.211.52.46 ip4:205.211.54.46 ip4:205.211.50.47 ip4:205.211.52.47 ip4:205.211.54.47" " ip4:205.211.51.132 ip4:205.211.53.132 ip4:205.211.55.132 ip4:205.211.51.133 ip4:205.211.53.133 ip4:205.211.55.133 include:mktomail.com ~all"
+xsdb 3600 IN NS linkproof
+parkingdb 3600 IN NS linkproof
+dmzns1 3600 IN NS linkproof
+m2 3600 IN NS linkproof
+algidgproxy1 3600 IN NS linkproof
+algidgproxy2 3600 IN NS linkproof
+mediasite 3600 IN NS linkproof
+algftp 3600 IN NS linkproof
+cecat 3600 IN NS linkproof
+pwregisterstg 3600 IN NS linkproof
+owa 3600 IN NS linkproof
+liveac 3600 IN NS linkproof
+acadunix 3600 IN NS linkproof
+foodservweb 3600 IN NS linkproof
+comms 3600 IN NS linkproof
+careercoach 3600 IN CNAME algonquincollege.emsicareercoach.ca.
+M1._domainkey 3600 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFUlNZvtGDlIGDRtzyRQydM9yRInD5YMx86QpgZ3v7pT+Mx4tGbjUxY41TXbsp7UH9hTREaKKGQKNM/B3FzcFVv4zafZ09lUaXcbSdtD70iXyH0OXEGXLZI5gG0ZwjK5ptgQ18d+pUP9s8xMkJnZlubTk9MLvQnv3ZBzoL9FHFDQIDAQAB"
+academic 3600 IN NS linkproof
+air-tieline 3600 IN NS linkproof
+mycareerzone 3600 IN A 64.34.134.197
+bookware3 3600 IN NS linkproof
+secure1 3600 IN NS linkproof
+secure2 3600 IN NS linkproof
+secure3 3600 IN NS linkproof
+saoconnection 3600 IN A 72.10.54.81
+mailgate10 3600 IN A 205.211.50.46
+3600 IN A 205.211.52.46
+3600 IN A 205.211.54.46
+mailgate10 3600 IN SPF "v=spf1 a -all"
+mailgate10 3600 IN TXT "v=spf1 a -all"
+mailgate11 3600 IN A 205.211.50.47
+3600 IN A 205.211.52.47
+3600 IN A 205.211.54.47
+mailgate11 3600 IN SPF "v=spf1 a -all"
+mailgate11 3600 IN TXT "v=spf1 a -all"
+mailgate12 3600 IN A 205.211.51.132
+3600 IN A 205.211.53.132
+3600 IN A 205.211.55.132
+mailgate12 3600 IN SPF "v=spf1 a -all"
+mailgate12 3600 IN TXT "v=spf1 a -all"
+mailgate13 3600 IN A 205.211.51.133
+3600 IN A 205.211.53.133
+3600 IN A 205.211.55.133
+mailgate13 3600 IN SPF "v=spf1 a -all"
+mailgate13 3600 IN TXT "v=spf1 a -all"
+mailgate14 3600 IN A 205.211.51.155
+3600 IN A 205.211.53.155
+3600 IN A 205.211.55.155
+acsis1 3600 IN NS linkproof
+acsis2 3600 IN NS linkproof
+mymail 3600 IN NS linkproof
+myalgonquin 3600 IN NS linkproof
+mlearning 3600 IN NS linkproof
+onetransdmz1 3600 IN NS linkproof
+onetransdmz2 3600 IN NS linkproof
+mdev 3600 IN NS linkproof
+algwww2 3600 IN NS linkproof
+algwww3 3600 IN NS linkproof
+acsisnew 3600 IN NS linkproof
+accard 3600 IN NS linkproof
+ns4 3600 IN A 205.211.52.11
+www.orientation 3600 IN A 184.106.79.110
+pwregister 3600 IN NS linkproof
+go 3600 IN CNAME algonquincollege.mktoweb.com.
+acfirstgen 3600 IN NS linkproof
+ph 3600 IN NS linkproof
+help 3600 IN CNAME help.algonquincollege.com.00d80000000mdh3eag.live.siteforce.com.
+ns6 3600 IN A 205.211.52.8
+_sipfederationtls._tcp 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+www 3600 IN A 54.86.119.60
+blogs 3600 IN NS linkproof
+mycard 3600 IN NS linkproof
+campuscard 3600 IN NS linkproof
+ocaspete 3600 IN NS linkproof
+bbstageweb 3600 IN NS linkproof
+mediasitecontent 3600 IN NS linkproof
+vpn 3600 IN NS linkproof
+m 3600 IN NS linkproof
+algttg 3600 IN NS linkproof
+repository 3600 IN A 159.182.163.135
+lts1 3600 IN NS linkproof
+lts2 3600 IN NS linkproof
+lts3 3600 IN NS linkproof
+lts4 3600 IN NS linkproof
+intmailgate1 3600 IN A 205.211.51.132
+3600 IN A 205.211.53.132
+3600 IN A 205.211.55.132
+intmailgate1 3600 IN SPF "v=spf1 a -all"
+intmailgate1 3600 IN TXT "v=spf1 a -all"
+comsadmin 3600 IN NS linkproof
+bookstorew2 3600 IN NS linkproof
+realmedia 3600 IN NS linkproof
+resources 3600 IN CNAME algonquincorporate.force.com.
+bblearndev 3600 IN NS linkproof
+myalgonquin2 3600 IN CNAME www
+elearningt 3600 IN NS linkproof
+liveacstg 3600 IN NS linkproof
+coursefeedback 3600 IN NS linkproof
+replay 3600 IN NS linkproof
+sp2010stage 3600 IN NS linkproof
+acgis 3600 IN NS linkproof
+virtualtour 3600 IN A 50.16.216.253
+bb7 3600 IN NS linkproof
+residence 3600 IN NS linkproof
+firstclassads 3600 IN NS linkproof
+bbfs 3600 IN NS linkproof
+chat 3600 IN NS linkproof
+groupspace 3600 IN NS linkproof
+acsis 3600 IN NS linkproof
+pi-web 3600 IN NS linkproof
+ltsdevservices 3600 IN NS linkproof
+mailgate3 3600 IN NS linkproof
+linkproof 3600 IN A 205.211.50.5
+3600 IN A 205.211.52.5
+3600 IN A 205.211.54.5
+extraweb 3600 IN NS linkproof
+_domainkey 3600 IN TXT "t=y; o=~; r=sysadmin@algonquincollege.com"
+acsisw1 3600 IN NS linkproof
+acsisw2 3600 IN NS linkproof
+acmaps 3600 IN NS linkproof
+ftp 3600 IN NS linkproof
+orientation 3600 IN A 184.106.79.110
+valgwww 3600 IN NS linkproof
+lyceum 3600 IN NS linkproof
+studyonline 3600 IN CNAME unbouncepages.com.
+sissm1 3600 IN NS linkproof
+xwebstage 3600 IN NS linkproof
+corpftp 3600 IN NS linkproof
+www2 3600 IN NS linkproof
+www3 3600 IN CNAME www
+sts 3600 IN NS linkproof
+newtechnologystore 3600 IN CNAME newtechnologystore.ca.
+www7 3600 IN NS linkproof
+parkapp 3600 IN NS linkproof
+ssologin 3600 IN NS linkproof
+techfair 3600 IN NS linkproof
+algvpn 3600 IN NS linkproof
+pcivpnwc 3600 IN A 205.211.52.180
+pwresetstg 3600 IN NS linkproof
+ccol-dev 3600 IN NS linkproof
+velearning2 3600 IN NS linkproof
+maildb 3600 IN A 205.211.50.46
+3600 IN A 205.211.52.46
+3600 IN A 205.211.54.46
+ckdj-tieline 3600 IN NS linkproof
+ns3 3600 IN A 205.211.50.11
+ccolstaff 3600 IN CNAME ccol
+ns5 3600 IN A 205.211.50.8
+acaddb 3600 IN NS linkproof
+algonquinlive 3600 IN CNAME liveac
+remotesupport 3600 IN NS linkproof
+mailgate1 3600 IN A 205.211.50.50
+3600 IN A 205.211.52.50
+3600 IN A 205.211.54.50
+algnable 3600 IN NS linkproof
+782441939 3600 IN CNAME domains.live.com.
+mailgate4 3600 IN NS linkproof
+mailgate5 3600 IN NS linkproof
+acsisdev 3600 IN NS linkproof
+mypass 3600 IN NS linkproof
+plato 3600 IN NS linkproof
+sisdas1 3600 IN NS linkproof
+secure4 3600 IN NS linkproof
+acadunix2 3600 IN NS linkproof
+algftp2 3600 IN CNAME algftp
+digitalresources 3600 IN CNAME plato
+nat-vlan192 3600 IN A 205.211.50.192
+3600 IN A 205.211.52.192
+3600 IN A 205.211.54.192
+pages 3600 IN CNAME algonquincollege2sandbox1.mktoweb.com.
+playdoh 3600 IN NS linkproof
+sispete 3600 IN NS linkproof
+www.saoconnection 3600 IN A 72.10.54.81
+acadaix 3600 IN NS linkproof
+fluidsurveys 3600 IN SPF "v=spf1 a -all"
+fluidsurveys 3600 IN TXT "v=spf1 a -all"
+xweb 3600 IN NS linkproof
+acsiswgw 3600 IN NS linkproof
+coms 3600 IN NS linkproof
+ws1 3600 IN NS linkproof
+algcrseval 3600 IN NS linkproof
+nts 3600 IN NS linkproof
+www5 3600 IN CNAME www
+relay 3600 IN NS linkproof
+ltsdev 3600 IN NS linkproof
+alumnet 3600 IN NS linkproof
+ccol 3600 IN NS linkproof
+athens 3600 IN NS linkproof
+acce 3600 IN NS linkproof
+netlab 3600 IN A 205.211.76.48
+elearning 3600 IN CNAME velearning2
+bblearnstgdb 3600 IN NS linkproof
+starrez 3600 IN NS linkproof
+parkweb 3600 IN NS linkproof
+corporate 3600 IN NS linkproof
+algadmd1 3600 IN NS linkproof
+programmingolympics 3600 IN A 205.211.77.30
+online 3600 IN NS linkproof
+csdservices 3600 IN NS linkproof
+acsisstga 3600 IN NS linkproof
+www6 3600 IN CNAME www
+everest 3600 IN NS linkproof
+rainforest 3600 IN NS linkproof
+onlineplan 3600 IN NS linkproof
+algwww 3600 IN CNAME www7
+mailgate2 3600 IN NS linkproof
+succeed 3600 IN CNAME mkto-p0029.com.
+bblearnstgfs 3600 IN NS linkproof
+campusstore 3600 IN NS linkproof
+parkingservices 3600 IN NS linkproof
+www.nts 3600 IN CNAME nts
+xweb2 3600 IN NS linkproof
+bookstore 3600 IN NS linkproof
+poll 3600 IN CNAME lyceum
+astonline 3600 IN NS linkproof
+ltsservices 3600 IN NS linkproof
+pwreset 3600 IN NS linkproof
+ckdj 3600 IN NS linkproof
+search 3600 IN NS linkproof
+bblearnstgweb1 3600 IN NS linkproof
+bblearnstgweb2 3600 IN NS linkproof
+onlinelb 3600 IN NS linkproof
+secure 3600 IN NS linkproof
+connect 3600 IN NS linkproof
+bblearnstg 3600 IN NS linkproof
+socialstream 3600 IN NS linkproof
+info 3600 IN CNAME www
+kcms 3600 IN CNAME algonquin.kcms.modolabs.com.
+intmailgate 3600 IN A 205.211.52.150
+3600 IN A 205.211.54.150
+m.recruitment 3600 IN CNAME algonquin-admissions.prod.modolabs.com.
+onlinet 3600 IN NS linkproof
+firstgenresource 3600 IN CNAME acfirstgen
+bblearncollab 3600 IN NS linkproof
+blackboard 3600 IN NS linkproof
+velearning 3600 IN CNAME velearning2
+alumni 3600 IN NS linkproof
+www.programmingolympics 3600 IN CNAME programmingolympics
+www3dev 3600 IN A 107.20.147.96
+media-2 3600 IN NS linkproof
+stsstg 3600 IN NS linkproof
+alglsu 3600 IN NS linkproof
+nat-vlan10 3600 IN A 205.211.50.10
+3600 IN A 205.211.52.10
+3600 IN A 205.211.54.10
+training 3600 IN CNAME algonquincorporate.force.com.
+mailgatest1 3600 IN A 205.211.50.63
+3600 IN A 205.211.52.63
+3600 IN A 205.211.54.63
+bbdb1 3600 IN NS linkproof
+algmeta1 3600 IN NS linkproof
+acsisa1 3600 IN NS linkproof
+acsisa2 3600 IN NS linkproof
+acsisa3 3600 IN NS linkproof

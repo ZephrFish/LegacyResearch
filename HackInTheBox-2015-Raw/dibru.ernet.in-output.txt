@@ -1,0 +1,18 @@
+@ 86400 IN SOA e-iisc02.iisc.ernet.in. bindmaster.ece.iisc.ernet.in. 1003 1800 900 604800 86400
+@ 86400 IN NS ss585.ncst.ernet.in.
+86400 IN NS naamak.ncst.ernet.in.
+86400 IN NS e-iisc01.iisc.ernet.in.
+86400 IN NS e-iisc02.iisc.ernet.in.
+@ 86400 IN A 202.141.136.54
+@ 86400 IN MX 10 @
+86400 IN MX 15 mailblr.iisc.ernet.in.
+86400 IN MX 20 mail-relay-vsat.ernet.in.
+86400 IN MX 40 naveen.ncst.ernet.in.
+kapili 86400 IN A 202.141.136.55
+dikhow 86400 IN A 202.141.136.52
+dibru-ERNET 86400 IN A 202.141.136.49
+www 86400 IN CNAME @
+chipakha 86400 IN CNAME @
+dihing 86400 IN A 202.141.136.50
+dibang 86400 IN A 202.141.136.53
+disang 86400 IN A 202.141.136.51

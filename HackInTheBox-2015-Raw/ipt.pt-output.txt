@@ -1,0 +1,555 @@
+@ 3600 IN SOA lusitano jpombo 61083 1200 900 864000 3600
+@ 3600 IN NS ns3
+3600 IN NS ns02.fccn.pt.
+3600 IN NS viriato
+3600 IN NS lusitano
+3600 IN NS pintasilgo
+@ 600 IN A 193.137.5.6
+600 IN A 193.137.5.8
+600 IN A 193.137.5.29
+600 IN A 193.137.236.212
+@ 3600 IN MX 9 sx3
+@ 3600 IN TXT "MS=ms88074925"
+3600 IN TXT "v=spf1 mx ip4:193.137.5.0/24 ?all"
+_ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones 600 IN SRV 0 100 389 dcalunos.alunos
+600 IN SRV 0 100 389 lusitano
+www.patrimonarte 3600 IN A 193.137.5.174
+estatisticas.tacelo 3600 IN CNAME albatroz
+_ldap._tcp.DomainDnsZones 600 IN SRV 0 100 389 lusitano
+600 IN SRV 0 100 389 pintasilgo
+estatisticas.tcl2012 3600 IN CNAME albatroz
+estatisticas.gaq 3600 IN A 193.137.5.12
+estatisticas.paamt 3600 IN A 193.137.5.12
+portal.esgt 3600 IN CNAME albatroz
+www.lanparty.esta 3600 IN CNAME albatroz
+estatisticas.cepe 3600 IN CNAME albatroz
+fenix.dei.estt 3600 IN A 193.137.5.146
+_ldap._tcp.site-alunos._sites 600 IN SRV 0 100 389 viriato
+estatisticas.docentes 3600 IN CNAME albatroz
+www.estatuna 3600 IN CNAME albatroz
+asimov.dei.estt 3600 IN A 193.137.5.174
+templar 3600 IN A 193.137.5.199
+estatisticas.cetc 3600 IN A 193.137.5.12
+calypso.dei.estt 3600 IN A 193.137.5.149
+calypso.dei.estt 3600 IN AAAA 2001:690:2120::c189:595
+www.e-learning 3600 IN CNAME golfinho.aim.estt
+idp1aa 3600 IN CNAME idp1
+www.caq 3600 IN CNAME albatroz
+www.ccc 3600 IN CNAME jupiter.ccc
+www.paamt 3600 IN CNAME albatroz
+www.cda 3600 IN CNAME acesso.cda
+www.emprego 3600 IN CNAME albatroz
+cepma 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+navegador 3600 IN CNAME pilatus
+estatisticas.dtag.estt 3600 IN A 193.137.5.12
+keppler.aim.estt 3600 IN A 193.137.5.251
+tbs 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+012eff11-fdc7-428a-bbf0-99eb307c38b9._msdcs 600 IN CNAME chaparro
+portal.esta 3600 IN CNAME albatroz
+ns1.w2.net 3600 IN A 193.137.5.44
+www.aim.esgt 3600 IN CNAME albatroz
+31e03a07-5ec5-416b-adab-a6be5c17813b._msdcs 600 IN CNAME pintasilgo
+portal.estt 3600 IN CNAME albatroz
+www.ae.esgt 3600 IN CNAME albatroz
+www.cin 3600 IN CNAME albatroz
+www.cis 3600 IN CNAME albatroz
+estatisticas.aast-conf 3600 IN CNAME albatroz
+estatisticas.gri 3600 IN A 193.137.5.12
+sx3 3600 IN A 193.137.5.30
+sx3 3600 IN AAAA 2001:690:2120::c189:51e
+khem.dei.estt 3600 IN A 193.137.5.79
+3coloquiofisica 3600 IN CNAME albatroz
+www.domus 3600 IN CNAME jupiter.ccc
+www.foco 3600 IN CNAME albatroz
+estatisticas.lanparty.esta 3600 IN A 193.137.5.12
+www.cph 3600 IN CNAME albatroz
+www.suporte 3600 IN A 193.137.5.46
+securitasgate 3600 IN A 193.137.5.198
+demo 3600 IN NS ns1.w2.net
+appipt 3600 IN A 193.137.5.36
+www.deqa.estt 3600 IN CNAME templar
+colortranslation 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+_ldap._tcp.Default-First-Site-Name._sites.DomainDnsZones 600 IN SRV 0 100 389 lusitano
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs 600 IN SRV 0 100 88 chaparro
+600 IN SRV 0 100 88 lusitano
+www.aim.estt 3600 IN CNAME jupiter.ccc
+estatisticas.grh.esgt 3600 IN A 193.137.5.12
+www.gri 3600 IN CNAME albatroz
+www.cqid 3600 IN CNAME albatroz
+_kerberos._tcp.dc._msdcs 600 IN SRV 0 100 88 chaparro
+600 IN SRV 0 100 88 lusitano
+600 IN SRV 0 100 88 pintasilgo
+mail 3600 IN CNAME pilatus
+webmanager 3600 IN CNAME zeus
+festatemplaria 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www.gtc.esgt 3600 IN CNAME albatroz
+www.crav 3600 IN CNAME albatroz
+www.liatvi 3600 IN A 193.137.5.161
+www.jornadas-sig 3600 IN CNAME albatroz
+www.cepton 3600 IN CNAME albatroz
+www.tcl2012 3600 IN CNAME albatroz
+impl-1-l.net 3600 IN A 193.137.5.244
+khem 3600 IN CNAME khem.dei.estt
+www.lec.estt 3600 IN CNAME albatroz
+albatroz01 3600 IN A 193.137.5.44
+albatroz01 3600 IN AAAA 2001:690:2120::c189:52c
+fotografiaeterritorio 3600 IN A 195.22.8.84
+_ldap._tcp.abrantes._sites.ForestDnsZones 600 IN SRV 0 100 389 pintasilgo
+600 IN SRV 0 100 389 eq-abrantes.alunosabrt
+sirocco 3600 IN A 193.137.5.42
+rtr-3-193-137-132.net 3600 IN A 193.137.132.254
+siagbi 3600 IN A 193.137.5.31
+rtr-3-194-210-241.net 3600 IN A 194.210.241.254
+taurus.dei.estt 3600 IN A 193.137.5.148
+www.fotografiaeterritorio 3600 IN A 195.22.8.84
+estatisticas.cl 3600 IN A 193.137.5.12
+impd-1-j.net 3600 IN A 193.137.5.243
+www.csee 3600 IN CNAME jupiter.ccc
+estatisticas.cv 3600 IN A 193.137.5.12
+www2.tunatemplaria 3600 IN CNAME albatroz
+www.gaq 3600 IN CNAME albatroz
+estatisticas.gi 3600 IN A 193.137.5.12
+www.gcs 3600 IN CNAME albatroz
+www.templarios 3600 IN CNAME albatroz
+muator 3600 IN A 193.137.5.34
+muator 3600 IN AAAA 2001:690:2120::c189:522
+estatisticas.gcs 3600 IN CNAME albatroz
+oiva 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+www.estatuasvivas 3600 IN CNAME albatroz
+www.aast-conf 3600 IN CNAME albatroz
+alumni 3600 IN A 193.137.5.201
+orion.dei.estt 3600 IN A 193.137.5.200
+impl-1-o.net 3600 IN A 193.137.5.78
+estatisticas.tag.estt 3600 IN A 193.137.5.12
+implc-1-gi.net 3600 IN A 193.137.5.77
+www.dec.estt 3600 IN CNAME albatroz
+estatisticas.ae.esgt 3600 IN A 193.137.5.12
+estatisticas.academiacisco 3600 IN A 193.137.5.12
+estatisticas.ssis 3600 IN A 193.137.5.12
+_ldap._tcp.pdc._msdcs 600 IN SRV 0 100 389 lusitano
+barometroregional 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+estatisticasimagensdarepublica 3600 IN CNAME albatroz
+ncr.ae.estt 3600 IN A 193.137.5.12
+estatisticas.esgt 3600 IN A 193.137.5.12
+pilatus 1200 IN A 193.137.5.5
+www.tacelo 3600 IN CNAME albatroz
+_ldap._tcp.abrantes._sites.gc._msdcs 600 IN SRV 0 100 3268 pintasilgo
+600 IN SRV 0 100 3268 eq-abrantes.alunosabrt
+_ldap._tcp.dc._msdcs 600 IN SRV 0 100 389 chaparro
+600 IN SRV 0 100 389 lusitano
+600 IN SRV 0 100 389 pintasilgo
+_kerberos._udp 600 IN SRV 0 100 88 chaparro
+600 IN SRV 0 100 88 lusitano
+600 IN SRV 0 100 88 pintasilgo
+alunosabrt 3600 IN NS eq-abrantes.alunosabrt
+impd-1-h.net 3600 IN A 193.137.5.249
+code.dei.estt 3600 IN A 193.137.5.49
+NABAO 3600 IN CNAME triangulum
+l1.net 3600 IN NS ns1.l1.net
+3600 IN NS ns2.l1.net
+iris.dei.estt 3600 IN A 193.137.5.29
+estatisticas.dee.estt 3600 IN A 193.137.5.12
+iocbd 3600 IN A 193.137.5.111
+iocbd 3600 IN AAAA 2001:690:2120::c189:56f
+alunos 3600 IN NS dcalunos.alunos
+revistaiedtag 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www 3600 IN CNAME albatroz
+eurus 3600 IN A 193.137.5.18
+robotics 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+estatisticas.ae.esta 3600 IN A 193.137.5.12
+estatisticas.gape 3600 IN CNAME albatroz
+scp 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www.aitic.esgt 3600 IN CNAME albatroz
+vpnssl 3600 IN CNAME sslvpn
+_kerberos._tcp.Default-First-Site-Name._sites 600 IN SRV 0 100 88 chaparro
+600 IN SRV 0 100 88 lusitano
+estatisticas 3600 IN A 193.137.5.12
+estatisticas.ae.estt 3600 IN A 193.137.5.12
+1c38a423-d828-4624-942b-71d201fa0705._msdcs 600 IN CNAME eq-abrantes.alunosabrt
+www.3coloquiofisica 3600 IN CNAME albatroz
+impl-1-r.net 3600 IN A 193.137.5.117
+estatisticas.bibliotecandoemtomar 3600 IN CNAME albatroz
+golfinho 3600 IN CNAME golfinho.aim.estt
+estatisticas.ecohcc09 3600 IN CNAME albatroz
+estatisticas.ecohcc11 3600 IN CNAME albatroz
+academiacap 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+www.mcffe 3600 IN CNAME albatroz
+priv.net 3600 IN A 193.137.5.6
+estatisticasportal.esgt 3600 IN CNAME albatroz
+www.linstat2010 3600 IN CNAME albatroz
+estatisticas.estt 3600 IN A 193.137.5.12
+_ldap._tcp.abrantes._sites.DomainDnsZones 600 IN SRV 0 100 389 pintasilgo
+lanparty.estt 3600 IN CNAME neeit.dei.estt
+estatisticas.cespoga 3600 IN CNAME albatroz
+ioceventos 3600 IN A 193.137.5.112
+ioceventos 3600 IN AAAA 2001:690:2120::c189:570
+estatisticas.aif.estt 3600 IN A 193.137.5.12
+estatisticas.caaportugal 3600 IN CNAME albatroz
+ecohcc 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+meteoday2013 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+plutao.dei.estt 3600 IN A 193.137.5.147
+estatisticas.gt.estt 3600 IN A 193.137.5.12
+vcenter 1200 IN A 10.1.1.160
+chaparro 1200 IN A 193.137.5.29
+www.mattriad2011 3600 IN CNAME albatroz
+_sip._tcp.voip 3600 IN SRV 10 102 5060 sbc.voip
+estatisticasportal.esta 3600 IN CNAME albatroz
+estatisticasportal.estt 3600 IN CNAME albatroz
+fenix.esgt 3600 IN CNAME afrodite
+giva 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+estatisticas.graomestre 3600 IN A 193.137.5.12
+www.turiauta 3600 IN CNAME albatroz
+www.docentes 3600 IN CNAME albatroz
+www.aile.esgt 3600 IN CNAME albatroz
+cai 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www.jornadas-ei 3600 IN CNAME albatroz
+cas 3600 IN CNAME apolo
+triangulum 3600 IN A 193.137.5.13
+triangulum 3600 IN AAAA 2001:690:2120::c189:50d
+artec 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+cei 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+ftp2 3600 IN CNAME albatroz
+papagaio 3600 IN A 193.137.5.27
+papagaio 3600 IN AAAA 2001:690:2120::c189:51d
+websig 3600 IN CNAME jupiter.ccc
+europa 3600 IN A 193.137.5.61
+www.iwms08 3600 IN CNAME jupiter.ccc
+www.dtag.estt 3600 IN CNAME albatroz
+chc 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+pintasilgo 3600 IN A 193.137.236.212
+pintasilgo 1200 IN AAAA 2002:c189:ecd4::c189:ecd4
+19e92c2a-1a09-44d8-90ac-9cfe40383672._msdcs 600 IN CNAME lusitano
+portal2 3600 IN CNAME albatroz01
+fenix.esta 3600 IN CNAME poseidon
+estatisticas.tunatemplaria 3600 IN A 193.137.5.12
+alexandria 1200 IN A 193.137.5.22
+alexandria 1200 IN AAAA 2001:690:2120::250:56ff:fe8e:10fb
+fenix.estt 3600 IN CNAME anubis
+_kerberos._tcp.abrantes._sites.dc._msdcs 600 IN SRV 0 100 88 pintasilgo
+estatisticas.foco 3600 IN A 193.137.5.12
+www.concursotic 3600 IN CNAME albatroz
+moodle.dei.estt 3600 IN A 193.137.5.227
+moodle.dei.estt 3600 IN AAAA 2001:690:2120::c198:5e3
+_ldap._tcp 600 IN SRV 0 100 389 chaparro
+600 IN SRV 0 100 389 lusitano
+600 IN SRV 0 100 389 pintasilgo
+estatisticas.mattriad2011 3600 IN CNAME albatroz
+iocweb 3600 IN A 193.137.5.108
+iocweb 3600 IN AAAA 2001:690:2120::c189:56c
+cph 3600 IN A 193.137.5.219
+impl-1-j.net 3600 IN A 193.137.5.242
+aim.estt 3600 IN MX 10 golfinho.aim.estt
+sitedemo 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+estatisticas.gecrav 3600 IN CNAME albatroz
+_gc._tcp.abrantes._sites 600 IN SRV 0 100 3268 pintasilgo
+600 IN SRV 0 100 3268 eq-abrantes.alunosabrt
+www.dei.estt 3600 IN CNAME calypso.dei.estt
+ag 3600 IN A 193.137.5.91
+estatisticas.cqid 3600 IN CNAME albatroz
+netop 3600 IN A 193.137.5.46
+ns1.l1.net 3600 IN A 193.137.5.38
+portal 3600 IN CNAME portal2
+estatisticas.iptomarrugby 3600 IN CNAME albatroz
+estatisticas.crav 3600 IN A 193.137.5.12
+cearc 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+cmenet 3600 IN A 193.137.5.48
+mattriad 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+apps 3600 IN NS ns1.l1.net
+3600 IN NS ns2.l1.net
+aspenlic 3600 IN CNAME netop
+e13d5816-b911-4c0d-90e1-fec81b0aa211._msdcs 600 IN CNAME dcalunos.alunos
+www.academiacisco 3600 IN CNAME albatroz
+www.grh.esgt 3600 IN CNAME albatroz
+_ldap._tcp.a0eccd86-085f-4f36-a474-5b4a1368b69d.domains._msdcs 600 IN SRV 0 100 389 eq-abrantes.alunosabrt
+infante 3600 IN AAAA 2001:690:2120::c189:50e
+estatisticas.caa2005 3600 IN CNAME albatroz
+w1.net 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+caritasdetomar 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www.imagensdarepublica 3600 IN A 195.22.8.66
+sgiptomar.voip 3600 IN CNAME baco
+arqsoft 3600 IN A 193.137.5.220
+apolo 3600 IN A 193.137.5.26
+apolo 3600 IN AAAA 2001:690:2120::c189:51a
+hermes 3600 IN A 193.137.5.237
+viriato 3600 IN A 193.137.5.6
+viriato 3600 IN AAAA 2001:690:2120::c189:5ff
+_sips._tls.voip 3600 IN SRV 10 100 5061 sbc.voip
+_ldap._tcp.298426e2-def8-4019-92c5-bb51168f811f.domains._msdcs 600 IN SRV 0 100 389 chaparro
+600 IN SRV 0 100 389 lusitano
+600 IN SRV 0 100 389 pintasilgo
+aliseos 3600 IN A 193.137.5.11
+ns2.w1.net 3600 IN A 193.137.5.209
+gci 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+www.ae.esta 3600 IN CNAME albatroz
+_VLMCS._tcp 3600 IN SRV 0 0 1688 kms
+www.ae.estt 3600 IN CNAME albatroz
+sbc.voip 3600 IN A 193.137.59.66
+sbc.voip 3600 IN AAAA 2001:690:1e19:f080::10
+estatisticaswireless 3600 IN A 193.137.5.12
+_ldap._tcp.gc._msdcs 600 IN SRV 0 100 3268 lusitano
+600 IN SRV 0 100 3268 pintasilgo
+600 IN SRV 0 100 3268 eq-abrantes.alunosabrt
+_gc._tcp.Default-First-Site-Name._sites 600 IN SRV 0 100 3268 lusitano
+jupiter.ccc 3600 IN A 193.137.5.54
+jupiter.ccc 3600 IN AAAA 2001:690:2120::c189:536
+duberdicus 3600 IN A 193.137.5.28
+www.1000y 3600 IN CNAME templar
+imagensdarepublica 3600 IN A 195.22.8.66
+arqsoft.cph 3600 IN A 193.137.5.220
+jaguar.ccc 3600 IN A 193.137.5.161
+ftp 3600 IN CNAME iptomar
+rtr-5-193-137-5.net 3600 IN A 193.137.5.19
+kms 3600 IN A 193.137.5.59
+ewasteu 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+_gc._tcp 600 IN SRV 0 100 3268 lusitano
+600 IN SRV 0 100 3268 pintasilgo
+600 IN SRV 0 100 3268 eq-abrantes.alunosabrt
+otic 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+pix-1-193-137-5.net 3600 IN A 193.137.5.45
+impl-1-b.net 3600 IN A 193.137.5.247
+iwms 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+www.tag.estt 3600 IN CNAME albatroz
+estatisticas.uispp 3600 IN A 193.137.5.12
+estatisticas.cr.estt 3600 IN CNAME albatroz
+www.gt.estt 3600 IN CNAME albatroz
+rtr-3-193-137-5.net 3600 IN A 193.137.5.15
+sasweb 3600 IN CNAME alexandria
+estatisticas.ttt 3600 IN CNAME albatroz
+estatisticas.cesmae 3600 IN CNAME albatroz
+_sips._tcp.voip 3600 IN SRV 10 102 5061 sbc.voip
+rtr-2-193-137-5.net 3600 IN A 193.137.5.171
+mdthomar 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www.ceaa 3600 IN CNAME albatroz
+www.iptomarrugby 3600 IN CNAME albatroz
+galileu 3600 IN A 193.137.5.40
+iocapp 3600 IN A 193.137.5.109
+iocapp 3600 IN AAAA 2001:690:2120::c189:56d
+eurus2 3600 IN AAAA 2001:690:2120::c189:513
+eurus2 3600 IN A 193.137.5.19
+www.jornadas-avis 3600 IN CNAME albatroz
+rtr-1-193-137-5.net 3600 IN A 193.137.5.1
+www.caa2005 3600 IN CNAME albatroz
+idp 3600 IN A 193.137.5.32
+www.uispp 3600 IN CNAME albatroz
+estatisticas.cister-templarios 3600 IN CNAME albatroz
+www.dee.estt 3600 IN CNAME albatroz
+lusitano 3600 IN A 193.137.5.8
+lusitano 1200 IN AAAA 2001:690:2120::c189:508
+1200 IN AAAA 2001:690:2120::213:21ff:fe6b:12e9
+estatisticas.fotografia.estt 3600 IN A 193.137.5.12
+www.ecohcc09 3600 IN CNAME albatroz
+www.ecohcc11 3600 IN CNAME albatroz
+www.graomestre 3600 IN CNAME albatroz
+ForestDnsZones 600 IN A 193.137.5.8
+600 IN A 193.137.5.17
+600 IN A 193.137.236.212
+600 IN A 193.137.236.222
+_kerberos._tcp 600 IN SRV 0 100 88 chaparro
+600 IN SRV 0 100 88 lusitano
+600 IN SRV 0 100 88 pintasilgo
+aguia.aim.estt 3600 IN CNAME golfinho.aim.estt
+rbtomar 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www.tunatemplaria 3600 IN CNAME albatroz
+_kerberos._tcp.site-alunos._sites 600 IN SRV 0 100 88 viriato
+MSSQL-server 1200 IN A 10.1.1.159
+www.otipt 3600 IN CNAME albatroz
+estatisticas.emprego 3600 IN A 193.137.5.12
+algoritmi 3600 IN A 193.137.5.177
+_sip._udp.voip 3600 IN SRV 10 100 5060 sbc.voip
+iot 3600 IN NS eurus
+3600 IN NS eurus2
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs 600 IN SRV 0 100 3268 lusitano
+www.cepe 3600 IN CNAME albatroz
+www.cespoga 3600 IN CNAME albatroz
+_kpasswd._tcp 600 IN SRV 0 100 464 chaparro
+600 IN SRV 0 100 464 lusitano
+600 IN SRV 0 100 464 pintasilgo
+gescor 3600 IN A 193.137.5.13
+estatisticas.aim.esgt 3600 IN A 193.137.5.12
+XenApp01 1200 IN A 10.1.1.127
+1200 IN A 192.168.100.136
+XenApp02 1200 IN A 10.1.1.130
+1200 IN A 192.168.100.137
+I1-pc01.abrantes 1200 IN A 192.168.130.51
+adamastor 3600 IN A 193.137.5.60
+www.aif.estt 3600 IN CNAME albatroz
+estatisticas.turiauta 3600 IN A 193.137.5.12
+www.cetc 3600 IN CNAME albatroz
+ns1.w1.net 3600 IN A 193.137.5.27
+www.jornalonline.esta 3600 IN CNAME albatroz
+neptuno.ccc 3600 IN A 193.137.5.58
+neptuno.ccc 3600 IN AAAA 2001:690:2120::c189:53a
+www.gecrav 3600 IN CNAME albatroz
+_ldap._tcp.Default-First-Site-Name._sites 600 IN SRV 0 100 389 chaparro
+600 IN SRV 0 100 389 lusitano
+dspace.esgt 3600 IN CNAME afrodite
+estatisticas.aitic.esgt 3600 IN A 193.137.5.12
+estatisticasncr.ae.estt 3600 IN A 193.137.5.12
+estatisticasneeit.dei.estt 3600 IN A 193.137.5.12
+_ldap._tcp.166def73-768e-4cff-be53-5d5db1936216.domains._msdcs 600 IN SRV 0 100 389 dcalunos.alunos
+www.rugbyaat 3600 IN CNAME albatroz
+dcalunos.alunos 3600 IN A 193.137.5.17
+descobretomar 3600 IN CNAME albatroz
+_kpasswd._udp 600 IN SRV 0 100 464 chaparro
+600 IN SRV 0 100 464 lusitano
+600 IN SRV 0 100 464 pintasilgo
+acesso.cda 3600 IN A 193.137.5.41
+WebInterface01 1200 IN A 10.1.1.128
+horarios 3600 IN A 193.137.5.221
+www.bibliotecandoemtomar 3600 IN CNAME albatroz
+academia 3600 IN NS ns1.l1.net
+3600 IN NS ns2.l1.net
+alcatraz 3600 IN A 193.137.5.38
+alcatraz 3600 IN AAAA 2001:690:2120::c189:526
+impd-1-o.net 3600 IN A 193.137.5.246
+eq-abrantes.alunosabrt 3600 IN A 193.137.236.222
+line 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+estatisticas.linstat2010 3600 IN CNAME albatroz
+estatisticas.deqa.estt 3600 IN CNAME templar
+www.cl 3600 IN CNAME albatroz
+estatisticas.gtc.esgt 3600 IN A 193.137.5.12
+dspace.esta 3600 IN CNAME poseidon
+www.cv 3600 IN CNAME albatroz
+estatisticas.aat 3600 IN A 193.137.5.12
+turismomilitar 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+dspace.estt 3600 IN CNAME anubis
+dei.estt 3600 IN MX 10 orion.dei.estt
+DomainDnsZones 600 IN A 193.137.5.8
+600 IN A 193.137.236.212
+www.gi 3600 IN CNAME albatroz
+estatisticas.jornalonline.esta 3600 IN A 193.137.5.12
+sslvpn 3600 IN A 193.137.5.89
+www.ttt 3600 IN CNAME albatroz
+webmail 3600 IN CNAME aliseos
+estatisticas.lec.estt 3600 IN A 193.137.5.12
+mozart.dei.estt 3600 IN A 193.137.5.203
+_ldap._tcp.site-alunos._sites.dc._msdcs 600 IN SRV 0 100 389 viriato
+semanadegestao.esgt 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs 600 IN SRV 0 100 389 chaparro
+600 IN SRV 0 100 389 lusitano
+ipplan 3600 IN A 193.137.5.46
+impd-1-r.net 3600 IN A 193.137.5.118
+estatuasvivas 3600 IN CNAME albatroz
+idp1 3600 IN A 193.137.5.33
+idp1 3600 IN AAAA 2001:690:2120::c189:521
+estatisticas.jornadas-ei 3600 IN A 193.137.5.12
+_ldap._tcp.abrantes._sites 600 IN SRV 0 100 389 pintasilgo
+www.aast 3600 IN CNAME jupiter.ccc
+wireless 3600 IN CNAME albatroz
+netpa 3600 IN CNAME hermes
+siagsgbd 3600 IN A 193.137.5.36
+impl-1-h.net 3600 IN A 193.137.5.248
+siagapp 3600 IN A 193.137.5.37
+estatisticas.caq 3600 IN CNAME albatroz
+seminarioreabilitacaopatrimonio 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+orion 3600 IN CNAME orion.dei.estt
+estatisticasestatuasvivas 3600 IN CNAME albatroz
+estatisticas.dec.estt 3600 IN A 193.137.5.12
+idpaa 3600 IN A 193.137.5.32
+w2.net 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+oalv 3600 IN A 193.137.5.192
+oalv 3600 IN AAAA 2001:690:2120::c189:5c0
+ns2 3600 IN A 193.137.5.6
+ns2 3600 IN AAAA 2001:690:2120::c189:5ff
+ns3 3600 IN A 193.137.5.209
+ns3 3600 IN AAAA 2001:690:2120::c189:5d1
+golfinho.aim.estt 3600 IN CNAME templar
+www.cr.estt 3600 IN CNAME albatroz
+estatisticasdescobretomar 3600 IN CNAME albatroz
+_ldap._tcp.ForestDnsZones 600 IN SRV 0 100 389 dcalunos.alunos
+600 IN SRV 0 100 389 lusitano
+600 IN SRV 0 100 389 pintasilgo
+600 IN SRV 0 100 389 eq-abrantes.alunosabrt
+www.caaportugal 3600 IN CNAME albatroz
+www.cesmae 3600 IN CNAME albatroz
+estatisticas.esta 3600 IN A 193.137.5.12
+ns2.l1.net 3600 IN A 193.137.5.209
+estatisticas.concursotic 3600 IN A 193.137.5.12
+gc._msdcs 600 IN A 192.168.100.135
+600 IN A 192.168.130.24
+600 IN A 192.168.130.233
+600 IN A 193.137.5.8
+600 IN A 193.137.5.29
+600 IN A 193.137.236.212
+600 IN A 193.137.236.222
+seminariotecnicastradicionais 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+www.cister-templarios 3600 IN CNAME albatroz
+estatisticas.cepton 3600 IN A 193.137.5.12
+estatisticas.cin 3600 IN CNAME albatroz
+estatisticas.cis 3600 IN CNAME albatroz
+stream.esta 3600 IN A 193.137.236.221
+www.learning4all 3600 IN CNAME albatroz
+joclad2012 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w1.net
+ns2.w2.net 3600 IN A 193.137.236.220
+www.esta 3600 IN CNAME albatroz
+www.fotografia.estt 3600 IN CNAME albatroz
+www.ssis 3600 IN CNAME albatroz
+estatisticas.cph 3600 IN A 193.137.5.12
+_kerberos._tcp.abrantes._sites 600 IN SRV 0 100 88 pintasilgo
+www.esgt 3600 IN CNAME albatroz
+imprimir 3600 IN CNAME biblio.alunos
+redeformacaotecnologica 3600 IN NS ns1.w2.net
+3600 IN NS ns2.w2.net
+estatisticas.rugbyaat 3600 IN CNAME albatroz
+estatisticas.templarios 3600 IN CNAME albatroz
+alumni.dee.estt 3600 IN A 193.137.5.201
+_kerberos._tcp.site-alunos._sites.dc._msdcs 600 IN SRV 0 100 88 viriato
+neeit.dei.estt 3600 IN A 193.137.5.12
+iocanali 3600 IN A 193.137.5.110
+iocanali 3600 IN AAAA 2001:690:2120::c189:56e
+pna 3600 IN A 193.137.5.88
+www.x-op 3600 IN CNAME albatroz
+estatisticas.ceaa 3600 IN A 193.137.5.12
+www.gape 3600 IN CNAME albatroz
+_ldap._tcp.abrantes._sites.dc._msdcs 600 IN SRV 0 100 389 pintasilgo
+rtr-4nat-193-137-5.net 3600 IN A 193.137.5.46
+www.aat 3600 IN A 193.137.5.12
+estatisticas.estatuasvivas 3600 IN CNAME albatroz
+ciaegt 3600 IN NS ns1.w1.net
+3600 IN NS ns2.w2.net
+estatisticas.3coloquiofisica 3600 IN CNAME albatroz
+estatisticas.learning4all 3600 IN CNAME albatroz
+estatisticas.estatuna 3600 IN A 193.137.5.12
+zeus 3600 IN A 193.137.5.24
+zeus 3600 IN AAAA 2001:690:2120::c189:518
+www.estt 3600 IN CNAME albatroz
+almancor.esta 3600 IN A 193.137.236.220
+eureka 3600 IN A 193.137.5.81
+albatroz 1200 IN A 193.137.5.12
+albatroz 1200 IN AAAA 2001:690:2120::c189:50c
+1200 IN AAAA 2001:690:2120::250:56ff:fe8e:5bda

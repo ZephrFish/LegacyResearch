@@ -1,0 +1,24 @@
+@ 86400 IN SOA ns1.thobsononline.com. devnull.sourcedns.com. 2014062608 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 +a +mx +ip4:72.52.178.196 ?all"
+@ 14400 IN MX 10 aspmx.l.google.com.
+14400 IN MX 20 alt1.aspmx.l.google.com.
+14400 IN MX 20 alt2.aspmx.l.google.com.
+14400 IN MX 30 aspmx2.googlemail.com.
+14400 IN MX 30 aspmx3.googlemail.com.
+14400 IN MX 30 aspmx4.googlemail.com.
+14400 IN MX 30 aspmx5.googlemail.com.
+@ 86400 IN NS ns1.thobsononline.com.
+86400 IN NS ns2.thobsononline.com.
+@ 14400 IN A 72.52.178.196
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+AnihI0GFxuQquSujb2bMkflyWx3kXagQIwRURHw5G4a0YtkOCCU4pIuj5bHzrD4+0y1V2/h8LfbJNsiAfQqCSRHRgG0Soz7X+CZQ7NDQYuwM96Ay8KZjSsZdqQnQ+oG1P2pF4ZqbjqeOsGYrRJswpmfZ2jDZOEV2YGgxCtCLpwIDAQAB;"
+webdisk 14400 IN A 72.52.178.196
+ftp 14400 IN A 72.52.178.196
+cpanel 14400 IN A 72.52.178.196
+www 14400 IN CNAME @
+start 14400 IN CNAME ghs.google.com.csku.edu.pk.
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME ghs.google.com.
+webmail 14400 IN A 72.52.178.196
+google42f9568af1cb2398 14400 IN CNAME google.com
+whm 14400 IN A 72.52.178.196
+calendar 14400 IN CNAME ghs.google.com.csku.edu.pk.

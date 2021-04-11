@@ -1,0 +1,20 @@
+@ 14400 IN SOA ns9.secure-xp.net. hostmaster 2014032719 3600 900 604800 14400
+@ 14400 IN A 72.18.131.170
+@ 14400 IN NS ns10.secure-xp.net.
+14400 IN NS ns9.secure-xp.net.
+@ 14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+sites 14400 IN CNAME ghs.google.com.
+* 14400 IN A 72.18.131.170
+cp 14400 IN A 72.18.131.232
+www 14400 IN A 72.18.131.170
+docs 14400 IN CNAME ghs.google.com.
+mail 14400 IN CNAME ghs.google.com.
+info 14400 IN CNAME ghs.google.com.
+group 14400 IN CNAME ghs.google.com.
+ftp 14400 IN A 72.18.131.170
+forum 14400 IN CNAME ghs.google.com.
+calendar 14400 IN CNAME ghs.google.com.

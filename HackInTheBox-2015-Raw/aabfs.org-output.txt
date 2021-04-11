@@ -1,0 +1,20 @@
+@ 28800 IN SOA ns1.dnsexit.com. admin.netdorm.com. 2000060701 604800 2400 1814400 1200
+@ 28800 IN A 109.107.133.36
+@ 28800 IN NS ns1.dnsexit.com.
+28800 IN NS ns2.dnsexit.com.
+28800 IN NS ns3.dnsexit.com.
+28800 IN NS ns4.dnsexit.com.
+@ 28800 IN MX 10 in.mx.trendmicro.eu.
+*.cairo 28800 IN CNAME cairo
+students 28800 IN A 109.107.133.46
+students 28800 IN MX 10 students
+cairo 28800 IN A 41.41.76.67
+erp 28800 IN CNAME aatapp
+*.students 28800 IN CNAME students
+www 28800 IN CNAME @
+aatapp 28800 IN A 109.107.133.37
+mail 28800 IN CNAME aatapp
+journals 28800 IN A 109.107.133.40
+autodiscover 28800 IN CNAME aatapp
+elearning 28800 IN A 109.107.133.38
+www.university 28800 IN CNAME @

@@ -1,0 +1,105 @@
+@ 300 IN SOA donat postmaster.donat 2015042701 10800 3600 604800 86400
+@ 300 IN NS duje.st.carnet.hr.
+300 IN NS donat
+300 IN NS bjesomar.srce.hr.
+@ 300 IN MX 5 donat
+studom 300 IN A 193.198.54.195
+pc-helga 300 IN A 161.53.27.124
+stari120612 300 IN A 161.53.27.226
+webshop 300 IN CNAME paklenica
+antivirus2 300 IN A 161.53.27.101
+prijavask1 300 IN A 161.53.27.16
+prijavask2 300 IN A 161.53.27.17
+prijavask3 300 IN A 161.53.27.18
+prijavask4 300 IN A 161.53.27.19
+ir 300 IN A 31.147.204.66
+it 300 IN CNAME www
+marenostrum 300 IN A 193.198.54.212
+autodiscover.office 300 IN CNAME autodiscover.outlook.com.
+denis-pos 300 IN A 161.53.27.11
+www 300 IN A 161.53.27.228
+personal 300 IN CNAME donat
+DOM1.office 300 IN A 161.53.27.8
+scunizd 300 IN A 161.53.27.13
+smtp 300 IN CNAME donat
+zdstdom 300 IN A 193.198.54.149
+bedem 300 IN A 161.53.27.4
+pc-isubasic 300 IN A 161.53.27.28
+kormilo 300 IN A 31.147.204.36
+student-web 300 IN A 161.53.27.167
+unizd-rektorat1 300 IN A 161.53.27.207
+unizd-rektorat2 300 IN A 161.53.27.206
+edukrsevan 300 IN A 161.53.27.230
+krsevan 300 IN A 161.53.27.139
+visnjik 300 IN A 161.53.28.194
+zdgtw 300 IN A 161.53.27.2
+freeradius 300 IN CNAME donat
+pc-iserdar 300 IN A 161.53.27.125
+podrska 300 IN A 161.53.27.227
+ftp 300 IN CNAME donat
+iadertina 300 IN A 31.147.204.65
+polycom 300 IN A 161.53.27.84
+ekonomija 300 IN A 161.53.27.227
+lyncdiscover.office.unizd.hr 300 IN CNAME webdir.online.lync.com.
+ap-kampus2 300 IN A 161.53.28.25
+proxy 300 IN CNAME donat
+localhost 300 IN A 127.0.0.1
+maslenica 300 IN A 161.53.28.134
+office 300 IN MX 0 office-unizd-hr.mail.protection.outlook.com.
+office 300 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+oulipo 300 IN A 161.53.27.167
+zmajevic 300 IN A 161.53.28.226
+ling 300 IN CNAME www
+_sip._tls.office 300 IN SRV 100 1 443 sipdir.online.lync.com.
+xenserver-ls 300 IN A 161.53.27.156
+unizdrou 300 IN A 161.53.27.1
+libellarium 300 IN A 161.53.27.211
+krsevan02 300 IN A 161.53.27.25
+krsevan03 300 IN A 161.53.27.140
+paklenica 300 IN A 161.53.27.14
+djelatnici 300 IN CNAME donat
+mail 300 IN CNAME donat
+sip.office.unizd.hr 300 IN CNAME sipdir.online.lync.com.
+BA11133207 300 IN A 161.53.27.26
+pomorstvo 300 IN A 31.147.204.36
+office365vm 300 IN A 161.53.27.9
+ntp 300 IN CNAME donat
+lexmark 300 IN A 161.53.27.221
+vm1 300 IN A 161.53.27.157
+vgk 300 IN NS vila.vgk
+admin 300 IN CNAME mihovil
+stosija 300 IN A 161.53.27.167
+stosija 300 IN MX 10 stosija
+stosija 300 IN TXT "v=spf1 a mx -all"
+student 300 IN A 161.53.27.167
+student 300 IN MX 10 stosija
+student 300 IN TXT "v=spf1 a mx -all"
+ekonomija2014 300 IN A 161.53.27.227
+erepozitorij 300 IN A 161.53.27.7
+crolist 300 IN A 161.53.27.200
+vila.vgk 300 IN A 161.53.28.3
+xenserver-unizd-1 300 IN A 161.53.27.165
+babuska 300 IN A 161.53.27.220
+donat 300 IN A 161.53.27.3
+donat 300 IN TXT "v=spf1 a mx -all"
+repozitorij 300 IN CNAME karaka.srce.hr.
+msoid.office.unizd.hr 300 IN CNAME clientconfig.microsoftonline-p.net.
+_sipfederationtls._tcp.office 300 IN SRV 100 1 5061 sipfed.online.lync.com.
+zadron 300 IN A 161.53.27.227
+telecentral1 300 IN A 161.53.27.222
+telecentral2 300 IN A 161.53.27.223
+dns 300 IN CNAME donat
+zdrektorat 300 IN A 161.53.27.145
+pop 300 IN CNAME donat
+ozk 300 IN A 161.53.142.126
+arheologija 300 IN CNAME www
+petarsv 300 IN A 161.53.27.227
+mihovil 300 IN A 31.147.204.22
+bindmaster 300 IN CNAME donat
+uzda 300 IN A 31.147.204.66
+pc-nada 300 IN A 161.53.27.225
+unizd-wlan1 300 IN A 161.53.27.205
+unizd-wlan2 300 IN A 161.53.27.208
+unizd-wlan4 300 IN A 161.53.28.242
+xenserver-unizd 300 IN A 161.53.27.155
+dkero 300 IN CNAME mihovil

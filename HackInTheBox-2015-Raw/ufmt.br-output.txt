@@ -1,0 +1,160 @@
+@ 86400 IN SOA bororo.cpd root.bororo.cpd 2010103056 3600 300 1209600 86400
+@ 86400 IN NS bororo.cpd
+86400 IN NS rondon.pop-mt.rnp.br.
+@ 86400 IN A 200.17.60.1
+@ 86400 IN MX 1 bororo.cpd
+@ 86400 IN TXT "v=spf1 ip4:200.17.60.0/24 ip4:200.129.241.0/24 ip4:200.129.242.0/24  a mx  -all"
+@ 86400 IN SPF "v=spf1 ip4:200.17.60.0/24 ip4:200.129.241.0/24 ip4:200.129.242.0/24  a mx  -all"
+sged 86400 IN A 200.129.241.110
+servidordns.cua 86400 IN A 189.11.214.37
+www.gpca 86400 IN CNAME gpca
+sistemas 86400 IN A 200.17.60.197
+ftp.uab 86400 IN A 200.129.241.115
+email.hujm 86400 IN A 200.129.241.232
+email.hujm 86400 IN MX 82 email.hujm
+_sip._tcp 86400 IN SRV 20 0 5060 voip
+mdlmid12 86400 IN A 200.129.241.116
+ic 86400 IN NS ic
+ic 86400 IN A 200.129.242.5
+ic 86400 IN MX 44 aspmx.l.google.com.
+pemticmail 86400 IN A 200.129.241.125
+pemticmail 86400 IN MX 80 pemticmail
+ie 86400 IN A 200.129.241.77
+if 86400 IN A 200.17.60.39
+if 86400 IN MX 52 aspmx.l.google.com.
+www.gpmateste 86400 IN CNAME gpmateste
+www.siga 86400 IN A 200.17.60.194
+www.iuniaraguaia 86400 IN CNAME iuniaraguaia
+faecc 86400 IN MX 50 faecc
+www.pgquimica 86400 IN A 200.17.60.4
+www.bdm 86400 IN CNAME bdm
+observarh 86400 IN A 200.129.241.70
+bororo.cpd 86400 IN A 200.17.60.1
+itvu 86400 IN A 200.129.246.6
+moodletsd 86400 IN A 200.129.241.86
+www.redeifes 86400 IN A 200.17.60.101
+www.editora 86400 IN CNAME editora
+esa 86400 IN A 200.129.241.225
+www.gpma 86400 IN CNAME gpma
+www.capacitacao 86400 IN CNAME capacitacao
+roo 86400 IN NS roo
+roo 86400 IN A 200.129.248.231
+_sip._udp 86400 IN SRV 10 0 5060 voip
+www.fisica 86400 IN CNAME fisica
+www.nead 86400 IN A 200.129.241.80
+pop3.nead 86400 IN CNAME smtp.nead
+www.ie 86400 IN CNAME ie
+www.if 86400 IN CNAME if
+pingifes 86400 IN A 200.129.241.93
+iuniaraguaia 86400 IN A 189.11.214.34
+sergeo 86400 IN A 200.17.60.40
+www.il 86400 IN A 200.129.241.80
+www.biblioteca 86400 IN CNAME biblioteca
+smtp 86400 IN A 200.17.60.1
+www.cpd1 86400 IN CNAME cpd1
+www.uab 86400 IN CNAME uab
+www.ppgecem.reamec 86400 IN A 200.17.60.4
+smtp2 86400 IN A 200.17.60.216
+smtp2 86400 IN MX 77 smtp2
+moodleped 86400 IN A 200.129.241.86
+www.geografia 86400 IN CNAME geografia
+www.cev 86400 IN CNAME cev
+www.mdlmid12 86400 IN CNAME mdlmid12
+paiaguas.cgi 86400 IN A 200.17.60.4
+awdeia 86400 IN A 200.129.249.6
+www.pemticmail 86400 IN CNAME pemticmail
+ri 86400 IN A 200.129.241.94
+siga 86400 IN A 200.17.60.194
+siex 86400 IN A 200.129.206.119
+www.moodleplanti 86400 IN CNAME moodleplanti
+sia 86400 IN A 200.17.60.195
+www.hujm 86400 IN A 200.129.241.234
+www.solos 86400 IN CNAME solos
+www.moodleadm 86400 IN CNAME moodleadm
+www.ri 86400 IN A 200.129.241.94
+sistemasacademicos 86400 IN A 200.17.60.16
+www.periodicoscientificos 86400 IN CNAME periodicoscientificos
+uab 86400 IN A 200.129.241.126
+siged 86400 IN A 200.129.241.110
+projetos 86400 IN A 200.129.246.13
+capacitacao 86400 IN A 200.129.241.153
+www.pibidmat.icet 86400 IN A 200.17.60.4
+www1 86400 IN A 200.17.60.21
+www.pgfa 86400 IN CNAME pgfa
+fisica 86400 IN A 200.17.60.39
+fisica 86400 IN MX 40 aspmx.l.google.com.
+ppcgraduacao 86400 IN A 200.129.241.99
+bdm 86400 IN A 200.129.241.122
+gpma 86400 IN A 200.129.246.26
+gpma 86400 IN MX 83 gpma
+editora 86400 IN A 200.129.241.80
+oca 86400 IN A 200.129.249.7
+smtp.nead 86400 IN A 200.129.241.115
+nead 86400 IN A 200.129.241.74
+nead 86400 IN MX 49 nead
+sites 86400 IN A 200.129.241.80
+oca.iclma 86400 IN A 200.101.34.252
+siex-eventos 86400 IN A 200.129.205.10
+cpd1 86400 IN A 200.17.60.113
+cpd1 86400 IN MX 26 cpd1
+quimica 86400 IN A 200.17.60.250
+www.sergeo 86400 IN CNAME sergeo
+www.museuafrodigitalmt 86400 IN CNAME museuafrodigitalmt
+npj 86400 IN MX 51 aspmx.l.google.com.
+gpmateste 86400 IN A 200.129.246.27
+gpmateste 86400 IN MX 84 gpmateste
+asp 86400 IN A 192.168.109.7
+pop3 86400 IN A 200.17.60.1
+antigositeuab 86400 IN A 200.129.241.126
+ava 86400 IN A 200.129.241.155
+www.observarh 86400 IN CNAME observarh
+servidor2dns.cua 86400 IN A 200.129.249.3
+www.moodletsd 86400 IN CNAME moodletsd
+moodleped2 86400 IN A 200.129.241.86
+transferencia 86400 IN A 200.17.60.16
+hujm 86400 IN A 200.129.241.234
+hujm 86400 IN MX 12 email.hujm
+cev 86400 IN A 200.17.60.198
+cgi 86400 IN NS paiaguas.cgi
+www.eit 86400 IN A 200.129.241.102
+gem 86400 IN A 200.129.241.84
+www.projetos 86400 IN CNAME projetos
+www.ava 86400 IN CNAME ava
+araguaia2 86400 IN A 200.129.249.6
+www.nepre 86400 IN A 200.129.241.80
+pgfa 86400 IN A 200.17.60.39
+pgfa 86400 IN MX 41 aspmx.l.google.com.
+dcc 86400 IN NS bororo.cpd
+dcc 86400 IN MX 43 aspmx.l.google.com.
+www.service-mail 86400 IN CNAME service-mail
+www.moodleped 86400 IN CNAME moodleped
+geohidro 86400 IN A 200.17.60.35
+www.cobra 86400 IN A 200.129.242.2
+www.rmi 86400 IN A 200.129.241.116
+museuafrodigitalmt 86400 IN A 200.129.241.116
+gpsti 86400 IN A 200.129.241.85
+gpca 86400 IN A 200.17.60.43
+geografia 86400 IN A 200.17.60.36
+www.esa 86400 IN CNAME esa
+cpd 86400 IN NS bororo.cpd
+vision.sia 86400 IN A 200.17.60.195
+service-mail 86400 IN A 200.129.241.75
+service-mail 86400 IN MX 85 service-mail
+www.ppcgraduacao 86400 IN CNAME ppcgraduacao
+www.itvu 86400 IN CNAME itvu
+moodleplanti 86400 IN A 200.129.241.86
+www 86400 IN A 200.17.60.3
+cua 86400 IN NS servidordns.cua
+moodleadm 86400 IN A 200.129.241.86
+www.gem 86400 IN A 200.129.241.84
+biblioteca 86400 IN A 200.17.60.249
+periodicoscientificos 86400 IN A 200.129.241.78
+rmi 86400 IN A 200.129.241.116
+www.moodleped2 86400 IN CNAME moodleped2
+cpd-desenv.asp.cpd 86400 IN A 200.17.60.196
+araguaia 86400 IN A 189.11.214.36
+solos 86400 IN A 200.17.60.185
+router 86400 IN A 200.17.60.100
+asp.cpd 86400 IN A 200.17.60.196
+voip 86400 IN A 200.17.60.235
+vision 86400 IN CNAME sia

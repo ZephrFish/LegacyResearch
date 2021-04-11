@@ -1,0 +1,14 @@
+@ 38400 IN SOA ns3 info 2015012101 10800 3600 604800 38400
+@ 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+@ 14400 IN A 180.250.115.8
+@ 14400 IN NS ns3
+nsfkip 14400 IN CNAME ns5.ebelajar.org.
+webmail 3600 IN CNAME ghs.googlehosted.com.
+ns3 14400 IN A 222.124.186.252
+www 14400 IN CNAME @
+edu 14400 IN A 128.199.66.210
+edu 14400 IN NS ns5.ebelajar.org.

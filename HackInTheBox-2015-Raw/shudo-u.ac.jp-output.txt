@@ -1,0 +1,170 @@
+@ 3600 IN SOA ons postmaster 101426 3600 300 1209600 3600
+@ 3600 IN NS ons
+3600 IN NS ns1.cccn.ne.jp.
+@ 3600 IN MX 10 avs
+c45oes.oes 3600 IN A 150.32.96.126
+ns1.cc 3600 IN A 150.32.4.1
+ns1.cc 3600 IN MX 5 avs
+c45ofddiob.ofddi 3600 IN A 150.32.92.123
+vw.cc0 3600 IN A 150.32.2.16
+ns1atch 3600 IN A 150.32.1.4
+ns1atch 3600 IN TXT "globalsign-domain-verification=ZU9PkuHQ87lSsxDO7O_sgocDWh-li1IjJDIBer3RFQ"
+rm384-2.es 3600 IN A 150.32.83.177
+musenene2.ene 3600 IN A 150.32.87.249
+c45ofddir2.ofddi 3600 IN A 150.32.92.124
+js 3600 IN MX 20 jsspam1.js
+3600 IN MX 30 jsspam2.js
+rm4115.ob 3600 IN A 150.32.90.15
+a38oalp.oalp 3600 IN A 150.32.98.126
+dxp.r1 3600 IN A 150.32.54.134
+js2.ob 3600 IN A 150.32.119.1
+c40ob0.ob0 3600 IN A 150.32.93.254
+c45or2.or2 3600 IN A 150.32.95.254
+antspm 3600 IN CNAME antspm.cc
+dxp 3600 IN CNAME dxp.r1
+www 3600 IN A 153.120.67.73
+www 3600 IN AAAA 2401:2500:203:148::73
+pc 3600 IN CNAME b6inouts.cc6
+c45ojs.ojs 3600 IN A 150.32.95.126
+testob3.ob 3600 IN A 150.32.88.11
+pc4399-4.b1 3600 IN A 150.32.64.154
+a 3600 IN TXT "google-site-verification=Ubokb5-E8CIZGYwhuNG3D-t7L1A1gKNDSP-Z03hc53E"
+a 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+moodle2 3600 IN CNAME moodle2.b1
+espero.r1 3600 IN A 150.32.55.72
+espero.r1 3600 IN MX 10 avs
+sk 3600 IN CNAME TOMSN.js
+rw 3600 IN CNAME jerryw.js
+TOMSN.js 3600 IN A 150.32.119.7
+c40ob5.ob5 3600 IN A 150.32.92.254
+abc 3600 IN CNAME abc.r1
+c40ofddib5.ofddi 3600 IN A 150.32.92.120
+ins.cc 3600 IN A 150.32.4.11
+shunavi.js 3600 IN A 150.32.119.8
+abm 3600 IN CNAME abm.r1
+jit.r1 3600 IN A 150.32.54.132
+abm.r1 3600 IN A 150.32.54.129
+abm.r1 3600 IN MX 10 avs
+iccaeyes.b1 3600 IN A 150.32.64.108
+shu-lab 3600 IN CNAME shu-lab.js
+c45or1.or1 3600 IN A 150.32.96.254
+moodlet 3600 IN CNAME moodlet.b1
+moodle2.b1 3600 IN A 150.32.64.10
+rm4110.ob 3600 IN A 150.32.90.5
+gwk.js 3600 IN CNAME jserver8.js
+shup.js 3600 IN A 150.32.119.15
+shup.js 3600 IN MX 10 avs
+moodle 3600 IN CNAME moodle2.b1
+edu-rad 3600 IN CNAME edu-rad.b1
+cvp.r1 3600 IN A 150.32.54.131
+jserver10.js 3600 IN A 150.32.119.13
+bon.r1 3600 IN A 150.32.54.135
+b6inouts.cc6 3600 IN A 150.32.35.228
+c75oalp.oalp 3600 IN A 150.32.98.125
+c45olib.olib 3600 IN A 150.32.97.126
+le.kyogaku 3600 IN CNAME GennaiS.js
+jsougou1.ob 3600 IN A 150.32.88.12
+rm4100.ob 3600 IN A 150.32.90.1
+alpha-f.b1 3600 IN A 150.32.64.238
+saml-1.b1 3600 IN A 150.32.64.240
+sso 3600 IN CNAME sso.b1
+idp.b1 3600 IN A 150.32.64.210
+alpha-f 3600 IN CNAME alpha-f.b1
+nislab.es 3600 IN A 150.32.83.185
+moodle-hd.b1 3600 IN A 150.32.64.11
+food-life 3600 IN CNAME psy.b4
+shup 3600 IN CNAME shup.js
+sociology.r1 3600 IN A 150.32.52.221
+cim.r1 3600 IN A 150.32.54.130
+cim.r1 3600 IN MX 10 avs
+shunavi 3600 IN CNAME shunavi.js
+psych1 3600 IN CNAME psych1.r1
+psych2 3600 IN CNAME psych2.r1
+alpha 3600 IN A 150.32.64.203
+alpha 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+alpha 3600 IN TXT "google-site-verification=u8TL1RX5q9gx6rq5TZOPG8urPGn-7x2hRyL1zCm-4Yg"
+c45oob.oob 3600 IN A 150.32.94.254
+ns1 3600 IN CNAME ns1.cc
+js5.js 3600 IN A 150.32.119.6
+moodle-td.b1 3600 IN A 150.32.64.21
+nislab 3600 IN CNAME nislab.es
+c75ofddicc.ofddi 3600 IN A 150.32.92.126
+nislab_node 3600 IN CNAME nislab.es
+testob.ob 3600 IN A 150.32.88.1
+idp 3600 IN CNAME idp.b1
+psych1.r1 3600 IN A 150.32.52.88
+gws.js 3600 IN CNAME jserver10.js
+comm.r1 3600 IN A 150.32.54.133
+comm.r1 3600 IN MX 10 avs
+lv-449-4.love 3600 IN A 150.32.129.12
+avs 3600 IN A 153.120.67.74
+3600 IN A 153.120.67.76
+avs 3600 IN AAAA 2401:2500:203:148::74
+3600 IN AAAA 2401:2500:203:148::76
+comm 3600 IN CNAME comm.r1
+jtest1.js 3600 IN A 150.32.116.1
+musenene1.ene 3600 IN A 150.32.87.250
+shishimi15 3600 IN CNAME shishimi15.b4
+espero 3600 IN CNAME espero.r1
+bon 3600 IN CNAME bon.r1
+zzz 3600 IN CNAME www
+c40ofddib0.ofddi 3600 IN A 150.32.92.122
+jserver8.js 3600 IN A 150.32.119.12
+ons 3600 IN A 153.120.67.72
+ons 3600 IN AAAA 2401:2500:203:148::72
+cim 3600 IN CNAME cim.r1
+hiro.es 3600 IN A 150.32.83.22
+hiro.es 3600 IN MX 10 avs
+abc.r1 3600 IN A 150.32.54.128
+abc.r1 3600 IN MX 10 avs
+c75occ.occ 3600 IN A 150.32.97.254
+as.kyogaku.js 3600 IN A 150.32.119.17
+c40ofddib2.ofddi 3600 IN A 150.32.92.121
+rm4120.ob 3600 IN A 150.32.90.10
+ntp.cc0 3600 IN A 150.32.2.1
+ntp.cc0 3600 IN AAAA 2001:2a8:2014:1000:1500:320:20:10
+c45ofddir1.ofddi 3600 IN A 150.32.92.125
+psych2.r1 3600 IN A 150.32.52.89
+moodlet.b1 3600 IN A 150.32.64.20
+jerryw.js 3600 IN A 150.32.119.3
+shu-lab.js 3600 IN A 150.32.119.16
+jsspam1.js 3600 IN A 150.32.119.18
+sso.b1 3600 IN A 150.32.64.220
+ecommons 3600 IN CNAME ecommons.r1
+shudo-motomachi.cc1 3600 IN A 150.32.11.253
+antspm.cc 3600 IN A 150.32.4.13
+ecommons.r1 3600 IN A 150.32.52.90
+as.kyogaku 3600 IN CNAME as.kyogaku.js
+zbx.cc 3600 IN A 150.32.6.150
+syllabus.js 3600 IN A 150.32.119.25
+c40ob4.ob4 3600 IN A 150.32.94.126
+syllabus 3600 IN CNAME syllabus.js
+dev.cc 3600 IN A 150.32.4.31
+dev.cc 3600 IN MX 5 dev.cc
+c40ob2.ob2 3600 IN A 150.32.93.126
+globaleat 3600 IN CNAME psy.b4
+js1 3600 IN CNAME js1.ob
+rabbit 3600 IN CNAME pc4399-4.b1
+avs2 3600 IN A 153.120.67.75
+3600 IN A 153.120.67.77
+avs2 3600 IN AAAA 2401:2500:203:148::75
+3600 IN AAAA 2401:2500:203:148::77
+GennaiS.js 3600 IN A 150.32.119.24
+www-lib 3600 IN CNAME js5.js
+psy.b4 3600 IN A 150.32.72.84
+psy.b4 3600 IN MX 10 avs
+jsspam2.js 3600 IN A 150.32.119.19
+www.ob 3600 IN CNAME js2.ob
+issw 3600 IN CNAME rm384-2.es
+js1.ob 3600 IN A 150.32.88.10
+psy 3600 IN CNAME psy.b4
+edu-rad.b1 3600 IN A 150.32.64.190
+alphamail 3600 IN CNAME saml-1.b1

@@ -1,0 +1,61 @@
+@ 3600 IN SOA ns.alkar.net. hostmaster.alkar.net. 2014061100 28800 7200 604800 86400
+@ 3600 IN NS ns.alkar.net.
+3600 IN NS ns2.lucky.net.
+@ 3600 IN MX 10 smtp
+3600 IN MX 20 smtp2
+@ 3600 IN TXT "v=msv1 t=3e8b1bc76fbd448f1f28ad139cecba"
+@ 3600 IN A 212.3.96.98
+autodiscover.portal 3600 IN CNAME autodiscover.outlook.com.
+backup 3600 IN A 195.248.185.227
+smtp2 3600 IN CNAME srv-t
+ampr 3600 IN A 212.111.212.230
+bttrp 3600 IN A 212.111.212.230
+hostel 3600 IN A 195.24.137.162
+monitor 3600 IN A 195.248.185.230
+srv 3600 IN A 195.248.185.226
+ejournal 3600 IN CNAME content
+* 3600 IN A 212.3.96.98
+* 3600 IN MX 10 smtp
+3600 IN MX 20 smtp2
+nat 3600 IN A 195.248.185.224
+msoid.portal 3600 IN CNAME clientconfig.microsoftonline-p.net.
+moodle 3600 IN A 212.3.96.103
+www.pk 3600 IN A 212.3.96.98
+eadnurt 3600 IN A 212.3.96.100
+router-t 3600 IN A 212.3.104.118
+tstt 3600 IN A 212.111.212.230
+content 3600 IN A 212.3.104.118
+ndch 3600 IN A 212.3.96.99
+ndch 3600 IN MX 10 smtp
+3600 IN MX 20 smtp2
+pop 3600 IN CNAME srv
+router-o 3600 IN A 77.239.161.106
+ecsrt 3600 IN A 212.111.212.230
+ftp 3600 IN CNAME srv
+ecat 3600 IN A 212.3.96.100
+www.studrada 3600 IN A 212.3.96.98
+www 3600 IN A 212.3.96.98
+ns 3600 IN A 195.248.185.225
+srv-t 3600 IN A 212.3.96.98
+pf 3600 IN A 212.3.96.98
+pf 3600 IN MX 10 smtp
+3600 IN MX 20 smtp2
+pk 3600 IN A 212.3.96.98
+pk 3600 IN MX 10 smtp
+3600 IN MX 20 smtp2
+vm1 3600 IN A 195.248.185.228
+ejournals 3600 IN A 212.3.96.98
+dls 3600 IN A 212.3.96.101
+stp 3600 IN A 212.111.212.230
+studrada 3600 IN A 212.3.96.98
+pte 3600 IN A 212.111.212.230
+www.library 3600 IN A 212.3.96.98
+ert 3600 IN A 212.111.212.230
+library 3600 IN A 212.3.96.98
+ea 3600 IN CNAME content
+storage 3600 IN A 195.248.185.229
+router 3600 IN CNAME ns
+etr 3600 IN A 212.111.212.230
+smtp 3600 IN CNAME srv
+portal 3600 IN MX 0 portal-diit-edu-ua.mail.protection.outlook.com.
+portal 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"

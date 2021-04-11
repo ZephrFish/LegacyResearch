@@ -1,0 +1,17 @@
+@ 86400 IN SOA n1.comsats.net.pk. hosting.comsats.net.pk. 2015030601 10800 3600 604800 86400
+@ 86400 IN NS n1.comsats.net.pk.
+86400 IN NS n2.comsats.net.pk.
+@ 14400 IN A 210.56.11.17
+@ 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+14400 IN MX 10 aspmx4.googlemail.com.
+14400 IN MX 10 aspmx5.googlemail.com.
+webmail 14400 IN A 210.56.11.17
+ftp 14400 IN CNAME @
+www 14400 IN CNAME @
+mssql 14400 IN A 210.56.11.17
+mail 14400 IN A 210.56.11.17
+lists 14400 IN CNAME @

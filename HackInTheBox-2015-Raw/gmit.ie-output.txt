@@ -1,0 +1,127 @@
+@ 86400 IN SOA ns root.ns 2015042902 28800 7200 604800 86400
+@ 86400 IN NS ns
+86400 IN NS ns.heanet.ie.
+86400 IN NS ns2
+@ 86400 IN MX 10 gwmailfilter
+86400 IN MX 30 gmitmx2
+86400 IN MX 50 ns.itnet.ie.
+moodlenew 86400 IN A 193.1.56.75
+staffmail 86400 IN CNAME webmail
+alg06 86400 IN A 193.1.57.38
+allpc 86400 IN A 193.1.57.1
+forums 86400 IN CNAME moodlearchive
+wifi 86400 IN CNAME webvip
+monitor 86400 IN CNAME gwrevprox
+wwwarchive 86400 IN A 193.1.56.17
+gmitmx2 86400 IN MX 13 gmitmx2
+gmitmx2 86400 IN A 193.1.56.32
+pop3 86400 IN CNAME webvip
+cbmailsync 86400 IN A 193.1.56.44
+comps1 86400 IN CNAME ns2
+studentmail 86400 IN CNAME webmail
+*.library 86400 IN CNAME library
+pmurn 86400 IN CNAME gmitweb
+www 86400 IN NS hotstandby-ns0.heanet.ie.
+86400 IN NS hotstandby-ns1.heanet.ie.
+ns 86400 IN MX 10 ns
+ns 86400 IN A 193.1.56.10
+staff 86400 IN CNAME webvip
+edocs 86400 IN A 193.1.234.33
+_sipfederationtls._tcp 86400 IN SRV 1 100 5061 sipfed.online.lync.com.
+_sip._tls 86400 IN SRV 1 100 443 sipdir.online.lync.com.
+hawww.gmit.ie 86400 IN CNAME suir.heanet.ie.
+library 3600 IN A 193.1.234.18
+onlinedb 86400 IN CNAME webvip
+jawprojred 86400 IN A 193.1.56.61
+postgrad 86400 IN MX 10 gwmailfilter
+su 86400 IN CNAME sugal
+www.computing 86400 IN CNAME gmitweb
+sip 86400 IN CNAME sipdir.online.lync.com.
+gwmonitor 86400 IN CNAME gwrevprox
+udrive 86400 IN CNAME filr
+webmail 86400 IN A 193.1.56.69
+studb 86400 IN A 193.1.59.145
+share 86400 IN CNAME docs
+research 86400 IN MX 10 gwmailfilter
+winmedia 86400 IN A 193.1.56.41
+print 86400 IN A 193.1.57.60
+gwprintc 86400 IN A 193.1.57.32
+compsoc 86400 IN CNAME ns2
+moodle 86400 IN CNAME learnonline
+mypassword 86400 IN CNAME filr
+webvip1 86400 IN A 193.1.56.62
+git 86400 IN A 193.1.57.54
+connect 86400 IN A 193.1.56.30
+staffdrive 86400 IN CNAME filr
+timetable 86400 IN CNAME gwrevprox
+public2 86400 IN A 193.1.56.15
+community 86400 IN CNAME moodlearchive
+idp2 86400 IN A 193.1.56.47
+localhost 86400 IN CNAME loopback
+video 86400 IN A 193.1.56.37
+srs 86400 IN A 193.1.57.47
+studentdrive 86400 IN CNAME filr
+polycom 86400 IN CNAME vc1
+wireless 86400 IN A 1.1.1.1
+gmitweb 86400 IN A 193.1.56.12
+password 86400 IN CNAME webvip
+sugal 86400 IN A 193.1.56.49
+gmitrecordings 86400 IN A 193.1.56.11
+vc1 86400 IN A 193.1.57.20
+ns2 86400 IN MX 13 ns2
+ns2 86400 IN A 193.1.56.9
+iam 86400 IN CNAME gmitweb
+vidyogw 86400 IN A 193.1.56.45
+gwmailfilter 86400 IN A 193.1.57.17
+csprojects 86400 IN A 193.1.56.46
+modules 86400 IN A 193.1.56.70
+staffdev 86400 IN CNAME webvip
+idp 86400 IN A 193.1.56.43
+remoteaccess 86400 IN A 193.1.58.1
+results 86400 IN CNAME srs
+efolio 86400 IN CNAME webvip
+languages 86400 IN CNAME moodlearchive
+maharatest 86400 IN CNAME webvip
+misagr1 86400 IN A 193.1.56.33
+exams 86400 IN CNAME webvip
+lyncdiscover 86400 IN CNAME webdir.online.lync.com.
+jawprojgreen 86400 IN A 193.1.56.60
+student 86400 IN CNAME webvip
+moodletest 86400 IN A 193.1.56.72
+alpub 86400 IN A 193.1.56.40
+gwrenmore 86400 IN MX 13 gwrenmore
+gwrenmore 86400 IN A 193.1.57.13
+gwgps01 86400 IN A 193.1.57.39
+studentdev 86400 IN CNAME webvip
+learnonline 86400 IN A 193.1.56.35
+gmitlib 86400 IN CNAME library
+vidyo 86400 IN A 193.1.56.65
+webrevprox1 86400 IN A 193.1.56.67
+webrevprox2 86400 IN A 193.1.56.68
+webrevprox3 86400 IN A 193.1.56.63
+webrevprox4 86400 IN A 193.1.56.64
+ced 86400 IN CNAME webvip
+webvip 86400 IN A 193.1.56.66
+vidyoreplay 86400 IN CNAME gmitrecordings
+energy 86400 IN A 193.1.61.32
+hemis 86400 IN CNAME studb
+cop 86400 IN CNAME moodlearchive
+mis-gb-1 86400 IN A 193.1.57.44
+gwmailsync 86400 IN A 193.1.56.42
+embed.energy 86400 IN CNAME energy
+payprint 86400 IN CNAME gwprintc
+gmitvc 86400 IN A 193.1.57.10
+docs 86400 IN A 193.1.56.71
+ifolder 86400 IN A 193.1.57.34
+public 86400 IN A 193.1.56.14
+culliagh 86400 IN CNAME webvip
+cbbeltra 86400 IN A 193.1.57.43
+gmitacs 86400 IN A 193.1.57.52
+loopback 86400 IN A 127.0.0.1
+filr 86400 IN A 193.1.56.73
+moodlearchive 86400 IN A 193.1.56.31
+careers 86400 IN CNAME public
+retired 86400 IN MX 10 gwmailfilter
+gwrevprox 86400 IN A 193.1.56.16
+gwmervue 86400 IN A 193.1.57.15
+publictest 86400 IN CNAME webvip

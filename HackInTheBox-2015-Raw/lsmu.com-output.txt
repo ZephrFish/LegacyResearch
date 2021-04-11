@@ -1,0 +1,15 @@
+@ 38400 IN SOA ns1.vanukin.com. support.vanukin.com. 2010060154 10800 3600 604800 38400
+@ 38400 IN MX 10 aspmx.l.google.com.
+38400 IN MX 20 alt1.aspmx.l.google.com.
+38400 IN MX 30 alt2.aspmx.l.google.com.
+38400 IN MX 40 aspmx2.googlemail.com.
+38400 IN MX 50 aspmx3.googlemail.com.
+38400 IN MX 60 aspmx5.googlemail.com.
+@ 38400 IN NS ns1.vanukin.com.
+38400 IN NS ns2.vanukin.com.
+@ 38400 IN A 176.9.185.245
+ftp 38400 IN CNAME @
+www 38400 IN CNAME @
+mail 38400 IN CNAME @
+nod 38400 IN CNAME @
+googleffffffff9fb1c3f2 38400 IN CNAME google.com.

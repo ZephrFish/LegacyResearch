@@ -1,0 +1,14 @@
+@ 300 IN SOA ns1.secure.net. hostmaster.secure.net. 2015042301 86400 7200 2592000 300
+@ 300 IN NS ns2.secure.net.
+300 IN NS ns1.secure.net.
+@ 300 IN MX 10 @
+@ 3600 IN A 60.43.161.88
+@ 3600 IN TXT "v=spf1 a include:_spf.bizmw.com ~all"
+pop 300 IN CNAME @
+ftp 300 IN CNAME @
+www 300 IN CNAME @
+localhost 300 IN A 127.0.0.1
+mail 300 IN CNAME @
+news 300 IN CNAME @
+imap 300 IN CNAME @
+smtp 300 IN CNAME @

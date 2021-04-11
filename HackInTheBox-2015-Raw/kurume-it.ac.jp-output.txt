@@ -1,0 +1,68 @@
+@ 86400 IN SOA ecip00.cc root 200108 3600 300 4320000 86400
+@ 86400 IN NS cis.cc
+86400 IN NS dns-x.sinet.ad.jp.
+86400 IN NS ecip00.cc
+@ 86400 IN A 133.94.1.4
+@ 86400 IN MX 1 ASPMX.L.GOOGLE.COM.
+86400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+86400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+86400 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+86400 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+@ 86400 IN TXT "google-site-verification=iAK8L0rO7RGHO0HKeOp14mNaiv0Dr1UWVQakLELg3Jk"
+es 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+cis.cc 86400 IN A 133.94.1.3
+m1 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+tm 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+sites 86400 IN CNAME ghs.googlehosted.com.
+kic 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+apricot.cc 86400 IN A 133.94.23.245
+is 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+calendar 86400 IN CNAME ghs.googlehosted.com.
+kurume-it-news 86400 IN CNAME cis.cc
+groups 86400 IN CNAME ghs.googlehosted.com.
+mail 86400 IN CNAME ghs.googlehosted.com.
+me 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+drive 86400 IN CNAME ghs.googlehosted.com.
+lib 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+kurume-it-news2 86400 IN CNAME atlas.cc
+ftp 86400 IN CNAME cis.cc
+atlas.cc 86400 IN A 133.94.1.5
+ad 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+ae 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+of 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+g1 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+4XA7NKZPIQJW 86400 IN CNAME gv-PITTLAZUKGEJT6.dv.googlehosted.com.
+kit-domain.cc 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+muse.cc 86400 IN A 133.94.1.9
+proxy2 86400 IN CNAME muse.cc
+cc 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+oregano.cc 86400 IN A 133.94.24.71
+proxy 86400 IN A 133.94.1.15
+ecs 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+www 86400 IN A 158.199.148.224
+g 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+www2 86400 IN CNAME muse.cc
+m 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+ecip00.cc 86400 IN A 133.94.1.4
+ec 86400 IN A 133.94.122.17
+ed 86400 IN NS cis.cc
+86400 IN NS ecip00.cc
+dns 86400 IN CNAME ecip00.cc
+lab 86400 IN NS cis.cc
+86400 IN NS ecip00.cc

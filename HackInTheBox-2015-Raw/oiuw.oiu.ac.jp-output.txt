@@ -1,0 +1,11 @@
+@ 3600 IN SOA ns.oiu.ac.jp. root.ns.oiu.ac.jp. 2010031501 10800 3600 604800 3600
+@ 3600 IN NS ns.oiu.ac.jp.
+3600 IN NS ns1.omp.ne.jp.
+3600 IN NS ns2.oiu.ac.jp.
+@ 3600 IN MX 10 mailgate3.oiu.ac.jp.
+pop 3600 IN A 150.57.100.10
+sumomo 3600 IN A 150.57.100.10
+www2 3600 IN A 150.57.100.99
+sun4-20 3600 IN A 150.57.50.237
+smtp 3600 IN A 150.57.100.10
+lib 3600 IN A 150.57.62.1

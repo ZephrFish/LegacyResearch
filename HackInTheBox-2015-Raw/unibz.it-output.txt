@@ -1,0 +1,548 @@
+@ 86400 IN SOA ns1 hostmaster 2015042802 28800 7200 1209600 3600
+@ 86400 IN MX 5 mail1
+86400 IN MX 5 mail2
+@ 86400 IN NS ns1
+86400 IN NS ns1.eurac.edu.
+@ 86400 IN TXT "PEtBn5/zgPltEB7yhNq4EfouHh2S3VN+wBMXtLpO5Q0C0EjD2JtsoQ69iam+fbUs/n/Yqw4L+ld91fmST2yl3w=="
+86400 IN TXT "v=spf1 mx ip4:46.18.25.84 include:spf.protection.outlook.com ~all"
+86400 IN TXT "MS=ms57420878"
+@ 86400 IN A 46.18.24.134
+openair 86400 IN CNAME www
+mosstest 86400 IN CNAME webservices
+natec 86400 IN TXT "v=spf1 include:unibz.it ~all"
+natec 86400 IN A 46.18.24.134
+natec 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+fudiis 86400 IN CNAME aws
+magik.inf 86400 IN A 46.18.25.6
+kontatto 86400 IN A 46.18.26.151
+_sip._tls.education 86400 IN SRV 0 0 443 sip
+scholion 86400 IN A 46.18.24.55
+mecwrite 86400 IN CNAME web.inf
+fdz-bildungsgeschichte 86400 IN CNAME www
+graphic-design-history-and-practice 86400 IN CNAME pro2
+alumniclub 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+alumniclub 86400 IN TXT "v=spf1 include:unibz.it ~all"
+_sip._tls.stud-gen 86400 IN SRV 0 0 443 sip
+autodiscover.stud-senior 86400 IN CNAME webmail
+symptomdesign 86400 IN CNAME www
+wis1 86400 IN A 46.18.24.101
+wis3 86400 IN A 46.18.24.103
+_sipfederationtls._tcp.stud-extra 86400 IN SRV 0 0 5061 sip
+bp-construction.inf 86400 IN A 46.18.25.35
+authors0 86400 IN A 46.18.24.137
+authors1 86400 IN A 46.18.24.138
+authors2 86400 IN A 46.18.24.139
+_sip._tls 86400 IN SRV 0 0 443 sip
+_sip._tls.science.techonology 86400 IN SRV 0 0 443 sip
+webservices 86400 IN A 46.18.24.141
+idt2013bozen 86400 IN CNAME www
+jira.inf 86400 IN A 46.18.25.120
+sip 86400 IN AAAA 2a02:27e8:10:15::24:164
+sip 86400 IN A 46.18.24.164
+mosstest1 86400 IN CNAME webservices
+mosstest2 86400 IN CNAME webservices
+mosstest3 86400 IN CNAME webservices
+mosstest4 86400 IN CNAME webservices
+mosstest5 86400 IN CNAME webservices
+mosstest6 86400 IN CNAME webservices
+mosstest7 86400 IN CNAME webservices
+mosstest8 86400 IN CNAME webservices
+mosstest9 86400 IN CNAME webservices
+www.lernwerkstatt 86400 IN CNAME www.lernwerkstatt-unibz.org.
+sp2013-1 86400 IN AAAA 2a02:27e8:10:15::24:201
+sp2013-1 86400 IN A 46.18.24.201
+ubz01wis 86400 IN A 46.18.24.101
+crowdsourcing.inf 86400 IN A 46.18.25.109
+_autodiscover._tcp.stud-gen 86400 IN SRV 0 0 443 mail.scientificnet.org.
+sp2013-2 86400 IN AAAA 2a02:27e8:10:15::24:202
+sp2013-2 86400 IN A 46.18.24.202
+www.mecwrite 86400 IN CNAME web.inf
+wiki.ostar.inf 86400 IN CNAME fitts.inf
+_sip._tls.economics 86400 IN SRV 0 0 443 sip
+pem.case 300 IN A 46.18.25.1
+_sip._tls.natec 86400 IN SRV 0 0 443 sip
+login 86400 IN A 46.18.24.240
+taliaunilife 86400 IN TXT "v=spf1 include:unibz.it ~all"
+taliaunilife 86400 IN MX 10 mail1
+86400 IN MX 20 mail2
+webdata.inf 86400 IN A 46.18.25.18
+support 86400 IN TXT "v=spf1 include:unibz.it ~all"
+support 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+support 86400 IN A 46.18.24.47
+kikero 86400 IN TXT "v=spf1 include:unibz.it ~all"
+kikero 86400 IN MX 10 mail1
+86400 IN MX 20 mail2
+stesting.inf 86400 IN A 46.18.25.33
+documents 86400 IN A 46.18.24.48
+lyncdiscover.agriculture 86400 IN CNAME lyncws.scientificnet.org.
+obdavm.inf 86400 IN A 46.18.25.3
+ontop.inf 86400 IN CNAME web.inf
+ftp.pro1 86400 IN CNAME pro1
+sport-event 86400 IN TXT "v=spf1 include:unibz.it ~all"
+sport-event 86400 IN A 46.18.24.134
+sport-event 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+designart 86400 IN A 46.18.24.200
+ilmuseodeimusei 86400 IN CNAME pro2
+test.scholion 86400 IN A 46.18.24.53
+sip.stud-gen 86400 IN CNAME sip
+membership.alumniclub 86400 IN A 46.18.24.134
+rerex.inf 86400 IN A 46.18.25.5
+_sip._tls.stud-inf 86400 IN SRV 0 0 443 sip
+ontology-driven-extraction.inf 86400 IN CNAME web.inf
+aiesec 86400 IN TXT "v=spf1 include:unibz.it ~all"
+aiesec 86400 IN MX 10 mail1
+86400 IN MX 20 mail2
+cacao.inf 86400 IN A 46.18.26.132
+link 86400 IN A 46.18.27.68
+transfer.inf 86400 IN A 46.18.25.78
+abiteisnotenough 86400 IN CNAME pro2
+sharepoint 86400 IN CNAME sharepoint.scientificnet.org.
+fermi.inf 86400 IN A 46.18.25.65
+_autodiscover._tcp.stud-inf 86400 IN SRV 0 0 443 mail.scientificnet.org.
+tourism-sport-event 86400 IN A 46.18.24.134
+awstest01 86400 IN A 46.18.24.61
+awstest02 86400 IN A 46.18.24.62
+bgx-irt.net 86400 IN A 46.18.27.126
+museion 86400 IN TXT "v=spf1 include:unibz.it ~all"
+museion 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+uniworld 86400 IN CNAME scholion
+webdav.pro1 86400 IN A 46.18.26.142
+homepages 86400 IN CNAME www
+cbts2010 86400 IN CNAME www
+cbts2011 86400 IN CNAME www
+cbts2012 86400 IN CNAME www
+code.inf 86400 IN A 46.18.25.73
+comcs.inf 86400 IN CNAME archimedes.inf
+primo.porttester 86400 IN CNAME pro
+registro.lc 86400 IN CNAME lc
+kronos.education 86400 IN A 46.18.26.139
+www.come-on-kids 86400 IN CNAME pro2
+profes2015.inf 86400 IN A 46.18.25.114
+ims14.inf 86400 IN A 46.18.25.109
+chat.inf 86400 IN A 46.18.25.108
+lyncws 86400 IN A 46.18.24.247
+isodisha.inf 86400 IN A 46.18.25.99
+web.inf 86400 IN A 46.18.25.67
+projects 86400 IN CNAME www
+leser.inf 86400 IN CNAME web.inf
+www.tourism-symposium2008 86400 IN CNAME www
+vpn 86400 IN AAAA 2a02:27e8::ffff:3:1:62:2
+vpn 86400 IN A 193.106.183.130
+pi.scholion 86400 IN A 46.18.24.57
+ms-federation 86400 IN A 46.18.24.222
+app.ostar.inf 86400 IN CNAME fitts.inf
+ornamenttoday 86400 IN CNAME www
+wis 86400 IN A 46.18.24.101
+sip.stud-inf 86400 IN CNAME sip
+aitla 86400 IN CNAME www
+alumni 86400 IN TXT "v=spf1 include:unibz.it ~all"
+alumni 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+alumni 86400 IN A 46.18.26.161
+timemanagement 86400 IN CNAME aws
+emerge 86400 IN CNAME pro1
+magik-demo.inf 86400 IN A 46.18.25.121
+inis 86400 IN CNAME aws
+www.cbts2008 86400 IN CNAME www
+www.cbts2009 86400 IN CNAME www
+sip.alumniclub 86400 IN CNAME sip
+varietaeten 86400 IN CNAME www
+ejustice.case 86400 IN TXT "v=spf1 include:unibz.it ~all"
+ejustice.case 300 IN MX 10 mail1
+300 IN MX 10 mail2
+vhb2012 86400 IN CNAME pro
+jeanmonnet 86400 IN CNAME web.inf
+www.ircdl2015 86400 IN CNAME web.inf
+test.uniworld 86400 IN CNAME test.scholion
+lyncdiscover.design-art 86400 IN CNAME lyncws.scientificnet.org.
+doc.comino.inf 86400 IN CNAME fitts.inf
+www.vhb2012 86400 IN CNAME pro
+rebel-every-day 86400 IN CNAME pro2
+www 86400 IN AAAA 2a02:27e8:10:15::333
+www 86400 IN A 46.18.24.134
+lyncdiscover.tourism 86400 IN CNAME lyncws.scientificnet.org.
+sip.scub 86400 IN CNAME sip
+meet 86400 IN A 46.18.24.247
+_sipfederationtls._tcp 86400 IN SRV 0 0 5061 sip
+blogs 86400 IN CNAME pro2
+www.sport-event 86400 IN CNAME www
+vsip-2003.case 300 IN CNAME www.case
+visualjournalism 86400 IN CNAME pro2
+_sipfederationtls._tcp.design-art 86400 IN SRV 0 0 5061 sip
+bia 86400 IN CNAME unibz.longsight.com.
+aaa 86400 IN A 46.18.24.70
+survey 86400 IN A 46.18.24.246
+benincasa-art 86400 IN CNAME pro2
+sdccba01 86400 IN A 46.18.26.148
+docs0 86400 IN A 46.18.24.140
+docs1 86400 IN A 46.18.24.141
+docs2 86400 IN A 46.18.24.142
+sip.sport-event 86400 IN CNAME sip
+benchmark.ostar.inf 86400 IN CNAME fitts.inf
+site.inf 300 IN CNAME web.inf
+adp 86400 IN A 46.18.24.52
+krdbproj.inf 86400 IN A 46.18.25.20
+sip.stud-senior 86400 IN CNAME sipdir.online.lync.com.
+benincasa 86400 IN CNAME pro2
+s4fs.inf 86400 IN A 46.18.25.82
+autodiscover 86400 IN CNAME webmail
+www.scub 86400 IN A 46.18.24.69
+laimburg 86400 IN TXT "v=spf1 include:unibz.it ~all"
+laimburg 86400 IN MX 10 mail1
+86400 IN MX 20 mail2
+_sip._tls.sport-event 86400 IN SRV 0 0 443 sip
+www.inf 86400 IN CNAME web.inf
+proview 86400 IN CNAME aws
+bg1-irt.net 86400 IN A 46.18.27.125
+www.tourism 86400 IN CNAME www
+www.natec 86400 IN CNAME www
+krdbapp.inf 86400 IN A 46.18.25.7
+megarpi.inf 86400 IN A 46.18.25.102
+mail1 86400 IN A 46.18.24.79
+mail2 86400 IN A 46.18.24.80
+agriculture 86400 IN TXT "v=spf1 include:unibz.it ~all"
+agriculture 86400 IN A 46.18.24.134
+agriculture 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+diel.inf 86400 IN A 46.18.25.103
+irt02-irt01.net 86400 IN A 46.18.27.226
+irt02-irt01.net 86400 IN AAAA 2a02:27e8:ffff:ffff:1::2
+krdb-tomcat2.inf 86400 IN A 46.18.25.87
+casethesis.inf 86400 IN A 46.18.25.109
+irt01.net 86400 IN A 46.18.27.98
+irt01.net 86400 IN AAAA 2a02:27e8:ffff:10::11
+webauth 86400 IN A 1.1.1.1
+app 86400 IN A 46.18.24.219
+avcall 86400 IN AAAA 2a02:27e8:10:15::24:170
+avcall 86400 IN A 46.18.24.170
+prototype.ostar.inf 86400 IN CNAME fitts.inf
+en-act.inf 300 IN A 46.18.25.115
+sip.engineering 86400 IN CNAME sip
+sdclsu01 86400 IN CNAME passage.inf
+www.working-students.inf 300 IN CNAME web.inf
+www.education 86400 IN CNAME www
+sip.economics 86400 IN CNAME sip
+scub 86400 IN TXT "v=spf1 include:unibz.it ~all"
+scub 86400 IN A 46.18.24.69
+scub 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+static.ostar.inf 86400 IN CNAME fitts.inf
+musicrec.inf 86400 IN A 46.18.25.101
+alfresco.case 300 IN A 46.18.25.17
+jmt.inf 86400 IN A 46.18.25.110
+site.case 300 IN CNAME web.inf
+primo 86400 IN CNAME www
+newsletter 86400 IN CNAME webservices
+www.primo 86400 IN CNAME www
+stud-gen 86400 IN TXT "v=spf1 include:unibz.it ~all"
+stud-gen 86400 IN MX 10 mail1
+86400 IN MX 20 mail2
+portal0 86400 IN A 46.18.24.134
+portal1 86400 IN A 46.18.24.135
+portal2 86400 IN A 46.18.24.136
+ostar.inf 86400 IN A 46.18.25.106
+fv.maint 86400 IN A 46.18.26.121
+www.design-art 86400 IN CNAME www
+cis 86400 IN CNAME aws
+sip.stud-extra 86400 IN CNAME sip
+irt01-irt02.net 86400 IN A 46.18.27.225
+irt01-irt02.net 86400 IN AAAA 2a02:27e8:ffff:ffff:1::1
+3dprinting 86400 IN CNAME www
+symptom-design 86400 IN CNAME www
+cmg 86400 IN A 46.18.26.137
+startupecosystem.inf 86400 IN A 46.18.25.122
+lamj.inf 86400 IN A 46.18.25.107
+metalib2 86400 IN A 46.18.27.69
+lyncdiscover.stud-senior 86400 IN CNAME webdir.online.lync.com.
+redmine.inf 86400 IN A 46.18.25.76
+workspaces 86400 IN CNAME sp2013
+_sipfederationtls._tcp.agriculture 86400 IN SRV 0 0 5061 sip
+giro.ostar.inf 86400 IN CNAME ostar.inf
+aawe2011 86400 IN CNAME www
+app1 86400 IN A 46.18.24.220
+app2 86400 IN A 46.18.24.221
+webmail2007 86400 IN A 46.18.24.10
+lyncdiscover 86400 IN CNAME lyncws.scientificnet.org.
+docs 86400 IN A 46.18.24.137
+monalisa 86400 IN A 46.18.26.152
+emse.case 300 IN A 46.18.25.67
+lists 86400 IN TXT "v=spf1 include:unibz.it ~all"
+lists 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+lists 86400 IN A 46.18.24.44
+sp2013 86400 IN AAAA 2a02:27e8:10:15::24:200
+sp2013 86400 IN A 46.18.24.200
+www.economics 86400 IN CNAME www
+cd 86400 IN CNAME www
+lyncdiscover.natec 86400 IN CNAME lyncws.scientificnet.org.
+_autodiscover._tcp.stud-extra 86400 IN SRV 0 0 443 mail.scientificnet.org.
+portal 86400 IN A 46.18.24.136
+boris 86400 IN A 46.18.26.145
+ruiap 86400 IN CNAME www
+aws 300 IN A 46.18.24.234
+_sip._tls.engineering 86400 IN SRV 0 0 443 sip
+teamsites 86400 IN A 46.18.24.131
+lyncdiscover.engineering 86400 IN CNAME lyncws.scientificnet.org.
+_sipfederationtls._tcp.education 86400 IN SRV 0 0 5061 sip
+z3950 86400 IN CNAME libproxy
+www.appleoncampus.ict 86400 IN CNAME www
+_sip._tls.tourism 86400 IN SRV 0 0 443 sip
+ejustice.ejustice.case 300 IN A 46.18.25.67
+suwarest 86400 IN CNAME pro1
+corner.inf 86400 IN A 46.18.25.97
+lc 86400 IN A 46.18.26.153
+social-work-social-policy 86400 IN CNAME www
+nat1 86400 IN A 46.18.27.1
+nat2 86400 IN A 46.18.27.2
+nat3 86400 IN A 46.18.27.3
+nat4 86400 IN A 46.18.27.4
+nat5 86400 IN A 46.18.27.5
+sftp 86400 IN A 46.18.26.147
+micura 86400 IN A 46.18.26.136
+stud-inf 86400 IN TXT "v=spf1 include:unibz.it ~all"
+stud-inf 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+pm 86400 IN A 193.106.180.30
+ecswr-2014 86400 IN CNAME www
+www.f301magazine 86400 IN CNAME pro1
+www.social-work-social-policy 86400 IN CNAME www
+widcy.inf 86400 IN A 46.18.25.116
+rt 86400 IN CNAME support
+emse.inf 86400 IN CNAME web.inf
+libproxy 86400 IN A 46.18.24.43
+gogo 86400 IN A 46.18.25.67
+gogo 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+_autodiscover._tcp.kikero 86400 IN SRV 0 0 443 mail.scientificnet.org.
+www.agriculture 86400 IN CNAME www
+www.portal.alumniclub 86400 IN A 46.18.24.134
+smtp.inf 86400 IN A 46.18.25.84
+www.membership.alumniclub 86400 IN A 46.18.24.134
+geocompleteness.inf 86400 IN CNAME web.inf
+_sipfederationtls._tcp.economics 86400 IN SRV 0 0 5061 sip
+www.apple-on-campus.ict 86400 IN CNAME www
+stud-extra 86400 IN TXT "v=spf1 include:unibz.it ~all"
+stud-extra 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+_autodiscover._tcp.aiesec 86400 IN SRV 0 0 443 mail.scientificnet.org.
+lists.inf 86400 IN MX 10 smtp.inf
+lists.inf 86400 IN A 46.18.25.84
+barcelona-sketchbook-memories 86400 IN CNAME pro2
+ftp 86400 IN CNAME ftp.pro1
+server.case 300 IN CNAME caseserver
+www.alumniclub 86400 IN CNAME www
+doc.ostar.inf 86400 IN CNAME fitts.inf
+_sip._tls.agriculture 86400 IN SRV 0 0 443 sip
+www.stud-inf 86400 IN CNAME www
+media 86400 IN A 46.18.24.73
+archimedes.inf 86400 IN A 46.18.25.111
+lyncdiscover.education 86400 IN CNAME lyncws.scientificnet.org.
+www0 86400 IN A 46.18.24.131
+www1 86400 IN A 46.18.24.132
+www2 86400 IN A 46.18.24.133
+eddes 86400 IN CNAME pro2
+_sip._tls.stud-extra 86400 IN SRV 0 0 443 sip
+snowdays.scub 86400 IN CNAME scub
+allaricercadellospazioperduto 86400 IN CNAME pro2
+www.science.technology 86400 IN CNAME www
+thebib.inf 86400 IN A 46.18.25.118
+learning4groups 86400 IN CNAME www
+visualidentity 86400 IN CNAME pro2
+bupress 86400 IN A 5.9.152.148
+iam 86400 IN CNAME aws
+ostar 86400 IN CNAME fitts.inf
+*.libproxy 86400 IN A 46.18.24.43
+api.comino.inf 86400 IN CNAME fitts.inf
+sprachen 86400 IN CNAME wordpress.inf
+apple-on-campus.ict 86400 IN CNAME www
+sffactory2013.inf 86400 IN A 46.18.25.123
+idp 86400 IN A 46.18.24.161
+ircdl2015 86400 IN CNAME web.inf
+webservices.library 86400 IN A 46.18.24.66
+campusbz-2003.case 300 IN CNAME www.case
+dasa.inf 86400 IN A 46.18.25.85
+irt0x.net 86400 IN A 46.18.27.97
+irt0x.net 86400 IN AAAA 2a02:27e8:ffff:10::1
+appleoncampus.ict 86400 IN CNAME www
+tla 86400 IN A 46.18.26.149
+comino.inf 86400 IN CNAME fitts.inf
+_autodiscover._tcp.education 86400 IN SRV 0 0 443 mail.scientificnet.org.
+tourism 86400 IN TXT "v=spf1 include:unibz.it ~all"
+tourism 86400 IN A 46.18.24.134
+tourism 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+krdb-tomcat.inf 86400 IN A 46.18.25.74
+cs-mail.inf 86400 IN CNAME mail.inf
+cdf-storiadellaformazione 86400 IN CNAME www
+_sipfederationtls._tcp.natec 86400 IN SRV 0 0 5061 sip
+bg2-irt.net 86400 IN A 46.18.27.124
+railsgirls54.inf 86400 IN A 46.18.25.99
+inf 86400 IN MX 10 smtp.inf
+inf 86400 IN TXT "v=spf1 mx ip4:46.18.25.79 ip4:46.18.25.80 ~all"
+lyncdiscover.economics 86400 IN CNAME lyncws.scientificnet.org.
+dmrsworkshop.inf 86400 IN CNAME web.inf
+lernwerkstatt 86400 IN CNAME www.lernwerkstatt-unibz.org.
+_autodiscover._tcp.taliaunilife 86400 IN SRV 0 0 443 mail.scientificnet.org.
+communication-on-design 86400 IN CNAME www
+_autodiscover._tcp.agriculture 86400 IN SRV 0 0 443 mail.scientificnet.org.
+sip.design-art 86400 IN CNAME sip
+_autodiscover._tcp.alumni 86400 IN SRV 0 0 443 mail.scientificnet.org.
+theartandscienceofdesign 86400 IN CNAME www
+timerec 86400 IN A 46.18.24.246
+metalib 86400 IN A 46.18.27.68
+_autodiscover._tcp.scub 86400 IN SRV 0 0 443 mail.scientificnet.org.
+worldmun 86400 IN CNAME web.inf
+_autodiscover._tcp.inf 86400 IN SRV 0 0 443 mail.scientificnet.org.
+girochallenge.ostar.inf 86400 IN CNAME fitts.inf
+portal.alumniclub 86400 IN A 46.18.24.134
+_autodiscover._tcp.natec 86400 IN SRV 0 0 443 mail.scientificnet.org.
+stud-senior 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+stud-senior 86400 IN TXT "pGHO8YYas7rcv0kyLfSbUqkD6OOy17slE8jLklvYqNVlbOKH0bzlztoJmSZqTCy7/WUCyh1PaUM0V0jsSjdTmQ=="
+86400 IN TXT "v=spf1 include:unibz.it ~all"
+_sipfederationtls._tcp.stud-gen 86400 IN SRV 0 0 5061 sip
+ecm.inf 86400 IN A 46.18.25.77
+glocaldesign 86400 IN CNAME designdisaster
+trac.inf 86400 IN A 46.18.25.79
+irt02.net 86400 IN A 46.18.27.99
+irt02.net 86400 IN AAAA 2a02:27e8:ffff:10::12
+_autodiscover._tcp.economics 86400 IN SRV 0 0 443 mail.scientificnet.org.
+_aaplcache._tcp 259200 IN TXT "prs=46.18.24.1-46.18.31.255,193.106.180.1-193.106.183.255"
+www.solardecathlon 86400 IN CNAME www.inf
+lyncdiscover.stud-inf 86400 IN CNAME lyncws.scientificnet.org.
+webdav 86400 IN A 46.18.24.32
+o365hybrid 86400 IN TXT "v=spf1 include:unibz.it ~all"
+86400 IN TXT "HHpGPAehAjACJ95fWcOqGke1Y4t0a1mUAgc734aQpJYDEo18WdmUzVPYmMeJ3Y65nNG6flaGcDwpuXtXIyMWjQ=="
+o365hybrid 86400 IN MX 10 mail1
+86400 IN MX 20 mail2
+_autodiscover._tcp.design-art 86400 IN SRV 0 0 443 mail.scientificnet.org.
+tsweb 86400 IN A 46.18.24.36
+designdisaster 86400 IN CNAME pro2
+softwarefactory.inf 86400 IN A 46.18.25.24
+best.inf 86400 IN CNAME megarpi.inf
+centreperiphery 86400 IN CNAME pro2
+sdcagr02 86400 IN A 46.18.26.152
+ladb 86400 IN A 46.18.26.150
+helpdesk 86400 IN CNAME support
+myptutor.education 86400 IN A 46.18.26.140
+engineering 86400 IN TXT "v=spf1 include:unibz.it ~all"
+engineering 86400 IN A 46.18.24.134
+engineering 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+authors 300 IN A 46.18.24.135
+www.worldmun 86400 IN CNAME web.inf
+www.cs 86400 IN CNAME web.inf
+education 86400 IN TXT "v=spf1 include:unibz.it ~all"
+education 86400 IN A 46.18.24.134
+education 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+site2014.case 300 IN CNAME web.inf
+dramalab 86400 IN CNAME pro2
+oai-pmh 86400 IN A 46.18.26.133
+sip.science.technology 86400 IN CNAME sip
+_autodiscover._tcp.stud-senior 86400 IN SRV 0 0 443 mail.scientificnet.org.
+gem.inf 86400 IN A 46.18.25.104
+completeness.inf 86400 IN CNAME web.inf
+_sipfederationtls._tcp.stud-senior 86400 IN SRV 1 100 5061 sipfed.online.lync.com.
+webmail 86400 IN A 46.18.24.215
+www.lc 86400 IN CNAME lc
+fitts.inf 86400 IN A 46.18.25.25
+www.languagestudies 86400 IN CNAME www
+_xmpp-server._tcp 86400 IN SRV 0 0 5269 sip
+webconf 86400 IN AAAA 2a02:27e8:10:15::24:167
+webconf 86400 IN A 46.18.24.167
+_sip._tls.test 86400 IN SRV 0 0 443 sip
+terence.inf 86400 IN A 46.18.25.23
+sdcspw11 86400 IN A 46.18.24.151
+sdcspw12 86400 IN A 46.18.24.152
+www.jeanmonnet 86400 IN CNAME jeanmonnet.unibz.it
+f301magazine 86400 IN CNAME pro1
+swget.inf 86400 IN A 46.18.25.81
+_sipfederationtls._tcp.stud-inf 86400 IN SRV 0 0 5061 sip
+_autodiscover._tcp 86400 IN SRV 0 0 443 webmail
+obda.inf 86400 IN CNAME www.inf
+pheidias.inf 86400 IN A 46.18.25.117
+r-atics3 86400 IN CNAME www
+_autodiscover._tcp.engineering 86400 IN SRV 0 0 443 mail.scientificnet.org.
+design-art 86400 IN TXT "v=spf1 include:unibz.it ~all"
+design-art 86400 IN A 46.18.24.134
+design-art 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+_autodiscover._tcp.tourism 86400 IN SRV 0 0 443 mail.scientificnet.org.
+esslli2016 86400 IN CNAME web.inf
+_sipfederationtls._tcp.engineering 86400 IN SRV 0 0 5061 sip
+tracproject 86400 IN A 46.18.24.58
+economics 86400 IN TXT "v=spf1 include:unibz.it ~all"
+economics 86400 IN A 46.18.24.134
+economics 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+gundam.inf 86400 IN A 46.18.25.75
+graphic-design-exhibiting-curating 86400 IN CNAME blogs
+chip 86400 IN CNAME aws
+api.ostar.inf 86400 IN CNAME fitts.inf
+dare.inf 86400 IN A 46.18.25.32
+opensource-doc.case 300 IN CNAME caseserver
+prominator.inf 300 IN A 46.18.25.21
+come-on-kids 86400 IN CNAME pro2
+ns1 86400 IN AAAA 2a02:27e8:10::53
+ns1 86400 IN A 46.18.24.1
+_sip._tls.design-art 86400 IN SRV 0 0 443 sip
+maps.inf 86400 IN A 46.18.25.16
+babbage.inf 86400 IN A 46.18.25.66
+treeecophysiology 86400 IN CNAME www
+passage.inf 86400 IN A 46.18.25.72
+pro1 86400 IN A 46.18.26.141
+pro2 86400 IN A 46.18.24.74
+alpha.museion 86400 IN A 46.18.26.143
+sip.natec 86400 IN CNAME sip
+probusiness 86400 IN TXT "v=spf1 include:unibz.it ~all"
+probusiness 86400 IN MX 10 mail1
+86400 IN MX 20 mail2
+probusiness 86400 IN A 188.165.243.197
+_sipfederationtls._tcp.tourism 86400 IN SRV 0 0 5061 sip
+learninglibrary 86400 IN CNAME www
+dielbis.inf 86400 IN A 46.18.25.119
+www.stud-senior 86400 IN CNAME www
+oai.library 86400 IN CNAME pro
+pec 86400 IN TXT "v=spf1 mx ip4:62.77.50.54 ~all"
+pec 86400 IN MX 10 mail.telecompost.it.
+_autodiscover._tcp.alumniclub 86400 IN SRV 0 0 443 mail.scientificnet.org.
+elearning.lc 86400 IN A 46.18.26.146
+intranet 86400 IN CNAME portal
+www.tourism-sport-event 86400 IN CNAME www
+dialin 86400 IN A 46.18.24.247
+pis 86400 IN CNAME aws
+www.isochrones.inf 86400 IN CNAME maps.inf
+uploads.pro 86400 IN A 46.18.24.60
+www.benincasa 86400 IN CNAME pro2
+_sip._tls.stud-senior 86400 IN SRV 1 100 443 sipdir.online.lync.com.
+science.technology 86400 IN TXT "v=spf1 include:unibz.it ~all"
+science.technology 86400 IN A 46.18.24.134
+science.technology 86400 IN MX 10 mail1
+86400 IN MX 10 mail2
+mobas.inf 86400 IN A 46.18.25.29
+mail.inf 86400 IN A 46.18.25.71
+dieltris.inf 300 IN A 46.18.25.26
+www.engineering 86400 IN CNAME www
+_xmpp-server._tcp.gogo 86400 IN SRV 5 0 5269 xmpp-server.l.google.com.
+86400 IN SRV 20 0 5269 xmpp-server1.l.google.com.
+86400 IN SRV 20 0 5269 xmpp-server2.l.google.com.
+86400 IN SRV 20 0 5269 xmpp-server3.l.google.com.
+86400 IN SRV 20 0 5269 xmpp-server4.l.google.com.
+sip.tourism 86400 IN CNAME sip
+eos.education 86400 IN A 46.18.26.138
+medandwh.inf 86400 IN A 46.18.25.100
+_autodiscover._tcp.probusiness 86400 IN SRV 0 0 443 mail.scientificnet.org.
+sdcshw01 86400 IN A 46.18.24.129
+sdcshw02 86400 IN A 46.18.24.130
+pro 86400 IN A 46.18.24.42
+sip.agriculture 86400 IN CNAME sip
+hackmytown 86400 IN CNAME web.inf
+sip.education 86400 IN CNAME sip
+_autodiscover._tcp.laimburg 86400 IN SRV 0 0 443 mail.scientificnet.org.

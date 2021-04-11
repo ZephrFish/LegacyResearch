@@ -1,0 +1,61 @@
+@ 86400 IN SOA mercury root.mercury 2015042101 3600 600 604800 3600
+@ 86400 IN NS orion
+86400 IN NS mercury
+86400 IN NS saturno
+@ 86400 IN TXT "v=spf1 mx -all"
+86400 IN TXT "DNS de la Universidad de Cienfuegos"
+@ 86400 IN MX 10 pluton
+_xmpp-server._tcp.xmpp 86400 IN SRV 0 0 5269 jabber.
+moodleviejo 86400 IN A 200.55.186.42
+observatorio 86400 IN A 10.14.2.55
+jabber._tcp.xmpp 86400 IN SRV 0 0 5269 jabber.
+ceema 86400 IN A 200.55.186.37
+reportes 86400 IN A 10.14.0.39
+jabber 86400 IN A 200.55.186.44
+pegasus 86400 IN A 200.55.186.42
+pluton 86400 IN A 200.55.186.36
+pluton 86400 IN TXT "v=spf1 a -all"
+redenergia 86400 IN A 10.14.2.55
+ucf-ikaro 86400 IN A 200.55.186.42
+abcd 86400 IN A 10.14.52.3
+_xmpp-server._tcp 86400 IN SRV 0 0 5269 jabber.
+rus 86400 IN A 200.55.186.37
+msn.jabber 86400 IN A 200.55.186.44
+conference.jabber 86400 IN A 200.55.186.44
+moodlepregrado 86400 IN A 200.55.186.42
+freed 86400 IN A 200.14.50.213
+moodle 86400 IN A 200.55.186.42
+mail 86400 IN A 200.55.186.36
+yahoo.jabber 86400 IN A 200.55.186.44
+_jabber._tcp.xmpp 86400 IN SRV 0 0 5269 jabber.
+vista-e 86400 IN A 200.55.186.37
+ucf-pegasus 86400 IN A 200.55.186.42
+chat.jabber 86400 IN A 200.55.186.44
+ns 86400 IN A 200.55.186.38
+_jabber._tcp 86400 IN SRV 0 0 5269 jabber.
+_xmpp-client._tcp 86400 IN SRV 0 0 5222 jabber.
+ceddes 86400 IN A 200.55.186.37
+saturno 86400 IN A 200.14.50.193
+www 86400 IN A 200.55.186.37
+descargam 86400 IN A 200.14.50.197
+localhost 86400 IN A 127.0.0.1
+descarga 86400 IN A 200.55.186.37
+xmpp.jabber 86400 IN A 200.55.186.44
+crai 86400 IN A 200.55.186.37
+facebook.jabber 86400 IN A 200.55.186.44
+correo 86400 IN A 200.55.186.42
+ciscoucf 86400 IN A 200.55.186.34
+ikaro 86400 IN A 200.55.186.42
+blogs 86400 IN A 10.14.2.50
+gtalk.jabber 86400 IN A 200.55.186.44
+icq.jabber 86400 IN A 200.55.186.44
+mercury 86400 IN A 200.55.186.38
+vmail 86400 IN A 200.55.186.42
+aproxy 86400 IN A 200.55.186.42
+aim.jabber 86400 IN A 200.55.186.44
+conrado 86400 IN A 200.55.186.37
+telefonos 86400 IN A 10.14.2.2
+ucfinfo 86400 IN A 10.14.2.4
+moodlepostgrado 86400 IN A 200.55.186.42
+intranet 86400 IN A 10.14.2.55
+orion 86400 IN A 200.55.186.40

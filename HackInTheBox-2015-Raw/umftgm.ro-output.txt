@@ -1,0 +1,75 @@
+@ 600 IN SOA gate administrator 2015032603 3600 3600 1209600 86400
+@ 600 IN A 85.121.32.23
+@ 600 IN NS gate
+600 IN NS hipocrate
+@ 600 IN MX 10 mail
+@ 600 IN TXT "v=spf1 ip4:193.226.21.0/24 ip4:85.121.32.0/24 ip4:85.121.33.0/24 a mx ptr ~all"
+droot 600 IN A 85.121.32.23
+uniweb 600 IN A 85.121.33.5
+uniweb 600 IN TXT "Management studenti UMF Tg. Mures"
+romanianjordaniancongress 600 IN A 193.226.21.1
+webmail 600 IN A 193.226.21.1
+owncloud 600 IN A 85.121.32.230
+owncloud 600 IN TXT "Server de Management Proiecte UMF Tg. Mures"
+blog 600 IN A 85.121.32.23
+cursuri 600 IN A 85.121.32.23
+anatomie 600 IN A 85.121.33.3
+roelme 600 IN A 85.121.32.211
+websurg 600 IN A 85.121.33.3
+websurg 600 IN TXT "Server de streaming Chirurgie 1 UMF Tg. Mures"
+clone62 600 IN A 85.121.32.23
+foo._domainkey 3600 IN TXT "v=DKIM1; p=" "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDdfmcpyKY/WfkM+1mP9mQccQFN" "491EpgHBwJNgZ867Tu1pIkr/iil+bdxSzqeIO7+n/jnR1BHKgWJNzwosAOmFk0I8" "yHFMpTsfD6Db02IZ/Q6Og421soEXb8Pdtxj7ut+h4Zx2DhuNBjCUaOeOvl6CQprV" "bTSEjSXC6lQ7djtw8QIDAQAB"
+70 600 IN A 85.121.32.23
+abilitati 600 IN A 85.121.32.23
+simulationconference 600 IN A 193.226.21.1
+anatomiemd 600 IN A 85.121.33.3
+trr 600 IN A 85.121.32.23
+librarie 600 IN A 85.121.32.23
+admitere 600 IN A 85.121.32.24
+store 600 IN A 193.226.21.1
+admission 600 IN A 85.121.32.24
+moodle 600 IN CNAME galenus
+clone 600 IN A 85.121.32.23
+english 600 IN A 85.121.32.23
+mail 600 IN A 193.226.21.1
+dimdim 600 IN A 85.121.32.37
+dimdim 600 IN TXT "Server de WebConference UMF Tg. Mures"
+assessment 600 IN CNAME galenus
+testareadmitere 600 IN A 85.121.32.34
+fise 600 IN A 193.226.21.1
+www.e-umf 600 IN A 85.121.32.23
+student 600 IN NS gate
+oldwww 600 IN A 193.226.21.1
+oldwww 600 IN TXT "v=spf1 a ~all"
+zilele 600 IN A 193.226.21.1
+secure 600 IN A 193.226.21.1
+tmail 600 IN NS gate
+connect 600 IN NS gate
+chirurgie1 600 IN A 85.121.33.3
+ojs 600 IN CNAME galenus
+ums 600 IN A 85.121.32.222
+ceea 600 IN A 193.226.21.1
+hipocrate 600 IN A 193.226.21.1
+hipocrate 600 IN TXT "v=spf1 a ~all"
+apm 600 IN CNAME absolvent-univ.ro.
+forum 600 IN CNAME hipocrate
+koha 600 IN A 193.226.21.219
+eumf 600 IN A 85.121.32.23
+editura 600 IN A 85.121.32.23
+media 600 IN A 85.121.32.23
+www 600 IN A 85.121.32.23
+registrul-riscurilor 600 IN A 85.121.32.23
+galenus 600 IN A 85.121.32.13
+galenus 600 IN TXT "Server utilitar UMF Tg. Mures"
+aspira 600 IN A 85.121.32.180
+e-umf 600 IN A 85.121.32.23
+dev 600 IN A 85.121.33.3
+aspire 600 IN A 85.121.32.180
+teste 600 IN CNAME galenus
+pcdeval 600 IN A 85.121.32.23
+cdrack 600 IN A 193.226.21.29
+gate 600 IN A 85.121.32.1
+gate 600 IN TXT "Main UMFTGM Gateway"
+proiecte 600 IN A 85.121.33.169
+phd 600 IN A 193.226.21.1
+www2 600 IN A 85.121.32.13

@@ -1,0 +1,46 @@
+@ 86400 IN SOA ns02 michealyapkk 2007011738 7200 3600 604800 86400
+@ 86400 IN A 121.123.140.168
+@ 86400 IN NS ns02
+86400 IN NS ntdns
+@ 86400 IN MX 20 nilaint
+@ 86400 IN TXT "MS=ms87542214"
+86400 IN TXT "v=spf1 a mx ptr ?all"
+ns02 86400 IN A 121.123.140.165
+default._domainkey 86400 IN TXT "k=rsa; t=y; p=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKcYx26F1lxNoqtsUOK3ijcARCS8DgpTgmSseUgV2uvNWtOqsL9R/wjDmw9y24I33CHmxEHIlSCRFirPlFaHW1UCAwEAAQ=="
+foundation 86400 IN A 121.123.140.168
+webmail 86400 IN A 121.123.140.165
+health 86400 IN A 121.123.140.168
+nilaint 86400 IN A 121.123.140.164
+nilaint 86400 IN TXT "v=spf1 a -all"
+lores 86400 IN A 121.123.140.168
+cms 86400 IN A 121.123.140.185
+business 86400 IN A 121.123.140.168
+students 86400 IN TXT "v=spf1 include:outlook.com ~all"
+students 86400 IN MX 20 1651502573.mail.outlook.com.
+dev 86400 IN A 121.123.140.168
+tech 86400 IN A 121.123.140.168
+register 86400 IN A 121.123.140.175
+owa 86400 IN A 121.123.140.176
+mail 86400 IN A 121.123.140.169
+autodiscover 86400 IN CNAME autodiscover.outlook.com.
+elearning 86400 IN A 121.123.140.170
+timetable 86400 IN A 121.123.140.166
+_domainkey 86400 IN TXT "t=y; o=-"
+www 86400 IN A 121.123.140.168
+live 86400 IN MX 20 641180272.mail.outlook.com.
+localhost 86400 IN A 127.0.0.1
+tourism 86400 IN A 121.123.140.169
+mail.students.nilai.edu.my 86400 IN CNAME go.domainslive.com.
+students2 86400 IN MX 20 141018858.mail.outlook.com.
+koha 86400 IN A 121.123.140.189
+proxy01 86400 IN A 121.123.140.182
+incubation 86400 IN A 121.123.140.182
+alumni 86400 IN MX 20 1411018929.mail.outlook.com.
+humanities 86400 IN A 121.123.140.168
+staffs 86400 IN MX 20 1321927726.mail.outlook.com.
+fmsremote 86400 IN A 121.123.140.167
+ntdns 86400 IN A 121.123.140.166
+testmoodle 86400 IN A 121.123.140.180
+staff 86400 IN TXT "v=spf1 include:outlook.com ~all"
+staff 86400 IN MX 20 904750692.mail.outlook.com.
+hires 86400 IN A 121.123.140.168

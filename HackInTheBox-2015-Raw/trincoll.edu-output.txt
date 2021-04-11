@@ -1,0 +1,430 @@
+@ 3600 IN SOA ib3.cc postmaster 2008071278 10800 3600 2592000 900
+@ 3600 IN TXT "MS=ms99927757"
+3600 IN TXT "v=spf1 ip4:157.252.10.0/24 ip4:157.252.15.0/24 a:mail.quikpayasp.com -all"
+@ 300 IN MX 10 bsf1.cc
+300 IN MX 10 bsf2.cc
+@ 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+@ 60 IN A 157.252.10.123
+wpmapping 600 IN CNAME wordpress3.cc
+trinitysocial 3600 IN CNAME cache4-service.cc
+turing.cs 3600 IN A 157.252.16.12
+myapplication 3600 IN CNAME cache4-service.cc
+trinfo 3600 IN CNAME cache4-service.cc
+parents 36000 IN CNAME reindeer.cc
+tcsurveys 3600 IN CNAME cache3-service.cc
+ccshare 3600 IN CNAME cache3-service.cc
+docshare 3600 IN CNAME cache3-service.cc
+wrtc-streamserver 3600 IN A 157.252.10.95
+libshare 3600 IN CNAME cache3-service.cc
+fastatus2 36000 IN CNAME adsvm19.cc
+epress 14400 IN CNAME webserv2.trinfocafe.org.
+dep-new 36000 IN CNAME reindeer.cc
+videolan 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+prog-new 36000 IN CNAME reindeer.cc
+scp 3600 IN CNAME exbe1.cc
+suag 3600 IN A 157.252.10.174
+wldaps 3600 IN CNAME adldap.cc
+staff 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+trusteeportal 3600 IN CNAME cache4-service.cc
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+esri 36000 IN CNAME keyserver.cc
+m 3600 IN CNAME reindeer.cc
+ccdocs 3600 IN CNAME cache3-service.cc
+sfw 3600 IN CNAME sfw.hfoss.org.
+tcweb 36000 IN CNAME caribou.cc
+sip 3600 IN CNAME sipdir.online.lync.com.
+dropbox 3600 IN CNAME dropbox.cc
+fastatustest 3600 IN CNAME cache4-service.cc
+asmtp2 3600 IN CNAME exfe4.cc
+rtr 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+tcw 36000 IN CNAME caribou.cc
+sms 36000 IN CNAME true.cc
+internet2 36000 IN CNAME reindeer.cc
+webedit 3600 IN CNAME cache4-service.cc
+webwriting2013 3600 IN CNAME webserv2.trinfocafe.org.
+mindtouch 3600 IN CNAME tarzan.cc
+uag 3600 IN CNAME hv2vm1-2.cc
+asmtps 3600 IN CNAME lm-asmtps.cc
+commons 3600 IN CNAME wordpress2.cc
+wldap 3600 IN A 157.252.10.112
+fastatus 3600 IN CNAME cache3-service.cc
+unregistered 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+sts 3600 IN A 157.252.10.53
+swi 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+trustees 3600 IN CNAME adsvm51.cc
+tripod 3600 IN CNAME cache4-service.cc
+webedittest 3600 IN CNAME adsvm37.cc
+cognostest 3600 IN CNAME cache4-service.cc
+webwriting 3600 IN CNAME webserv2.trinfocafe.org.
+gala 3600 IN CNAME cache3-service.cc
+www.tconline 3600 IN CNAME cache3-service.cc
+bulletin 3600 IN CNAME cache3-service.cc
+ssltest2 3600 IN CNAME b41.cc
+tsg 3600 IN A 157.252.10.133
+webdocs 3600 IN CNAME cache4-service.cc
+givingday 300 IN A 23.253.116.188
+freshman15 3600 IN CNAME cache2-service.cc
+viewmaster 300 IN CNAME big-b5.cmpcntr.tc
+vdi 3600 IN CNAME vdi1-view.cc
+special-new 36000 IN CNAME reindeer.cc
+offices 36000 IN CNAME reindeer.cc
+commons-test 60 IN CNAME wordpress3.cc
+outmail 600 IN A 157.252.10.101
+600 IN A 157.252.10.102
+imap 900 IN CNAME lm-popimap.cc
+wass 3600 IN CNAME wass.cc
+twebmail 600 IN CNAME lm-owa.cc
+ctcollections 300 IN CNAME ctda-islandora.lib.uconn.edu.
+hillel 3600 IN CNAME cache4-service.cc
+guest 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+ppr-dist 10800 IN CNAME tarzan.cc
+lincoln 36000 IN CNAME chief.cc
+scavengers 3600 IN CNAME cache4-service.cc
+student 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+wap 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+loadtest 3600 IN CNAME cache4-service.cc
+sp2010test7 3600 IN CNAME adsvm5.cc
+cognostest7 3600 IN CNAME b49.cc
+familyweekend 3600 IN CNAME cache4-service.cc
+citesource 3600 IN CNAME adsvm35.cc
+tarzan 36000 IN CNAME tarzan.cc
+sportshistory 3600 IN CNAME cache4-service.cc
+webhelp 3600 IN CNAME webhd.cc
+blume-center 3600 IN CNAME tarzan.cc
+vpn 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+newstudents 3600 IN CNAME cache4-service.cc
+smtpss 3600 IN CNAME smxs2-in.cc
+courseevals 3600 IN CNAME cache3-service.cc
+info 3600 IN CNAME purl.docsbynet.com.
+my 3600 IN CNAME cache4-service.cc
+torg 3600 IN CNAME b57.cc
+cognos7 3600 IN CNAME b56.cc
+cognos8 3600 IN CNAME b56.cc
+ssltest 3600 IN CNAME b41.cc
+shakti 36000 IN CNAME shakti.cc
+*.wp 3600 IN CNAME cache2-service.cc
+careers 3600 IN CNAME cache4-service.cc
+consultants 3600 IN CNAME cache3-service.cc
+personal 300 IN CNAME adsvm13.cc
+*.ezproxytest 3600 IN A 157.252.15.90
+itshelp 3600 IN CNAME webhd.cc
+tpop 3600 IN CNAME excas1.cc
+communitypartners 3600 IN CNAME webserv3.trinfocafe.org.
+facilities 300 IN CNAME cache4-service.cc
+npmanage2 3600 IN CNAME adsvm19.cc
+www 1200 IN CNAME cache4-service.cc
+st2000 36000 IN CNAME caribou.cc
+st2001 36000 IN CNAME caribou.cc
+st2002 36000 IN CNAME caribou.cc
+st2003 36000 IN CNAME caribou.cc
+st2004 36000 IN CNAME caribou.cc
+st2005 36000 IN CNAME caribou.cc
+digitalcities 3600 IN A 157.252.16.200
+st2007 36000 IN CNAME caribou.cc
+st2008 36000 IN CNAME caribou.cc
+st2009 36000 IN CNAME caribou.cc
+st2011 36000 IN CNAME caribou.cc
+st2012 36000 IN CNAME caribou.cc
+st2013 3600 IN CNAME caribou.cc
+st2014 3600 IN CNAME caribou.cc
+blogs 3600 IN CNAME commons
+trex 3600 IN CNAME cache4-service.cc
+tcffhrc 36000 IN CNAME tcffhrc.cc
+sp2010testanon 3600 IN CNAME adsvm5.cc
+starbase 3600 IN CNAME starbase.cs
+survey 3600 IN CNAME cache4-service.cc
+_sip._udp 3600 IN SRV 101 1 5060 asterisk1.cc
+3600 IN SRV 101 1 5060 asterisk2.cc
+tsg2 3600 IN A 157.252.10.127
+webeditanon3 3600 IN CNAME adsvm37.cc
+pop 900 IN CNAME lm-popimap.cc
+forms 3600 IN CNAME adsvm25.cc
+aruba-local 300 IN CNAME aruba-local.cc
+moodle 60 IN CNAME adsvm32.cc
+special 36000 IN CNAME caribou.cc
+autodiscover 900 IN CNAME lm-autodiscover.cc
+writinghistory2011 3600 IN CNAME webserv2.trinfocafe.org.
+smtps 3600 IN CNAME lm-asmtps.cc
+commencement 3600 IN CNAME cache4-service.cc
+webkjaanon 3600 IN CNAME adsvm4.cc
+ps9test 3600 IN CNAME cache3-service.cc
+libweb 3600 IN CNAME cache4-service.cc
+local 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+healthconference 3600 IN CNAME cache4-service.cc
+campuswatch 3600 IN CNAME adsvm25.cc
+tconline 3600 IN CNAME cache3-service.cc
+tsps 3600 IN CNAME cache4-service.cc
+brasil 3600 IN CNAME cache4-service.cc
+sptest 3600 IN A 157.252.15.179
+webkja3 3600 IN CNAME adsvm4.cc
+14days 3600 IN CNAME cache4-service.cc
+appliance 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+oncall 3600 IN CNAME cache3-service.cc
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+classes 36000 IN CNAME caribou.cc
+afrolatin 3600 IN CNAME cache4-service.cc
+mangolanguages 3600 IN CNAME cache4-service.cc
+trinflix 3600 IN CNAME cache4-service.cc
+spamquarantine 3600 IN CNAME smxs-out.cc
+hfoss 3600 IN CNAME cache4-service.cc
+org-new 36000 IN CNAME reindeer.cc
+infodesk 3600 IN CNAME cache3-service.cc
+intranet2 36000 IN CNAME oak.cc
+campuswatchapi 3600 IN CNAME adsvm25.cc
+smartchoices 3600 IN CNAME cache3-service.cc
+dep 36000 IN CNAME caribou.cc
+timeseries 3600 IN CNAME library
+aruba-master 300 IN CNAME aruba-master.cc
+itec 3600 IN CNAME cache3-service.cc
+pyramed 3600 IN A 38.98.228.47
+entapps 3600 IN CNAME cache4-service.cc
+csi 3600 IN CNAME cache4-service.cc
+cornerstones 3600 IN CNAME cache4-service.cc
+illiad 36000 IN CNAME adsvm35.cc
+lists 3600 IN MX 10 lists
+lists 3600 IN A 157.252.15.130
+policyvoice.wp 3600 IN CNAME cache3-service.cc
+ftp.mendele 36000 IN CNAME shakti.cc
+headmenslacrossesearch 3600 IN CNAME cache4-service.cc
+cc 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+av 36000 IN CNAME helix.cc
+catalog 3600 IN CNAME cache4-service.cc
+otlarchive 3600 IN CNAME trinfo-webserv.hartnet.org.
+portal 3600 IN CNAME cache4-service.cc
+cs 3600 IN NS turing.cs
+esri2 36000 IN CNAME keyserver.cc
+esri3 36000 IN CNAME keyserver.cc
+esri4 36000 IN CNAME keyserver.cc
+knowledgehq 3600 IN CNAME cache4-service.cc
+m1 36000 IN CNAME exfe1.cc
+adult 3600 IN CNAME cache4-service.cc
+commons-test2 60 IN CNAME wordpress4.cc
+health 3600 IN CNAME cache4-service.cc
+whereami 3600 IN CNAME tantor.cc
+hr 3600 IN CNAME cache4-service.cc
+webtest 3600 IN CNAME adsvm28.cc
+unix 3600 IN NS trc-ipa1.local
+3600 IN NS trc-ipa2.local
+ipassign 3600 IN CNAME tantor.cc
+waldo 300 IN A 157.252.2.17
+wldapss 3600 IN CNAME hvh1-dc1.cc
+keyserver 36000 IN CNAME keyserver.cc
+emp 36000 IN CNAME caribou.cc
+careerlink 3600 IN CNAME cache4-service.cc
+imap2 3600 IN CNAME lm-popimap.cc
+bbtransact 3600 IN CNAME bbtrans1.cc
+ffr 3600 IN CNAME b42-fcs.cc
+ns 36000 IN CNAME shakti.cc
+pc 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+www.scavengers 3600 IN CNAME cache4-service.cc
+ittraining 3600 IN CNAME cache4-service.cc
+luag 3600 IN A 157.252.10.129
+wldap2 3600 IN A 157.252.10.112
+ps 3600 IN CNAME cache3-service.cc
+fin 3600 IN CNAME cache3-service.cc
+re 3600 IN CNAME cache1-service.cc
+library 36000 IN CNAME cache4-service.cc
+infopath 3600 IN CNAME adsvm5.cc
+tc 3600 IN NS b33.tc
+3600 IN NS b59.tc
+3600 IN NS hvh1-dc2.tc
+asmtp 600 IN CNAME vsmtp
+tm 3600 IN CNAME cache3-service.cc
+imaps 3600 IN CNAME lm-owa.cc
+libcal 3600 IN CNAME v2.libcal.com.
+today 3600 IN CNAME cache4-service.cc
+cognos 600 IN CNAME adsvm31.cc
+banter 3600 IN CNAME cache4-service.cc
+tripodarchive 3600 IN CNAME steamer.cc
+ftp 36000 IN CNAME shakti.cc
+tconline2 3600 IN CNAME lm-ads1.cc
+absolutsquash 3600 IN CNAME cache4-service.cc
+thefred 3600 IN CNAME 72-31-231-8.net.bhntampa.com.
+tconline9 3600 IN CNAME lm-ads1.cc
+tcldap 3600 IN CNAME adldap.cc
+advising 3600 IN CNAME cache3-service.cc
+www2 36000 IN CNAME shakti.cc
+vimweb 3600 IN CNAME cache4-service.cc
+gps 3600 IN CNAME cache3-service.cc
+npmanagetest 3600 IN CNAME cache4-service.cc
+memoriam 3600 IN CNAME cache4-service.cc
+fastatustest2 3600 IN CNAME adsvm12.cc
+clearpass 300 IN CNAME clearpass.cc
+quarantine 3600 IN CNAME cache4-service.cc
+hr9 3600 IN CNAME adsvm5.cc
+www.givingday 3600 IN A 157.252.10.123
+idp 3600 IN CNAME cache4-service.cc
+rcweb 3600 IN CNAME bobco2.cc
+appinventor 3600 IN CNAME appinventor.cs
+faculty 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+spamq 3600 IN CNAME bsf1.cc
+cp-italy 3600 IN CNAME cache3-service.cc
+librarian 3600 IN CNAME cache4-service.cc
+pptp2 36000 IN CNAME chief.cc
+brazil 3600 IN CNAME cache4-service.cc
+honorsday 3600 IN CNAME cache4-service.cc
+b33.tc 3600 IN A 157.252.15.69
+streaming 3600 IN CNAME cache4-service.cc
+ezproxy 3600 IN A 157.252.10.134
+feedback 3600 IN CNAME cache4-service.cc
+dormwars 36000 IN CNAME bobco2.cc
+dssc 3600 IN CNAME cache3-service.cc
+holland 36000 IN CNAME chief.cc
+incident 3600 IN CNAME cache4-service.cc
+sp2010admin 3600 IN CNAME adsvm5.cc
+locknet 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+fortinet 300 IN CNAME fortinet.cc
+tcommerce 36000 IN CNAME cache1-service.cc
+newemployee 3600 IN CNAME cache4-service.cc
+spotal 3600 IN A 157.252.10.129
+ezproxytest 3600 IN A 157.252.15.90
+athletics 3600 IN NS ns1.lokitech.com.
+3600 IN NS ns2.lokitech.com.
+dynamic 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+gradstudy 3600 IN CNAME cache4-service.cc
+st2006 36000 IN CNAME caribou.cc
+rcadmin 3600 IN CNAME bobco2.cc
+reservationstest 600 IN CNAME adsvm39.cc
+ib3.cc 3600 IN A 157.252.10.252
+st2010 36000 IN CNAME caribou.cc
+bsmtp 600 IN CNAME vsmtp
+caribbean 3600 IN CNAME cache4-service.cc
+labs 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+trusteestest 3600 IN CNAME adsvm36.cc
+reservations 300 IN CNAME adsvm39.cc
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+pop2 3600 IN CNAME lm-popimap.cc
+pptp1 36000 IN CNAME chief.cc
+seniorsalute 3600 IN CNAME cache4-service.cc
+st2015 3600 IN CNAME caribou.cc
+phones 3600 IN CNAME tarzan.cc
+clearpass2 300 IN CNAME clearpass2.cc
+historyblog 3600 IN CNAME cache4-service.cc
+timap 3600 IN CNAME excas1.cc
+callahan 36000 IN CNAME chief.cc
+hdtest 3600 IN A 157.252.15.41
+b59.tc 3600 IN A 157.252.15.224
+sp2010test 3600 IN CNAME adsvm5.cc
+maxient 3600 IN CNAME cache1-service.cc
+mytrinnet 300 IN CNAME nonhosted.imodules.com.
+ib4.cc 3600 IN A 157.252.10.253
+pops 3600 IN CNAME lm-owa.cc
+loadtest9 3600 IN CNAME lm-ads1.cc
+engr 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+roaming 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+writinghistory 3600 IN CNAME webserv2.trinfocafe.org.
+moodleold 3600 IN CNAME bowtie2.cc
+inventory 3600 IN CNAME cache4-service.cc
+webmail 900 IN CNAME lm-owa.cc
+junedays 3600 IN CNAME cache3-service.cc
+share 300 IN CNAME adsvm13.cc
+ontheline 3600 IN CNAME webserv2.trinfocafe.org.
+digitalrepository 3600 IN CNAME dctrincoll.bepress.com.
+calendar 300 IN CNAME adsvm39.cc
+reservations2 3600 IN CNAME adsvm39.cc
+chat 3600 IN CNAME pass102.dizinc.com.
+vsmtp 3600 IN A 157.252.10.150
+writingcenter 3600 IN CNAME cache4-service.cc
+_autodiscover._tcp 3600 IN SRV 10 10 443 autodiscover
+cowriting 3600 IN CNAME webserv2.trinfocafe.org.
+formstest 3600 IN CNAME adsvm27.cc
+webedit2 3600 IN CNAME adsvm51.cc
+webedit3 3600 IN CNAME adsvm36.cc
+idf 3600 IN CNAME hvh3-idf.cc
+password 10800 IN CNAME tarzan.cc
+smtp 600 IN CNAME outmail
+mes 3600 IN CNAME cache4-service.cc
+admitted 3600 IN CNAME pass102.dizinc.com.
+msr 36000 IN CNAME lobster.cc
+orion 3600 IN CNAME orionnpm.cc
+provoke-auth 36000 IN CNAME alphasite.cc
+streamer 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+mouse 36000 IN CNAME mouse.cc
+spamquarantine2 3600 IN CNAME cache4-service.cc
+sharepublic 300 IN CNAME adsvm13.cc
+hdtimesheet 3600 IN CNAME cache4-service.cc
+bsmtp2 3600 IN CNAME vsmtp
+voip 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+prog 36000 IN CNAME caribou.cc
+oma 3600 IN CNAME b26-exfe3.cc
+npmanage 3600 IN CNAME cache4-service.cc
+*.ezproxy 3600 IN A 157.252.10.134
+coprn 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+spss 3600 IN CNAME steamer.cc
+moodletest 3600 IN CNAME adsvm29.cc
+intranet 36000 IN CNAME oak.cc
+courseguides 3600 IN CNAME v2.libguides.com.
+exchange 300 IN MX 10 bsf1.cc
+300 IN MX 10 bsf2.cc
+org 36000 IN CNAME caribou.cc
+adultstudy 3600 IN CNAME cache4-service.cc
+ea 3600 IN CNAME cache4-service.cc
+osm 3600 IN NS ib3.cc
+3600 IN NS ib4.cc
+old-mail 3600 IN MX 10 mail.cc
+npmanagetest2 3600 IN CNAME adsvm12.cc
+ps9 36000 IN CNAME b40.cc
+fin9 36000 IN CNAME b48.cc
+time 3600 IN CNAME tarzan.cc
+ppr 36000 IN CNAME cache4.cc
+ariel 3600 IN CNAME ill-2.pc
+prn 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+zoinks 3600 IN NS jane.cc
+3600 IN NS miriem.cc
+3600 IN NS tantor.cc
+3600 IN NS cheetah.cc
+inauguration 3600 IN CNAME cache4-service.cc
+sspadmin 3600 IN CNAME b68.cc
+vimwebtest 3600 IN CNAME cache4-service.cc

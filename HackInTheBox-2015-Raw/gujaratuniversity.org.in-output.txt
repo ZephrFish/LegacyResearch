@@ -1,0 +1,7 @@
+@ 0 IN SOA @ islguj.gujaratpetro.com. 2004061902 28800 7200 2419200 86400
+@ 0 IN NS ns.gipl.net.
+0 IN NS ns2.gipl.net.
+@ 0 IN A 203.77.200.16
+localhost 0 IN A 127.0.0.1
+ftp 0 IN A 203.77.200.16
+www 0 IN A 203.77.200.16

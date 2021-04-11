@@ -1,0 +1,7 @@
+@ 14400 IN SOA abcom.abcom.al. domain-admin.abcom-al.com. 2013111372 10800 3600 1800000 86400
+@ 14400 IN NS abcom.abcom-al.com.
+14400 IN NS smtphub.abcom-al.com.
+@ 14400 IN A 80.78.72.52
+@ 14400 IN MX 20 mail
+mail 14400 IN A 80.78.72.52
+www 14400 IN A 80.78.72.52

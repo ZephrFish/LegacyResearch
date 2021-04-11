@@ -1,0 +1,39 @@
+@ 259200 IN SOA dns root 2010111101 28800 7200 2419200 86400
+@ 259200 IN NS dns
+259200 IN NS ns2.domihosting.com.
+259200 IN NS ns10.domihosting.com.
+@ 259200 IN MX 10 ASPMX.L.GOOGLE.COM.
+259200 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+259200 IN MX 30 ALT2.ASPMX.L.GOOGLE.COM.
+259200 IN MX 40 ASPMX2.GOOGLEMAIL.COM.
+259200 IN MX 50 ASPMX3.GOOGLEMAIL.COM.
+259200 IN MX 60 ASPMX4.GOOGLEMAIL.COM.
+259200 IN MX 70 ASPMX5.GOOGLEMAIL.COM.
+emprendimiento 259200 IN CNAME revistas
+documentos.uniguajira.edu.co 259200 IN CNAME ghs.google.com.
+correo.uniguajira.edu.co 259200 IN CNAME ghs.google.com.
+webmail 259200 IN CNAME ghs.google.com.
+videos 259200 IN A 186.117.159.75
+app 259200 IN A 186.117.159.81
+posgrados 259200 IN A 186.117.159.88
+web 259200 IN A 186.117.159.71
+sma 259200 IN A 186.117.159.90
+aleph-inst 259200 IN A 186.117.159.72
+portal.uniguajira.edu.co 259200 IN CNAME ghs.google.com.
+gdt.uniguajira.edu.co 259200 IN CNAME ghs.google.com.
+facultades 259200 IN A 186.117.159.68
+bienestar 259200 IN A 186.117.159.86
+repositoryinst 259200 IN A 186.117.159.87
+virtual 259200 IN A 186.117.159.69
+snies 259200 IN A 186.117.159.80
+web.uniguajira.edu.co 259200 IN CNAME ghs.google.com.
+dns1 259200 IN A 186.117.159.84
+www 259200 IN CNAME dns
+ivesad 259200 IN A 186.117.159.73
+gunig 259200 IN A 186.117.159.78
+seeddug 259200 IN CNAME facultades
+calendario.uniguajira.edu.co 259200 IN CNAME ghs.google.com.
+sigug 259200 IN A 186.117.159.70
+revistas 259200 IN A 186.117.159.74
+dns 259200 IN A 186.117.159.85
+repository 259200 IN A 186.117.159.76

@@ -1,0 +1,99 @@
+@ 86400 IN SOA ICC root 2015012501 28800 7200 1209600 86400
+@ 86400 IN NS icc
+@ 86400 IN MX 0 proxy
+86400 IN MX 5 mailgw
+86400 IN MX 10 roller
+@ 86400 IN TXT "MS=ms72296537" "microsoft" "office" "service"
+86400 IN TXT "v=spf1 +a +mx -all"
+@ 86400 IN SPF "v=spf1 +a +mx -all"
+@ 86400 IN A 194.44.142.7
+www.economics 86400 IN CNAME finance
+www.marketing 86400 IN CNAME finance
+shooter 86400 IN A 194.44.143.195
+jep 86400 IN CNAME fcss
+telenor 86400 IN A 194.44.142.195
+hyper.fcss 86400 IN A 194.44.142.76
+distedu 86400 IN A 194.44.142.75
+937 86400 IN A 194.44.143.27
+law 86400 IN A 213.186.127.40
+compiler.distedu 86400 IN A 93.126.74.2
+vid.fcss 86400 IN A 194.44.142.74
+vcr 86400 IN A 194.44.142.25
+emerecu 86400 IN CNAME fcss
+math.fcss 86400 IN CNAME www
+drs 86400 IN CNAME 937
+www.moodle 86400 IN CNAME fcss
+grid.usic 86400 IN A 194.44.142.130
+elearning.sph 86400 IN CNAME www
+alumni-fen 86400 IN CNAME finance
+news.usic 86400 IN CNAME mail.usic
+moodle 86400 IN CNAME fcss
+germes 86400 IN A 194.44.142.5
+usic 86400 IN A 194.44.142.134
+usic 86400 IN MX 0 mail.usic
+*.fcss 86400 IN CNAME fcss
+enigma 86400 IN A 194.44.142.24
+* 86400 IN CNAME www
+infolab 86400 IN A 194.44.143.196
+www.usic 86400 IN CNAME usic
+ftp.usic 86400 IN CNAME usic
+infopulse 86400 IN A 194.44.142.194
+www.ekmair 86400 IN CNAME ekmair
+ekmair 86400 IN A 194.44.142.48
+dpms.fns 86400 IN CNAME www
+proxy.usic 86400 IN A 194.44.143.26
+lists.usic 86400 IN CNAME mail.usic
+podcast 86400 IN A 194.44.143.210
+mail.usic 86400 IN A 194.44.142.132
+mailgw 86400 IN A 194.44.142.4
+thepathos 86400 IN A 194.44.142.196
+www.* 86400 IN CNAME www
+star 86400 IN A 194.44.142.51
+tam 86400 IN A 194.44.142.246
+tam 86400 IN MX 0 tam
+training.fcss 86400 IN A 194.44.142.19
+lib.usic 86400 IN CNAME usic
+mail 86400 IN A 194.44.142.3
+mail 86400 IN MX 0 proxy
+86400 IN MX 5 mailgw
+86400 IN MX 10 roller
+trainer 86400 IN A 194.44.142.9
+fcss 86400 IN A 194.44.142.18
+fcss 86400 IN MX 0 fcss
+roller 86400 IN A 194.44.142.3
+roller 86400 IN TXT "v=spf1 a -all"
+www.elib 86400 IN A 194.44.142.50
+skill 86400 IN A 194.44.142.6
+www 86400 IN A 194.44.142.7
+www.tam 86400 IN CNAME tam
+www.937 86400 IN CNAME 937
+labbms 86400 IN A 194.44.142.77
+moodles 86400 IN A 194.44.143.98
+marketing 86400 IN CNAME finance
+dirs.usic 86400 IN A 194.44.142.131
+lists 86400 IN CNAME roller
+www.elearning.sph 86400 IN CNAME www
+aleph 86400 IN A 194.44.142.55
+elib 86400 IN A 194.44.142.50
+ecology.fns 86400 IN CNAME www
+www.drs 86400 IN CNAME 937
+elefant 86400 IN A 194.44.142.178
+icc 86400 IN A 194.44.142.2
+proxy 86400 IN A 194.44.142.10
+proxy 86400 IN TXT "v=spf1 a -all"
+sph 86400 IN CNAME www
+*.distedu 86400 IN CNAME distedu
+ns 86400 IN CNAME icc
+www.finance 86400 IN CNAME finance
+economics 86400 IN CNAME finance
+www.alumni-fen 86400 IN CNAME finance
+finance 86400 IN A 91.206.226.31
+cast.usic 86400 IN A 194.44.142.133
+gate.usic 86400 IN A 194.44.142.129
+digger 86400 IN A 194.44.142.20
+centesima 86400 IN A 194.44.143.126
+www.sph 86400 IN CNAME www
+www.ecology.fns 86400 IN CNAME www
+gw.usic 86400 IN A 194.44.143.25
+testdistedu 86400 IN CNAME distedu
+dnt.fcss 86400 IN CNAME www

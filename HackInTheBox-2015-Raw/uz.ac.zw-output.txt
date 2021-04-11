@@ -1,0 +1,247 @@
+@ 86400 IN SOA mahobho hostmaster.compcentre 2015042801 1200 7200 3600000 86400
+@ 86400 IN NS zebra
+86400 IN NS shrike
+86400 IN NS mahobho
+@ 86400 IN TXT "Primary  DNS Server for uz.ac.zw and ac.zw domains"
+utha 86400 IN A 154.120.229.39
+shrike 86400 IN A 196.4.80.242
+www.alumniforum 86400 IN CNAME alumniforum
+law 86400 IN A 196.4.80.10
+law 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.sport 86400 IN A 196.4.80.14
+www.publiclectures 86400 IN CNAME www2
+_sip._tcp 86400 IN SRV 10 10 5060 elastix.uz.ac.zw
+intellectmagazine 86400 IN A 154.120.229.39
+comp-sci 86400 IN MX 5 antivirus
+86400 IN MX 10 cs
+www.videocentre 86400 IN CNAME videocentre
+vpnaccess 86400 IN A 154.120.229.34
+ir 86400 IN A 196.4.80.91
+rie 86400 IN A 154.120.229.39
+www.openmeetings 86400 IN CNAME openmeetings
+admissions 86400 IN A 154.120.229.39
+sociol 86400 IN A 196.4.80.11
+sociol 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+eng 86400 IN A 196.4.80.2
+eng 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.boostsifeuz 86400 IN CNAME sife
+mahobho 86400 IN A 196.4.80.241
+elearning 86400 IN A 196.4.80.14
+www.profiles 86400 IN CNAME profiles
+admin 86400 IN A 196.4.80.13
+admin 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www 86400 IN A 154.120.229.39
+education 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+*.uzlibsys 86400 IN A 154.120.229.37
+uz-gw 86400 IN A 196.4.80.63
+mitocw 86400 IN CNAME uzweb
+enetwork 86400 IN A 196.4.80.114
+enetwork 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+commerce 86400 IN A 196.4.80.9
+commerce 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+trep 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+utlc 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+alumniforum 86400 IN A 154.120.229.39
+icinga 86400 IN A 196.4.80.57
+zebra 86400 IN A 154.120.229.36
+_sip._udp 86400 IN SRV 10 10 5060 elastix
+library 86400 IN A 154.120.229.39
+www.openaccess 86400 IN CNAME openaccess
+aardvark 86400 IN A 196.4.80.19
+aardvark 86400 IN MX 5 antivirus
+86400 IN MX 10 aadvark
+napreca 86400 IN A 154.120.229.39
+postgrad 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+asapa 86400 IN A 154.120.229.39
+searcwl 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+ddsrx 86400 IN A 196.4.80.124
+webmail 86400 IN A 196.4.80.14
+m 86400 IN A 154.120.229.39
+maths 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+nac 86400 IN A 196.4.80.127
+nac 86400 IN MX 5 antivirus
+dtc 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+compcentre 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.otrs 86400 IN CNAME otrs
+sife 86400 IN A 154.120.229.39
+postman 86400 IN A 196.4.80.50
+dev.emhare 86400 IN A 154.120.229.42
+www.tsime 86400 IN CNAME tsime
+smtp.alumni 86400 IN A 196.4.80.172
+gis 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+ftp 86400 IN A 154.120.229.42
+asapa2015 86400 IN A 154.120.229.39
+asapa2015 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+phpclass 86400 IN A 154.120.229.34
+www.ora 86400 IN CNAME ora
+www.evaluation 86400 IN CNAME evaluation
+confucius 86400 IN A 196.4.80.14
+confucius 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.datis 86400 IN CNAME uzweb
+openaccess 86400 IN A 154.120.229.39
+www.graduation 86400 IN CNAME graduation
+alri 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+arts 86400 IN A 196.4.80.8
+arts 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+localhost 86400 IN A 127.0.0.1
+cache 86400 IN CNAME proxy
+videocentre 86400 IN A 196.4.80.125
+videocentre 86400 IN MX 5 antivirus
+medic 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+ssw 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+intellect 86400 IN A 154.120.229.39
+mx2 86400 IN A 196.4.80.170
+mx3 86400 IN A 154.120.229.36
+smtp 86400 IN A 196.4.80.102
+videocentre.uz.ac.zw 86400 IN MX 10 mx3
+www.rczproject 86400 IN CNAME rczproject
+ict 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.emhare 86400 IN A 154.120.229.42
+koreancentre 86400 IN A 154.120.229.39
+webmail2 86400 IN A 196.4.80.6
+www.uzcos 86400 IN CNAME uzcos
+ns1 86400 IN A 196.4.80.241
+ns2 86400 IN A 196.4.80.242
+ns3 86400 IN A 196.4.80.12
+preclinical 86400 IN A 154.120.229.39
+portal 86400 IN A 196.4.80.14
+docman 86400 IN A 154.120.229.34
+bia 86400 IN A 154.120.229.39
+www.fundraising 86400 IN CNAME fundraising
+ids 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.magazine 86400 IN CNAME magazine
+schooloftech 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+cal 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+profiles 86400 IN A 154.120.229.42
+csprojects 86400 IN A 196.4.80.194
+locate 86400 IN A 154.120.229.39
+mail 86400 IN A 196.4.80.123
+postgradcentre 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+zimtheses 86400 IN A 196.4.80.49
+ies 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+openmeetings 86400 IN A 196.4.80.194
+otrs 86400 IN A 196.4.80.126
+otrs 86400 IN MX 5 antivirus
+ccs 86400 IN CNAME compcentre
+seam 86400 IN MX 3 antivirus
+86400 IN MX 5 mail.medsch
+86400 IN MX 10 mx3
+www.jrec 86400 IN CNAME jrec
+avu 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+mrc 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+staff-email 86400 IN A 196.4.80.19
+www.asapa 86400 IN CNAME asapa.uz.ac.zw
+www.asapa2015 86400 IN CNAME asapa2015
+ansted 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+relay 86400 IN A 196.4.80.102
+www.uzweekly 86400 IN CNAME uzweekly
+www.confucius 86400 IN A 196.4.80.14
+www.expo 86400 IN CNAME expo
+www.alumni 86400 IN CNAME alumni
+www2 86400 IN A 154.120.229.39
+www.rie 86400 IN CNAME rie
+fundraising 86400 IN A 196.4.80.190
+researchportal 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+tvfiac-sa2014 86400 IN A 154.120.229.39
+tvfiac-sa2014 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+uzlib 86400 IN A 196.4.80.89
+uzlib 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+agric 86400 IN A 196.4.80.4
+agric 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.admissions 86400 IN CNAME admissions
+emhare 86400 IN A 154.120.229.42
+evaluation 86400 IN A 196.4.80.14
+www.intellect 86400 IN CNAME intellect
+imr 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+nac.uz.ac.zw 86400 IN MX 10 mx3
+ora 86400 IN A 154.120.229.39
+graduation 86400 IN A 154.120.229.39
+medsch 86400 IN A 154.120.229.43
+medsch 86400 IN MX 3 antivirus
+86400 IN MX 5 mail.medsch
+86400 IN MX 8 antivirus
+bmbsz 86400 IN A 154.120.229.39
+vet 86400 IN A 196.4.80.5
+vet 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+uzweb 86400 IN A 196.4.80.14
+publiclectures 86400 IN A 154.120.229.39
+proxy 86400 IN A 196.4.80.174
+otrs.uz.ac.zw 86400 IN MX 10 mx3
+mail.medsch 86400 IN A 154.120.229.43
+students 86400 IN A 196.4.80.15
+students 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+rczproject 86400 IN A 154.120.229.44
+uzlibsys 86400 IN A 154.120.229.37
+uzcos 86400 IN A 154.120.229.39
+www.intellectmagazine 86400 IN CNAME intellectmagazine
+email 86400 IN A 196.4.80.6
+portal.emhare 86400 IN A 154.120.229.39
+elastix 86400 IN A 196.4.80.100
+magazine 86400 IN A 154.120.229.39
+www.enetwork 86400 IN CNAME enetwork
+allex 86400 IN A 196.4.80.24
+infoapp 86400 IN A 154.120.229.39
+www.tvfiac-sa2014 86400 IN CNAME tvfiac-sa2014
+gis-odk 86400 IN A 196.4.80.31
+www.utha 86400 IN CNAME utha
+gravityzone-admin 86400 IN A 196.4.80.107
+sport 86400 IN A 196.4.80.14
+sport 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+jrec 86400 IN A 154.120.229.39
+www.nac 86400 IN CNAME nac
+tsime 86400 IN A 196.4.80.14
+alumni 86400 IN A 154.120.229.39
+www.library 86400 IN CNAME library
+www.koreancentre 86400 IN CNAME koreancentre
+cs 86400 IN A 196.4.80.66
+cs 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+86400 IN MX 15 cs
+science 86400 IN A 196.4.80.3
+science 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+expo 86400 IN A 154.120.229.39
+datis 86400 IN CNAME uzweb
+sifeuz 86400 IN MX 5 antivirus
+86400 IN MX 10 mx3
+www.compcentre 86400 IN CNAME www2
+uzweekly 86400 IN A 154.120.229.39
+antivirus 86400 IN A 196.4.80.169

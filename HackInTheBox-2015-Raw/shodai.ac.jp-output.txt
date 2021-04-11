@@ -1,0 +1,24 @@
+@ 3600 IN SOA mns01.ucom.ne.jp. domain_ml.fttx.co.jp. 8 10800 3600 604800 3600
+@ 3600 IN NS mns01.ucom.ne.jp.
+3600 IN NS mns02.ucom.ne.jp.
+@ 3600 IN MX 0 aspmx.l.google.com.
+3600 IN MX 10 alt1.aspmx.l.google.com.
+3600 IN MX 10 alt2.aspmx.l.google.com.
+3600 IN MX 50 aspmx2.googlemail.com.
+3600 IN MX 50 aspmx3.googlemail.com.
+@ 3600 IN TXT "MS=ms47922809"
+3600 IN TXT "google-site-verification=a329VOXZuO89zd0UspOy4QC-WipluIP-XoIe7Ur5c3s"
+3600 IN TXT "v=spf1 include:_spf.google.com ~all"
+pwd 3600 IN A 122.217.154.54
+syllabus 3600 IN A 180.131.138.37
+sites 3600 IN CNAME ghs.googlehosted.com.
+calendar 3600 IN CNAME ghs.googlehosted.com.
+idpycc 3600 IN A 136.187.100.230
+library 3600 IN A 122.217.154.55
+www 3600 IN A 180.222.184.56
+groups 3600 IN CNAME ghs.googlehosted.com.
+docs 3600 IN CNAME ghs.googlehosted.com.
+mail 3600 IN CNAME ghs.googlehosted.com.
+gw01 3600 IN A 122.217.154.62
+google20150319._domainkey 3600 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuaM0kxOrl5okAOYK3QW4bIQ0lGgr/vNplFgwk8VfjvgfP9q8+CKEjjV8JR+UVz1h8DdNZ0EmoEhckgS/IiByCzwYzFlmDNad8LNeCBlzt6k6mKYS0pyX3EyHaa/p0Z6TCPiXlmHR6V5gEaSz5V87W6s4hZiRrshdE1yuABDhPeQIDAQAB"
+unipa 3600 IN A 122.217.154.56

@@ -1,0 +1,35 @@
+@ 86400 IN SOA ns1 hasan5054.yahoo.com. 2013061708 86400 7200 3600000 11400
+@ 14400 IN MX 0 mail
+14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+@ 14400 IN TXT "v=spf1 a mx include:uad.ac.id -all"
+@ 86400 IN NS ns1
+86400 IN NS ns2
+@ 14400 IN A 103.19.180.193
+rektor 14400 IN A 106.187.37.219
+ns1 14400 IN A 103.19.180.193
+ns2 14400 IN A 103.19.180.1
+t-fe 14400 IN A 118.97.8.26
+t-fh 14400 IN A 118.97.8.26
+im 14400 IN A 118.97.8.24
+mail._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBxzE7cedCzbqCeqq2VUSzz3f+qBHX7QzxX040s0LvS3PUJa5BeIjzLnZ1UbWF+S9vijWOPvvqCu4vHtLF6jqjh5zeVKVukKJl6e3G2tvoaQx8q+bqafP4qC6Lh7fZTyRjoZyw+DHei/xJrued6RVlv0hEk7DpRFJyqik+ruD4NwIDAQAB"
+t-fpsikologi 14400 IN A 118.97.8.26
+t-fai 14400 IN A 118.97.8.26
+mail 14400 IN A 103.19.180.195
+irc 14400 IN AAAA 2002:6713:b4c1::1
+irc 14400 IN A 103.19.180.193
+web-backup 14400 IN A 118.97.8.26
+t-fsastra 14400 IN A 118.97.8.26
+ppb 14400 IN A 118.97.8.26
+blog 14400 IN A 118.97.8.24
+ftp 14400 IN A 103.19.180.193
+www 14400 IN CNAME @
+kapas 14400 IN A 103.19.180.193
+localhost 14400 IN A 127.0.0.1
+t-fkip 14400 IN A 118.97.8.26
+t-fkm 14400 IN A 118.97.8.26
+t-fti 14400 IN A 118.97.8.26
+t-fmipa 14400 IN A 118.97.8.26

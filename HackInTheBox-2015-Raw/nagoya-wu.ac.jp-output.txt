@@ -1,0 +1,45 @@
+@ 3600 IN SOA haruko postmaster.haruko 2015022401 10800 3600 86400 86400
+@ 3600 IN NS haruko
+3600 IN NS nameserv.gw.nagoya-u.ac.jp.
+@ 3600 IN MX 0 nwu-mg
+@ 3600 IN TXT "v=spf1 a mx ptr mx:nwu-mg.nagoya-wu.ac.jp ip4:202.237.7.0/24 mx:nagoya-wu.ac.jp include:_spf.google.com -all"
+haruko 3600 IN A 202.237.7.1
+lsic 3600 IN A 202.237.7.32
+www.nyusi 3600 IN A 202.237.7.7
+nagisa 3600 IN A 202.237.7.3
+wct 3600 IN A 202.237.7.11
+libweb2 3600 IN A 202.237.7.70
+stud10 3600 IN MX 30 nwu-mg
+nwu-mg 3600 IN A 202.237.7.252
+sayaka 3600 IN A 202.237.7.13
+googleffffffffa0865673 3600 IN CNAME google.com.
+asuka 3600 IN A 202.237.7.4
+educat110 3600 IN A 202.237.7.110
+nwu-mx 3600 IN A 202.237.7.249
+cas 3600 IN A 202.237.7.100
+stud 3600 IN MX 10 2125353832.mail.outlook.com.
+cybozu2 3600 IN A 202.237.7.4
+nyusi 3600 IN A 202.237.7.7
+asumi 3600 IN A 202.237.7.8
+nwu-pr 3600 IN A 202.237.6.251
+www.koshihara 3600 IN A 202.237.7.5
+env 3600 IN MX 20 nwu-mg
+canvas 3600 IN A 202.237.7.82
+lsic2 3600 IN A 202.237.7.21
+www 3600 IN A 202.237.7.2
+aipo 3600 IN A 202.237.7.102
+koshihara 3600 IN A 202.237.7.5
+staff 3600 IN MX 20 nwu-mx
+axis 3600 IN A 202.237.6.248
+nwu-ex 3600 IN A 202.237.6.250
+gmail 3600 IN CNAME ghs.google.com.
+glexa 3600 IN A 202.237.7.15
+kasumi 3600 IN A 202.237.7.2
+cybozu 3600 IN A 202.237.7.30
+webct 3600 IN A 202.237.7.6
+portal 3600 IN A 202.237.7.10
+ntp 3600 IN A 202.237.7.1
+calabo 3600 IN A 202.237.7.14
+libweb 3600 IN A 202.237.7.69
+libweb 3600 IN MX 20 nwu-mg
+ss 3600 IN A 202.237.7.8

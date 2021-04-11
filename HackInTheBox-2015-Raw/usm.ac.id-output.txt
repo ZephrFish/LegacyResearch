@@ -1,0 +1,127 @@
+@ 86400 IN SOA ns1.rumahweb.com. agung.rumahweb.co.id. 2015042701 86400 7200 3600000 86400
+@ 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+@ 86400 IN NS ns1.rumahweb.com.
+86400 IN NS ns2.rumahweb.com.
+86400 IN NS ns3.rumahweb.net.
+86400 IN NS ns4.rumahweb.net.
+@ 14400 IN A 174.37.101.186
+webdisk.fokmi 14400 IN A 174.37.101.186
+konversi 14400 IN A 103.30.180.200
+autoconfig.mail 14400 IN A 174.37.101.186
+_autodiscover._tcp.dinamikamanajemen 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+siapsit 14400 IN A 203.130.205.245
+_autodiscover._tcp.fokmi 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+lppm 14400 IN A 103.30.180.195
+evaluasi 14400 IN A 103.30.180.200
+radio 14400 IN A 103.30.180.204
+* 14400 IN A 174.37.101.186
+sijalu.cloud 14400 IN A 103.30.180.199
+_autodiscover._tcp.usmqman 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.jsa 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.juraksi 14400 IN A 174.37.101.186
+ucac 14400 IN A 103.30.180.205
+www 14400 IN CNAME @
+www.oracle.ftik 14400 IN A 174.37.101.186
+kp.ftik 14400 IN A 103.30.180.199
+_autodiscover._tcp.jurnal-spa 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.akuntansi 14400 IN A 174.37.101.186
+webdisk.mail.ftik 14400 IN A 174.37.101.186
+webdisk.demo 14400 IN A 174.37.101.186
+whm 14400 IN A 174.37.101.186
+www.demo 14400 IN A 174.37.101.186
+_autodiscover._tcp.akuntansi 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+cloud 14400 IN A 103.30.180.199
+autodiscover.akuntansi 14400 IN A 174.37.101.186
+sia 14400 IN A 103.30.180.200
+rt 14400 IN A 103.30.180.196
+digilib 14400 IN A 103.30.180.197
+www.maintenance 14400 IN A 174.37.101.186
+webmail 14400 IN A 174.37.101.186
+tv 14400 IN A 103.30.180.207
+internal 14400 IN A 103.30.180.200
+autodiscover.jurnal-spa 14400 IN A 174.37.101.186
+lab.ftik 14400 IN A 103.30.180.199
+www.mail 14400 IN A 174.37.101.186
+ltc 14400 IN A 103.30.180.199
+autoconfig.jurnal-spa 14400 IN A 174.37.101.186
+www.juraksi 14400 IN A 174.37.101.186
+cdn.ftik 14400 IN CNAME d2yc3bhotomhga.cloudfront.net.
+www.ftik 14400 IN A 128.199.204.24
+journals 14400 IN A 103.30.180.199
+webdisk.akuntansi 14400 IN A 174.37.101.186
+autodiscover 14400 IN A 174.37.101.186
+_autodiscover._tcp.juraksi 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+very 14400 IN A 103.30.180.199
+ftp 14400 IN CNAME @
+cpanel 14400 IN A 174.37.101.186
+localhost 14400 IN A 127.0.0.1
+www.web 14400 IN A 174.37.101.186
+journal 14400 IN A 103.30.180.199
+webdisk.web 14400 IN A 174.37.101.186
+demo 14400 IN A 174.37.101.186
+maintenance 14400 IN A 174.37.101.186
+webdisk.jurnal-spa 14400 IN A 174.37.101.186
+_autodiscover._tcp.files 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+sipp 14400 IN A 103.30.180.201
+bd4fe2bf96dadfe25bf1728571a89b6d.ftik 14400 IN CNAME verify.bing.com.
+jurnal-spa 14400 IN A 174.37.101.186
+mail 14400 IN A 174.37.101.186
+www.jsa 14400 IN A 174.37.101.186
+ilib 144400 IN A 103.30.180.201
+juraksi 14400 IN A 174.37.101.186
+ftik 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+ftik 14400 IN A 128.199.204.24
+siamm 14400 IN A 103.30.180.203
+autoconfig.akuntansi 14400 IN A 174.37.101.186
+webdisk.jsa 14400 IN A 174.37.101.186
+mail.ftik 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+mail.ftik 14400 IN A 174.37.101.186
+_autodiscover._tcp.dyahjanie 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.juraksi 14400 IN A 174.37.101.186
+bpm 14400 IN A 103.30.180.199
+akuntansi 14400 IN A 174.37.101.186
+autoconfig 14400 IN A 174.37.101.186
+webdisk.oracle.ftik 14400 IN A 174.37.101.186
+autoconfig.juraksi 14400 IN A 174.37.101.186
+autodiscover.mail 14400 IN A 174.37.101.186
+kri2015 14400 IN A 103.30.180.198
+moko.cloud 14400 IN A 103.30.180.199
+web 14400 IN A 174.37.101.186
+webdisk.mail 14400 IN A 174.37.101.186
+_autodiscover._tcp.mail 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk.maintenance 14400 IN A 174.37.101.186
+pmb 14400 IN A 103.30.180.203
+webdisk.ftik 14400 IN A 174.37.101.186
+*.ftik 14400 IN A 128.199.204.24
+ppsdm 14400 IN A 103.30.180.196
+oracle.ftik 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+oracle.ftik 14400 IN A 174.37.101.186
+siamih 14400 IN A 103.30.180.203
+webdisk 14400 IN A 174.37.101.186
+www.jurnal-spa 14400 IN A 174.37.101.186
+transit.ftik 14400 IN A 103.30.180.199
+autoconfig.jsa 14400 IN A 174.37.101.186
+_autodiscover._tcp.ft 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+ta.ftik 14400 IN A 103.30.180.199
+kulon.ftik 14400 IN A 103.30.180.199
+static 14400 IN CNAME dni0w7p7j0qti.cloudfront.net.
+www.mail.ftik 14400 IN A 174.37.101.186
+psm 14400 IN A 103.30.180.195
+autodiscover.jsa 14400 IN A 174.37.101.186
+jsa 14400 IN A 174.37.101.186

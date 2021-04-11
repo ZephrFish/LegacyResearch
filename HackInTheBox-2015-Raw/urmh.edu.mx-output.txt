@@ -1,0 +1,15 @@
+@ 3600 IN SOA ns1.interplanet.com.mx. hostmaster.interplanet.com.mx. 2012072402 3600 600 604800 1800
+@ 3600 IN NS ns1.interplanet.com.mx.
+3600 IN NS ns2.interplanet.com.mx.
+3600 IN NS ns3.interplanet.com.mx.
+@ 3600 IN TXT "v=spf1 a mx a:mgw.suantispam.com a:mx.suantispam.com include:_pivote.suantispam.com -all"
+@ 600 IN MX 10 mx.suantispam.com.
+600 IN MX 20 fb.suantispam.com.
+@ 3600 IN A 201.175.20.105
+webmakerl 3600 IN CNAME mail
+sistema 3600 IN CNAME www
+webmaker 3600 IN CNAME webmaker.suempresa.com.
+webmail 3600 IN CNAME mail
+ftp 3600 IN CNAME mail
+www 3600 IN A 201.175.20.105
+mail 3600 IN A 201.175.20.105

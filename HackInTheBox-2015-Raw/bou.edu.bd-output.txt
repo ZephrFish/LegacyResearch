@@ -1,0 +1,24 @@
+@ 86400 IN SOA ns131.arnimit.com. info.arfitech.com. 2014120400 86400 7200 3600000 86400
+@ 300 IN MX 0 mail
+300 IN MX 1 @
+@ 86400 IN NS ns131.arnimit.com.
+86400 IN NS ns132.arfitech.com.
+86400 IN NS ns133.arnimit.net.
+86400 IN NS ns134.arfitech.net.
+@ 300 IN A 50.28.18.39
+boulms 300 IN A 180.211.206.72
+content 300 IN A 180.211.206.66
+default._domainkey 300 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZ7sY31OYWLppW/4adTlKEDPRz0/NAS2jlDAKVv5BDgihx/25GbdR5VLZ5/dY33lqLtePXzIH0MUt7yNme+ZA4xaGZJfQplic0psFe7/DdZFEfTsTSX1MfqO/Ez/dSeHdM5OB+IIsHBTXjCNm8EFP2koR31S4t5KkynCGUfB+n5QIDAQAB;"
+webmail 300 IN A 50.28.18.39
+webdisk 300 IN A 50.28.18.39
+ftp 300 IN A 50.28.18.39
+cpanel 300 IN A 50.28.18.39
+www 300 IN CNAME @
+localhost 300 IN A 127.0.0.1
+mail 300 IN A 180.211.206.80
+cyber 300 IN A 180.211.206.77
+autoconfig 300 IN A 50.28.18.39
+autodiscover 300 IN A 50.28.18.39
+exam 300 IN A 180.211.206.79
+whm 300 IN A 50.28.18.39
+_autodiscover._tcp 300 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.

@@ -1,0 +1,50 @@
+@ 86400 IN SOA heracles.eci.eciad.ca. hostmaster.eciad.ca. 2006051348 3600 3600 1209600 86400
+@ 86400 IN A 199.60.226.2
+@ 86400 IN NS ns1.eciad.ca.
+86400 IN NS jade.bc.net.
+86400 IN NS ananke.eci.eciad.ca.
+86400 IN NS demeter.eci.eciad.ca.
+86400 IN NS heracles.eci.eciad.ca.
+86400 IN NS hercules.eci.eciad.ca.
+@ 86400 IN MX 10 zeus.eciad.ca.
+@ 86400 IN TXT "v=spf1 ip4:199.60.226.0/27 include:telus.net include:shaw.ca ~all"
+ts1-slip5.dialup 86400 IN A 199.60.226.105
+emily.admin 86400 IN CNAME emily.eci.eciad.ca.
+ts2-ppp8.dialup 86400 IN A 199.60.226.118
+courses 86400 IN CNAME courses.eciad.ca.
+voicemail 86400 IN CNAME voicemail.eci.eciad.ca.
+ananke.eci.eciad.ca. 86400 IN A 10.10.0.5
+ts2-ppp7.dialup 86400 IN A 199.60.226.117
+voicemail.admin 86400 IN CNAME voicemail.eci.eciad.ca.
+ts1-slip7.dialup 86400 IN A 199.60.226.107
+ts2-ppp6.dialup 86400 IN A 199.60.226.116
+termserv2.dialup 86400 IN A 199.60.226.99
+ts1-slip6.dialup 86400 IN A 199.60.226.106
+libserver 86400 IN CNAME libserver.eciad.ca.
+webmail 86400 IN CNAME webmail.eciad.ca.
+ts2-ppp5.dialup 86400 IN A 199.60.226.115
+emily 86400 IN CNAME emily.eci.eciad.ca.
+termserv1.dialup 86400 IN A 199.60.226.98
+designgrads2004 86400 IN CNAME designgrads2004.eciad.ca.
+designgrads2005 86400 IN CNAME designgrads2005.eciad.ca.
+forums 86400 IN CNAME forums.eciad.ca.
+ts2-ppp4.dialup 86400 IN A 199.60.226.114
+www 86400 IN CNAME arachne.eciad.ca.
+ts1-slip4.dialup 86400 IN A 199.60.226.104
+ts2-ppp3.dialup 86400 IN A 199.60.226.113
+mailhost 86400 IN CNAME mailhost.eciad.ca.
+oswald 86400 IN CNAME oswald.eciad.ca.
+littlejohn 86400 IN CNAME littlejohn.its.eciad.ca.
+wireless 86400 IN CNAME wireless.eciad.ca.
+ts1-slip3.dialup 86400 IN A 199.60.226.103
+ts2-ppp2.dialup 86400 IN A 199.60.226.112
+gate.dialup 86400 IN A 199.60.226.97
+trailer-hp-m521 86400 IN A 10.10.1.199
+ts1-slip2.dialup 86400 IN A 199.60.226.102
+icarus 86400 IN CNAME icarus.eciad.ca.
+apaaf 86400 IN CNAME apaaf.eciad.ca.
+firstnations 86400 IN CNAME firstnations.eciad.ca.
+ts2-ppp1.dialup 86400 IN A 199.60.226.111
+ts1-slip8.dialup 86400 IN A 199.60.226.108
+spooky.dialup 86400 IN A 199.60.226.100
+ts1-slip1.dialup 86400 IN A 199.60.226.101

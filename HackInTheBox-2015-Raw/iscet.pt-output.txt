@@ -1,0 +1,38 @@
+@ 86400 IN SOA dns1.ibername.com. pedro\.ribeiro.iberweb.pt. 2015043002 3600 600 86400 86400
+@ 86400 IN NS dns1.ibername.com.
+86400 IN NS dns2.ibername.com.
+@ 86400 IN TXT "v=spf1 a mx include:kmitd.com include:_spf.google.com ~all"
+86400 IN TXT "google-site-verification=sKcXnxdllU_ebciO4qE6X6-LzlFR2b6IsAlBID4ppyk"
+@ 86400 IN A 176.221.32.83
+@ 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+egoi._domainkey 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqVSlKOpvbfJGW3LLwW9HczaHzSPJOivhq76qmxSLPFkPOYnjQ6/HYJHBcNfXE3j1ZPRgXkpuvAs1KxFJmK7NB4L2Hvz0zU/UwuTZyX2b0Wva5C5z+l1sjOXTAQv3Gmo6Sz4gYIagxn6afFt/Vi0aKHXrLq5wX5NTnf/JCOx067QIDAQAB"
+sites 86400 IN CNAME ghs.google.com.
+webmail 86400 IN A 188.165.207.144
+gesp2011 86400 IN A 188.165.207.144
+sophia 86400 IN A 176.221.32.83
+webdisk.gesp 86400 IN A 188.93.230.5
+www.gesp 86400 IN A 176.221.32.83
+site 86400 IN A 188.165.207.144
+moodle 86400 IN A 176.221.32.83
+marketingdigital 86400 IN A 66.96.147.104
+mail 86400 IN CNAME ghs.google.com.
+whm 86400 IN A 188.165.207.144
+gesp 86400 IN A 176.221.32.83
+webdisk 86400 IN A 188.165.207.144
+ftp 86400 IN A 188.165.207.144
+cpanel 86400 IN A 188.165.207.144
+ojs 86400 IN A 188.165.207.144
+www 86400 IN A 176.221.32.83
+docs 86400 IN CNAME ghs.google.com.
+calendario 86400 IN CNAME ghs.google.com.
+grupos 86400 IN CNAME ghs.google.com.
+chip 86400 IN A 176.221.32.83
+cit2015 86400 IN A 188.93.230.5
+mail1 86400 IN A 188.165.207.144
+obci 86400 IN A 176.221.32.83

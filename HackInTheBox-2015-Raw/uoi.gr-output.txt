@@ -1,0 +1,278 @@
+@ 86400 IN SOA kouzina.noc hostmaster 2015042300 28800 7200 604800 86400
+@ 86400 IN NS sns0.grnet.gr.
+86400 IN NS sns1.grnet.gr.
+86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+@ 86400 IN A 195.130.120.107
+@ 86400 IN MX 10 pegasus.noc
+www.biotechlab.bat 86400 IN CNAME wms.noc
+gd 86400 IN CNAME career.admin
+teleconf 86400 IN CNAME wms.noc
+cs 86400 IN NS gaia.cs
+86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+gk 86400 IN CNAME boufos2.bbr
+ioannina 86400 IN CNAME wms.noc
+anamorfosi 86400 IN CNAME ouranos.edu
+pronoia.unit 86400 IN CNAME wms.noc
+kosmos-ergasias.unit 86400 IN CNAME wms.noc
+webmail2 86400 IN CNAME phoenix.noc
+gw 86400 IN A 195.130.120.243
+wifi 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+aggelies 86400 IN CNAME wms.noc
+culturalcenter 86400 IN CNAME wms.noc
+nxdorms 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+schooledu.ac 86400 IN CNAME wms.noc
+tif2006 86400 IN CNAME ouranos.edu
+www.bat 86400 IN CNAME wms.noc
+www.hellenic-center 86400 IN CNAME wms.noc
+www.ucc 86400 IN CNAME wms.noc
+edu.pep 86400 IN CNAME pc-160.phil
+nxwifi 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+biotech.project 86400 IN CNAME wms.noc
+prytania 86400 IN CNAME users
+new.unit 86400 IN CNAME wms.noc
+ecourse-test 86400 IN CNAME jason2.noc
+ecedu 86400 IN CNAME wms.noc
+medchem.ac 86400 IN CNAME wms.noc
+www.atherothrombosis.lab 86400 IN CNAME wms.noc
+health.ac 86400 IN CNAME wms.noc
+www.icgl7.project 86400 IN CNAME wms.noc
+www.modip 86400 IN CNAME ws1.admin
+lib 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+wqconf 86400 IN CNAME users
+www.mtm 86400 IN CNAME wms.noc
+eduroam 86400 IN CNAME p0.ors.eduroam.gr.
+vlaves 86400 IN CNAME ws18.admin
+env 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+ddadm 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+www.nephrology 86400 IN CNAME wms.noc
+www 86400 IN CNAME web2.noc
+www.eced 86400 IN CNAME wms.noc
+folklore-museum 86400 IN CNAME users
+earthlab 86400 IN CNAME ouranos.edu
+adsl 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+diph 86400 IN CNAME jason2.noc
+irakleitos 86400 IN CNAME wms.noc
+hist-arch 86400 IN CNAME wms.noc
+mystream 86400 IN CNAME wms.noc
+eis-ariadni 86400 IN CNAME users
+missoptima.project 86400 IN CNAME wms.noc
+petrotasurvey.hist-arch 86400 IN CNAME users
+iau257 86400 IN CNAME users
+10psk 86400 IN CNAME users
+pega.ptde 86400 IN CNAME wms.noc
+med 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+atherothrombosis.lab 86400 IN CNAME wms.noc
+natp 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+tc 86400 IN CNAME wms.noc
+users 86400 IN A 195.130.120.125
+docanel.project 86400 IN CNAME wms.noc
+fmd 86400 IN CNAME wms.noc
+www.culture 86400 IN CNAME wms.noc
+hellenic-center 86400 IN CNAME wms.noc
+dpnt 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+tba 86400 IN CNAME web2.noc
+sa 86400 IN CNAME lab24.cs
+vd 86400 IN A 83.212.6.52
+www.nmrcenter 86400 IN CNAME wms.noc
+noc 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+www.biochemlab.bat 86400 IN CNAME wms.noc
+glossa.pep 86400 IN CNAME pc-160.phil
+dikeppee 86400 IN CNAME wms.noc
+empirie.pep 86400 IN CNAME pc-160.phil
+piro 86400 IN CNAME users
+aeiforia 86400 IN CNAME users
+arxontika 86400 IN CNAME users
+webconf 86400 IN CNAME webconf.noc
+mke 86400 IN CNAME career.admin
+nalaprotac.project 86400 IN CNAME wms.noc
+mypassword 86400 IN A 83.212.6.168
+griko.project 86400 IN CNAME wms.noc
+bot.bat 86400 IN CNAME wms.noc
+dc1.rc 86400 IN A 83.212.195.126
+liaison 86400 IN CNAME dc2.rc
+ecodonet.project 86400 IN CNAME wms.noc
+chemat 86400 IN CNAME cimn.materials
+council 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+merimna 86400 IN CNAME ws100.admin
+upress 86400 IN CNAME pc50.admin
+www.agribusiness 86400 IN CNAME users
+edupol.pep 86400 IN CNAME pc-160.phil
+ftp 86400 IN A 195.130.120.38
+mnimeia-repo.ptde 86400 IN CNAME pc-134.edu
+www.viopikilotita 86400 IN CNAME users
+chem 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+enoikiazetai 86400 IN CNAME wms.noc
+arts 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+www.verso.project 86400 IN CNAME wms.noc
+eek.unit 86400 IN CNAME wms.noc
+epigrepirus.project 86400 IN CNAME wms.noc
+www.materscieng 86400 IN CNAME users
+forum 86400 IN CNAME minoas.noc
+ieeesb 86400 IN CNAME phoenix.cs
+sso 86400 IN A 83.212.6.225
+bat 86400 IN CNAME wms.noc
+eced 86400 IN CNAME wms.noc
+proxy 86400 IN CNAME anarmodios.noc
+ucc 86400 IN CNAME wms.noc
+bbr 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+www2 86400 IN CNAME web2.noc
+gpa 86400 IN CNAME career.admin
+biotechlab.bat 86400 IN CNAME wms.noc
+new 86400 IN CNAME web.noc
+biochemlab.bat 86400 IN CNAME wms.noc
+physics 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+1syn-kte 86400 IN CNAME wms.noc
+aspi 86400 IN CNAME users
+enedim2011 86400 IN CNAME users
+osst 86400 IN CNAME pc178.econ
+phedps 86400 IN CNAME users
+demo 86400 IN CNAME wms.noc
+mtm 86400 IN CNAME wms.noc
+summerschool2015.ac 86400 IN CNAME wms.noc
+www.university_2010-14 86400 IN CNAME users
+apd 86400 IN CNAME users
+delos 86400 IN CNAME opendelos.noc
+edu 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+materials 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+exclusion.pep 86400 IN CNAME pc-160.phil
+helas 86400 IN CNAME wms.noc
+ok2012 86400 IN CNAME career.admin
+ok2013 86400 IN CNAME dc8.rc
+grads 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+www.mmscs 86400 IN CNAME users
+culture 86400 IN CNAME wms.noc
+sig16 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+www.merimna 86400 IN CNAME ws100.admin
+temple 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+bio 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+pindosgpp.bat 86400 IN CNAME pc-68.bio
+www.dikeppee 86400 IN CNAME wms.noc
+phononix-des.project 86400 IN CNAME wms.noc
+verso.project 86400 IN CNAME wms.noc
+need 86400 IN CNAME pc-80.med
+ca 86400 IN CNAME www.harica.gr.
+ocw-project 86400 IN CNAME wms.noc
+idp 86400 IN A 83.212.6.161
+zoolab.bat 86400 IN CNAME wms.noc
+architecture 86400 IN CNAME users
+atutor 86400 IN CNAME titan.noc
+altix1.cc 86400 IN A 195.130.119.3
+webforum 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+eurasia12 86400 IN CNAME users
+erasmus-ip 86400 IN CNAME users
+agro 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+www.philology 86400 IN CNAME wms.noc
+econ 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+e-enoikiazetai 86400 IN CNAME wms.noc
+webmail 86400 IN CNAME phoenix.noc
+icgl7.project 86400 IN CNAME wms.noc
+conf 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+ptde 86400 IN CNAME ouranos.edu
+www.hist-arch 86400 IN CNAME wms.noc
+ntp 86400 IN CNAME kouzina.noc
+www.docanel.project 86400 IN CNAME wms.noc
+admin 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+epeaek 86400 IN CNAME dc6.rc
+eco.bat 86400 IN CNAME wms.noc
+modip 86400 IN CNAME ws1.admin
+vikos.bat 86400 IN CNAME wms.noc
+pep 86400 IN CNAME users
+mnimeia.ptde 86400 IN CNAME wms.noc
+grid 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+abreviate.project 86400 IN CNAME wms.noc
+beta 86400 IN CNAME web2.noc
+eeee2007 86400 IN CNAME users
+www.numan2012 86400 IN CNAME users
+erparm.pep 86400 IN CNAME pc-222.phil
+opencourses 86400 IN CNAME wms.noc
+dhcp-med 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+pega.ecedu 86400 IN CNAME wms.noc
+dde 86400 IN CNAME ouranos.edu
+math 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+techserv 86400 IN CNAME users
+fieldstation.bat 86400 IN CNAME wms.noc
+nmrcenter 86400 IN CNAME wms.noc
+niarxio 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+pki 86400 IN CNAME uoi.pki.grnet.gr.
+irc 86400 IN CNAME ktinos.noc
+mtt.unit 86400 IN CNAME wms.noc
+ecourse 86400 IN CNAME jason2.noc
+tzoumerka.project 86400 IN CNAME wms.noc
+gss.bat 86400 IN CNAME wms.noc
+flc.unit 86400 IN CNAME wms.noc
+mss-nde 86400 IN CNAME users
+www.irakleitos 86400 IN CNAME wms.noc
+nlampp-lab 86400 IN CNAME pc235.math
+phil 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+gaia.cs 86400 IN A 195.130.121.201
+www.fmd 86400 IN CNAME wms.noc
+www.radiology 86400 IN CNAME medlab.cs
+ppp 86400 IN CNAME wms.noc
+wmx 86400 IN CNAME perseas.noc
+kek 86400 IN CNAME users
+epi 86400 IN CNAME wms.noc
+opendelos 86400 IN CNAME opendelos.noc
+philology 86400 IN CNAME wms.noc
+dorms-a 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+dorms-b 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+cc 86400 IN NS altix1.cc
+86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+erasmus 86400 IN CNAME users
+deanphil.ac 86400 IN CNAME wms.noc
+uregister 86400 IN A 83.212.6.200
+www.agricman 86400 IN CNAME pc-67.agro
+hoe.pep 86400 IN CNAME pc-160.phil
+news 86400 IN CNAME users
+cultureportalweb 86400 IN CNAME jason2.noc
+eep.unit 86400 IN CNAME wms.noc
+www.etech-ndt5 86400 IN CNAME users
+www.nalaprotac.project 86400 IN CNAME wms.noc
+dasta 86400 IN CNAME career.admin
+ds 86400 IN CNAME idp.noc
+skepi 86400 IN CNAME users
+www.petrinagefiria 86400 IN CNAME users
+techp 86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+rc 86400 IN NS dc1.rc
+86400 IN NS marina.noc
+86400 IN NS kouzina.noc
+folklore-dance 86400 IN CNAME users
+dialup 86400 IN NS marina.noc
+86400 IN NS kouzina.noc

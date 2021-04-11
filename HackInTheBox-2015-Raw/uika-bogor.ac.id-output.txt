@@ -1,0 +1,80 @@
+@ 3600 IN SOA merahputih.wi.net.id. admin 2014012930 3600 900 2419200 3600
+@ 3600 IN NS merdeka.wi.net.id.
+3600 IN NS merahputih.wi.net.id.
+@ 3600 IN A 27.123.223.238
+@ 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+@ 3600 IN TXT "v=spf1 a mx ip4:27.123.223.240/29 ~all"
+dpm 3600 IN CNAME @
+www.ti.ft 3600 IN CNAME ft
+www.rjurnal.ft 3600 IN CNAME ft
+siak 3600 IN CNAME @
+ft 3600 IN A 27.123.223.238
+ft 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+ft 3600 IN TXT "v=spf1 a mx ip4:27.123.223.240/29 ~all"
+e-library 3600 IN CNAME @
+rjurnal.ft 3600 IN CNAME ft
+www.fe 3600 IN CNAME @
+vm 3600 IN CNAME @
+ulil-albab 3600 IN CNAME @
+ti.ft 3600 IN CNAME ft
+fai 3600 IN CNAME @
+himatekinfo.ft 3600 IN CNAME ft
+www.mpm 3600 IN CNAME @
+tm.ft 3600 IN CNAME ft
+www.lppm 3600 IN CNAME @
+docs.ft 3600 IN CNAME ghs.googlehosted.com.
+mail.ft 3600 IN CNAME ghs.googlehosted.com.
+www.himatekinfo.ft 3600 IN CNAME ft
+tv 3600 IN CNAME @
+mail 3600 IN CNAME ghs.googlehosted.com.
+vcc 3600 IN A 27.123.223.243
+www.dev.ft 3600 IN CNAME ft
+www.ejurnal.ft 3600 IN CNAME ft
+edfec.ft 3600 IN CNAME ft
+sipdu 3600 IN CNAME @
+www.siak 3600 IN CNAME @
+ts.ft 3600 IN CNAME ft
+www.ulil-albab 3600 IN CNAME @
+ejurnal.ft 3600 IN CNAME ft
+ma 3600 IN CNAME mikrotikacademy
+www.dpm 3600 IN CNAME @
+unisel.mou 3600 IN CNAME @
+pmb-online 3600 IN A 27.123.223.238
+www.simka 3600 IN CNAME @
+elearning.fh 3600 IN CNAME @
+physam.ft 3600 IN CNAME ft
+www 3600 IN CNAME @
+sipmb 3600 IN CNAME @
+te.ft 3600 IN CNAME ft
+e-journal 3600 IN CNAME @
+apps.ft 3600 IN CNAME ft
+google._domainkey.ft 3600 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCHXpUmOJJLLTL4+Wij5L/kZGV6nxzPub7xk9tv5R4YIkER9o5r5/GMpwDTpIvxU2T+1s3f1TvSjWVUVYTJw/TW/1stuqQQuZWibQq36GuAQO+LeYHf8cywl7z/WhDTE1N36GohsINJ63pgzMYBYrWNwz0JKdHqGtRC0gW+sjGmXwIDAQAB"
+doc.ft 3600 IN CNAME ft
+lppm 3600 IN CNAME @
+mpm 3600 IN CNAME @
+www.fh 3600 IN CNAME @
+www.fai 3600 IN CNAME @
+www.fkip 3600 IN CNAME @
+dev.ft 3600 IN CNAME ft
+simka 3600 IN CNAME @
+www.pmb-online 3600 IN CNAME pmb-online
+www.unisel.mou 3600 IN CNAME @
+www.ft 3600 IN CNAME ft
+cwg 3600 IN CNAME @
+simtat 3600 IN CNAME @
+lab.ti.ft 3600 IN CNAME ft
+inventory.ft 3600 IN CNAME ft
+fkip 3600 IN CNAME @
+mikrotikacademy 3600 IN A 27.123.223.244
+ncc.ft 3600 IN CNAME ft
+fe 3600 IN CNAME @
+smtp 3600 IN CNAME @
+fh 3600 IN CNAME @

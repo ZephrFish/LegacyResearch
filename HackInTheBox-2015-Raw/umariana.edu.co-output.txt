@@ -1,0 +1,27 @@
+@ 604800 IN SOA brader acortez 1 604800 86400 2419200 604800
+@ 604800 IN MX 10 aspmx.l.google.com.
+604800 IN MX 20 alt1.aspmx.l.google.com.
+604800 IN MX 20 alt2.aspmx.l.google.com.
+604800 IN MX 30 aspmx2.googlemail.com.
+604800 IN MX 30 aspmx3.googlemail.com.
+@ 604800 IN NS brader
+@ 604800 IN A 190.14.239.130
+@ 604800 IN TXT "MS=ms25416923"
+604800 IN TXT "v=spf1  a mx ip4:190.14.239.140 -all"
+604800 IN TXT "google-site-verification=jPuvjFRk6ZIJqJQuluipmuw4ADOvYISZC38jSQurPUc"
+brader 604800 IN A 190.14.239.130
+proyeccion 604800 IN A 190.14.239.142
+sip 604800 IN CNAME sipdir.online.lync.com.
+_sip._tls 604800 IN SRV 100 1 443 sipdir.online.lync.com.
+virtual 604800 IN A 190.14.239.137
+ingenieria 604800 IN A 190.14.239.134
+google 604800 IN CNAME ghs.googlehosted.com.
+lyncdiscover 604800 IN CNAME webdir.online.lync.com.
+radio-online 604800 IN A 190.14.239.139
+serviap2009 604800 IN A 190.14.239.135
+umariana 604800 IN A 190.14.239.140
+serviap 604800 IN A 190.14.239.132
+reda 604800 IN A 190.14.239.141
+_sipfederationtls._tcp 604800 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 604800 IN CNAME umariana
+serviap2010 604800 IN A 190.14.239.136

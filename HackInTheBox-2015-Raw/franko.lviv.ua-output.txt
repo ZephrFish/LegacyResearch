@@ -1,0 +1,232 @@
+@ 3600 IN SOA prima root.prima 2015032601 7200 900 3600000 86400
+@ 3600 IN NS big.litech.lviv.ua.
+3600 IN NS ns2.uar.net.
+3600 IN NS prima
+@ 3600 IN A 194.44.198.33
+@ 3600 IN MX 10 uli2
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 relay2.uar.net.
+@ 3600 IN TXT "v=spf1 ip4:194.44.198.32/25 ~all"
+law 3600 IN A 194.44.212.228
+law 3600 IN MX 10 uli2
+3600 IN MX 30 jazz
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 relay2.uar.net.
+mechmat 3600 IN CNAME nb
+utility 3600 IN CNAME prima
+www.kameniar 3600 IN CNAME prima
+hu 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+stud 3600 IN MX 10 uli2
+3600 IN MX 30 jazz
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+ndl40 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+colloid 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+blues 3600 IN A 194.44.198.37
+journ 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+dilo 3600 IN CNAME nb
+mf 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+lib 3600 IN CNAME nb
+nb 3600 IN A 194.44.198.81
+magister 3600 IN CNAME biblio
+cluster-edu 3600 IN A 194.44.208.154
+cluster-edu 3600 IN MX 0 www.cluster-edu
+www 3600 IN CNAME prima
+ns 3600 IN CNAME prima
+ukr_lit 3600 IN CNAME www1
+ktf 3600 IN CNAME www1
+www.ttalynx.bio 3600 IN A 5.9.203.92
+studcity 3600 IN CNAME nb
+s34 3600 IN A 194.44.198.34
+s34 3600 IN MX 10 uli2
+work 3600 IN CNAME www1
+library 3600 IN A 194.44.198.200
+www.atg 3600 IN CNAME www1
+kisserver 3600 IN A 194.44.198.197
+history 3600 IN CNAME prima
+eui 3600 IN CNAME prima
+ocinka 3600 IN A 198.211.126.95
+jnam 3600 IN CNAME blues
+prima 3600 IN A 194.44.198.33
+prima 3600 IN MX 10 uli2
+3600 IN MX 30 jazz
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 big.litech.lviv.ua.
+3600 IN MX 120 relay2.uar.net.
+webmail 3600 IN CNAME prima
+media-journal 3600 IN CNAME prima
+www.mmf 3600 IN CNAME mmf
+sugo 3600 IN CNAME www1
+geo 3600 IN A 194.44.198.193
+www.mediakrytyka 3600 IN CNAME mediakrytyka
+natcol 3600 IN A 194.44.198.204
+natcol 3600 IN MX 10 uli2
+3600 IN MX 20 relay1.uar.net.
+icl2010 3600 IN CNAME www1
+ext 3600 IN MX 10 uli2
+3600 IN MX 30 jazz
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 relay2.uar.net.
+cpc.ami 3600 IN CNAME www1
+libr 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+pop 3600 IN CNAME uli2
+kameniar 3600 IN CNAME www1
+softcentre 3600 IN CNAME kisserver
+mmf 3600 IN A 31.28.167.248
+ppos 3600 IN CNAME www1
+www.newsite 3600 IN CNAME prima
+council 3600 IN CNAME nb
+archive 3600 IN CNAME nb
+visnyk-mm 3600 IN CNAME kisserver
+mail 3600 IN CNAME uli2
+ftp 3600 IN CNAME prima
+chem 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+stranger 3600 IN A 194.44.198.48
+pedcollege 3600 IN CNAME nb
+intrel 3600 IN CNAME www1
+vydavcentr 3600 IN CNAME www1
+www.media-journal 3600 IN CNAME media-journal
+proxy 3600 IN CNAME lawgw
+old.ami 3600 IN CNAME blues
+www2 3600 IN A 194.44.10.31
+olymp 3600 IN A 194.44.198.202
+ami 3600 IN A 194.44.214.6
+mat_test 3600 IN CNAME www1
+chemgw 3600 IN A 194.44.198.36
+ipodp 3600 IN CNAME www2
+ttalynx.bio 3600 IN A 5.9.203.92
+anthropos 3600 IN A 194.44.198.198
+iap 3600 IN MX 60 omega.uar.net.
+3600 IN MX 90 big.litech.lviv.ua.
+3600 IN MX 120 eomer.nask.waw.pl.
+u54 3600 IN A 194.44.198.54
+u54 3600 IN MX 10 uli2
+biblio 3600 IN A 194.44.198.80
+testweb 3600 IN A 194.44.198.87
+testweb 3600 IN MX 10 uli2
+periodic 3600 IN CNAME nb
+www.prk 3600 IN CNAME www1
+soul 3600 IN A 194.44.198.52
+soul 3600 IN MX 10 soul
+3600 IN MX 20 uli2
+www.mediaeco 3600 IN CNAME mediaeco
+econom 3600 IN A 194.44.198.203
+econom 3600 IN MX 10 ASPMX.L.google.com.
+3600 IN MX 20 ALT1.ASPMX.L.google.com.
+3600 IN MX 20 ALT2.ASPMX.L.google.com.
+3600 IN MX 30 ASPMX2.GOOGLEMAIL.com.
+3600 IN MX 30 ASPMX3.GOOGLEMAIL.com.
+uli2old 3600 IN A 194.44.198.58
+atg 3600 IN CNAME www1
+before 3600 IN CNAME www1
+newsoul 3600 IN A 194.44.198.53
+newsoul 3600 IN MX 10 newsoul
+3600 IN MX 20 uli2
+uli2 3600 IN A 194.44.198.55
+uli2 3600 IN MX 10 uli2
+3600 IN MX 20 jazz
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 big.litech.lviv.ua.
+3600 IN MX 120 relay2.uar.net.
+uli3 3600 IN A 194.44.198.54
+newsite 3600 IN CNAME prima
+mail.econom 3600 IN CNAME ghs.google.com.
+www.psylab 3600 IN CNAME psylab
+jazz 3600 IN A 194.44.198.45
+jazz 3600 IN MX 10 jazz
+www.physics 3600 IN CNAME physics
+www.law 3600 IN A 194.44.212.228
+livi 3600 IN A 194.44.198.41
+relay 3600 IN CNAME jazz
+da 3600 IN A 194.44.198.196
+www.alumni 3600 IN A 194.44.198.242
+bioweb 3600 IN A 194.44.198.194
+sociolinguistics 3600 IN CNAME www
+www4 3600 IN A 194.44.198.207
+microlab 3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 big.litech.lviv.ua.
+3600 IN MX 120 relay2.uar.net.pl.
+www.electronics 3600 IN CNAME electronics
+studuryad 3600 IN CNAME www1
+kftt 3600 IN CNAME www1
+slav 3600 IN MX 30 uli2
+publish 3600 IN CNAME kisserver
+jet 3600 IN A 194.44.198.35
+neoblues 3600 IN A 194.44.198.44
+visnyk-ami 3600 IN CNAME kisserver
+geof 3600 IN MX 30 uli2
+3600 IN MX 60 jazz
+3600 IN MX 90 relay1.uar.net.
+3600 IN MX 120 relay2.uar.net.
+ipo 3600 IN CNAME nb
+www.ktf 3600 IN CNAME ktf
+DialUp16 3600 IN A 194.44.198.16
+DialUp17 3600 IN A 194.44.198.17
+DialUp18 3600 IN A 194.44.198.18
+DialUp19 3600 IN A 194.44.198.19
+DialUp21 3600 IN A 194.44.198.21
+DialUp22 3600 IN A 194.44.198.22
+DialUp23 3600 IN A 194.44.198.23
+DialUp24 3600 IN A 194.44.198.24
+www.anthropos 3600 IN CNAME anthropos
+DialUp26 3600 IN A 194.44.198.26
+DialUp27 3600 IN A 194.44.198.27
+DialUp28 3600 IN A 194.44.198.28
+DialUp29 3600 IN A 194.44.198.29
+DialUp20 3600 IN A 194.44.198.20
+hostel 3600 IN CNAME nb
+mediaeco 3600 IN CNAME prima
+astro 3600 IN A 194.44.198.6
+astro 3600 IN MX 30 uli2
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 big.litech.lviv.ua.
+psylab 3600 IN A 91.200.40.84
+psylab 3600 IN TXT "v=spf1" "ip4:91.200.40.84" "a" "mx" "~all"
+geoserver 3600 IN CNAME nb
+ad 3600 IN A 194.44.198.85
+radius 3600 IN CNAME uli2
+physics 3600 IN CNAME www1
+electronics 3600 IN A 194.44.198.205
+electronics 3600 IN MX 10 electronics
+3600 IN MX 20 uli2
+www1 3600 IN A 194.44.198.61
+www1 3600 IN MX 10 uli2
+3600 IN MX 30 jazz
+3600 IN MX 60 relay1.uar.net.
+3600 IN MX 90 big.litech.lviv.ua.
+3600 IN MX 120 relay2.uar.net.
+prk 3600 IN CNAME www1
+lawgw 3600 IN A 194.44.198.39
+DialUp25 3600 IN A 194.44.198.25
+alumni 3600 IN CNAME www1
+googleffffffffd51fefb7.astro 3600 IN CNAME google.com.
+geogate 3600 IN A 194.44.198.40
+elit 3600 IN CNAME electronics
+#proxy 3600 IN CNAME uli2
+dl 3600 IN A 194.44.198.33
+mediakrytyka 3600 IN A 70.86.180.130
+www.cluster-edu 3600 IN A 194.44.208.155
+web_mail 3600 IN CNAME uli2
+buch 3600 IN MX 30 uli2
+DialUp30 3600 IN A 194.44.198.30

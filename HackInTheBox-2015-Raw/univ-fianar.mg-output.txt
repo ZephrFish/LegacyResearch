@@ -1,0 +1,14 @@
+@ 604800 IN SOA bsdrouter root 2 604800 86400 2419200 604800
+@ 604800 IN MX 10 mail
+@ 604800 IN NS bsdrouter
+@ 604800 IN A 41.188.47.15
+pop 604800 IN CNAME mail
+webmail 604800 IN CNAME bsdrouter
+www 604800 IN CNAME bsdrouter
+moodle 604800 IN A 41.242.102.67
+bsdrouter 604800 IN A 41.188.47.15
+mail 604800 IN A 41.188.47.15
+emaeval 604800 IN A 41.242.102.68
+imap 604800 IN CNAME mail
+smtp 604800 IN CNAME mail
+diocesefianara 604800 IN A 41.242.102.69

@@ -1,0 +1,73 @@
+@ 10800 IN SOA ns postmaster 2015040301 10800 3600 1209600 3600
+@ 10800 IN NS n2
+10800 IN NS n3
+10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+@ 10800 IN TXT "v=spf1 mx ?all"
+@ 10800 IN MX 10 ns
+@ 10800 IN PTR 0.168.209.202.in-addr.arpa.
+fs 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+n2 10800 IN A 153.121.45.128
+n3 10800 IN A 61.115.37.66
+hs 10800 IN NS n3
+10800 IN NS ns
+irc 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+ext 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+adm 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+is 10800 IN A 202.209.169.12
+jhs 10800 IN NS n3
+10800 IN NS ns
+fg600c 10800 IN A 202.209.168.92
+jobhdb 10800 IN A 202.209.169.16
+bkg 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+ell 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+mail 10800 IN CNAME ns
+cicero 10800 IN A 202.209.169.11
+mt 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+honreg 10800 IN A 202.209.169.26
+lib 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+ns 10800 IN MX 0 ns
+ns 10800 IN A 202.209.168.33
+nf 10800 IN A 113.42.152.131
+sgw1 10800 IN MX 0 sgw1
+sgw1 10800 IN A 202.209.168.35
+grpw 10800 IN A 202.209.169.27
+fujimino 10800 IN MX 10 sgw1
+10800 IN MX 20 ns
+fujimino 10800 IN A 113.42.152.139
+cisco1 10800 IN A 202.209.168.61
+10800 IN A 202.209.168.91
+cisco4 10800 IN A 61.115.37.65
+www 10800 IN MX 10 sgw1
+10800 IN MX 20 ns
+www 10800 IN A 202.209.168.67
+localhost 10800 IN A 127.0.0.1
+www.library 10800 IN CNAME piaget.hum
+ba 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+liberty 10800 IN MX 10 sgw1
+10800 IN MX 20 ns
+liberty 10800 IN A 113.42.152.139
+hst 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+www2 10800 IN CNAME www
+fkg 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+hum 10800 IN NS ns
+10800 IN NS dns-x.sinet.ad.jp.
+jobh 10800 IN A 202.209.169.15
+net0 10800 IN PTR 0.168.209.202.in-addr.arpa.
+gw2 10800 IN A 58.89.251.161
+sgw 10800 IN MX 0 sgw
+sgw 10800 IN A 202.209.168.34
+imp 10800 IN MX 10 sgw1
+10800 IN MX 20 ns
+imp 10800 IN A 113.42.152.137

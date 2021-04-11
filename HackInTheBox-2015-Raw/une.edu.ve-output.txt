@@ -1,0 +1,13 @@
+@ 604800 IN SOA @ root 2 604800 86400 2419200 604800
+@ 604800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 604800 IN MX 0 une-edu-ve.mail.protection.outlook.com.
+@ 604800 IN NS @
+604800 IN NS bigbang
+@ 604800 IN A 192.168.1.5
+bigbang 604800 IN A 192.168.1.3
+www 604800 IN CNAME @
+omicron 604800 IN CNAME omicron
+miunespace 604800 IN CNAME miunespace
+autodiscover 604800 IN CNAME autodiscover.outlook.com.
+msoid 604800 IN CNAME clientconfig.microsoftonline-p.net.
+sirius 604800 IN CNAME sirius

@@ -1,0 +1,15 @@
+@ 86400 IN SOA ns.infopro.spb.su. hostmaster.infopro.spb.su. 2000000008 43200 7200 604800 86400
+@ 86400 IN NS ns.infopro.spb.su.
+86400 IN NS ns2.infopro.spb.su.
+86400 IN NS ns3.peterlink.ru.
+@ 86400 IN A 195.242.3.251
+@ 86400 IN MX 30 relay1.peterlink.ru.
+86400 IN MX 50 relay2.peterlink.ru.
+ftp 86400 IN CNAME www
+local 86400 IN NS server2
+www 86400 IN A 195.242.3.251
+old 86400 IN A 195.242.3.251
+server2 86400 IN A 213.170.83.45
+new 86400 IN A 195.242.3.251
+www.new 86400 IN A 195.242.3.251
+relay 86400 IN A 213.170.83.44

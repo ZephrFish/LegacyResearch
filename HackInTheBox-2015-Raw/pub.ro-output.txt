@@ -1,0 +1,1215 @@
+@ 8640 IN SOA pub2 stefan.upb.ro. 2015042905 86400 10800 1209600 86400
+@ 8640 IN TXT "v=spf1 mx -all"
+8640 IN TXT "google-site-verification=E23h9mZIzAb9vYGWbPtinOy9VGfHpWmyB6JBNJ3Jmfk"
+@ 8640 IN MX 5 mail
+8640 IN MX 50 relay.roedu.net.
+@ 8640 IN NS ns1.roedu.net.
+8640 IN NS pub
+8640 IN NS pub2
+leuc 8640 IN MX 10 pub
+8640 IN MX 20 relay.roedu.net.
+leuc 8640 IN A 141.85.0.83
+lst 8640 IN NS lst
+lst 8640 IN A 141.85.128.22
+www.rotrib 8640 IN CNAME meca.omtr
+www.revistamecatronica 8640 IN A 141.85.78.129
+judas 8640 IN A 141.85.0.68
+leu-a3.eregie 8640 IN A 141.85.0.99
+uhosp-gw 8640 IN A 141.85.31.6
+reu 8640 IN NS ns.reu
+rosaro 8640 IN CNAME web-tet
+pww 8640 IN CNAME intranet
+sch19 8640 IN MX 50 pub
+VLAN3-kappa-Xgw 8640 IN A 192.129.3.190
+aedl 8640 IN NS mds.aedl
+admiteremaster 8640 IN A 141.85.166.26
+guess 8640 IN MX 50 pub
+cercetatori 8640 IN A 141.85.166.34
+x86 8640 IN CNAME web-tet
+ns.is 8640 IN A 141.85.252.179
+botanic-gw 8640 IN A 141.85.31.21
+decanat.electro 8640 IN A 141.85.253.156
+bugy 8640 IN CNAME bugy.roedu.net.
+maza.tmssud 8640 IN A 141.85.253.81
+ns.nexuspan 8640 IN A 141.85.92.10
+test.sim 8640 IN A 141.85.166.6
+sap 8640 IN NS ns.sap
+router-in.elth 8640 IN CNAME router.elth
+schur 8640 IN MX 5 schur
+schur 8640 IN A 141.85.254.150
+pizza 8640 IN CNAME pizza.bucharest.roedu.net.
+miledu-gw 8640 IN A 141.85.31.14
+alpha.leu 8640 IN A 141.85.0.66
+www.roamet 8640 IN CNAME meca.omtr
+admin 8640 IN CNAME pizza.bucharest.roedu.net.
+dbio-gw 8640 IN A 141.85.31.5
+shannon 8640 IN NS ns.shannon
+fx.pub.ro 8640 IN MX 50 pub.pub.ro
+fx.pub.ro 8640 IN A 141.85.130.70
+ns.microsoft 8640 IN A 141.85.162.129
+ns.isc 8640 IN A 141.85.168.100
+p8.eregie 8640 IN A 141.85.0.108
+ihrg 8640 IN A 141.85.227.170
+vlaicu.aero 8640 IN A 141.85.252.65
+see 8640 IN A 141.85.252.228
+tv 8640 IN NS sigma.tv
+gw.cempdi 8640 IN A 141.85.220.10
+forest 8640 IN MX 50 hyperion.csit-sun
+forest 8640 IN A 141.85.130.101
+drept-gw 8640 IN A 192.129.3.135
+dri 8640 IN NS clri.dri
+headurcor 8640 IN A 141.85.166.6
+dlcplus 8640 IN MX 50 pub
+dlcplus 8640 IN A 141.85.130.11
+coop.ueo 8640 IN A 141.85.253.158
+www.comefim10 8640 IN A 141.85.78.129
+carafoli.aero 8640 IN A 141.85.254.65
+kronos01.cael 8640 IN A 141.85.82.201
+ns.drkocher 8640 IN A 141.85.252.176
+windchill 8640 IN NS ns1.grid
+imst.msp 8640 IN A 141.85.254.69
+p6.eregie 8640 IN A 141.85.0.106
+smmmf 8640 IN CNAME www.smmmf
+dev.speed 8640 IN A 141.85.252.230
+avionics 8640 IN NS oberth.avionics
+www.mecatronica 8640 IN CNAME me.mecatronica
+leim.elmed 8640 IN A 141.85.253.119
+www.conferintaefs 8640 IN A 141.85.166.6
+ap1-snmp 8640 IN A 141.85.30.1
+info.tech 8640 IN A 141.85.253.107
+router.chim 8640 IN A 141.85.66.101
+test.tmr 8640 IN A 141.85.166.6
+ns.labfsa 8640 IN A 141.85.252.245
+dsp-control 8640 IN MX 0 ns.dsp-control
+cmim 8640 IN CNAME srv-web
+u1.med 8640 IN A 141.85.0.71
+p4.eregie 8640 IN A 141.85.0.104
+p13.eregie 8640 IN A 141.85.0.113
+ns.ccstud 8640 IN A 141.85.253.164
+beta.lprog 8640 IN A 141.85.255.157
+unsr 8640 IN A 141.85.0.95
+www.tms 8640 IN CNAME tms
+www.marco 8640 IN CNAME marco
+aris.sim 8640 IN A 141.85.6.31
+pinot 8640 IN MX 10 servus.cardio.uhosp.ro.
+pinot 8640 IN A 141.85.130.18
+dci-gw 8640 IN A 141.85.31.22
+tcm 8640 IN NS tempus.labsmn
+leu.studeltc 8640 IN A 141.85.255.53
+aero 8640 IN NS vlaicu.aero
+nexuspan 8640 IN NS ns.nexuspan
+www.tinocip 8640 IN CNAME srv-web
+main.rector 8640 IN A 141.85.252.114
+ndt 8640 IN NS vig.ndt
+dep.efs-k 8640 IN CNAME www.dep.efs-k
+bioglyval 8640 IN A 141.85.166.6
+p2.eregie 8640 IN A 141.85.0.102
+ns1.iem 8640 IN A 141.85.156.5
+hu 8640 IN A 141.85.228.5
+me.mecatronica 8640 IN A 141.85.78.129
+8640 IN A 141.85.254.78
+aslan-snmp 8640 IN A 141.85.30.27
+cssnt 8640 IN NS ns.cssnt
+tet 8640 IN CNAME web-tet
+cdgm-gw 8640 IN A 141.85.31.7
+ftp.project 8640 IN CNAME ftp.tet
+leu-a2.eregie 8640 IN A 141.85.0.98
+www.mobile 8640 IN CNAME math.math
+danube.euroqual 8640 IN A 141.85.254.147
+indinf 8640 IN NS router.indinf
+tdee 8640 IN NS enel.tdee
+trantor 8640 IN NS ns.trantor
+ns.microsoft-lab 8640 IN A 141.85.162.129
+www.casia 8640 IN CNAME casia
+ns-tet 8640 IN A 141.85.6.6
+best.best 8640 IN A 141.85.254.103
+eeee.unesco 8640 IN A 141.85.166.29
+etti 8640 IN MX 0 etti-pub-ro.mail.eo.outlook.com.
+etti 8640 IN A 141.85.162.106
+etti 8640 IN TXT "v=spf1 include:outlook.com -all"
+xa0-gw 8640 IN A 192.129.3.250
+licenta.tet 8640 IN A 141.85.166.6
+www.mecanica 8640 IN A 141.85.76.65
+www.dinlongfranare 8640 IN CNAME srv-web
+drkocher 8640 IN NS ns.drkocher
+sunsite 8640 IN NS ns.sunsite
+vectron.mathem 8640 IN A 141.85.220.13
+mastermat 8640 IN CNAME srv-web
+innovation 8640 IN A 141.85.166.6
+linux.egov 8640 IN A 141.85.254.172
+www.rn09 8640 IN CNAME srv-web
+srv-web 8640 IN A 141.85.166.23
+p7 8640 IN A 141.85.0.86
+ns.cssnt 8640 IN A 141.85.253.182
+geo-gw 8640 IN A 192.129.3.144
+mandif 8640 IN CNAME web-tet
+sivadoc 8640 IN CNAME sunidoc
+limc.sim 8640 IN CNAME www.sim
+amotion 8640 IN NS alpha.amotion
+one.lotus 8640 IN A 141.85.253.93
+resist 8640 IN NS form.resist
+www.photov 8640 IN A 141.85.253.183
+materiale 8640 IN NS ns.tef
+demo 8640 IN A 141.85.153.66
+eurocult-gw 8640 IN A 192.129.3.235
+ueo 8640 IN MX 10 coop.ueo
+ueo 8640 IN NS coop.ueo
+tripod 8640 IN CNAME doctoranzi
+ns.vlab 8640 IN A 141.85.0.30
+ns2.eregie 8640 IN A 141.85.0.82
+www.mcce 8640 IN CNAME mcce
+www.eba 8640 IN CNAME linux.eba
+automatica 8640 IN A 141.85.169.116
+labfsa 8640 IN CNAME ns.labfsa
+ns.math 8640 IN A 141.85.38.65
+leu-a1.eregie 8640 IN A 141.85.0.97
+u4.med 8640 IN A 141.85.0.74
+bme.bme 8640 IN A 141.85.254.124
+VLAN4-kappa 8640 IN A 192.129.3.192
+deca.mecanica 8640 IN A 141.85.253.76
+icosesc7 8640 IN CNAME srv-web
+www.infopoli 8640 IN CNAME srv-web
+cpac 8640 IN NS speedy.cpac
+infotin 8640 IN MX 50 pub
+caragiale-gw 8640 IN A 192.129.3.233
+cntc 8640 IN NS scntc.cntc
+x25-fizica 8640 IN A 192.129.3.2
+mail 8640 IN A 141.85.227.3
+www.dep.efs-k 8640 IN A 141.85.166.6
+www.een 8640 IN A 141.85.76.80
+bestbc 8640 IN NS ns1.bestbucuresti.ro.
+8640 IN NS ns2.bestbucuresti.ro.
+stalker 8640 IN A 217.73.164.8
+foundry 8640 IN NS tmmc.foundry
+tcpelth 8640 IN NS ns.shields
+www.x86 8640 IN CNAME web-tet
+infim-gw 8640 IN A 141.85.31.2
+golana 8640 IN NS bip.golana
+curs.fsa.pub.ro 8640 IN A 141.85.166.22
+acttm-gw 8640 IN A 141.85.31.32
+www.concurs-matematica 8640 IN CNAME srv-web
+imag 8640 IN NS alpha.imag
+hyd 8640 IN NS hyd1.hyd
+biopat-snmp 8640 IN A 141.85.30.17
+www.ingtrans 8640 IN CNAME srv-web
+plc 8640 IN NS ns.plc
+muzeu 8640 IN CNAME srv-web
+mnir-gw 8640 IN A 192.129.3.166
+itsnetwork 8640 IN A 141.85.166.6
+icf-gw 8640 IN A 141.85.31.15
+conv 8640 IN NS stat.conv
+svs.protmed 8640 IN A 141.85.253.117
+cadredidactice 8640 IN A 141.85.166.9
+www.polifest 8640 IN CNAME polifest
+dma.mathem 8640 IN CNAME vectron.mathem
+p26.eregie 8640 IN A 141.85.0.126
+hyper 8640 IN A 141.85.129.7
+www.mdef 8640 IN CNAME mdef.mdef
+sdettib 8640 IN NS ns.sdettib
+teh.prod 8640 IN A 141.85.252.69
+www.eli 8640 IN A 141.85.76.65
+oblio.cntts 8640 IN A 141.85.252.93
+microsoft-lab 8640 IN MX 5 mail.microsoft-lab
+microsoft-lab 8640 IN NS ns.microsoft-lab
+www.dotnet 8640 IN CNAME dotnet
+admitere.sim 8640 IN CNAME aris.sim
+VLAN3-kappa 8640 IN A 192.129.3.128
+floyd 8640 IN MX 20 floyd
+8640 IN MX 30 pub
+floyd 8640 IN A 141.85.130.14
+tehfi 8640 IN NS ns.tef
+ira 8640 IN A 141.85.253.171
+www.scientificbulletin 8640 IN A 141.85.166.16
+tmmc.foundry 8640 IN A 141.85.6.32
+p27.eregie 8640 IN A 141.85.0.120
+www.isb 8640 IN CNAME isb
+imt-gw 8640 IN A 141.85.31.12
+rogrid 8640 IN NS alpha.co
+cs.leu 8640 IN A 62.231.68.135
+genius 8640 IN MX 50 pub
+genius 8640 IN A 141.85.130.28
+server.csit-sun 8640 IN A 141.85.101.1
+promise 8640 IN NS ns1.grid
+mcce 8640 IN A 141.85.6.30
+math 8640 IN NS ns.math
+atm.neuro 8640 IN A 141.85.254.107
+lsr-gw 8640 IN A 192.129.3.226
+ns.sorel 8640 IN A 141.85.252.250
+web 8640 IN NS web.web
+ns.ei 8640 IN A 141.85.53.24
+linux.eba 8640 IN A 141.85.162.2
+masterits 8640 IN A 141.85.166.6
+items 8640 IN A 141.85.252.226
+donau.cael 8640 IN A 192.129.3.228
+biopat-gw 8640 IN A 141.85.31.17
+p25.eregie 8640 IN A 141.85.0.125
+www.fie 8640 IN CNAME srv-web
+www.calex-academia 8640 IN CNAME srv-web
+hertz 8640 IN NS alel.hertz
+merri 8640 IN A 141.85.130.27
+socio-gw 8640 IN A 141.85.31.19
+www.dils 8640 IN CNAME dils
+radio 8640 IN NS zeus.radio
+lion.ADComm 8640 IN A 141.85.254.54
+casapasiva 8640 IN A 141.85.254.198
+vox 8640 IN NS vox10.vox
+mt 8640 IN MX 10 mt
+8640 IN MX 50 pub
+mt 8640 IN A 141.85.254.164
+sensei 8640 IN A 141.85.224.17
+ns.hp 8640 IN A 141.85.241.15
+ns.crac 8640 IN A 141.85.228.5
+rez.med 8640 IN CNAME med
+cne.cne 8640 IN A 141.85.70.65
+8640 IN A 141.85.253.70
+p23.eregie 8640 IN A 141.85.0.123
+geom.desc 8640 IN MX 5 geom.desc
+geom.desc 8640 IN A 141.85.254.91
+concurs-matematica 8640 IN CNAME srv-web
+e80.eregie 8640 IN A 141.85.0.80
+mail._domainkey.cat.mec 3600 IN TXT "v=DKIM1; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDb8hEl/dOtBZ31lJr8kdRN2lZ+y3uFE9v/nYOPHeCAn4pKkN0NpnK5sPwEZK7j1sAFHxcSI/1qSkYZspsmgnRvN2j20pOyro1dUe6NUm7IcumBDi2c5BggLqegRV0+nmmlNfxa0J/pK5z7Yfmz5CJUyskuA4K1p6sHT9/R2L0pNQIDAQAB"
+crac 8640 IN NS ns.crac
+ns.environheal 8640 IN A 141.85.253.182
+diag 8640 IN NS cal.diag
+gw.nspg 8640 IN A 141.85.253.53
+VLAN2-kappa 8640 IN A 192.129.3.8
+cdn-gw 8640 IN A 141.85.31.8
+www.romat 8640 IN A 141.85.36.101
+cpru 8640 IN NS emsad.cpru
+www.eaii 8640 IN CNAME vala.elia
+sport 8640 IN A 141.85.166.6
+p12 8640 IN A 141.85.0.90
+p21.eregie 8640 IN A 141.85.0.121
+www.lia 8640 IN MX 0 www.lia
+www.lia 8640 IN A 141.85.254.158
+tezaur 8640 IN NS star.tezaur
+inseed 8640 IN A 141.85.241.161
+optimum 8640 IN NS leo.optimum
+panther 8640 IN MX 20 panther
+8640 IN MX 30 pub
+panther 8640 IN A 141.85.130.13
+ottonel 8640 IN MX 30 naal.profis.ro.
+ottonel 8640 IN A 141.85.130.17
+contab 8640 IN NS cont.contab
+cem.snct 8640 IN A 141.85.252.152
+tmr.ects 8640 IN A 141.85.254.144
+ns.imst 8640 IN A 141.85.90.3
+ns.nsn 8640 IN A 141.85.254.176
+sun.cfic 8640 IN A 141.85.254.76
+sccc-ga-gw 8640 IN A 192.129.3.229
+www.placedo 8640 IN CNAME placedo
+www.fsa 8640 IN CNAME fsa
+nspg 8640 IN NS gw.nspg
+icar.cimr 8640 IN A 141.85.111.1
+sigmatv 8640 IN CNAME srv-web
+prim.chfiz 8640 IN A 141.85.254.140
+imst 8640 IN NS ns.imst
+intermediu 8640 IN A 78.46.66.251
+ns1.cifa2008 8640 IN A 141.85.160.14
+icf-snmp 8640 IN A 141.85.30.15
+imtt 8640 IN NS shiva.shiva
+mathem 8640 IN MX 0 vectron.mathem
+amcsit 8640 IN NS amcsit.amcsit
+www.dsp-control 8640 IN CNAME ns.dsp-control
+kronos02.cael 8640 IN A 141.85.82.202
+csidd-snmp 8640 IN A 141.85.30.31
+www.ccdsb 8640 IN CNAME ccdsb
+ns.labms 8640 IN A 141.85.252.176
+p16.eregie 8640 IN A 141.85.0.116
+cat.mec 8640 IN TXT "v=spf1 mx a ip4:141.85.138.2 -all"
+cat.mec 8640 IN MX 0 cat.mec
+cat.mec 8640 IN A 141.85.138.2
+exul 8640 IN MX 50 pub
+exul 8640 IN A 141.85.130.49
+alpha.ifia 8640 IN A 141.85.60.1
+energ 8640 IN NS study.energ
+ns2.cti 8640 IN A 141.85.241.113
+met-nef 8640 IN NS ns.met-nef
+fie 8640 IN CNAME srv-web
+webber.dsp 8640 IN A 141.85.124.7
+3d 8640 IN A 141.85.227.143
+www.doctorat.mecanica 8640 IN A 141.85.76.65
+lin.te 8640 IN A 141.85.254.113
+e90.eregie 8640 IN A 141.85.0.90
+p14.eregie 8640 IN A 141.85.0.114
+electronica 8640 IN TXT "google-site-verification=P5VzDT8rLbli0XAqzmBOp7M1XoRbJErBvVOXZDMI7Kc"
+electronica 8640 IN MX 5 aspmx.l.google.com.
+ADComm 8640 IN NS lion.ADComm
+lmn 8640 IN NS abo.elmat
+8640 IN NS zet.lmn
+dils 8640 IN A 141.85.193.136
+eco.eng 8640 IN A 141.85.252.186
+e93.eregie 8640 IN A 141.85.0.93
+hurmuzachi-gw 8640 IN A 192.129.3.191
+voyager 8640 IN MX 30 pub
+voyager 8640 IN A 141.85.130.115
+opt.cs 8640 IN MX 10 small.bucharest.roedu.net.
+ns.plc 8640 IN A 141.85.253.178
+saim 8640 IN A 141.85.43.10
+robotica 8640 IN A 141.85.252.225
+helios 8640 IN NS uhv.helios
+www 8640 IN CNAME www.upb.ro.
+mus 8640 IN MX 5 imst.mus
+8640 IN MX 50 pub
+mus 8640 IN NS imst.mus
+reserved 8640 IN A 141.85.255.155
+p12.eregie 8640 IN A 141.85.0.112
+posdru 8640 IN A 141.85.253.169
+dep2.mathem 8640 IN CNAME vectron.mathem
+csidd-gw 8640 IN A 141.85.31.31
+ap-magurele-snmp 8640 IN A 141.85.30.2
+theta.termo 8640 IN A 141.85.56.1
+8640 IN A 141.85.254.56
+www.beco 8640 IN A 141.85.166.6
+ns.ecosys 8640 IN A 141.85.252.169
+e91.eregie 8640 IN A 141.85.0.91
+www.fils1 8640 IN CNAME fils1
+processeqp 8640 IN NS atc.processeqp
+termice 8640 IN A 141.85.114.144
+ns.lmsc 8640 IN A 141.85.254.93
+yo3kxl 8640 IN CNAME ham.elcom
+www.mandif 8640 IN CNAME web-tet
+ovnnm.hplab 8640 IN A 141.85.162.195
+ns.eciprosa 8640 IN A 141.85.76.80
+ddes 8640 IN NS esfs.ddes
+p10.eregie 8640 IN A 141.85.0.110
+VLAN4-kappa-Ygw 8640 IN A 192.129.3.193
+cifa2008 8640 IN NS ns1.cifa2008
+www.telecom 8640 IN CNAME ghs.google.com.
+lmsc 8640 IN NS ns.lmsc
+sci-bull 8640 IN CNAME scientificbulletin.upb.ro.
+atlas.cpe 8640 IN MX 10 atlas.cpe
+atlas.cpe 8640 IN A 141.85.31.131
+e88.eregie 8640 IN A 141.85.0.88
+www.tripod 8640 IN CNAME doctoranzi
+p20.med 8640 IN A 141.85.0.70
+studenti 8640 IN A 141.85.166.11
+www.hydrop 8640 IN CNAME hydrop
+router.ccp 8640 IN A 141.85.254.141
+www.alumnielth 8640 IN CNAME alumnielth
+bvali 8640 IN CNAME bvali.bucharest.roedu.net.
+library 8640 IN NS main.library
+corneliuburileanu 8640 IN A 141.85.241.52
+www.ris-cosar 8640 IN CNAME web-tet
+scntc.cntc 8640 IN A 141.85.254.126
+euroqual 8640 IN NS danube.euroqual
+psi-gw 8640 IN A 141.85.31.101
+microsys 8640 IN NS tora.microsys
+med 8640 IN MX 10 pub
+med 8640 IN A 141.85.0.71
+e86.eregie 8640 IN A 141.85.0.86
+sunidoc 8640 IN A 141.85.116.204
+acs 8640 IN NS ns1.cs
+8640 IN NS ns1.grid
+8640 IN NS ns2.cs
+adm 8640 IN CNAME admin
+electronics 8640 IN NS vala.elia
+ingtrans-ccpct 8640 IN CNAME srv-web
+kronos.cael 8640 IN A 141.85.82.200
+studentfm 8640 IN A 141.85.0.84
+admitere 8640 IN MX 0 admitere
+8640 IN MX 0 studenti
+admitere 8640 IN A 141.85.166.2
+www.microclub 8640 IN CNAME srv-web
+shields 8640 IN NS ns.shields
+caz.mecen 8640 IN A 141.85.254.74
+ch-snmp 8640 IN A 141.85.30.30
+groz-b2.med 8640 IN A 141.85.0.78
+e84.eregie 8640 IN A 141.85.0.84
+dlab 8640 IN NS ns.vlab
+mail.sim 8640 IN CNAME aris.sim
+ns.reu 8640 IN A 141.85.253.174
+form.resist 8640 IN A 141.85.254.102
+www.ing 8640 IN CNAME ing
+zeus.radio 8640 IN MX 0 zeus.radio
+zeus.radio 8640 IN A 141.85.254.151
+ns.esx 8640 IN A 141.85.117.195
+demo-gw 8640 IN A 141.85.253.153
+robots 8640 IN NS robots.robots
+aii 8640 IN NS ns.aii
+8640 IN NS dracula.aii
+p22.eregie 8640 IN A 141.85.0.122
+mecen 8640 IN NS caz.mecen
+system.power 8640 IN A 141.85.122.1
+router.animu 8640 IN A 141.85.255.156
+magurele-snmp 8640 IN A 141.85.30.3
+eciprosa 8640 IN NS ns.eciprosa
+mechstruct 8640 IN NS ns.mechstruct
+y-gw 8640 IN CNAME gw-2.unibuc.ro.
+ns.sap 8640 IN A 141.85.255.85
+eii 8640 IN A 141.85.53.24
+e-chemeng 8640 IN CNAME e-chemeng.upb.ro.
+ns.cepetet 8640 IN A 141.85.6.6
+www.zeomed 8640 IN CNAME zeomed
+zet.lmn 8640 IN A 141.85.34.131
+8640 IN A 141.85.254.33
+cont-edu 8640 IN NS mailsvr.cont-edu
+teqrep 8640 IN A 141.85.253.172
+www.mastermat 8640 IN CNAME srv-web
+www.maecs 8640 IN A 141.85.254.183
+bn321 8640 IN A 141.85.252.196
+pub-kappa 8640 IN CNAME kappa-gw.bucharest.roedu.net.
+riccati 8640 IN NS ns1.cs
+8640 IN NS ns2.cs
+florin.tm 8640 IN A 141.85.253.146
+ns1.rectorat 8640 IN A 141.85.116.4
+cco-gw 8640 IN A 141.85.31.18
+aro1.aurut 8640 IN A 141.85.6.34
+www.atlas.cpe 8640 IN A 141.85.31.131
+imst.mus 8640 IN A 141.85.252.96
+itzone 8640 IN A 141.85.164.53
+mds.aedl 8640 IN A 141.85.252.62
+naal-gw 8640 IN A 141.85.31.9
+shiva.shiva 8640 IN A 141.85.254.153
+_sipfederationstls._tcp.etti 8640 IN SRV 100 1 5061 sipfed.online.lync.com.
+proiectimpuls 8640 IN A 141.85.253.169
+museum 8640 IN A 141.85.255.174
+omtr 8640 IN NS meca.omtr
+arh 8640 IN NS agni.arh
+ap-mate 8640 IN A 141.85.30.200
+p2p-next 8640 IN A 141.85.224.17
+laem.sim 8640 IN A 141.85.36.100
+uttgm 8640 IN MX 50 pub
+thinfilm 8640 IN NS kim.thinfilm
+ccselth 8640 IN A 141.85.169.33
+vig.ndt 8640 IN A 141.85.255.69
+cbe 8640 IN NS woody.cbe
+renerg 8640 IN NS nare.renerg
+ac.cdi 8640 IN A 141.85.255.153
+mtt 8640 IN A 141.85.252.182
+oberth.avionics 8640 IN A 141.85.253.98
+cut1 8640 IN NS castor.cut1
+www.admitere 8640 IN CNAME admitere
+atu 8640 IN A 141.85.0.87
+bme 8640 IN NS bme.bme
+cco 8640 IN NS ns.cco
+ccp 8640 IN NS router.ccp
+vala.elia 8640 IN A 141.85.252.53
+cdi 8640 IN NS ac.cdi
+ccs 8640 IN A 192.129.3.241
+aut 8640 IN NS ns1.cs
+8640 IN NS ns1.grid
+pub-net 8640 IN A 141.85.0.0
+www.smmmf 8640 IN A 141.85.36.195
+edit.edit 8640 IN A 141.85.254.46
+cet.centrale 8640 IN A 141.85.70.1
+8640 IN A 141.85.252.70
+ns.eprof 8640 IN A 141.85.252.144
+ns.tef 8640 IN A 141.85.254.64
+ns.decimst 8640 IN A 141.85.252.145
+ski 8640 IN A 195.225.110.5
+preceng 8640 IN NS mf.preceng
+edil 8640 IN NS edil.edil
+isste 8640 IN CNAME web-tet
+www.nenitescu 8640 IN CNAME srv-web
+micro 8640 IN CNAME euro.micro
+curs 8640 IN NS ns1.cs
+8640 IN NS ns1.grid
+cib 8640 IN NS lnx.cib
+egov 8640 IN NS linux.egov
+ns.lpsv 8640 IN A 141.85.254.169
+cepetet 8640 IN NS ns.cepetet
+uv 8640 IN NS router.indinf
+decanat-upb 8640 IN NS unicas.decanat-upb
+hal9000 8640 IN MX 25 bip.golana
+8640 IN MX 50 pub
+hal9000 8640 IN A 141.85.68.130
+tsocm 8640 IN MX 10 mail.tsocm
+tsocm 8640 IN NS vic.tsocm
+ects 8640 IN NS tmr.ects
+dbb 8640 IN NS ns1.iem
+shiva 8640 IN NS shiva.shiva
+www.acrossee 8640 IN A 141.85.166.6
+project 8640 IN CNAME srv-web
+beta 8640 IN MX 50 pub
+beta 8640 IN A 141.85.130.111
+lpsv 8640 IN NS ns.lpsv
+spdbiotech 8640 IN A 141.85.37.61
+colel 8640 IN NS szi.colel
+eecs 8640 IN NS ns.ieee
+VLAN3-kappa-Ygw 8640 IN A 192.129.3.129
+alumnielth 8640 IN A 141.85.166.6
+dce 8640 IN NS gw.dce
+tristan 8640 IN CNAME tristan.bucharest.roedu.net.
+best 8640 IN NS best.best
+isis 8640 IN NS hu
+router.ccsrst 8640 IN A 141.85.254.160
+ns.cimp 8640 IN A 82.76.38.62
+physics1.physics 8640 IN A 141.85.32.1
+www.cct.mecanica 8640 IN A 141.85.76.65
+fjsc-gw 8640 IN A 141.85.31.3
+www.tererd 8640 IN A 141.85.76.65
+zeomed 8640 IN A 141.85.166.6
+mcma 8640 IN NS roma.mcma
+cne 8640 IN NS cne.cne
+lnx.cib 8640 IN A 141.85.254.52
+elfin.refin 8640 IN A 141.85.252.180
+cms 8640 IN NS ns.cms
+scientificbulletin 8640 IN CNAME www.scientificbulletin
+apel 8640 IN A 141.85.254.165
+student.etti 8640 IN MX 100 4b1bf1f5caa740ae843983a5880838.mail.outlook.com.
+student.etti 8640 IN TXT "v=msv1" "t=4b1bf1f5caa740ae843983a5880838"
+casia 8640 IN A 141.85.227.142
+cpe 8640 IN A 141.85.31.131
+p3.eregie 8640 IN A 141.85.0.103
+catedra.elcom 8640 IN A 141.85.43.10
+phpmysql 8640 IN CNAME www
+biodyn-gw 8640 IN A 141.85.31.20
+cnapl-gw 8640 IN A 192.129.3.202
+www.med 8640 IN CNAME med
+revueee 8640 IN NS ns1.iem
+elcom 8640 IN NS catedra.elcom
+sls.sls 8640 IN A 141.85.254.143
+cntts 8640 IN NS oblio.cntts
+hyd1.hyd 8640 IN A 141.85.254.45
+ns.lsci 8640 IN A 141.85.3.101
+travee 8640 IN A 141.85.227.142
+eba 8640 IN MX 10 linux.eba
+8640 IN MX 50 pub
+eba 8640 IN NS linux.eba
+gelu.romdsp 8640 IN A 141.85.254.108
+educo-gw 8640 IN A 141.85.31.26
+ac 8640 IN NS torquemada.ac
+sls 8640 IN NS sls.sls
+angel 8640 IN CNAME ftp.tet
+cti 8640 IN NS ns1.cti
+8640 IN NS ns1.grid
+8640 IN NS ns2.cti
+docs 8640 IN A 141.85.166.6
+ai 8640 IN NS ns.ai
+tempus.labsmn 8640 IN A 141.85.90.2
+beowulf 8640 IN NS alpha.co
+cctei 8640 IN NS cd.cctei
+msdnaa 8640 IN NS ns1.grid
+fluid.fluid-power 8640 IN A 141.85.252.86
+naal 8640 IN MX 10 naal.profis.ro.
+naal 8640 IN A 141.85.130.41
+cmr-gw 8640 IN A 141.85.31.28
+cc 8640 IN NS ccrouter.cc
+cd 8640 IN NS tcm.cd
+materials.sim 8640 IN CNAME aris.sim
+gyarmati 8640 IN NS ns.gyarmati
+mdef 8640 IN MX 0 mdef.mdef
+co 8640 IN NS alpha.co
+tef 8640 IN NS ns.tef
+usab-gw 8640 IN A 192.129.3.232
+cs 8640 IN MX 10 mail.cs
+8640 IN MX 50 pub
+cs 8640 IN NS ns1.cs
+8640 IN NS ns1.grid
+8640 IN NS ns2.cs
+tora.microsys 8640 IN A 141.85.254.94
+u5.med 8640 IN A 141.85.0.75
+ns.marconi 8640 IN A 141.85.228.5
+leo.optimum 8640 IN A 141.85.254.120
+www.dppd 8640 IN CNAME dppd
+ei 8640 IN NS ns.ei
+mail.med 8640 IN CNAME med
+phpmyadmin 8640 IN CNAME srv-web
+sw-net.eregie 8640 IN A 141.85.0.96
+skynurse 8640 IN A 141.85.171.2
+ccsrst 8640 IN NS router.ccsrst
+ns1.ncit 8640 IN A 141.85.241.15
+theta-snmp 8640 IN A 141.85.30.13
+ceospacetech 8640 IN NS ns.ceospacetech
+ns.cisco 8640 IN A 141.85.157.1
+atc.processeqp 8640 IN A 141.85.254.132
+cd.cctei 8640 IN A 141.85.253.155
+unibuc-gw 8640 IN A 192.129.3.132
+www.bios 8640 IN CNAME bios
+pico 8640 IN MX 50 pub
+pico 8640 IN A 141.85.31.16
+alpha.imag 8640 IN A 141.85.254.57
+ie 8640 IN NS rod1.ie
+rezidentiat.med 8640 IN CNAME med
+hp 8640 IN NS ns.hp
+webmail.chim 8640 IN A 141.85.66.199
+camis 8640 IN NS amza.camis
+dsp 8640 IN NS webber.dsp
+p18.eregie 8640 IN A 141.85.0.118
+www.semce 8640 IN CNAME srv-web
+p3 8640 IN A 141.85.0.89
+is 8640 IN NS ns.is
+p5 8640 IN A 141.85.0.70
+jm 8640 IN CNAME jm.roedu.net.
+p9 8640 IN A 192.129.3.252
+fsa 8640 IN A 141.85.166.23
+ns.sdettib 8640 IN A 141.85.252.171
+vox10.vox 8640 IN A 141.85.254.63
+elt 8640 IN MX 0 mail.elt
+microsoft 8640 IN NS ns.microsoft
+p17.eregie 8640 IN A 141.85.0.117
+ecolex 8640 IN NS eeee.unesco
+md 8640 IN CNAME md.roedu.net.
+eng 8640 IN NS best.best
+ns.microderlab 8640 IN A 141.85.0.30
+ftp2.pub.ro 8640 IN CNAME isolda.pub.ro
+www.pvdevelopment 8640 IN A 141.85.141.1
+mf.preceng 8640 IN A 141.85.252.78
+maimultesanse 8640 IN CNAME srv-web
+neuro 8640 IN NS atm.neuro
+prima.engines 8640 IN A 141.85.253.152
+elmat 8640 IN NS abo.elmat
+8640 IN NS zet.lmn
+cpqorcl 8640 IN CNAME co
+server.cmmip 8640 IN A 141.85.171.65
+engines 8640 IN MX 10 prima.engines
+8640 IN MX 50 pub
+engines 8640 IN NS prima.engines
+oc 8640 IN CNAME co
+www.robotx 8640 IN CNAME srv-web
+mw 8640 IN A 141.85.252.172
+www.bjmt 8640 IN CNAME srv-web
+microderlab 8640 IN NS ns.microderlab
+nota10 8640 IN A 141.85.128.24
+8640 IN A 192.129.4.24
+cimec-gw 8640 IN A 192.129.3.230
+u2.med 8640 IN A 141.85.0.72
+p7.eregie 8640 IN A 141.85.0.107
+chang 8640 IN MX 50 pub
+cosbuc-gw 8640 IN A 217.73.165.140
+x25-pub 8640 IN A 192.129.3.1
+fim 8640 IN NS ns.fim
+edit 8640 IN NS edit.edit
+ssm.med 8640 IN CNAME med
+ftp.pub.ro 8640 IN CNAME ftp.roedu.net.
+rod1.ie 8640 IN A 141.85.254.156
+ns.intel 8640 IN A 141.85.227.50
+ns.dsp-control 8640 IN A 141.85.252.177
+cloud 8640 IN NS ns1.cloud
+8640 IN NS ns2.cloud
+www.tyre 8640 IN CNAME srv-web
+temp.eltech 8640 IN A 141.85.254.89
+serv01.cadtieccp 8640 IN A 141.85.254.72
+esx 8640 IN NS ns.esx
+te 8640 IN NS lin.te
+fx.fx 8640 IN MX 50 pub
+p5.eregie 8640 IN A 141.85.0.105
+tm 8640 IN NS florin.tm
+aracis 8640 IN A 141.85.166.52
+ecomet 8640 IN A 141.85.6.36
+dppd 8640 IN CNAME srv-web
+gef 8640 IN NS hera.gef
+www.3d 8640 IN CNAME 3d
+www.innovation 8640 IN CNAME innovation
+www.electronica 8640 IN A 141.85.29.82
+gek 8640 IN MX 10 www.profis.ro.
+8640 IN MX 50 pub
+gek 8640 IN A 141.85.130.33
+placedo 8640 IN MX 5 placedo
+placedo 8640 IN A 141.85.29.94
+cisco 8640 IN NS ns.cisco
+transport 8640 IN CNAME srv-web
+ltpc 8640 IN MX 1 aspmx.l.google.com.
+8640 IN MX 5 alt1.aspmx.l.google.com.
+8640 IN MX 5 alt2.aspmx.l.google.com.
+8640 IN MX 10 alt3.aspmx.l.google.com.
+8640 IN MX 10 alt4.aspmx.l.google.com.
+ltpc 8640 IN A 141.85.255.171
+hightech 8640 IN CNAME srv-web
+cael 8640 IN NS kronos.cael
+8640 IN NS kronos01.cael
+8640 IN NS kronos02.cael
+ges 8640 IN NS ns.ges
+trans 8640 IN NS iris1.trans
+www.ccdm 8640 IN A 141.85.78.129
+www.reiki.inf 8640 IN A 141.85.36.100
+calypso 8640 IN MX 50 pub
+woody.cbe 8640 IN A 141.85.254.79
+bios 8640 IN A 141.85.254.51
+www.mathem 8640 IN CNAME vectron.mathem
+asociatiaalumnielth 8640 IN A 141.85.166.6
+www.sport 8640 IN CNAME sport
+www.atom 8640 IN CNAME atom
+dracula.aii 8640 IN A 141.85.254.87
+www3.test 8640 IN A 141.85.166.15
+ns2.cloud 8640 IN A 141.85.204.4
+www.fluid-power 8640 IN CNAME www.ccepm.upb.ro.
+gim 8640 IN MX 50 pub
+gim 8640 IN A 141.85.130.130
+ncit 8640 IN NS ns1.ncit
+8640 IN NS ns2.ncit
+mts-gw 8640 IN A 192.129.3.203
+VLAN1-kappa-Xgw 8640 IN A 192.129.3.238
+p1.eregie 8640 IN A 141.85.0.101
+power-dept 8640 IN NS best
+www.biosinf 8640 IN CNAME biosinf
+ns1.grid 8640 IN A 141.85.241.15
+animu 8640 IN NS router.animu
+canti 8640 IN NS ns1.cifa2008
+isolda 8640 IN CNAME isolda.bucharest.roedu.net.
+sociolog-gw 8640 IN A 192.129.3.131
+ns.gyarmati 8640 IN A 141.85.228.5
+abo.elmat 8640 IN A 141.85.41.65
+8640 IN A 141.85.253.41
+leu-c.eregie 8640 IN A 141.85.0.100
+ns.ubicomp 8640 IN A 141.85.228.5
+sidd 8640 IN CNAME sidd.roedu.net.
+catedrals.ing 8640 IN CNAME ing
+moodle.tet 8640 IN CNAME web-tet
+cso.tet 8640 IN A 141.85.166.6
+philos 8640 IN MX 0 socrates.philos
+masuri 8640 IN NS electro.masuri
+ibiol-gw 8640 IN A 141.85.31.29
+www.ost 8640 IN CNAME web-tet
+www.ccmd 8640 IN A 141.85.78.129
+cpru-ita 8640 IN NS emsad.cpru
+termo 8640 IN NS theta.termo
+stat.conv 8640 IN A 141.85.254.136
+neaosh 8640 IN A 141.85.130.24
+intranet 8640 IN A 141.85.166.14
+studeltc 8640 IN NS leu.studeltc
+sa-mate 8640 IN A 141.85.30.201
+tehtr.trafing 8640 IN A 141.85.123.47
+intel 8640 IN NS ns.intel
+www.ccoc 8640 IN CNAME srv-web
+electro 8640 IN NS decanat.electro
+www.pt12 8640 IN A 141.85.76.1
+www.optometrie 8640 IN A 141.85.78.129
+torquemada.ac 8640 IN A 141.85.254.174
+www.admiteretest 8640 IN CNAME admiteretest
+robots.robots 8640 IN A 141.85.169.107
+p200.qed 8640 IN A 141.85.253.69
+labsmn 8640 IN NS tempus.labsmn
+leonardo-gw 8640 IN A 141.85.31.4
+2015.ccoc 8640 IN CNAME srv-web
+stone 8640 IN CNAME stone.roedu.net.
+hera.gef 8640 IN A 141.85.254.55
+ns.leu 8640 IN A 141.85.1.62
+hares-gw 8640 IN A 192.129.3.158
+meca.omtr 8640 IN A 141.85.76.1
+8640 IN A 141.85.252.76
+telecom 8640 IN NS catedra.elcom
+telecom 8640 IN MX 5 aspmx.l.google.com.
+eltech 8640 IN NS temp.eltech
+ns1.eregie 8640 IN A 141.85.0.81
+apar 8640 IN NS apel.apar
+ubicomp 8640 IN NS ns.ubicomp
+www.cadredidactice 8640 IN CNAME cadredidactice
+www.hightech 8640 IN CNAME srv-web
+ns.tetrc 8640 IN A 141.85.117.205
+amza.camis 8640 IN A 141.85.252.81
+ics 8640 IN NS ns1.cs
+8640 IN NS ns2.cs
+www.icosecs7 8640 IN CNAME srv-web
+mail.mathem 8640 IN CNAME vectron.mathem
+ss 8640 IN NS atlantis.cs
+ns.orfeu 8640 IN A 141.85.255.151
+iem 8640 IN NS ns1.iem
+www.matnantech 8640 IN A 141.85.31.130
+www.pue 8640 IN CNAME pue
+www.masterits 8640 IN CNAME masterits
+tcm.cd 8640 IN A 141.85.39.1
+www.sarat-iwsn 8640 IN A 141.85.151.166
+uhv.helios 8640 IN A 141.85.254.152
+atom 8640 IN A 141.85.64.222
+www.safenet 8640 IN A 141.85.166.6
+www.travee 8640 IN CNAME travee
+lotus 8640 IN NS one.lotus
+webmail 8640 IN MX 0 webmail
+webmail 8640 IN A 141.85.117.219
+e68.eregie 8640 IN A 141.85.0.68
+mbr.comm 8640 IN A 141.85.252.158
+ccstud 8640 IN NS ns.ccstud
+reorom 8640 IN CNAME srv-web
+speedy.cpac 8640 IN A 141.85.254.139
+www.headurcor 8640 IN CNAME headurcor
+_sip._tls.etti 8640 IN SRV 100 1 443 sipdir.online.lync.com.
+electrocampus 8640 IN CNAME srv-web
+cji-gw 8640 IN A 192.129.3.151
+p11 8640 IN A 141.85.0.69
+plan4.dils 8640 IN A 141.85.193.197
+comdat.comm 8640 IN A 141.85.254.58
+p14 8640 IN A 141.85.0.81
+p16 8640 IN A 141.85.0.67
+ns.decid 8640 IN A 141.85.252.85
+ftp.tet 8640 IN A 141.85.6.4
+p26 8640 IN A 141.85.0.84
+www2 8640 IN CNAME www.upb.ro.
+www.eticem 8640 IN A 141.85.252.193
+r-an027 8640 IN A 141.85.1.2
+mix.mmi 8640 IN A 141.85.255.152
+ns.aii 8640 IN A 141.85.252.243
+bcu-gw 8640 IN A 192.129.3.195
+grid 8640 IN NS ns1.cs
+8640 IN NS ns1.grid
+mdef.mdef 8640 IN A 141.85.6.9
+main.library 8640 IN A 141.85.254.159
+decanatfsa 8640 IN A 141.85.252.189
+ing 8640 IN MX 0 mail.ing
+ing 8640 IN A 141.85.193.196
+www.tmr 8640 IN A 141.85.166.6
+imt 8640 IN NS oblio.imt
+cont.contab 8640 IN A 141.85.254.145
+intranet1 8640 IN A 141.85.116.45
+3dxp 8640 IN A 141.85.227.21
+ccoc 8640 IN CNAME srv-web
+www.schur 8640 IN CNAME schur
+cce.fiab 8640 IN A 141.85.0.23
+VLAN1-kappa 8640 IN A 192.129.3.224
+cadtieccp 8640 IN NS serv01.cadtieccp
+pastorel 8640 IN A 141.85.130.20
+srv-tet 8640 IN A 141.85.6.5
+imm-gw 8640 IN A 141.85.31.24
+pub2 8640 IN A 141.85.166.4
+router.elth 8640 IN A 141.85.254.48
+agni.arh 8640 IN A 141.85.252.94
+nare.renerg 8640 IN A 141.85.254.137
+fcint 8640 IN A 141.85.166.34
+www.bioglyval 8640 IN CNAME bioglyval
+elth 8640 IN NS faraday.elth
+ns2.ncit 8640 IN A 141.85.164.62
+cempdi 8640 IN NS gw.cempdi
+8640 IN NS ns.reu
+merlot 8640 IN MX 10 pub
+merlot 8640 IN A 141.85.130.19
+mailsvr.cont-edu 8640 IN A 141.85.255.96
+isb 8640 IN A 141.85.254.51
+isc 8640 IN NS ns.isc
+tetrc 8640 IN NS ns.tetrc
+ariana 8640 IN CNAME ariana.roedu.net.
+aism-gw 8640 IN A 141.85.31.10
+p24.eregie 8640 IN A 141.85.0.124
+sigma.tv 8640 IN A 141.85.254.118
+study.energ 8640 IN A 141.85.254.104
+alel.hertz 8640 IN A 141.85.252.151
+refin 8640 IN NS elfin.refin
+ost 8640 IN CNAME web-tet
+ferrari.lce 8640 IN A 141.85.254.179
+orfeu 8640 IN NS ns.orfeu
+ccsr 8640 IN A 141.85.0.94
+web.web 8640 IN A 141.85.114.65
+z-gw 8640 IN A 141.85.31.200
+www.translu 8640 IN CNAME srv-web
+router-pub.decanat 8640 IN A 141.85.29.16
+www.automatica40 8640 IN CNAME acs
+marco 8640 IN A 141.85.155.25
+www.mrcf 8640 IN CNAME srv-web
+www.sim 8640 IN A 141.85.36.100
+energy 8640 IN MX 10 energy
+8640 IN MX 50 pub
+energy 8640 IN A 141.85.0.24
+decanat.chimie 8640 IN A 141.85.252.153
+www.speed 8640 IN CNAME speed
+iaim-gw 8640 IN A 141.85.31.25
+www.ski 8640 IN A 195.225.110.5
+news 8640 IN CNAME news.roedu.net.
+ns.atlas 8640 IN A 141.85.252.194
+mdd.combustion 8640 IN A 141.85.254.127
+manageridesucces 8640 IN A 141.85.166.6
+elia 8640 IN NS vala.elia
+chfiz 8640 IN NS prim.chfiz
+ns.rectorat 8640 IN A 141.85.116.2
+www.sme 8640 IN CNAME www.iem
+environheal 8640 IN NS ns.environheal
+ns.clubimst 8640 IN A 141.85.252.173
+vic.tsocm 8640 IN A 141.85.253.94
+ns.cco 8640 IN A 141.85.254.119
+calex-academia 8640 IN CNAME srv-web
+decid 8640 IN NS ns.decid
+rodica 8640 IN A 141.85.99.135
+www.d198 8640 IN CNAME ns.d198
+www.d209 8640 IN A 141.85.117.209
+fluid-power 8640 IN MX 5 fluid.fluid-power
+cirrus 8640 IN NS ns.cirrus
+opto 8640 IN NS ns.tef
+cal.diag 8640 IN A 141.85.252.133
+e92.eregie 8640 IN A 141.85.0.92
+www.itsnetwork 8640 IN CNAME itsnetwork
+www.tet 8640 IN CNAME web-tet
+propulsion 8640 IN NS coanda.propulsion
+maris 8640 IN CNAME web-tet
+vlab 8640 IN NS ns.vlab
+trafing 8640 IN MX 5 tehtr.trafing
+trafing 8640 IN NS tehtr.trafing
+xa1-gw 8640 IN A 192.129.3.251
+www.ecomet 8640 IN CNAME ecomet
+ns.shannon 8640 IN A 141.85.228.5
+ns1.cloud 8640 IN A 141.85.204.3
+ns.trantor 8640 IN A 141.85.228.5
+lce 8640 IN NS ferrari.lce
+decimst 8640 IN NS ns.decimst
+laan 8640 IN MX 10 naal.profis.ro.
+laan 8640 IN A 141.85.130.42
+polifest 8640 IN A 141.85.166.6
+ns1.cs 8640 IN A 141.85.226.5
+hpc 8640 IN NS ns.hpc
+8640 IN NS ns1.cs
+8640 IN NS ns2.cs
+remaster 8640 IN A 192.129.3.73
+televiziuneameadepractica 8640 IN CNAME srv-web
+osticket 8640 IN A 141.85.166.20
+studentitest 8640 IN A 141.85.166.20
+cepes-gw 8640 IN A 192.129.3.204
+ns.sunsite 8640 IN A 141.85.149.1
+www.studenti 8640 IN CNAME studenti
+p15.eregie 8640 IN A 141.85.0.115
+microclub 8640 IN CNAME srv-web
+speed 8640 IN MX 1 aspmx.l.google.com.
+8640 IN MX 5 alt1.aspmx.l.google.com.
+8640 IN MX 5 alt2.aspmx.l.google.com.
+8640 IN MX 10 aspmx2.googlemail.com.
+8640 IN MX 10 aspmx3.googlemail.com.
+speed 8640 IN A 141.85.252.223
+gw.dce 8640 IN MX 5 dce
+gw.dce 8640 IN A 141.85.252.171
+tech 8640 IN NS info.tech
+leu 8640 IN NS ns.leu
+munde 8640 IN MX 0 sigma.munde
+munde 8640 IN NS sigma.munde
+web-tet 8640 IN A 141.85.6.7
+systems 8640 IN CNAME systems.cs
+student-gw 8640 IN A 141.85.31.23
+www.isste 8640 IN CNAME web-tet
+translu 8640 IN CNAME srv-web
+snct 8640 IN NS cem.snct
+klingon 8640 IN MX 50 pub
+site.fils 8640 IN A 141.85.193.204
+alma.eltrans 8640 IN A 141.85.6.6
+bip.golana 8640 IN A 141.85.254.68
+u3.med 8640 IN A 141.85.0.73
+www.rcpc 8640 IN A 141.85.254.125
+rc.tet 8640 IN A 141.85.166.6
+clri.dri 8640 IN A 141.85.96.129
+protmed 8640 IN NS svs.protmed
+ns.cms 8640 IN A 141.85.252.164
+cfic 8640 IN NS sun.cfic
+cmmip 8640 IN NS server.cmmip
+biodyn-snmp 8640 IN A 141.85.30.20
+rectorat 8640 IN NS ns.rectorat
+8640 IN NS ns1.rectorat
+mag 8640 IN NS mag.mag
+info.telecom 8640 IN CNAME ghs.google.com.
+hplab 8640 IN NS ovnnm.hplab
+www.casapasiva 8640 IN CNAME casapasiva
+www.televiziuneameadepractica 8640 IN CNAME srv-web
+clubimst 8640 IN NS ns.clubimst
+unesco 8640 IN NS eeee.unesco
+chimie 8640 IN NS decanat.chimie
+zircon.mESsnet 8640 IN A 141.85.254.47
+atlas 8640 IN NS ns.atlas
+www.chim 8640 IN CNAME srv-web
+www.ingtrans-ccpct 8640 IN CNAME srv-web
+www.flavia 8640 IN CNAME srv-web
+ns2.grid 8640 IN A 141.85.164.62
+p11.eregie 8640 IN A 141.85.0.111
+csit-sun 8640 IN NS server.csit-sun
+apel.apar 8640 IN A 141.85.254.75
+ns.d200 8640 IN A 141.85.117.200
+cdn-snmp 8640 IN A 141.85.30.8
+ns2.cs 8640 IN A 141.85.241.113
+ns.d203 8640 IN A 141.85.117.203
+ns.audio 8640 IN A 141.85.255.183
+ns.d195 8640 IN A 141.85.117.195
+ns.d196 8640 IN A 141.85.117.196
+ns.d197 8640 IN A 141.85.117.197
+ns.d198 8640 IN A 141.85.117.198
+ns.d199 8640 IN A 141.85.117.199
+ns.d201 8640 IN A 141.85.117.201
+socrates.philos 8640 IN A 141.85.254.83
+d200 8640 IN NS ns.d200
+d201 8640 IN NS ns.d201
+d202 8640 IN NS ns.d202
+d203 8640 IN NS ns.d203
+d194 8640 IN NS ns.d194
+d195 8640 IN NS ns.d195
+d196 8640 IN NS ns.d196
+ccrouter.cc 8640 IN A 141.85.35.1
+8640 IN A 141.85.254.35
+physics 8640 IN NS physics1.physics
+d199 8640 IN NS ns.d199
+kim.thinfilm 8640 IN A 141.85.254.95
+ns.d194 8640 IN A 141.85.117.194
+newsys-gw 8640 IN A 192.129.3.139
+tet.eltrans 8640 IN A 141.85.123.2
+mgm 8640 IN MX 10 pub
+mgm 8640 IN A 141.85.130.60
+rotrib 8640 IN CNAME meca.omtr
+ns.ai 8640 IN A 141.85.255.172
+e87.eregie 8640 IN A 141.85.0.87
+cneaa-gw 8640 IN A 192.129.3.138
+ldc-gw 8640 IN A 192.129.3.23
+unicas.decanat-upb 8640 IN A 141.85.29.226
+sigma.munde 8640 IN A 141.85.254.73
+elmed 8640 IN NS leim.elmed
+kappa-pub-4 8640 IN A 192.129.3.254
+laps 8640 IN MX 5 laps
+laps 8640 IN A 141.85.169.122
+mail.elt 8640 IN A 141.85.117.196
+www.biblio.inf 8640 IN A 141.85.36.100
+atf-gw 8640 IN A 192.129.3.130
+eregie 8640 IN NS ns1.eregie
+8640 IN NS ns2.eregie
+e85.eregie 8640 IN A 141.85.0.85
+imt-snmp 8640 IN A 141.85.30.12
+thai.oxy 8640 IN A 141.85.115.1
+uscd 8640 IN A 141.85.166.23
+tmr 8640 IN CNAME www.tmr
+iris1.trans 8640 IN A 141.85.254.50
+mmi 8640 IN NS mix.mmi
+rector 8640 IN NS main.rector
+VLAN4-kappa-Xgw 8640 IN A 192.129.3.206
+ns.aqcsimst 8640 IN A 141.85.252.197
+www.ifia 8640 IN A 141.85.60.1
+ns.d202 8640 IN A 141.85.117.202
+u6.med 8640 IN A 141.85.0.76
+electro.masuri 8640 IN A 141.85.254.106
+alpha.amotion 8640 IN A 141.85.41.1
+8640 IN A 141.85.254.41
+enel.tdee 8640 IN A 141.85.254.122
+alpha.co 8640 IN A 141.85.0.20
+abulafia 8640 IN MX 50 pub
+ns.ieee 8640 IN A 141.85.37.8
+railnewcastle 8640 IN A 141.85.166.6
+server1 8640 IN CNAME NS
+aqcsimst 8640 IN NS ns.aqcsimst
+VLAN1-kappa-Ygw 8640 IN A 192.129.3.225
+aurut 8640 IN NS aro1.aurut
+ieee 8640 IN NS ns.ieee
+ns.cirrus 8640 IN A 141.85.228.5
+lenb-gw 8640 IN A 141.85.130.57
+www.posdru 8640 IN CNAME posdru
+hydrop 8640 IN A 141.85.253.151
+d197 8640 IN NS ns.d197
+groz-b1.med 8640 IN A 141.85.0.77
+chim 8640 IN NS router.chim
+audio 8640 IN NS ns.audio
+lsci 8640 IN NS ns.lsci
+www.simularetransporturi 8640 IN A 141.85.166.6
+centrale 8640 IN NS cet.centrale
+sorel 8640 IN NS ns.sorel
+msp 8640 IN NS imst.msp
+eprof 8640 IN NS ns.eprof
+aslan-gw 8640 IN A 141.85.31.27
+ap-imt-snmp 8640 IN A 141.85.30.11
+ingtrans 8640 IN CNAME srv-web
+tmssud 8640 IN NS maza.tmssud
+anorg-gw 8640 IN A 141.85.31.36
+ns.electronics 8640 IN A 141.85.254.53
+szi.colel 8640 IN A 141.85.254.105
+r-transp 8640 IN A 141.85.1.6
+ns2 8640 IN CNAME tristan
+ns.fim 8640 IN A 141.85.163.1
+esfs.ddes 8640 IN A 141.85.253.85
+miledu-snmp 8640 IN A 141.85.30.14
+usis-gw 8640 IN A 192.129.3.149
+sitcom.sim 8640 IN CNAME www.sim
+tms 8640 IN A 141.85.166.23
+ecosys 8640 IN NS ns.ecosys
+potez.aero 8640 IN A 141.85.253.65
+p9.eregie 8640 IN A 141.85.0.109
+autodiscover.etti 8640 IN CNAME autodiscover.outlook.com.
+www.rc.tet 8640 IN CNAME rc.tet
+x-gw 8640 IN CNAME kappa-gw.bucharest.roedu.net.
+emsad.cpru 8640 IN A 141.85.252.85
+star.tezaur 8640 IN A 141.85.254.109
+www.mobcomm 8640 IN A 141.85.151.166
+ns.ceospacetech 8640 IN A 141.85.254.169
+ciid 8640 IN NS argus.ciid
+lprog 8640 IN NS beta.lprog
+tinocip 8640 IN CNAME srv-web
+ccdsb 8640 IN A 141.85.254.51
+ns.ges 8640 IN A 141.85.228.5
+bsad 8640 IN A 141.85.47.1
+argus.ciid 8640 IN A 141.85.254.134
+roma.mcma 8640 IN A 141.85.254.100
+nsn 8640 IN NS ns.nsn
+nini-snmp 8640 IN A 141.85.30.9
+ns1.cti 8640 IN A 141.85.226.5
+prod 8640 IN MX 10 teh.prod
+prod 8640 IN NS teh.prod
+lsg-gw 8640 IN MX 10 lsg-gw
+8640 IN MX 20 pub
+lsg-gw 8640 IN A 192.129.3.11
+admiteretest 8640 IN A 141.85.166.28
+www.maimultesanse 8640 IN CNAME srv-web
+ifia 8640 IN A 141.85.254.60
+biosinf 8640 IN A 141.85.252.230
+www.fils 8640 IN CNAME ing
+ns.puer 8640 IN A 141.85.252.252
+www.sigmatv 8640 IN CNAME sigmatv
+comunicare-gw 8640 IN A 192.129.3.236
+lyncdiscover.etti 8640 IN CNAME webdir.online.lync.com.
+doctoranzi 8640 IN A 141.85.166.34
+cimp 8640 IN NS ns.cimp
+cimr 8640 IN NS icar.cimr
+ns.met-nef 8640 IN A 141.85.254.61
+labms 8640 IN NS ns.labms
+coanda.propulsion 8640 IN A 141.85.97.1
+ergo.cael 8640 IN A 141.85.254.82
+ctanm 8640 IN NS tempus.labsmn
+medicina-snmp 8640 IN A 141.85.30.4
+theta-2-gw 8640 IN A 141.85.31.13
+fiab 8640 IN NS cce.fiab
+matnantech 8640 IN MX 10 matnantech
+matnantech 8640 IN A 141.85.31.130
+edil.edil 8640 IN A 141.85.252.46
+e69.eregie 8640 IN A 141.85.0.69
+tempus 8640 IN MX 50 pub
+romdsp 8640 IN NS gelu.romdsp
+amcsit.amcsit 8640 IN A 141.85.114.80
+vali.eltrans 8640 IN A 141.85.123.42
+p19.eregie 8640 IN A 141.85.0.119
+fils1 8640 IN A 141.85.36.199
+mag.mag 8640 IN A 141.85.254.154
+mfcmi 8640 IN A 141.85.241.161
+el.poweng 8640 IN MX 0 el.poweng
+el.poweng 8640 IN A 141.85.254.148
+castor.cut1 8640 IN A 141.85.252.155
+e67.eregie 8640 IN A 141.85.0.67
+ingear 8640 IN CNAME eap.cs
+m386 8640 IN MX 10 bip.golana
+8640 IN MX 50 pub
+m386 8640 IN A 141.85.68.129
+VLAN2-kappa-Xgw 8640 IN A 192.129.3.14
+router.indinf 8640 IN A 141.85.254.44
+combustion 8640 IN NS mdd.combustion
+oblio.imt 8640 IN A 141.85.254.92
+tidcem 8640 IN NS eeee.unesco
+qed 8640 IN NS p200.qed
+groz-e.med 8640 IN A 141.85.0.79
+jmonnet-gw 8640 IN A 192.129.3.234
+mail.ing 8640 IN MX 0 mail.ing
+mail.ing 8640 IN A 141.85.36.196
+e89.eregie 8640 IN A 141.85.0.89
+ump 8640 IN A 141.85.166.6
+www.ihrg 8640 IN CNAME ihrg
+unibuc-filosofie-gw 8640 IN A 141.85.130.102
+www.spms 8640 IN A 141.85.253.181
+ns.mechstruct 8640 IN A 141.85.252.136
+faraday.elth 8640 IN A 141.85.48.1
+e-regie 8640 IN A 141.85.29.152
+pop 8640 IN A 141.85.130.110
+gipppp 8640 IN A 141.85.130.72
+comm 8640 IN NS mbr.comm
+8640 IN NS comdat.comm
+www.automobile-hibride 8640 IN CNAME srv-web
+faima 8640 IN A 141.85.252.135
+semce 8640 IN CNAME srv-web
+oxy 8640 IN NS thai.oxy
+sip.etti 8640 IN CNAME sipdir.online.lync.com.
+www.faima 8640 IN CNAME faima
+ns.dcae 8640 IN A 141.85.252.94
+unibuc-chim-gw 8640 IN A 141.85.31.30
+euro.micro 8640 IN A 141.85.253.165
+acpc 8640 IN NS router.indinf
+bestdpx.power-dept 8640 IN A 141.85.33.1
+ns.hpc 8640 IN A 141.85.164.2
+dcae 8640 IN NS ns.dcae
+mESsnet 8640 IN NS zircon.mESsnet
+caa-gw 8640 IN A 141.85.31.100
+fils 8640 IN CNAME ing
+pub 8640 IN A 141.85.128.1
+VLAN2-kappa-Ygw 8640 IN A 192.129.3.9
+pue 8640 IN A 141.85.253.169
+www.cmim 8640 IN CNAME srv-web
+puer 8640 IN NS ns.puer
+dotnet 8640 IN A 141.85.254.250
+marconi 8640 IN NS ns.marconi
+mail.telecom 8640 IN CNAME ghs.google.com.
+forum.med 8640 IN CNAME med
+acse 8640 IN NS ns1.cs
+8640 IN NS ns1.grid
+8640 IN NS ns2.cs
+ns.shields 8640 IN A 141.85.141.1
+www.feromat0668 8640 IN A 141.85.166.6

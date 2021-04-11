@@ -1,0 +1,25 @@
+@ 86400 IN SOA ns1.dataflamedns.com. servers.dataflame.com. 2014101003 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns1.dataflamedns.com.
+86400 IN NS ns2.dataflamedns.com.
+@ 14400 IN A 91.103.216.39
+ftp 14400 IN A 91.103.216.39
+autodiscover.english 14400 IN A 91.103.216.39
+default._domainkey.medani 14400 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAJ/KvP7TEe3EHp4qGeEyfwOKI+jpmIN10IX1CSsT9On+eviBeVjm1D92Q+L+OtvOy7dByrQ8F6LUj1z00QVWsgLqZQOIl/wWgrI2IVyzwi9dmw/vr7J8dudGxloDfWVjswIDAQAB;"
+default._domainkey 14400 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAN368N5SwRKe7Oj3OHhGOeIPk4nwsY1lloqPhdfpRLuAlzvzSDnD8T534A2PiKTtek+BuGv9TGbH6PL3QAnI1EEYLeoovt/Phk20SZ6F5ibqTVZFPY7+qIRDseSBqu6yrQIDAQAB;"
+default._domainkey.english 14400 IN TXT "k=rsa; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAL0IsnanO72Jc9SvtHaUL5SK62kd3pZkaviLCfkBZ+fJUJ9vX5hLg43Kb4G60PYum1zQEK1x2zjHSvWlRkj683DMb7/dOo5d6zFjZKd85whRebOCk53HzBWk8j/ORX1ywwIDAQAB;"
+localhost 14400 IN A 127.0.0.1
+webmail 14400 IN A 91.103.216.39
+mail 14400 IN CNAME @
+_autodiscover._tcp.english 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+cpanel 14400 IN A 91.103.216.39
+www 14400 IN CNAME @
+www.english 14400 IN A 91.103.216.39
+autoconfig.english 14400 IN A 91.103.216.39
+english 14400 IN A 91.103.216.39
+webdisk.english 14400 IN A 91.103.216.39
+autoconfig 14400 IN A 91.103.216.39
+autodiscover 14400 IN A 91.103.216.39
+whm 14400 IN A 91.103.216.39
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk 14400 IN A 91.103.216.39

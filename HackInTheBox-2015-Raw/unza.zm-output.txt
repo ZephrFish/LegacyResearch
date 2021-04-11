@@ -1,0 +1,37 @@
+@ 38400 IN SOA @ root 1996121000 10800 3600 604800 38400
+@ 38400 IN NS ns1
+@ 38400 IN MX 10 filter
+reg 38400 IN A 41.63.24.230
+ns1 38400 IN A 41.63.1.10
+ns2 38400 IN A 41.63.1.254
+law 38400 IN A 41.63.1.33
+medicine 38400 IN A 41.63.1.33
+observium 38400 IN A 192.168.99.13
+filter 38400 IN A 41.63.1.12
+ide 38400 IN A 41.63.1.33
+impala 38400 IN A 41.63.1.21
+people 38400 IN A 41.63.1.33
+students 38400 IN A 41.63.1.33
+moodle 38400 IN A 41.63.1.26
+mail 38400 IN CNAME mailhost2
+www.lusakastar 38400 IN A 41.63.1.2
+cobra 38400 IN CNAME ns1
+graduate 38400 IN A 41.63.1.33
+naturalsciences 38400 IN A 41.63.1.33
+registration 38400 IN A 41.63.1.2
+education 38400 IN A 41.63.1.33
+www 38400 IN A 41.63.1.33
+radius 38400 IN A 41.63.1.19
+mailhost2 38400 IN A 41.63.1.22
+vet 38400 IN A 41.63.1.33
+dspace 38400 IN A 41.63.24.229
+mines 38400 IN A 41.63.1.33
+www.confucius 38400 IN A 41.63.1.2
+alumni 38400 IN A 41.63.1.33
+humanities 38400 IN A 41.63.1.33
+library 38400 IN A 41.63.1.33
+cs 38400 IN A 41.63.24.249
+engineering 38400 IN A 41.63.1.33
+agric 38400 IN A 41.63.1.33
+mail1 38400 IN CNAME impala1
+news 38400 IN A 41.63.1.33

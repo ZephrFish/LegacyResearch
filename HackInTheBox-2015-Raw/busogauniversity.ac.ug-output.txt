@@ -1,0 +1,11 @@
+@ 86400 IN SOA ns5.lunarbreeze.com. alerts.lunarpages.com. 2014091801 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 +a +mx +ip4:64.50.186.28 ~all"
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns5.lunarbreeze.com.
+86400 IN NS ns6.lunarbreeze.com.
+@ 14400 IN A 64.50.186.35
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDrwptw7lu43nPiHTOFPkpR2+Tea/UM0qpCS+EisGtjEB+W8iHHdUSKkesLMGME/r4RLr3mQq1MlXrv+KKmj6oiBRaIGZPYMVCLZ2L5wXRZg/wYFRP4oE2wavcnx3BYuzH/UxqpAooAaJFrfKe7xECDiFj9QwXdeplJixVO+aDzRQIDAQAB;"
+localhost 14400 IN A 127.0.0.1
+ftp 14400 IN A 64.50.186.35
+www 14400 IN CNAME @
+mail 14400 IN CNAME @

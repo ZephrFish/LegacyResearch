@@ -1,0 +1,128 @@
+@ 3600 IN SOA shiroka administrator 2910532251 10800 600 86400 3600
+@ 3600 IN NS dns.ukim.mk.
+3600 IN NS shiroka
+@ 600 IN A 195.8.222.36
+@ 3600 IN MX 10 mail
+3600 IN MX 19 pelister
+3600 IN MX 20 webmail
+_kpasswd._udp 600 IN SRV 0 100 464 shiroka
+www.upisi 3600 IN A 194.149.159.70
+www.ftu 3600 IN A 195.26.152.196
+www.vsradio 3600 IN A 194.149.158.137
+_ldap._tcp.pdc._msdcs 600 IN SRV 0 100 389 shiroka
+fbn 3600 IN NS dns1.mk-host4.com.
+3600 IN NS dns2.mk-host4.com.
+_ldap._tcp.default-first-site-name._sites.gc._msdcs 600 IN SRV 0 100 3268 shiroka
+_ldap._tcp.dc._msdcs 600 IN SRV 0 100 389 shiroka
+rout-tf 3600 IN A 194.149.158.62
+www 3600 IN A 195.8.222.36
+odl-fte 3600 IN A 194.149.158.145
+www.fb 3600 IN A 62.162.77.89
+v1 3600 IN A 195.8.222.36
+v2 3600 IN A 195.8.222.36
+iknow2 3600 IN A 88.85.125.77
+dns1.urnebeshost.info. 3600 IN A 94.229.66.210
+_kerberos._tcp.default-first-site-name._sites 600 IN SRV 0 100 88 shiroka
+www.alumni 3600 IN A 195.8.222.36
+hidro 3600 IN A 194.149.158.241
+www.ukloinfo 3600 IN A 194.149.159.70
+www.dinaquf 3600 IN A 194.149.159.77
+webmail 3600 IN A 194.149.158.140
+rout-fut 3600 IN A 194.149.158.126
+cisco 3600 IN A 194.149.159.59
+www.vfb 3600 IN A 194.149.159.76
+www.eccfp 3600 IN A 195.8.222.39
+www.mail 3600 IN A 194.149.158.129
+_ldap._tcp.gc._msdcs 600 IN SRV 0 100 3268 shiroka
+_gc._tcp.default-first-site-name._sites 600 IN SRV 0 100 3268 shiroka
+kopanki 3600 IN A 194.149.158.130
+tfb 3600 IN A 195.8.222.32
+tfb 3600 IN MX 10 aspmx.l.google.com.
+tfb 3600 IN TXT "google-site-verification=NzkT5m6JQcBk8rwzON8__9WSPPksZSuFp7IAsrpu-Mw"
+vsradio 3600 IN A 194.149.158.137
+rout-mub 3600 IN A 194.149.159.190
+www.v1 3600 IN A 195.8.222.36
+www.v2 3600 IN A 195.8.222.36
+www.pfk 3600 IN A 194.149.159.75
+www.nuubbt 3600 IN A 194.149.159.133
+mail 3600 IN A 194.149.158.129
+sterna 3600 IN A 194.149.158.65
+ftu 3600 IN A 195.26.152.196
+localhost 3600 IN A 127.0.0.1
+kredo 3600 IN A 194.149.159.77
+www.icest2007 3600 IN A 194.149.158.36
+_gc._tcp 600 IN SRV 0 100 3268 shiroka
+shiroka 3600 IN A 194.149.159.69
+www.ssuko 3600 IN A 194.149.158.141
+dns11.mk-host.com. 3600 IN A 107.151.6.163
+imba.mk-host.com. 3600 IN A 108.175.167.74
+mail.tfb 3600 IN A 88.85.125.76
+iknow 3600 IN A 194.149.159.70
+vmsb 3600 IN NS dns1.urnebeshost.info.
+3600 IN NS dns2.urnebeshost.info.
+dns5.mk-host.com. 3600 IN A 108.175.167.75
+dns1.mk-host4.com. 3600 IN A 92.55.94.14
+ttfv 3600 IN NS dns10.mk-host.com.
+3600 IN NS dns11.mk-host.com.
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs 600 IN SRV 0 100 88 shiroka
+mail.fb 3600 IN A 195.26.152.196
+pfbt 3600 IN NS dns4.mk-host.com.
+3600 IN NS dns5.mk-host.com.
+3600 IN NS imba.mk-host.com.
+dinaquf 3600 IN A 194.149.159.77
+dns2.mk-host4.com. 3600 IN A 92.55.94.14
+dns2.urnebeshost.info. 3600 IN A 94.229.66.109
+a84e85a5-993d-44bb-9cad-2716054a220d._msdcs 600 IN CNAME shiroka
+_kerberos._tcp.dc._msdcs 600 IN SRV 0 100 88 shiroka
+upisi 3600 IN A 194.149.159.70
+gc._msdcs 600 IN A 62.162.70.2
+600 IN A 194.149.158.136
+600 IN A 194.149.158.137
+600 IN A 194.149.158.138
+600 IN A 194.149.158.139
+600 IN A 194.149.158.140
+600 IN A 194.149.158.141
+600 IN A 194.149.159.69
+uklofm 3600 IN A 194.149.158.134
+mail.mail 3600 IN MX 10 mail
+nuubbt 3600 IN A 194.149.159.133
+vfb 3600 IN A 194.149.159.76
+dns10.mk-host.com. 3600 IN A 107.151.6.162
+www.fikt 3600 IN A 67.220.183.122
+rout-vms 3600 IN A 194.149.158.190
+_kerberos._tcp 600 IN SRV 0 100 88 shiroka
+pastrmka 3600 IN A 194.149.158.97
+alumni 3600 IN A 195.8.222.36
+www.cisco 3600 IN A 194.149.159.59
+pfk 3600 IN A 194.149.159.75
+_ldap._tcp.99a9404e-4617-4a5c-b8cf-f9b40d78191c.domains._msdcs 600 IN SRV 0 100 389 shiroka
+pelister 3600 IN A 194.149.158.129
+www.webmail 3600 IN A 194.149.158.140
+mermer 3600 IN A 194.149.158.66
+vms 3600 IN A 194.149.158.177
+letnica 3600 IN A 194.149.158.98
+mubbt 3600 IN A 194.149.159.129
+_kpasswd._tcp 600 IN SRV 0 100 464 shiroka
+neolica 3600 IN A 194.149.158.35
+molika 3600 IN A 194.149.158.34
+rout-ef 3600 IN A 194.149.158.94
+www.uklofm 3600 IN A 194.149.158.134
+_kerberos._udp 600 IN SRV 0 100 88 shiroka
+www.odl-fte 3600 IN A 194.149.158.145
+www.iknow 3600 IN A 194.149.159.70
+rout-rek 3600 IN A 194.149.158.142
+_ldap._tcp.default-first-site-name._sites.dc._msdcs 600 IN SRV 0 100 389 shiroka
+eccfp 3600 IN A 195.8.222.39
+rout-hi 3600 IN A 194.149.158.246
+www.iknow2 3600 IN A 88.85.125.77
+icest2007 3600 IN A 194.149.158.36
+_ldap._tcp.default-first-site-name._sites 600 IN SRV 0 100 389 shiroka
+fikt 3600 IN A 67.220.183.122
+_ldap._tcp 600 IN SRV 0 100 389 shiroka
+www.tfb 3600 IN A 195.8.222.32
+ukloinfo 3600 IN A 194.149.159.70
+fb 3600 IN A 62.162.77.89
+fb 3600 IN MX 10 paladin.mt.net.mk.
+3600 IN MX 20 paladin2.mt.net.mk.
+dns4.mk-host.com. 3600 IN A 108.175.167.75
+www.kredo 3600 IN A 194.149.159.77

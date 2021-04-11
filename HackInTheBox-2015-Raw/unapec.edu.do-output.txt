@@ -1,0 +1,143 @@
+@ 172800 IN SOA ns1 elandestoy.adm 2015042203 1500 600 604800 86400
+@ 300 IN MX 0 unapec-edu-do.mail.protection.outlook.com.
+@ 60 IN A 191.238.43.252
+@ 3600 IN NS ns1
+3600 IN NS ns2
+@ 300 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 60 IN AAAA 2801:0:80:1391::20
+foro 3600 IN CNAME webs2
+educont 3600 IN CNAME a.srv
+looker 60 IN AAAA 2801:0:80:ff99::125
+looker 60 IN A 200.14.79.125
+_sip._tls.idiomas 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+repositorio 3600 IN A 200.14.79.124
+unapec-uc 3600 IN A 200.14.79.20
+graduados 3600 IN CNAME webs2
+www.moodle 3600 IN CNAME moodle
+ssnx 3600 IN CNAME webs2
+adquisicionesbiblioteca 3600 IN CNAME webs2
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+ns1 3600 IN A 200.14.79.35
+ns1 60 IN AAAA 2801:0:80:1392::35
+_sip._tls.adm 60 IN SRV 100 1 443 sipdir.online.lync.com.
+admisiones 3600 IN A 200.14.79.20
+_dmarc.adm 3600 IN TXT "v=DMARC1; p=none; rua=mailto:viq2kd9p@ag.dmarcian.com"
+scm 3600 IN TXT "v=spfl a -all"
+scm 3600 IN A 200.14.79.34
+www 3600 IN CNAME @
+autodiscover.idiomas 3600 IN CNAME autodiscover.outlook.com.
+anuncios 3600 IN CNAME a.srv
+web.ca 3600 IN A 72.10.162.197
+sed 3600 IN A 200.14.79.20
+ceta 3600 IN CNAME webs2
+cdnssl 3600 IN CNAME vo.msecdn.net.
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+*.ezproxy2 3600 IN A 200.14.79.46
+inscripcion 3600 IN CNAME a.srv
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+forodocente 120 IN CNAME webs2
+cemprende 3600 IN CNAME webs2
+awverify.estudiantil 3600 IN CNAME awverify.estudiantilAzure.azurewebsites.net.
+web2 60 IN A 200.14.79.110
+eva 3600 IN A 200.14.79.43
+sip 3600 IN CNAME sipdir.online.lync.com.
+sip.adm 60 IN CNAME sipdir.online.lync.com.
+webmail 60 IN CNAME webs2
+geo 3600 IN A 69.197.182.130
+docentes 3600 IN A 200.14.79.115
+autodiscover.adm 3600 IN CNAME owa
+ge00.asa 60 IN A 200.14.79.3
+adm 60 IN TXT "MS=ms35582643"
+60 IN TXT "ms35582643.msv1.invalid.outlook.com"
+60 IN TXT "v=spf1 ip4:200.14.79.30 ip4:200.14.79.34 -all"
+60 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+60 IN TXT "o7EXDQ/jdrE/n7O+JERGUCl0VvC5z1BTpOfVNNRWMn8UZzpVtHIGD1RAC++emYokYT5ZQs+A4sgQgvM7Ue49eg=="
+adm 60 IN MX 5 scm
+60 IN MX 90 skyedge
+60 IN MX 95 adm-unapec-edu-do.mail.protection.outlook.com.
+adm 3600 IN A 200.14.79.44
+servicios 60 IN A 200.14.79.112
+moodle 3600 IN A 200.14.79.9
+webs2 3600 IN A 200.14.79.41
+autodiscover 60 IN CNAME autodiscover.outlook.com.
+webs 3600 IN CNAME webs2
+www.idiomas 3600 IN CNAME idiomas
+vdeagol 60 IN AAAA 2801:0:80:1391::15
+test 60 IN AAAA 2801:0:80:1391::15
+preguntas 3600 IN CNAME a.srv
+www.estudiantil 60 IN CNAME estudiantil
+ipv6 60 IN AAAA 2801:0:80:394::100
+suny 3600 IN A 200.14.79.20
+gollom 3600 IN A 200.14.79.20
+capacitacion 3600 IN CNAME webs2
+nuevo 3600 IN CNAME a.srv
+lyncdiscover.adm 60 IN CNAME webdir.online.lync.com.
+smtp 3600 IN A 200.14.79.49
+mse 3600 IN A 200.14.79.44
+autodiscovery 3600 IN CNAME owa
+orion 3600 IN CNAME webs2
+extranet 3600 IN CNAME webs2
+tecnologia 3600 IN A 200.14.79.20
+sites 3600 IN A 200.14.79.20
+api 3600 IN A 191.238.43.252
+ns2 3600 IN A 104.45.134.54
+app 3600 IN CNAME a.srv
+a.srv 3600 IN A 200.14.79.20
+movil 3600 IN A 200.14.79.20
+correo 60 IN CNAME webs2
+awverify.www.estudiantil 3600 IN CNAME awverify.estudiantilAzure.azurewebsites.net.
+estudiantil-k 60 IN A 200.14.79.111
+dispensario 3600 IN A 200.14.79.20
+evaec 3600 IN CNAME webs2
+mail 3600 IN A 66.128.53.7
+cdn 3600 IN CNAME az713802.vo.msecnd.net.
+estudiantil 60 IN A 200.14.79.111
+asa.troy 60 IN A 200.14.79.2
+cdnverify 3600 IN CNAME cdnverify.az713802.vo.msecnd.net.
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+files 3600 IN CNAME webs2
+idiomas 60 IN A 200.14.79.20
+idiomas 3600 IN MX 0 idiomas-unapec-edu-do.mail.protection.outlook.com.
+idiomas 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+pcl 3600 IN A 200.14.79.20
+*.ezproxy 3600 IN A 200.14.79.42
+portal 3600 IN A 200.14.79.20
+internacional 3600 IN CNAME a.srv
+asa.polux 60 IN A 200.14.79.1
+img 3600 IN CNAME a.srv
+_sipfederationtls._tcp.adm 60 IN SRV 100 1 5061 sipfed.online.lync.com.
+ns.ca 3600 IN A 72.10.162.195
+msoid.adm 60 IN CNAME clientconfig.microsoftonline-p.net.
+ezproxy 3600 IN A 200.14.79.42
+videoconf 3600 IN A 200.14.79.70
+servicedesk 3600 IN CNAME webs2
+web 60 IN A 200.14.79.110
+skyedge 3600 IN TXT "v=spfl a -all"
+skyedge 3600 IN A 200.14.79.30
+pagos 3600 IN A 200.14.79.116
+900435273 60 IN CNAME domains.live.com.
+dev 3600 IN CNAME webs2
+deagol 3600 IN A 200.14.79.15
+owa 3600 IN A 200.14.79.44
+portalv 60 IN A 200.14.79.20
+evamig 3600 IN CNAME webs2
+msoid.idiomas 3600 IN CNAME clientconfig.microsoftonline-p.net.
+vpn 3600 IN A 200.14.79.4
+sip.idiomas 3600 IN CNAME sipdir.online.lync.com.
+ezproxy2 3600 IN A 200.14.79.46
+lyncdiscover.idiomas 3600 IN CNAME webdir.online.lync.com.
+formaciondocente 3600 IN CNAME a.srv
+pruebas 3600 IN CNAME a.srv
+admagora 3600 IN A 200.14.79.20
+vpnlinks 3600 IN A 200.14.79.45
+_sipfederationtls._tcp.idiomas 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+egresados 3600 IN A 200.14.79.28
+biblioteca 3600 IN A 200.14.79.20
+boletin 3600 IN CNAME webs2
+avpro 3600 IN A 200.14.79.20
+calendario 3600 IN A 200.14.79.20
+cvs 60 IN AAAA 2801:0:80:394::98
+webservices 60 IN A 200.14.79.113
+webs.lb.srv 60 IN A 200.14.79.20
+mail.ca 3600 IN TXT "v=spfl a -all"
+mail.ca 3600 IN A 72.10.162.196

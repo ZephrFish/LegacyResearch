@@ -1,0 +1,16 @@
+@ 300 IN SOA unicenlp root.unicenlp 2008041700 10800 3600 86400 86400
+@ 300 IN NS unicenlp
+@ 300 IN MX 1 aspmx.l.google.com.
+300 IN MX 5 alt1.aspmx.l.google.com.
+300 IN MX 5 alt2.aspmx.l.google.com.
+300 IN MX 10 aspmx2.googlemail.com.
+300 IN MX 10 aspmx3.googlemail.com.
+@ 300 IN A 190.129.109.246
+dev 300 IN CNAME unicenlp
+www2 300 IN CNAME serverdar1
+www 300 IN CNAME unicenlp
+serverdar1 300 IN A 190.129.109.245
+mail 300 IN CNAME ghs.google.com.
+unicenlp 300 IN A 190.129.109.246
+siiaa 300 IN CNAME unicenlp
+google2f9b5e57576cc03a 300 IN CNAME google.com.

@@ -1,0 +1,26 @@
+@ 300 IN SOA ldmaster.kerala.gov.in. root.ldmaster 1819 3600 3600 1209600 3600
+@ 300 IN NS ldslave.kerala.gov.in.
+300 IN NS ldmaster.kerala.gov.in.
+@ 300 IN A 103.251.43.195
+@ 300 IN MX 10 mail
+dcb 300 IN A 103.251.43.195
+www.kucc 300 IN A 103.251.43.166
+www.exams 300 IN A 103.251.43.166
+iqac 300 IN A 103.251.43.53
+research 300 IN A 103.251.43.166
+kucc 300 IN A 103.251.43.166
+www.centres 300 IN A 103.251.43.166
+admissions 300 IN A 103.251.43.33
+www.research 300 IN A 103.251.43.166
+mail 300 IN A 103.251.43.53
+exams 300 IN A 103.251.43.166
+www.admissions 300 IN A 103.251.43.33
+www.qp 300 IN A 103.251.43.53
+www 300 IN A 103.251.43.195
+www.placement 300 IN A 103.251.43.166
+www.kadal 300 IN A 103.251.43.166
+placement 300 IN A 103.251.43.166
+qp 300 IN A 103.251.43.53
+centres 300 IN A 103.251.43.166
+www.iqac 300 IN A 103.251.43.53
+kadal 300 IN A 103.251.43.166

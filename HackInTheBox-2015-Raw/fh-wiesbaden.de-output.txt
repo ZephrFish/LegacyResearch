@@ -1,0 +1,125 @@
+@ 86400 IN SOA dns-1k.itc.hs-rm.de. hostmaster.hs-rm.de. 2015033002 43200 3600 2419200 10800
+@ 259200 IN MX 40 mx-1k.itc.hs-rm.de.
+259200 IN MX 100 mxin-1r.itc.hs-rm.de.
+259200 IN MX 80 mx-2k.itc.hs-rm.de.
+@ 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+jpmccc 3600 IN CNAME calvin.informatik
+sw 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+cebis 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+ut-wetter 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+mnd 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+iai 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+studbauing 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+dcsm 259200 IN NS gate1.informatik
+259200 IN NS wap05.informatik
+259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+fab 259200 IN NS hah.fab.hs-rm.de.
+259200 IN NS gate1.informatik
+259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+www.mi 259200 IN A 195.72.105.200
+bwl 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+fbg 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+e-technik 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+wap05.informatik 259200 IN A 195.72.96.5
+umwelttechnik 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+architektur 259200 IN NS hah.fab.hs-rm.de.
+259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+ingenieurwissenschaften 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+mnd-umwelttechnik 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+bibl 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+hpsrv1.cs 259200 IN A 172.25.16.10
+mndu 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+fb07m2.mb 259200 IN A 195.72.101.63
+fbw 259200 IN NS gate1.informatik
+itc 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+ite 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+cax 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS hah.fab.hs-rm.de.
+fb07serv.maschinenbau 259200 IN A 195.72.101.60
+mb 259200 IN NS fb07m2.mb
+259200 IN NS sap2.mb
+259200 IN NS cimserver.mb
+mi 259200 IN NS dns1.mi.hs-rm.de.
+259200 IN NS dns2.mi.hs-rm.de.
+259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+jpmcc 3600 IN CNAME calvin.informatik
+maschinenbau 259200 IN NS fb07serv.maschinenbau
+maschinebau 259000 IN NS smb-dc1.maschinenbau
+www 600 IN A 195.72.102.148
+sozialwesen 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+physik 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+sprachen 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+bauing 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+sap2.mb 259200 IN A 195.72.101.61
+gestaltung 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+asta 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+ivut 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+suk 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+informatik 259200 IN NS gate1.cs.hs-rm.de.
+259200 IN NS wap05.cs.hs-rm.de.
+259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+cs 259200 IN NS ganesh.cs
+259200 IN NS hpsrv2.cs
+sunsrv2.cs 259200 IN A 172.25.16.12
+medien 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs.rm.de.
+259200 IN NS gate1.informatik
+ing 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+fa 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+hpsrv2.cs 259200 IN A 172.25.16.11
+rz 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.
+259200 IN NS gate1.informatik
+gate1.informatik 259200 IN A 195.72.96.254
+kis 259200 IN NS dns-1k.itc.hs-rm.de.
+259200 IN NS dns-1d.itc.hs-rm.de.

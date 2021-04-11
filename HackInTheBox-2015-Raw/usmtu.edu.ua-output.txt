@@ -1,0 +1,24 @@
+@ 86400 IN SOA maingate hostmaster 2006022806 86400 3600 5184000 3600
+@ 86400 IN MX 10 maingate
+@ 86400 IN NS ns0.xname.org.
+86400 IN NS ns1.xname.org.
+86400 IN NS maingate
+@ 86400 IN A 217.77.209.254
+www.lib 86400 IN CNAME tvt
+www.weld 86400 IN CNAME tvt
+oldgate 86400 IN A 217.77.209.246
+ftp 86400 IN CNAME tvt
+newgate 86400 IN A 217.77.209.250
+www 86400 IN CNAME tvt
+maingate 86400 IN A 217.77.209.254
+etf 86400 IN NS newgate
+cs2 86400 IN A 217.77.213.64
+ns 86400 IN CNAME maingate
+pop3 86400 IN CNAME tvt
+mail 86400 IN CNAME tvt
+tvt 86400 IN CNAME maingate
+mbf 86400 IN MX 10 maingate
+mbf 86400 IN NS oldgate
+smtp 86400 IN CNAME tvt
+cc 86400 IN A 217.77.213.80
+cc 86400 IN NS cc

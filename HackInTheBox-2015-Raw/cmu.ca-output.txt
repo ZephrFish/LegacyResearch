@@ -1,0 +1,114 @@
+@ 86400 IN SOA ns.newwinnipeg.net. serveralerts.dedicatedhostsupport.com. 2015041609 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+14400 IN TXT "globalsign-domain-verification=inZaC-PUBgMPxe3Qea3qr4O99nQGr0Tj1YcYbOK-vT"
+@ 14400 IN MX 5 sieve.merlin.mb.ca.
+@ 86400 IN NS ns.newwinnipeg.net.
+86400 IN NS ns2.newwinnipeg.net.
+@ 14400 IN A 209.59.189.121
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+TmQdpTzb6731fiLmMEmLfSCXzQh20pAIGIFWVtqXCE0hEDX0tEgeAZygQRKjqHly+8gvriyn19e54kvdgtLBrYveVCb5JaUHBEYhz3jqvdunAGAbxOyYVJIwEZzTVjp9GSH722iZOofnmywRZcvnzaguQUf/PJcuqBpC9V9v5wIDAQAB;"
+11354506854580973318.student 3600 IN CNAME domains.live.com.
+sts.student 14400 IN A 216.73.73.10
+www.csop 14400 IN A 209.59.189.121
+autoconfig.marpeckcommons 14400 IN A 209.59.189.121
+camera 14400 IN A 216.73.73.17
+www.marpeckcommons 14400 IN A 209.59.189.121
+helpdesk 14400 IN A 216.73.73.12
+_autodiscover._tcp.marpeckcommons 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.msc 14400 IN A 209.59.189.121
+smailad 14400 IN A 216.73.73.9
+_sip._tls.student 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.outtatown 14400 IN A 209.59.189.121
+webdisk.msc 14400 IN A 209.59.189.121
+www 14400 IN CNAME @
+dzc 3600 IN TXT "ua1Yopf"
+autodiscover.peaceresearch 14400 IN A 209.59.189.121
+_autodiscover._tcp.outtatown 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autodiscover.outtatown 14400 IN A 209.59.189.121
+marpeckcommons 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+marpeckcommons 14400 IN A 209.59.189.121
+whm 14400 IN A 209.59.189.121
+autodiscover.student 3600 IN CNAME autodiscover.outlook.com.
+webdisk.student 14400 IN A 209.59.189.121
+peaceresearch.ca 14400 IN A 209.59.189.121
+default._domainkey.peaceresearch 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyByDVz4rQFzAEG2h4LurIli3WoFTTwmF8bMn0jsjIiu9OQuFsx1RdTlYUpULaYdpVC4XGN5V2C/dsyO/zPBsnr2EL03XnIroepdc2tuKubz5M7CEuqIzsXRbGF1kkFu513vBHRWR8VnAfCpqlOI5+gljIF+x9nZL5pOJdjKC/hwIDAQAB;"
+webmail 14400 IN A 209.59.189.121
+www.athletics 14400 IN A 209.59.189.121
+csop 14400 IN TXT "v=spf1 +a +mx +ip4:209.59.188.18 ~all"
+csop 14400 IN A 209.59.189.121
+webdisk.outtatown 14400 IN A 209.59.189.121
+_autodiscover._tcp.athletics 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+hotpursuit 14400 IN A 75.119.205.43
+moodle 14400 IN A 216.73.73.11
+peaceresearch 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+peaceresearch 14400 IN A 209.59.189.121
+autodiscover.athletics 14400 IN A 209.59.189.121
+www.foliocafe 14400 IN A 209.59.189.121
+autodiscover 3600 IN A 198.163.6.40
+ftp 14400 IN CNAME @
+mscollege.ca 14400 IN A 209.59.189.121
+cpanel 14400 IN A 209.59.189.121
+_autodiscover._tcp.foliocafe 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.msc 14400 IN A 209.59.189.121
+autodiscover.foliocafe 14400 IN A 209.59.189.121
+macserv 3600 IN A 216.73.73.7
+www.pit 14400 IN A 209.59.189.121
+www.student 3600 IN A 216.73.73.10
+media 3600 IN A 184.173.4.130
+autodiscover.msc 14400 IN A 209.59.189.121
+localhost 14400 IN A 127.0.0.1
+tsgateway 14400 IN A 216.73.73.6
+msc 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+msc 14400 IN A 209.59.189.121
+default._domainkey.marpeckcommons 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCYJlaBpfYT6CZB2IHtM1bdormL0Z7lPncSpnGROGLX3/rmvG/R8G/1fcjtgTSw0WpbfuSuR5wxBKKRbqcogyNzv60tvH/GoQqgd9z0QDfaM8TDnfSSY/YVudYB2LUzTcCS0/ba5p49UY04PE2CzXlXHyGV77+SZrWZ2wana6cJzQIDAQAB;"
+webdisk.pit 14400 IN A 209.59.189.121
+webdisk.athletics 14400 IN A 209.59.189.121
+mail2 14400 IN A 198.163.6.40
+staffportal 3600 IN A 216.73.73.4
+webdisk.csop 14400 IN A 209.59.189.121
+webdisk.foliocafe 14400 IN A 209.59.189.121
+autodiscover.marpeckcommons 14400 IN A 209.59.189.121
+smailweb 14400 IN A 216.73.73.10
+_autodiscover._tcp.msc 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+mail 3600 IN A 216.73.73.2
+default._domainkey.msc 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbNW8eFHZLLiarEiiNli0gs0UQ+kzTySeE4el8idFVuYco2i2k+dicme2Ot+1BTIoi8cQ9H3whMSDRguV5bi+rEwAlioKnepQe+kLqMKmSESNnNjzcMVVAc728kSPurAjD0Y185wHKeXwoYrQKxGhA2S+3a15OwjLIGR4Xo2xOLQIDAQAB;"
+autoconfig.outtatown 14400 IN A 209.59.189.121
+autoconfig.peaceresearch 14400 IN A 209.59.189.121
+default._domainkey.outtatown 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpkMfgYp2vy2A6P+UA5DJkOcRLmM4n+ZPZHG6Lu88T8Dr+2/QKJc7QFtGHU07Mr1rRUkQyDg6P7MMjrx0WNELcJrvrh8tGm5HYvxxENzF2Qx2OWR4qiMEzRTAAEWh0p0eSrcDJUwnj65Vq6arCBJe4wlmsSagwZ+TDJMSeVKUZnwIDAQAB;"
+outtatown 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+outtatown 14400 IN A 209.59.189.121
+_autodiscover._tcp.peaceresearch 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+*.ezproxy 3600 IN A 216.73.73.8
+default._domainkey.csop 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+4M/GwPr0qxQjS6vY04iIVGdkfCl9ht4V0Ov7hMLpM1jb6lY+GRcRoCdKelebGALtEfHCFjDvYrO8nnHdavtexoPKB/a9ir9BXXihAfRAHVBzZvWcQ/Z2LtrPSqPmFDctuLvvrQsnK6GjmG+dPYXxW1dVQHPFSh0W4Po98ivtrwIDAQAB;"
+autodiscover.pit 14400 IN A 209.59.189.121
+www2 3600 IN A 216.73.73.6
+autoconfig.pit 14400 IN A 209.59.189.121
+student 14400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+student 14400 IN MX 0 student-cmu-ca.mail.eo.outlook.com.
+student 3600 IN A 216.73.73.10
+ezproxy 14400 IN A 216.73.73.8
+webdisk.marpeckcommons 14400 IN A 209.59.189.121
+pit 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+pit 14400 IN A 209.59.189.121
+autoconfig.athletics 14400 IN A 209.59.189.121
+default._domainkey.student 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCYmBHl+/zJGEM3euz+ScI8t7u4+mt/3dmawb+Wba/mf8yr9kWQuKNEJMXc3C3gqFiXQAVcIGQCAHf7bbj0MVUppg5IbiW+QSpO/qvu+CqFM219VWGdzMKT5nbsNa2psUy6aeBm9BrpLtSfOkV1F4DziPopMh+aj8cRNeAU9oE5FQIDAQAB;"
+facultyportal 3600 IN A 216.73.73.13
+default._domainkey.athletics 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpDdgxPGciGCBvqJmGHcuThtrz/Icu42OuYUh4iBaF9BdgNIljOfQkBrye/3NFPcC/4t+Xfp4v3mG9XHNcy+tkzoY+QqPEeM5bRL1u82ZuZYw1f1jlSckoN6DLXCQLObKKgr2znX8g/dESyPdZ4iDEk+Pe0Pih/jzgDZvqryYsswIDAQAB;"
+athletics 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+athletics 14400 IN A 209.59.189.121
+autoconfig.foliocafe 14400 IN A 209.59.189.121
+vpn 14400 IN A 216.73.73.18
+www.media 3600 IN A 184.173.4.130
+webdisk.peaceresearch 14400 IN A 209.59.189.121
+default._domainkey.foliocafe 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTz70qnrsSp85iEB/AvEP/EIXccUUGLO5dJs61hN2SKcPuoYajkBwCVlDLOHgFB25pFqTrJ7dpfFzQtV/FqtBAeqOOzXQZ1CQ3Zdy8Gq4D1GfNYtZ4bpaujfku6XJV1QU+INSCRbVm21TryEaiz+whY56jsqh2QIF7/Gu/ozAoKwIDAQAB;"
+foliocafe 14400 IN TXT "v=spf1 ip4:209.59.188.18 +a +mx + ~all"
+foliocafe 14400 IN A 209.59.189.121
+www.peaceresearch 14400 IN A 209.59.189.121
+webdisk 14400 IN A 209.59.189.121
+msoid.student 3600 IN CNAME clientconfig.microsoftonline-p.net.
+_autodiscover._tcp.pit 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+sip.student 3600 IN CNAME sipdir.online.lync.com.
+lyncdiscover.student 3600 IN CNAME webdir.online.lync.com.
+av 3600 IN A 216.73.73.5
+default._domainkey.pit 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwc4I8J4NE7KuR0OilprmisxYTQgWdFIpXRV8o25xV3dr8RbTlLcsR9vmayp3u2NbcIg1nZD8ATyU+Yik9xy0Y4yPTEmGoLJ8ofVG9p0qDE4RfOf/1sCvDFWTKbbdIT1CS6IzXWwEtG4aJVgV6dqRlG7YrwpCBrTRLKPKA4tlAMQIDAQAB;"
+portal 3600 IN A 216.73.73.3
+_sipfederationtls._tcp.student 3600 IN SRV 100 1 5061 sipfed.online.lync.com.

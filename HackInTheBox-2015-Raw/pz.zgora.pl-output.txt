@@ -1,0 +1,15 @@
+@ 14400 IN SOA ns1.spirits.waw.pl. hostmaster 2015032701 14400 3600 1209600 86400
+@ 14400 IN MX 10 mail
+@ 14400 IN TXT "v=spf1 a mx ip4:193.17.184.84 ~all"
+@ 14400 IN A 91.228.198.29
+@ 14400 IN NS ns1.spirits.waw.pl.
+14400 IN NS ns2.spirits.waw.pl.
+pop 14400 IN A 91.228.198.29
+ftp 14400 IN A 91.228.198.29
+www 14400 IN A 91.228.198.29
+localhost 14400 IN AAAA ::1
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN A 91.228.198.29
+www.mproxy 14400 IN A 91.228.198.29
+mproxy 14400 IN A 91.228.198.29
+smtp 14400 IN A 91.228.198.29

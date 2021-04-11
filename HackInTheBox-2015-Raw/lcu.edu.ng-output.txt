@@ -1,0 +1,13 @@
+@ 14400 IN SOA vns1.nocdirect.com. admin.nocdirect.com. 2014120401 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS vns1.nocdirect.com.
+86400 IN NS vns2.nocdirect.com.
+@ 14400 IN A 69.73.188.30
+webdisk 14400 IN A 69.73.188.30
+ftp 14400 IN A 69.73.188.30
+cpanel 14400 IN A 69.73.188.30
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME @
+webmail 14400 IN A 69.73.188.30
+whm 14400 IN A 69.73.188.30

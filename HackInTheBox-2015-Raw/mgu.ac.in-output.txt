@@ -1,0 +1,33 @@
+@ 300 IN SOA ldmaster.kerala.gov.in. root.ldmaster 383 3600 3600 1209600 3600
+@ 300 IN NS ldslave.kerala.gov.in.
+300 IN NS ldmaster.kerala.gov.in.
+@ 300 IN A 103.251.43.46
+@ 300 IN MX 1 ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+300 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+300 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+300 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+bank 300 IN A 103.251.43.157
+www.mgucat 300 IN A 14.139.185.94
+www.results 300 IN A 210.212.24.27
+mgucat 300 IN A 14.139.185.94
+www.admission 300 IN A 14.139.185.90
+projects 300 IN A 14.139.185.85
+cap 300 IN A 220.226.4.16
+admission 300 IN A 14.139.185.90
+cat 300 IN A 103.251.43.97
+results 300 IN A 210.212.24.27
+mail 300 IN CNAME ghs.GOOGLE.COM.
+www.projects 300 IN A 14.139.185.85
+www 300 IN A 103.251.43.46
+www.library 300 IN A 14.139.185.93
+www.exam 300 IN A 117.211.83.222
+distance 300 IN A 14.139.185.88
+exam 300 IN A 117.211.83.222
+library 300 IN A 14.139.185.93
+www.distance 300 IN A 14.139.185.88
+www.cap 300 IN A 220.226.4.16
+www.cat 300 IN A 103.251.43.97
+www.bank 300 IN A 103.251.43.157
+recruitment 300 IN A 220.226.4.65
+www.recruitment 300 IN A 220.226.4.65

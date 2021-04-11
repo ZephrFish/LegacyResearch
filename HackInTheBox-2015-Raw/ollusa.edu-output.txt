@@ -1,0 +1,157 @@
+@ 1800 IN SOA indsun103 dlytle 3241665668 1800 600 1209600 300
+@ 60 IN A 216.248.213.51
+@ 300 IN NS ns2.twtelecom.net.
+300 IN NS undsun103
+300 IN NS inds1
+300 IN NS inds2
+300 IN NS indsun103
+@ 300 IN MX 0 lake
+@ 300 IN TXT "/3yVJVrIa+FUHHumqLbY6HLZgVaCEAn5su91R7jWrqZqVG1iPDoTGfqP/S822KEDTij82Pwu72ATmH6DOBwCPg=="
+300 IN TXT "MS=F387E29AD17C264EB62F292EE14C122D77748303"
+300 IN TXT "REY5lilkoc4l8l6LV/2A/xhV9OjLRHo5rgNYfmeP5UlHvvi7wVDb1uqzrAbgf6fOEDbwjWOgZimx3DMZFV2q/w=="
+300 IN TXT "MS=E287A4333374ED1EFB0D1E8E2325A4A34AB8EFF7"
+kadmin 300 IN CNAME cattura
+fs 300 IN A 216.248.213.30
+missions 300 IN CNAME ollumissions
+extweb 300 IN A 216.248.219.38
+_sip._tcp 300 IN SRV 10 10 5060 cvcsexpressway
+admissions 60 IN CNAME nonhosted.imodules.com.
+business 300 IN CNAME cissweb
+productionweb 300 IN A 216.248.213.119
+inds1 300 IN A 216.248.219.250
+inds2 300 IN A 216.248.219.251
+cvcsexpressway 300 IN A 216.248.219.60
+webadvisor 300 IN A 216.248.213.117
+csns01 300 IN A 216.248.220.79
+cisco-dmm 300 IN A 216.248.220.60
+lib 60 IN A 216.248.213.119
+saints 300 IN A 216.248.219.25
+saints 300 IN MX 10 lake
+saints 300 IN TXT "Q0tvFSkmpgWh98UFtuN4vinAVK6KXdr8vXB9JS2mk/fnmRHnW6VKEh3S1fLBDIp681hfNAzgd6xDYEN4ogHBSw=="
+300 IN TXT "Mx6cqpnLmAlv2lx2MS5YsGfcJyoWYFZCol6KAVJCuoh/ycIMcFhBq/qp+O9aF08fPb7TJiyjQbyxIItjrOu2+g=="
+cmas 300 IN A 216.248.213.246
+education 300 IN CNAME inwsse101
+www 60 IN CNAME nonhosted.imodules.com.
+rdpgw1 300 IN A 216.248.213.33
+olluuiweb 300 IN A 216.248.213.161
+libanswers 300 IN A 174.132.16.54
+login 300 IN A 216.248.213.160
+_sip._tls 300 IN SRV 10 10 5061 cvcsexpressway
+lake 300 IN A 216.248.213.99
+lake 300 IN MX 0 lake
+lake 300 IN TXT "MS=92C2449C1C7632C3BE1120A4DCA71DE523829D3B"
+lib2 300 IN A 216.248.213.133
+_sip._udp 300 IN SRV 10 10 5060 cvcsexpressway
+library 300 IN A 174.132.16.38
+hsi2 300 IN CNAME olluhsi
+palmtree 300 IN A 216.248.213.39
+survey 300 IN CNAME ma207s
+guestvideo 300 IN A 216.248.219.35
+fs1 300 IN A 216.248.213.31
+fs2 300 IN A 216.248.213.32
+ns-931.awsdns-52.net. 300 IN A 205.251.195.163
+ns-1906.awsdns-46.co.uk. 300 IN A 205.251.199.114
+gateway 300 IN A 216.248.208.1
+ns2.twtelecom.net. 300 IN A 64.132.94.250
+apply 1800 IN A 216.248.213.162
+onlineprograms 300 IN NS ns-1056.awsdns-04.org.
+300 IN NS ns-1906.awsdns-46.co.uk.
+300 IN NS ns-931.awsdns-52.net.
+300 IN NS ns-201.awsdns-25.com.
+calendar 300 IN CNAME adbcdo102
+outlook 300 IN A 216.248.219.199
+moodle 300 IN A 216.248.213.56
+autodiscover 300 IN CNAME outlook
+acs2008radius 300 IN CNAME ollusaca1
+_sips._tcp 300 IN SRV 10 10 5061 cvcsexpressway
+tmgtwo 300 IN A 216.248.219.11
+tmgone 300 IN A 216.248.219.10
+flash 300 IN A 216.248.213.159
+bigbrother 300 IN A 216.248.213.55
+vmpolicy 300 IN A 216.248.213.29
+woodstock 300 IN MX 0 lake
+webadvisor2 300 IN A 216.248.213.60
+_h323cs._tcp 300 IN SRV 10 10 1720 cvcsexpressway
+exprequest 300 IN CNAME webevent
+portalweb01 300 IN A 216.248.213.70
+academic 300 IN A 216.248.213.37
+cattura 300 IN A 216.248.213.34
+indsun103 300 IN A 216.248.213.251
+helpdesk 300 IN CNAME sysaid1
+savii 300 IN CNAME webevent
+requester 300 IN CNAME webevent
+cdmm01 300 IN A 216.248.220.70
+ldap 5 IN A 216.248.213.53
+5 IN A 216.248.213.6
+5 IN A 216.248.213.52
+cisco-sns 300 IN A 216.248.220.61
+_sips._tls 300 IN SRV 10 10 5061 cvcsexpressway
+webevent 300 IN A 216.248.213.247
+sbalumni 300 IN CNAME business
+_h323ls._udp 300 IN SRV 10 10 1719 cvcsexpressway
+acpmysite 300 IN CNAME portalweb01
+inapun102 300 IN A 216.248.213.116
+ns-1056.awsdns-04.org. 300 IN A 205.251.196.32
+applytest 300 IN A 216.248.213.143
+webapi 300 IN CNAME recruiterwebapi01-wath
+ssrpm 300 IN A 216.248.213.149
+ccp 300 IN CNAME cissweb
+webct 300 IN A 72.3.134.74
+olluhsi 300 IN A 216.248.213.132
+list 300 IN A 216.248.213.127
+list 300 IN MX 0 lake
+cdmsweb01 300 IN A 216.248.220.53
+cdp 300 IN CNAME productionweb
+msebusiness 300 IN CNAME business
+lits 300 IN CNAME productionweb
+webcttest 300 IN A 216.248.213.129
+tracdat 300 IN A 216.248.213.7
+alumnicommunity 300 IN CNAME www.ollu.onlinecommunity.com.
+hsi 300 IN CNAME olluhsi
+admin 300 IN A 216.248.213.234
+lakefront 300 IN CNAME productionweb
+papercut 300 IN A 216.248.213.113
+myollu 300 IN A 216.248.219.198
+ns-100.awsdns-12.com. 300 IN A 205.251.192.100
+student 300 IN CNAME stuexchange
+autodiscover.saints 300 IN A 216.248.219.199
+ecurrents 300 IN CNAME productionweb
+inwsse101 300 IN A 216.248.213.42
+libguides 300 IN A 174.132.16.38
+ns-1492.awsdns-58.org. 300 IN A 205.251.197.212
+oasis 300 IN CNAME webadvisor
+ollumissions 300 IN A 216.248.213.116
+cls 300 IN A 216.248.213.5
+ns-1669.awsdns-16.co.uk. 300 IN A 205.251.198.133
+update 300 IN A 216.248.213.32
+backupexec02 300 IN A 216.248.213.118
+backupexec03 300 IN A 216.248.213.115
+ns-832.awsdns-40.net. 300 IN A 205.251.195.64
+recruiterwebapi01-wath 300 IN A 216.248.213.183
+bookstore 300 IN CNAME www.ollusabookstore.com.
+ollusaca1 300 IN A 216.248.213.241
+wap1 300 IN A 216.248.219.20
+wap2 300 IN A 216.248.219.21
+ns-201.awsdns-25.com. 300 IN A 205.251.192.201
+sysaid1 300 IN A 216.248.213.164
+its 300 IN CNAME productionweb
+webct6 300 IN A 72.3.134.76
+secure 300 IN CNAME productionweb
+olladmin 300 IN A 216.248.213.12
+inwsun104 300 IN A 216.248.213.5
+info 300 IN A 216.248.213.51
+olladmin_test 300 IN A 216.248.213.227
+engage 300 IN NS ns-1492.awsdns-58.org.
+300 IN NS ns-1669.awsdns-16.co.uk.
+300 IN NS ns-100.awsdns-12.com.
+300 IN NS ns-832.awsdns-40.net.
+ironport 300 IN A 216.248.213.99
+jabberguest 300 IN A 216.248.219.35
+alumni 300 IN CNAME productionweb
+cissweb 300 IN A 216.248.211.134
+activesync 300 IN A 216.248.213.142
+webctsql 300 IN A 72.3.134.75
+shareport 300 IN A 216.248.213.130
+undsun103 300 IN A 216.248.213.250
+libraryweb 300 IN A 216.248.213.63
+unet 300 IN A 216.248.213.51

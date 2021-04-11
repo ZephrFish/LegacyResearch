@@ -1,0 +1,34 @@
+@ 38400 IN SOA ns1 harshsys.yahoo.com. 1395324986 10800 3600 604800 38400
+@ 259200 IN MX 1 ASPMX.L.GOOGLE.COM.
+259200 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+259200 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+259200 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+259200 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+259200 IN MX 30 mail
+@ 38400 IN TXT "Domain name for S.D. Agricultural University"
+@ 38400 IN A 210.212.142.164
+@ 38400 IN NS sunsrv
+38400 IN NS ns1
+38400 IN NS ns2
+sdaunet 38400 IN CNAME @
+erp 38400 IN A 210.212.142.170
+sites 259200 IN CNAME ghs.googlehosted.com.
+210.212.142.164 38400 IN PTR sunsrv.sdau.edu.in
+38400 IN PTR sdau.edu.in
+38400 IN PTR ns1.sdau.edu.in
+38400 IN PTR www.sdau.edu.in
+ns2 38400 IN A 210.212.142.168
+210.212.142.166 38400 IN PTR mail.sdau.edu.in
+www 38400 IN TXT "web site of S.D. Agricultural University"
+www 38400 IN A 210.212.142.164
+210.212.142.168 38400 IN PTR ns2.sdau.edu.in
+210.212.142.170 38400 IN PTR erp.sdau.edu.in
+groups 3600 IN CNAME ghs.googlehosted.com.
+docs 259200 IN CNAME ghs.googlehosted.com.
+mail 38400 IN A 210.212.142.166
+email 259200 IN CNAME ghs.googlehosted.com.
+sunsrv 38400 IN A 210.212.142.164
+www.pulses 38400 IN A 210.212.142.186
+ns1 38400 IN A 210.212.142.164
+calendar 259200 IN CNAME ghs.googlehosted.com.
+210.212.142.186 38400 IN PTR www.pulses.sdau.edu.in

@@ -1,0 +1,17 @@
+@ 3600 IN SOA mail root 2009042305 3600 900 360000 3600
+@ 3600 IN NS ns.ubo.cl.
+3600 IN NS secundario.nic.cl.
+@ 3600 IN A 190.196.69.108
+@ 3600 IN MX 0 mail.ubo.cl.
+www.desarrollo 3600 IN A 190.196.69.106
+www.diseno 3600 IN A 190.196.69.105
+diseno 3600 IN A 190.196.69.105
+desarrollo 3600 IN A 190.196.69.106
+fw 3600 IN A 190.196.69.98
+www 3600 IN A 190.196.69.105
+ns 3600 IN A 190.196.69.100
+www.intranet 3600 IN A 190.196.69.108
+mail 3600 IN A 190.196.69.101
+empleos 3600 IN A 200.29.145.50
+www.empleos 3600 IN A 200.29.145.50
+intranet 3600 IN A 190.196.69.108

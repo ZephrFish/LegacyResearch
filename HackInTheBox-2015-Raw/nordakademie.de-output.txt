@@ -1,0 +1,86 @@
+@ 86400 IN SOA vangogh root.vangogh 2015011001 10800 3600 18000 7200
+@ 86400 IN A 194.94.98.144
+@ 86400 IN TXT "v=spf1 ip4:194.94.98.128/27 -all"
+@ 86400 IN NAPTR 100 10 "s" "x-eduroam:radius.tls" "" _radsec._tcp.eduroam.de.
+@ 86400 IN NS warhol
+86400 IN NS vangogh
+86400 IN NS ws-lei1.win-ip.dfn.de.
+@ 86400 IN MX 30 merkur
+86400 IN MX 50 mfilter-113-1-1.mx.srv.dfn.de.
+86400 IN MX 50 mfilter-113-1-2.mx.srv.dfn.de.
+86400 IN MX 50 mfilter-113-1-3.mx.srv.dfn.de.
+sales 86400 IN CNAME lx29
+merkur 86400 IN A 194.94.98.156
+gauguin 86400 IN A 194.94.98.146
+lx08 86400 IN A 194.94.98.151
+lx09 86400 IN A 194.94.98.143
+ewita 86400 IN CNAME trinity
+trinity 86400 IN A 194.94.98.139
+lagrange 86400 IN CNAME lx05
+pushmail 86400 IN CNAME owa
+asa 86400 IN A 194.94.98.129
+brauer 86400 IN CNAME lx08
+hilbert 86400 IN A 194.94.98.150
+projekte 86400 IN CNAME lx26
+it 86400 IN CNAME lx29
+bewerberportal 86400 IN CNAME awt10
+* 86400 IN CNAME lx29
+nkif2011 86400 IN CNAME trinity
+owa 86400 IN A 194.94.98.131
+moodle 86400 IN CNAME lx08
+dmz 86400 IN NS warhol
+86400 IN NS vangogh
+86400 IN NS ws-lei1.win-ip.dfn.de.
+dmz 86400 IN MX 30 merkur
+piwik 86400 IN CNAME lx29
+vaw 86400 IN CNAME lx21
+webapp 86400 IN CNAME lx05
+autodiscover 86400 IN CNAME owa
+shop 86400 IN CNAME lx18
+warhol 86400 IN A 194.94.98.135
+fbwiki 86400 IN CNAME lx29
+support 86400 IN CNAME lx23
+www2 86400 IN CNAME lx29
+vangogh 86400 IN A 194.94.98.141
+vangogh 86400 IN AAAA 2001:638:71a:d001::141
+redmine 86400 IN CNAME lx29
+eduroam 86400 IN CNAME lx09
+webmail 86400 IN A 194.94.98.147
+wirtschaftsinformatikforum 86400 IN CNAME lx29
+oc 86400 IN A 194.94.98.138
+lx21 86400 IN A 194.94.98.154
+ac 86400 IN CNAME gauguin
+mx 86400 IN CNAME merkur
+masterportal 86400 IN CNAME awt10
+unternehmen 86400 IN CNAME awt10
+lan-party 86400 IN CNAME trinity
+ns 86400 IN CNAME vangogh
+ntp 86400 IN CNAME vangogh
+gitlab 86400 IN CNAME lx04
+lx05-dev 86400 IN CNAME lx05
+lx23 86400 IN A 194.94.98.133
+owa2 86400 IN CNAME owa
+owa3 86400 IN CNAME owa
+brauer2 86400 IN CNAME lx29
+www 86400 IN CNAME lx29
+moodle2 86400 IN CNAME lx08
+alumni 86400 IN CNAME lx18
+lx03 86400 IN A 194.94.98.141
+lx04 86400 IN A 194.94.98.136
+lx05 86400 IN A 194.94.98.130
+qmwiki 86400 IN CNAME hilbert
+lx07 86400 IN A 194.94.98.153
+informatik 86400 IN CNAME lx26
+auswahltest 86400 IN CNAME awt10
+online 86400 IN CNAME lx08
+www3 86400 IN CNAME trinity
+firmenportal 86400 IN CNAME awt10
+lx18 86400 IN A 194.94.98.155
+cis 86400 IN CNAME lx29
+firmen 86400 IN CNAME trinity
+aaa 86400 IN A 194.94.98.134
+lx26 86400 IN A 194.94.98.140
+awt10 86400 IN A 194.94.98.142
+lx28 86400 IN A 194.94.98.149
+lx29 86400 IN AAAA 2001:638:71a:d001::144
+lx29 86400 IN A 194.94.98.144

@@ -1,0 +1,39 @@
+@ 300 IN SOA gaia root 2014120901 300 300 604800 1200
+@ 300 IN NS gaia
+300 IN NS ns2
+300 IN NS ns-kg021.ocn.ad.jp.
+300 IN NS dns-x.sinet.ad.jp.
+@ 300 IN MX 10 smtp1
+300 IN MX 20 mchk
+300 IN MX 20 smtp2
+ns2 300 IN A 220.99.116.38
+smtp1 300 IN A 202.18.63.11
+smtp2 300 IN A 220.99.116.35
+gaia 300 IN A 202.18.63.4
+gw 86400 IN NS gaia
+86400 IN NS ns2
+kwuc-gw 300 IN A 202.18.63.8
+newgaia 300 IN A 202.18.63.20
+campusweb 300 IN A 202.18.61.42
+mail 300 IN CNAME cosmo
+lib 86400 IN NS gaia
+86400 IN NS ns2
+lib 300 IN MX 10 smtp1
+300 IN MX 10 smtp2
+wisdom 300 IN A 220.99.116.36
+mchk 300 IN A 220.99.116.35
+ac 86400 IN NS gaia
+86400 IN NS ns2
+www 300 IN A 180.222.182.97
+localhost 300 IN A 127.0.0.1
+green 300 IN CNAME green.edu.cc
+cc 86400 IN NS gaia
+86400 IN NS ns2
+86400 IN NS dns-x.sinet.ad.jp.
+w3 300 IN CNAME silver.cc
+multi 300 IN CNAME www.cc
+www2 300 IN A 220.99.116.37
+www3 300 IN A 202.18.63.44
+kwuc-cl 300 IN A 202.18.63.31
+isp30.cc 86400 IN A 220.99.116.30
+mail2 300 IN A 202.18.63.9

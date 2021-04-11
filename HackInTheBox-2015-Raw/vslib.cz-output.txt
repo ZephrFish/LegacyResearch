@@ -1,0 +1,26 @@
+@ 86400 IN SOA bubo.tul.cz. satrapa.bubo.tul.cz. 200901110 3600 1800 2419200 86400
+@ 86400 IN NS tul.cesnet.cz.
+86400 IN NS bubo.tul.cz.
+@ 86400 IN MX 0 bubo.tul.cz.
+86400 IN MX 50 tul.cesnet.cz.
+webmail 86400 IN CNAME webmail.tul.cz.
+tyto 86400 IN CNAME tyto.tul.cz.
+* 86400 IN A 147.230.16.80
+speotyto 86400 IN CNAME speotyto.tul.cz.
+mbox 86400 IN CNAME mbox.tul.cz.
+aa 86400 IN CNAME aa.tul.cz.
+www.ft 86400 IN CNAME dirk.ktm.tul.cz.
+*.fm 86400 IN A 147.230.16.80
+www 86400 IN CNAME web.tul.cz.
+*.fp 86400 IN A 147.230.16.80
+*.fs 86400 IN A 147.230.16.80
+*.ft 86400 IN A 147.230.16.80
+*.hf 86400 IN A 147.230.16.80
+www.fm 86400 IN CNAME sirius.ksi.tul.cz.
+www.fp 86400 IN CNAME test.fp.tul.cz.
+www.fs 86400 IN CNAME obelix.tul.cz.
+bbs 86400 IN CNAME bbs.tul.cz.
+www.hf 86400 IN CNAME alnus.kin.tul.cz.
+bubik 86400 IN CNAME bubik.tul.cz.
+bubo 86400 IN CNAME bubo.tul.cz.
+smtp 86400 IN CNAME bubo.tul.cz.

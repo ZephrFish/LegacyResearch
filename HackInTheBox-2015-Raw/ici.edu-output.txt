@@ -1,0 +1,6 @@
+@ 3600 IN SOA gu-dns.globaluniversity.edu. administrator.globaluniversity.edu. 38 3600 600 86400 3600
+@ 3600 IN A 65.23.47.82
+@ 3600 IN NS gu-dns.globaluniversity.edu.
+@ 3600 IN TXT "v=spf1 mx -all"
+gu-dns.globaluniversity.edu. 3358 IN A 66.139.102.1
+www 3600 IN A 65.23.47.82

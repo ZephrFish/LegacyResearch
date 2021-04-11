@@ -1,0 +1,117 @@
+@ 600 IN SOA cl2 root 2015040601 43200 7200 4320000 86400
+@ 600 IN NS cl2
+600 IN NS dns-x.sinet.ad.jp.
+600 IN NS sf1
+@ 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+@ 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+nit-wall 600 IN A 202.18.170.130
+nit-wmail 600 IN NS lp1
+600 IN NS lp2
+wwwtest 600 IN CNAME www
+estu 600 IN A 202.18.172.50
+estu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+estu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+lcc 600 IN NS lp1
+600 IN NS lp2
+wwwdevelop 600 IN CNAME www
+mahnya 600 IN A 202.18.170.227
+wwwxxx 600 IN CNAME www
+pws 600 IN A 202.18.170.200
+wwwold 600 IN CNAME www
+wwwa 600 IN CNAME astu
+wwwc 600 IN CNAME cstu
+remarkables 600 IN A 202.18.170.211
+wwwe 600 IN CNAME estu
+rs 600 IN A 202.18.170.202
+dual 600 IN A 202.18.170.220
+dual 600 IN MX 5 nit-bsf
+600 IN MX 10 dual
+wwws 600 IN CNAME sstu
+kanda2 600 IN CNAME leo
+wwwm 600 IN CNAME mstu
+xn--olso8e0ucc7ddq9b 600 IN A 202.18.172.80
+xn--olso8e0ucc7ddq9b 600 IN MX 10 xn--olso8e0ucc7ddq9b
+xn--olso8e0ucc7ddq9b 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+mlib 600 IN A 202.18.171.11
+astu 600 IN A 202.18.172.60
+astu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+astu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+nit-gyoseki-ed 600 IN CNAME nit-gyoseki
+leo 600 IN A 202.18.172.30
+leo 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+leo 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+ise 600 IN A 202.18.172.70
+sf1 600 IN A 202.18.170.20
+boss01.ugajinlab 600 IN A 202.18.170.222
+nit-scan 600 IN A 202.18.172.11
+nit-gate 600 IN A 202.18.170.129
+v6gw 600 IN AAAA 3ffe:517:1c1:1c3::2
+mail 600 IN CNAME nit-wmail
+vpn 600 IN A 202.18.172.81
+karin 600 IN A 202.18.170.229
+kanda 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+kanda 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+syukatsu 600 IN A 202.18.170.22
+uvdbsv 600 IN A 202.18.170.23
+nit-gyoseki 600 IN A 202.18.170.30
+lib 600 IN A 202.248.182.60
+wwwp 600 IN CNAME pstu
+wwwl 600 IN CNAME lstu
+lcc_opac_web 600 IN NS lp1
+600 IN NS lp2
+www2 600 IN CNAME scheuz
+ipv6 600 IN CNAME cl6
+lp2 600 IN A 121.119.250.195
+lp1 600 IN A 202.18.170.131
+ferry 600 IN A 202.18.170.228
+cl2 600 IN A 202.18.170.10
+cl3 600 IN A 121.119.250.209
+infocampus 600 IN NS lp1
+600 IN NS lp2
+cstu 600 IN A 202.18.172.80
+cstu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+cstu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+mot 600 IN A 153.122.40.190
+deetvar 600 IN A 202.18.170.231
+pstu 600 IN A 202.18.172.75
+pstu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+pstu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+comweb 600 IN A 202.18.170.210
+www 600 IN A 122.50.125.105
+kbse 600 IN A 202.18.170.230
+uvbksv 600 IN A 202.18.170.24
+sstu 600 IN A 202.18.172.70
+sstu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+sstu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+localhost 600 IN A 127.0.0.1
+www3 600 IN CNAME leo
+cie 600 IN A 202.18.170.225
+nit-bsf 600 IN A 202.18.170.14
+stu 600 IN A 202.18.172.70
+stu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+stu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+uvapsv01 600 IN CNAME syukatsu
+sesv 600 IN A 202.18.170.235
+nit-bsf2 600 IN A 121.119.250.219
+boss02.ugajinlab 600 IN A 202.18.170.223
+lstu 600 IN A 202.18.172.65
+lstu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+lstu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+shield 600 IN A 202.18.172.12
+misha 600 IN A 202.18.170.232
+mstu 600 IN A 202.18.172.40
+mstu 600 IN MX 5 nit-bsf
+600 IN MX 7 nit-bsf2
+mstu 600 IN TXT "v=spf1 ip4:202.18.170.10 ~all"
+cl6 600 IN A 202.18.170.201
+cl6 600 IN AAAA 3ffe:517:1c3:1::1

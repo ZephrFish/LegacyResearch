@@ -1,0 +1,105 @@
+@ 86400 IN SOA nsa.lib.md.us. dnsadmin.soc.lib.md.us. 2014121801 3600 1800 604800 300
+@ 86400 IN NS nsa.lib.md.us.
+86400 IN NS nsb.lib.md.us.
+86400 IN NS nsc.lib.md.us.
+@ 86400 IN MX 5 barracuda
+86400 IN MX 10 bugeye
+@ 3600 IN TXT "v=spf1" "mx" "a:www" "~all"
+3600 IN TXT "MS=ms40581034"
+cweed 86400 IN CNAME www
+gm 86400 IN CNAME skipjack
+_sipfederationtls._tcp.ms365 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+mycampus-test 86400 IN A 208.93.211.142
+faq 86400 IN CNAME libanswers.com.
+z8pool 86400 IN A 64.26.71.28
+cs01 86400 IN A 64.26.71.1
+cs02 86400 IN A 64.26.71.2
+_sip._tls.student 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+cs10 86400 IN A 64.26.71.10
+cs11 86400 IN A 64.26.71.11
+cs12 86400 IN A 64.26.71.12
+cs13 86400 IN A 64.26.71.13
+cs14 86400 IN A 64.26.71.14
+cs16 86400 IN A 64.26.71.16
+cs29 86400 IN A 64.26.71.29
+www 86400 IN A 64.26.71.30
+cs40 86400 IN A 64.26.71.40
+cs45 86400 IN A 64.26.71.45
+cs47 86400 IN A 64.26.71.47
+cs48 86400 IN A 64.26.71.48
+z2pool 86400 IN A 64.26.71.22
+cs61 86400 IN A 64.26.71.61
+cs55 86400 IN A 64.26.71.55
+cs57 86400 IN A 64.26.71.57
+cs58 86400 IN A 64.26.71.58
+cs59 86400 IN A 64.26.71.59
+webct 86400 IN A 64.26.71.34
+cs62 86400 IN A 64.26.71.62
+sip.ms365 3600 IN CNAME sipdir.online.lync.com.
+sonofcnettle 86400 IN A 64.26.71.38
+autodiscover.student 3600 IN CNAME autodiscover.outlook.com.
+njvid 86400 IN A 64.26.68.57
+z3 86400 IN A 64.26.71.23
+ss 86400 IN A 64.26.68.58
+z7pool 86400 IN A 64.26.71.27
+riptide 86400 IN A 64.26.71.42
+cnettle 86400 IN A 64.26.71.37
+shark 86400 IN A 64.26.71.43
+WLJ27N77WNX2.gm 300 IN CNAME gv-LKVP7RUIAWXZEKQS72UDMBE5MHPCCPH264ZX4U2HJROUGDTQXNWA.domainverify.googlehosted.com.
+Ecatalog 86400 IN CNAME chesapeake.catalog.acalog.com.
+fwtv 86400 IN A 64.26.71.17
+ccmdm1 86400 IN A 64.26.71.57
+fwsinstall 86400 IN A 64.26.71.19
+autodiscover 86400 IN CNAME bugeye
+z1pool 86400 IN A 64.26.71.21
+autodiscover.ms365 3600 IN CNAME autodiscover.outlook.com.
+guppy 86400 IN A 64.26.71.32
+cpuppy 86400 IN A 64.26.71.59
+stats 86400 IN CNAME libanalytics.com.
+msoid.ms365 3600 IN CNAME clientconfig.microsoftonline-p.net.
+sook 86400 IN A 64.26.71.6
+fwblue 86400 IN A 64.26.71.20
+lyncdiscover.ms365 3600 IN CNAME webdir.online.lync.com.
+googlead86281058c305c1.skipjack 86400 IN CNAME google.com.
+barracuda 86400 IN A 64.26.71.15
+mycampus 600 IN A 54.174.127.69
+bugeye 86400 IN A 64.26.71.60
+sonofcshad 86400 IN CNAME cshad
+z5pool 86400 IN A 64.26.71.25
+ms365 3600 IN MX 0 MS365-Chesapeake-edu.mail.protection.outlook.com.
+ms365 3600 IN TXT "MS=ms40581034"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+skipjack 86400 IN MX 10 aspmx.l.google.com.
+skipjack 86400 IN TXT "v=spf1" "include:aspmx.googlemail.com" "~all"
+M.Ecatalog 86400 IN CNAME chesapeake.catalog.acalog.com.
+google5ae5fe0058c305c1 86400 IN CNAME google.com.
+chorse 86400 IN A 64.26.71.41
+claunch 86400 IN A 64.26.71.46
+fwpartners 86400 IN A 64.26.71.18
+mobile1 86400 IN A 64.26.71.58
+cshad 86400 IN A 64.26.71.56
+student 3600 IN MX 0 student-Chesapeake-edu.mail.protection.outlook.com.
+student 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+z6pool 86400 IN A 64.26.71.26
+libguides 86400 IN CNAME libguides.com.
+cs4 86400 IN A 64.26.71.4
+cs5 86400 IN A 64.26.71.5
+cs7 86400 IN A 64.26.71.7
+cs8 86400 IN A 64.26.71.8
+cs9 86400 IN A 64.26.71.9
+cargo 86400 IN A 64.26.71.36
+z4pool 86400 IN A 64.26.71.24
+narrows 86400 IN A 64.26.71.39
+webct2 86400 IN A 64.26.71.35
+angel 86400 IN A 216.239.246.96
+msoid.student 3600 IN CNAME clientconfig.microsoftonline-p.net.
+info 86400 IN A 64.26.71.31
+dnsguy 86400 IN CNAME sook
+sip.student 3600 IN CNAME sipdir.online.lync.com.
+lyncdiscover.student 3600 IN CNAME webdir.online.lync.com.
+catalog 86400 IN A 167.102.158.25
+softshell 86400 IN A 64.26.71.44
+_sip._tls.ms365 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+_sipfederationtls._tcp.student 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+dt 86400 IN A 64.26.71.49
+jimmie 86400 IN A 64.26.71.3

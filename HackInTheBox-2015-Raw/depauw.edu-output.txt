@@ -1,0 +1,393 @@
+@ 1800 IN SOA depauw-dns btimberman 2015032408 1200 300 604800 1800
+@ 1800 IN A 50.56.112.165
+@ 1800 IN NS depauw-dns
+1800 IN NS ns5.dnsmadeeasy.com.
+1800 IN NS ns6.dnsmadeeasy.com.
+1800 IN NS ns7.dnsmadeeasy.com.
+@ 1800 IN MX 10 aspmx.l.google.com.
+1800 IN MX 20 alt1.aspmx.l.google.com.
+1800 IN MX 30 aspmx2.googlemail.com.
+1800 IN MX 30 aspmx5.googlemail.com.
+1800 IN MX 20 alt2.aspmx.l.google.com.
+1800 IN MX 30 aspmx3.googlemail.com.
+1800 IN MX 30 aspmx4.googlemail.com.
+@ 1800 IN TXT "v=spf1 ip4:163.120.0.0/16 a mx ptr ip4:209.235.101.208/28 a mx ptr include:aspmx.googlemail.com ~all "
+1800 IN TXT "v=spf1 ip4:119.254.30.0/26 ip4:204.154.94.0/23 ip4:216.104.243.16/28 ip4:216.104.244.0/24 include:_spf.google.com include:mail.zendesk.com include:mktomail.com include:spf.mandrillapp.com include:s._spf.pardot.com ~all"
+campaign 1800 IN A 50.56.112.165
+_ldap._tcp.default-first-site-name._sites.forestdnszones 600 IN SRV 0 100 389 depauw_1
+600 IN SRV 0 100 389 depauw2
+600 IN SRV 0 100 389 depauw1
+lore.csc 1800 IN A 163.120.18.43
+_kpasswd._udp 600 IN SRV 0 100 464 depauw_1
+600 IN SRV 0 100 464 depauw1
+netmgr 1800 IN A 163.120.13.120
+mail.gappstest 1800 IN CNAME ghs.google.com.
+christest 1800 IN A 163.120.10.10
+helene.csc 1800 IN A 163.120.18.80
+apps 1800 IN A 163.120.6.15
+dancer.csc 1800 IN A 163.120.3.12
+dancer.csc 1800 IN WKS 163.120.3.12 6 20 23 25 79
+netadmin2 1200 IN A 10.119.0.54
+*.ezproxytest 1800 IN CNAME ezproxytest
+_ldap._tcp.pdc._msdcs 600 IN SRV 0 100 389 depauw_1
+stream.library 1800 IN A 163.120.1.216
+test3 1200 IN A 10.119.0.59
+gateway 1800 IN CNAME nonhosted.imodules.com.
+testdns 1800 IN A 163.120.254.254
+adfs-proxy 1800 IN A 163.120.1.97
+bigbluebutton 1800 IN A 163.120.1.237
+xpressconnect 1800 IN A 163.120.1.44
+reserves.library 1800 IN A 163.120.6.25
+chandra 1800 IN A 163.120.5.253
+chandra 1800 IN MX 0 acad
+vixen.csc 1800 IN A 163.120.3.13
+vixen.csc 1800 IN WKS 163.120.3.13 6 20 23 25 79
+rizzo 1800 IN A 163.120.5.182
+_ldap._tcp.domaindnszones 600 IN SRV 0 100 389 depauw_1
+600 IN SRV 0 100 389 depauw2
+600 IN SRV 0 100 389 depauw1
+academic 1800 IN A 163.120.6.217
+helpdesk 1800 IN A 163.120.34.253
+hodgkin 1800 IN A 163.120.5.181
+hodgkin 1800 IN MX 0 acad
+admtest1 1800 IN A 163.120.13.30
+ns7.dnsmadeeasy.com. 1800 IN A 208.80.126.13
+appservertest 1800 IN A 163.120.40.25
+_ldap._tcp.default-first-site-name._sites.gc._msdcs 600 IN SRV 0 100 3268 depauw_1
+photos.webtest 1800 IN A 166.78.252.226
+adminmail 1800 IN A 163.120.14.217
+_ldap._tcp.dc._msdcs 600 IN SRV 0 100 389 depauw_1
+ananke.csc 1800 IN A 163.120.18.71
+keyserver 1800 IN A 163.120.3.228
+twiki.csc 1800 IN A 163.120.18.26
+himelia.csc 1800 IN A 163.120.18.76
+moodle 1800 IN A 163.120.14.233
+peeler 1800 IN A 163.120.38.5
+adastraweb 1800 IN A 163.120.6.99
+newspaper 1800 IN A 163.120.93.2
+newspaper 1800 IN WKS 163.120.93.2 6 20 25
+newspaper 1800 IN HINFO "MAC" "System_7"
+dpu-ilm 3600 IN NS dpu-ilm.dpu-ilm
+titan.csc 1800 IN A 163.120.18.81
+chris7xt-pc.dpuad 1200 IN A 192.168.1.101
+titanium 1800 IN A 163.120.4.12
+setpassword 1800 IN A 163.120.1.217
+drake.csc 1800 IN A 163.120.18.60
+carme.csc 1800 IN A 163.120.18.72
+fits.dpuad 1200 IN A 163.120.6.50
+1200 IN A 163.120.6.51
+www 1800 IN A 50.56.112.165
+my 1800 IN A 163.120.14.25
+my 1800 IN MX 10 my
+deadpez 1800 IN A 163.120.3.235
+_ldap._tcp.default-first-site-name._sites.domaindnszones 600 IN SRV 0 100 389 depauw2
+600 IN SRV 0 100 389 depauw1
+600 IN SRV 0 100 389 depauw_1
+d600test.dpuad 1200 IN A 192.168.1.103
+acad1 1800 IN A 163.120.1.201
+1800 IN A 163.120.1.202
+acad2 1800 IN A 163.120.1.212
+1800 IN A 163.120.1.211
+acad3 1800 IN A 163.120.1.221
+1800 IN A 163.120.1.222
+kjsmachine 1800 IN A 163.120.16.10
+weblinux 1800 IN A 163.120.62.245
+domaindnszones 600 IN A 10.1.1.60
+600 IN A 10.1.1.61
+dpums1 1800 IN A 163.120.6.101
+eservices.adm 3600 IN A 10.0.0.1
+3600 IN A 163.120.6.109
+google65ce6cd1750d394f.gapps 1800 IN CNAME google.com.
+smtp 1800 IN A 163.120.1.74
+smtp 1800 IN MX 10 smtp
+tethys.csc 1800 IN A 163.120.18.82
+pasiphae.csc 1800 IN A 163.120.18.78
+dhcp-dns-1.dpuad 1200 IN A 10.1.1.11
+thebe.csc 1800 IN A 163.120.18.68
+moodle2test 1800 IN A 163.120.14.233
+discus 1800 IN A 163.120.6.51
+m 1800 IN A 184.106.109.196
+cupid.csc 1800 IN A 163.120.3.15
+cupid.csc 1800 IN WKS 163.120.3.15 6 20 23 25 79
+_kerberos._tcp.default-first-site-name._sites 600 IN SRV 0 100 88 depauw_1
+600 IN SRV 0 100 88 depauw1
+adminmailer 1800 IN A 10.1.14.217
+riddler 1800 IN A 163.120.5.185
+netadmin1 1200 IN A 10.119.0.65
+key1._domainkey 1800 IN TXT "k=rsa; p=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALrBPFKMkkGftHfKBT8VtnRcqRH0gTicNziwNaPH7MhC/X1EBtXsvKfoZIda7ujCEXoFrdZU4jo3Tq82zmWgUAECAwEAAQ=="
+netadmin3 1200 IN A 10.119.0.51
+netadmin4 1200 IN A 10.119.0.56
+photos 1800 IN A 50.56.121.9
+physics 1800 IN CNAME maat.physics
+barracuda2 1800 IN A 163.120.7.25
+digital.library 1800 IN A 163.120.1.216
+developer2000 1800 IN A 163.120.13.63
+webmail 1800 IN A 163.120.15.11
+depauw-dns2 1800 IN A 157.91.1.145
+prindleinstitute 1800 IN A 184.106.109.196
+oort.csc 1800 IN A 163.120.18.11
+smtp2 1800 IN A 163.120.6.217
+groups 1800 IN CNAME ghs.google.com.
+webmaster 1800 IN A 163.120.6.10
+glados.csc 1800 IN A 163.120.16.202
+_gc._tcp.dpuad 600 IN SRV 0 100 3268 dhcp-dns-1.dpuad
+adrastea.csc 1800 IN A 163.120.18.74
+voice 1800 IN A 163.120.14.217
+admin1 1800 IN A 163.120.1.20
+joker 1800 IN A 163.120.5.182
+joker 1800 IN MX 0 joker
+apps1 1800 IN A 163.120.1.147
+apps1 1800 IN MX 10 barracuda2
+search 1800 IN A 163.120.6.80
+movies 1800 IN A 163.120.156.254
+_ldap._tcp.gc._msdcs 600 IN SRV 0 100 3268 depauw_1
+adm 1800 IN A 192.168.1.4
+_gc._tcp.default-first-site-name._sites 600 IN SRV 0 100 3268 depauw1
+600 IN SRV 0 100 3268 depauw_1
+galileo 1800 IN A 163.120.5.254
+galileo 1800 IN MX 0 acad
+apply 1800 IN CNAME cluster2.technolutions.net.
+frontrush 1800 IN A 163.120.14.251
+studentftp 1800 IN CNAME studentweb
+calendar 1800 IN CNAME ghs.google.com.
+ganymede.csc 1800 IN A 163.120.18.65
+go2 1800 IN A 163.120.6.7
+singer.csc 1800 IN A 163.120.16.241
+webserver-1 1800 IN A 50.56.112.165
+elara.csc 1800 IN A 163.120.18.70
+schooldude 1800 IN A 163.120.1.94
+cgma 1800 IN A 163.120.6.5
+people 1800 IN A 163.120.6.10
+projects 1800 IN CNAME acad
+_domainkey 1800 IN TXT "t=y; o=~;"
+ludditelab 1800 IN A 163.120.35.226
+cwilson-laptop.dpuad 1200 IN A 192.168.1.101
+callisto.csc 1800 IN A 163.120.18.66
+mms 1800 IN A 163.120.6.109
+setpass 1800 IN A 163.120.6.217
+mail 1800 IN CNAME ghs.google.com.
+ftp 1800 IN CNAME dpuaxp
+student 1800 IN A 163.120.6.218
+alucard.csc 1800 IN A 163.120.18.23
+helpdeskdownloads 1800 IN CNAME studentweb
+_gc._tcp 600 IN SRV 0 100 3268 depauw_1
+600 IN SRV 0 100 3268 depauw1
+webxtender 1800 IN A 163.120.6.101
+janus.csc 1800 IN A 163.120.18.83
+dragon 1800 IN A 163.120.18.24
+dragon 1800 IN MX 0 acad
+kiosk.csc 1800 IN A 163.120.18.18
+barracuda 1800 IN A 163.120.7.24
+depauw2 1200 IN A 10.1.1.61
+www1 1800 IN A 163.120.3.252
+gappstest 1800 IN MX 20 alt1.aspmx.l.google.com.
+1800 IN MX 20 alt2.aspmx.l.google.com.
+1800 IN MX 30 aspmx2.googlemail.com.
+1800 IN MX 30 aspmx3.googlemail.com.
+1800 IN MX 30 aspmx4.googlemail.com.
+1800 IN MX 30 aspmx5.googlemail.com.
+1800 IN MX 10 aspmx.l.google.com.
+wheatley.csc 1800 IN A 163.120.18.20
+tigerquest 1800 IN A 163.120.6.25
+policy-server 1800 IN A 163.120.1.130
+rundle 1800 IN A 163.120.19.10
+runix.csc 1800 IN A 163.120.16.242
+test 1800 IN A 163.120.6.100
+alum 1800 IN MX 5 olcmail.alumniconnections.com.
+audio 1800 IN A 50.56.121.99
+alumni-email 1800 IN A 163.120.7.37
+alumni-email 1800 IN MX 10 barracuda2
+webmail2 1800 IN A 163.120.15.53
+google59dd4d63094c14a4.testgapps 1800 IN CNAME google.com.
+sage 1800 IN A 163.120.14.7
+a56986eb-53ad-4a8e-8580-8c9cd73be678._msdcs 600 IN CNAME depauw_1
+dpuaxp 1800 IN MX 0 acad
+_ldap._tcp.cf039ef9-934c-4440-918e-38972112a456.domains._msdcs 600 IN SRV 0 100 389 depauw_1
+ns6.dnsmadeeasy.com. 1800 IN A 208.80.124.13
+orion 1800 IN A 163.120.156.253
+audio.webtest 1800 IN A 166.78.252.226
+studentweb 1800 IN A 163.120.6.218
+kerzweil.dpuad 1200 IN A 10.1.1.221
+ill.library 1800 IN A 163.120.6.235
+www.csc 1800 IN A 163.120.18.25
+research 1800 IN CNAME acad
+sites 1800 IN CNAME ghs.googlehosted.com.
+wics.csc 1800 IN A 163.120.18.29
+eriac.csc 1800 IN A 163.120.18.33
+amalthea.csc 1800 IN A 163.120.18.75
+helios.csc 1800 IN A 163.120.18.2
+dasher.csc 1800 IN A 163.120.3.10
+dasher.csc 1800 IN WKS 163.120.3.10 6 20 23 25 79
+dasher.csc 1800 IN MX 0 santa.csc
+*.wordpress 1800 IN CNAME wordpress
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs 600 IN SRV 0 100 88 depauw_1
+comet.csc 1800 IN A 163.120.3.14
+comet.csc 1800 IN WKS 163.120.3.14 6 20 23 25 79
+_ldap._tcp.forestdnszones 600 IN SRV 0 100 389 depauw_1
+600 IN SRV 0 100 389 depauw2
+600 IN SRV 0 100 389 depauw1
+moodl2testing 1800 IN A 163.120.14.232
+vdisecure 1800 IN A 163.120.112.22
+gapps 1800 IN MX 1 aspmx.l.google.com.
+tigeraccess 1800 IN A 163.120.13.12
+1800 IN A 163.120.13.13
+dpfyn01.dpuad 1200 IN A 163.120.63.19
+archivist 1800 IN A 163.120.1.225
+reporttech 1800 IN CNAME acad
+scholarship 1800 IN CNAME dcdepauw.bepress.com.
+spamtest 1800 IN A 163.120.3.254
+ogra.csc 1800 IN A 163.120.18.34
+webtest 1800 IN A 166.78.252.226
+juno 1800 IN A 163.120.6.254
+juno 1800 IN MX 0 acad
+dnstest 1800 IN A 163.120.253.254
+_kerberos._tcp.dc._msdcs 600 IN SRV 0 100 88 depauw_1
+libguides 1800 IN CNAME v2.libguides.com.
+gc._msdcs 600 IN A 10.1.1.60
+admin-e1 1800 IN A 163.120.61.1
+admin-e2 1800 IN A 163.120.62.1
+admin-e3 1800 IN A 163.120.63.1
+admin-e4 1800 IN A 163.120.64.1
+admin-e5 1800 IN A 163.120.254.1
+jupiter.csc 1800 IN A 163.120.18.3
+depauw1 1200 IN A 10.1.1.60
+genryu 1800 IN A 163.120.22.2
+hades.csc 1800 IN A 163.120.14.37
+ocelot.csc 1800 IN A 163.120.18.11
+bthmac.csc 1800 IN A 163.120.16.244
+blitzen.csc 1800 IN A 163.120.3.17
+wolf359.csc 1800 IN A 163.120.18.123
+minerva.csc 1800 IN A 163.120.18.28
+dyknowtest 1800 IN A 163.120.10.34
+fits 1800 IN A 163.120.6.51
+eservices 1800 IN A 163.120.6.109
+eniac.csc 1800 IN A 163.120.18.33
+leda.csc 1800 IN A 163.120.18.69
+spartan 1800 IN A 163.120.9.11
+ronan 1800 IN A 163.120.5.4
+news.csc 1800 IN A 163.120.18.10
+mypl3 1800 IN A 163.120.14.28
+network.dpuad 1200 IN A 10.1.1.208
+twiki 1800 IN A 163.120.6.50
+webnow 1800 IN A 163.120.14.152
+lewis 1800 IN A 163.120.19.12
+lewis 1800 IN MX 0 acad
+mypl4 1800 IN A 163.120.14.29
+forestdnszones 600 IN A 10.1.1.60
+600 IN A 10.1.1.61
+acad 1800 IN A 163.120.6.217
+_kerberos._tcp 600 IN SRV 0 100 88 depauw1
+600 IN SRV 0 100 88 depauw_1
+batman 1800 IN A 163.120.5.191
+batman 1800 IN MX 0 batman
+scales.csc 1800 IN A 163.120.18.26
+dyknow.csc 1800 IN A 163.120.18.111
+guides.library 1800 IN CNAME libguides
+asimov.csc 1800 IN A 163.120.16.7
+hal9000 1800 IN A 163.120.9.14
+hal9000 1800 IN MX 0 acad
+adfs 1800 IN A 163.120.1.96
+hss 1800 IN A 163.120.6.79
+www.newspaper 1800 IN A 163.120.93.2
+www.newspaper 1800 IN WKS 163.120.93.2 6 20 25
+www.newspaper 1800 IN HINFO "MAC" "System_7"
+keyserv 1800 IN A 163.120.1.220
+*.ezproxy 1800 IN CNAME ezproxy
+raptor 1800 IN A 163.120.3.232
+metis.csc 1800 IN A 163.120.18.67
+admin-fddi0 1800 IN A 163.120.250.203
+esourcetest 1800 IN A 163.120.6.45
+sinope.csc 1800 IN A 163.120.18.73
+moodletest 1800 IN A 163.120.6.245
+art2a 1800 IN A 163.120.38.251
+art2b 1800 IN A 163.120.38.253
+art2c 1800 IN A 163.120.38.252
+atomiclearning 1800 IN A 163.120.14.217
+insight 1800 IN A 163.120.6.11
+www.gateway 1800 IN CNAME nonhosted.imodules.com.
+ezproxy 1800 IN A 163.120.1.91
+gauss 1800 IN A 163.120.5.252
+gauss 1800 IN MX 0 acad
+atlas.csc 1800 IN A 163.120.18.79
+redesign 1800 IN A 163.120.6.9
+1800 IN A 163.120.6.8
+isis 1800 IN A 163.120.10.210
+wordpress 1800 IN A 163.120.1.31
+mypl1 1800 IN A 163.120.14.26
+blog 1800 IN A 163.120.6.50
+dvx 1800 IN A 163.120.38.86
+itap 1800 IN A 163.120.1.243
+google2c711d7f094c14a4.gappstest 1800 IN CNAME google.com.
+addressbook 1800 IN A 163.120.128.254
+coursefiles 1800 IN A 163.120.6.51
+esource 1800 IN A 163.120.6.45
+depauw-dns 1800 IN A 163.120.6.100
+twoface 1800 IN A 163.120.5.184
+twoface 1800 IN MX 0 acad
+scottlinux 1800 IN A 163.120.62.245
+www.geology 1800 IN A 163.120.5.188
+saltville 1800 IN A 163.120.19.11
+saltville 1800 IN MX 0 acad
+vdipublic 1800 IN A 163.120.112.26
+_kpasswd._tcp 600 IN SRV 0 100 464 depauw1
+600 IN SRV 0 100 464 depauw_1
+listserv 1800 IN A 163.120.15.5
+mrtg 1800 IN A 163.120.13.9
+mrtg 1800 IN MX 0 acad
+maat.physics 1800 IN A 163.120.5.174
+astrawebclient 1800 IN A 163.120.6.99
+corpweb 1800 IN A 163.120.13.253
+arestest 1800 IN A 163.120.6.25
+_kerberos._udp 600 IN SRV 0 100 88 depauw1
+600 IN SRV 0 100 88 depauw_1
+admin-ihets-e0 1800 IN A 163.120.250.254
+psychlaser 1800 IN A 163.120.35.253
+pdqbach.csc 1800 IN A 163.120.16.243
+sharepoint2010 1800 IN A 163.120.6.207
+admin-e0 1800 IN A 163.120.60.1
+mypl2 1800 IN A 163.120.14.27
+pa002 1800 IN A 163.120.6.9
+penguin 1800 IN A 163.120.5.183
+moodlearchives 1800 IN A 163.120.6.32
+csc 1800 IN CNAME santa.csc
+ezproxytest 1800 IN A 163.120.1.91
+remote 1800 IN A 199.8.200.2
+_ldap._tcp.default-first-site-name._sites.dc._msdcs 600 IN SRV 0 100 389 depauw_1
+dpuadweb 1800 IN A 163.120.6.217
+connect 1800 IN CNAME redirector.schoolsapp.com.
+ns5.dnsmadeeasy.com. 1800 IN A 208.94.148.13
+ns5.dnsmadeeasy.com. 1800 IN AAAA 2600:1800:5::1
+forager 1800 IN A 163.120.6.152
+docs 1800 IN CNAME ghs.google.com.
+bhowardpc.csc 1800 IN A 163.120.16.245
+ccl-laser 1800 IN A 163.120.21.2
+terra.csc 1800 IN A 163.120.18.36
+www.geo 1800 IN A 163.120.18.30
+blogging 1800 IN CNAME www.compendiumblog.com.
+prancer.csc 1800 IN A 163.120.3.11
+prancer.csc 1800 IN WKS 163.120.3.11 6 20 23 25 79
+prancer.csc 1800 IN MX 0 santa.csc
+testgapps 1800 IN MX 1 aspmx.l.google.com.
+lysithea.csc 1800 IN A 163.120.18.77
+heat 1800 IN A 163.120.6.6
+admin1.dpuad 1200 IN A 10.1.1.201
+_ldap._tcp.default-first-site-name._sites 600 IN SRV 0 100 389 depauw1
+600 IN SRV 0 100 389 depauw_1
+dpuad 600 IN AAAA 2002:101:101::101:101
+alumni 1800 IN A 163.120.7.37
+alumni 1800 IN MX 10 barracuda2
+sales-office 1200 IN A 163.120.31.18
+dyknow 1800 IN A 163.120.1.150
+libanswers 1800 IN CNAME libanswers.com.
+_ldap._tcp 600 IN SRV 0 100 389 depauw1
+600 IN SRV 0 100 389 depauw_1
+donner.csc 1800 IN A 163.120.3.16
+donner.csc 1800 IN WKS 163.120.3.16 6 20 23 25 79
+neptune.csc 1800 IN A 163.120.18.8
+moodlearchive 1800 IN A 163.120.14.234
+runner.csc 1800 IN A 163.120.16.9
+europa.csc 1800 IN A 163.120.18.64
+depauwgeoserver 1800 IN A 163.120.19.3
+_ldap._tcp.default-first-site-name._sites.dpuad 600 IN SRV 0 100 389 dhcp-dns-1.dpuad
+byronlinux 1800 IN A 163.120.62.245
+cedriclinux 1800 IN A 163.120.62.245

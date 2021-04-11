@@ -1,0 +1,60 @@
+@ 46800 IN SOA ns1.hdh.nl. hostmaster.hdh.nl. 2015031306 14400 3600 604800 86400
+@ 1800 IN NS ns1.hdh.nl.
+1800 IN NS ns1.surfnet.nl.
+1800 IN NS ns2.hdh.nl.
+1800 IN NS ns3.hdh.nl.
+@ 46800 IN A 84.53.65.45
+@ 3600 IN MX 0 hotelschool-nl.mail.protection.outlook.com.
+@ 3600 IN TXT "MS=ms20753276"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+3600 IN TXT "v=spf1 a mx a:mx01.hotelschool.nl mx:otys.nl mx:smtp.interconnect.nl ip4:194.171.44.12 ip4:194.171.44.106 ip4:194.171.44.21 ip4:194.171.42.125 ip4:194.171.42.33 ip4:194.171.59.58 include:spf.protection.outlook.com include:otys.nl" "include:smtp.interconnect.nl -all"
+incidents 46800 IN A 194.171.44.32
+sip 46800 IN CNAME sipdir.online.lync.com.
+ldap 46800 IN A 10.70.1.15
+forms 46800 IN A 194.171.44.34
+oecd.mediacentre 46800 IN A 194.171.44.34
+registration 46800 IN A 212.83.216.4
+euromonitor.mediacentre 46800 IN A 194.171.44.34
+mediacentre 46800 IN A 194.171.44.34
+youforce 46800 IN A 194.171.44.34
+netdrive 46800 IN A 194.171.44.33
+fenb 46800 IN A 194.171.44.34
+video 46800 IN A 194.171.44.34
+_sipfederationtls._tcp 46800 IN SRV 100 1 5061 sipfed.online.lync.com.
+intra 46800 IN A 194.171.44.32
+webmail 46800 IN A 194.171.42.14
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+nen.mediacentre 46800 IN A 194.171.44.34
+emeraldinsight.mediacentre 46800 IN A 194.171.44.34
+mx01 46800 IN A 194.171.44.20
+mx02 46800 IN A 194.171.44.13
+syllabusapp 10 IN A 194.171.44.7
+wrb 46800 IN A 194.171.44.21
+remote 46800 IN A 194.171.44.102
+www.schedules 46800 IN A 194.171.44.27
+test 46800 IN A 194.171.44.32
+stream 46800 IN A 194.171.44.34
+lyncdiscover 46800 IN CNAME webdir.online.lync.com.
+unwto.mediacentre 46800 IN A 194.171.44.34
+www 46800 IN A 84.53.65.45
+schedules 46800 IN A 194.171.44.27
+localhost 46800 IN A 127.0.0.1
+marketline.mediacentre 46800 IN A 194.171.44.34
+my 1800 IN A 194.171.44.12
+factflow 46800 IN A 194.171.44.85
+complaint 46800 IN A 194.171.44.25
+mx-dh-01 46800 IN A 213.199.154.87
+ebsco.mediacentre 46800 IN A 194.171.44.34
+sciencedirect.mediacentre 46800 IN A 194.171.44.34
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+adfs 46800 IN A 194.171.44.70
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+streaming 46800 IN A 194.171.44.32
+selection 46800 IN A 194.171.44.25
+studentapp 46800 IN A 194.171.42.20
+messenger 46800 IN A 194.171.44.25
+payment 46800 IN A 194.171.44.34
+osirisbackoffice 46800 IN A 194.171.44.32
+raet 46800 IN A 10.70.102.201
+onlineportfolio 46800 IN A 82.201.91.202
+office 46800 IN CNAME login.microsoftonline.com.

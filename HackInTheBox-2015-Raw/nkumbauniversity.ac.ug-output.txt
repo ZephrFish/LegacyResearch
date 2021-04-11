@@ -1,0 +1,17 @@
+@ 21600 IN SOA ns1.cfi.co.ug. mpeirwe.cfi.co.ug. 2015042115 10800 3600 604800 21600
+@ 21600 IN NS ns1.cfi.co.ug.
+21600 IN NS ns2.cfi.co.ug.
+21600 IN NS ns3.cfi.co.ug.
+21600 IN NS ns4.cfi.co.ug.
+@ 21600 IN A 108.168.172.178
+@ 21600 IN MX 1 ASPMX.L.GOOGLE.COM.
+21600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+21600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+21600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+21600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+21600 IN MX 20 mailhost00.cfi.co.ug.
+manage 21600 IN CNAME intranet.zeevarsity.com.
+admissions 21600 IN CNAME admissions.zeevarsity.com.
+www 21600 IN A 108.168.172.178
+webmail 21600 IN A 174.36.245.66
+enkumba 21600 IN CNAME student.zeevarsity.com.

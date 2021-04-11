@@ -1,0 +1,243 @@
+@ 10800 IN SOA ruby root 2014112002 43200 900 604800 10800
+@ 10800 IN NS ruby
+10800 IN NS bera
+10800 IN NS ns1.ac.lk.
+@ 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+@ 10800 IN A 192.248.48.3
+brown 10800 IN A 192.248.48.133
+enlib 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+orange 10800 IN A 192.248.48.12
+smgt 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+stdtwin1 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+dceu 10800 IN A 192.248.48.173
+fish 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+is 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+www.debian 10800 IN CNAME mirror
+fosmis 10800 IN CNAME paravi
+oceandata 10800 IN A 192.248.48.130
+ftp.mirror 10800 IN CNAME mirror
+squid 10800 IN A 192.248.48.5
+badm 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+eng 604800 IN NS ruby
+604800 IN NS bera
+ls 604800 IN NS ruby
+604800 IN NS bera
+oceandata.phy 10800 IN CNAME oceandata
+eie 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+wiki 10800 IN CNAME repo
+barana 10800 IN A 192.248.48.132
+ruhsci 10800 IN CNAME mail
+sci 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+soil 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+soil 10800 IN TXT "google-site-verification=ijB49l0gV5MS6tnixOuyvXXtUj38r7XfKvyj0yaqDCQ"
+www 10800 IN CNAME alpha
+dcsproject 10800 IN A 192.248.48.83
+nsisd 10800 IN A 192.248.50.90
+eltu 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+crop 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+crop 10800 IN TXT "google-site-verification=52INP0i--2RAUsDKB7HbH65bWapimPr8JLdQjII1i0E"
+kaputa 10800 IN A 192.248.48.150
+green 10800 IN A 192.248.50.249
+_sip._udp 10800 IN SRV 0 0 5060 sip
+med 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+webcast 10800 IN CNAME live
+csstaff 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+nowark 10800 IN CNAME nowark.ls
+soci 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+mirror 10800 IN A 192.248.48.8
+fmf 10800 IN CNAME kotlar.mgt
+sip 10800 IN A 192.248.48.16
+dilru 10800 IN A 192.248.48.160
+charm 10800 IN A 192.248.48.154
+mgt 10800 IN NS ruby
+10800 IN NS bera
+geo 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+research 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+www.aceps 10800 IN CNAME green
+ftp.math 10800 IN CNAME barana
+agchem 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+chandana 10800 IN A 192.248.48.33
+smg 10800 IN CNAME obrien.mgt
+scilms 10800 IN A 192.248.48.85
+cahc 10800 IN CNAME repo
+rjs 10800 IN CNAME paravi
+agbio 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+agbio 10800 IN TXT "google-site-verification=_7n7MRQXdvRIIF7TPJZnSZDg9Q_RNhijO45h7S76Wc0"
+engpg 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+mme 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+agri 604800 IN NS ruby
+604800 IN NS bera
+fst 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+fst 10800 IN TXT "google-site-verification=kVqfFdmsdJrhU-VUFP9J5WavmmKvrVNuVAMhwZcBqQA"
+chem 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+ftp.debian 10800 IN CNAME mirror
+www.dcs 10800 IN CNAME www.dcs.ls
+forum 10800 IN CNAME repo
+std 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+cache 10800 IN A 192.248.48.9
+engug 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+hasuru.lib 10800 IN CNAME dilru
+alphatwin 10800 IN A 192.248.48.84
+acct 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+nawam 10800 IN A 192.248.48.25
+rubytwin 10800 IN A 192.248.48.111
+phyd 10800 IN A 192.248.48.145
+zoo 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+paravi 10800 IN A 192.248.48.10
+repo 10800 IN A 192.248.48.163
+sinh 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+araliya 10800 IN A 192.248.50.87
+tms 10800 IN CNAME repo
+swm 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+parrot 10800 IN A 192.248.48.6
+alpha 10800 IN AAAA 2401:dd00:38::3
+alpha 10800 IN A 192.248.48.3
+medicine 10800 IN A 192.248.48.146
+agecon 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+agecon 10800 IN TXT "google-site-verification=vOthWshfPjjeXyI0YFZ-VEdjyEiuJoS7VV6Ia12Zvzc"
+www.lib 10800 IN CNAME brown
+wwwi 10800 IN CNAME wwwi.ls
+hsscc 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+ansci 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+ansci 10800 IN TXT "google-site-verification=JGuUbg52D1b71RwrenhNvbj85RdK_bs64P2saj_xDR0"
+ccct 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+hms 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+hms 10800 IN A 192.248.48.83
+nilwala 10800 IN A 192.248.48.158
+mail 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+mail 10800 IN A 192.248.48.7
+pedu 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+dcslms 10800 IN A 192.248.48.139
+agricc 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+agricc 10800 IN TXT "google-site-verification=Xr3ZFTRrLNRu_yXQkaKPF_KI7KC_CbYtpNpJJomysic"
+www.physics 10800 IN CNAME charm
+isuru.lib 10800 IN CNAME isuru
+www.fmst 10800 IN CNAME nilwala
+services 10800 IN CNAME repo
+sodium 10800 IN A 192.248.48.143
+stdtwin 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+list 10800 IN A 192.248.48.142
+econ 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+ojs 10800 IN CNAME repo
+uortube 10800 IN CNAME repo
+comp 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+live 10800 IN A 192.248.48.36
+pbs 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+maillist 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+bot 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+admin 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+ccit 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+hss 10800 IN NS ruby
+10800 IN NS bera
+bera 10800 IN A 192.248.48.2
+ruby 10800 IN A 192.248.48.1
+maths1 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+student 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+lib 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+maths 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+clc 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+www.rjs 10800 IN CNAME alpha
+www.dceu 10800 IN CNAME dceu
+dilru.lib 10800 IN CNAME dilru
+stu 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+ageng 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+ageng 10800 IN TXT "google-site-verification=35tiLnp2ubcBMtdTdqI4fFEZrgAbZWCeR2mTOa5S0oI"
+muthu 10800 IN A 192.248.48.134
+www.sci 10800 IN CNAME alpha
+aglib 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+aglib 10800 IN TXT "google-site-verification=7aOXxdOciBOiZ1bVqIQUkPJejgC6w2hyiH6g1ds_SDQ"
+phy 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+dcs 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+www.oceandata.phy 10800 IN CNAME oceandata
+stdmail 10800 IN A 192.248.48.11
+ext.dcs 10800 IN CNAME www.dcs.ls
+csstd 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+www.medicine 10800 IN CNAME medicine
+cee 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+agricu 10800 IN TXT "google-site-verification=aBF6liwDFIFuLJGKKsg4kHh-OgEkFWNWbNdAmVOEAHY"
+isuru 10800 IN A 192.248.48.135
+sodium.chem 10800 IN CNAME sodium
+www.medi 10800 IN CNAME araliya
+castle 10800 IN A 192.248.48.82
+umgt 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+dystra.engtemp 10800 IN CNAME dystra
+physics 10800 IN CNAME charm
+ssocs 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+stdeng 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+cc 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+hist 10800 IN MX 50 in-relay.ac.lk.
+10800 IN MX 60 in-relay-t.ac.lk.
+alumni 10800 IN CNAME repo
+cs 604800 IN NS ruby
+604800 IN NS bera
+agristu 10800 IN MX 50 aspmx.l.google.com.
+10800 IN MX 60 alt1.aspmx.l.google.com.
+10800 IN MX 60 alt2.aspmx.l.google.com.
+10800 IN MX 70 aspmx2.googlemail.com.
+10800 IN MX 70 aspmx3.googlemail.com.
+10800 IN MX 70 aspmx4.googlemail.com.
+10800 IN MX 70 aspmx5.googlemail.com.
+cds.lib 10800 IN CNAME nowark.ls
+www.math 10800 IN CNAME barana
+lihini 10800 IN A 192.248.48.4

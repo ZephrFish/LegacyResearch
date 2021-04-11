@@ -1,0 +1,19 @@
+@ 86400 IN SOA ns4.hoststore.info. admin.hoststore.net. 2008030524 10800 3600 604800 86400
+@ 86400 IN NS ns3.hoststore.info.
+86400 IN NS ns4.hoststore.info.
+@ 86400 IN A 173.0.143.156
+@ 3600 IN MX 1 ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+* 86400 IN A 173.0.143.156
+cpanel 86400 IN A 173.0.143.156
+cpanel 86400 IN MX 10 mail9.hoststore.info.
+mail.cpanel 86400 IN CNAME mail9.hoststore.info.
+*.oem 86400 IN A 173.0.143.156
+mail 86400 IN CNAME mail8.hoststore.info.
+mail.oem 86400 IN CNAME mail9.hoststore.info.
+*.cpanel 86400 IN A 173.0.143.156
+oem 86400 IN A 173.0.143.156
+oem 86400 IN MX 10 mail9.hoststore.info.

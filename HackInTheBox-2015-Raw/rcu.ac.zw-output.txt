@@ -1,0 +1,25 @@
+@ 86400 IN SOA ns1.yoafrica.com. dnsadmin.yoafrica.com. 2014022501 21600 1800 345600 86400
+@ 86400 IN NS ns1.yoafrica.com.
+86400 IN NS ns2.yoafrica.com.
+86400 IN NS ns3.yoafrica.com.
+86400 IN NS ns4.yoafrica.com.
+@ 86400 IN A 196.44.176.55
+@ 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+www 86400 IN A 196.44.176.55
+mail.elearning 86400 IN CNAME mail
+mail 86400 IN A 209.85.227.27
+www.elearning 86400 IN A 196.44.176.55
+elearning 86400 IN A 196.44.176.55
+elearning 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.

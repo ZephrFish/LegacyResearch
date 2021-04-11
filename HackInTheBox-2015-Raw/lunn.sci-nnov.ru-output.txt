@@ -1,0 +1,30 @@
+@ 3600 IN SOA @ serg 2014110701 10800 3600 3600000 86400
+@ 3600 IN NS ns.sci-nnov.ru.
+3600 IN NS @
+@ 3600 IN MX 10 @
+@ 3600 IN A 62.220.38.49
+www.lib 3600 IN CNAME proxy
+interoff 3600 IN A 62.220.38.51
+oper 3600 IN CNAME proxy
+www.amcen 3600 IN CNAME amcen
+stat 3600 IN CNAME proxy
+mail-lists 3600 IN A 62.220.38.49
+lunnlib 3600 IN A 62.220.38.50
+www.job 3600 IN CNAME @
+io 3600 IN A 62.220.38.49
+proxy1 3600 IN A 62.220.38.53
+buhgalt 3600 IN CNAME proxy
+mail 3600 IN A 62.220.38.49
+amcen 3600 IN CNAME proxy
+www.admin 3600 IN CNAME @
+www.btc 3600 IN CNAME gis.cek.ru.
+lib 3600 IN A 62.220.38.50
+www.mail 3600 IN A 62.220.38.49
+nglu-ppp 3600 IN A 192.168.1.5
+www 3600 IN A 82.208.88.66
+www.fmo 3600 IN A 62.220.38.52
+ns 3600 IN A 62.220.38.49
+proxy 3600 IN A 62.220.38.50
+distance 3600 IN A 62.220.38.53
+cs 3600 IN A 62.220.38.51
+www.tmp 3600 IN CNAME @

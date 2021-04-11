@@ -1,0 +1,66 @@
+@ 300 IN SOA kuikuru ctic_tecnologia 2006022853 3600 600 1209600 3600
+@ 300 IN TXT "MS=ms64163590"
+300 IN TXT "v=spf1 mx ip4:200.129.133.192/27 -all"
+300 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+@ 300 IN NS kuikuru
+300 IN NS esmeralda
+@ 300 IN A 200.129.133.216
+@ 300 IN MX 10 kayabi
+waiwai 300 IN A 200.129.133.205
+ms95288831 300 IN CNAME RED001.mail.microsoftonline.com
+webmail 300 IN A 200.129.133.216
+arquivos 300 IN A 200.129.133.216
+surui3 300 IN CNAME waiwai
+ftp.bancodados 300 IN A 200.129.133.216
+ftp.ppad 300 IN A 200.129.133.216
+karaja 300 IN A 200.129.133.200
+surui 300 IN A 200.129.133.216
+sip 300 IN CNAME sipdir.online.lync.com.
+colaboracao 300 IN A 200.129.133.200
+perola.cci 300 IN A 200.129.133.215
+www.bcc 300 IN A 200.129.133.216
+zoes 300 IN A 200.129.133.206
+www.aprendiz 300 IN A 200.129.133.217
+kuikuru 300 IN A 200.129.133.130
+pop3 300 IN CNAME perola
+forum.aprendiz 300 IN A 200.129.133.217
+cci 300 IN MX 10 kayabi.cci
+autodiscover 300 IN CNAME autodiscover.outlook.com.
+msoid 300 IN CNAME clientconfig.microsoftonline-p.net.
+surui2 300 IN CNAME xingu
+kayabi 300 IN A 200.129.133.222
+checkin 300 IN CNAME checkinser.elasticbeanstalk.com.
+esmeralda 300 IN A 200.129.133.212
+mediaserver 300 IN A 200.129.133.210
+ftp 300 IN CNAME xingu
+pataxo2 300 IN A 200.208.171.242
+lyncdiscover 300 IN CNAME webdir.online.lync.com.
+www 300 IN A 200.129.133.216
+kayabi.cci 300 IN A 200.129.133.222
+mysql 300 IN A 200.129.133.216
+kampas 300 IN A 200.129.133.208
+webmail.cci 300 IN A 200.129.133.215
+turquesa 300 IN A 200.129.133.217
+xingu 300 IN A 200.129.133.221
+www1 300 IN CNAME esmeralda
+_sipfederationtls._tcp 300 IN SRV 100 1 5061 sipfed.online.lync.com.
+tembe 300 IN A 200.129.133.214
+bcc 300 IN MX 10 www.bcc
+radius 300 IN A 200.129.133.132
+perola 300 IN A 200.129.133.215
+_sip._tls 300 IN SRV 100 1 443 sipdir.online.lync.com.
+caripunas 300 IN A 200.129.133.210
+www.tvweb 300 IN A 200.129.133.216
+www3 300 IN CNAME esmeralda
+www4 300 IN CNAME surui
+www5 300 IN CNAME zoes
+_sip._udp 300 IN SRV 0 0 5060 tembe.unama.br
+www7 300 IN CNAME esmeralda
+portalfuncionario 300 IN A 200.129.133.213
+portalrh 300 IN A 189.80.207.106
+www.licenciaturasintegradas 300 IN A 200.129.133.216
+dol 300 IN A 189.80.207.107
+waura 300 IN A 200.129.133.207
+ftp.lyceum 300 IN A 200.129.133.212
+smtp 300 IN CNAME perola
+www2 300 IN CNAME esmeralda

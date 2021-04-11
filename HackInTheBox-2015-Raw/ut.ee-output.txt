@@ -1,0 +1,1520 @@
+@ 10800 IN SOA ns hostmaster.ns 2015043000 3600 1000 1209600 10800
+@ 10800 IN A 193.40.5.73
+@ 10800 IN TXT "kKOeal7QtSBh9KqU122jcRVhAOO6z8DTS2zukE/acWVPnQp5TvVUQSOFZnTBEdw/cWo8nvh21DSZs2HqfniNLQ=="
+10800 IN TXT "v=spf1 ip4:193.40.5.0/24 ip6:2001:bb8:2002:500::/64 a:smtp1.it.da.ut.ee a:smtp2.it.da.ut.ee a:bounces.ut.ee a:vmail.ut.ee a:avicenna.med.ut.ee a:math.ut.ee a:psych.ut.ee a:utlib.ee a:wpad.utlib.ee  ?all"
+@ 10800 IN NS ns
+10800 IN NS ns2
+10800 IN NS ns2.EENet.ee.
+@ 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+narva 10800 IN MX 0 mail.narva
+narva 10800 IN SPF "v=spf1 +a +mx -all"
+narva 10800 IN TXT "v=spf1 +a +mx -all"
+narva 10800 IN A 193.40.211.82
+space 10800 IN MX 10 ASPMX.L.GOOGLE.COM.
+10800 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+10800 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+10800 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+10800 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+10800 IN MX 30 ASPMX4.GOOGLEMAIL.COM.
+10800 IN MX 30 ASPMX5.GOOGLEMAIL.COM.
+sic2014 10800 IN CNAME vhosts
+vivaarium.tymri 10800 IN CNAME jaan
+arstil 10800 IN CNAME jaan
+www.teaduskool 10800 IN CNAME drupaldev
+natarc 10800 IN CNAME chaos
+basket 10800 IN CNAME jaan
+www.etno 10800 IN CNAME robert.it.da
+ph-fuajee-infomonitor 10800 IN A 193.40.32.229
+www.flfi 10800 IN CNAME drupaldev
+malumang 10800 IN CNAME vhosts
+winsamba 10800 IN NS 2003dctest1.winsamba
+10800 IN NS 2008dctest1.winsamba
+statmt 10800 IN CNAME demeter.at.mt
+www.happypregnancy 10800 IN CNAME happypregnancy.edicy.co.
+www.demokraatia 10800 IN CNAME jaan
+sss2 10800 IN CNAME jaan
+bookshop 10800 IN NS ns
+10800 IN NS ns2
+innovativecurricula 10800 IN CNAME vhosts
+digitv 10800 IN A 172.17.0.5
+www.flgr 10800 IN CNAME drupaldev
+www.taipla 10800 IN CNAME vhosts
+www.aki 10800 IN CNAME drupaldev
+www.meesteuuring2014 10800 IN CNAME jaan
+failid.lms 10800 IN CNAME jaan
+nordicprosody 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+nordicprosody 10800 IN A 193.40.5.48
+ropka-gw 10800 IN A 193.40.11.22
+www.arvutimuuseum 10800 IN CNAME jaan
+vana.ims 10800 IN AAAA 2001:bb8:2002:2300::95
+vana.ims 10800 IN A 193.40.35.149
+med.taastus.drupaltest 10800 IN CNAME drupaltest
+sympa 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2183
+sympa 10800 IN MX 1 sympa
+sympa 10800 IN A 172.17.0.140
+www.virtualtour 10800 IN CNAME vhosts
+tbox11 10800 IN A 193.40.11.50
+siseveeb2 10800 IN CNAME taavi
+tbox14 10800 IN A 193.40.14.122
+tbox15 10800 IN A 193.40.15.190
+tbox16 10800 IN A 193.40.16.50
+pdc.tuit 10800 IN A 193.40.35.8
+www.iavs2013 10800 IN CNAME jaan
+uus.msc 10800 IN CNAME jaan
+sein2 10800 IN A 193.40.12.44
+tallinn 10800 IN NS ns
+10800 IN NS ns2
+tbox24 10800 IN A 172.17.20.4
+sisseastuja.pc 10800 IN A 193.40.136.69
+kklive 10800 IN CNAME domains.live.com.
+www.stomatoloogia 10800 IN CNAME drupaldev
+kmdk.doktorikool 10800 IN CNAME uusrobert.ccu
+syntax 10800 IN CNAME demeter.at.mt
+sav 10800 IN A 193.40.5.88
+www.yti 10800 IN CNAME drupaldev
+tbox34 10800 IN A 193.40.34.50
+natmuseum_old 10800 IN CNAME uusrobert.ccu
+tbox36 10800 IN A 193.40.37.135
+www.flku 10800 IN CNAME drupaldev
+anton 10800 IN A 213.35.139.73
+stat 10800 IN A 193.40.5.60
+fysiot.struktuur 10800 IN CNAME uusrobert.ccu
+xn--htupik-oxad 10800 IN CNAME vhosts
+vhosts 10800 IN A 193.40.5.48
+cmcm 10800 IN CNAME avicenna.med
+www.ecodk 10800 IN CNAME robert.it.da
+www.matsci 10800 IN CNAME jaan
+wellnesseducation.pc 10800 IN A 193.40.136.69
+oisabi 10800 IN CNAME jaan
+rnk 10800 IN CNAME jaan
+kooligeograafia 10800 IN CNAME taurus.gg.bg
+teaduskool2.drupaltest 10800 IN CNAME drupaltest
+cs10test 10800 IN A 193.40.5.138
+www.maailmakeeled 600 IN CNAME vhosts
+jaan 10800 IN AAAA 2001:bb8:2002:500:221:28ff:fe44:3c7e
+jaan 10800 IN A 193.40.5.19
+www.ark 10800 IN CNAME jaan
+moodle4 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:6994
+moodle4 10800 IN A 193.40.5.81
+www.cmus 10800 IN CNAME jaan
+test.biomedicum 10800 IN CNAME vhosts
+oi.konverents 10800 IN CNAME uusrobert.ccu
+www.biomeddk 10800 IN CNAME robert.it.da
+csi.narva 10800 IN CNAME csi.postbureau.eu.
+teaduskool 10800 IN CNAME drupaldev
+vector.ims 10800 IN A 193.40.35.98
+m 10800 IN CNAME kaamel
+xn--bjrn-6qa 10800 IN A 193.40.5.159
+pollen 10800 IN CNAME vhosts
+andmeladu 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:e3d4
+andmeladu 10800 IN A 193.40.5.77
+fw6.ims 10800 IN AAAA 2001:bb8:2002:2300:7231:40ff:fe03:5128
+flaj 10800 IN CNAME drupaldev
+foodweb 10800 IN CNAME chaos
+futsal 10800 IN CNAME jaan
+cms.eio 10800 IN CNAME eio
+r2m3 10800 IN A 193.40.15.75
+www.ats 10800 IN CNAME vhosts
+www.innovativecurricula 10800 IN CNAME vhosts
+memory2007.struktuur 10800 IN CNAME uusrobert.ccu
+energia 10800 IN CNAME vhosts
+www.baltic 10800 IN A 193.40.5.130
+kadakaraal 10800 IN AAAA 2001:bb8:2002:500:21f:d0ff:fe22:bbf4
+kadakaraal 10800 IN A 193.40.15.28
+kalateave 10800 IN CNAME jaan
+www.kohvik 10800 IN CNAME kohvik
+www4.muuseum 10800 IN CNAME uusrobert.ccu
+psych 10800 IN NS ns2
+10800 IN NS sein.psych
+www.popbio2013 10800 IN CNAME jaan
+www4.finance 10800 IN CNAME ak10.mtk
+rsr 10800 IN CNAME jaan
+euhofa2011.pc 10800 IN A 193.40.136.69
+www.oendusteadus 10800 IN CNAME drupaldev
+www4.curriculum 10800 IN CNAME uusrobert.ccu
+mmtdk 10800 IN A 194.204.33.28
+arealling 10800 IN CNAME ghs.google.com.
+www.bns 10800 IN CNAME jaan
+www.gisweb2 10800 IN CNAME gislabor.gg.bg
+stomatoloogia 10800 IN CNAME drupaldev
+www.talvekad.pc 10800 IN CNAME jaan
+strm 10800 IN A 193.40.5.174
+www.malumang 10800 IN CNAME vhosts
+harald-net 10800 IN A 193.40.12.0
+flfi 10800 IN CNAME drupaldev
+uus.sime 10800 IN CNAME vhosts
+www.ims 10800 IN CNAME ims
+turismiope 10800 IN A 193.40.136.75
+eliontest 10800 IN A 193.40.36.67
+bounces 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fea5:7b48
+bounces 10800 IN A 193.40.5.137
+ajutine.ims 10800 IN A 193.40.35.82
+www.fmnt 10800 IN CNAME jaan
+flgr 10800 IN CNAME drupaldev
+vanaritso6 10800 IN AAAA 2001:bb8:2002:500:20d:60ff:fe4d:a4e
+eom8 10800 IN CNAME jaan
+spe 10800 IN NS ns
+10800 IN NS ns2
+www.natmuseum 10800 IN CNAME drupaldev
+wwww.ideelabor 10800 IN CNAME siim
+genomics 10800 IN CNAME bioinfo.ebc.ee.
+psychology 10800 IN CNAME drupaldev
+prism 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:efe8
+prism 10800 IN A 193.40.5.209
+p1 10800 IN NS ns
+10800 IN NS ns2
+zooloogia 10800 IN CNAME drupaldev
+gvinfra 10800 IN CNAME gvinfra3.hpc
+www.muuseum 10800 IN CNAME drupaldev
+roberto 10800 IN AAAA 2001:bb8:2002:500:20e:cff:febc:f8f5
+roberto 10800 IN A 193.40.5.53
+www.finance 10800 IN CNAME drupaldev
+ims-xen.ims 10800 IN AAAA 2001:bb8:2002:2300::4a
+ims-xen.ims 10800 IN A 193.40.35.74
+programmeerimine 10800 IN CNAME jaan
+grammar2013 10800 IN CNAME jaan
+www.kkobs 10800 IN CNAME jaan
+foorum 10800 IN CNAME jaan
+www-2 10800 IN AAAA 2001:bb8:2002:500::44
+www-2 10800 IN A 193.40.5.19
+flku 10800 IN CNAME drupaldev
+backbone6 10800 IN AAAA 2001:bb8:2002:1600::
+cache 10800 IN CNAME cache1
+www.evolbio 10800 IN CNAME vhosts
+teekaart 10800 IN CNAME vhosts
+sss 10800 IN CNAME jaan
+www.pedagogicum 10800 IN CNAME drupaldev
+Rapidshare.narva 10800 IN A 193.40.211.75
+cs10prod 10800 IN A 193.40.5.6
+www.mobilitylab 10800 IN CNAME jaan
+tahetui 10800 IN A 193.40.31.153
+nordicnarratologynet 10800 IN CNAME uusrobert.ccu
+tudeng 10800 IN TXT "google-site-verification=nU7ajDEc8OQpB4073OPAsbzWCBbrdwwjLTCPhZL4zKg"
+tudeng 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+lxctest 10800 IN A 193.40.5.116
+efloora 10800 IN CNAME jaan
+nsrhost 10800 IN CNAME pasun
+mehisetest 10800 IN CNAME jaan
+energeetika 10800 IN CNAME vhosts
+echelon 10800 IN AAAA 2001:bb8:2002:500:2e0:81ff:fe52:a4ac
+echelon 10800 IN A 193.40.5.106
+digiarhiiv.loom 10800 IN CNAME digiarhiiv.gg.bg
+cmus 10800 IN CNAME jaan
+mob.pc 10800 IN A 193.40.136.69
+www.epaev 10800 IN CNAME jaan
+virtualtour 10800 IN CNAME vhosts
+multimeedia 10800 IN CNAME jaan
+arminia 10800 IN A 193.40.12.202
+maverick 10800 IN A 193.40.15.10
+www.biomeditsiin 10800 IN CNAME drupaldev
+argikultuur 10800 IN CNAME jaan
+ernesto 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:5f8
+ernesto 10800 IN A 193.40.5.93
+mukoloogiauhing 10800 IN CNAME jaan
+video 10800 IN A 193.40.32.5
+tysa1 10800 IN A 193.40.15.68
+canerieh 10800 IN CNAME jaan
+echo360haldur 10800 IN CNAME chuck
+linn 10800 IN A 193.40.5.104
+www.ctg 10800 IN CNAME ronk1.at.mt
+www.kiletehnoloogia 10800 IN CNAME jaan
+jeful 10800 IN CNAME jaan
+www.vilistlaselu 10800 IN CNAME vhosts
+varakamber 10800 IN CNAME jaan
+biomedicum 10800 IN CNAME vhosts
+torfl 10800 IN CNAME jaan
+dokumendid.sh 10800 IN CNAME vhosts
+www.vilistlane 10800 IN CNAME jaan
+kaameral4 10800 IN A 193.40.35.125
+vaka 10800 IN CNAME jaan
+lykka.struktuur 10800 IN CNAME uusrobert.ccu
+www.utrecht2015 10800 IN CNAME jaan
+www.tk 10800 IN CNAME uusrobert.ccu
+rektor 10800 IN A 193.40.15.147
+test.cl 10800 IN CNAME vhosts
+projektijuht.tymri 10800 IN CNAME jaan
+maht 10800 IN CNAME uusrobert.ccu
+www.geoloogia 10800 IN CNAME drupaldev
+sht 10800 IN CNAME jaan
+www.philologic 10800 IN CNAME jaan
+www.worldste2010 10800 IN CNAME vhosts
+www4.isu 10800 IN CNAME robert.it.da
+hugo 10800 IN NS ns
+10800 IN NS ns2
+www.tuuma 10800 IN CNAME vhosts
+www.ekttk 10800 IN CNAME ekttk
+www.dph 10800 IN CNAME haug.med
+www.eha 10800 IN CNAME jaan
+alkeemia-gw 10800 IN A 193.40.5.62
+fmnt 10800 IN CNAME jaan
+www.arealling 10800 IN CNAME ghs.google.com.
+openspecimen 10800 IN A 172.17.60.115
+cacti 10800 IN CNAME tbox
+keeleressursid03 10800 IN CNAME korpused.keeleressursid.ee.
+tbox21 10800 IN A 193.40.21.9
+peremeditsiin 10800 IN CNAME drupaldev
+gitlab 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:daa6
+gitlab 10800 IN A 193.40.5.154
+meesteuuring2014 10800 IN CNAME jaan
+registration.pc 10800 IN A 193.40.136.69
+peegel 10800 IN A 193.40.32.76
+teoreetilinekeeleteadus 10800 IN CNAME veeb.keeleressursid.ee.
+www.eio 10800 IN CNAME demeter6.at.mt
+www.koolistatistika 10800 IN CNAME vhosts
+www.sihtasutus 10800 IN CNAME jaan
+admin 10800 IN NS ns
+10800 IN NS ns2
+10800 IN NS ns2.eenet.ee.
+vanapedagogicum 10800 IN CNAME vhosts
+demokraatiauuring 10800 IN CNAME vhosts
+halduroim 10800 IN CNAME jaan
+www.tips 10800 IN A 217.159.201.70
+digital-earth 10800 IN CNAME taurus.gg.bg
+vmail 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2171
+vmail 10800 IN A 193.40.5.83
+www.gwa2014 10800 IN CNAME jaan
+kontakt 10800 IN A 193.40.32.3
+joulutervitus 10800 IN CNAME vhosts
+sein6 10800 IN AAAA 2001:bb8:2002:fe::2
+10800 IN AAAA 2001:bb8:2002:ff::1
+10800 IN AAAA 2001:bb8:2002:500::1
+peokutse 10800 IN CNAME jaan
+vanakeel 10800 IN CNAME eesel.it.da
+murakas 3600 IN CNAME leesikas
+ak-gw6 10800 IN AAAA 2001:bb8:2002:fe::1
+10800 IN AAAA 2001:bb8:2002:700::1
+10800 IN AAAA 2001:bb8:2002:b00::1
+10800 IN AAAA 2001:bb8:2002:e00::1
+10800 IN AAAA 2001:bb8:2002:f00::1
+10800 IN AAAA 2001:bb8:2002:1600::2
+10800 IN AAAA 2001:bb8:2002:1a00::1
+10800 IN AAAA 2001:bb8:2002:2400::1
+passwd 10800 IN CNAME varss
+multimodal 10800 IN CNAME jaan
+www.ajaloomuuseum 10800 IN CNAME drupaldev
+us-drupal 10800 IN CNAME www
+www.inimgeograafia 10800 IN CNAME jaan
+iprint 10800 IN A 193.40.5.146
+www.arstil 10800 IN CNAME jaan
+pedak 10800 IN MX 1 loss
+www.ciiigeo 10800 IN CNAME map.gg.bg
+www.basket 10800 IN CNAME jaan
+oi 10800 IN NS ns
+10800 IN NS ns2
+avalik.sh 10800 IN CNAME vhosts
+keeleressursid01 10800 IN CNAME register.keeleressursid.ee.
+keeleressursid02 10800 IN CNAME projekt.keeleressursid.ee.
+jrnl 10800 IN NS ns
+10800 IN NS ns2
+10800 IN NS ns2.eenet.ee.
+timehost 10800 IN CNAME siim
+tbox 10800 IN AAAA 2001:bb8:2002:500::50
+tbox 10800 IN A 193.40.5.50
+math 10800 IN NS ns
+10800 IN NS ns2
+fmtdk.uus 10800 IN CNAME vhosts
+itback6 10800 IN AAAA 2001:bb8:2002:500::
+Sneezy.physic 10800 IN A 193.40.11.12
+www.sportsmedicine 10800 IN CNAME jaan
+athena.domenis 10800 IN A 193.40.5.188
+wiki 10800 IN AAAA 2001:bb8:2002:500::49
+wiki 10800 IN A 193.40.5.27
+www.bioinfo 10800 IN CNAME bioinfo.ebc.ee.
+www.canerieh 10800 IN CNAME jaan
+wserver.narva 10800 IN A 193.40.211.91
+loodusmuuseum 10800 IN CNAME drupaldev
+at-dom06.ims 10800 IN AAAA 2001:bb8:2002:2300:21e:67ff:fe03:c3c0
+test.pc 10800 IN A 193.40.136.69
+maildnsrr 10800 IN A 193.40.5.66
+10800 IN A 193.40.5.67
+history 10800 IN NS ns
+10800 IN NS ns2
+www4.ec 10800 IN CNAME uusrobert.ccu
+www.cccom 10800 IN CNAME jaan
+nevil 10800 IN CNAME vhosts
+xn--is-bka 10800 IN CNAME www.is
+fsprimergy.tuit 10800 IN A 193.40.35.30
+arnold 10800 IN AAAA 2001:bb8:2002:500:221:28ff:fe8e:cdab
+arnold 10800 IN A 193.40.5.84
+social 10800 IN CNAME vhosts
+server13 10800 IN A 193.40.12.78
+pcutproject.pc 10800 IN A 193.40.136.82
+www.ess 10800 IN CNAME jaan
+madli 10800 IN A 193.40.5.124
+bbb6 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:329c
+www.akmk 10800 IN CNAME vhosts
+www.etu 10800 IN CNAME jaan
+www.toovahendus 10800 IN CNAME robert.it.da
+webdesktop 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:d62d
+webdesktop 10800 IN A 193.40.5.172
+hermes 10800 IN AAAA 2001:bb8:2002:500:222:19ff:fe66:2437
+hermes 10800 IN A 193.40.5.22
+www.evk 10800 IN CNAME robert.it.da
+www.evn 10800 IN CNAME vhosts
+spss 10800 IN CNAME infutik
+hunoratsep 10800 IN CNAME jaan
+ilonatragel 10800 IN CNAME jaan
+www.oisabi 10800 IN CNAME jaan
+eap6.ims 10800 IN AAAA 2001:bb8:2002:2300:7221:17ff:fe03:5022
+wiki.pc 10800 IN A 193.40.136.75
+sport 10800 IN CNAME jaan
+leesikas 10800 IN AAAA 2001:bb8:2002:500:92b1:1cff:fe2e:4d9c
+leesikas 10800 IN A 193.40.5.16
+www.samm 10800 IN CNAME jaan
+mgtconf 10800 IN CNAME jaan
+www.esindus 10800 IN CNAME robert.it.da
+varundus.ims 10800 IN A 172.17.35.19
+arendustomcat 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:1f7e
+arendustomcat 10800 IN A 193.40.5.34
+ingu 10800 IN CNAME ingvar
+ewis2013 10800 IN CNAME utmall02.edicy.co.
+ns 10800 IN MX 1 berta.it.da
+10800 IN MX 1 carmen.it.da
+ns 10800 IN A 193.40.5.99
+6htu6pik 10800 IN CNAME vhosts
+bruno.ims 10800 IN A 193.40.35.97
+tagasiside 10800 IN TXT "v=spf1 ip4:193.40.5.0/24 ip6:2001:bb8:2002:500::/64 ~all"
+tagasiside 10800 IN MX 1 berta.it.da
+10800 IN MX 1 carmen.it.da
+tagasiside 10800 IN AAAA 2001:bb8:2002:500::48
+tagasiside 10800 IN A 193.40.5.95
+iur6 10800 IN AAAA 2001:bb8:2002:1a00::
+muuseum 10800 IN CNAME drupaldev
+eilyre 10800 IN A 172.17.0.83
+pc 10800 IN MX 10 pc
+pc 10800 IN A 193.40.136.66
+www.futsal 10800 IN CNAME jaan
+www.cms.eio 10800 IN CNAME eio
+jeful2 10800 IN CNAME jaan
+www.parimisoigus 10800 IN CNAME vhosts
+www.ese 10800 IN CNAME jaan
+lahetus 10800 IN CNAME jaan
+www.kooligeograafia 10800 IN CNAME taurus.gg.bg
+www.projektijuht.tymri 10800 IN CNAME jaan
+qfv2ztq5pyan 10800 IN CNAME gv-3vup3b6mpdwfqmpyaphc3buuayo6ef46oz2epayuecms33rjz3ma.domainverify.googlehosted.com.
+testsiseveeb 10800 IN CNAME kits.it.da
+www.tagasiside 10800 IN CNAME tagasiside
+www.ajakiri 10800 IN CNAME drupaldev
+turismikool 10800 IN A 199.34.228.100
+muuseuminoom 10800 IN A 193.40.5.96
+www4.pc 10800 IN A 193.40.5.184
+fw-sise6.ims 10800 IN AAAA 2001:bb8:2002:2300:7221:17ff:fe03:5018
+jabber 10800 IN A 193.40.5.113
+oi.taastus.drupaltest 10800 IN CNAME drupaltest
+www.rahvatervis 10800 IN CNAME jaan
+olaf 10800 IN AAAA 2001:bb8:2002:500:2e0:81ff:fedb:29d9
+olaf 10800 IN A 193.40.5.33
+loss-gw 10800 IN A 193.40.12.9
+10800 IN A 193.40.12.43
+10800 IN A 193.40.12.193
+10800 IN A 193.40.133.210
+10800 IN A 193.40.133.214
+gitlab.eilyre 10800 IN A 193.40.15.96
+foto 10800 IN A 193.40.32.22
+gisweb 10800 IN CNAME vmware.gg.bg
+icv.ims 10800 IN AAAA 2001:bb8:2002:2300::92
+icv.ims 10800 IN A 193.40.35.146
+wpad 10800 IN CNAME cache1
+www4.pedagogicum 10800 IN CNAME uusrobert.ccu
+www.fmtdk.uus 10800 IN CNAME vhosts
+ivo-server 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:4cfc
+ivo-server 10800 IN A 193.40.5.242
+www.kunstimuuseum 10800 IN CNAME drupaldev
+bmdss 10800 IN A 193.40.12.250
+qureserver.sipa 10800 IN CNAME sipa
+CISCO-CAPWAP-CONTROLLER.narva 10800 IN A 172.26.0.6
+teave 10800 IN NS ns
+10800 IN NS ns2
+vironia 10800 IN A 193.40.16.130
+www.kultuur 600 IN CNAME drupaldev
+oracle12ctest 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:e3be
+oracle12ctest 10800 IN A 193.40.5.161
+stud7 10800 IN A 193.40.34.196
+www.curriculum 10800 IN CNAME drupaldev
+liviensis-ssl-vhost 10800 IN A 193.40.5.68
+vambola 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:fb34
+vambola 10800 IN A 193.40.5.212
+mitocourse-2005 10800 IN CNAME avicenna.med
+elurikkus 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+elurikkus 10800 IN A 193.40.5.164
+mitocourse-2007 10800 IN CNAME avicenna.med
+acttea 10800 IN CNAME jaan
+mail 10800 IN CNAME mailhost
+eduroam 10800 IN A 193.40.12.11
+moodle1 10800 IN CNAME jaan
+mysql2 10800 IN CNAME jaan
+keytest 10800 IN A 172.17.0.160
+aekaasik 10800 IN A 193.40.35.6
+eestirannik 10800 IN A 85.222.234.11
+server.tc 10800 IN A 193.40.221.59
+moodle3 10800 IN AAAA 2001:bb8:2002:500:3640:b5ff:fe9f:ff5c
+moodle3 10800 IN A 193.40.5.65
+akmk 10800 IN CNAME vhosts
+chuck 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:5b82
+chuck 10800 IN A 193.40.5.89
+arvutiabi 10800 IN CNAME jaan
+toome 10800 IN NS ns
+10800 IN NS ns2
+www.grammar2013 10800 IN CNAME jaan
+www.reccap 10800 IN CNAME redcap
+www.arheo 10800 IN CNAME jaan
+www.salasona 10800 IN CNAME vhosts
+www.norbatour 10800 IN A 193.40.136.69
+hbsm2015 10800 IN CNAME vhosts
+korvpall 10800 IN CNAME jaan
+pcmail 10800 IN MX 1 pcmail
+10800 IN MX 10 sun6.it.da
+10800 IN MX 10 sun7.it.da
+pcmail 10800 IN A 193.40.5.38
+haldus 10800 IN NS ns
+10800 IN NS ns2
+meelis 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:8c43
+meelis 10800 IN A 193.40.5.12
+www.ict 10800 IN CNAME vhosts
+samm 10800 IN CNAME jaan
+www.icv 10800 IN CNAME icv.ims
+www.liikumislabor 10800 IN CNAME jaan
+www.ewis2013 10800 IN CNAME utmall02.edicy.co.
+api.plutof 10800 IN CNAME plutof
+www.6htu6pik 10800 IN CNAME vhosts
+wins 10800 IN A 193.40.5.125
+epi.struktuur 10800 IN CNAME uusrobert.ccu
+www.energeetika 10800 IN CNAME vhosts
+geoeco 10800 IN CNAME uusrobert.ccu
+ssi 10800 IN CNAME drupaldev
+server10 10800 IN A 193.40.12.75
+server11 10800 IN A 193.40.12.76
+protokeskus 10800 IN CNAME vhosts
+www.eestikultuurist 10800 IN CNAME jaan
+www.math.olympiaadid 10800 IN A 193.40.0.7
+server15 10800 IN A 193.40.12.80
+www.keelekeskus 10800 IN CNAME drupaldev
+infutik_w 10800 IN CNAME infutik
+www.ttl 10800 IN CNAME siim
+www.ecla 10800 IN CNAME jaan
+www.argikultuur 10800 IN CNAME jaan
+eustd 10800 IN CNAME vhosts
+mobile.datadoi 10800 IN CNAME datadoi
+www.ethics 10800 IN CNAME drupaldev
+www.lote 10800 IN CNAME drupaldev
+fw.narva 10800 IN A 193.40.211.66
+wolfram 10800 IN CNAME vhosts
+www.euhofa2011 10800 IN A 193.40.136.69
+www.baltichealthtrain 10800 IN CNAME robert.it.da
+fotod.narva 10800 IN CNAME narva
+www.careerday 10800 IN CNAME vhosts
+rmi 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+www.contest.eio 10800 IN CNAME demeter6.at.mt
+www.ip6 10800 IN CNAME ip6
+juniper 10800 IN A 193.40.5.173
+dynwww 10800 IN A 193.40.5.180
+nsss2014 10800 IN A 82.129.24.69
+www4.lote 10800 IN CNAME robert.it.da
+irssm5.pc 10800 IN A 193.40.136.69
+moodle 10800 IN AAAA 2001:bb8:2002:500::4a
+moodle 3600 IN A 193.40.5.21
+www.botaanikaaed 10800 IN CNAME drupaldev
+plutof 10800 IN MX 1 berta.it.da
+10800 IN MX 1 carmen.it.da
+plutof 10800 IN AAAA 2001:bb8:2002:500:3aea:a7ff:fe17:e84
+plutof 10800 IN A 193.40.5.215
+signy.ims 10800 IN AAAA 2001:bb8:2002:2300::94
+signy.ims 10800 IN A 193.40.35.148
+www.ikt 10800 IN CNAME vhosts
+CISCO-LWAPP-CONTROLLER.tln 10800 IN A 172.21.1.3
+autodiscover 10800 IN A 193.40.5.179
+sympatest 10800 IN A 172.17.0.140
+register.lv.eio 10800 IN CNAME demeter6.at.mt
+arnold6 10800 IN AAAA 2001:bb8:2002:500:221:28ff:fe8e:cdaa
+www.testsiseveeb 10800 IN CNAME kits.it.da
+erikson 10800 IN CNAME jaan
+cl2013 10800 IN CNAME vhosts
+eestikultuurist 10800 IN CNAME jaan
+www.kultuuripiirkonnad 10800 IN A 199.34.228.100
+tc 10800 IN MX 0 berta.it.da
+10800 IN MX 0 carmen.it.da
+www.olympiaadid 10800 IN CNAME nw.eenet.ee.
+sg 10800 IN CNAME vhosts
+www.nuclear 10800 IN CNAME vhosts
+ranking.lv.eio 10800 IN CNAME demeter6.at.mt
+euhofa.pc 10800 IN A 193.40.136.69
+baas.eestirannik 10800 IN CNAME erast
+www.narva 10800 IN CNAME drupaldev
+bbb 10800 IN A 193.40.5.52
+mgu152 10800 IN A 193.40.12.92
+www.plantpys 10800 IN CNAME tamm.ebc.ee.
+pcutexchange.pc 10800 IN A 193.40.136.83
+mailtest 10800 IN MX 1 dora.it.da
+xteesec 10800 IN A 193.40.12.248
+aki 10800 IN CNAME drupaldev
+eaus 10800 IN CNAME jaan
+ut-net 10800 IN A 193.40.15.0
+chem-net 10800 IN A 193.40.7.0
+www.geograafia 10800 IN CNAME drupaldev
+oendusteadus 10800 IN CNAME drupaldev
+mysql 10800 IN CNAME siim
+www.kylalisele 10800 IN CNAME robert.it.da
+antonio 10800 IN AAAA 2001:bb8:2002:500:214:4fff:fe01:4de4
+antonio 10800 IN A 193.40.5.177
+ekkam 10800 IN CNAME vhosts
+www.tuit 10800 IN A 193.40.5.227
+rahvatants 10800 IN CNAME jaan
+salasona 10800 IN CNAME vhosts
+www.eseis 10800 IN CNAME vhosts
+www.cbs 10800 IN CNAME jaan
+ethics 10800 IN CNAME drupaldev
+www.turismitudengphuketil.pc 10800 IN A 193.40.136.69
+storage.ims 10800 IN A 172.17.35.39
+digiarhiiv 10800 IN CNAME digiarhiiv.gg.bg
+www.rti 10800 IN CNAME drupaldev
+ando 10800 IN A 193.40.23.67
+natmuseum 10800 IN CNAME drupaldev
+test-varss 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:c22a
+www.isu 10800 IN CNAME vhosts
+pohjalatest 10800 IN CNAME vhosts
+www4.toovahendus 10800 IN CNAME robert.it.da
+biblio.arheo 10800 IN CNAME baas.arheo
+farmaatsia 10800 IN CNAME drupaldev
+ftp.ttkool 10800 IN CNAME teemant.physic
+kaamera 10800 IN A 193.40.15.103
+parol 10800 IN CNAME vhosts
+admin.lv.eio 10800 IN CNAME demeter6.at.mt
+gisweb2 10800 IN CNAME gislabor.gg.bg
+kiletehnoloogia 10800 IN CNAME jaan
+emp265 10800 IN CNAME jaan
+ad2.testdom 10800 IN A 172.17.43.189
+ecla 10800 IN CNAME jaan
+ark 10800 IN CNAME jaan
+eap.ims 10800 IN A 172.17.35.22
+www.social 10800 IN CNAME vhosts
+bio 10800 IN NS ns
+10800 IN NS ns2
+lote 10800 IN CNAME drupaldev
+portaal.pc 10800 IN A 193.40.136.69
+www.koduskriining 10800 IN CNAME vhosts
+Loss 10800 IN MX 0 Loss
+Loss 10800 IN A 193.40.32.100
+www.ttkool 10800 IN CNAME nw.eenet.ee.
+www.paber 10800 IN CNAME jaan
+mahara 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:3781
+mahara 10800 IN A 193.40.5.235
+ideelabor 10800 IN CNAME siim
+www.kaardiserver 10800 IN CNAME compaq.regio.ee.
+www.time2012 10800 IN CNAME demeter.at.mt
+rannakalurematerjalid 10800 IN CNAME vhosts
+murre 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+printserver 10800 IN A 193.40.5.107
+www.thales 10800 IN CNAME jaan
+www.eemb 10800 IN CNAME vhosts
+iris 10800 IN AAAA 2001:bb8:2002:500:ec4:7aff:fe0a:37b2
+iris 10800 IN A 193.40.5.164
+cbs 10800 IN CNAME jaan
+metashare 600 IN AAAA 2001:bb8:2002:2400:250:56ff:feb4:24
+metashare 600 IN A 193.40.36.8
+www.irssm5.pc 10800 IN A 193.40.136.69
+kultuuripiirkonnad 10800 IN A 199.34.228.100
+taastus.drupaltest 10800 IN CNAME drupaltest
+mustikas 3600 IN CNAME leesikas
+ccu 10800 IN NS ns
+10800 IN NS ns2
+2003dctest1.winsamba 10800 IN A 172.17.0.21
+pfdemo 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:11d6
+pfdemo 10800 IN A 193.40.5.191
+openmanage 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:bce1
+openmanage 10800 IN A 193.40.5.202
+www.ajaleht 10800 IN CNAME drupaldev
+x-t2 10800 IN A 193.40.5.105
+esx.narva 10800 IN A 193.40.211.94
+bns 10800 IN CNAME jaan
+www.ilonatragel 10800 IN CNAME jaan
+biomeditsiin 10800 IN CNAME drupaldev
+lists.pc 10800 IN A 193.40.136.69
+rti 10800 IN CNAME drupaldev
+mrzqvd 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:3b82
+mrzqvd 10800 IN A 193.40.5.204
+hagbard.ims 10800 IN AAAA 2001:bb8:2002:2300::93
+hagbard.ims 10800 IN A 193.40.35.147
+www.hbsm2015 10800 IN CNAME vhosts
+tammekv 10800 IN A 193.40.35.17
+nagios.eilyre 10800 IN A 172.17.14.37
+www.sic2014 10800 IN CNAME vhosts
+www.suveulikool 10800 IN CNAME uusrobert.ccu
+cie 10800 IN NS ns
+10800 IN NS ns2
+10800 IN NS ns2.eenet.ee.
+www.mmtdk 10800 IN CNAME mmtdk
+tbox2 10800 IN A 193.40.2.50
+finance 10800 IN CNAME drupaldev
+www.eetikakeskus 10800 IN CNAME drupaldev
+www.career 10800 IN CNAME robert.it.da
+finestbeams 10800 IN A 193.40.5.152
+geo 10800 IN NS ns
+10800 IN NS ns2
+jira 10800 IN CNAME vhosts
+cectdevel 10800 IN CNAME jaan
+evolbio 10800 IN CNAME vhosts
+www.tymri 10800 IN CNAME drupaldev
+baas.arheo 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:6347
+baas.arheo 10800 IN A 193.40.5.148
+www.foorum.geoeco 10800 IN CNAME jaan
+testdom 10800 IN NS ad1.testdom
+10800 IN NS ad2.testdom
+eetikastruktuur 10800 IN CNAME robert.it.da
+unite 10800 IN CNAME iris
+www.paasuke 10800 IN CNAME demeter.at.mt
+toovahendus 10800 IN CNAME robert.it.da
+merzudwh 10800 IN A 193.40.5.20
+regionaal 10800 IN CNAME uusrobert.ccu
+iske 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:ea14
+iske 10800 IN A 193.40.5.162
+project.pc 10800 IN A 193.40.136.82
+siseveeb 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:1f
+siseveeb 10800 IN A 193.40.5.86
+sein 10800 IN A 193.40.5.129
+10800 IN A 193.40.12.2
+10800 IN A 193.40.12.10
+cembu-vbox 10800 IN A 193.40.15.20
+vanaus 10800 IN CNAME robert.it.da
+ois 10800 IN CNAME www.is
+siim2 10800 IN A 193.40.37.95
+tbox8 10800 IN A 193.40.8.50
+www.gisweb 10800 IN CNAME vmware.gg.bg
+evolutsioon 10800 IN CNAME kask.ebc.ee.
+www.testis 10800 IN CNAME varundustest
+infutik1 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:217d
+infutik1 10800 IN A 193.40.5.97
+www.teekaart 10800 IN CNAME vhosts
+asiancenter 10800 IN A 85.222.234.11
+dcnet 10800 IN CNAME jaan
+www2.tymri 10800 IN CNAME tamm.ebc.ee.
+energy 10800 IN CNAME vhosts
+minni 10800 IN A 193.40.15.34
+seks 10800 IN A 193.40.5.103
+dev 10800 IN CNAME taavi
+www.hullteadlane 10800 IN CNAME jaan
+sisu-prod 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:dcba
+sisu-prod 10800 IN A 193.40.5.17
+career 10800 IN CNAME robert.it.da
+www.keemia_alused 10800 IN CNAME jaan
+www.parol 10800 IN CNAME vhosts
+nanomanipulation 10800 IN NS ns
+10800 IN NS ns2
+flash2 10800 IN A 193.40.5.140
+www.lms 10800 IN CNAME ghs.google.com.
+www.koostoo 10800 IN CNAME robert.it.da
+osoon 10800 IN CNAME adalberg
+www.acttea 10800 IN CNAME jaan
+muscaten 10800 IN CNAME ilmajaam.physic
+saun.ims 10800 IN A 193.40.35.93
+forum.geoeco 10800 IN CNAME jaan
+vana.ec 10800 IN A 193.40.32.76
+datacite 10800 IN CNAME linask.utlib.ee.
+muuseuminoom6 10800 IN AAAA 2001:bb8:2002:500:250:56ff:feb4:2
+eemb 10800 IN CNAME vhosts
+ftp.meedia 10800 IN A 193.40.32.53
+rektorid 10800 IN A 193.40.32.2
+varundus6.ims 10800 IN AAAA 2001:bb8:2002:2300:21e:67ff:fe03:a0f9
+tbox23 10800 IN A 193.40.23.97
+server1 10800 IN A 193.40.12.66
+www4.narva 10800 IN CNAME uusrobert.ccu
+www.eestirannik 10800 IN CNAME eestirannik
+server4 10800 IN A 193.40.12.69
+server5 10800 IN A 193.40.12.70
+server6 10800 IN A 193.40.12.71
+server7 10800 IN A 193.40.12.72
+lists 10800 IN MX 1 berta.it.da
+10800 IN MX 1 carmen.it.da
+lists 10800 IN A 193.40.5.229
+oppa 10800 IN A 193.40.23.69
+bg 10800 IN NS ns
+10800 IN NS ns2
+ar 10800 IN NS ns
+10800 IN NS ns2
+oppe 10800 IN NS ns
+10800 IN NS ns2
+www.balticconference 10800 IN CNAME vhosts
+espp2015 10800 IN CNAME vhosts
+jenkins 10800 IN A 193.40.36.128
+da 10800 IN NS ns
+10800 IN NS ns2
+www.orns 10800 IN CNAME jaan
+ut375.struktuur 10800 IN CNAME uusrobert.ccu
+securewww 10800 IN AAAA 2001:bb8:2002:500::43
+securewww 10800 IN A 193.40.5.119
+df 10800 IN NS ns
+10800 IN NS ns2
+www.jeful 10800 IN CNAME jaan
+dh 10800 IN NS ns
+10800 IN NS ns2
+di 10800 IN NS ns
+10800 IN NS ns2
+cs 10800 IN NS ns
+10800 IN NS ns2
+popbio2013 10800 IN CNAME jaan
+ec 10800 IN MX 1 berta.it.da
+10800 IN MX 1 carmen.it.da
+ec 10800 IN A 193.40.5.227
+www.xn--ti-wka 10800 IN CNAME drupaldev
+steven 10800 IN AAAA 2001:bb8:2002:500:221:28ff:fe8e:c2ee
+steven 10800 IN A 193.40.5.85
+www.torfl 10800 IN CNAME jaan
+dok 10800 IN A 193.40.5.213
+www.geoeco 10800 IN CNAME uusrobert.ccu
+autodiscover.students.pc 3600 IN CNAME autodiscover.outlook.com.
+imswifi.ims 10800 IN A 193.40.35.139
+eetikakeskus2 10800 IN CNAME drupaldev
+eha 10800 IN CNAME jaan
+fi 10800 IN NS ns
+10800 IN NS ns2
+es 10800 IN CNAME vhosts
+fk 10800 IN NS ns
+10800 IN NS ns2
+fl 10800 IN NS ns
+10800 IN NS ns2
+parool 10800 IN CNAME varss
+gwa2014 10800 IN CNAME jaan
+lv.eio 10800 IN CNAME demeter6.at.mt
+fs 10800 IN A 193.40.5.153
+egv 10800 IN A 172.17.62.54
+utrecht2015 10800 IN CNAME jaan
+testwiki 10800 IN CNAME varundustest
+kkobs 10800 IN CNAME jaan
+www.keel 10800 IN CNAME drupaldev
+www.sport 10800 IN CNAME jaan
+eik 10800 IN CNAME sisu
+mxone3 10800 IN A 193.40.12.58
+finants 10800 IN A 193.40.15.202
+tarkvaratest 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:1718
+tarkvaratest 10800 IN A 193.40.5.160
+eio 10800 IN CNAME demeter6.at.mt
+www.arpo 10800 IN CNAME karu.ar
+eeva 10800 IN A 193.40.5.252
+www.siseveeb 300 IN CNAME sisedev
+ht 10800 IN NS ns
+10800 IN NS ns2
+e-ope 10800 IN CNAME uusrobert.ccu
+signaal 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:f9e
+signaal 10800 IN A 193.40.5.181
+ip 10800 IN CNAME vhosts
+p2 10800 IN NS ns
+10800 IN NS ns2
+www.polrob 10800 IN CNAME flint.physic
+p4 10800 IN NS ns
+10800 IN NS ns2
+www-3 10800 IN AAAA 2001:bb8:2002:500::45
+coimbra2006.struktuur 10800 IN CNAME uusrobert.ccu
+sylvester6 10800 IN AAAA 2001:bb8:2002:500:230:48ff:fef3:3aae
+tuuma 10800 IN CNAME vhosts
+egvfile 10800 IN A 172.17.23.20
+xn--julutervitus-rib 10800 IN CNAME vhosts
+heart 10800 IN CNAME heart.med
+kk 10800 IN NS ns
+10800 IN NS ns2
+pedagogicum 10800 IN CNAME drupaldev
+www.msc 10800 IN CNAME jaan
+www.murre 10800 IN CNAME eesel.it.da
+www.arth 10800 IN CNAME drupaldev
+tahetorn 10800 IN CNAME drupaldev
+bioinfo 10800 IN CNAME bioinfo.ebc.ee.
+www.digiarhiiv.loom 10800 IN CNAME digiarhiiv.gg.bg
+me 10800 IN CNAME localhost
+re 10800 IN NS ns
+10800 IN NS ns2
+keelekeskus 10800 IN CNAME drupaldev
+projekt.pc 10800 IN CNAME project.pc
+geoloogia 10800 IN CNAME drupaldev
+mj 10800 IN NS ns
+10800 IN NS ns2
+xn--salasna-50a 10800 IN CNAME vhosts
+mm 10800 IN CNAME drupaldev
+iur-net 10800 IN A 193.40.26.0
+mikroobid 10800 IN CNAME robert.it.da
+mt 10800 IN NS ns
+10800 IN NS ns2
+sparta.domenis 10800 IN A 193.40.5.189
+fibir 10800 IN CNAME uusrobert.ccu
+thales 10800 IN CNAME jaan
+taastatud.drupaltest 10800 IN CNAME drupaltest
+www4.arth 10800 IN CNAME uusrobert.ccu
+dzc 10800 IN TXT "SPwRxKT"
+pathophysiology 10800 IN CNAME vhosts
+www.datacite 10800 IN CNAME linask.utlib.ee.
+securewww2 10800 IN CNAME www
+www.fzbg 10800 IN CNAME jaan
+erast 10800 IN A 193.40.5.5
+happypregnancy 10800 IN CNAME happypregnancy.edicy.co.
+www.sime 10800 IN CNAME vhosts
+vilistlane2 10800 IN CNAME jaan
+katsekoda 10800 IN A 193.40.7.15
+physic 10800 IN NS ns
+10800 IN NS ns.eenet.ee.
+10800 IN NS ns2
+taavi 10800 IN AAAA 2001:bb8:2002:500:213:72ff:fefb:e298
+taavi 10800 IN A 193.40.5.118
+adalberg 10800 IN AAAA 2001:bb8:2002:500:250:56ff:feb4:d
+adalberg 10800 IN A 193.40.5.36
+fil 10800 IN NS ns
+10800 IN NS ns2
+ese 10800 IN CNAME jaan
+www.mailhost 10800 IN CNAME mailhost
+www.peremeditsiin 10800 IN CNAME drupaldev
+elurikkus2 10800 IN CNAME elurikkus
+wiki.arheo 10800 IN CNAME baas.arheo
+www.espp2015 10800 IN CNAME vhosts
+mgu140 10800 IN A 193.40.12.89
+mgu142 10800 IN A 193.40.12.90
+taxonomy.plutof 10800 IN CNAME hermes
+kobras 10800 IN A 193.40.0.7
+ess 10800 IN CNAME jaan
+chaos 10800 IN AAAA 2001:bb8:2002:500:3aea:a7ff:fe17:e84
+chaos 10800 IN A 193.40.5.215
+mgu150 10800 IN A 193.40.12.91
+confluence.tudengisatelliit 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:fe1f
+confluence.tudengisatelliit 10800 IN A 193.40.5.40
+med6 10800 IN AAAA 2001:bb8:2002:e00::
+orns 10800 IN CNAME jaan
+www.digital-earth 10800 IN CNAME taurus.gg.bg
+www.korvpall 10800 IN CNAME jaan
+etu 10800 IN CNAME jaan
+tk 10800 IN CNAME uusrobert.ccu
+www.estdiasyn 10800 IN CNAME vhosts
+fs1 10800 IN A 193.40.5.150
+inimgeograafia 10800 IN CNAME jaan
+evk 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+evk 10800 IN A 193.40.5.130
+uk 10800 IN A 193.40.15.163
+evn 10800 IN CNAME vhosts
+www.nsss2014 10800 IN A 82.129.24.69
+www.tahetorn 10800 IN CNAME drupaldev
+mt6 10800 IN AAAA 2001:bb8:2002:2400::
+us 10800 IN NS ns2
+uusimaeg 10800 IN CNAME vhosts
+efak2011 10800 IN CNAME jaan
+www.emp265 10800 IN CNAME jaan
+students.pc 3600 IN MX 0 students-pc-ut-ee.mail.protection.outlook.com.
+students.pc 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+www.nefa 10800 IN CNAME vhosts
+delta.yti 10800 IN A 172.17.0.170
+www.nordicnarratologynet 10800 IN CNAME uusrobert.ccu
+philologic 10800 IN CNAME jaan
+www.xn--salasna-50a 10800 IN CNAME vhosts
+bipa 10800 IN A 193.40.23.71
+taslo 10800 IN CNAME jaan
+dok.natarc 10800 IN CNAME hermes
+www.sjkk 10800 IN CNAME vhosts
+keel 10800 IN CNAME drupaldev
+www.omi 10800 IN CNAME drupaldev
+ajakiri 10800 IN CNAME drupaldev
+www.turismikool 10800 IN A 199.34.228.100
+tehno2.tuit 10800 IN A 193.40.35.117
+dedupe 10800 IN A 193.40.5.25
+CISCO-LWAPP-CONTROLLER.narva 10800 IN A 172.26.0.6
+www.fahm 10800 IN CNAME jaan
+mail.narva 10800 IN A 193.40.211.83
+www.gwc2014 10800 IN CNAME jaan
+moocs 10800 IN CNAME drupaldev
+taaviwww 10800 IN CNAME taavi
+www.loodusmuuseum 10800 IN CNAME drupaldev
+www.academica 10800 IN CNAME jaan
+sihtasutus2 10800 IN CNAME jaan
+keeleveeb 10800 IN AAAA 2001:bb8:2002:2400:5054:ff:fee9:a0b6
+keeleveeb 10800 IN A 193.40.36.33
+streaming 10800 IN A 193.40.5.165
+10800 IN A 193.40.244.216
+gis 10800 IN A 193.40.16.195
+mandarin 10800 IN A 193.40.5.176
+masintolge 10800 IN CNAME demeter.at.mt
+video.pc 10800 IN A 193.40.136.69
+test.nsss2014 10800 IN CNAME vhosts
+arth 10800 IN CNAME drupaldev
+www.pollen 10800 IN CNAME vhosts
+kultuur 10800 IN CNAME drupaldev
+ftp 10800 IN CNAME siim
+autoconfig 10800 IN CNAME jaan
+katsekoda-test 10800 IN A 193.40.7.182
+localhost 10800 IN A 127.0.0.1
+siim 10800 IN AAAA 2001:bb8:2002:500:e2db:55ff:fe16:2584
+siim 10800 IN A 193.40.5.113
+positioner 10800 IN A 193.40.16.107
+www.tara 10800 IN CNAME baas.arheo
+flash 10800 IN A 193.40.5.84
+hirv6 10800 IN AAAA 2001:bb8:2002:500:baac:6fff:fe14:b37f
+owncloud-test 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:e4bd
+ricardo 10800 IN AAAA 2001:bb8:2002:500:5054:ff:fe51:b3fd
+ricardo 10800 IN A 193.40.5.178
+isu 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+sportsmedicine 10800 IN CNAME jaan
+www.christmas 10800 IN CNAME vhosts
+wiki.narva 10800 IN CNAME narva
+studleht 10800 IN A 193.40.34.204
+gamedev 10800 IN CNAME ahju.eu.
+andres-server 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:15fc
+andres-server 10800 IN A 193.40.5.116
+id.tara 10800 IN CNAME baas.arheo
+tbox26 10800 IN A 193.40.26.150
+sime 10800 IN CNAME vhosts
+rahvatervis 10800 IN CNAME jaan
+www.natmuseum_old 10800 IN CNAME uusrobert.ccu
+varundustest 10800 IN AAAA 2001:bb8:2002:500:214:4fff:fe01:6906
+varundustest 10800 IN A 193.40.5.247
+www.hiis 10800 IN CNAME vhosts
+www.owa 10800 IN CNAME owa
+sein.psych 10800 IN A 193.40.9.3
+kammkala 10800 IN AAAA 2001:bb8:2002:500:d6be:d9ff:feb4:75d8
+kammkala 10800 IN A 193.40.5.187
+tahetui1 10800 IN A 193.40.31.155
+www.blog 10800 IN CNAME jaan
+jira-test 10800 IN A 193.40.5.244
+poder 10800 IN A 193.40.5.175
+ingvar 10800 IN AAAA 2001:bb8:2002:500:2e0:81ff:fedb:29e1
+ingvar 10800 IN A 193.40.5.32
+atyktest 10800 IN CNAME jaan
+utt6 10800 IN AAAA 2001:bb8:2002:500:ec4:7aff:fe02:660e
+botaanikaaed 10800 IN CNAME drupaldev
+sipa 10800 IN A 193.40.12.249
+lossi38.majajuht 10800 IN CNAME vhosts
+jesminitest 3600 IN CNAME ipv6x.ccu
+server14 10800 IN A 193.40.12.79
+eunis2006.struktuur 10800 IN CNAME uusrobert.ccu
+balticconference 10800 IN CNAME vhosts
+liviensis-test 10800 IN CNAME livisensis-ssl-vhost
+arvutimuuseum 10800 IN CNAME jaan
+www.lumdetr 10800 IN CNAME vhosts
+www.evolutsioon 10800 IN CNAME kask.ebc.ee.
+webdesktop-test 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:c0d7
+webdesktop-test 10800 IN A 193.40.5.171
+www.energy 10800 IN CNAME vhosts
+www.efak2011 10800 IN CNAME jaan
+www.asiancenter 10800 IN A 85.222.234.11
+whylinguistics 10800 IN CNAME ghs.google.com.
+wapmail 10800 IN CNAME tups.it.da
+www.rannakalurematerjalid 10800 IN CNAME vhosts
+ict 10800 IN CNAME vhosts
+tudengiteave 10800 IN CNAME jaan
+www.cecb 10800 IN CNAME vhosts
+arheo 10800 IN CNAME jaan
+snowden 10800 IN A 193.40.15.4
+sso 10800 IN CNAME sokk.it.da
+lotte 10800 IN CNAME lotte-server
+xn--ppeinfossteem-2lb7i 10800 IN CNAME www.is
+eestiturismigeograafia 10800 IN A 199.34.228.100
+sisu 10800 IN CNAME jaan
+raamatupood 10800 IN A 213.219.118.138
+wordpress 10800 IN CNAME jaan
+CISCO-CAPWAP-CONTROLLER.parnu 10800 IN A 172.22.0.19
+hpc 10800 IN NS ns
+10800 IN NS ns2
+fahm 10800 IN CNAME jaan
+tall 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2172
+tall 10800 IN A 193.40.5.29
+www.pathophysiology 10800 IN CNAME vhosts
+otrs 10800 IN CNAME jaan
+dev.plutof 10800 IN CNAME hermes
+owncloud 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:c63e
+owncloud 10800 IN A 193.40.5.90
+www.eom8 10800 IN CNAME jaan
+maailmakeeled 600 IN CNAME vhosts
+datadoi 10800 IN A 193.40.4.102
+plantphys 10800 IN CNAME tamm.ebc.ee.
+parimisoigus 10800 IN CNAME vhosts
+turismitudengphuketil.pc 10800 IN A 193.40.136.69
+baltichealthtrain 10800 IN CNAME robert.it.da
+tuvedevel 10800 IN CNAME tudengiveeb
+qsar2012 10800 IN CNAME hermes.chem
+ftp.narva 10800 IN CNAME narva
+770473005.kklive 10800 IN CNAME domains.live.com.
+www.psychology 10800 IN CNAME drupaldev
+ip6 10800 IN AAAA 2001:bb8:2002:500:221:28ff:fe44:3c7e
+tammet 10800 IN A 193.40.78.71
+www.fitness 10800 IN CNAME jaan
+www.eustd 10800 IN CNAME vhosts
+warez 10800 IN AAAA ::1
+warez 10800 IN A 127.0.0.1
+moodle2 10800 IN A 193.40.5.101
+tbox31 10800 IN A 193.40.31.253
+ttl 10800 IN CNAME siim
+tara 10800 IN CNAME baas.arheo
+sjkk 10800 IN CNAME vhosts
+nuclear 10800 IN CNAME vhosts
+chem6 10800 IN AAAA 2001:bb8:2002:700::
+astroloogia 10800 IN MX 10 berta.it.da
+10800 IN MX 10 carmen.it.da
+sup 10800 IN CNAME vhosts
+ddstor 10800 IN A 172.17.0.27
+papa 10800 IN A 193.40.23.68
+vilistlane 10800 IN CNAME jaan
+lotte-server 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:69a2
+lotte-server 10800 IN A 193.40.5.218
+cs10backend 10800 IN A 193.40.5.49
+tbox7 10800 IN A 193.40.7.190
+www.vega 10800 IN CNAME vhosts
+www.kalateave 10800 IN CNAME jaan
+anatoomikum 10800 IN CNAME drupaldev
+ims 10800 IN A 193.40.35.136
+www.parool 10800 IN CNAME vhosts
+kaardiserver 10800 IN CNAME alpha.regio.ee.
+tbox32 10800 IN A 193.40.32.50
+hiis 10800 IN CNAME vhosts
+domenis 10800 IN NS athena.domenis
+10800 IN NS sparta.domenis
+pasun 10800 IN AAAA 2001:bb8:2002:500:21b:21ff:fe2d:be5b
+pasun 10800 IN A 193.40.5.70
+blog 10800 IN CNAME jaan
+koprn 10800 IN A 193.40.15.238
+tahetui2 10800 IN A 193.40.31.156
+drupaldev 3600 IN A 193.40.5.227
+ebc-data 10800 IN CNAME mm.hpc
+ranking.cms.eio 10800 IN CNAME eio
+euhofaregistration 10800 IN A 193.40.136.69
+teenindusfilosoofia 10800 IN A 199.34.228.100
+curriculum 10800 IN CNAME drupaldev
+ikt 10800 IN CNAME vhosts
+manguvoistlus 10800 IN CNAME demeter.at.mt
+sh 10800 IN CNAME drupaldev
+newmath 10800 IN CNAME siim2
+geograafia 10800 IN CNAME drupaldev
+ameerika 10800 IN CNAME drupaldev
+careerday 10800 IN CNAME vhosts
+paber 10800 IN CNAME jaan
+vanaritso 10800 IN A 193.40.5.140
+www.partners 10800 IN CNAME vhosts
+compute.ims 10800 IN A 172.17.35.25
+ceurus 10800 IN CNAME jaan
+dean.lote 10800 IN A 193.40.8.189
+elixir 10800 IN CNAME demeter.at.mt
+www.inqua-peribaltic 10800 IN CNAME jaan
+auth 10800 IN CNAME varss
+fzbg 10800 IN CNAME jaan
+canbio 10800 IN CNAME vhosts
+primer3 10800 IN CNAME bioinfo
+www.ekkam 10800 IN CNAME vhosts
+video1 10800 IN A 193.40.5.165
+eetikakeskus 10800 IN CNAME drupaldev
+www.sht 10800 IN CNAME jaan
+admin.contest.eio 10800 IN CNAME demeter6.at.mt
+iur 10800 IN NS ns
+10800 IN NS ns2
+citiesaftertransition 10800 IN CNAME jaan
+crmtest 10800 IN CNAME jaan
+svn 10800 IN CNAME siim
+ivo 10800 IN CNAME ivo-server
+cect 10800 IN CNAME jaan
+foorum.geoeco 10800 IN CNAME jaan
+www.rsr 10800 IN CNAME jaan
+stonia 10800 IN CNAME math
+wiki-test 10800 IN A 193.40.5.243
+hirv 10800 IN A 193.40.5.31
+nefa 10800 IN CNAME vhosts
+tbox35 10800 IN A 193.40.35.5
+failid.whylinguistics 10800 IN CNAME vhosts
+ritso 10800 IN A 193.40.5.1
+tonis.moodle4 10800 IN CNAME moodle4
+tommy.ims 10800 IN A 193.40.35.143
+www.energia 10800 IN CNAME vhosts
+ajaleht 10800 IN CNAME drupaldev
+www.m 10800 IN CNAME kaamel
+kleio 10800 IN MX 1 loss
+angelina 10800 IN AAAA 2001:bb8:2002:500:e2db:55ff:fe16:df94
+angelina 10800 IN A 193.40.5.54
+www.xn--htupik-oxad 10800 IN CNAME vhosts
+keemiavideod 10800 IN CNAME video
+botany2 10800 IN CNAME drupaldev
+keemia_alused 10800 IN CNAME jaan
+www.iam 10800 IN CNAME math
+ce 10800 IN NS ns
+10800 IN NS ns2
+hullteadlane 10800 IN CNAME jaan
+euhofa2011 10800 IN A 193.40.136.69
+www.uusimaeg 10800 IN CNAME vhosts
+lai 10800 IN NS ns
+10800 IN NS ns2
+server.narva 10800 IN A 193.40.211.90
+www.icml 10800 IN CNAME vhosts
+vanasiseveeb 10800 IN CNAME poni
+bw2012 10800 IN CNAME demeter.at.mt
+test.happypregnancy 10800 IN CNAME vhosts
+andres 10800 IN CNAME andres-server
+klemm 10800 IN A 193.40.5.198
+nagios 10800 IN CNAME tbox
+kkt 10800 IN NS ns
+10800 IN NS ns2
+www.multimodal 10800 IN CNAME jaan
+bender 10800 IN A 193.40.5.14
+norbatour 10800 IN A 193.40.136.69
+sh.test 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2187
+sh.test 10800 IN A 193.40.5.134
+www.ssi 10800 IN CNAME drupaldev
+aki.drupaltest 3600 IN CNAME drupaltest
+visioon2032 10800 IN CNAME vhosts
+blearn.struktuur 10800 IN CNAME uusrobert.ccu
+www4.kunstimuuseum 10800 IN CNAME vhosts
+poder6 10800 IN AAAA 2001:bb8:2002:500:f24d:a2ff:fe0a:b399
+paasuke 10800 IN CNAME demeter.at.mt
+pohl 10800 IN A 193.40.5.51
+www.sss 10800 IN CNAME jaan
+www.teoreetilinekeeleteadus 10800 IN CNAME veeb.keeleressursid.ee.
+helpdesk 10800 IN CNAME jaan
+epaev 10800 IN CNAME jaan
+www.ad 10800 IN CNAME cisco5.mt
+ak-gw 10800 IN HINFO "C6506" "12.2"
+ak-gw 10800 IN A 193.40.2.2
+10800 IN A 193.40.4.10
+10800 IN A 193.40.7.195
+10800 IN A 193.40.8.129
+10800 IN A 193.40.9.1
+10800 IN A 193.40.11.1
+10800 IN A 193.40.12.1
+10800 IN A 193.40.12.49
+10800 IN A 193.40.12.57
+10800 IN A 193.40.12.65
+10800 IN A 193.40.14.129
+10800 IN A 193.40.15.195
+10800 IN A 193.40.16.2
+10800 IN A 193.40.21.1
+10800 IN A 193.40.21.129
+10800 IN A 193.40.21.193
+10800 IN A 193.40.22.1
+10800 IN A 193.40.23.1
+10800 IN A 193.40.26.1
+10800 IN A 193.40.31.65
+10800 IN A 193.40.31.129
+10800 IN A 193.40.32.195
+10800 IN A 193.40.33.1
+10800 IN A 193.40.34.1
+10800 IN A 193.40.35.1
+10800 IN A 193.40.36.1
+10800 IN A 193.40.38.1
+files.plutof 10800 IN CNAME iris
+ictaa2013 10800 IN CNAME demeter.at.mt
+emif 10800 IN A 193.40.37.123
+www.ameerika 10800 IN CNAME drupaldev
+www.sup 10800 IN CNAME vhosts
+www.bpmr 10800 IN CNAME demeter.at.mt
+wnet 10800 IN A 193.40.40.150
+doktorikool 10800 IN CNAME jaan
+www.teenindusfilosoofia 10800 IN A 199.34.228.100
+utils 10800 IN A 193.40.5.201
+matrix.ims 10800 IN A 193.40.35.94
+lib 10800 IN CNAME utlib.ee.
+www.cl 10800 IN CNAME vhosts
+owncloud-new 10800 IN A 193.40.5.87
+esmeralda 10800 IN A 193.40.5.233
+www.ubiquitous 10800 IN CNAME ubiquitous
+markusetest 10800 IN CNAME jaan
+biomeditsiin2 10800 IN CNAME drupaldev
+redcap 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:56f
+redcap 10800 IN A 193.40.5.131
+www.ec 10800 IN CNAME drupaldev
+jiedmu77af4g 10800 IN CNAME gv-rep2rlpaqfyjkt.dv.googlehosted.com.
+varss 10800 IN AAAA 2001:bb8:2002:500:250:56ff:feb4:2a
+varss 10800 IN A 193.40.5.246
+eukidsonline 10800 IN CNAME vhosts
+opilased.pc 10800 IN A 193.40.136.69
+www.efloora 10800 IN CNAME jaan
+poni 10800 IN AAAA 2001:bb8:2002:500:222:19ff:fe68:9b4e
+poni 10800 IN A 193.40.5.30
+ad1.testdom 10800 IN A 172.17.43.188
+vedemag 10800 IN CNAME demeter.at.mt
+bounces2 10800 IN A 193.40.5.21
+www.halduroim 10800 IN CNAME jaan
+oas2015 10800 IN CNAME demeter.at.mt
+taastusx 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2192
+taastusx 10800 IN A 193.40.5.235
+www4.aki 10800 IN CNAME jaan
+stud5 10800 IN A 193.40.34.205
+stud1 10800 IN A 193.40.34.201
+www.fo 10800 IN CNAME robert.it.da
+CISCO-CAPWAP-CONTROLLER.tln 10800 IN A 172.21.1.3
+tuff.physic 10800 IN A 193.40.11.200
+stud6 10800 IN A 193.40.34.206
+ajaloomuuseum 10800 IN CNAME drupaldev
+ekttk 10800 IN A 194.204.33.28
+sisetest 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:5890
+sisetest 10800 IN A 193.40.5.222
+www.hunoratsep 10800 IN CNAME jaan
+www.dcnet 10800 IN CNAME jaan
+lms 10800 IN CNAME ghs.google.com.
+so 10800 IN NS ns
+10800 IN NS ns2
+pcutvideo 10800 IN A 193.40.136.84
+jaaniflash 10800 IN CNAME jaan
+mater 10800 IN A 193.40.15.33
+smtp 10800 IN CNAME mailhost
+lauritest 10800 IN CNAME ghs.google.com.
+www.ip 10800 IN CNAME vhosts
+2008dctest1.winsamba 10800 IN A 172.17.0.25
+euhofa 10800 IN A 193.40.136.69
+www.is 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:4de6
+www.is 10800 IN A 193.40.5.192
+www.tudengiteave 10800 IN CNAME jaan
+enes 10800 IN CNAME jaan
+igmp-med-net 10800 IN A 193.40.14.0
+wc.pc 10800 IN A 172.22.0.20
+fw.ims 10800 IN A 193.40.35.96
+vilistlaselu 10800 IN CNAME vhosts
+www4.eetikakeskus 10800 IN CNAME robert.it.da
+www4.tymri 10800 IN CNAME robert.it.da
+matsci 10800 IN CNAME jaan
+demokraatia 10800 IN CNAME jaan
+kadri 10800 IN A 193.40.5.94
+med 10800 IN NS ns
+10800 IN NS ns2
+10800 IN NS ns2.eenet.ee.
+server8 10800 IN A 193.40.12.73
+x-t 10800 IN A 193.40.5.3
+tuitftp 10800 IN CNAME vhosts
+infutik 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2180
+infutik 10800 IN A 193.40.5.58
+tensor.ims 10800 IN A 193.40.35.99
+tips 10800 IN A 217.159.201.70
+www.mm 10800 IN CNAME drupaldev
+k1it-nevil 10800 IN CNAME vhosts
+archie 10800 IN CNAME metusala.cs
+www.tyk 10800 IN CNAME vhosts
+test.eaus 10800 IN CNAME jaan
+kstt.doktorikool 10800 IN CNAME uusrobert.ccu
+raud4 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2179
+raud4 10800 IN A 193.40.5.52
+yhikas.narva 10800 IN A 193.40.210.230
+www.pc 10800 IN CNAME drupaldev
+panopto 10800 IN AAAA 2001:bb8:2002:2400:5054:ff:feab:5000
+panopto 10800 IN A 193.40.37.122
+tudengiveeb 10800 IN AAAA 2001:bb8:2002:500:225:90ff:fe77:1572
+tudengiveeb 10800 IN A 193.40.5.15
+namur 10800 IN CNAME vhosts
+admin.cms.eio 10800 IN CNAME eio
+www.vil 10800 IN CNAME uusrobert.ccu
+esil2011 10800 IN CNAME jaan
+www.raamatupood 10800 IN CNAME raamatupood
+partners 10800 IN CNAME vhosts
+lembitu2 10800 IN A 193.40.5.78
+_autodiscover._tcp 10800 IN SRV 0 0 443 owa
+tudengisatelliit 10800 IN AAAA 2001:bb8:2002:500:250:56ff:feb4:e
+tudengisatelliit 10800 IN A 193.40.5.151
+virtual.cect 10800 IN CNAME jaan
+valchrom 10800 IN A 193.40.7.157
+avicenna2 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:640a
+avicenna2 10800 IN A 193.40.5.193
+narvatest 10800 IN A 193.40.211.76
+narvatest 10800 IN MX 0 narvatest
+narvatest 10800 IN SPF "v=spf1 +a +mx -all"
+narvatest 10800 IN TXT "v=spf1 +a +mx -all"
+bpmr 10800 IN CNAME demeter.at.mt
+sylvester 10800 IN AAAA 2001:bb8:2002:500:230:48ff:fef3:3aaf
+sylvester 10800 IN A 193.40.5.91
+chem 10800 IN NS ns
+10800 IN NS ns2
+10800 IN NS ns2.eenet.ee.
+net 10800 IN NS ns
+10800 IN NS ns2
+www.sh 10800 IN CNAME drupaldev
+suveulikool 10800 IN CNAME uusrobert.ccu
+cccom 10800 IN CNAME jaan
+pohjala 10800 IN A 193.40.21.8
+kirjastus 10800 IN CNAME www.tyk.ee.
+yti 10800 IN CNAME drupaldev
+www.lv.eio 10800 IN CNAME demeter6.at.mt
+botany 10800 IN NS ns
+10800 IN NS ns2
+ms 10800 IN NS ns
+10800 IN NS ns2
+www.haridustehnoloogia 10800 IN CNAME jaan
+server2 10800 IN A 193.40.12.67
+inqua-peribaltic 10800 IN CNAME jaan
+msc 10800 IN CNAME jaan
+server3 10800 IN A 193.40.12.68
+panopto.pc 10800 IN A 193.40.136.85
+www.citiesaftertransition 10800 IN CNAME jaan
+www.programmeerimine 10800 IN CNAME jaan
+www.e-ope 10800 IN CNAME uusrobert.ccu
+www.epso 10800 IN CNAME jaan
+ci.gitlab 10800 IN CNAME gitlab
+www.taslo 10800 IN CNAME jaan
+raud 10800 IN MX 1 leesikas
+raud 10800 IN AAAA 2001:bb8:2002:f00:250:56ff:fe82:2179
+raud 10800 IN A 193.40.15.176
+mtj 10800 IN CNAME demeter.at.mt
+mtk 10800 IN NS ns
+10800 IN NS ns2
+cbs2 10800 IN CNAME jaan
+www2 10800 IN CNAME jaan
+www.anatoomikum 10800 IN CNAME drupaldev
+wc.narva 10800 IN A 172.26.0.6
+baltic 10800 IN A 193.40.5.130
+ldap 3600 IN CNAME siim
+ns1 10800 IN AAAA 2001:bb8:2002:500:216:3eff:fe65:ae6e
+ns1 10800 IN A 193.40.5.39
+ns2 10800 IN AAAA 2001:bb8:2002:500:216:3eff:fe65:ae6f
+ns2 10800 IN A 193.40.5.76
+kohvik 10800 IN MX 10 mx1.zone.ee.
+10800 IN MX 20 mx2.zone.ee.
+kohvik 10800 IN A 217.146.69.9
+server12 10800 IN A 193.40.12.77
+kunstimuuseum 10800 IN CNAME drupaldev
+ritso6 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:2190
+server9 10800 IN A 193.40.12.74
+kodeerija.yti 10800 IN CNAME vhosts
+mgu2.narva 10800 IN A 193.40.211.93
+mailhost 10800 IN MX 1 smtp1.it.da
+10800 IN MX 1 smtp2.it.da
+mailhost 3600 IN A 193.40.5.66
+3600 IN A 193.40.5.67
+www.whylinguistics 10800 IN CNAME ghs.google.com.
+icca10 10800 IN CNAME demeter.at.mt
+wifi.narva 10800 IN A 193.40.211.67
+arfr2 10800 IN CNAME drupaldev
+www.fibir 10800 IN CNAME uusrobert.ccu
+gw.narva 10800 IN A 193.40.210.225
+10800 IN A 193.40.211.65
+www.nordicprosody 10800 IN CNAME vhosts
+orkester 10800 IN CNAME ghs.google.com.
+cache2 10800 IN CNAME cache1
+skandi 10800 IN NS ns
+10800 IN NS ns2
+www.ceurus 10800 IN CNAME jaan
+www4.academica 10800 IN A 193.40.5.130
+www.elixir 10800 IN CNAME demeter.at.mt
+biometc 10800 IN CNAME biometc.med
+dspace.yti 10800 IN A 172.17.0.97
+www.dapd 10800 IN CNAME dapd
+www.canbio 10800 IN CNAME vhosts
+register.eio 10800 IN CNAME eio
+www4 10800 IN CNAME securewww
+vanaraud 10800 IN MX 1 leesikas
+vanaraud 10800 IN A 193.40.15.2
+www.esak 10800 IN CNAME vhosts
+www.fyysika.olympiaadid 10800 IN A 193.40.0.7
+www.mgtconf 10800 IN CNAME jaan
+cembu 10800 IN AAAA 2001:bb8:2002:f00:1e6f:65ff:fead:e0a3
+cembu 10800 IN A 193.40.15.116
+www.esil2011 10800 IN CNAME jaan
+gwc2014 10800 IN CNAME jaan
+www.sisu 10800 IN CNAME jaan
+lasagne.domenis 10800 IN A 193.40.5.194
+testp.pc 10800 IN TXT "v=msv1 t=f37124c3429336478868333be41080"
+ph6 10800 IN AAAA 2001:bb8:2002:f00::
+testtelefon 10800 IN A 193.40.12.88
+olf 10800 IN CNAME olaf
+ntp 10800 IN CNAME siim
+www3.pc 10800 IN A 193.40.136.71
+xn--ti-wka 10800 IN CNAME drupaldev
+jalgpall 10800 IN CNAME jaan
+haridustehnoloogia 10800 IN CNAME jaan
+cms.lv.eio 10800 IN CNAME demeter6.at.mt
+kylalisele 10800 IN CNAME robert.it.da
+omi 10800 IN CNAME drupaldev
+flashtest 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:1825
+flashtest 10800 IN A 193.40.5.98
+pdc2.tuit 10800 IN A 193.40.35.116
+mobilitylab 10800 IN CNAME jaan
+www.lahetus 10800 IN CNAME jaan
+www 10800 IN AAAA 2001:bb8:2002:500::42
+www 10800 IN A 193.40.5.73
+msoid.students.pc 3600 IN CNAME clientconfig.microsoftonline-p.net.
+bpm2012 10800 IN CNAME demeter.at.mt
+www.regionaal 10800 IN CNAME uusrobert.ccu
+mailhostvana 10800 IN A 193.40.5.244
+rain 10800 IN A 193.40.5.149
+www.zooloogia 10800 IN CNAME drupaldev
+www.protokeskus 10800 IN CNAME vhosts
+lote2 10800 IN CNAME drupaldev
+raadio 10800 IN A 193.40.5.144
+www.bw2012 10800 IN CNAME demeter.at.mt
+www.moocs 10800 IN CNAME drupaldev
+epso 10800 IN CNAME jaan
+vanasiim 10800 IN A 193.40.5.2
+www.rahvatants 10800 IN CNAME jaan
+ubiquitous 10800 IN A 193.40.16.171
+at-dom0.ims 10800 IN A 172.17.35.21
+estdiasyn 10800 IN CNAME vhosts
+filr 10800 IN A 193.40.5.110
+tyye5 10800 IN A 193.40.34.202
+epsy 10800 IN CNAME jaan
+physics 10800 IN NS ns
+10800 IN NS ns.eenet.ee.
+10800 IN NS ns2
+tytln 10800 IN A 193.40.56.148
+www.digiarhiiv 10800 IN CNAME digiarhiiv.gg.bg
+fw-sise.ims 10800 IN A 172.17.35.18
+www.sh.test 10800 IN CNAME sh.test
+www.eestiturismigeograafia 10800 IN A 199.34.228.100
+www-4 10800 IN CNAME securewww.ut.ee
+sihtasutus 10800 IN CNAME jaan
+www-1 10800 IN A 193.40.5.24
+ll10 10800 IN AAAA 2001:bb8:2002:500:216:3eff:fe35:5d4
+ll10 10800 IN A 193.40.5.90
+tips2 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:7ef5
+tips2 10800 IN A 193.40.5.4
+www.visioon2032 10800 IN CNAME vhosts
+vana.sime 10800 IN CNAME vhosts
+taipla 10800 IN CNAME vhosts
+www.farmaatsia 10800 IN CNAME drupaldev
+liikumislabor 10800 IN CNAME jaan
+iavs2013 10800 IN CNAME jaan
+vanatall 10800 IN A 193.40.5.17
+testarengukava 10800 IN CNAME vhosts
+owa 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:b6aa
+owa 10800 IN A 193.40.5.179
+imsedu.ims 10800 IN A 193.40.35.140
+tuit 10800 IN NS ns
+10800 IN NS ns2
+tymri 10800 IN CNAME drupaldev
+lumdetr 10800 IN CNAME vhosts
+CISCO-LWAPP-CONTROLLER.parnu 10800 IN A 172.22.0.19
+koolistatistika 10800 IN CNAME vhosts
+kangro100 10800 IN CNAME demeter.at.mt
+www.doktorikool 10800 IN CNAME jaan
+primer3plus 10800 IN CNAME bioinfo.ebc.ee.
+academica 10800 IN CNAME jaan
+Athena.narva 10800 IN A 193.40.211.77
+editwww 10800 IN A 193.40.5.231
+time 10800 IN CNAME siim
+dapd 10800 IN A 193.40.5.18
+foorum2 10800 IN CNAME jaan
+kodu 10800 IN AAAA 2001:bb8:2002:500:250:56ff:feb4::
+kodu 10800 IN A 193.40.5.127
+ovirttest 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:20de
+ovirttest 10800 IN A 193.40.5.57
+mailhost6-1 10800 IN AAAA 2001:bb8:2002:500::46
+mailhost6-2 10800 IN AAAA 2001:bb8:2002:500::47
+radius 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:9630
+radius 10800 IN A 193.40.5.240
+taetl.ims 10800 IN A 193.40.35.137
+esak 10800 IN CNAME vhosts
+kaemus 10800 IN CNAME sh.test
+dets2014.kysitlus._domainkey.tagasiside 10800 IN TXT "v=DKIM1;t=s;n=core;p=" "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv9LMZime3+xVP2lj7XIS" "FkeljgjRapFKelrSoxuQMZzdUifs4IiM8uY1lcieR+PHvbAR9CMrjL6YVBvdJ38s" "zkdRArsKHpD2jkXFt4lduoLfgSkxk1xK8nIgzrmb0w8CJuAnR8mmR/cZS6yEpaG7" "R8RlO5In/wQNNair4jJESZYKK1X5eHPZ4DUOvRi5aZhrKiiEhBtzoTABKP8Pf8wB" "ElqnOYjaYE0GSDUU9XXs9aBE0qDFa72M0JnKGB9HcCzY84YdAjbXj+EF9C1hz5xF" "o7F24w3NmOcoRp4S9rbHVZYtrQTNkeN2Tmag9KEmDWqP1uwyALW9xDbw0c0MFns4" "2QIDAQAB"
+time2012 10800 IN CNAME demeter.at.mt
+mgu1.narva 10800 IN A 193.40.211.92
+deepweb 10800 IN CNAME zeus.at.mt
+maailmakeeled2 10800 IN CNAME drupaldev
+kimovar 10800 IN CNAME vhosts
+www.flaj 10800 IN CNAME drupaldev
+vega 10800 IN CNAME vhosts
+www.jalgpall 10800 IN CNAME jaan
+www.vivaarium.tymri 10800 IN CNAME jaan
+erme 10800 IN AAAA 2001:bb8:2002:500:213:72ff:fe66:b163
+erme 10800 IN A 193.40.5.115
+bcmax 10800 IN A 193.40.23.73
+utt 10800 IN A 193.40.5.41
+cache1 10800 IN A 193.40.5.245
+christmas 10800 IN CNAME vhosts
+drupaltest 3600 IN AAAA 2001:bb8:2002:500:250:56ff:feb4:7
+drupaltest 3600 IN A 193.40.5.120
+gpfsmonitor 10800 IN A 172.17.0.203
+kaamel 10800 IN AAAA 2001:bb8:2002:500:250:56ff:fe82:4de6
+kaamel 10800 IN A 193.40.5.145
+aatomik 10800 IN A 193.40.2.182
+www.cect 10800 IN CNAME jaan
+vanatyye 10800 IN CNAME jaan
+talvekad.pc 10800 IN CNAME jaan
+fitness 10800 IN CNAME jaan
+curriculum.struktuur 10800 IN CNAME uusrobert.ccu
+libreoffice 10800 IN CNAME vhosts

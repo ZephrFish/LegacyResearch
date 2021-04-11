@@ -1,0 +1,10 @@
+@ 86400 IN SOA ns1.xserver.jp. root.sv0.xserver.jp. 0 10800 3600 604800 3600
+@ 86400 IN A 210.188.201.168
+@ 86400 IN MX 0 @
+@ 86400 IN NS ns1.xserver.jp.
+86400 IN NS ns2.xserver.jp.
+86400 IN NS ns3.xserver.jp.
+86400 IN NS ns4.xserver.jp.
+86400 IN NS ns5.xserver.jp.
+* 86400 IN A 210.188.201.168
+www 86400 IN A 210.188.201.168

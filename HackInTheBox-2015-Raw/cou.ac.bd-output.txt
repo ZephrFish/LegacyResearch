@@ -1,0 +1,27 @@
+@ 86400 IN SOA ns1.lumexhost.com. shabab.h.siddique.gmail.com. 2015022601 86400 7200 1814400 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns1.lumexhost.com.
+86400 IN NS ns2.lumexhost.com.
+@ 14400 IN A 199.195.118.194
+_autodiscover._tcp.cse 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.cse 14400 IN A 199.195.118.194
+webmail 14400 IN A 199.195.118.194
+autoconfig.mail 14400 IN A 199.195.118.194
+webdisk.mail 14400 IN A 199.195.118.194
+_autodiscover._tcp.mail 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.mail 14400 IN A 199.195.118.194
+autoconfig.cse 14400 IN A 199.195.118.194
+webdisk.cse 14400 IN A 199.195.118.194
+mail 14400 IN A 199.195.118.194
+autodiscover 14400 IN A 199.195.118.194
+autodiscover.cse 14400 IN A 199.195.118.194
+whm 14400 IN A 199.195.118.194
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+cse 14400 IN A 199.195.118.194
+webdisk 14400 IN A 199.195.118.194
+ftp 14400 IN A 199.195.118.194
+cpanel 14400 IN A 199.195.118.194
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+autodiscover.mail 14400 IN A 199.195.118.194
+autoconfig 14400 IN A 199.195.118.194

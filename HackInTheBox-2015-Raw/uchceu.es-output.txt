@@ -1,0 +1,74 @@
+@ 3600 IN SOA osiris.uch.ceu.es. hostmaster.uch.ceu.es. 349 900 600 259200 3600
+@ 3600 IN A 89.248.110.0
+3600 IN A 193.147.16.67
+@ 3600 IN NS smtp2
+3600 IN NS osiris
+@ 3600 IN MX 15 smtp2
+3600 IN MX 30 ms55152013.msv1.invalid.outlook.com.
+3600 IN MX 32767 ms51903235.msv1.invalid.
+3600 IN MX 25 uchceu-es.mail.protection.outlook.com.
+3600 IN MX 10 smtp
+@ 3600 IN TXT "futFRspphHeQEAeSPFzHNdXRzacezlnW9owfb3/wo7YZmtKRNAr4HCl6DvX55Jhj9c7d4kVVmXJ1hQnp8pIshQ=="
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+3600 IN TXT "MS=ms51903235"
+nagios 3600 IN A 193.147.16.72
+admision 3600 IN A 193.147.16.59
+alcides 3600 IN CNAME oktopus
+sir 3600 IN A 193.147.16.11
+isis 3600 IN A 193.147.16.25
+ns1 3600 IN A 193.147.16.9
+blog 3600 IN A 193.147.16.61
+anatomiapatologica 3600 IN A 193.147.16.54
+observatorio-btl 3600 IN A 193.147.16.51
+app 3600 IN CNAME oktopus
+gessecretaria 3600 IN A 193.147.18.140
+nntt 3600 IN A 193.147.16.11
+sip 3600 IN CNAME sipdir.online.lync.com.
+solardecathlon 3600 IN A 89.248.110.56
+osiris.uch.ceu.es. 3600 IN A 193.147.16.9
+meeting 3600 IN A 193.147.16.18
+empleados 3600 IN A 193.147.16.54
+ceusonrie 3600 IN A 193.147.16.11
+soporte 3600 IN CNAME get.teamviewer.com/7t9rdb6.
+digitalceu 3600 IN CNAME portalesdnn
+oktopus 3600 IN A 193.147.16.84
+mx 3600 IN CNAME isis
+pm 3600 IN A 193.147.16.158
+mail 3600 IN A 193.147.16.70
+rssmix 3600 IN CNAME portalesdnn
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+slide1 3600 IN A 193.147.18.125
+nom 3600 IN A 193.147.18.72
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+smtp2 3600 IN A 193.147.16.15
+alumnos 3600 IN NS osiris.uch.ceu.es.
+sapuch 3600 IN A 193.147.18.129
+sps 3600 IN A 193.147.16.63
+ceurbero 3600 IN A 193.147.16.36
+google1b981c4335cf79b0 3600 IN CNAME google.com.
+cleopatra 3600 IN A 193.147.16.16
+archivo 3600 IN A 193.147.16.10
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+cursos 3600 IN A 193.147.16.11
+devel 3600 IN A 193.147.16.84
+medios 3600 IN A 193.147.16.62
+iteacher 3600 IN A 193.147.16.54
+semiserv 3600 IN A 193.147.16.69
+sdeurope 3600 IN CNAME solardecathlon
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 3600 IN A 193.147.16.67
+radius 3600 IN A 193.147.16.28
+slide2 3600 IN A 193.147.16.95
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+osiris 3600 IN A 193.147.16.9
+cm 3600 IN A 193.147.16.68
+slide3 3600 IN A 193.147.16.96
+portalesdnn 3600 IN A 193.147.16.54
+www2 3600 IN A 193.147.16.13
+tableusrv 3600 IN A 193.147.16.187
+hospitality 3600 IN CNAME alcides
+wrapper 3600 IN A 193.147.16.84
+nefertari 3600 IN A 193.147.16.15
+selkis 3600 IN A 193.147.16.49
+smtp 3600 IN A 193.147.16.14
+intranet 3600 IN A 193.147.16.36

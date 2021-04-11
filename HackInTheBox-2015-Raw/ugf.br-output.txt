@@ -1,0 +1,77 @@
+@ 3600 IN SOA dns.univercidade.br. admin 2011052606 600 900 3600 3600
+@ 3600 IN A 186.228.41.199
+@ 3600 IN NS dns.univercidade.br.
+3600 IN NS dns2.univercidade.br.
+@ 3600 IN MX 5 mexch04.univercidade.edu.br.
+3600 IN MX 50 mexch02.univercidade.edu.br.
+@ 3600 IN TXT "v=spf1 a loki-1 loki-2 loki-3 loki-4 loki odin-1 odin-2 odin-3 odin-4 odin thor-1 thor-2 thor-3 thor-4 thor valkyrie-1 valkyrie-2 valkyrie-3 valkyrie-4 valkyrie ~all"
+3600 IN TXT "v=spf1 mx:uc01mx.univercidade.edu.br mx:uc04mx.ugf.br ptr:mx2.univercidade.br ptr:odin-3.ugf.br ~all"
+imaps 3600 IN CNAME odin-3
+ldap 3600 IN CNAME odin-3
+mxugf 3600 IN CNAME mx.univercidade.edu.br.
+des-ead 3600 IN A 200.162.72.104
+www1-1 3600 IN A 186.228.41.199
+odin-3 3600 IN A 186.211.82.236
+smtps 3600 IN CNAME odin-3
+docentes 3600 IN CNAME www.univercidade.br.
+www3-2 3600 IN A 200.222.48.105
+cepac 3600 IN CNAME thor-1
+imap 3600 IN CNAME odin-3
+thor-3 3600 IN A 186.211.82.244
+wpub3 3600 IN A 186.211.82.211
+dns.univercidade.br. 3600 IN A 186.211.82.195
+3600 IN A 186.228.41.208
+cead 3600 IN CNAME moodle.galileoeducacional.com.br.
+www3-1 3600 IN A 200.222.48.104
+valkyrie-1 3600 IN A 186.211.82.250
+www3-3 3600 IN A 200.222.48.106
+www3-4 3600 IN A 200.222.48.107
+pop3 3600 IN CNAME odin-3
+mail 3600 IN CNAME odin-3
+pop3s 3600 IN CNAME odin-3
+zimbra 3600 IN CNAME odin-3
+webmail 3600 IN CNAME odin-3
+valkyrie-3 3600 IN A 186.211.82.252
+ead 3600 IN A 200.174.100.116
+3600 IN A 189.16.108.51
+3600 IN A 200.143.142.10
+odin-4 3600 IN A 186.211.82.237
+ldaps 3600 IN CNAME odin-3
+www1 3600 IN A 186.228.41.199
+pos 3000 IN A 200.174.100.116
+3000 IN A 189.42.139.18
+openldap 3600 IN CNAME odin-2
+valkyrie-2 3600 IN A 186.211.82.251
+loki-1 3600 IN A 186.211.82.226
+loki-2 3600 IN A 186.211.82.227
+gamavirtual 3600 IN A 200.162.72.121
+loki-4 3600 IN A 186.211.82.229
+ntp 3600 IN CNAME odin-1
+wpub 3600 IN A 186.211.82.213
+loki 3600 IN A 186.211.82.230
+salavirtual 3600 IN CNAME campusvirtual.br.
+odin 3600 IN A 186.211.82.238
+loki-3 3600 IN A 186.211.82.228
+ementas 3600 IN CNAME www
+biblioteca 3600 IN A 186.211.82.218
+aluno 3600 IN CNAME wwws.univercidade.br.
+valkyrie-4 3600 IN A 186.211.82.253
+www 3600 IN A 186.228.41.199
+proxy 3600 IN A 186.211.82.194
+openvpn 3600 IN A 186.211.82.197
+dns2.univercidade.br. 3600 IN A 186.211.82.196
+3600 IN A 186.228.41.209
+valkyrie 3600 IN A 186.211.82.254
+www3 3600 IN A 186.211.82.204
+www4 3600 IN A 186.211.82.205
+thor-1 3600 IN A 186.228.41.199
+thor-2 3600 IN A 200.162.72.121
+sala1 3600 IN A 200.162.72.103
+thor-4 3600 IN A 186.211.82.245
+wpub1 3600 IN A 186.211.82.209
+wpub2 3600 IN A 186.211.82.210
+relacionamento 3600 IN A 200.187.74.245
+wpub4 3600 IN A 186.211.82.212
+www2 3600 IN A 186.211.82.203
+smtp 3600 IN CNAME odin-3
+thor 3600 IN A 186.211.82.246

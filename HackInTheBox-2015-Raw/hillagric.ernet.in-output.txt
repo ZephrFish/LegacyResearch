@@ -1,0 +1,8 @@
+@ 86400 IN SOA e-iisc02.iisc.ernet.in. bindmaster.ece.iisc.ernet.in. 1008 1800 900 604800 86400
+@ 86400 IN NS e-iisc01.iisc.ernet.in.
+86400 IN NS e-iisc02.iisc.ernet.in.
+@ 86400 IN A 202.141.47.222
+@ 86400 IN MX 10 @
+86400 IN MX 20 mail-relay-VSAT.ernet.in.
+86400 IN MX 30 mail-relay-VSAT2.ernet.in.
+www 86400 IN A 202.141.47.222

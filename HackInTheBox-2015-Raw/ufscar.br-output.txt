@@ -1,0 +1,1309 @@
+@ 7200 IN SOA NS01 deisti 2015042717 7200 900 604800 900
+@ 7200 IN NS gw.sor
+7200 IN NS NS01
+7200 IN NS NS02
+@ 600 IN MX 5 mx01
+@ 600 IN TXT "v=spf1 mx ip4:200.133.224.13 ip6:2001:12f0:503:200::13 -all"
+lambreta 14400 IN A 200.136.207.68
+lambreta 14400 IN MX 0 lambreta
+lambreta 14400 IN TXT "v=spf1 a:lambreta.ufscar.br -all"
+lambreta 14400 IN AAAA 2001:12f0:503:100::68
+www.prolabore 14400 IN CNAME prolabore
+ead1.educacaoespecial 14400 IN A 200.9.84.50
+ead1.educacaoespecial 14400 IN MX 0 ead1.educacaoespecial
+www.momoko 14400 IN CNAME WEB-01
+www.sistemaceua 14400 IN CNAME WEB-01
+www.etermos 14400 IN A 200.9.84.35
+nosql 14400 IN A 200.133.224.72
+nosql 14400 IN AAAA 2001:12f0:503:200::72
+_sip._tcp 14400 IN SRV 0 0 5060 voipser1
+www.prograd 14400 IN CNAME medusa
+www.coral 14400 IN CNAME coral
+repositorio 14400 IN A 200.136.207.71
+repositorio 14400 IN AAAA 2001:12f0:503:100::71
+www.gpforeesp 14400 IN CNAME betara
+www.cpa 14400 IN CNAME betara
+www.betara 14400 IN CNAME betara
+sorocaba 14400 IN NS gw.sorocaba
+14400 IN NS ns01
+14400 IN NS ns02
+pluto.deciv 14400 IN A 200.136.238.191
+integramed 14400 IN A 200.9.84.109
+www.erleitegroup 14400 IN CNAME WEB-01
+www.documentos 14400 IN CNAME DOCUMENTOS
+www.bci 14400 IN CNAME WEB-01
+www.automacao2014 14400 IN CNAME WEB-01
+www.revistaaledbr 14400 IN CNAME WEB-02
+mail._domainkey.discente 14400 IN TXT "v=DKIM1; k=rsa; " "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC94xcDQ/MBu5qcuwp1KvGG4yLNhGCFAsWSlu49Pt7M0YvFtDC7EIgBmkPH4hmBcxTvtbD/9HL0c/qxYRYvnaXY4VUEcIv9txwG8a1ap1ZT18U1NdzM4UfcfGe0ygtMRLxK+0GKRPmrf3Doi3/yoVxSeWUEUUfS8GAWl2oA0IeszwIDAQAB"
+www.bco 14400 IN CNAME betara2
+www.encontropibid 14400 IN A 200.9.84.85
+google6f47f0d93930d39a.catijr 14000 IN CNAME google.com.
+www.temasbio 14400 IN CNAME WEB-01
+ns1.dema 14400 IN A 200.136.235.1
+www.profissoes 14400 IN CNAME WEB-01
+www.labiommi 14400 IN CNAME WEB-01
+www.tvcech 14400 IN CNAME barracuda
+secomp 14400 IN CNAME secomp.dc
+LDAP-SLAVE 14400 IN A 200.133.224.84
+14400 IN A 200.133.224.85
+14400 IN A 200.133.238.27
+LDAP-SLAVE 14400 IN AAAA 2001:12f0:503:200::84
+14400 IN AAAA 2001:12f0:503:200::85
+14400 IN AAAA 2801:b0:b0::27
+www.apg 14400 IN CNAME medusa
+www.sistemas 14400 IN CNAME sistemas
+www.reema 14400 IN CNAME WEB-02
+gw01-dq 14400 IN A 200.136.207.233
+nbco.ufscar.br 14400 IN A 200.9.84.221
+liec 14400 IN NS dns.liec
+14400 IN NS dns2.liec
+www.btdea 14400 IN CNAME medusa
+molinesia 14400 IN A 200.9.84.94
+moodle2 14400 IN A 200.133.224.53
+moodle2 14400 IN AAAA 2001:12f0:503:200::53
+www.nucleoufscarjr 14400 IN CNAME sistemas01b
+www.becomingvisible 14400 IN CNAME WEB-01
+www.observatorioculturaecidade 14400 IN CNAME WEB-01
+www.denf 14400 IN CNAME betara
+_sip._udp 14400 IN SRV 0 0 5060 voipser1
+narval 14400 IN A 200.136.207.91
+narval 14400 IN AAAA 2001:12f0:503:100::91
+www.btdeq 14400 IN CNAME medusa
+rafflemania2 14400 IN A 200.136.207.54
+rafflemania2 14400 IN AAAA 2001:12f0:503:100::54
+www.novowebmail 14400 IN CNAME tubarao
+carteirinha 14400 IN A 200.9.84.135
+cb-01 14400 IN A 200.133.224.11
+cb-01 14400 IN AAAA 2001:12f0:503:200::11
+cb-02 14400 IN A 200.133.224.12
+cb-02 14400 IN AAAA 2001:12f0:503:200::12
+www.sebo 14400 IN CNAME ies
+concursos 14400 IN CNAME WEB-02
+IG-03 14400 IN A 200.136.207.222
+IG-03 14400 IN AAAA 2001:12f0:503::222
+www.eliot 14400 IN CNAME medusa
+www.ava 14400 IN CNAME moodle2
+www.nasnuvens 14400 IN CNAME ies
+www.cadernosbci 14400 IN CNAME WEB-02
+sip 14400 IN CNAME sistemas01b
+www.revistacech 14400 IN CNAME revistacech
+www.ccs 14400 IN CNAME betara
+www.petlif 14400 IN CNAME medusa
+www.derd 14400 IN CNAME medusa
+www.proadsis 14400 IN CNAME proadsis
+saci-devel 14400 IN A 200.136.207.56
+saci-devel 14400 IN AAAA 2001:12f0:503:100::56
+www.psicoinfo 14400 IN CNAME WEB-01
+NSR01 14400 IN A 200.136.207.5
+NSR01 14400 IN MX 0 NSR01
+NSR01 14400 IN TXT "v=sfp1 a:NSR01.ufscar.br -all"
+NSR01 14400 IN AAAA 2001:12f0:503:100::5
+NSR02 14400 IN A 200.133.224.5
+NSR02 14400 IN MX 0 NSR02
+NSR02 14400 IN TXT "v=sfp1 a:NSR02.ufscar.br -all"
+NSR02 14400 IN AAAA 2001:12f0:503:200::5
+MONGO-01 14400 IN A 200.133.224.87
+MONGO-01 14400 IN AAAA 2001:12f0:503:200::87
+MONGO-02 14400 IN A 200.133.224.93
+MONGO-02 14400 IN AAAA 2001:12f0:503:200::93
+ntp-01 14400 IN A 200.136.207.3
+ntp-01 14400 IN AAAA 2001:12f0:503:100::3
+ntp-02 14400 IN A 200.133.224.3
+ntp-02 14400 IN AAAA 2001:12f0:503:200::3
+OMNIVISTA 14400 IN A 186.219.88.30
+blog.portaldosprofessores 14400 IN A 200.9.84.54
+webmailbeta 14400 IN CNAME tubarao
+ueoe 14400 IN A 200.136.211.221
+moodle.portaldosprofessores 14400 IN A 200.133.224.35
+moodle.portaldosprofessores 14400 IN MX 0 moodle.portaldosprofessores
+moodle.portaldosprofessores 14400 IN AAAA 2001:12f0:503:200::35
+prograd 14400 IN A 200.133.224.26
+prograd 14400 IN MX 0 prograd
+prograd 14400 IN AAAA 2001:12f0:503:200::26
+guaru 14400 IN CNAME enguia
+smtp.discente 14440 IN CNAME lambreta
+www.somos 14400 IN CNAME somos
+www.ueim 14400 IN CNAME medusa
+www.sbcts2011 14400 IN CNAME betara
+www.dfmc 14400 IN CNAME sistemas01b
+sintufscar 14400 IN CNAME orfeu
+www.dac 14400 IN CNAME ies
+www.ead3.educacaoespecial 14400 IN CNAME ead3.educacaoespecial
+sor 14400 IN NS IG.sor
+14400 IN NS ns01
+14400 IN NS ns02
+routerligao 14400 IN A 200.9.84.64
+monitor 14400 IN A 200.136.207.90
+monitor 14400 IN AAAA 2001:12f0:503:100::90
+gw-dema 14400 IN A 200.136.207.252
+gw-dema 14400 IN AAAA 2001:12f0:503::252
+lienge 14440 IN A 200.18.97.3
+www.geic 14400 IN CNAME geic
+www.phs.rihs 14400 IN CNAME WEB-01
+sworks 14400 IN A 200.136.207.29
+www.dce 14400 IN CNAME medusa
+www.dcf 14400 IN CNAME medusa
+gw-uab 14400 IN A 200.136.207.231
+creches 14400 IN A 200.9.84.122
+www.ppgcam 14400 IN CNAME betara
+uab 14400 IN NS ns01
+14400 IN NS ns02
+www.wlqa 14400 IN CNAME WEB-01
+www.linhagens 14400 IN CNAME medusa
+www.pedagogia 14400 IN CNAME betara
+www.seminarioruralidades 14400 IN CNAME WEB-01
+www.petsaberesindigenas 14400 IN CNAME WEB-01
+srd 14400 IN A 200.133.225.67
+srd 14400 IN MX 0 srd
+www.dee 14400 IN CNAME sistemas01b
+www.labbes 14400 IN CNAME WEB-01
+www.niase 14400 IN CNAME betara
+sp 14400 IN NS ns01
+14400 IN NS ns02
+www.dem 14400 IN CNAME sistemas01b
+www.des 14400 IN CNAME medusa
+videos.ies 14400 IN CNAME ies
+sistemas01b 14400 IN A 200.136.207.36
+sistemas01b 14400 IN MX 0 sistemas01b
+sistemas01b 14400 IN AAAA 2001:12f0:503:100::36
+www.cpe 14400 IN CNAME betara
+www.hympar 14400 IN CNAME medusa
+dema 14400 IN NS ns1.dema
+14400 IN NS ns2.dema
+gw.sorocaba 14400 IN A 200.133.238.2
+www.dhb 14400 IN CNAME WEB-03
+www.ppgl 14400 IN CNAME medusa
+www.jornada2009 14400 IN CNAME medusa
+www.jornada2011 14400 IN CNAME jornada2011
+www.extensao 14400 IN CNAME betara
+www.jornada2013 14400 IN CNAME jornada2013
+LDAP-SLAVE02 14400 IN A 200.136.207.9
+LDAP-SLAVE02 14400 IN AAAA 2001:12f0:503:100::9
+ppgcem 14400 IN NS ns1.dema
+14400 IN NS ns2.dema
+www.jornadagaa 14400 IN CNAME betara
+www.perfilinstitucional 14400 IN CNAME WEB-01
+LDAP-SLAVE10 14400 IN A 200.133.224.84
+LDAP-SLAVE10 14400 IN AAAA 2001:12f0:503:200::84
+www.administrativo 14400 IN CNAME administrativo
+www.gestaodocuidado 14400 IN CNAME betara
+www.coloquiojps 14400 IN CNAME WEB-01
+LDAP-SLAVE20 14400 IN A 200.133.224.85
+LDAP-SLAVE20 14400 IN AAAA 2001:12f0:503:200::85
+www.crr 14400 IN CNAME WEB-03
+torricelli 14400 IN A 200.136.212.34
+power 14400 IN A 200.133.224.13
+power 14400 IN MX 0 power
+power 14400 IN TXT "v=spf1 a:power.ufscar.br -all"
+power 14400 IN AAAA 2001:12f0:503:200::13
+flexlm 14400 IN A 200.136.207.70
+flexlm 14400 IN AAAA 2001:12f0:503:100::70
+www.ahto 14400 IN CNAME WEB-01
+LDAP-SLAVE30 14400 IN A 200.133.238.27
+LDAP-SLAVE30 14400 IN AAAA 2801:b0:b0::27
+www.divulgacaocientifica 14400 IN CNAME medusa
+www.labbmc 14400 IN CNAME betara
+routerbd 14400 IN A 200.9.84.84
+scriptor1000 14400 IN A 200.9.84.85
+LDAP-SLAVE40 14400 IN A 200.133.235.4
+cnpqwsproxy 14440 IN CNAME repositorion
+www.labi 14400 IN CNAME WEB-01
+www.ebt 14400 IN CNAME ebt
+web-dev 14400 IN A 200.136.207.57
+web-dev 14400 IN AAAA 2001:12f0:503:100::57
+www.dme 14400 IN CNAME betara
+www.edf 14400 IN CNAME betara
+barracuda 14400 IN A 200.9.84.50
+presente 14400 IN A 200.18.98.29
+presente 14400 IN AAAA 2001:12f0:503:2502:30a3:5bff:fe46:e232
+Routerdb 14400 IN CNAME routerbd
+www.lenfi 14400 IN CNAME sistemas01b
+www.neppla 14400 IN CNAME WEB-01
+www.dmp 14400 IN CNAME betara
+VPN-Gerencia-02 14400 IN A 200.133.224.90
+VPN-Gerencia-02 14400 IN AAAA 2001:12f0:503:200::90
+mail 14400 IN A 200.133.224.11
+mail 14400 IN AAAA 2001:12f0:503:200::11
+maisleiturabco 14400 IN CNAME WEB-01
+www.ceades 14400 IN CNAME sistemas01b
+www.jornadaadci 14400 IN CNAME medusa
+www.dpg 14400 IN CNAME betara
+dfmc 14400 IN CNAME sistemas01b
+cloudcontroller 14400 IN A 200.9.84.132
+cloudcontroller 1440 IN MX 0 cloudcontroller
+www.revistaipseitas 14400 IN CNAME WEB-02
+www.discursoeimagem 14400 IN CNAME sistemas01b
+www.enactus 14400 IN CNAME WEB-01
+www.mta 14400 IN CNAME betara
+comp 14400 IN NS ns2.dc
+14400 IN NS tigre.dc
+www.materiaisjr 14400 IN CNAME betara
+monitor2 14400 IN A 200.133.224.44
+monitor2 14400 IN AAAA 2001:12f0:503:200::44
+cephumanos 14400 IN CNAME sistemas02
+imap 14400 IN CNAME mail
+geic 14400 IN A 200.133.224.50
+geic 14400 IN AAAA 2001:12f0:503:200::50
+Www.eje 14400 IN CNAME sistemas01b
+www.incoop 14400 IN CNAME betara
+www.noseulugar 14400 IN A 200.136.217.194
+www.rihs 14400 IN CNAME WEB-01
+gabinete 14400 IN CNAME WEB-02
+www.semafrica 14400 IN CNAME WEB-01
+www.reservadesalas 14400 IN CNAME sistemas01b
+cursinho 14400 IN A 187.45.195.61
+www.dto 14400 IN CNAME betara
+controledeacesso 14400 IN A 200.136.207.67
+controledeacesso 14400 IN AAAA 2001:12f0:503:100::67
+www.incluir 14400 IN CNAME betara
+www.eroute 14400 IN CNAME WEB-01
+vsphere-mgmt 14400 IN A 200.136.207.54
+vsphere-mgmt 14400 IN AAAA 2001:12f0:503:100::54
+shrimp 14400 IN A 200.133.224.60
+use 14400 IN A 200.9.84.248
+www.astro 14400 IN CNAME sistemas01b
+namargem 14400 IN A 187.45.193.206
+www.portalci 14400 IN CNAME dcinet
+www.emn 14400 IN CNAME medusa
+rbf 14400 IN A 200.9.84.41
+rbf 14400 IN MX 0 rbf
+rbf 14400 IN TXT "v=spf1 a:rbf.ufscar.br -all"
+gemm 14400 IN A 200.136.235.153
+LOG-01 14400 IN A 200.133.224.1
+LOG-01 14400 IN AAAA 2001:12f0:503:200::1
+DHCP 14400 IN A 200.133.224.48
+DHCP 14400 IN AAAA 2001:12f0:503:200::48
+gw-wifi-at5 14400 IN A 200.136.207.240
+www.revistasneim 14400 IN CNAME WEB-02
+www.reuni 14400 IN CNAME betara
+www.enemp2015 14400 IN CNAME WEB-01
+www.cienciaetecnologia 14400 IN CNAME tricogaster
+emabio 14400 IN CNAME sistemas01b
+www.cipb 14400 IN CNAME WEB-01
+www.gepec 14400 IN CNAME betara
+VPN-Gerencia 14400 IN A 200.133.224.90
+14400 IN A 200.133.224.91
+VPN-Gerencia 14400 IN AAAA 2001:12f0:503:200::90
+14400 IN AAAA 2001:12f0:503:200::91
+www.repositorio 14400 IN CNAME repositorio
+www.inovacao 14400 IN A 200.136.209.237
+www.sisbiotapredadores 14400 IN CNAME betara
+www.ruras 14400 IN CNAME WEB-01
+WEB-04 14400 IN A 200.136.207.81
+WEB-04 14400 IN MX 0 WEB-04
+WEB-04 14400 IN TXT "v=spf1 mx ip4:200.136.207.81 ip6:2001:12f0:503:100::81 -all"
+WEB-04 14400 IN AAAA 2001:12f0:503:100::81
+www.indicadoresctis 14400 IN CNAME betara
+radio 14400 IN A 200.136.219.172
+radio 14400 IN MX 0 radio
+web-05 14400 IN A 200.136.207.84
+web-05 14400 IN AAAA 2001:12f0:503:100::84
+Marlim-03 14400 IN A 200.133.224.51
+Marlim-03 14400 IN AAAA 2001:12f0:503:200::51
+www.labtecs 14400 IN CNAME WEB-01
+VPN 14400 IN A 200.133.224.38
+pop.discente 14440 IN CNAME lambreta
+pacientesimulado 14400 IN A 200.136.212.182
+www.forproex 14400 IN CNAME betara
+www.moodle.portaldosprofessores 14400 IN CNAME portaldosprofessores
+www.infojr 14400 IN CNAME sistemas01b
+www.encontroeps 14400 IN CNAME encontroeps
+fisiologiadoexercicio 14400 IN A 187.45.193.150
+www.lmpb 14400 IN CNAME WEB-01
+www.numiecosol 14400 IN CNAME numiecosol
+lacremm 14400 IN NS ns01
+14400 IN NS ns02
+www.ppgadr 14400 IN CNAME WEB-03
+www.semanasociais 14400 IN CNAME WEB-01
+dica 14400 IN CNAME medusa
+ns2.dema 14400 IN A 200.136.236.1
+www.pipgcf 14400 IN CNAME betara
+www.portalensinofilosofia 14400 IN CNAME WEB-03
+dolphi 14400 IN A 200.9.84.8
+www.ebbc 14400 IN CNAME betara
+dns.ies 14400 IN CNAME ies
+www.m3c 14400 IN CNAME WEB-01
+www.gabinete 14400 IN CNAME WEB-02
+www.carteirinha 14400 IN CNAME carteirinha
+www.cursinho 14400 IN CNAME cursinho
+www.rizbicki 14400 IN CNAME WEB-01
+www.pipges 14400 IN CNAME WEB-01
+proad 14400 IN A 200.9.84.103
+proad 14400 IN MX 0 proad
+www.leia 14400 IN CNAME betara
+www.lqbo 14400 IN CNAME WEB-01
+www.namargem 14400 IN CNAME namargem
+www.anpedinha2009 14400 IN CNAME betara
+www.ppgpur 14400 IN CNAME WEB-03
+www.gepps 14400 IN CNAME WEB-01
+jabber 14400 IN CNAME tuvira
+projetobrotar 14400 IN A 200.9.84.85
+saci 14400 IN CNAME comunicacao
+www.labie 14400 IN CNAME WEB-01
+www.lahmiei 14400 IN CNAME WEB-03
+www.gmf 14400 IN CNAME WEB-01
+www.loccu 14400 IN CNAME WEB-01
+www.bcnp 14400 IN CNAME bcnp
+www.bmos13 14400 IN CNAME medusa
+tanictis04 14400 IN A 200.9.84.85
+tanictis05 14400 IN A 200.9.84.99
+tanictis06 14400 IN A 200.9.84.96
+tanictis10 14400 IN A 200.9.84.109
+progweb 14400 IN CNAME prograd
+www.webmailbeta 14400 IN CNAME tubarao
+www.portaldosprofessores 14400 IN CNAME portaldosprofessores
+www.educaneab 14400 IN CNAME WEB-03
+www.nepedeees 14400 IN CNAME WEB-03
+www.neevy 14400 IN CNAME WEB-03
+www.ead2.educacaoespecial 14400 IN CNAME ead2.educacaoespecial
+www.nanolab 14400 IN CNAME medusa
+srv-tomcat01 14400 IN A 200.9.84.42
+comunicacao 14400 IN A 200.133.224.61
+comunicacao 14400 IN MX 0 comunicacao
+comunicacao 14400 IN TXT "v=spf1 mx:comunicacao.ufscar.br a:tricogaster.ufscar.br -all"
+www.relea 14400 IN CNAME WEB-02
+enguia 14400 IN A 200.136.212.35
+enguia 14400 IN MX 0 enguia
+www.debate 14400 IN CNAME betara
+forum-abrapg 14400 IN A 200.9.84.41
+LDAP-MASTER02 14400 IN A 200.133.224.81
+LDAP-MASTER02 14400 IN AAAA 2001:12f0:503:200::81
+LDAP-MASTER03 14400 IN A 200.133.238.14
+LDAP-MASTER04 14400 IN A 200.133.235.3
+www.versaobeta 14400 IN CNAME WEB-02
+IG-CCBS 14400 IN A 200.136.207.238
+IG-CCBS 14400 IN AAAA 2001:12f0:503::238
+www.nucid 14400 IN CNAME sistemas01b
+gw-01-df 14400 IN A 200.136.207.253
+gw-01-df 14400 IN AAAA 2001:12f0:503::253
+www.moodle2.portaldosprofessores 14400 IN CNAME moodle2.portaldosprofessores
+www.cienciassociais 14400 IN CNAME WEB-01
+www.portaldoidosoativo 14400 IN CNAME WEB-01
+www.gsm 14400 IN CNAME medusa
+www.conpes 14400 IN A 187.45.193.206
+www.histedbr8 14400 IN CNAME histedbr8
+www.ciclopalestrasppgern 14400 IN CNAME WEB-01
+www.editora 14400 IN CNAME medusa
+listas 14400 IN A 200.9.84.74
+dird 14400 IN A 200.133.225.68
+dird 14400 IN AAAA 2001:12f0:503:2131::68
+www.ppgbma 14400 IN CNAME western.sor
+gw-deciv 14400 IN A 200.136.207.246
+www.rbes 14400 IN A 200.136.219.122
+www.ruadocarvalho 14400 IN CNAME ies
+www.labgeo 14400 IN CNAME WEB-01
+disi 14400 IN NS ns01
+14400 IN NS ns02
+www.getmlest 14400 IN CNAME WEB-01
+www.pramonscar 14400 IN CNAME betara
+www.labsm 14400 IN CNAME betara
+www.etanol 14400 IN CNAME betara
+www.mobilidade 14400 IN CNAME medusa
+IG-DC 14400 IN A 200.136.207.241
+IG-DC 14400 IN AAAA 2001:12f0:503::241
+www.ies 14400 IN CNAME ies
+www.propq 14400 IN CNAME betara
+gw-wifi-at1-at2 14400 IN A 200.136.207.249
+www.defmh 14400 IN CNAME medusa
+IG-DL 14400 IN A 200.136.207.239
+IG-DL 14400 IN AAAA 2001:12f0:503::239
+www.materialc10 14400 IN CNAME WEB-01
+www.ambiente-augm 14400 IN CNAME medusa
+www.progradweb 14400 IN CNAME prograd
+gestao 14400 IN CNAME WEB-02
+tramite 14400 IN CNAME sistemas02
+revistacech 14400 IN A 200.9.84.50
+www.catijr 14400 IN CNAME catijr
+puictweb 14400 IN CNAME sistemas02
+jornada 14400 IN A 200.136.214.74
+www.bdtd 14400 IN CNAME bdtd
+useweb 14400 IN CNAME use
+www.dmed 14400 IN CNAME medusa
+www.blogdareitoria 14400 IN CNAME sistemas01b
+www.hte 14400 IN CNAME betara
+www.entrepassos 14400 IN CNAME ies
+www.inovacoespedagogicas 14400 IN CNAME betara
+bd-sistemas01 14400 IN CNAME bd-01
+moodle 14400 IN A 200.133.224.23
+moodle 14400 IN MX 0 moodle
+moodle 14400 IN AAAA 2001:12f0:503:200::23
+www.protease 14400 IN CNAME WEB-01
+bcnp 14400 IN A 200.152.208.135
+www.observatorio 14400 IN CNAME medusa
+VPN-Gerencia-01 14400 IN A 200.133.224.91
+VPN-Gerencia-01 14400 IN AAAA 2001:12f0:503:200::91
+www.imc 14400 IN CNAME sistemas01b
+www.petambiental 14400 IN CNAME betara
+www.geterm 14400 IN CNAME medusa
+www.icssur2011 14400 IN CNAME medusa
+www.ciencialudica 14400 IN CNAME medusa
+SISTEMAS03 14400 IN A 200.136.207.52
+SISTEMAS03 14400 IN MX 0 SISTEMAS03
+SISTEMAS03 14400 IN TXT "v=sfp1 a:SISTEMAS03.ufscar.br -all"
+SISTEMAS03 14400 IN AAAA 2001:12f0:503:100::52
+nucleoufscarjr 14400 IN CNAME sistemas01b
+www.gerontologia 14400 IN CNAME betara
+www.blog.portaldisprofessores 14400 IN CNAME blog.portaldosprofessores
+dns.liec 14400 IN A 200.136.226.155
+www.caminhada 14400 IN CNAME WEB-03
+www.grupohorizonte 14400 IN CNAME sistemas3.sead
+cron.sead 14400 IN A 200.133.224.35
+cron.sead 14400 IN AAAA 2001:12f0:503:200::35
+www.integramed 14400 IN CNAME integramed
+helpdesk.bco 14400 IN A 200.9.84.221
+somos 14400 IN A 150.164.30.180
+www.robotica 14400 IN CNAME robotica
+www.contemporanea 14400 IN CNAME WEB-02
+www.nucleodegeo 14400 IN CNAME ngeo
+www.agencia 14400 IN CNAME agencia
+www.neim1 14400 IN A 200.136.210.3
+www.antigowebmail 14400 IN CNAME leviathan
+mundoacademico 14400 IN A 200.136.247.153
+proxy 14400 IN A 200.136.207.100
+proxy 14400 IN AAAA 2001:12f0:503:100::100
+thor.dee 14400 IN A 200.136.231.240
+www.circodaciencia 14400 IN CNAME WEB-01
+www.ppge 14400 IN CNAME ppge
+www.rdinformacao 14400 IN CNAME WEB-02
+www.fisiologiadoexercicio 14400 IN CNAME fisiologiadoexercicio
+bco 14400 IN CNAME betara2
+votacao.ppgcts 14400 IN CNAME votacao.nit
+www.semgepec 14400 IN CNAME betara
+www.shrimp 14400 IN CNAME shrimp
+gw-at3 14400 IN A 200.136.207.229
+www.grupoampm 14400 IN CNAME medusa
+www.ppgcso 14400 IN CNAME tanictis06
+www.eefe 14400 IN CNAME medusa
+www.sintesedq 14400 IN CNAME WEB-01
+www.ppgece 14400 IN A 200.136.239.56
+db-01-scl 14400 IN A 200.133.224.62
+db-01-scl 14400 IN AAAA 2001:12f0:503:200::62
+www.ppgcts 14400 IN CNAME betara
+www.ict2008 14400 IN CNAME medusa
+purus.deq 14400 IN A 200.136.231.112
+www.revistaflorestan 14400 IN CNAME WEB-02
+sin 14400 IN NS ns01
+14400 IN NS ns02
+onix 14400 IN A 200.9.84.10
+auth-02-scl 14400 IN A 200.136.207.62
+auth-02-scl 14400 IN AAAA 2001:12f0:503:100::62
+www.emabio 14400 IN CNAME sistemas01b
+www.cartadeservicos 14400 IN CNAME WEB-03
+www.radio 14400 IN CNAME radio
+www.arqanalagoa 14400 IN CNAME serverlagoa
+www.tedic 14400 IN CNAME WEB-01
+lirio 14400 IN A 200.9.84.7
+www.puictweb 14400 IN CNAME sistemas02
+www.ppgees 14400 IN CNAME betara
+repositorios.propq 14400 IN CNAME WEB-01
+www.pacientesimulado 14400 IN CNAME pacientesimulado
+www.osbastidores 14400 IN A 200.136.217.194
+www.semacip 14400 IN CNAME WEB-01
+www.scriptor1000 14400 IN CNAME scriptor1000
+bdtd 14400 IN A 200.133.224.66
+bdtd 14400 IN AAAA 2001:12f0:503:200::66
+cca 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS einstein.cca
+iriS 14400 IN A 200.133.224.13
+iriS 14400 IN MX 0 iris
+iriS 14400 IN TXT "v=spf1 a:iris.ufscar.br -all"
+iriS 14400 IN AAAA 2001:12f0:503:200::13
+ava 14400 IN CNAME moodle2
+www.ppgs 1400 IN CNAME WEB-01
+sead 14400 IN NS ns01
+14400 IN NS ns02
+polvO 14400 IN A 200.133.224.13
+polvO 14400 IN MX 0 polvo
+polvO 14400 IN TXT "vspf1 a:polvo.ufscar.br. -all"
+polvO 14400 IN AAAA 2001:12f0:503:200::13
+www.acoes 14400 IN A 200.9.84.121
+www.seis9 14400 IN CNAME medusa
+www.phl2 14400 IN CNAME phl2
+www.phl3 14400 IN CNAME phl3
+versao 14400 IN CNAME sistemas01b
+www.ogatopreto 14400 IN CNAME ies
+rafflemania1 14400 IN A 200.136.207.42
+rafflemania1 14400 IN AAAA 2001:12f0:503:100::42
+www.processoseducativos 14400 IN CNAME medusa
+cer 14400 IN A 200.136.219.123
+cer 14400 IN MX 0 cer
+novamedusa 14400 IN A 200.136.207.48
+novamedusa 14400 IN AAAA 2001:12f0:503:100::48
+www.petestatistica 14400 IN CNAME medusa
+logstash 14400 IN A 200.133.224.97
+logstash 14400 IN AAAA 2001:12f0:503:200::97
+tricogaster 14400 IN A 200.133.224.61
+tricogaster 14400 IN MX 0 tricogaster
+tricogaster 14400 IN AAAA 2001:12f0:503:200::61
+www.seabd.bco 14400 IN CNAME betara2
+sensocomum 14400 IN A 200.18.98.49
+www.ceeja 14400 IN CNAME betara
+www.reveduc 14400 IN CNAME WEB-02
+www.yoga 14400 IN CNAME medusa
+faidns.fai 14400 IN A 200.136.209.246
+www.gestaodaclinica 14400 IN CNAME WEB-01
+www.leemel 14400 IN CNAME sistemas01b
+www.reservanucleo 14400 IN CNAME WEB-02
+athena.nit 14400 IN A 200.136.214.66
+www.idfonline 14400 IN CNAME idfonline
+eebc 14400 IN CNAME betara
+www.nanofael 14400 IN CNAME sistemas01b
+www.lem 14400 IN CNAME medusa
+alexandria.bco 14400 IN A 200.136.241.166
+www.ixcnmem 14400 IN CNAME WEB-01
+iserver.ccdm 14400 IN A 200.136.214.129
+www.2erebd 14400 IN CNAME WEB-02
+www.lgb 14400 IN CNAME betara
+www.lgc 14400 IN CNAME WEB-03
+www.proexweb 14400 IN CNAME proexweb
+www.infodigital 14400 IN CNAME sistemas01b
+www.edificarjr 14400 IN CNAME WEB-01
+www.lia 14400 IN CNAME WEB-03
+www.ppgeps 14400 IN CNAME sistemas01b
+www.vico 14400 IN CNAME betara
+IG-SCL 14400 IN A 200.136.207.240
+IG-SCL 14400 IN AAAA 2001:12f0:503::240
+www.conselhodeparceria 14400 IN CNAME betara
+www.semgepec1 14400 IN CNAME betara
+www.simposiodefisioterapia 14400 IN CNAME betara
+www.projetosolaris 14400 IN CNAME medusa
+www.biolic 14400 IN CNAME WEB-01
+www.defvisual1 14400 IN CNAME defvisual1
+www.defvisual2 14400 IN CNAME defvisual2
+router-wifi-disi 14400 IN A 200.133.225.222
+www.gestaosrh 14400 IN CNAME WEB-02
+dee 14400 IN MX 0 thor.dee
+dee 14400 IN TXT "v=spf1 a:thor.dee.ufscar.br -all"
+www.visite 14400 IN CNAME WEB-03
+responde 14400 IN A 200.9.84.34
+gw-deq 14400 IN A 200.136.207.218
+gw-deq 14400 IN AAAA 2001:12f0:503::218
+www.ppgest 14400 IN CNAME WEB-01
+dep 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS cronus.dep
+deq 14400 IN NS purus.deq
+14400 IN NS xingu.deq
+www.ppgeciv 14400 IN CNAME sistemas01b
+telefonia 14400 IN CNAME sistemas02
+www.telefonia 14400 IN CNAME sistemas02
+portalp 14400 IN A 200.133.224.25
+portalp 14400 IN AAAA 2001:12f0:503:200::25
+tidia 14400 IN A 200.136.247.152
+www.estomaseferidas 14400 IN CNAME medusa
+vcenter 14400 IN A 200.133.224.19
+vcenter 14400 IN AAAA 2001:12f0:503:200::19
+www.roadmoviebrasil 14400 IN CNAME sistemas01b
+gw-wifi-at4 14400 IN A 200.136.207.241
+www.med 14400 IN CNAME med
+www.ead1.educacaoespecial 14400 IN CNAME ead1.educacaoespecial
+www.ciclabilidade 14400 IN CNAME WEB-01
+www.feiradeoportunidades 14400 IN CNAME WEB-01
+www.lms 14400 IN CNAME lms
+IG-02 14400 IN A 200.136.207.220
+orca 14400 IN CNAME enguia
+Www.comunicacao 14400 IN CNAME comunicacao
+ead 14400 IN NS ns01
+14400 IN NS ns02
+www.demec 14400 IN CNAME sistemas01b
+acech 14400 IN A 200.136.210.44
+xingu.deq 14400 IN A 200.136.231.111
+www.ppggev 14400 IN CNAME medusa
+www.proace 14400 IN CNAME betara
+betara2 14400 IN A 200.136.207.87
+betara2 14400 IN AAAA 2001:12f0:503:100::87
+www.hipermidiaies 14400 IN CNAME WEB-01
+www.laben 14400 IN CNAME betara
+www.cadernosdeterapiaocupacional 14400 IN CNAME sistemas01b
+www.lpn 14400 IN A 200.136.225.254
+www.conexoes 14400 IN CNAME betara
+www.sgpc 14400 IN CNAME sgpc
+phl2 14400 IN A 200.9.84.221
+www.clickciencia 14400 IN CNAME sistemas01b
+www.gestaopropq 14400 IN CNAME gestaopropq
+ebt 14400 IN A 200.213.197.147
+projsin 14400 IN CNAME WEB-02
+www.lapa 14400 IN CNAME WEB-03
+www.ppgq 14400 IN CNAME WEB-03
+servidor 14400 IN A 200.136.222.179
+www.deisti 14400 IN CNAME WEB-03
+df 14400 IN NS dns.df
+14400 IN NS ns01
+14400 IN NS ns02
+www.evolucao 14400 IN CNAME betara
+tcp 14400 IN CNAME medusa
+www.feynfest2011 14400 IN CNAME medusa
+www.webmail 14400 IN CNAME tubarao
+SMV-08 14400 IN A 200.136.207.8
+dm 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS lattice.dm
+www.ouvidoria 14400 IN CNAME betara
+aplicacoesv 14400 IN A 200.9.84.231
+www.formula 14400 IN CNAME sistemas01b
+aplicacoesv2 14400 IN A 200.9.84.232
+www.cadernosdapedagogia 14400 IN CNAME WEB-02
+www.oneesp 14400 IN CNAME betara
+anchova 14400 IN A 200.9.84.34
+www.biolum 14400 IN CNAME betara
+www.cescar 14400 IN CNAME sistemas01b
+www.pontosdecultura 14400 IN CNAME WEB-01
+www.gestao 14400 IN CNAME WEB-02
+www.agendapolitica 14400 IN CNAME WEB-02
+cbee4 14400 IN A 187.61.50.217
+www.caev 14400 IN CNAME WEB-03
+www.comissao30h 14400 IN CNAME sistemas01b
+www.goma 14400 IN CNAME WEB-01
+gw-fai 14400 IN A 200.136.207.251
+eje 14400 IN CNAME sistemas01b
+www.dpsi 14400 IN CNAME betara
+www.labnutri 14400 IN CNAME WEB-03
+fai 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS faidns.fai
+www.nfp 14400 IN CNAME WEB-03
+www.pessoas 14400 IN CNAME WEB-01
+medusa 14400 IN A 200.9.84.70
+medusa 14400 IN AAAA 2001:12f0:503:300::70
+www.pmgca 14400 IN A 200.133.233.230
+www.seminariodeantropologia 14400 IN CNAME WEB-01
+www.lga 14400 IN CNAME WEB-01
+dsr 14400 IN A 200.136.246.177
+www.lenaeomundodofazdeconta 14400 IN CNAME WEB-01
+www.moodle 14400 IN CNAME moodle
+www.jornadareumatologia 14400 IN CNAME medusa
+orc-edf 14400 IN A 200.136.207.30
+www.saci 14400 IN CNAME comunicacao
+auth-01-scl 14400 IN A 200.133.224.64
+auth-01-scl 14400 IN AAAA 2001:12f0:503:200::64
+www.procuradoriafederal 14400 IN CNAME WEB-03
+siga 14400 IN A 200.136.207.59
+siga 14400 IN AAAA 2001:12f0:503:100::59
+www.semel 14400 IN CNAME WEB-01
+www.sihs 14400 IN CNAME WEB-01
+www.gestaouse 14400 IN CNAME gestaouse
+florestan 14400 IN A 200.136.247.241
+www.gege 14400 IN CNAME betara
+www.gep 14400 IN CNAME WEB-03
+WEB-01 14400 IN A 200.136.207.38
+WEB-01 14400 IN MX 0 WEB-01
+WEB-01 14400 IN TXT "v=spf1 mx ip4:200.136.207.38 ip6:2001:12f0:503:100::38 -all"
+WEB-01 14400 IN AAAA 2001:12f0:503:100::38
+WEB-02 14400 IN A 200.136.207.51
+WEB-02 14400 IN MX 0 WEB-02
+WEB-02 14400 IN TXT "v=spf1 mx ip4:200.136.207.51 ip6:2001:12f0:503:100::51 -all"
+WEB-02 14400 IN AAAA 2001:12f0:503:100::51
+WEB-03 14400 IN A 200.133.224.27
+WEB-03 14400 IN MX 0 WEB-03
+WEB-03 14400 IN TXT "v=spf1 mx ip4:200.133.224.27 ip6:2001:12f0:503:200::27 -all"
+WEB-03 14400 IN AAAA 2001:12f0:503:200::27
+veoe 14400 IN A 200.136.209.7
+IG-DECIV 14400 IN A 200.136.207.243
+IG-DECIV 14400 IN AAAA 2001:12f0:503::243
+web-07 14400 IN A 200.136.207.97
+web-07 14400 IN MX 0 web-07
+web-07 14400 IN AAAA 2001:12f0:503:100::97
+www.ppgsga 14400 IN CNAME western.sor
+www.gestaoambiental 14400 IN CNAME betara
+www.pateoestelar 14400 IN A 200.133.225.4
+LDAP-GERENCIA 14400 IN A 200.136.207.72
+LDAP-GERENCIA 14400 IN AAAA 2001:12f0:503:100::72
+www.pedagogiadaterra 14400 IN CNAME betara
+www.quiteo 14400 IN CNAME WEB-03
+helpbco 14400 IN A 200.9.84.221
+www.seminarioppgs 14400 IN CNAME WEB-01
+www.ppgenf 14400 IN CNAME betara
+robotica 14400 IN A 200.133.229.248
+www.servidores 14400 IN CNAME WEB-01
+sgpc 14400 IN A 200.136.207.80
+sgpc 14400 IN AAAA 2001:12f0:503:100::80
+www.encontroindigena 14400 IN CNAME WEB-01
+sistemas01 14400 IN A 200.136.207.24
+www.ppgq2 14400 IN CNAME WEB-01
+www.revistaversoes 14400 IN CNAME WEB-02
+www.neab 14400 IN CNAME betara
+www.proestudo 14400 IN CNAME betara
+dns.df 14400 IN A 200.136.244.2
+dns.df 14400 IN AAAA 2001:12f0:503:2700::244:2
+physis 14400 IN CNAME sistemas01b
+www.secomp 14400 IN CNAME secomp.dc
+www.phl 14400 IN CNAME phl
+www.cbip 14400 IN CNAME medusa
+www.degalhoemgalho 14400 IN CNAME WEB-01
+www.revistageminis 14400 IN CNAME WEB-02
+www.simposioecologiasc 14400 IN CNAME WEB-01
+www.Propgweb 14440 IN CNAME propgweb
+bd-01 14400 IN A 200.133.224.24
+bd-01 14400 IN MX 0 bd-01
+bd-01 14400 IN AAAA 2001:12f0:503:200::24
+sistemas02 14400 IN A 200.136.207.25
+sistemas02 14400 IN MX 0 sistemas02
+sistemas02 14400 IN TXT "v=spf1 a:sistemas02.ufscar.br -all"
+sistemas02 14400 IN AAAA 2001:12f0:503:100::25
+www.quimica 14400 IN CNAME sistemas01b
+atena 14400 IN CNAME WEB-02
+www.linguasagem 14400 IN CNAME WEB-02
+www.ppgq-en 14400 IN CNAME tanictis06
+moreia 14400 IN CNAME prograd
+www.ccbs 14400 IN CNAME betara
+nuemp 14400 IN A 200.9.84.85
+www.matriculacalouro 14400 IN CNAME novamedusa
+www.reciclaoleo 14400 IN CNAME WEB-01
+redmine 14400 IN A 200.133.224.41
+redmine 14400 IN MX 0 redmine
+redmine 14400 IN TXT "v=spf1 a:redmine.ufscar.br -all"
+redmine 14400 IN AAAA 2001:12f0:503:200::41
+gw02-liec 14400 IN A 200.136.207.227
+www.trama 14400 IN CNAME WEB-01
+www.ccef 14400 IN CNAME medusa
+www.pdi 14400 IN CNAME betara
+proadteste 14400 IN A 200.9.84.103
+db-02-scl 14400 IN A 200.133.224.63
+db-02-scl 14400 IN AAAA 2001:12f0:503:200::63
+www.desafio2014 14400 IN CNAME WEB-01
+voipser1 14400 IN A 200.133.224.56
+voipser2 14400 IN A 200.133.224.57
+www.ccet 14400 IN CNAME ccet
+www.aledbrasil 14400 IN CNAME WEB-01
+www.bvecosol 14400 IN CNAME medusa
+progpeweb 14400 IN CNAME sistemas02
+www.ppgcm 14400 IN CNAME western.sor
+www.pes 14400 IN CNAME betara
+www.pet 14400 IN CNAME medusa
+mta2 14400 IN A 200.9.84.218
+www.scanformarc 14400 IN CNAME sistemas01b
+www.culturaproex 14400 IN CNAME betara
+git 14400 IN CNAME PROJETOS.DESIA
+FTP 14400 IN CNAME mirror
+www.neim 14400 IN CNAME betara
+www.empsijr 14400 IN CNAME WEB-01
+www.enacat 14400 IN CNAME WEB-02
+www.projetobrotar 14400 IN CNAME projetobrotar
+tuvira 14400 IN A 200.136.207.99
+tuvira 14400 IN AAAA 2001:12f0:503:100::99
+www.versao 14400 IN CNAME sistemas01b
+www2.comunicacao 14400 IN CNAME betara
+tigre.dc 14000 IN A 200.18.99.1
+tanictis03 14400 IN A 200.9.84.97
+pesquisa.bco 14400 IN A 200.136.241.166
+www.dci 14400 IN CNAME betara
+www.diabopordentro 14400 IN CNAME ies
+www.forumpoliticaspublicas 14400 IN CNAME betara
+gw-editora 14400 IN A 200.136.207.228
+gw-dm 14400 IN A 200.136.207.244
+www.ppgeu 14400 IN CNAME betara
+www.ppgft 14400 IN CNAME betara
+www.lbbfm 14400 IN CNAME betara
+IMCHP 14400 IN A 200.133.224.70
+IMCHP 14400 IN AAAA 2001:12f0:503:200::70
+www.ppgev 14400 IN CNAME tanictis06
+www.piscina 14400 IN CNAME ies
+www.petindsaude 14400 IN CNAME WEB-01
+www.concursofotos 14400 IN CNAME WEB-01
+www2 14400 IN CNAME portal
+BG-SCL 14400 IN A 186.219.80.20
+BG-SCL 14400 IN AAAA 2801:b0:3::20
+www.inovaforum 14400 IN CNAME WEB-01
+www.ppgis 14400 IN CNAME sistemas01b
+www.proad 14400 IN CNAME betara
+progradteste 14400 IN A 200.133.224.43
+progradteste 14400 IN MX 0 progradteste
+progradteste 14400 IN AAAA 2001:12f0:503:200::43
+envio.des 14400 IN A 200.136.219.123
+envio.des 14400 IN MX 0 envio.des
+www.sabio.bco 14400 IN CNAME WEB-01
+editora 14400 IN CNAME antigo.editora
+www.simposioppgern 14400 IN CNAME betara
+progradweb 14400 IN CNAME prograd
+neab 14400 IN CNAME betara
+proadsis 14400 IN A 200.9.84.103
+www.crepa 14400 IN CNAME WEB-03
+telvis.ies 14400 IN CNAME ies
+gw-ccdm 14400 IN A 200.136.207.236
+Www.revistaaskesis 14400 IN CNAME WEB-02
+www.sibraelagec 14400 IN CNAME WEB-01
+ead3.educacaoespecial 14400 IN A 200.9.84.50
+ead3.educacaoespecial 14400 IN MX 0 ead3.educacaoespecial
+www.lbbma 14400 IN CNAME WEB-03
+www.progp 14400 IN CNAME tanictis06
+www.spqmh 14400 IN CNAME medusa
+www.entrevielas 14400 IN CNAME ies
+www.visita 14400 IN CNAME medusa
+NS03 14400 IN A 200.136.207.89
+NS03 14400 IN MX 0 NS03
+NS03 14400 IN TXT "v=sfp1 a:NS03.ufscar.br -all"
+NS03 14400 IN AAAA 2001:12f0:503:100::89
+www.deqex 14400 IN CNAME medusa
+nexos 14400 IN CNAME prograd
+www.ppgpe 14400 IN CNAME betara
+www.ueoe 14400 IN CNAME ueoe
+gw-02-df 14400 IN A 200.136.207.228
+gw-02-df 14400 IN AAAA 2001:12f0:503::228
+www.filosofia 14400 IN CNAME sistemas01b
+www.auditoriainterna 14400 IN CNAME betara
+www.dfisio 14400 IN CNAME betara
+www.criticaeducativa 14400 IN CNAME WEB-02
+pop3 14400 IN CNAME mail
+numiecosol 14400 IN CNAME WEB-03
+ccdm 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS iserver.ccdm
+www.cech 14400 IN CNAME medusa
+www.saci-devel 14400 IN CNAME saci-devel
+www.lqt.dq 14400 IN CNAME WEB-01
+ies 14400 IN A 200.9.84.44
+gw02-dc 14400 IN A 200.136.207.234
+gw02-dc 14400 IN AAAA 2001:12f0:503::234
+www.novosdireitos 14400 IN CNAME WEB-03
+www.engrenar 14400 IN CNAME sistemas01b
+ccet 14400 IN A 200.9.84.97
+aldebaram 14400 IN CNAME aldebaran
+aldebaran 14400 IN A 200.136.207.23
+www.copa2010 14400 IN CNAME medusa
+www.dtpp 14400 IN CNAME WEB-03
+administrativo 14400 IN A 200.9.84.42
+webmail 14400 IN CNAME tubarao
+www.cinema 14400 IN CNAME WEB-01
+bolsas 14400 IN CNAME sistemas02
+www.ppgto 14400 IN CNAME betara
+www.transpiumhi 14400 IN CNAME medusa
+www.semaenf 14400 IN CNAME WEB-01
+www.fneuroped 14400 IN CNAME sistemas01b
+www.lamav 14400 IN CNAME medusa
+www.ppgeq 14400 IN CNAME WEB-03
+dns2.liec 14000 IN A 200.136.226.156
+BG-SOR 14400 IN A 186.219.80.21
+BG-SOR 14400 IN AAAA 2801:b0:3::21
+LDAP-ADMIN 14400 IN CNAME pinguim
+proexweb 14400 IN A 200.9.84.123
+proexweb 14400 IN MX 0 proexweb
+www.propg 14400 IN CNAME WEB-03
+www.ngeo 14400 IN CNAME ngeo
+www.revistaemcurso 14400 IN CNAME WEB-01
+www.evolution2015 14400 IN CNAME WEB-01
+histedbr8 14400 IN A 200.9.84.85
+sisproex 14400 IN CNAME WEB-02
+www.ppgern 14400 IN CNAME betara
+www.concursos 14400 IN CNAME concursos
+encontroeps 14400 IN A 200.152.208.135
+www.le-e 14400 IN CNAME WEB-01
+db-dev 14400 IN A 200.136.207.58
+db-dev 14400 IN AAAA 2001:12f0:503:100::58
+www.sac 14400 IN CNAME medusa
+www.ppggosp 14400 IN CNAME betara
+www.ccbci 14400 IN CNAME dcinet
+agencia 14400 IN A 200.136.209.247
+www.festivalsonsemovimentos 14400 IN CNAME sistemas01b
+www.ppglit 14400 IN CNAME medusa
+www.nedjus 14400 IN CNAME WEB-01
+gw-ifsp 14400 IN A 200.136.207.225
+www.dragaobranco 14400 IN CNAME WEB-01
+www.ppged 14400 IN CNAME sistemas01b
+www.funbea 14400 IN CNAME medusa
+www.lienge 14400 IN CNAME lienge
+gw-BB-OLD 14400 IN A 200.9.84.100
+consulta.bco 14440 IN A 200.136.207.44
+consulta.bco 14440 IN AAAA 2001:12f0:503:100::44
+www.pitangueira 14400 IN CNAME ies
+www.dge 14400 IN CNAME WEB-03
+LDAP-MASTER01 14400 IN A 200.133.224.76
+LDAP-MASTER01 14400 IN AAAA 2001:12f0:503:200::76
+bvagas 14400 IN CNAME sistemas01b
+quimicajr 14400 IN A 200.9.84.85
+novell 14400 IN A 200.9.84.169
+www.ftneuroped 14400 IN CNAME sistemas01b
+www.cfge 14400 IN CNAME cfge
+www.ppgfil 14400 IN CNAME sistemas01b
+gw-araras 14400 IN A 200.136.207.223
+www.separare 14400 IN CNAME WEB-03
+www.sepsi 14400 IN CNAME betara
+www.requisicoespropg 14400 IN CNAME sistemas01b
+phl 14400 IN A 200.9.84.221
+phl 14400 IN MX 0 phl
+www.tcp 14400 IN CNAME medusa
+www.ejadigital 14400 IN CNAME medusa
+www.vestibular 14400 IN CNAME sistemas01b
+IG-DCSO 14400 IN A 200.136.207.242
+IG-DCSO 14400 IN AAAA 2001:12f0:503::242
+orfeu 14400 IN A 200.136.243.89
+www.telecentro 14400 IN CNAME medusa
+www.solaris 14400 IN CNAME medusa
+zion 14400 IN A 200.136.246.252
+www.informerendimentoproad 14400 IN CNAME sistemas02
+cech 14400 IN CNAME medusa
+www.laplageemrevista 14400 IN CNAME WEB-02
+einstein.cca 14400 IN A 200.133.236.227
+artifactory 14400 IN CNAME PROJETOS.DESIA
+www.sip 14400 IN CNAME sip
+www.parqscar 14400 IN CNAME betara
+www.ceua 14400 IN CNAME sistemas02
+salmao 14400 IN A 200.136.212.33
+www.laprev 14400 IN CNAME betara
+ngeo 14400 IN A 200.136.238.76
+cronus.dep 14400 IN A 200.9.84.148
+www.atletica 14400 IN CNAME medusa
+www.rua 14400 IN CNAME WEB-01
+www.enrede 14400 IN CNAME medusa
+www.ppgciv 14400 IN CNAME sistemas01b
+www.lbbm 14400 IN CNAME betara
+www.sispred13 14400 IN CNAME WEB-01
+gw-wifi-bco-nae 14400 IN A 200.136.207.243
+LDAP-SLAVE01 14400 IN A 200.133.224.7
+LDAP-SLAVE01 14400 IN AAAA 2001:12f0:503:200::7
+www.consumosol 14400 IN CNAME medusa
+gw-ligdm 14400 IN A 200.136.207.247
+www.sisproex 14400 IN CNAME WEB-02
+proadweb 14400 IN A 200.9.84.103
+IG-ARA 14400 IN A 200.133.233.230
+gw-cema 14400 IN A 200.136.207.239
+plone-dev 14400 IN A 200.133.224.71
+plone-dev 14400 IN AAAA 2001:12f0:503:200::71
+www.revistabrasileiradects 14400 IN CNAME WEB-02
+www.prodocencia 14400 IN CNAME medusa
+www.physis 14400 IN CNAME sistemas01b
+gw-ser 14400 IN A 200.133.224.126
+14400 IN A 200.136.207.126
+gw-ser 14400 IN AAAA 2001:12f0:503:100::126
+14400 IN AAAA 2001:12f0:503:200::126
+_domainkey.discente 14400 IN TXT "o=-; r=postmaster@discente.ufscar.br"
+gw01-liec 14400 IN A 200.136.207.226
+www.soc 14400 IN CNAME betara
+www.biotec 14400 IN CNAME betara
+www.lamu 14400 IN CNAME WEB-01
+www.diplomas 14400 IN CNAME medusa
+www.univerciencia 14400 IN CNAME medusa
+deciv 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS pluto.deciv
+gestaopropq 14400 IN CNAME WEB-02
+www.leetra 14400 IN CNAME WEB-01
+www.votacao.ppgcts 14400 IN CNAME votacao.nit
+www.spl 14400 IN CNAME WEB-01
+sistemas 14400 IN A 200.136.207.60
+sistemas 14400 IN MX 1 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+14400 IN MX 10 aspmx3.googlemail.com.
+sistemas 14400 IN TXT "v=spf1 include:_spf.google.com -all"
+sistemas 14400 IN AAAA 2001:12f0:503:100::60
+www.teoriaepesquisa 14400 IN CNAME WEB-02
+MIRROR 14400 IN A 200.136.207.1
+MIRROR 14400 IN AAAA 2001:12f0:503:100::1
+www.larc 14400 IN CNAME medusa
+www.formularios 14400 IN CNAME sistemas01b
+www.srh 14400 IN CNAME WEB-01
+ngeo02 14400 IN A 200.136.238.77
+www.uac 14400 IN CNAME WEB-03
+www.semanact2006 14400 IN CNAME medusa
+www.lagoadosino 14400 IN CNAME web-07
+admnet 14400 IN A 200.136.207.28
+www.progpe 14400 IN CNAME WEB-01
+marlim2 14400 IN A 200.136.207.45
+marlim2 14400 IN AAAA 2001:12f0:503:100::45
+www.lagevol 14400 IN CNAME WEB-01
+helpdesk 14400 IN A 200.136.207.12
+helpdesk 14400 IN MX 0 helpdesk
+helpdesk 14400 IN TXT "v=spf1 a:helpdesk.ufscar.br -all"
+helpdesk 14400 IN AAAA 2001:12f0:503:100::12
+www.redmine 14400 IN CNAME redmine
+www.conaresol 14400 IN CNAME medusa
+propqceua 14400 IN CNAME sistemas02
+www.biosub 14400 IN CNAME medusa
+Www.creches 14400 IN CNAME creches
+cfge 14400 IN A 200.133.224.23
+cfge 14400 IN MX 0 cfge
+cfge 14400 IN AAAA 2001:12f0:503:200::23
+www.maira 14400 IN CNAME medusa
+www.progpeweb 14400 IN CNAME sistemas02
+antigo.editora 14400 IN A 200.9.84.220
+mx01 14400 IN A 200.133.224.13
+mx01 14400 IN MX 0 mx01
+mx01 14400 IN TXT "v=spf1 a:mx01.ufscar.br -all"
+mx01 14400 IN AAAA 2001:12f0:503:200::13
+www.acoesafirmativas 14400 IN CNAME betara
+www.proex 14400 IN CNAME betara2
+Www.uehposol 14400 IN CNAME WEB-01
+www.spdi 14400 IN CNAME betara
+pinguim 14400 IN A 200.133.224.8
+pinguim 14400 IN MX 0 pinguim
+pinguim 14400 IN AAAA 2001:12f0:503:200::8
+WEB-DB 14400 IN A 200.136.207.53
+WEB-DB 14400 IN AAAA 2001:12f0:503:100::53
+www.boaspraticasemcreches 14400 IN CNAME WEB-01
+ccgfil 14400 IN CNAME sistemas01b
+www.cadernosdeto 14400 IN CNAME sistemas01b
+www.dq 14400 IN CNAME WEB-03
+gw01-dc 14400 IN A 200.136.207.235
+www.ds 14400 IN CNAME medusa
+phl3 14400 IN A 200.9.84.221
+hommer 14400 IN CNAME IG-02
+storagev 14400 IN A 200.9.84.230
+www.biotecnologia 14400 IN CNAME medusa
+www.ciad 14400 IN CNAME WEB-01
+inovacao 14400 IN A 200.136.209.237
+ns2.dc 14400 IN A 200.18.99.9
+www.orquestra 14400 IN CNAME WEB-01
+ppge 14400 IN CNAME WEB-01
+www.avaliacao 14400 IN CNAME medusa
+tanictis01 14400 IN A 200.9.84.92
+www.ciefelcpqmh 14400 IN CNAME medusa
+med 14400 IN A 200.136.207.79
+med 14400 IN AAAA 2001:12f0:503:100::79
+idfonline 14400 IN A 200.9.84.85
+www.proadweb 14400 IN CNAME proadweb
+alocacao 14400 IN CNAME WEB-02
+lms 14400 IN A 200.136.226.140
+www.astronomia2009 14400 IN CNAME medusa
+IG.sor 14400 IN A 200.133.238.2
+IG-SIN 14400 IN A 200.136.207.250
+IG-SIN 14400 IN AAAA 2001:12f0:503::250
+smtp 14400 IN A 200.133.224.13
+smtp 14400 IN AAAA 2001:12f0:503:200::13
+portaldosprofessores 14400 IN A 200.9.84.52
+portaldosprofessores 14400 IN MX 0 portaldosprofessores
+catijr 14400 IN A 200.9.84.70
+catijr 14400 IN MX 0 aspmx.l.google.com.
+14400 IN MX 5 alt1.aspmx.l.google.com.
+14400 IN MX 5 alt2.aspmx.l.google.com.
+14400 IN MX 10 aspmx2.googlemail.com.
+www.cict 14400 IN CNAME cict
+producaojr 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS cronus.dep
+DNS-A1 14400 IN A 200.136.207.4
+DNS-A1 14400 IN AAAA 2001:12f0:503:100::4
+DNS-A2 14400 IN A 200.133.224.4
+ead2.educacaoespecial 14400 IN A 200.9.84.50
+ead2.educacaoespecial 14400 IN MX 0 ead2.educacaoespecial
+www.lbfe 14400 IN CNAME WEB-01
+www.rbbec 14400 IN CNAME WEB-02
+LDAP-MASTER 14400 IN A 200.136.207.6
+LDAP-MASTER 14400 IN AAAA 2001:12f0:503:100::6
+moodle2.portaldosprofessores 14400 IN A 200.136.207.76
+moodle2.portaldosprofessores 14400 IN MX 0 moodle2.portaldosprofessores
+moodle2.portaldosprofessores 14400 IN AAAA 2001:12f0:503:100::76
+www.semgfil 14400 IN CNAME WEB-01
+formula 14400 IN CNAME sistemas01b
+www.economia 14400 IN CNAME WEB-01
+www.acech 14400 IN CNAME acech
+www.ppgcfau 14400 IN CNAME betara
+www2.srh 14400 IN CNAME betara
+www.mundoacademico 14400 IN CNAME mundoacademico
+betara 14400 IN A 200.133.224.21
+betara 14400 IN AAAA 2001:12f0:503:200::21
+gestaosrh 14400 IN CNAME WEB-02
+splmls 14400 IN CNAME sworks
+www.obras 14400 IN CNAME obras
+www.ensinodefilosofia 14400 IN CNAME WEB-03
+www.crosscampus 14400 IN CNAME WEB-03
+pop 14400 IN CNAME mail
+www.calourada 14400 IN CNAME betara
+openaccess.dci 14400 IN A 200.136.210.89
+www.helpdesk 14400 IN CNAME helpdesk
+www.certev 14400 IN CNAME betara
+www.proadteste 14400 IN CNAME proadteste
+VOIP-01 14400 IN A 200.133.224.40
+VOIP-01 14400 IN AAAA 2001:12f0:503:200::40
+www.use 14400 IN CNAME betara
+Pingifes 14400 IN A 200.136.207.43
+Pingifes 14400 IN AAAA 2001:12f0:503:100::43
+www.csbjr 14400 IN CNAME WEB-03
+www.fimdomundo 14400 IN CNAME ies
+www.bolsas 14400 IN CNAME sistemas02
+aruana2 14400 IN A 200.136.207.22
+aruana2 14400 IN MX 0 aruana2
+aruana2 14400 IN TXT "v=spf1 a:aruana2.ufscar.br -all"
+aruana2 14400 IN AAAA 2001:12f0:503:100::22
+aruana3 14400 IN A 200.133.224.22
+aruana3 14400 IN MX 0 aruana3
+aruana3 14400 IN TXT "v=spf1 a:aruana3.ufscar.br -all"
+aruana3 14400 IN AAAA 2001:12f0:503:200::22
+bdpropg 14400 IN A 200.133.224.55
+bdpropg 14400 IN AAAA 2001:12f0:503:200::55
+www.ccgfil 14400 IN CNAME sistemas01b
+www.semanadabio 14400 IN CNAME WEB-01
+www.cinesaoroque 14400 IN CNAME medusa
+www.biotabiolum 14400 IN CNAME betara
+Dspace 14400 IN A 200.133.224.15
+Dspace 14400 IN AAAA 2001:12f0:503:200::15
+portal 14400 IN A 200.9.84.251
+portal 14400 IN AAAA 2001:12f0:503:300::251
+obras 14400 IN CNAME WEB-02
+www.pdti 14400 IN CNAME betara
+Propgweb 14400 IN A 200.136.207.86
+Propgweb 14400 IN MX 0 propgweb
+www.cbee3 14400 IN CNAME medusa
+www.cbee4 14400 IN CNAME cbee4
+marlim 14400 IN A 200.9.84.244
+edificarjr 14400 IN CNAME WEB-01
+www.srinter 14400 IN CNAME betara
+www.creches2002 14400 IN CNAME creches
+lattice.dm 14400 IN A 200.136.239.100
+novowebmail 14400 IN CNAME tubarao
+gw-nit 14400 IN A 200.136.207.245
+www.ppgpol 14400 IN CNAME WEB-03
+nit 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS athena.nit
+defvisual1 14400 IN A 200.9.84.50
+defvisual2 14400 IN A 200.9.84.50
+www.eqjr 14400 IN CNAME sistemas01b
+reuni-edf 14400 IN CNAME WEB-02
+www.alocacao 14400 IN CNAME alocacao
+www.tidia 14400 IN CNAME tidia
+www.Pingifes 14400 IN CNAME pingifes
+serverlagoa 14400 IN A 200.136.210.65
+www.saopauloeducando 14400 IN A 200.9.84.121
+www.jornadapoliticaspublicas 14400 IN CNAME WEB-01
+www.cisl 14400 IN CNAME betara
+LDAP 14400 IN A 200.133.224.7
+14400 IN A 200.136.207.9
+LDAP 14400 IN AAAA 2001:12f0:503:100::9
+14400 IN AAAA 2001:12f0:503:200::7
+www.erea 14400 IN CNAME WEB-01
+www.lqm 14400 IN CNAME WEB-03
+www.labor 14400 IN CNAME betara
+www.ppgpsi 14400 IN CNAME betara
+www.bvagas 14400 IN CNAME sistemas01b
+cict 14400 IN A 187.45.240.42
+www.evqdq 14400 IN CNAME WEB-01
+www.maisdeeternidade 14400 IN CNAME ies
+www.rbf 14400 IN CNAME rbf
+www2.progpe 14400 IN CNAME betara
+DNS-R1 14400 IN CNAME NSR01
+DNS-R2 14400 IN CNAME NSR02
+www.lbga 14400 IN CNAME betara
+quimica 14400 IN CNAME sistemas01b
+issues 14400 IN CNAME PROJETOS.DESIA
+www.pqv 14400 IN CNAME medusa
+www.forum_em 14400 IN CNAME medusa
+discente 14440 IN CNAME lambreta
+www.semanadaquimica 14400 IN CNAME WEB-01
+www.artcom 14400 IN CNAME WEB-01
+www.linguisticadescritiva 14400 IN CNAME WEB-01
+www.simposiodemencia 14400 IN CNAME medusa
+wifi-visitante 14400 IN A 186.219.86.1
+www.puar 14400 IN CNAME betara
+NX8 14400 IN A 200.136.207.41
+www.ferRoeletricosecia 14400 IN CNAME WEB-01
+imap.discente 14440 IN CNAME lambreta
+gw-wifi-at3 14400 IN A 200.136.207.248
+gestaouse 14400 IN CNAME WEB-02
+folha-rh 14400 IN A 200.136.207.28
+gw-wifi-at6 14400 IN A 200.136.207.238
+www.maternoinfantil 14400 IN CNAME betara
+ntp 14400 IN A 200.133.224.3
+14400 IN A 200.136.207.3
+ntp 14400 IN AAAA 2001:12f0:503:100::3
+14400 IN AAAA 2001:12f0:503:200::3
+www.certevapp 14400 IN CNAME WEB-04
+www.responde 14400 IN CNAME responde
+www.dcam 14400 IN CNAME betara
+tubarao 14400 IN A 200.133.224.59
+tubarao 14400 IN AAAA 2001:12f0:503:200::59
+www.pibid 14400 IN CNAME medusa
+www.atena 14400 IN CNAME WEB-02
+gw-wifi-bprado 14400 IN A 200.136.207.242
+www.gado 14400 IN CNAME WEB-01
+www 14400 IN CNAME medusa
+documentos 14400 IN A 200.133.224.68
+documentos 14400 IN AAAA 2001:12f0:503:200::68
+www.nuemp 14400 IN CNAME nuemp
+dc 14400 IN NS ns2.dc
+14400 IN NS tigre.dc
+www.quimicajr 14400 IN CNAME quimicajr
+RADIUS-01 14400 IN A 200.136.207.7
+RADIUS-01 14400 IN AAAA 2001:12f0:503:100::7
+www.oeei 14400 IN CNAME WEB-01
+jornada2011 14400 IN A 187.45.240.42
+www.reuni-edf 14400 IN CNAME WEB-02
+jornada2013 14400 IN A 187.45.240.42
+petproducao 14400 IN NS ns01
+14400 IN NS ns02
+14400 IN NS cronus.dep
+Videoconferencia-ifsp 14400 IN A 200.136.207.221
+auth-03-scl 14400 IN A 200.136.207.63
+auth-03-scl 14400 IN AAAA 2001:12f0:503:100::63
+www.pelajanela 14400 IN CNAME ies
+www.gaia 14400 IN CNAME WEB-03
+repositorion 14440 IN A 200.136.207.96
+repositorion 14440 IN AAAA 2001:12f0:503:100::96
+www.useweb 14400 IN CNAME use
+NS01 14400 IN A 200.136.207.4
+NS01 14400 IN MX 0 NS01
+NS01 14400 IN TXT "v=sfp1 a:NS01.ufscar.br -all"
+NS01 14400 IN AAAA 2001:12f0:503:100::4
+NS02 14400 IN A 200.133.224.4
+NS02 14400 IN MX 0 NS02
+NS02 14400 IN TXT "v=sfp1 a:NS02.ufscar.br -all"
+NS02 14400 IN AAAA 2001:12f0:503:200::4
+PROJETOS.DESIA 14400 IN A 200.136.207.61
+PROJETOS.DESIA 14400 IN AAAA 2001:12f0:503:100::61
+www.concursodefotos 14400 IN CNAME WEB-01
+coral 14400 IN A 200.133.224.65
+coral 14400 IN MX 0 coral
+coral 14400 IN TXT "v=spf1 a:coral.ufscar.br -all"
+coral 14400 IN AAAA 2001:12f0:503:200::65
+www.geminis 14400 IN CNAME WEB-01
+www.empeltec 14400 IN CNAME WEB-01
+www.projsin 14400 IN CNAME projsin
+www.ingresso 14400 IN CNAME sistemas01b
+www.letras 14400 IN CNAME medusa
+www.dche 14400 IN CNAME WEB-03
+www.snct2013 14400 IN CNAME WEB-01
+www.contato 14400 IN A 200.136.219.173
+nab 14400 IN A 200.136.246.178
+www.squid 14400 IN CNAME WEB-03
+SMV-01 14400 IN A 200.136.207.73
+SMV-01 14400 IN AAAA 2001:12f0:503:100::73
+SMV-02 14400 IN A 200.136.207.2
+SMV-02 14400 IN AAAA 2001:12f0:503:100::2
+www.admnet 14400 IN CNAME admnet
+SMV-04 14400 IN A 200.133.224.6
+SMV-04 14400 IN AAAA 2001:12f0:503:200::6
+www.jac 14400 IN CNAME WEB-03
+leviathan 14400 IN A 200.136.207.16
+leviathan 14400 IN AAAA 2001:12f0:503:100::16
+www.dica 14400 IN CNAME medusa
+prolabore 14400 IN CNAME WEB-02
+www.redesanca 14400 IN CNAME betara
+rbfisio 14400 IN A 200.133.224.54
+rbfisio 14400 IN AAAA 2001:12f0:503:200::54
+www.petquimica 14400 IN CNAME sistemas01b
+www.tramite 14400 IN CNAME sistemas02
+www.ograndelazarento 14400 IN CNAME ies
+www.comunidadesdeaprendizagem 14400 IN CNAME WEB-03
+www.beetsjr 14400 IN CNAME WEB-01
+gw02-dq 14400 IN A 200.136.207.232
+www.uasorocaba 14400 IN CNAME western.sor
+www.deuspodeserumator 14400 IN CNAME ies
+www.faace 14400 IN CNAME WEB-01
+www.periodicos 14400 IN CNAME WEB-03
+www.gemm 14400 IN CNAME gemm
+antigowebmail 14400 IN CNAME leviathan
+www.espacosurbanos 14400 IN CNAME betara
+radius 14400 IN A 200.9.84.231
+www.senaposirua 14400 IN CNAME betara
+aruana 14400 IN A 200.9.84.68
+aruana 14400 IN MX 0 aruana
+aruana 14400 IN TXT "v=spf1 a:aruana.ufscar.br -all"
+aruana 14400 IN AAAA 2001:12f0:503:300::68
+www.sintufscar 14400 IN CNAME orfeu
+www.ppgdbc 14400 IN CNAME sistemas01b
+pop3.discente 14440 IN CNAME lambreta
+servsap 14400 IN A 200.9.84.203
+www.ecossistema 14400 IN CNAME medusa
+www.criancasinfancias 14400 IN CNAME sistemas01b
+www.moradia 14400 IN CNAME medusa
+www.forum-abrapg 14400 IN CNAME forum-abrapg
+www.historia 14400 IN CNAME medusa
+www.nexos 14400 IN CNAME prograd
+www.olhar 14400 IN CNAME WEB-02
+www.deaea 14400 IN CNAME WEB-03
+www.sensocomum 14400 IN CNAME sensocomum
+guichelattes 14400 IN A 200.9.84.31
+www.jornada 14400 IN CNAME jornada
+www.dcso 14400 IN CNAME medusa
+www.deap 14400 IN CNAME admnet

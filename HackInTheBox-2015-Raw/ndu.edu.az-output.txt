@@ -1,0 +1,19 @@
+@ 86400 IN SOA ns1.meqahost.net. mehmankh.gmail.com. 2014121708 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 +a +mx +ip4:94.20.43.46?all"
+@ 14400 IN MX 0 mail
+@ 86400 IN NS ns1.meqahost.net.
+86400 IN NS ns2.meqahost.net.
+@ 14400 IN A 50.28.6.0
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8qeZOPIrKwUp2GDdrOVlfSDiilPge+KRfRHvQ2TJjv4xNvb88osa3eAKeXG7UmAXI8L2sMW5KhzwLkvZ2ChCvCwPEx2PJMgajMwvhtKtbuF4UIBWylqHgK5WEkYP4FdLOCVcU69XxUtto2AbXaSLs8zIWJ9DOAuqlrwzzh6CPSwIDAQAB;"
+webmail 14400 IN A 50.28.6.0
+webdisk 14400 IN A 50.28.6.0
+ftp 14400 IN A 50.28.6.0
+cpanel 14400 IN A 50.28.6.0
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN A 94.20.43.46
+autoconfig 14400 IN A 50.28.6.0
+autodiscover 14400 IN A 50.28.6.0
+whm 14400 IN A 50.28.6.0
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+lib 3600 IN A 94.20.43.42

@@ -1,0 +1,22 @@
+@ 300 IN SOA dns1.mahidol.ac.th. root.mahidol.ac.th. 2014120901 3600 600 259200 7200
+@ 300 IN NS dns1.mahidol.ac.th.
+300 IN NS dns2.mahidol.ac.th.
+300 IN NS dns3.mahidol.ac.th.
+admin 300 IN A 202.28.191.74
+www.thai 300 IN A 202.28.191.72
+it 300 IN A 202.28.178.104
+web-arjarn 300 IN A 202.28.191.167
+develop 300 IN A 202.28.191.171
+www.cs 300 IN CNAME cs
+sky 300 IN A 202.28.178.166
+www 300 IN CNAME www.ic.mahidol.ac.th.
+cs 300 IN A 202.28.178.226
+hitherto 300 IN A 202.28.178.120
+faa 300 IN A 202.28.191.187
+ed 300 IN A 202.28.178.146
+iforgot 300 IN A 202.28.178.198
+pc 300 IN A 202.28.191.192
+oasis 300 IN A 202.28.191.170
+secure_zone 300 IN TXT "127.0.0.1:H"
+www.iforgot 300 IN CNAME iforgot
+lib 300 IN A 202.28.178.171

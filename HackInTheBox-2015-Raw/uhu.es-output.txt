@@ -1,0 +1,518 @@
+@ 7200 IN SOA dns-2 hostmaster 2015040702 14400 7200 2592000 7200
+@ 7200 IN A 150.214.167.13
+@ 7200 IN NS sun.rediris.es.
+7200 IN NS dns1.cica.es.
+7200 IN NS dns2.cica.es.
+7200 IN NS chico.rediris.es.
+7200 IN NS dns-1
+7200 IN NS dns-2
+@ 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+@ 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+leon.dfa 7200 IN A 150.214.163.63
+rmcompilation 7200 IN A 150.214.163.22
+r-dgyp 7200 IN A 150.214.164.173
+r-centros 7200 IN A 150.214.164.142
+bolsapdi 7200 IN A 150.214.167.41
+labredes.diesia 7200 IN A 150.214.163.155
+phpmyadmin.calidad 7200 IN A 150.214.167.37
+jaonuba.diesia 7200 IN A 150.214.163.73
+dgyp 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dgyp 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+itop 7200 IN A 150.214.167.7
+sisifo 7200 IN A 150.214.163.120
+bscw.biblio 7200 IN A 150.214.163.3
+ppp05 7200 IN A 150.214.163.235
+caruh 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+caruh 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+oficinavirtual 7200 IN A 150.214.167.29
+pi 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+pi 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+arwen.dfa 7200 IN A 150.214.163.48
+fder 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+fder 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+sp-pre 7200 IN A 150.214.163.133
+sacu 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+sacu 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+ciecema 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+ciecema 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+elwing.dfa 7200 IN A 150.214.163.47
+vpn 7200 IN A 150.214.167.6
+arias2.biblio 7200 IN A 150.214.167.181
+dpee 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dpee 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+phpmyadmin 7200 IN A 150.214.167.13
+gandalf.dfa 7200 IN A 150.214.163.96
+r-dbasp 7200 IN A 150.214.164.159
+ppp02 7200 IN A 150.214.163.232
+researchpro 7200 IN A 205.227.90.7
+encuestacalidad 7200 IN A 150.214.167.37
+meteofryma 7200 IN A 150.214.163.87
+ambar.diesia 7200 IN A 150.214.163.146
+c3it 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+c3it 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+relay-2 7200 IN MX 10 relay-2
+r-diesia 7200 IN A 150.214.164.172
+gaff.dfa 7200 IN A 150.214.163.58
+encuesta-perfil.calidad 7200 IN A 150.214.167.37
+dedalo 7200 IN A 150.214.167.26
+imp2.dfa 7200 IN A 150.214.163.68
+fdr 7200 IN A 150.214.163.161
+aragorn.dfa 7200 IN A 150.214.163.50
+atenas.dfa 7200 IN A 150.214.163.66
+agrabida 7200 IN A 150.214.163.74
+sa 7200 IN A 150.214.167.19
+ddcc 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+ddcc 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+encuestaposgrado.calidad 7200 IN A 150.214.167.37
+gdf 7200 IN A 150.214.163.160
+idp-pre 7200 IN A 150.214.163.134
+sdc 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+sdc 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dns-1 7200 IN A 150.214.167.1
+dns-2 7200 IN A 150.214.167.2
+imp1.dfa 7200 IN A 150.214.163.70
+consigna-pre 7200 IN A 150.214.167.7
+ppp03 7200 IN A 150.214.163.233
+fcct 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+fcct 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+rachel.dfa 7200 IN A 150.214.163.59
+celama 7200 IN A 150.214.80.25
+7200 IN A 150.214.80.26
+batty.dfa 7200 IN A 150.214.163.67
+eps 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+eps 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+audit.calidad 7200 IN A 150.214.167.37
+die 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+die 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+max 7200 IN A 150.214.163.240
+zhora.dfa 7200 IN A 150.214.163.56
+fachada 7200 IN A 150.214.167.18
+rabida 7200 IN A 150.214.167.20
+fedu 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+fedu 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+enfe 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+enfe 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+wayf-pre 7200 IN A 150.214.163.134
+jdrd5 7200 IN A 150.214.163.109
+ppp08 7200 IN A 150.214.163.238
+r-dege 7200 IN A 150.214.164.154
+dqcm 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dqcm 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+sc 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+sc 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+pio01 7200 IN A 150.214.163.221
+openmeeting 7200 IN A 150.214.163.137
+pio04 7200 IN A 150.214.163.224
+pio05 7200 IN A 150.214.163.225
+ayudame 7200 IN A 150.214.167.7
+relay2 7200 IN A 150.214.167.15
+filico.dfa 7200 IN A 150.214.163.41
+uxxiac 7200 IN A 150.214.167.200
+sp 7200 IN A 150.214.163.134
+smtp 7200 IN A 150.214.167.22
+relay-s 7200 IN A 150.214.167.22
+dhis1 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dhis1 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dhis2 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dhis2 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+sgi 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+sgi 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+saltes.biblio 7200 IN A 150.214.163.3
+vpnalu 7200 IN A 150.214.167.201
+pinzon1 7200 IN A 150.214.167.11
+pinzon2 7200 IN A 150.214.167.12
+docentia.calidad 7200 IN A 150.214.167.37
+ofitec 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+ofitec 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+vpnempresas 7200 IN A 150.214.167.202
+r-dempc 7200 IN A 150.214.164.168
+encuesta-docencia-masteres 7200 IN A 150.214.167.37
+firmaactas 7200 IN A 150.214.167.80
+r-dstso 7200 IN A 150.214.164.151
+www.ole 7200 IN A 150.214.163.119
+filico15.dfa 7200 IN A 150.214.163.69
+decd 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+decd 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+ler.diesia 7200 IN A 150.214.160.10
+firma 7200 IN A 150.214.167.33
+dimme 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dimme 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+caliope 7200 IN A 150.214.163.85
+feanor.dfa 7200 IN A 150.214.163.93
+chac 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+chac 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+cisco.diesia 7200 IN A 150.214.163.141
+inv 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+inv 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+filico3.dfa 7200 IN A 150.214.163.43
+eduh 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+eduh 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+videoconf-dgeo 7200 IN A 150.214.163.25
+dpsi 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dpsi 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+xmail 7200 IN MX 1 ASPMX.L.GOOGLE.COM.
+7200 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+7200 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+7200 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+7200 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+7200 IN MX 10 ASPMX4.GOOGLEMAIL.COM.
+7200 IN MX 10 ASPMX5.GOOGLEMAIL.COM.
+moodle-pre 7200 IN A 150.214.163.133
+r-dfa 7200 IN A 150.214.164.161
+femp 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+femp 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+ppp01 7200 IN A 150.214.163.231
+dedu 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dedu 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dpub 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dpub 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+ppp04 7200 IN A 150.214.163.234
+claustro 7200 IN A 150.214.167.37
+ppp06 7200 IN A 150.214.163.236
+tyrell.dfa 7200 IN A 150.214.163.55
+dthm 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dthm 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+radagast.dfa 7200 IN A 150.214.163.97
+dege 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dege 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-dem 7200 IN A 150.214.164.153
+mailgw 7200 IN A 150.214.167.5
+etso 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+etso 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+antispam 7200 IN A 150.214.167.22
+dfaie 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dfaie 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+deckard.dfa 7200 IN A 150.214.163.61
+ftp 7200 IN A 150.214.167.13
+www.ciecem 7200 IN CNAME ciecem
+convertir-lotes.calidad 7200 IN A 150.214.167.37
+iavig.diesia 7200 IN A 150.214.163.152
+hermes 7200 IN A 150.214.163.118
+pris.dfa 7200 IN A 150.214.163.57
+pas 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+pas 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+bryant.dfa 7200 IN A 150.214.163.62
+moodle 7200 IN A 150.214.167.19
+firepass1 7200 IN A 150.214.167.3
+video 7200 IN A 150.214.163.158
+dfing 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dfing 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+ddtss 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+ddtss 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+estylf 7200 IN A 150.214.163.150
+cronos1 7200 IN A 150.214.167.80
+telemo 7200 IN A 150.214.163.86
+sarlab2 7200 IN A 150.214.163.80
+luna 7200 IN A 150.214.163.101
+redes.diesia 7200 IN A 150.214.163.145
+dfint 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dfint 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-dfesp 7200 IN A 150.214.164.163
+ppp07 7200 IN A 150.214.163.237
+encuestalenguasmodernas.calidad 7200 IN A 150.214.167.37
+ironport 7200 IN A 150.214.167.21
+technology-transfer 7200 IN CNAME innoget.com.
+relay-1 7200 IN MX 10 relay-1
+alu 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+alu 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+epresence2 7200 IN A 150.214.163.159
+nexus.dfa 7200 IN A 150.214.163.60
+euts 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+euts 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+camara.rabida 7200 IN A 150.214.163.122
+petrel 7200 IN A 150.214.163.40
+gps 7200 IN A 150.214.163.10
+fry2 7200 IN A 150.214.167.39
+denf 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+denf 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+programamatricula 7200 IN A 150.214.163.82
+r-decd 7200 IN A 150.214.164.158
+dti 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dti 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+tharsis 7200 IN A 150.214.167.24
+energiarenovable 7200 IN A 150.214.163.222
+cgobierno 7200 IN A 150.214.167.90
+bender2 7200 IN A 150.214.167.36
+paula-lab 7200 IN A 150.214.167.38
+fcuhu.sci 7200 IN A 150.214.163.88
+podcastuniradio 7200 IN A 150.214.163.20
+consigna 7200 IN A 150.214.167.7
+fexp 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+fexp 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+imp3.dfa 7200 IN A 150.214.163.71
+r-ofitec 7200 IN A 150.214.164.141
+titan.ges 7200 IN A 150.214.167.131
+biblio 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+biblio 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+nat.diesia 7200 IN A 150.214.163.144
+teades 7200 IN A 150.214.167.38
+celeborn.dfa 7200 IN A 150.214.163.99
+dmat 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dmat 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+diesia 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+diesia 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dmce 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dmce 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+columbus 7200 IN CNAME pinzon
+luxia 7200 IN A 150.214.163.2
+r-ddc 7200 IN A 150.214.164.170
+pinzon 7200 IN A 150.214.167.11
+dpces 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dpces 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+ca 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+ca 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+atmos 7200 IN A 150.214.163.89
+atmos 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+atmos 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+idp 7200 IN A 150.214.167.35
+pinzon1.biblio 7200 IN CNAME pinzon1
+r-dhis1 7200 IN A 150.214.164.165
+mail 7200 IN A 150.214.167.44
+r-sc 7200 IN A 150.214.164.143
+oie 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+oie 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+jdrd2 7200 IN A 150.214.163.106
+jdrd3 7200 IN A 150.214.163.107
+jdrd4 7200 IN A 150.214.163.108
+glorfindel.dfa 7200 IN A 150.214.163.92
+sic 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+sic 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+etsi 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+etsi 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-dedu 7200 IN A 150.214.164.169
+saruman.dfa 7200 IN A 150.214.163.98
+pixie 7200 IN A 150.214.167.130
+otri 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+otri 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+noreglada 7200 IN A 150.214.167.19
+integraweb 7200 IN A 150.214.163.148
+simple 7200 IN A 150.214.163.30
+idril.dfa 7200 IN A 150.214.163.52
+jornadas.calidad 7200 IN A 150.214.167.37
+encuesta-docencia-titulos 7200 IN A 150.214.167.37
+ciecem 7200 IN A 150.214.167.23
+cursos 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+cursos 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+ole 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+ole 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dempc 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dempc 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+siduc.calidad 7200 IN A 150.214.167.37
+defmap 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+defmap 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dgeo 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dgeo 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+radio1 7200 IN A 150.214.163.20
+radio2 7200 IN A 150.214.163.21
+scom 7200 IN A 150.214.167.7
+relay 7200 IN A 150.214.167.14
+testmoodle 7200 IN A 150.214.163.135
+moodle.dedu 7200 IN A 150.214.163.81
+r-dgeo 7200 IN A 150.214.164.171
+encuesta-satisfaccion.calidad 7200 IN A 150.214.167.37
+hotspot 7200 IN A 150.214.163.75
+spub 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+spub 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+www2 7200 IN A 150.214.167.46
+gil-galad.dfa 7200 IN A 150.214.163.90
+sic-2 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+sic-2 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+roy.dfa 7200 IN A 150.214.163.65
+reglada 7200 IN A 150.214.167.19
+espaciosvirtuales 7200 IN CNAME moodle
+elenwe.dfa 7200 IN A 150.214.163.51
+pc163-195 7200 IN A 150.214.163.195
+platero 7200 IN A 150.214.167.8
+correo 7200 IN A 150.214.167.5
+dam 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dam 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-biblio 7200 IN A 150.214.164.144
+corp 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+corp 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+filico4.dfa 7200 IN A 150.214.163.44
+fcuhu.sic 7200 IN A 150.214.163.88
+dehie 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dehie 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-dgf 7200 IN A 150.214.164.167
+vpn2 7200 IN A 150.214.167.200
+zape.ges 7200 IN A 150.214.167.131
+portafirmas 7200 IN A 150.214.167.28
+r-dhis2 7200 IN A 150.214.164.166
+debate-docentia.calidad 7200 IN A 150.214.167.37
+r-denf 7200 IN A 150.214.164.160
+dstso 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dstso 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+elros.dfa 7200 IN A 150.214.163.46
+dppt 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dppt 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+eduroam2 7200 IN A 150.214.163.129
+museopedagogico 7200 IN A 150.214.167.13
+fises.dfa 7200 IN A 150.214.163.42
+unitv 7200 IN A 150.214.163.158
+sisnot 7200 IN A 150.214.167.27
+dfa 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dfa 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-diq 7200 IN A 150.214.164.150
+dem 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dem 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+www.c3it 7200 IN A 150.214.163.119
+consigna.copisterias 7200 IN A 150.214.167.7
+certificados.calidad 7200 IN A 150.214.167.37
+didp 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+didp 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+erel 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+erel 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+accx2 7200 IN A 150.214.163.136
+cop 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+cop 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+isildur.dfa 7200 IN A 150.214.163.94
+r-dpub 7200 IN A 150.214.164.157
+marisma 7200 IN A 150.214.167.9
+intranet.calidad 7200 IN A 150.214.167.37
+verificafirma 7200 IN CNAME portafirmas
+pio03 7200 IN A 150.214.163.223
+ler1 7200 IN A 150.214.163.70
+eduroam1 7200 IN A 150.214.163.130
+paula-pre 7200 IN A 150.214.167.38
+elendil.dfa 7200 IN A 150.214.163.53
+pop3 7200 IN A 150.214.167.5
+filico9.dfa 7200 IN A 150.214.163.49
+anarion.dfa 7200 IN A 150.214.163.95
+r-sic 7200 IN A 150.214.164.140
+sebastian.dfa 7200 IN A 150.214.163.64
+filico14.dfa 7200 IN A 150.214.163.54
+repositorio.biblio 7200 IN A 150.214.163.84
+thingol.dfa 7200 IN A 150.214.163.91
+webcart.calidad 7200 IN A 150.214.167.37
+opendatalab 7200 IN A 150.214.163.8
+rpuhu 7200 IN A 205.227.90.178
+lista 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+lista 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+diq 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+diq 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dciphi 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dciphi 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dfesp 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dfesp 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+*.columbus 7200 IN CNAME pinzon
+ae 7200 IN A 150.214.167.13
+firepass2 7200 IN A 150.214.167.4
+css 7200 IN A 150.214.167.37
+r-dimme 7200 IN A 150.214.164.176
+scada 7200 IN A 150.214.167.42
+notas 7200 IN A 150.214.167.81
+elrond.dfa 7200 IN A 150.214.163.45
+poseidon 7200 IN A 150.214.167.16
+paula 7200 IN A 150.214.167.38
+correo2 7200 IN A 150.214.167.43
+aulasvirtuales 7200 IN CNAME moodle
+r-dfing 7200 IN A 150.214.164.162
+www 7200 IN CNAME @
+andevalo 7200 IN A 150.214.167.9
+encuesta-docencia 7200 IN A 150.214.167.37
+jdrd 7200 IN A 150.214.163.105
+dcaf 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dcaf 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+neptuno 7200 IN A 150.214.167.17
+fhum 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+fhum 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+dbasp 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dbasp 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-dfint 7200 IN A 150.214.164.164
+pc-gps 7200 IN A 150.214.163.9
+r-dam 7200 IN A 150.214.164.155
+pc163-193 7200 IN A 150.214.163.193
+pc163-194 7200 IN A 150.214.163.194
+cv 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+cv 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+r-dpsi 7200 IN A 150.214.164.152
+dgf 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+dgf 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+servicioswebac 7200 IN A 150.214.167.53
+uniradio 7200 IN MX 10 mx01.puc.rediris.es.
+7200 IN MX 10 mx02.puc.rediris.es.
+uniradio 7200 IN TXT "v=spf1 a:relay.uhu.es a:relay2.uhu.es ~all"
+cdireccion 7200 IN A 150.214.167.37
+r-dtm 7200 IN A 150.214.164.156
+ccna1.diesia 7200 IN A 150.214.163.142

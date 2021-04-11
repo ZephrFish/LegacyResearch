@@ -1,0 +1,12 @@
+@ 3600 IN SOA dns-sg.bnshosting.net. team.bnshosting.net. 2960233920 10800 3600 1209600 38400
+@ 3600 IN NS dns-sg.bnshosting.net.
+3600 IN NS dns-ph.bnshosting.net.
+@ 3600 IN A 202.91.163.210
+@ 3600 IN MX 10 mail
+@ 3600 IN TXT "v=spf1 a mx ip4:202.91.163.210 ~all"
+ict 3600 IN A 202.91.163.210
+webmail 3600 IN A 202.91.163.210
+www 3600 IN A 202.91.163.210
+mail 3600 IN A 202.91.163.210
+gradeinquiry 3600 IN A 202.91.163.210
+sldm 3600 IN A 202.91.163.210

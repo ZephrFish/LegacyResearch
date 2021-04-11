@@ -1,0 +1,52 @@
+@ 3600 IN SOA hamlet noc 2015020101 240 60 604800 3600
+@ 3600 IN NS olafo
+3600 IN NS hamlet
+3600 IN NS excalibur.synapsis-it.co.
+@ 3600 IN A 190.242.58.14
+@ 3600 IN MX 0 cesa-edu-co.mail.protection.outlook.com.
+@ 3600 IN TXT "MS=ms42958969"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com include:spf.smtp2go.com include:gaheris.cesa.edu.co include: 200.31.76.138 ~all"
+cle 3600 IN CNAME dragonet
+manualparalauniversidad 3600 IN CNAME dragonet
+somoscesaprofesores 3600 IN CNAME dragonet
+apps 3600 IN A 200.31.78.23
+celsius 3600 IN CNAME hamlet
+olafo 3600 IN A 190.242.58.6
+webss01 3600 IN A 190.242.58.14
+sip 3600 IN CNAME sipdir.online.lync.com.
+gocesa 3600 IN CNAME dragonet
+quad 3600 IN CNAME gaheris
+mycesa 3600 IN A 200.31.94.138
+google10459bd8cdf9567b 3600 IN CNAME google.com.
+gus 3600 IN A 190.242.58.10
+somoscesa 3600 IN CNAME dragonet
+gawain 3600 IN CNAME gaheris
+511977327 3600 IN CNAME domains.live.com.
+email 3600 IN CNAME outlook.com.
+gaheris 3600 IN A 190.242.58.7
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+_sipfederationtls._tcp 3600 IN SRV 1 100 5061 sipfed.online.lync.com.
+3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+laboratorio 3600 IN A 200.31.78.24
+snies 3600 IN CNAME gaheris
+dragonet 3600 IN A 190.242.58.13
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+academico 3600 IN A 201.234.71.52
+blogchina 3600 IN CNAME dragonet
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+infraestructura 3600 IN A 200.31.78.25
+gw01 3600 IN A 200.31.76.138
+cesablog 3600 IN CNAME dragonet
+enews 3600 IN CNAME dragonet
+catalogo-intra 3600 IN A 144.76.48.85
+www 3600 IN CNAME webss01
+hamlet 3600 IN A 190.242.58.8
+planeacionfinanciera 3600 IN CNAME unbouncepages.com.
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+catalogo 3600 IN A 144.76.48.85
+papernet 3600 IN A 190.242.58.12
+nemo 3600 IN CNAME gaheris
+repository 3600 IN A 190.242.58.9
+bibliotecaonline 3600 IN CNAME appslib
+beta 3600 IN CNAME webss01
+conveniosinter 3600 IN CNAME dragonet

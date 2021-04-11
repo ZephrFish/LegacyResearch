@@ -1,0 +1,89 @@
+@ 86400 IN SOA hp2.rz root.hp2.rz 2015042801 21600 3600 3600000 86400
+@ 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+86400 IN NS deneb.dfn.de.
+@ 86400 IN MX 10 rlux45.rz
+86400 IN MX 20 rmx4.rz
+86400 IN MX 20 rmx5.rz
+86400 IN MX 20 rmx6.rz
+et 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+radius2 86400 IN CNAME rlux42.rz
+telefon 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+pillnitz 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+bibvpn 86400 IN CNAME rou5-inside.rz
+webmail 86400 IN CNAME rlux45.rz
+apps 86400 IN CNAME rweb1.rz
+verwaltung 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+samba1 86400 IN CNAME rnas11.rz
+wwwmoduldb 86400 IN CNAME rlux1.rz
+bib 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+gw 86400 IN CNAME rmodem5.rz
+www-cache 86400 IN CNAME rlux37.rz
+ntps2 86400 IN CNAME hp2.rz
+z-srv00.zaft 86400 IN A 141.56.119.1
+zaft 86400 IN NS z-srv00.zaft
+hp2.rz 86400 IN A 141.56.31.3
+fax 86400 IN CNAME t-mrs.telefon
+samba 86400 IN CNAME rnas11.rz
+wwwqis 1800 IN CNAME rlux56.rz
+samba1-5 86400 IN CNAME rnas11.rz
+groupware 86400 IN CNAME repro.rz
+idp 86400 IN CNAME rlux27.rz
+ntps1 86400 IN CNAME hp1.rz
+geoinformatik 86400 IN CNAME kis1.geoinformation
+wiwi 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+pop3 86400 IN CNAME rlux45.rz
+mail 86400 IN CNAME rlux45.rz
+vpn 86400 IN CNAME rou6.rz
+airoserv2 86400 IN CNAME rtino2.rz
+autodiscover 86400 IN CNAME repro.rz
+geoinformation 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+samba1-2 86400 IN CNAME rnas11.rz
+samba1-3 86400 IN CNAME rnas11.rz
+samba1-4 86400 IN CNAME rnas11.rz
+idp2 86400 IN CNAME idp-sachsen.zih.tu-dresden.de.
+pwm 86400 IN CNAME rlux55.rz
+mw 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+www 86400 IN CNAME rlux49.rz
+radius 86400 IN CNAME rlux42.rz
+wwwhis 86400 IN CNAME dus11.verwaltung
+fuzzyide 86400 IN CNAME iwaps1.informatik
+samba-2 86400 IN CNAME rnas11.rz
+rzx 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+hp1.rz 86400 IN A 141.56.31.2
+imap 86400 IN CNAME rlux45.rz
+msus 86400 IN CNAME rmsus.rz
+webvpn 86400 IN CNAME rou6.rz
+stura 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+ntp 86400 IN CNAME hp1.rz
+stg 86400 IN CNAME rlistsg1.rz
+easybot 86400 IN CNAME iwaps1.informatik
+bau 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+#weblogin1 86400 IN CNAME rwls1.rz
+samba-3 86400 IN CNAME rnas11.rz
+samba-4 86400 IN CNAME rnas11.rz
+samba-5 86400 IN CNAME rnas11.rz
+www2 86400 IN CNAME rlux21.rz
+evaluation 86400 IN CNAME releva2.rz
+weblogin2 86400 IN A 141.56.220.1
+weblogin3 86400 IN A 141.56.94.1
+mailout 86400 IN CNAME rmr.rz
+informatik 86400 IN NS hp1.rz
+86400 IN NS hp2.rz
+jrobosim 86400 IN CNAME iwaps1.informatik
+doc 86400 IN CNAME rex1.rz
+samba3 86400 IN CNAME rcs3.rz
+weblogin1 86400 IN A 141.56.216.1
+rz 86400 IN NS hp1.rz
+86400 IN NS hp2.rz

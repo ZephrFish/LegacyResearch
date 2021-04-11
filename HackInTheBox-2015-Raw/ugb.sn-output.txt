@@ -1,0 +1,27 @@
+@ 3600 IN SOA ns root 2014111701 3600 600 86400 3600
+@ 3600 IN NS ns
+3600 IN NS ns.ucad.sn.
+3600 IN NS ns.sonatel.sn.
+3600 IN NS ns1.ird.fr.
+3600 IN NS ns2
+@ 3600 IN MX 100 lmail1
+admin 3600 IN CNAME djoudj
+monitor 3600 IN CNAME djoudj
+www1 3600 IN CNAME xamle
+ns 3600 IN A 196.1.99.4
+cyberdroit 3600 IN CNAME daara
+ldap 3600 IN A 196.1.99.6
+ns1 3600 IN CNAME ns
+ns2 3600 IN A 196.1.99.2
+diama 3600 IN A 196.1.99.11
+idp 3600 IN A 196.1.99.8
+ocs 3600 IN CNAME djoudj
+kocc 3600 IN CNAME diama
+daara 3600 IN A 196.1.99.9
+glpi 3600 IN CNAME djoudj
+djoudj 3600 IN A 196.1.99.5
+admissions 3600 IN CNAME www2
+xamle 3600 IN A 196.1.99.10
+sirena 3600 IN A 196.1.99.15
+www 3600 IN CNAME xamle
+www2 3600 IN A 196.1.99.14

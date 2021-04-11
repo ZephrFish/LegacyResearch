@@ -1,0 +1,1441 @@
+@ 3660 IN SOA ns.pu.ru. hostmaster.pu.ru. 2015050102 7200 3600 604800 86400
+@ 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+@ 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+@ 3660 IN TXT "v=spf1 +a +mx +ip4:195.70.197.0/24 ~all"
+@ 3660 IN A 195.70.197.45
+old.forum 3660 IN A 195.70.197.31
+www.moodle.nemphil 3660 IN CNAME nemphil
+www.museology-sno.history 3660 IN CNAME museology-sno.history
+www.plato 3660 IN CNAME plato
+psy.bb 3660 IN A 217.197.13.130
+www.studsovet 3660 IN CNAME studsovet
+www.courses.iml 3660 IN CNAME iml
+sportpsy 3660 IN A 195.70.197.66
+www.cppken 3660 IN CNAME cppken
+old.rcsoc 3660 IN A 195.70.218.126
+hram 3660 IN CNAME h1.pu.ru.
+cl2-vm29.bb 3660 IN A 195.70.213.29
+aas.library 3660 IN A 195.70.223.19
+www.olympiada 3660 IN CNAME olympiada
+geoportal.researchpark 3660 IN A 195.19.241.172
+metaphysics.phylosoph 3660 IN A 192.168.22.2
+universityofthefuture 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+cl1-ad1.bb 3660 IN A 195.70.200.98
+3gosmanagement 3660 IN NS ns.pu.ru.
+3660 IN NS ns.gsom.pu.ru.
+3660 IN NS ns2.pu.ru.
+map.econ 3660 IN A 195.70.221.8
+philos.phylosoph 3660 IN A 192.168.22.3
+client.ccem 3660 IN A 195.19.241.165
+www.psy21 3660 IN CNAME psy21
+www.rcdl2003 3660 IN CNAME meta.math
+archive.history 3660 IN CNAME history
+rlci 3660 IN NS h1.pu.ru.
+3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+www.rjsymposium2014 3660 IN CNAME rjsymposium2014
+zimbra 3660 IN A 195.19.225.204
+zimbra 3660 IN MX 5 relay2-old
+campus-free 3660 IN A 195.70.197.104
+cl2-vm39.bb 3660 IN A 195.70.213.39
+_sip._tls.student 3660 IN SRV 100 1 443 sipdir.online.lync.com.
+autodiscover.365 3660 IN CNAME autodiscover.outlook.com.
+www.alu 3660 IN CNAME alu
+www.alphabet.arts 3660 IN CNAME alphabet.arts
+rjm 3660 IN NS ns.pu.ru.
+3660 IN NS ns.gsom.pu.ru.
+3660 IN NS ns2.pu.ru.
+present.biz 3660 IN A 192.168.40.2
+audio.phil 3660 IN A 195.70.197.66
+_smtp._tcp 3660 IN SRV 0 0 25 relay2-old
+old.journal 3660 IN A 195.70.197.27
+m1.ath 3660 IN A 192.168.17.100
+www.suny 3660 IN CNAME tower-ptc.pu.ru.
+vm.arts 3660 IN A 195.70.197.66
+solab 3660 IN A 195.19.236.187
+cl2-vm12.bb 3660 IN A 195.70.213.12
+stat 3660 IN CNAME sp.pu.ru.
+relief 3660 IN A 195.70.197.2
+geomodel 3660 IN A 195.70.197.66
+www.students 3660 IN CNAME students
+mrim.jabber 3660 IN CNAME jabber
+barocpraxis.arts 3660 IN A 195.70.213.244
+vm02-mgmt 3660 IN A 185.44.15.3
+staff 3660 IN A 195.70.197.27
+www.dspace 3660 IN CNAME dspace
+find.library 3660 IN A 195.19.255.132
+tariverdiev.arts 3660 IN A 195.70.213.246
+campus-new 3660 IN A 195.70.197.66
+www.geoportal-nevsky 3660 IN CNAME geoportal-nevsky
+www.svyaz 3660 IN CNAME portals.ptc
+mediationhelp 3660 IN A 194.85.123.128
+www.orienthist 3660 IN CNAME orienthist
+set 3660 IN NS ns1.firstvds.ru.
+3660 IN NS ns2.firstvds.ru.
+biogeo 3660 IN NS ns.biogeo
+3660 IN NS ns.embryo.pu.ru.
+cl1-asa1-ext1.bb 3660 IN A 195.70.192.150
+www.asf 3660 IN CNAME asf
+gmail.student 3660 IN A 81.89.183.114
+rop 3660 IN A 195.70.197.27
+www.nemphil 3660 IN CNAME nemphil
+folkmanystringedinstruments 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+s1.knig100 3660 IN A 195.19.246.195
+old.zdes 3660 IN A 195.70.197.2
+sgt 3660 IN A 195.70.197.66
+photon 3660 IN A 195.70.197.66
+hall1.lib 3660 IN A 195.19.240.143
+www.iml 3660 IN CNAME iml
+conference.ci 3660 IN CNAME ci
+www.intercys 3660 IN CNAME intercys
+www.map.econ 3660 IN CNAME map.econ
+cl2-vm41.bb 3660 IN A 195.70.213.41
+lyncdiscover.365 3660 IN CNAME webdir.online.lync.com.
+www.baltic 3660 IN CNAME baltic
+dspace.library 3660 IN A 195.70.223.14
+www.chebyshev 3660 IN CNAME chebyshev
+history.museums 3660 IN A 195.70.197.104
+project5 3660 IN A 195.19.253.5
+lwork 3660 IN A 195.19.225.89
+lwork 3660 IN MX 10 lwork
+ns.unipat 3660 IN A 195.70.200.50
+www.paleo.museums 3660 IN CNAME paleo.museums
+nauka 3660 IN A 195.70.197.27
+www.base.psy 3660 IN CNAME base.psy
+new.geo 3660 IN A 195.70.197.66
+cl2-vm13.bb 3660 IN A 195.70.213.13
+jurist1.org 3660 IN A 195.19.239.86
+www.mmus.geology 3660 IN CNAME mmus.geology
+www.actual-art 3660 IN CNAME actual-art
+www.soccomm 3660 IN CNAME soccomm
+spounison 3660 IN CNAME tower-ptc.pu.ru.
+136.lib 3660 IN A 195.19.240.136
+www.phonetics 3660 IN CNAME phonetics
+internal.chemcenter 3660 IN A 195.19.241.135
+knr2.lib 3660 IN A 195.19.240.142
+choir 3660 IN A 195.70.197.2
+1-line 3660 IN A 195.70.197.30
+cpan.mirror 3660 IN CNAME ftp
+www.tourism 3660 IN CNAME tourism
+www.bri 3660 IN CNAME tower-ptc.pu.ru.
+ftp.surface 3660 IN A 195.70.204.18
+mmweek42 3660 IN CNAME tranq.dorms
+ns.law 3660 IN A 195.70.209.3
+ekonom.ath 3660 IN A 192.168.17.102
+cl1-asa1-ext2.bb 3660 IN A 195.70.192.154
+www.excom 3660 IN CNAME excom
+www.geomodel 3660 IN CNAME geomodel
+laukaa 3660 IN A 195.70.213.246
+www.mobile 3660 IN CNAME mobile
+www.liup 3660 IN CNAME sunny.eye
+www.topinger.phil 3660 IN CNAME topinger.phil
+www.sc 3660 IN CNAME sc
+adfs-proxy2.student 3660 IN A 195.70.197.34
+internal.thermo 3660 IN A 195.19.241.140
+student 3660 IN MX 1 ASPMX.L.GOOGLE.COM.
+3660 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3660 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3660 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3660 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+novist.history 3660 IN A 195.70.197.66
+library.econ 3660 IN A 195.70.221.8
+cl2-vm42.bb 3660 IN A 195.70.213.42
+www.contest 3660 IN CNAME contest
+suny 3660 IN CNAME tower-ptc.pu.ru.
+www.exam 3660 IN CNAME exam
+en.geology 3660 IN CNAME geology
+www.kspg 3660 IN CNAME kspg
+www.mediaspb 3660 IN CNAME mediaspb
+economics.vestnik 3660 IN A 195.70.197.66
+www.radio.history 3660 IN CNAME radio.history
+www.cmr 3660 IN A 195.19.241.167
+www.krym 3660 IN CNAME krym
+ingria-poisk.history 3660 IN A 195.70.197.66
+ihism 3660 IN CNAME tower-ptc.pu.ru.
+icq.jabber 3660 IN CNAME jabber
+www.russian4foreigners 3660 IN CNAME russian4foreigners
+cl2-vm14.bb 3660 IN A 195.70.213.14
+www.agym 3660 IN CNAME agym
+www.dfm 3660 IN CNAME dfm
+paloma 3660 IN MX 10 relay2-old
+sun 3660 IN CNAME sun.ptc
+econ.vestnik 3660 IN CNAME economics.vestnik
+delo 3660 IN A 81.89.183.121
+niiksi 3660 IN NS h1.pu.ru.
+3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+knr3.lib 3660 IN A 192.168.30.11
+sap-mobile 3660 IN A 217.197.13.196
+adm.photon 3660 IN A 195.19.241.164
+www.eng 3660 IN CNAME eng
+23-linguistik-und-literaturtage 3660 IN A 195.70.197.27
+library.history 3660 IN A 195.70.197.66
+www.mustran.arts 3660 IN CNAME mustran.arts
+www.bioteaching 3660 IN CNAME bioteaching
+seastation 3660 IN A 195.70.197.2
+cygwin.mirror 3660 IN CNAME ftp
+www.mineral 3660 IN CNAME mineral
+pt.artesliberales 3660 IN A 195.70.220.9
+indianinfo 3660 IN A 195.70.197.27
+materials 3660 IN CNAME tower-ptc.pu.ru.
+dent 3660 IN NS ns.pu.ru.
+3660 IN NS ns.law
+3660 IN NS ns2.pu.ru.
+ap.school 3660 IN A 192.168.33.2
+lingva.iml 3660 IN CNAME iml
+www.bioconf 3660 IN CNAME bioconf
+internal.geomodel 3660 IN A 195.19.241.166
+vc 3660 IN A 195.70.197.66
+www.cuf 3660 IN CNAME cuf
+www.audio.phil 3660 IN CNAME audio.phil
+sharepoint 3660 IN A 81.89.183.43
+svyaz 3660 IN CNAME portals.ptc
+www.edc 3660 IN CNAME tower-ptc.pu.ru.
+cl2-vm43.bb 3660 IN A 195.70.213.43
+cl2-vm40.bb 3660 IN A 195.70.213.40
+echo360 3660 IN A 217.197.13.132
+uso-srv1 3660 IN A 195.70.197.31
+publish 3660 IN A 195.70.197.27
+old.agym 3660 IN A 195.70.197.42
+kpp.ath 3660 IN A 192.168.17.98
+ptcgate-3 3660 IN A 195.19.224.3
+csr.w3 3660 IN CNAME portals.ptc
+www.edu 3660 IN CNAME edu
+internal.surface 3660 IN A 195.19.241.139
+yumsh 3660 IN NS ns1.peterhost.ru.
+3660 IN NS ns2.peterhost.ru.
+www.ectslab.psy 3660 IN CNAME ectslab.psy
+ng 3660 IN A 195.70.197.42
+www.folk 3660 IN CNAME folk
+jabber 3660 IN A 195.19.225.242
+cl2-vm15.bb 3660 IN A 195.70.213.15
+www.dol 3660 IN CNAME tower-ptc.pu.ru.
+umc 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+russian 3660 IN NS ns.calvados.infosite.ru.
+3660 IN NS ns.infosite.net.ru.
+www.dop 3660 IN CNAME dop
+sc 3660 IN A 78.140.233.66
+www.fond 3660 IN CNAME fond
+www.solab 3660 IN CNAME solab
+umo 3660 IN A 195.70.197.27
+www.webdev 3660 IN CNAME webdev
+centant.history 3660 IN A 195.70.197.66
+earth 3660 IN A 195.70.197.66
+www.speech 3660 IN CNAME speech
+www.lesewa 3660 IN CNAME lesewa
+152.lib 3660 IN A 195.19.240.152
+mathling.phil 3660 IN A 195.70.197.2
+liup 3660 IN CNAME sunny.eye
+innov-test 3660 IN CNAME tower-ptc.pu.ru.
+mineral.museums 3660 IN A 195.70.197.66
+developer 3660 IN A 195.19.225.126
+www.rossica-antiqua 3660 IN CNAME rossica-antiqua
+student.iml 3660 IN CNAME iml
+preview.edx 3660 IN CNAME edx
+pomor 3660 IN A 195.70.197.66
+rocmm 3660 IN A 195.70.197.66
+internal.rcsoc 3660 IN A 195.19.241.144
+ethnoarchive 3660 IN A 195.70.197.66
+gos-itah.phil 3660 IN CNAME duplo.iphil.ru.
+www.files.iml 3660 IN CNAME iml
+www.creform 3660 IN CNAME portals.ptc
+help.psy 3660 IN A 195.70.197.66
+languageten.lc 3660 IN A 195.70.197.66
+exam 3660 IN A 217.197.13.136
+www.orthodox 3660 IN CNAME tower-ptc.pu.ru.
+kspg 3660 IN A 195.70.197.66
+adm.geomodel 3660 IN A 195.19.241.166
+www.zoology.museums 3660 IN CNAME zoology.museums
+spin.lab 3660 IN A 195.70.197.27
+www.emc 3660 IN CNAME emc
+krym 3660 IN A 195.70.197.66
+cl2-vm44.bb 3660 IN A 195.70.213.44
+www.sebc 3660 IN CNAME sebc
+test.lc 3660 IN A 195.70.197.66
+project.phil 3660 IN A 195.70.197.2
+ns2 3660 IN A 195.19.225.252
+new.iml 3660 IN CNAME iml
+agym 3660 IN A 195.70.197.104
+ns.cc 3660 IN A 195.19.225.200
+programmer.ath 3660 IN A 192.168.17.101
+www.bosporwarfare 3660 IN CNAME bosporwarfare
+library.sir 3660 IN A 195.70.217.150
+www.amyloid 3660 IN CNAME amyloid
+www.impilahti.museums 3660 IN CNAME impilahti.museums
+geoportal-nevsky 3660 IN A 195.70.211.245
+de.pomor 3660 IN CNAME pomor
+cl2-vm16.bb 3660 IN A 195.70.213.16
+cl1-app3.bb 3660 IN A 195.70.200.101
+ihism-junior 3660 IN CNAME tower-ptc.pu.ru.
+internal.xrd 3660 IN A 195.19.241.137
+www.books.museums 3660 IN CNAME books.museums
+math 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+client.chromas 3660 IN A 195.19.241.143
+client.laser 3660 IN A 195.19.241.163
+web 3660 IN A 195.19.225.248
+vivaldi 3660 IN A 217.197.13.131
+bio-nmr 3660 IN A 195.70.197.27
+www.phil 3660 IN CNAME phil
+www.artesliberales 3660 IN CNAME artesliberales
+model.org 3660 IN A 195.70.197.92
+priem2010 3660 IN CNAME sp.pu.ru.
+msn.jabber 3660 IN CNAME jabber
+www10 3660 IN CNAME tower-ptc.pu.ru.
+hall.lib 3660 IN A 192.168.30.3
+internal.laser 3660 IN A 195.19.241.163
+pobeda 3660 IN A 195.70.197.45
+new.bioconf 3660 IN A 195.70.197.27
+jud.jabber 3660 IN CNAME jabber
+adm.xrd 3660 IN A 195.19.241.137
+acthall 3660 IN A 195.70.213.246
+websrv.history 3660 IN A 195.70.207.143
+students.arts 3660 IN MX 10 post.iphil.ru.
+students.arts 3660 IN A 195.70.213.202
+www.campus-free 3660 IN CNAME campus-free
+mok.lib 3660 IN A 192.168.30.2
+adobe 3660 IN A 195.70.197.66
+new.history 3660 IN A 195.70.197.66
+rcsoc 3660 IN A 195.70.197.104
+envecon.lab 3660 IN A 195.70.197.27
+mmweek43 3660 IN CNAME tranq.dorms
+www.vm.arts 3660 IN CNAME vm.arts
+www.ord-corpus 3660 IN CNAME ord-corpus
+cl2-vm45.bb 3660 IN A 195.70.213.45
+rusfolkorchestra 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+phd 3660 IN CNAME ftp2.ptc
+connect 3660 IN A 81.89.183.147
+folk 3660 IN A 195.70.197.66
+www.eds.psy 3660 IN CNAME eds.psy
+client.surface 3660 IN A 195.19.241.139
+ldc.iti 3660 IN A 195.19.241.132
+www.library 3660 IN CNAME library
+russian4foreigners 3660 IN A 195.19.233.7
+my 3660 IN A 81.89.183.246
+bib2.lib 3660 IN A 195.19.240.144
+fond 3660 IN A 178.132.207.42
+www.geo 3660 IN CNAME geo
+www.indianinfo 3660 IN CNAME indianinfo
+case-center 3660 IN NS ns.pu.ru.
+3660 IN NS ns.gsom.pu.ru.
+3660 IN NS ns2.pu.ru.
+_sip._tls.365 3660 IN SRV 100 1 443 sipdir.online.lync.com.
+cl2-vm17.bb 3660 IN A 195.70.213.17
+cl1-app4.bb 3660 IN A 195.70.200.102
+rossica-antiqua 3660 IN A 195.70.197.104
+edu-test 3660 IN A 81.89.183.137
+edu-test 3660 IN TXT "MS=ms99121312"
+www.novist.history 3660 IN CNAME novist.history
+ws1 3660 IN CNAME ws1.ptc
+ws2 3660 IN CNAME ws2.ptc
+www.molbioph.niif 3660 IN CNAME molbioph.niif
+alumni 3660 IN A 195.70.197.27
+ns 3660 IN A 195.19.225.254
+ws6 3660 IN CNAME ws6.ptc
+ws7 3660 IN CNAME ws7.ptc
+comparsociology 3660 IN A 195.70.197.27
+football 3660 IN A 195.70.197.30
+www.econ.vestnik 3660 IN CNAME economics.vestnik
+adm-ptc 3660 IN A 195.19.225.1
+client.analyt 3660 IN A 195.19.241.168
+science 3660 IN A 195.70.197.27
+www.barocpraxis.arts 3660 IN CNAME barocpraxis.arts
+www.micnon2015 3660 IN CNAME micnon2015
+www.mendeleev 3660 IN CNAME mendeleev
+www.tariverdiev.arts 3660 IN CNAME tariverdiev.arts
+www.isdgrus 3660 IN A 195.19.241.179
+infocampus 3660 IN NS ns.campus
+3660 IN NS ns.infosite.net.ru.
+6linya 3660 IN A 195.70.197.66
+debian.mirror 3660 IN CNAME ftp
+154.lib 3660 IN A 195.19.240.154
+prearts 3660 IN NS ns.calvados.infosite.ru.
+3660 IN NS ns.infosite.net.ru.
+rusist 3660 IN A 195.70.197.47
+magister 3660 IN CNAME tower-ptc.pu.ru.
+internal.analyt 3660 IN A 195.19.241.168
+*.researchpark 3660 IN A 195.19.241.190
+new.umo 3660 IN CNAME umo
+relay2-old 3660 IN A 195.19.225.239
+ecgeo 3660 IN A 195.70.197.2
+pho.lib 3660 IN A 195.19.240.171
+www.kantorovich100 3660 IN CNAME kantorovich100
+cl2-vm46.bb 3660 IN A 195.70.213.46
+www.n-s 3660 IN CNAME portals.ptc
+wpad 3660 IN A 195.19.225.234
+wpad 3660 IN TXT "service: wpad:!http://wpad.spbu.ru:80/proxy.pac"
+www.horizont 3660 IN CNAME horizont
+rclph 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+pass 3660 IN A 195.19.226.226
+www.fvo 3660 IN CNAME fvo
+www.tilda.quantchem 3660 IN CNAME tilda.quantchem
+sip.365 3660 IN CNAME sipdir.online.lync.com.
+internal.nanocomposites 3660 IN A 195.19.241.138
+www.radiosite.niirf 3660 IN CNAME radiosite.niirf
+www.1-line 3660 IN CNAME 1-line
+cl2-vm18.bb 3660 IN A 195.70.213.18
+dorms2 3660 IN A 195.19.225.169
+astro.museums 3660 IN A 195.70.197.66
+expsy 3660 IN A 195.70.197.2
+www.abiturient 3660 IN CNAME abiturient
+www.rus.jf 3660 IN CNAME jf
+cyber.econ 3660 IN A 195.70.197.2
+www.translation 3660 IN CNAME translation
+cl2-vm49.bb 3660 IN A 195.70.213.49
+365 3660 IN MX 0 365-spbu-ru.mail.protection.outlook.com.
+365 3660 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+www.nwcr 3660 IN CNAME tower-ptc.pu.ru.
+biomed 3660 IN A 195.70.197.66
+vm02 3660 IN A 185.44.15.191
+www.mendeleev.museums 3660 IN CNAME mendeleev.museums
+*.webdev3 3660 IN A 195.70.197.104
+pda.orient 3660 IN CNAME h3
+met.iml 3660 IN CNAME iml
+ws4 3660 IN CNAME ws4.ibm.ptc
+www.iac 3660 IN A 195.19.233.5
+pr 3660 IN A 195.70.197.104
+www.grecproject 3660 IN CNAME tower-ptc.pu.ru.
+adm.rocmm 3660 IN A 195.19.241.141
+www.vestnik 3660 IN CNAME vestnik
+sklad.ath 3660 IN A 192.168.17.99
+reserve.artesliberales 3660 IN A 195.70.220.9
+test.niif 3660 IN CNAME tower-ptc.pu.ru.
+www.library.econ 3660 IN CNAME library.econ
+tranq.dorms 3660 IN A 195.19.254.35
+www.rus-gos 3660 IN CNAME rus-gos
+xrd 3660 IN A 195.70.197.66
+rc 3660 IN CNAME sp.pu.ru.
+knr1.lib 3660 IN A 195.19.240.140
+bib5.lib 3660 IN A 195.19.240.133
+korea 3660 IN A 195.70.197.66
+cache.ptc 3660 IN A 195.19.226.194
+msk.phil 3660 IN A 195.70.197.50
+ecosafe 3660 IN A 195.70.197.2
+new.ktu 3660 IN CNAME ktu
+cl2-vm47.bb 3660 IN A 195.70.213.47
+zpk 3660 IN NS h1.pu.ru.
+3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+www.nanocomposites 3660 IN CNAME nanocomposites
+www.tilde 3660 IN CNAME tilde
+mspkam.sc 3660 IN A 172.27.35.254
+www.perevod 3660 IN CNAME perevod
+relay-old 3660 IN A 195.19.225.251
+www.landdesign 3660 IN CNAME landdesign
+relay2 3660 IN A 195.70.197.23
+www.football 3660 IN CNAME football
+wpad.tcp 3660 IN SRV 0 0 80 wpad
+history 3660 IN MX 10 philosophy.pu.ru.
+history 3660 IN A 195.70.197.104
+muskompleks 3660 IN A 195.70.197.66
+www.museums 3660 IN CNAME museums
+www.inbox 3660 IN CNAME zimbra
+www.history.museums 3660 IN CNAME history.museums
+cl2-vm19.bb 3660 IN A 195.70.213.19
+www.license 3660 IN CNAME sp.pu.ru.
+cl2-vm03.bb 3660 IN A 195.70.213.3
+kross.org 3660 IN A 192.168.41.20
+www.chemcenter 3660 IN CNAME chemcenter
+forma 3660 IN A 195.70.197.41
+www.project.phil 3660 IN CNAME project.phil
+www.petersburger-dialog 3660 IN CNAME petersburger-dialog
+www.museology-tourism 3660 IN CNAME tower-ptc.pu.ru.
+alphabet.arts 3660 IN A 195.70.213.246
+botany.museums 3660 IN A 195.70.197.66
+library 3660 IN A 195.70.223.18
+2philology 3660 IN A 195.70.197.66
+orgz1.org 3660 IN A 192.168.43.195
+chembib3.lib 3660 IN A 192.168.30.15
+mediaspb 3660 IN A 195.70.197.30
+mail.researchpark 3660 IN A 195.19.241.170
+client.nanocomposites 3660 IN A 195.19.241.138
+test.chebyshev 3660 IN CNAME h3
+cloud 3660 IN CNAME sts
+gramma 3660 IN A 195.70.197.118
+new.mir 3660 IN CNAME mir
+meeting 3660 IN A 195.19.225.90
+internal.chromas 3660 IN A 195.19.241.143
+www.lebedev 3660 IN CNAME lebedev
+_xmpp-client._tcp 86400 IN SRV 5 0 5222 jabber
+bb2 3660 IN A 217.197.13.167
+lit.phil 3660 IN A 195.70.197.27
+www.bb-talant 3660 IN CNAME bb-talant
+client.researchpark 3660 IN A 195.19.241.191
+paleostrat.museums 3660 IN A 195.70.197.66
+do2.iml 3660 IN CNAME iml
+popov 3660 IN A 195.70.197.45
+www.fpkfl 3660 IN CNAME fpkfl
+www.econ 3660 IN CNAME econ
+nwae 3660 IN A 195.70.197.2
+medicine.museums 3660 IN A 195.70.197.66
+bbws 3660 IN A 217.197.13.159
+sklad 3660 IN A 195.70.197.105
+cl2-vm48.bb 3660 IN A 195.70.213.48
+www.zpsh 3660 IN CNAME zpsh.psy
+spbgeophys 3660 IN A 195.19.235.110
+media.orient 3660 IN CNAME h3
+www.sir 3660 IN CNAME sir
+do.iml 3660 IN CNAME iml
+cl1-asa1-int1.bb 3660 IN A 195.70.200.97
+internal.researchpark 3660 IN A 195.19.241.191
+adm.biomed 3660 IN A 195.19.241.136
+_jabber._tcp 86400 IN SRV 5 0 5269 jabber
+beta.dspark 3660 IN A 195.70.197.109
+studiox 3660 IN A 195.70.220.14
+api.rusist 3660 IN A 195.70.197.96
+soccomm 3660 IN A 195.70.197.66
+asf 3660 IN A 195.19.238.107
+slovar.org 3660 IN A 195.70.197.92
+cl2-vm21.bb 3660 IN A 195.70.213.21
+alice19 3660 IN A 195.19.226.149
+nwcr 3660 IN CNAME tower-ptc.pu.ru.
+www2.niif 3660 IN CNAME tower-ptc.pu.ru.
+forum.lc 3660 IN A 195.70.197.66
+forum 3660 IN A 195.70.197.27
+new.m 3660 IN A 195.70.197.66
+www.bioslovhist.history 3660 IN CNAME bioslovhist.history
+www.diplom.psy 3660 IN CNAME diplom.psy
+paleo.museums 3660 IN A 195.70.197.66
+godot.library 3660 IN A 195.70.223.101
+islab 3660 IN A 195.70.197.66
+philosophy 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+cartography 3660 IN A 195.70.197.2
+pvx 3660 IN A 195.19.226.252
+kistreg.history 3660 IN A 195.70.197.27
+www.publish 3660 IN CNAME publish
+projects.it 3660 IN A 81.89.183.236
+alu 3660 IN A 195.70.197.66
+fpkfl 3660 IN A 195.70.197.66
+www.itc 3660 IN CNAME itc
+adm.dfm 3660 IN A 195.19.241.170
+srvedudc.edu-test 3660 IN A 81.89.183.137
+videotest 3660 IN CNAME h3
+eds.psy 3660 IN A 195.70.197.27
+ns.campus 3660 IN A 195.70.212.194
+*.cie 3660 IN CNAME cie
+ord-corpus 3660 IN A 195.70.197.66
+phys 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+cl2-vm50.bb 3660 IN A 195.70.213.50
+sergey.iti 3660 IN A 195.19.241.131
+skazka 3660 IN CNAME tower-ptc.pu.ru.
+docs.student 3660 IN CNAME ghs.google.com.
+sport 3660 IN NS h1.pu.ru.
+3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+ns2.unipat 3660 IN A 195.19.233.10
+topinger.phil 3660 IN A 195.70.197.32
+museum 3660 IN A 195.70.197.66
+www.priem 3660 IN CNAME priem
+h3-old 3660 IN A 195.70.197.80
+bbtest 3660 IN A 217.197.13.161
+www.support.it 3660 IN CNAME support.it
+olympiada 3660 IN A 195.70.197.27
+cl2-vm22.bb 3660 IN A 195.70.213.22
+bio 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+www.23-linguistik-und-literaturtage 3660 IN CNAME 23-linguistik-und-literaturtage
+sir 3660 IN A 195.70.217.150
+www.psyconf 3660 IN CNAME psyconf
+www.pobeda 3660 IN CNAME pobeda
+www.staff 3660 IN CNAME staff
+www.fund 3660 IN CNAME fund
+olymp 3660 IN A 81.89.183.103
+www.msk.phil 3660 IN CNAME msk.phil
+kovalevski 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+www.bbvideo 3660 IN CNAME bbvideo
+radio.history 3660 IN A 195.70.197.66
+www.kgt 3660 IN CNAME kgt
+jtest.it 3660 IN A 195.70.197.107
+crystal.geology 3660 IN A 195.70.197.66
+21.lib 3660 IN A 195.19.240.132
+services 3660 IN A 195.70.197.79
+tv 3660 IN A 195.70.192.34
+ifea 3660 IN NS h1.pu.ru.
+3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+compmath 3660 IN NS ns2
+3660 IN NS gamma.apmath
+cufts.library 3660 IN A 195.70.223.104
+_xmpp-client._tcp.jabber 86400 IN SRV 5 0 5222 jabber
+econ 3660 IN A 195.70.221.3
+www.philhist 3660 IN CNAME philhist
+impilahti.museums 3660 IN A 195.70.197.66
+db3 3660 IN CNAME portals.ptc
+design 3660 IN MX 10 h3
+design 3660 IN A 195.70.197.66
+www.lit.phil 3660 IN CNAME lit.phil
+zpsh 3660 IN CNAME zpsh.psy
+api.researchpark 3660 IN A 195.19.241.191
+bioslovhist.history 3660 IN A 195.70.197.104
+cl2-vm59.bb 3660 IN A 195.70.213.59
+base.psy 3660 IN A 195.70.197.66
+ojs.library 3660 IN A 195.70.223.16
+cl2-vm51.bb 3660 IN A 195.70.213.51
+college.priem2012 3660 IN A 81.89.183.134
+www.gnam 3660 IN CNAME gnam
+www.rusforall.phil 3660 IN CNAME rusforall.phil
+www.virtualtrip.museums 3660 IN CNAME virtualtrip.museums
+www.alumni 3660 IN CNAME alumni
+sergey-lg.iti 3660 IN A 195.19.241.130
+edx.it 3660 IN A 195.70.197.112
+cie 3660 IN A 195.70.197.66
+bibl2.lib 3660 IN A 192.168.30.40
+wifi.it 3660 IN A 195.70.197.93
+bri 3660 IN CNAME tower-ptc.pu.ru.
+edge.edx 3660 IN CNAME edx
+ftp.youtube 3660 IN A 195.70.197.106
+contest 3660 IN A 195.19.243.120
+mail.psy 3660 IN CNAME ghs.google.com.
+cl2-vm23.bb 3660 IN A 195.70.213.23
+jurist2.org 3660 IN A 195.19.239.85
+mendeleev.museums 3660 IN A 195.70.197.66
+www.itah.iml 3660 IN CNAME iml
+diplom.psy 3660 IN A 195.70.197.66
+www.orch 3660 IN CNAME tower-ptc.pu.ru.
+rcdl2003 3660 IN CNAME meta.math
+kovalevsky 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+timetable 3660 IN A 81.89.183.161
+medialing 3660 IN A 195.70.197.30
+adm.emc 3660 IN A 195.19.241.145
+www.6linya 3660 IN CNAME 6linya
+mobile 3660 IN A 195.70.197.31
+www.choir 3660 IN CNAME choir
+ws9 3660 IN CNAME ws9.ptc
+www.acwriting 3660 IN CNAME acwriting
+www.education 3660 IN CNAME sp.pu.ru.
+new.it 3660 IN A 195.70.197.79
+client.thermo 3660 IN A 195.19.241.140
+adm.chromas 3660 IN A 195.19.241.143
+adm.chemcenter 3660 IN A 195.19.241.135
+chebyshev 3660 IN A 178.63.9.204
+chebyshev 3660 IN MX 10 cgp.pu.ru.
+www.envecon.lab 3660 IN CNAME envecon.lab
+ap2.school 3660 IN A 192.168.33.3
+dasein 3660 IN A 194.85.123.106
+kgt 3660 IN A 195.70.197.66
+www.sportpsy 3660 IN CNAME sportpsy
+new.alumni 3660 IN A 195.70.197.27
+cmr 3660 IN A 195.70.197.66
+www.geology 3660 IN CNAME geology
+150.lib 3660 IN A 195.19.240.150
+www.zpsh.psy 3660 IN CNAME zpsh.psy
+sebc 3660 IN A 194.85.174.26
+mineral 3660 IN A 195.70.197.2
+git.it 3660 IN A 195.70.197.111
+testing 3660 IN A 195.70.197.66
+w3 3660 IN CNAME portals.ptc
+ns.biogeo 3660 IN A 81.89.184.171
+dfm 3660 IN A 195.70.197.66
+dfm 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+www.ihism-junior 3660 IN CNAME tower-ptc.pu.ru.
+niimm 3660 IN A 195.19.225.243
+niimm 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+cl2-vm52.bb 3660 IN A 195.70.213.52
+www.smu 3660 IN CNAME portals.ptc
+bioconf 3660 IN A 95.211.190.69
+test2015 3660 IN A 195.70.197.87
+www.economics.vestnik 3660 IN CNAME economics.vestnik
+www.kvn 3660 IN CNAME kvn
+phonetics 3660 IN A 195.70.197.41
+www.ihism 3660 IN CNAME tower-ptc.pu.ru.
+india-russia2015 3660 IN A 195.70.197.27
+www.distolymp 3660 IN CNAME distolymp
+www.spounison 3660 IN CNAME tower-ptc.pu.ru.
+www.biomed 3660 IN CNAME biomed
+134.lib 3660 IN A 195.19.240.134
+orienthist 3660 IN A 195.70.197.27
+cl2-vm24.bb 3660 IN A 195.70.213.24
+www.met.iml 3660 IN CNAME iml
+www.bologna 3660 IN CNAME bologna
+www.center-sd 3660 IN CNAME center-sd
+www.biostations.museums 3660 IN CNAME biostations.museums
+umts-punk.org 3660 IN A 192.168.41.22
+horizont 3660 IN MX 10 h3
+horizont 3660 IN A 195.70.197.66
+www.icsls21 3660 IN CNAME icsls21
+csr 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+old.history 3660 IN CNAME history
+www.ethonet-sno.history 3660 IN CNAME ethonet-sno.history
+bb 3660 IN A 217.197.13.130
+dkn 3660 IN A 192.168.6.66
+cuf 3660 IN A 195.70.197.66
+cuf 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+guestbook 3660 IN A 195.70.197.27
+h3 3660 IN A 195.70.197.66
+bj 3660 IN A 195.70.197.30
+h5 3660 IN A 195.70.197.27
+cc 3660 IN NS ns.cc
+3660 IN NS ns2
+www.sovmu 3660 IN CNAME sovmu
+new.timetable 3660 IN A 81.89.183.161
+www.islab 3660 IN CNAME islab
+bp 3660 IN CNAME tower-ptc.pu.ru.
+_xmpp-server._tcp.jabber 86400 IN SRV 5 0 5269 jabber
+ci 3660 IN A 195.70.200.74
+apache2.analyt 3660 IN A 195.19.236.188
+s2.knig100 3660 IN A 195.19.246.196
+slavica-petropolitana 3660 IN A 195.70.197.66
+www.relief 3660 IN CNAME relief
+h4 3660 IN A 195.70.197.30
+aim.jabber 3660 IN CNAME jabber
+edu 3660 IN A 195.70.197.31
+edu 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+adfs-proxy1.student 3660 IN A 195.70.197.33
+dl 3660 IN A 195.70.220.9
+edx 3660 IN A 195.70.220.14
+gnam 3660 IN A 195.70.197.2
+www.centant.history 3660 IN CNAME centant.history
+phil 3660 IN A 195.70.197.50
+phil 3660 IN MX 5 post.iphil.ru.
+dol 3660 IN CNAME tower-ptc.pu.ru.
+isrs2014 3660 IN A 195.70.197.66
+www.nps.psy 3660 IN CNAME nps.psy
+dop 3660 IN A 195.70.197.27
+cl2-vm53.bb 3660 IN A 195.70.213.53
+creform 3660 IN CNAME portals.ptc
+www.muskompleks 3660 IN CNAME muskompleks
+conf.phil 3660 IN CNAME duplo.iphil.ru.
+actual-art 3660 IN A 195.70.197.104
+www.dev.psy 3660 IN CNAME dev.psy
+fr 3660 IN A 195.19.255.133
+feedback.timetable 3660 IN CNAME unitimes.reformal.ru.
+www.science 3660 IN CNAME science
+orch 3660 IN CNAME tower-ptc.pu.ru.
+roof 3660 IN A 195.19.226.22
+smu 3660 IN CNAME portals.ptc
+en.pomor 3660 IN CNAME pomor
+knig100 3660 IN A 195.19.246.195
+cl2-vm25.bb 3660 IN A 195.70.213.25
+quantchem 3660 IN A 195.70.197.31
+videorc 3660 IN A 195.70.197.15
+www.gramma 3660 IN CNAME gramma
+www.lnd.psy 3660 IN CNAME lnd.psy
+jc 3660 IN A 195.70.197.30
+amyloid 3660 IN A 195.70.197.27
+jf 3660 IN A 195.70.197.30
+www.earth 3660 IN CNAME earth
+it 3660 IN A 195.70.197.79
+it 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+www.hram 3660 IN CNAME h1.pu.ru.
+153.lib 3660 IN A 195.19.240.153
+www.ngw 3660 IN CNAME ngw
+tilda 3660 IN CNAME tilde
+opros 3660 IN A 195.70.218.126
+www.do2.iml 3660 IN CNAME iml
+emc 3660 IN A 195.70.197.66
+snoknir.history 3660 IN A 195.70.197.66
+lc 3660 IN MX 10 h3
+lc 3660 IN A 195.70.197.66
+www.pomor 3660 IN CNAME pomor
+author 3660 IN CNAME author.ibm.ptc
+www.ethnobible.history 3660 IN CNAME ethnobible.history
+molbioph.niif 3660 IN A 195.70.197.66
+eng 3660 IN A 195.70.197.31
+nano 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+www.msp 3660 IN CNAME tower-ptc.pu.ru.
+biostations.museums 3660 IN A 195.70.197.66
+www.arts 3660 IN CNAME arts
+www.microbio.museums 3660 IN CNAME microbio.museums
+orient 3660 IN MX 10 mail.orient
+orient 3660 IN A 195.70.197.66
+simtel.biz 3660 IN A 192.168.40.18
+mmweek44 3660 IN CNAME tranq.dorms
+ethonet-sno.history 3660 IN A 195.70.197.66
+rugby 3660 IN A 195.70.197.27
+137.lib 3660 IN A 195.19.240.137
+www.jobs 3660 IN CNAME jobs
+rus.jf 3660 IN CNAME jf
+cl2-vm54.bb 3660 IN A 195.70.213.54
+www.journal 3660 IN CNAME journal
+analyt 3660 IN A 195.19.236.188
+analyt 3660 IN MX 10 analyt
+naturalsciences 3660 IN CNAME portals.ptc
+museology-sno.history 3660 IN A 195.70.197.66
+unipat 3660 IN NS ns.unipat
+3660 IN NS ns2.unipat
+www.photon 3660 IN CNAME photon
+client.sgt 3660 IN A 195.19.241.142
+erc 3660 IN A 195.70.197.66
+zp 3660 IN A 195.70.197.66
+dspark 3660 IN A 195.70.197.108
+wplms 3660 IN CNAME portals.ptc
+www.chromas 3660 IN CNAME chromas
+work 3660 IN A 195.19.225.121
+vm01 3660 IN A 185.44.15.190
+cl2-vm26.bb 3660 IN A 195.70.213.26
+alice01 3660 IN A 195.19.226.131
+alice02 3660 IN A 195.19.226.132
+alice03 3660 IN A 195.19.226.133
+alice04 3660 IN A 195.19.226.134
+alice05 3660 IN A 195.19.226.135
+alice06 3660 IN A 195.19.226.136
+alice07 3660 IN A 195.19.226.137
+alice08 3660 IN A 195.19.226.138
+alice09 3660 IN A 195.19.226.139
+alice11 3660 IN A 195.19.226.141
+alice12 3660 IN A 195.19.226.142
+alice13 3660 IN A 195.19.226.143
+alice14 3660 IN A 195.19.226.144
+alice15 3660 IN A 195.19.226.145
+alice16 3660 IN A 195.19.226.146
+alice17 3660 IN A 195.19.226.147
+alice18 3660 IN A 195.19.226.148
+alice20 3660 IN A 195.19.226.150
+alice21 3660 IN A 195.19.226.151
+alice22 3660 IN A 195.19.226.152
+alice23 3660 IN A 195.19.226.153
+alice24 3660 IN A 195.19.226.154
+alice25 3660 IN A 195.19.226.155
+alice26 3660 IN A 195.19.226.156
+alice27 3660 IN A 195.19.226.157
+alice28 3660 IN A 195.19.226.158
+alice29 3660 IN A 195.19.226.159
+www.isrs2014 3660 IN CNAME isrs2014
+laser 3660 IN A 195.70.197.66
+zgate.library 3660 IN CNAME library
+www.massmedia 3660 IN CNAME massmedia
+old.geo 3660 IN A 195.70.197.66
+www.met2.iml 3660 IN CNAME iml
+en.orient 3660 IN CNAME orient
+sms.icq.jabber 3660 IN CNAME jabber
+www.physics.museums 3660 IN CNAME physics.museums
+www.adobe 3660 IN CNAME adobe
+geolab 3660 IN A 195.70.197.66
+geo 3660 IN A 195.70.197.66
+geo 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+courses.iml 3660 IN CNAME iml
+english-test 3660 IN A 195.70.197.66
+isdgrus 3660 IN A 195.19.241.179
+isdgrus 3660 IN MX 1 isdgrus
+www.surface 3660 IN CNAME surface
+cl2-vm55.bb 3660 IN A 195.70.213.55
+www.new.iml 3660 IN CNAME iml
+_jabber._tcp.jabber 86400 IN SRV 5 0 5269 jabber
+tilde 3660 IN A 195.19.233.2
+online.testing 3660 IN CNAME testing
+petersburger-dialog 3660 IN A 195.70.209.41
+www.ccem 3660 IN CNAME ccem
+drag 3660 IN A 195.19.225.132
+tandem 3660 IN A 195.70.197.27
+nanocomposites 3660 IN A 195.70.197.66
+srv-ptc 3660 IN A 195.19.225.193
+bib3.lib 3660 IN A 195.19.240.141
+cl2-vm27.bb 3660 IN A 195.70.213.27
+www.mineral.museums 3660 IN CNAME mineral.museums
+www.opf 3660 IN CNAME opf
+www.library.history 3660 IN CNAME library.history
+ftp 3660 IN A 195.19.225.235
+mail.student 3660 IN CNAME ghs.google.com.
+opf 3660 IN A 195.70.197.27
+www.nwae 3660 IN CNAME nwae
+researchpark 3660 IN A 195.19.241.190
+researchpark 3660 IN MX 1 mail.researchpark
+ocs 3660 IN A 194.85.123.128
+mentor 3660 IN A 195.19.225.105
+www.design 3660 IN CNAME design
+portal.phil 3660 IN CNAME unity.iphil.ru.
+www.centant 3660 IN CNAME centant
+new.guestbook 3660 IN A 195.70.197.27
+m 3660 IN A 195.70.197.2
+client.cmr 3660 IN A 195.19.241.167
+arts 3660 IN A 195.70.213.246
+adm.analyt 3660 IN A 195.19.241.168
+www.sklad 3660 IN CNAME sklad
+www.priem2009 3660 IN CNAME sp.pu.ru.
+n-s 3660 IN CNAME portals.ptc
+www.priem2012 3660 IN CNAME priem2012
+www.soil 3660 IN CNAME soil
+bbstop 3660 IN A 195.70.197.27
+fvo 3660 IN A 195.70.197.56
+fvo 3660 IN MX 10 mail.fvo
+client.dfm 3660 IN A 195.19.241.170
+conf.arts 3660 IN A 195.70.213.244
+laska.dorms 3660 IN A 217.197.6.24
+chembib1.lib 3660 IN A 192.168.30.13
+2009 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+internal.ccem 3660 IN A 195.19.241.165
+www1 3660 IN CNAME tower-ptc.pu.ru.
+localhost 3660 IN A 127.0.0.1
+users.jabber 3660 IN CNAME jabber
+2011 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+psy21 3660 IN A 195.70.197.66
+hge 3660 IN A 195.70.202.10
+www.update.iml 3660 IN CNAME iml
+2012 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+cl2-vm56.bb 3660 IN A 195.70.213.56
+studsovet 3660 IN A 195.70.197.31
+kolpino.lc 3660 IN A 195.70.197.66
+www.polismyrmekion 3660 IN CNAME polismyrmekion
+rus-gos 3660 IN A 195.70.197.27
+rusforall.phil 3660 IN A 195.70.197.50
+politology 3660 IN A 195.70.217.150
+edc.w3 3660 IN CNAME portals.ptc
+files.iml 3660 IN CNAME iml
+books.museums 3660 IN A 195.70.197.66
+olymp2010 3660 IN CNAME sp.pu.ru.
+iac 3660 IN A 195.19.233.5
+www.expsy 3660 IN CNAME expsy
+cl2-vm28.bb 3660 IN A 195.70.213.28
+med 3660 IN NS ns.pu.ru.
+3660 IN NS ns.law
+3660 IN NS ns2.pu.ru.
+vm01-mgmt 3660 IN A 185.44.15.2
+micnon2015 3660 IN A 195.70.197.27
+perevod 3660 IN A 195.70.197.66
+sts.student 3660 IN A 195.70.197.35
+tcentr.org 3660 IN A 195.19.239.87
+www.pfmethod.psy 3660 IN CNAME pfmethod.psy
+_sipfederationtls._tcp.365 3660 IN SRV 100 1 5061 sipfed.online.lync.com.
+studsovet14 3660 IN NS ns.campus
+3660 IN NS ns.infosite.net.ru.
+eiml 3660 IN A 195.19.241.227
+license 3660 IN CNAME sp.pu.ru.
+priem 3660 IN A 195.70.197.31
+priem 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+distolymp2 3660 IN A 195.19.233.4
+www.rocmm 3660 IN CNAME rocmm
+www.m 3660 IN CNAME m
+www.tilda 3660 IN CNAME tilde
+office.org 3660 IN A 192.168.6.132
+humic 3660 IN A 195.70.197.2
+anthropologia 3660 IN A 194.85.123.106
+levgumilev 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+idm 3660 IN A 195.19.225.76
+sd 3660 IN A 195.70.197.54
+idp 3660 IN A 195.70.223.7
+unicluster 3660 IN A 195.19.246.19
+plato 3660 IN A 195.70.197.27
+www.library.sir 3660 IN CNAME library.sir
+report.timetable 3660 IN CNAME timetable
+www.medicine.museums 3660 IN CNAME medicine.museums
+jobs 3660 IN A 195.70.197.31
+kabinet 3660 IN CNAME cabinet
+www.korea 3660 IN CNAME korea
+ccem 3660 IN A 195.70.197.66
+www.psy 3660 IN CNAME psy
+muc.jabber 3660 IN CNAME jabber
+adm.rcsoc 3660 IN A 195.19.241.144
+lebedev 3660 IN A 195.70.197.27
+otrs 3660 IN A 195.70.197.54
+aspnw 3660 IN CNAME portals.ptc
+www.news 3660 IN CNAME news
+www.rugby 3660 IN CNAME rugby
+lotus 3660 IN A 195.19.227.102
+lotus 3660 IN MX 5 relay2-old
+muhachev.org 3660 IN A 192.168.6.131
+w3.svyaz 3660 IN CNAME portals.ptc
+www.birdeco 3660 IN CNAME tower-ptc.pu.ru.
+service 3660 IN A 81.89.183.181
+kaltura.it 3660 IN A 195.70.197.117
+www.hcminstitute 3660 IN CNAME hcminstitute
+zpsh.psy 3660 IN A 195.70.197.66
+cl2-vm30.bb 3660 IN A 195.70.213.30
+www.forma 3660 IN CNAME forma
+www.comparsociology 3660 IN CNAME comparsociology
+russianlectures 3660 IN A 195.70.197.58
+calendar.psy 3660 IN CNAME ghs.google.com.
+guides.library 3660 IN A 195.19.255.131
+dict.phil 3660 IN CNAME duplo.iphil.ru.
+tourism 3660 IN A 195.70.197.2
+client.emc 3660 IN A 195.19.241.145
+unior 3660 IN CNAME pinion.nw.ru.
+priem2008 3660 IN CNAME priem08
+www2 3660 IN CNAME tower-ptc.pu.ru.
+medkol 3660 IN A 195.70.197.2
+www.conf.arts 3660 IN CNAME conf.arts
+cl2-vm02.bb 3660 IN A 195.70.213.2
+www3 3660 IN A 195.19.225.243
+old.guestbook 3660 IN A 195.70.197.31
+www.erc 3660 IN CNAME erc
+www.rhetorica 3660 IN CNAME rhetorica
+grid 3660 IN A 195.19.225.80
+ap.sir 3660 IN A 195.70.217.150
+adm.laser 3660 IN A 195.19.241.163
+iml 3660 IN MX 10 h3
+iml 3660 IN A 195.70.197.66
+genling150.phil 3660 IN A 195.70.197.50
+sts 3660 IN A 195.70.197.60
+emailreged391c0ae2627c79 3660 IN CNAME emailreg.org.
+client.xrd 3660 IN A 195.19.241.137
+www2.petersburger-dialog 3660 IN A 195.70.197.66
+www.astro.museums 3660 IN CNAME astro.museums
+cl1-app1.bb 3660 IN A 195.70.200.99
+priem2009 3660 IN CNAME sp.pu.ru.
+ptcgate-2 3660 IN A 195.19.224.2
+grecproject 3660 IN CNAME tower-ptc.pu.ru.
+23.lib 3660 IN A 195.19.240.131
+ptcgate-5 3660 IN A 195.19.226.26
+moodle.nemphil 3660 IN CNAME nemphil
+new.agym 3660 IN CNAME h5
+soc 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+cl2-vm58.bb 3660 IN A 195.70.213.58
+www.tandem 3660 IN CNAME tandem
+abiturient 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+abiturient 3660 IN A 195.70.197.31
+adfs-proxy3.student 3660 IN A 195.70.197.35
+irc 3660 IN A 195.19.225.237
+innovation.itah.phil 3660 IN CNAME unity.iphil.ru.
+www.botany.museums 3660 IN CNAME botany.museums
+students 3660 IN A 195.70.197.66
+students 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+www.quantchem 3660 IN CNAME quantchem
+new.bologna 3660 IN CNAME bologna
+conference.jabber 3660 IN CNAME jabber
+physics.museums 3660 IN A 195.70.197.66
+cl2-vm31.bb 3660 IN A 195.70.213.31
+cabinet 3660 IN A 81.89.183.133
+itc 3660 IN A 195.70.197.66
+daf.phil 3660 IN A 195.70.197.27
+zoology.museums 3660 IN A 195.70.197.66
+www.timetable 3660 IN CNAME timetable
+bb-talant 3660 IN A 217.197.13.135
+iti 3660 IN MX 10 mail.iti
+cogscilab 3660 IN A 195.19.233.6
+www.sgt 3660 IN CNAME sgt
+www.orient 3660 IN CNAME orient
+blue 3660 IN A 217.197.13.134
+psyconf 3660 IN A 195.70.197.66
+nanomat 3660 IN A 195.70.197.27
+adsmedia 3660 IN A 195.70.197.30
+bbvideo 3660 IN A 217.197.13.139
+irc.jabber 3660 IN CNAME jabber
+www.analyt 3660 IN CNAME analyt
+icrc-trr160 3660 IN A 195.19.236.187
+collaborate 3660 IN A 217.197.13.133
+calendar.student 3660 IN CNAME ghs.google.com.
+mail.fvo 3660 IN A 195.70.197.48
+sm.h3 3660 IN CNAME h3
+sm.h4 3660 IN CNAME h4
+news 3660 IN A 195.70.197.31
+www.ecgeo 3660 IN CNAME ecgeo
+landdesign 3660 IN A 195.70.197.27
+geocosmos 3660 IN A 195.19.235.110
+www.guestbook 3660 IN CNAME guestbook
+artesliberales 3660 IN A 195.70.197.49
+cl2-vm60.bb 3660 IN A 195.70.213.60
+excom 3660 IN A 195.70.197.66
+cl2-vm09.bb 3660 IN A 195.70.213.9
+bonp.lib 3660 IN A 192.168.30.16
+3660 IN A 195.19.240.170
+pobox 3660 IN A 195.19.225.239
+pobox 3660 IN MX 10 relay2-old
+priem08 3660 IN A 195.19.225.106
+www.nauka 3660 IN CNAME nauka
+_ldap._tcp 3660 IN SRV 0 0 389 ldap
+thermo 3660 IN A 195.70.197.66
+www.india-russia2015 3660 IN CNAME india-russia2015
+ptcgate2 3660 IN A 195.19.224.254
+ptcgate3 3660 IN A 195.19.224.253
+dbwiz.library 3660 IN A 195.70.223.103
+www.student.iml 3660 IN CNAME iml
+www.ktu 3660 IN CNAME ktu
+www.naturalsciences 3660 IN CNAME portals.ptc
+cl2-vm32.bb 3660 IN A 195.70.213.32
+www.niif 3660 IN CNAME tower-ptc.pu.ru.
+www.genling150.phil 3660 IN CNAME genling150.phil
+mech 3660 IN MX 10 medusa.math
+wp 3660 IN CNAME portals.ptc
+www.materials 3660 IN CNAME tower-ptc.pu.ru.
+www.cartography 3660 IN CNAME cartography
+gmailtest 3660 IN MX 1 ASPMX.L.GOOGLE.COM.
+3660 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+3660 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+3660 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+3660 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+gmailtest 3660 IN TXT "google-site-verification=TMjg4cNcOuh8H3w4Coy_ALZDOHx1utNTT7xTET6Envg"
+gsom 3660 IN NS ns.pu.ru.
+3660 IN NS ns.gsom.pu.ru.
+3660 IN NS ns2.pu.ru.
+adm.nanocomposites 3660 IN A 195.19.241.138
+islamedu 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+apmath 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+law 3660 IN NS ns.pu.ru.
+3660 IN NS ns.law
+3660 IN NS ns2.pu.ru.
+kids.lc 3660 IN A 195.70.197.66
+www.geolab 3660 IN CNAME geolab
+itah.iml 3660 IN CNAME iml
+cl2-vm04.bb 3660 IN A 195.70.213.4
+www.web-development 3660 IN CNAME web-development
+client.photon 3660 IN A 195.19.241.164
+rs 3660 IN A 81.89.183.234
+www.russianlectures 3660 IN CNAME russianlectures
+www.econ-conf 3660 IN CNAME econ-conf
+mendeleev 3660 IN A 195.70.197.27
+ege.testing 3660 IN CNAME testing
+crow 3660 IN CNAME crow.ptc
+noc-ptc 3660 IN A 195.19.225.129
+h7-01 3660 IN A 195.70.197.88
+h7-02 3660 IN A 195.70.197.89
+oleg.org 3660 IN A 192.168.41.21
+kontur.biz 3660 IN A 192.168.6.138
+support.it 3660 IN A 81.89.183.242
+beta.opros 3660 IN A 195.70.218.126
+studgorodok 3660 IN NS ns.campus
+3660 IN NS ns.infosite.net.ru.
+vydacha.lib 3660 IN A 195.19.240.138
+web-development 3660 IN A 195.70.197.66
+ag.priem2012 3660 IN A 81.89.183.133
+voprosi-muzeologii 3660 IN A 195.70.197.66
+cl2-vm61.bb 3660 IN A 195.70.213.61
+internal.photon 3660 IN A 195.19.241.164
+geology 3660 IN A 195.70.197.66
+geology 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+west.org 3660 IN A 192.168.6.130
+www.bj 3660 IN CNAME bj
+update.lc 3660 IN A 195.70.197.66
+www.slavica-petropolitana 3660 IN CNAME slavica-petropolitana
+www.rusist 3660 IN CNAME rusist
+sovmu 3660 IN A 195.70.197.27
+www.bp 3660 IN CNAME tower-ptc.pu.ru.
+www.ci 3660 IN CNAME ci
+stat.researchpark 3660 IN A 195.19.241.191
+mail.orient 3660 IN A 195.70.200.72
+www.innovation.itah.phil 3660 IN CNAME unity.iphil.ru.
+cl2-vm33.bb 3660 IN A 195.70.213.33
+education 3660 IN CNAME sp.pu.ru.
+cl2-vm05.bb 3660 IN A 195.70.213.5
+mmweek 3660 IN A 195.19.225.243
+mmweek 3660 IN MX 10 relay2-old
+corpora.phil 3660 IN A 195.70.197.32
+vestnik 3660 IN A 195.70.197.27
+www.adsmedia 3660 IN CNAME adsmedia
+www.vestnikphil 3660 IN CNAME vestnikphil
+ptc 3660 IN NS ns.cc
+3660 IN NS ns2
+kantorovich100 3660 IN A 195.70.197.66
+tilda.quantchem 3660 IN A 195.70.197.27
+www 3660 IN A 195.70.197.45
+kodeks 3660 IN CNAME kodeks.pu.ru.
+bologna 3660 IN A 195.70.197.66
+www.sportclub 3660 IN CNAME sportclub
+ktu 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+ktu 3660 IN A 195.70.197.66
+webdev2 3660 IN A 195.70.197.68
+icsls21 3660 IN A 195.70.197.66
+kitaygorodskaya.lc 3660 IN A 195.70.197.66
+radiosite.niirf 3660 IN A 195.19.233.36
+bosporwarfare 3660 IN A 195.70.213.246
+lmm 3660 IN CNAME kodeks.ptc
+fund 3660 IN A 195.70.197.72
+fund 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+adm.thermo 3660 IN A 195.19.241.140
+internal.rocmm 3660 IN A 195.19.241.141
+151.lib 3660 IN A 195.19.240.151
+www.jc 3660 IN CNAME jc
+www.zdes 3660 IN CNAME zdes
+www.jf 3660 IN CNAME jf
+www.niimm 3660 IN CNAME tower-ptc.pu.ru.
+ptcgate 3660 IN A 194.190.255.158
+www.it 3660 IN CNAME it
+dev.psy 3660 IN A 195.70.197.27
+cl2-vm62.bb 3660 IN A 195.70.213.62
+aura.econ 3660 IN A 195.70.221.7
+rjsymposium2014 3660 IN A 195.70.197.27
+webdev 3660 IN A 195.70.197.66
+www.lc 3660 IN CNAME lc
+www.umo 3660 IN CNAME umo
+acwriting 3660 IN A 195.70.197.27
+cppken 3660 IN A 195.70.197.2
+www.nos 3660 IN CNAME nos
+www.umu 3660 IN CNAME umu
+www.hge 3660 IN CNAME hge
+135.lib 3660 IN A 195.19.240.135
+test.analyt 3660 IN A 195.19.254.40
+ectslab.psy 3660 IN A 195.70.197.27
+kvn 3660 IN A 195.70.197.27
+cl2-vm34.bb 3660 IN A 195.70.213.34
+www.laukaa 3660 IN CNAME laukaa
+fr.cuf 3660 IN CNAME cuf
+client.rocmm 3660 IN A 195.19.241.141
+mir 3660 IN MX 10 cgp.pu.ru.
+mir 3660 IN A 195.70.197.66
+astro 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+www.ng 3660 IN CNAME tower-ptc.pu.ru.
+wpcp 3660 IN CNAME kodeks.ptc
+www.testing 3660 IN CNAME testing
+alice 3660 IN A 195.19.226.130
+www.kistreg.history 3660 IN CNAME kistreg.history
+vestnikphil 3660 IN A 195.70.197.27
+www.my 3660 IN CNAME my
+www.ifel 3660 IN CNAME ifel
+www.sirop 3660 IN CNAME tower-ptc.pu.ru.
+client.rcsoc 3660 IN A 195.19.241.144
+h3-new 3660 IN A 195.70.197.5
+cl2-vm06.bb 3660 IN A 195.70.213.6
+peterhof.lc 3660 IN A 195.70.197.66
+soil 3660 IN A 195.70.197.2
+sirop 3660 IN CNAME tower-ptc.pu.ru.
+do.testing 3660 IN CNAME testing
+www.pr 3660 IN CNAME pr
+www.mediationhelp 3660 IN CNAME mediationhelp
+cheb 3660 IN CNAME chebyshev
+adm.surface 3660 IN A 195.19.241.139
+distolymp 3660 IN A 195.70.197.103
+nordugrid 3660 IN A 195.19.226.140
+www.ingria-poisk.history 3660 IN CNAME ingria-poisk.history
+vestnikmanagement 3660 IN NS ns.pu.ru.
+3660 IN NS ns.gsom.pu.ru.
+3660 IN NS ns2.pu.ru.
+met2.iml 3660 IN CNAME iml
+lwp 3660 IN CNAME kodeks.ptc
+www.help.psy 3660 IN CNAME help.psy
+chem 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+client.chemcenter 3660 IN A 195.19.241.135
+www.lingva.iml 3660 IN CNAME iml
+www.rs 3660 IN CNAME rs
+www.xrd 3660 IN CNAME xrd
+whisky.dkn 3660 IN A 192.168.6.68
+center-sd 3660 IN A 195.70.197.27
+www.spin.lab 3660 IN CNAME spin.lab
+video 3660 IN A 195.70.197.66
+dspace 3660 IN A 195.70.197.51
+snopsy 3660 IN A 195.70.197.66
+translation 3660 IN A 195.70.197.2
+ngo 3660 IN CNAME tower-ptc.pu.ru.
+eng.jf 3660 IN CNAME jf
+www.medialing 3660 IN CNAME medialing
+niirf 3660 IN A 195.19.233.36
+niirf 3660 IN MX 5 niirf
+china 3660 IN NS ns.calvados.infosite.ru.
+3660 IN NS ns.infosite.net.ru.
+ngw 3660 IN A 195.70.197.66
+www.tv 3660 IN CNAME tv
+www.vc 3660 IN CNAME vc
+philarts 3660 IN NS ns.pu.ru.
+3660 IN NS ns.iphil.ru.
+3660 IN NS ns2.pu.ru.
+vmpu 3660 IN NS ns2
+3660 IN NS gamma.apmath
+www.medkol 3660 IN CNAME medkol
+journal 3660 IN A 195.70.197.66
+journal 3660 IN MX 10 cgp.pu.ru.
+www.1914 3660 IN CNAME 1914
+cl2-vm35.bb 3660 IN A 195.70.213.35
+ethnobible.history 3660 IN CNAME history
+nps.psy 3660 IN A 195.70.197.66
+econ-conf 3660 IN A 195.70.197.27
+www.seastation 3660 IN CNAME seastation
+new.students 3660 IN CNAME students
+www.crystal.geology 3660 IN CNAME crystal.geology
+msp 3660 IN CNAME tower-ptc.pu.ru.
+www.apache2.analyt 3660 IN CNAME apache2.analyt
+cl2-vm20.bb 3660 IN A 195.70.213.20
+chromas 3660 IN A 195.70.197.66
+iphil 3660 IN NS ns.pu.ru.
+3660 IN NS ns.iphil.ru.
+3660 IN NS ns2.pu.ru.
+virtualtrip.museums 3660 IN A 195.70.197.66
+bibl.lib 3660 IN A 192.168.30.4
+www.bio-nmr 3660 IN CNAME bio-nmr
+ws10 3660 IN CNAME ws10.ptc
+cl2-vm07.bb 3660 IN A 195.70.213.7
+baltic 3660 IN A 195.70.197.2
+ldap 3660 IN A 195.19.225.241
+lists 3660 IN A 195.19.225.231
+lists 3660 IN MX 5 relay2-old
+ns3 3660 IN A 195.19.225.253
+www.ethnoarchive 3660 IN CNAME ethnoarchive
+zdes 3660 IN A 195.70.197.66
+zdes 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+mathmag 3660 IN A 195.19.252.243
+www.corpora.phil 3660 IN CNAME corpora.phil
+www.aura.econ 3660 IN CNAME aura.econ
+www.mathling.phil 3660 IN CNAME mathling.phil
+www.acthall 3660 IN CNAME acthall
+www.zp 3660 IN CNAME zp
+mmus.geology 3660 IN A 195.70.197.2
+adm.ccem 3660 IN A 195.19.241.165
+internal.cmr 3660 IN A 195.19.241.167
+author.svyaz 3660 IN CNAME portals.ptc
+sip.student 3660 IN CNAME sipdir.online.lync.com.
+museology-tourism 3660 IN CNAME tower-ptc.pu.ru.
+science.phil 3660 IN A 195.70.197.74
+nos 3660 IN A 195.70.197.30
+edc 3660 IN CNAME tower-ptc.pu.ru.
+relay 3660 IN A 195.70.197.23
+internal.dfm 3660 IN A 195.19.241.170
+www.2philology 3660 IN CNAME 2philology
+www.cyber.econ 3660 IN CNAME cyber.econ
+workplace 3660 IN A 195.19.225.120
+workplace 3660 IN MX 10 workplace.ptc
+lnd.psy 3660 IN A 195.70.197.66
+mail 3660 IN A 195.70.197.23
+h6 3660 IN A 195.70.197.107
+videocenter 3660 IN A 195.70.194.43
+surface 3660 IN A 195.70.197.66
+www.history 3660 IN CNAME history
+cl2-vm36.bb 3660 IN A 195.70.213.36
+proxy.library 3660 IN A 195.70.223.102
+ifel 3660 IN A 195.70.197.66
+studio.edx 3660 IN CNAME edx
+fair.org 3660 IN A 192.168.41.19
+www.consulting 3660 IN CNAME consulting
+freebsd.mirror 3660 IN CNAME ftp
+www.esap 3660 IN CNAME esap
+sprachdialog 3660 IN A 195.70.197.66
+www.do.iml 3660 IN CNAME iml
+ojs 3660 IN A 194.85.123.128
+old.bioslovhist.history 3660 IN A 195.70.197.66
+old 3660 IN A 195.70.197.97
+cl1-db1.bb 3660 IN A 195.70.200.103
+ntp 3660 IN CNAME ntp.pu.ru.
+pfmethod.psy 3660 IN A 195.70.197.66
+cl2-vm08.bb 3660 IN A 195.70.213.8
+www.rop 3660 IN CNAME rop
+wrk-ptc 3660 IN A 195.19.225.65
+www.laser 3660 IN CNAME laser
+polismyrmekion 3660 IN A 195.70.213.246
+www.mir 3660 IN CNAME mir
+www.students.arts 3660 IN CNAME students.arts
+calvados.dkn 3660 IN A 192.168.6.67
+itah.phil 3660 IN CNAME duplo.iphil.ru.
+centant 3660 IN A 195.70.197.2
+experts.testing 3660 IN CNAME testing
+www.dc.library 3660 IN CNAME dc.library
+cl1-app2.bb 3660 IN A 195.70.200.100
+ats-kross.org 3660 IN A 192.168.41.23
+www.thermo 3660 IN CNAME thermo
+www.politology 3660 IN CNAME politology
+rus.pomor 3660 IN CNAME pomor
+2002 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+2003 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+2004 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+2005 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+2006 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+2007 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+2008 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+2010 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+mustran.arts 3660 IN A 195.70.213.246
+bioteaching 3660 IN A 195.70.197.66
+2013 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+1914 3660 IN A 195.70.197.104
+mail.iti 3660 IN A 195.19.241.129
+test.fund 3660 IN A 195.70.197.72
+cl2-vm57.bb 3660 IN A 195.70.213.57
+bib4.lib 3660 IN A 195.19.240.130
+www.projects.it 3660 IN CNAME projects.it
+cl2-vm37.bb 3660 IN A 195.70.213.37
+hep.niif 3660 IN CNAME tower-ptc.pu.ru.
+massmedia 3660 IN A 195.70.197.30
+www.sprachdialog 3660 IN CNAME sprachdialog
+www.magister 3660 IN CNAME tower-ptc.pu.ru.
+www.videotest 3660 IN CNAME h3
+orthodox 3660 IN CNAME tower-ptc.pu.ru.
+client.geomodel 3660 IN A 195.19.241.166
+yahoo.jabber 3660 IN CNAME jabber
+www.webdev2 3660 IN CNAME webdev2
+cl1-db2.bb 3660 IN A 195.70.200.104
+www.priem2010 3660 IN CNAME sp.pu.ru.
+microbio.museums 3660 IN A 195.70.197.66
+cl2-vm10.bb 3660 IN A 195.70.213.10
+stat.it 3660 IN A 195.70.197.104
+inbox 3660 IN A 195.19.225.240
+inbox 3660 IN MX 5 zimbra.cc
+hcminstitute 3660 IN A 195.70.197.66
+new.forum 3660 IN A 195.70.197.27
+www.daf.phil 3660 IN CNAME daf.phil
+drive.psy 3660 IN CNAME ghs.google.com.
+internal.emc 3660 IN A 195.19.241.145
+_xmpp-server._tcp 86400 IN SRV 5 0 5269 jabber
+rhetorica 3660 IN A 195.70.197.2
+sakai 3660 IN A 195.70.220.18
+_sipfederationtls._tcp.student 3660 IN SRV 1 100 5061 sipfed.online.lync.com.
+orgz0.org 3660 IN A 192.168.43.194
+chembib2.lib 3660 IN A 192.168.30.14
+nemphil 3660 IN A 195.70.197.66
+www.ecosafe 3660 IN CNAME ecosafe
+philhist 3660 IN A 195.70.197.66
+www.priem2011 3660 IN CNAME priem2011
+campus 3660 IN NS ns.campus
+3660 IN NS ns.infosite.net.ru.
+islam-dl 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+www.snopsy 3660 IN CNAME snopsy
+adm.sgt 3660 IN A 195.19.241.142
+dev.support.it 3660 IN A 195.70.197.120
+1997 3660 IN MX 10 ironport1.pu.ru.
+barsic 3660 IN A 195.70.197.30
+adm 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.
+chemcenter 3660 IN A 195.70.197.66
+speech 3660 IN A 195.70.197.2
+lesewa 3660 IN A 195.70.197.27
+www.icrc-trr160 3660 IN CNAME icrc-trr160
+eng-punk 3660 IN A 195.70.197.66
+sportclub 3660 IN A 195.70.197.66
+sportclub 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+issues.artesliberales 3660 IN A 195.70.220.9
+new.cuf 3660 IN A 195.70.197.66
+esap 3660 IN A 195.70.197.66
+dc.library 3660 IN A 195.70.223.5
+umu 3660 IN A 195.70.197.27
+www.voprosi-muzeologii 3660 IN CNAME voprosi-muzeologii
+update.iml 3660 IN CNAME iml
+lyncdiscover.student 3660 IN CNAME webdir.online.lync.com.
+client.biomed 3660 IN A 195.19.241.136
+cl2-vm38.bb 3660 IN A 195.70.213.38
+priem2011 3660 IN A 81.89.183.103
+priem2012 3660 IN A 81.89.183.103
+internal.sgt 3660 IN A 195.19.241.142
+consulting 3660 IN A 195.70.197.27
+www.nanomat 3660 IN CNAME nanomat
+birdeco 3660 IN CNAME tower-ptc.pu.ru.
+www.snoknir.history 3660 IN CNAME snoknir.history
+sametime 3660 IN CNAME sametime.ptc
+intercys 3660 IN A 195.70.197.27
+psy 3660 IN MX 10 ironport1.pu.ru.
+3660 IN MX 10 ironport2.pu.ru.
+psy 3660 IN A 195.70.197.66
+it-wiki 3660 IN A 195.70.197.31
+www.paleostrat.museums 3660 IN CNAME paleostrat.museums
+cl2-vm11.bb 3660 IN A 195.70.213.11
+www.humic 3660 IN CNAME humic
+internal.biomed 3660 IN A 195.19.241.136
+dialup 3660 IN NS ns.pu.ru.
+3660 IN NS ns2.pu.ru.

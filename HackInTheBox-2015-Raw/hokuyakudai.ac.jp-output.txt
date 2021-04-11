@@ -1,0 +1,50 @@
+@ 86400 IN SOA hokuyakuns admin 2015021600 900 600 604800 3600
+@ 86400 IN NS hokuyakuns
+86400 IN NS hokuyakuns1
+@ 86400 IN A 210.137.242.243
+@ 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+@ 86400 IN TXT "v=spf1 +ip4:210.137.242.224/27 +ip4:210.191.211.128/28 +ip4:210.191.218.64/28 +ip4:110.50.89.202 +ip4:219.109.38.11 +ip4:122.249.253.86 +ip4:218.223.29.70 include:_spf.google.com ~all"
+attend 86400 IN A 210.191.205.100
+hopuspchart 86400 IN NS lp1
+86400 IN NS lp2
+media2 86400 IN NS lp1
+86400 IN NS lp2
+hopuspcomm 86400 IN A 210.137.242.238
+ymoodle 86400 IN A 202.255.192.17
+hopuspkogi 86400 IN NS lp1
+86400 IN NS lp2
+teach 86400 IN A 219.109.38.11
+moodle 86400 IN A 210.137.242.250
+mail 86400 IN CNAME ghs.google.com.
+hopuspkogi-1 86400 IN NS lp1
+86400 IN NS lp2
+manaba 86400 IN A 122.249.253.86
+cbt 86400 IN A 210.137.242.237
+video2 86400 IN NS lp1
+86400 IN NS lp2
+lp1 86400 IN A 210.137.242.253
+lp2 86400 IN A 210.137.242.142
+www 86400 IN A 110.50.89.202
+psss 86400 IN A 210.137.242.251
+opac 86400 IN A 210.137.242.240
+video 86400 IN NS lp1
+86400 IN NS lp2
+media 86400 IN NS lp1
+86400 IN NS lp2
+hopuspportal 86400 IN NS lp1
+86400 IN NS lp2
+ld2 86400 IN A 210.137.242.252
+ppts 86400 IN A 210.137.242.249
+portal 86400 IN NS lp1
+86400 IN NS lp2
+portal2 86400 IN NS lp1
+86400 IN NS lp2
+toshokan 86400 IN CNAME opac
+dns 86400 IN A 210.137.242.243
+repository 86400 IN A 54.178.137.34
+hokuyakuns 86400 IN A 210.137.242.243
+hokuyakuns1 86400 IN A 210.191.211.130

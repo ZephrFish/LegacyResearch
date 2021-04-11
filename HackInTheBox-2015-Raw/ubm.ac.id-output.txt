@@ -1,0 +1,54 @@
+@ 259200 IN SOA ns1.bundamulia.ac.id. root 2014022114 10800 3600 1209600 86400
+@ 259200 IN A 202.137.23.101
+@ 259200 IN TXT "v=spf1 ip4:202.137.23.102/27 a mx -all"
+@ 259200 IN NS ns1.bundamulia.ac.id.
+259200 IN NS ns2.afraid.org.
+@ 259200 IN MX 10 mail.bundamulia.ac.id.
+webmail 259200 IN CNAME email
+blog 259200 IN A 202.137.23.101
+internal 259200 IN A 202.137.23.102
+1093917124.lecturer 259200 IN CNAME domains.live.com.
+_sipfederationtls._tcp.lecturer 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+_sipfederationtls._tcp.alumni 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+1093917124 259200 IN CNAME domains.live.com.
+pmb 259200 IN A 202.137.23.101
+1269838106.ubm.ac.id 259200 IN CNAME domains.live.com.
+bmdisc 259200 IN A 202.137.23.106
+lecturer 259200 IN A 202.137.23.101
+lecturer 259200 IN TXT "v=spf1 a -all"
+lecturer 259200 IN MX 10 lecturer-ubm-ac-id.mail.eo.outlook.com.
+radio 259200 IN A 202.137.23.113
+_sipfederationtls._tcp.mail 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+mail 259200 IN A 202.137.23.101
+mail 259200 IN TXT "v=spf1 a -all"
+mail 259200 IN MX 10 1770918072.mail.outlook.com.
+kompetisi 259200 IN A 202.137.23.101
+email 259200 IN A 202.137.23.101
+email 259200 IN TXT "v=spf1 a -all"
+karir 259200 IN A 202.137.23.101
+1269838106 259200 IN CNAME domains.live.com.
+_sipfederationtls._tcp.magister 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+test 259200 IN A 202.137.23.101
+magister 259200 IN A 202.137.23.101
+stream 259200 IN A 202.137.23.113
+728016261.magister 259200 IN CNAME domains.live.com.
+1770918072.mail 259200 IN CNAME domains.live.com.
+autodiscover 259200 IN CNAME autodiscover.outlook.com.
+_sipfederationtls._tcp 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+mcampus 259200 IN A 202.182.63.131
+stats 259200 IN A 202.137.23.101
+398290470.student 259200 IN CNAME domains.live.com.
+ubm._domainkey 259200 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCGiD8CQElHU8QICyaLc2LVGM6HMjnJUDSuMfVksvIOmLtfqO+t+kBVoxsx3bPnWqqHR9gmtL0nQjclwDgBEtq2FmFn9Lb397Cz3KSj9dAjX0mt1tB5NdlXyj74CmQ9/wScbOEauN2zjGaQD/Rpxt5EFqQIj3jRD1siVNznO9PqwIDAQAB"
+alumni 259200 IN CNAME karir
+mx 259200 IN A 202.137.23.111
+hotspot 259200 IN A 202.137.23.105
+galeri 259200 IN A 202.137.23.101
+library 259200 IN A 202.137.23.106
+_sipfederationtls._tcp.student 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+*.blog 259200 IN A 202.137.23.101
+student 259200 IN A 202.137.23.101
+student 259200 IN TXT "v=spf1 a -all"
+student 259200 IN MX 10 student-ubm-ac-id.mail.eo.outlook.com.
+repository 259200 IN A 202.137.23.101
+training 259200 IN A 202.137.23.101
+www 259200 IN A 202.137.23.101

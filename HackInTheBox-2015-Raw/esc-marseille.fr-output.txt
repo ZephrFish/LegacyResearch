@@ -1,0 +1,9 @@
+@ 3600 IN SOA ns1.euromed-marseille.com. benoit\.barriere.euromed-marseille.com. 2005120903 10800 3000 604800 3600
+@ 3600 IN NS ns1.euromed-marseille.com.
+@ 3600 IN MX 10 mail
+passerelle 3600 IN A 195.220.8.9
+webmail 3600 IN A 195.220.8.6
+www 3600 IN A 195.220.8.6
+stages 3600 IN A 195.220.8.6
+mail 3600 IN A 195.220.8.3
+stage 3600 IN A 195.220.8.6

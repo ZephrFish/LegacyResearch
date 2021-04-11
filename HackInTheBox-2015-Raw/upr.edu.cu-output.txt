@@ -1,0 +1,144 @@
+@ 10800 IN SOA ns1 postmaster 2014071863 28800 7200 1209600 21600
+@ 10800 IN MX 10 mx-externo
+@ 10800 IN NS ns1
+10800 IN NS ns2
+@ 10800 IN TXT "v=spf1 ip4:200.14.49.0/27 mx ~all"
+fm 10800 IN A 172.30.146.27
+foro 10800 IN CNAME public-proxy
+clave 10800 IN CNAME public-proxy
+interfaz 10800 IN CNAME wh
+repositorio 10800 IN CNAME public-proxy
+noticias 10800 IN CNAME wh
+historia 10800 IN CNAME public-proxy
+vrfp 10800 IN CNAME wh
+lupa-query 10800 IN CNAME public-proxy
+composer 10800 IN A 200.14.49.16
+buscador.progintec 10800 IN CNAME public-proxy
+ceetes 10800 IN CNAME public-proxy
+ceces 10800 IN CNAME wh
+meca 10800 IN MX 10 mx-externo
+vrip 10800 IN CNAME wh
+fcsh 10800 IN MX 10 mx-externo
+stack 10800 IN CNAME public-proxy
+listas 10800 IN MX 10 mx-externo
+correo-viejo 10800 IN CNAME public-proxy
+feu 10800 IN CNAME public-proxy
+universitas 10800 IN CNAME public-proxy
+webtec.progintec 10800 IN CNAME public-proxy
+lapalmaweb 10800 IN CNAME public-proxy
+mat 10800 IN MX 10 mx-externo
+correoweb 10800 IN CNAME public-proxy
+moodle2 10800 IN CNAME public-proxy
+moodle.ceces 10800 IN CNAME wh
+vrect 10800 IN MX 10 mx-externo
+ri 10800 IN CNAME public-proxy
+pino 10800 IN CNAME public-proxy
+webiblium 10800 IN CNAME public-proxy
+tele 10800 IN MX 10 mx-externo
+wh-plus 10800 IN A 200.14.49.13
+transporte 10800 IN CNAME public-proxy
+vinalesweb 10800 IN CNAME public-proxy
+jwchat 10800 IN CNAME talk
+repofisica 10800 IN CNAME public-proxy
+famsaweb 10800 IN A 172.30.146.2
+profesores 10800 IN MX 10 mx-externo
+profesores 10800 IN A 200.14.49.3
+webmail 10800 IN CNAME public-proxy
+repoinfo 10800 IN CNAME public-proxy
+sigenu 10800 IN CNAME public-proxy
+repositorio.biblioteca 10800 IN CNAME public-proxy
+conference 10800 IN CNAME talk
+geo 10800 IN MX 10 mx-externo
+repos 10800 IN CNAME public-proxy
+lse 10800 IN CNAME public-proxy
+compartir 10800 IN CNAME public-proxy
+icpc 10800 IN CNAME wh
+www.historia 10800 IN CNAME historia
+geteca 10800 IN CNAME wh
+time 10800 IN A 200.14.49.2
+repofce 10800 IN CNAME public-proxy
+freed 10800 IN CNAME public-proxy
+moodle 10800 IN CNAME public-proxy
+cvforestal 10800 IN CNAME public-proxy
+bibliotecadigital 10800 IN CNAME public-proxy
+progintec 10800 IN CNAME public-proxy
+git 10800 IN CNAME public-proxy
+preguntas 10800 IN CNAME wh
+ftp 10800 IN CNAME public-proxy
+postgrado 10800 IN MX 10 mx-externo
+estilos.progintec 10800 IN CNAME public-proxy
+correo 10800 IN CNAME public-proxy
+lupa 10800 IN CNAME public-proxy
+mx1 10800 IN CNAME ns1
+mx2 10800 IN CNAME ns2
+elnodo 10800 IN CNAME wh
+mecarepo 10800 IN CNAME public-proxy
+sum 10800 IN MX 10 mx-externo
+mrtg 10800 IN CNAME public-proxy
+cemarna 10800 IN CNAME wh
+download 10800 IN A 200.55.143.11
+ecomerc 10800 IN CNAME public-proxy
+repoinst 10800 IN CNAME public-proxy
+rectoria 10800 IN MX 10 mx-externo
+cedecom 10800 IN CNAME wh
+cifam 10800 IN CNAME cfores
+ns1 10800 IN A 200.14.49.2
+ns2 10800 IN A 200.55.143.10
+mx-externo 10800 IN A 200.14.49.27
+telecom 10800 IN CNAME public-proxy
+noc 10800 IN CNAME public-proxy
+repogeo 10800 IN CNAME public-proxy
+abcd 10800 IN CNAME public-proxy
+gedeltur 10800 IN CNAME public-proxy
+reverse1 10800 IN A 200.14.49.9
+reverse2 10800 IN A 200.14.49.5
+geoweb 10800 IN CNAME public-proxy
+ict 10800 IN MX 10 mx-externo
+estudiantes 10800 IN MX 10 mx-externo
+estudiantes 10800 IN A 200.14.49.3
+proyectos 10800 IN CNAME public-proxy
+talk 10800 IN A 200.14.49.4
+signu 10800 IN CNAME public-proxy
+cef 10800 IN CNAME public-proxy
+famsa 10800 IN MX 10 mx-externo
+relcoop 10800 IN CNAME wh
+proxy 10800 IN A 200.14.49.21
+mx-externo._domainkey 10800 IN TXT "v=DKIM1; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/qePMyDIvpsQrAaCi8A6seQbj08fHz6rh+tpK9xPHBrqK5IZjOwOt9nfeTw6Mraik2M9xmdsLm5SO0Rv7ej84bl4esmEV9kD07Ko+ETftT8wn/eqMMJ778kfbVsh34vU8aIzffbmniYw3JSB5ARuQWDlwY+D121UhJ2Vz9LkLxwIDAQAB"
+observatorio.progintec 10800 IN CNAME public-proxy
+public-proxy 10800 IN A 200.14.49.3
+catalogo 10800 IN CNAME public-proxy
+cv.progintec 10800 IN CNAME public-proxy
+intranet 10800 IN CNAME public-proxy
+actafpr 10800 IN CNAME public-proxy
+wh 10800 IN A 200.14.49.12
+ftp.ceces 10800 IN CNAME public-proxy
+haciendoweb 10800 IN CNAME wh
+telefonos 10800 IN CNAME public-proxy
+firewall 10800 IN A 200.14.49.1
+sanjuanweb 10800 IN CNAME public-proxy
+geomecanica 10800 IN CNAME public-proxy
+cfores 10800 IN A 200.14.48.107
+consolacionweb 10800 IN CNAME public-proxy
+irc 10800 IN CNAME reverse1
+isos 10800 IN CNAME public-proxy
+hsaiz 10800 IN CNAME wh
+pialpr 10800 IN CNAME wh
+ext 10800 IN MX 10 mx-externo
+greenstone 10800 IN CNAME public-proxy
+ftp-externo 10800 IN CNAME public-proxy
+ad 10800 IN A 10.2.24.35
+af 10800 IN MX 10 mx-externo
+info 10800 IN MX 10 mx-externo
+sw-dmz 10800 IN A 200.14.49.30
+biblioteca 10800 IN CNAME public-proxy
+eco 10800 IN MX 10 mx-externo
+coodes 10800 IN CNAME cfores
+wikipedia 10800 IN CNAME public-proxy
+dict 10800 IN CNAME public-proxy
+di 10800 IN CNAME wh
+repo-fcsh 10800 IN CNAME public-proxy
+router 10800 IN A 200.14.49.1
+catalogo.progintec 10800 IN CNAME public-proxy
+www.gedeltur 10800 IN CNAME gedeltur
+simfor 10800 IN CNAME wh
+segurinfo 10800 IN CNAME public-proxy

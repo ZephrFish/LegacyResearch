@@ -1,0 +1,1308 @@
+@ 3600 IN SOA cpnr-authdns-dhcp-vm-1 info-dns 2001348643 3600 3600 1296000 86400
+@ 600 IN TXT "ktD+DpsDo4zc7Q/sjuH9eSx3Ms0KbT7em+nmsfXd9w8w56exAd00lZOKiXma8Bss/v6xIcCoXNA6+wkkzKtWqA=="
+600 IN TXT "MS=ms18061669"
+600 IN TXT "google-site-verification:WHNxr1IRt0U4trUGOx0P_3Mapbx4bAOGrvpzn6WTydY"
+600 IN TXT "v=spf1 mx ip4:130.253.1.62 ip4:130.253.1.179 ip4:130.253.1.17 ip4:130.253.1.18 a:smtpout.zixmail.net a:zixmail.net include:technolutions.net ?all"
+@ 600 IN MX 10 potato.cair
+600 IN MX 15 radish.cair
+@ 3600 IN NS ns1.p24.dynect.net.
+3600 IN NS ns2.p24.dynect.net.
+3600 IN NS ns3.p24.dynect.net.
+3600 IN NS ns4.p24.dynect.net.
+3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+@ 600 IN A 130.253.2.7
+sqlcl01-dtc 3600 IN A 130.253.7.132
+_ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones 600 IN SRV 0 100 389 nsm-dc11.nsm
+red 3600 IN A 130.253.2.125
+library1 3600 IN A 130.253.4.148
+pioneerweb 3600 IN A 130.253.2.107
+_ldap._tcp.Campus._sites.dc._msdcs 600 IN SRV 0 100 389 DC03DU
+600 IN SRV 0 100 389 DC02DU
+600 IN SRV 0 100 389 DC01DU
+mb4-stm 3600 IN A 130.253.7.73
+gspp-fmp 3600 IN A 130.253.4.52
+network-dcuplink2-cidr26 3600 IN A 130.253.20.128
+mongoose 3600 IN CNAME 15-110.uts
+_sip._tcp 3600 IN SRV 10 10 5060 vcs-e
+gaia 3600 IN CNAME ikronos
+DC03DU 1200 IN AAAA 2002:82fd:342::82fd:342
+DC03DU 1200 IN A 130.253.3.66
+loopback244-cs-mrb-0 3600 IN A 192.168.244.254
+stm-nas-shares 3600 IN CNAME stm-evs-02
+ednet 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+greenpioneerweb-portal 3600 IN A 130.253.2.185
+_kerberos._tcp 600 IN SRV 0 100 88 DC03DU
+600 IN SRV 0 100 88 DC02DU
+600 IN SRV 0 100 88 DC01DU
+float-nlb01-vl566 3600 IN A 130.253.7.81
+devweb 3600 IN A 130.253.2.11
+broadcast-cidr29-perfsonar 3600 IN A 130.253.21.207
+pardee 3600 IN CNAME ec2-54-149-35-228.us-west-2.compute.amazonaws.com.
+chiron 3600 IN A 130.253.2.169
+womenscollege 600 IN CNAME odin.cair
+dcssqlvm01 3600 IN A 130.253.7.179
+goldharmonia 3600 IN A 130.253.2.226
+_ldap._tcp.7ac50f41-a50b-4790-ae38-b5d3e2fac6e3.domains._msdcs 600 IN SRV 0 100 389 DC03CAIR.cair
+600 IN SRV 0 100 389 DC02CAIR.cair
+600 IN SRV 0 100 389 DC01CAIR.cair
+TimeClock 1200 IN AAAA 2002:82fd:6b03::82fd:6b03
+TimeClock 1200 IN A 130.253.107.3
+assessment 3600 IN CNAME assessweb.cair
+www.giving 3600 IN A 130.253.2.7
+mysite 600 IN A 130.253.1.30
+gsswblog 3600 IN CNAME gsswblog.wpengine.com.
+janus 3600 IN A 130.253.253.125
+videomanager 600 IN A 130.253.4.56
+wiki 3600 IN A 130.253.2.141
+gw-up-0-xe-1-1-0 3600 IN A 130.253.102.253
+vc4view-db 3600 IN A 130.253.7.54
+broncos-fs 3600 IN A 130.253.4.84
+PS-UTSTM-0-VL121 3600 IN A 130.253.121.253
+autodiscover 600 IN CNAME weboutlook
+test-otllti 3600 IN A 130.253.3.141
+_kerberos._tcp.Law._sites 600 IN SRV 0 100 88 DC03DU
+600 IN SRV 0 100 88 DC02DU
+600 IN SRV 0 100 88 DC01DU
+voicemail 3600 IN A 130.253.40.107
+beta.secs 3600 IN CNAME secs
+gw-sw-westwood-0 3600 IN A 50.78.194.17
+pioneerweb-cas 3600 IN A 130.253.2.66
+cfgiving 3600 IN CNAME www.cfgiving
+_ldap._tcp.Law._sites.gc._msdcs 600 IN SRV 0 100 3268 DC5LAW.law
+600 IN SRV 0 100 3268 dc3law.law
+600 IN SRV 0 100 3268 dc1law.law
+600 IN SRV 0 100 3268 DC2Law.law
+debate2012 600 IN A 130.253.2.7
+xe-2-0-0.897.core-l3 3600 IN A 130.253.101.26
+sqlcl01-inst1 3600 IN A 130.253.7.133
+_sip._tls 3600 IN SRV 10 10 5061 vcs-e
+greenpioneerweb-cas 3600 IN A 130.253.2.184
+greenpioneerweb-admin 3600 IN A 130.253.2.183
+_gc._tcp.Campus._sites 600 IN SRV 0 100 3268 DC03DU
+600 IN SRV 0 100 3268 DC02DU
+600 IN SRV 0 100 3268 DC03CAIR.cair
+600 IN SRV 0 100 3268 DC02CAIR.cair
+600 IN SRV 0 100 3268 DC01CAIR.cair
+600 IN SRV 0 100 3268 DC01DU
+600 IN SRV 0 100 3268 dc3law.law
+600 IN SRV 0 100 3268 DC5LAW.law
+CS-MRB-0-BB-14 3600 IN A 130.253.14.254
+_sip._udp 3600 IN SRV 10 10 5060 vcs-e
+uts-esx22 3600 IN A 130.253.7.42
+m 3600 IN A 130.253.2.7
+o365 3600 IN A 130.253.2.28
+CS-BAUD-0-GE-7-6-V580 3600 IN A 130.253.21.33
+CS-BAUD-0-GE-7-6-V581 3600 IN A 130.253.21.41
+hre 3600 IN CNAME panda.duc
+ff912e61-e388-403b-9734-ed6a14409017._msdcs 3600 IN CNAME DC2Law.law
+server07 3600 IN A 10.246.7.16
+cpnr-mgmt 3600 IN CNAME cpnr-authdns-dhcp-vm-1
+CS-BAUD-0-BB-13 3600 IN A 130.253.13.253
+CS-BAUD-0-BB-14 3600 IN A 130.253.14.253
+provost 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+vcs-c 3600 IN A 130.253.99.18
+vcs-e 3600 IN A 130.253.99.17
+vwsepapp01 3600 IN A 130.253.1.34
+mailh 3600 IN CNAME smtpin.cair
+terminus 3600 IN A 130.253.3.122
+4a187043-ce0c-4311-b0ba-7cb747c7da38._msdcs 3600 IN CNAME larry.cair
+assessit 3600 IN CNAME assessweb.cair
+cs-uts-0-stm-0-vl254-hsrp 3600 IN A 130.253.254.254
+NextGenUAS 3600 IN CNAME web.cs
+ireporting2temp 3600 IN A 130.253.2.177
+dev-ws 3600 IN A 130.253.3.53
+ibanner 600 IN A 130.253.2.97
+cas-stm 3600 IN A 130.253.7.66
+smc 3600 IN A 130.253.5.26
+clearpass-uts-data 3600 IN A 130.253.5.225
+switchdb 3600 IN A 130.253.3.90
+profileunity 3600 IN A 130.253.4.11
+s1024-1.bh._domainkey 3600 IN TXT "v=DKIM1; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDeDQE+KCdoCyrR27n1BA+ec8qrosN1INwyi401BowvsDq45GYVm4DHIr2peZMNFRuGq7N1oFr1TjDGQBOSkE5a+wy6u86ODsb0u6c9daCNVYan0eLIFhDfNhEFVGosF6XatNCeJLTAJ5O3GJe7V3KtlMZjwf+JKD6b1TLzDfJZowIDAQAB"
+rwc 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+scomvm01 3600 IN A 130.253.3.5
+greenpioneerweb 3600 IN A 130.253.2.192
+scomvm02 3600 IN A 130.253.3.43
+mb2-uts 3600 IN A 130.253.7.71
+sqlrs01 3600 IN A 130.253.7.184
+parents 3600 IN CNAME www.parents
+sophosec 3600 IN A 130.253.1.31
+vctest-comp 3600 IN A 130.253.7.55
+igreenreporting2 3600 IN CNAME coronus.cair
+mapsrv-01 3600 IN A 130.253.215.4
+nextgate 3600 IN A 130.253.2.42
+housing 3600 IN CNAME penguin.duc
+careerblog 3600 IN CNAME du.hosting.gouconnect.com.
+_sip._udp.cup-cl 3600 IN SRV 2 1 5060 cup-stm
+3600 IN SRV 1 1 5060 cup-uts
+itestc-cure 3600 IN CNAME testc-cure
+broadcast-dcuplink3-cidr26 3600 IN A 130.253.20.127
+www.secs 3600 IN CNAME secs
+hccts1 3600 IN A 130.253.19.5
+hccts2 3600 IN A 130.253.19.6
+hccts3 3600 IN A 130.253.19.2
+math-test 3600 IN MX 10 nsm-ex10.nsm
+math-test 3600 IN A 130.253.192.1
+estlowcenter 3600 IN A 130.253.184.104
+0a558522-347c-4dee-9cc5-9e3be7f9e50c._msdcs 600 IN CNAME DC01DU
+ucol 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+ucol 3600 IN A 130.253.48.1
+core-l3-xe-2-0-0-vlan896-global 3600 IN A 130.253.101.22
+diana 3600 IN CNAME diana.cair
+greenharmonia 3600 IN A 130.253.2.227
+jetadmin 3600 IN A 130.253.3.2
+PS-UTSTM-0-VLAN17 3600 IN A 130.253.17.253
+xe-0-1-1.846.core-1200 3600 IN A 130.253.101.14
+www.maps 3600 IN CNAME mapserver
+stagef5 3600 IN A 130.253.2.190
+triple 3600 IN A 130.253.1.215
+amslive 3600 IN A 130.253.99.20
+www.cfgiving 3600 IN A 130.253.4.58
+bursar 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+tempwebgate 3600 IN A 130.253.2.163
+CS-BAUD-0-BB-9 3600 IN A 130.253.9.253
+lumbergh 1200 IN A 130.253.1.130
+f5testing 3600 IN A 130.253.3.17
+craving 3600 IN A 130.253.1.182
+www.ascend 3600 IN CNAME ascend
+HRE-Persona 3600 IN A 130.253.4.187
+testmneme 3600 IN A 130.253.3.140
+www.ifsforums 3600 IN CNAME tforums.campus
+CS-UTS-0-10g-10-1 3600 IN A 130.253.20.254
+CS-UTS-0-10g-10-2 3600 IN A 130.253.20.129
+uts-evs-03 3600 IN A 130.253.1.70
+uts-evs-05 3600 IN A 130.253.1.105
+decomm-www.parking 3600 IN CNAME www.nsm
+nextectd 3600 IN CNAME ectd
+alora 600 IN CNAME wallaroo.campus
+mailjail 3600 IN CNAME mailjail.cair
+exch-reserv2 3600 IN A 130.253.2.160
+cleon 3600 IN A 130.253.2.48
+www.ece 3600 IN CNAME ece
+testbb 3600 IN A 130.253.1.39
+sharepoint.biology 3600 IN CNAME nsm-web10.vm.nsm
+bulletin 3600 IN CNAME du-public.courseleaf.com.
+1cfbdab2-7b52-4ec1-9a7a-4eff9c079016._msdcs 600 IN CNAME DC02CAIR.cair
+theia 3600 IN A 130.253.2.104
+testimaging 3600 IN CNAME uts-evs-01
+vwdcbweb01 3600 IN A 130.253.4.127
+core-1200-xe-0-1-1-vlan846-research 3600 IN A 130.253.101.14
+client10 3600 IN A 130.253.7.225
+gis-library 3600 IN A 130.253.4.212
+xe-0-1-1.840.core-1200 3600 IN A 130.253.101.10
+biochem 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+biochem 3600 IN A 130.253.176.1
+_kerberos._tcp.dc._msdcs 600 IN SRV 0 100 88 DC03DU
+600 IN SRV 0 100 88 DC02DU
+600 IN SRV 0 100 88 DC01DU
+www.dms 3600 IN A 130.253.2.7
+gc._msdcs 600 IN AAAA 2002:82fd:342::82fd:342
+600 IN AAAA 2002:82fd:343::82fd:343
+600 IN AAAA 2002:82fd:297::82fd:297
+600 IN AAAA 2002:82fd:296::82fd:296
+600 IN AAAA 2002:82fd:141::82fd:141
+600 IN AAAA 2002:82fd:140::82fd:140
+gc._msdcs 600 IN A 130.253.3.66
+600 IN A 130.253.3.67
+600 IN A 130.253.2.151
+600 IN A 130.253.2.150
+600 IN A 130.253.1.65
+600 IN A 130.253.1.64
+600 IN A 130.253.107.1
+600 IN A 130.253.107.3
+600 IN A 130.253.166.46
+600 IN A 130.253.166.41
+600 IN A 130.253.166.151
+600 IN A 130.253.166.42
+greenpioneerweb-portal2 3600 IN A 130.253.2.194
+abroad 3600 IN CNAME DU-SA.terradotta.com.
+vpn-external-s 3600 IN A 130.253.102.8
+ldaprepl01 3600 IN A 130.253.2.137
+adultundergrad 3600 IN A 130.253.4.26
+cas-uts 3600 IN A 130.253.7.65
+fairway 3600 IN A 130.253.3.38
+Quicktime 3600 IN A 130.253.99.4
+iflexreg 3600 IN CNAME daphne.cair
+www.du2sri 3600 IN CNAME web.cs
+exch-reserve 3600 IN A 130.253.2.159
+www.portfolio 600 IN CNAME portweb.cair
+GW-QUGG-NEWTON-0 3600 IN A 74.93.229.161
+lamontarchive 3600 IN A 130.253.4.64
+www.giftplanning 3600 IN CNAME giftplanning
+PS-UTSTM-1-VL31 3600 IN A 130.253.31.252
+PS-UTSTM-VL121 3600 IN A 130.253.121.254
+videocast 3600 IN CNAME duvideo.campus
+_h323cs._tcp 3600 IN SRV 10 10 1720 vcs-e
+cruncher2 3600 IN A 130.253.4.79
+cruncher3 3600 IN A 130.253.4.30
+nsmlm 3600 IN A 130.253.3.47
+gfac 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+CS-UTS-0-GE-9-21-V522 3600 IN A 130.253.21.49
+idcard-test 3600 IN A 130.253.1.231
+testaura 3600 IN A 130.253.2.165
+mathlm 3600 IN A 130.253.3.34
+hccweb 3600 IN A 130.253.19.8
+CS-MRB-0-VL230 3600 IN A 130.253.230.254
+CS-MRB-0-VL231 3600 IN A 130.253.231.254
+jpope7-265d-PC.law 1200 IN A 130.253.166.241
+mailk 3600 IN CNAME smtpin.cair
+exch 3600 IN MX 5 fe-ex.cair
+3600 IN MX 15 potato.cair
+3600 IN MX 10 hub-uts
+3600 IN MX 10 hub-stm
+exch 3600 IN A 130.253.1.200
+ns8-app-info-net 600 IN A 209.119.221.141
+gw-columbine-0 3600 IN A 74.93.228.29
+s1024-2.bh._domainkey 3600 IN TXT "v=DKIM1; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgkAI0UYpRJYesUe8CEMk0IZ9LwZy0IrBU7YmgHM8LJfOCmILPsEhadYv5GRuWQHhJUnhJfpkeOwiRi+66VY8f0kxie7tEwblVy6FQsWmTSOSoVYufSjaF27DpaoIlP/74qi2lH6c/pOvZoPKB/Gix5umCrAXhBp++466zoaULrQIDAQAB"
+dcbsqlvm01 3600 IN A 130.253.7.181
+myweb2 600 IN A 130.253.2.85
+2b269477-ab5f-4449-a8d8-7a4d60dda305._msdcs 600 IN CNAME dc1law.law
+libguides 3600 IN CNAME v2.libguides.com.
+view 3600 IN CNAME view-nlb.cair
+sesquicentennial 600 IN CNAME sqc.staging.wpengine.com.
+uts 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+cup-uts 3600 IN A 10.246.200.40
+nsmbgbase 3600 IN A 130.253.4.184
+caerus 3600 IN A 130.253.2.178
+zephyr 600 IN A 130.253.1.59
+stm-evs-02 3600 IN A 130.253.1.59
+ahss 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+stm-evs-04 3600 IN A 130.253.1.74
+stm-evs-06-vlan4 3600 IN A 130.253.4.154
+stm-evs-06 3600 IN A 130.253.1.24
+devservices 3600 IN A 130.253.2.130
+inquire-green 3600 IN A 130.253.2.100
+www.pardee 3600 IN CNAME pardee
+adfs01 3600 IN A 130.253.1.155
+adfs02 3600 IN A 130.253.1.191
+counsel 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+loopback245-cs-baud-0 3600 IN A 192.168.245.254
+vcops 3600 IN A 130.253.7.35
+vum4view 3600 IN A 130.253.7.36
+vwutspxe1 3600 IN A 130.253.5.20
+mediaserver1 3600 IN A 130.253.99.16
+mediaserver2 3600 IN A 130.253.99.20
+hccpncapps 3600 IN A 130.253.19.11
+uniprint-gw 3600 IN A 130.253.3.134
+clearpass-stm-data 3600 IN A 130.253.5.226
+online.iaals 3600 IN CNAME wp.hosting.lexblog.com.
+mordac2 3600 IN A 130.253.1.53
+migratecms 3600 IN CNAME agora2.cair
+www.etl 3600 IN CNAME etl
+www.csbr 3600 IN CNAME www.nsm
+pioneerweb-portal5 3600 IN A 130.253.2.72
+PS-UTSTM-VL565 3600 IN A 130.253.8.254
+prodigal-1 3600 IN A 130.253.15.10
+PS-UTSTM-1-VL562 3600 IN A 130.253.8.60
+test365 3600 IN A 130.253.3.241
+bluepioneerweb 3600 IN A 130.253.2.126
+cuvc-uts 3600 IN A 130.253.99.7
+blackboard2 3600 IN CNAME helen-2.cair
+broadcast-dcuplink1-cidr26 3600 IN A 130.253.20.64
+gis.library 3600 IN CNAME gis-library
+bb5archive 3600 IN CNAME helen.cair
+scp 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+privacycenter 3600 IN CNAME privacycenter.cs
+www.lug 3600 IN CNAME lug.sturm
+view-db 3600 IN A 130.253.7.33
+PS-UTSTM-VL562 3600 IN A 130.253.8.62
+dnsf5 3600 IN A 130.253.1.156
+spruce 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+ducomm 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+alumni 600 IN MX 3 fe-ex.cair
+600 IN MX 10 potato.cair
+600 IN MX 5 hub-uts
+600 IN MX 5 hub-stm
+alumni 600 IN A 72.52.5.200
+newtestiris 3600 IN A 130.253.2.92
+www.epr-center 3600 IN CNAME epr-center
+alliance-fw03a-outside-coalliance 3600 IN A 130.253.21.106
+PS-UTSTM-VL23 3600 IN A 130.253.23.62
+www.legalinstitute 3600 IN A 72.10.38.60
+PS-UTSTM-VL30 3600 IN A 130.253.30.254
+PS-UTSTM-VL31 3600 IN A 130.253.31.254
+pctest 600 IN CNAME brogela.campus
+uts-sql01 3600 IN A 130.253.7.129
+Codian 3600 IN A 130.253.99.12
+_ldap._tcp.4fe8a186-c113-44a2-a4cc-3713afed2228.domains._msdcs 600 IN SRV 0 100 389 DC03DU
+600 IN SRV 0 100 389 DC02DU
+600 IN SRV 0 100 389 DC01DU
+network-dcuplink4-cidr26 3600 IN A 130.253.20.191
+kvdu 3600 IN CNAME kvdu.duc
+igoldreporting2 3600 IN CNAME eudora.cair
+lis-wcm 3600 IN A 130.253.4.221
+portfolio 600 IN CNAME portweb.cair
+www.spacesurvivability 3600 IN CNAME driserver1.nsme
+PS-UTSTM-1-10g-11-1 3600 IN A 130.253.20.62
+PS-UTSTM-1-10g-11-2 3600 IN A 130.253.20.190
+hccfiles 3600 IN A 130.253.19.12
+PS-UTSTM-0-VL23 3600 IN A 130.253.23.61
+traincms 3600 IN CNAME agora2.cair
+PS-UTSTM-0-VL30 3600 IN A 130.253.30.253
+gw-up-2-xe-1-1-0 3600 IN A 130.253.102.252
+_ldap._tcp.pdc._msdcs 600 IN SRV 0 100 389 DC01DU
+pioneercard 3600 IN CNAME 8550-server.fac
+assess-it 3600 IN CNAME assessweb.cair
+www.sesquicentennial 3600 IN CNAME sqc.staging.wpengine.com.
+wcmail 600 IN CNAME yam.cair
+ollie 3600 IN A 130.253.15.244
+af8ea935-d12a-4bc2-824c-0aef6e90bc92._msdcs 600 IN CNAME DC01CAIR.cair
+aisweb 3600 IN CNAME redcone.arf
+ldap-test 3600 IN A 130.253.2.55
+flashmedia 600 IN A 130.253.99.16
+videomanager-linux 3600 IN A 130.253.4.56
+PS-DCB-0-XE-5-5 3600 IN A 130.253.21.22
+devcms 3600 IN CNAME agora2.cair
+sqlvm01 3600 IN A 130.253.7.185
+xe-0-1-1.847.core-1200 3600 IN A 130.253.101.18
+sqlvm03 3600 IN A 130.253.7.187
+sqlvm04 3600 IN A 130.253.7.183
+sqlvm05 3600 IN A 130.253.7.182
+sqlvm06 3600 IN A 130.253.7.180
+iaals 3600 IN A 72.10.38.60
+tms 3600 IN A 130.253.99.15
+_ldap._tcp.dc._msdcs 600 IN SRV 0 100 389 DC03DU
+600 IN SRV 0 100 389 DC02DU
+600 IN SRV 0 100 389 DC01DU
+packetshaper 3600 IN CNAME procrustes.cair
+azuresync 3600 IN A 130.253.7.74
+facilities 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+oldflashmedia2 3600 IN A 130.253.99.6
+f5-vefloat 3600 IN A 130.253.3.139
+mail 3600 IN CNAME smtpin.cair
+pipeline 3600 IN CNAME kronos.cair
+testc-cure 3600 IN A 130.253.2.161
+www.environmentalsci 3600 IN CNAME environmentalsci
+www.give2du 3600 IN CNAME ponyexpress.wildwest
+www 600 IN CNAME odin.cair
+oldectd 3600 IN CNAME ctlweb
+eri-envmon01 3600 IN A 130.253.4.165
+mb5-uts 3600 IN A 130.253.7.76
+pioneerweb-portal2 3600 IN A 130.253.2.69
+spartanlm 3600 IN A 130.253.4.225
+securemail 3600 IN MX 10 SMTP.ZIXMAIL.NET.
+securemail 3600 IN A 63.71.15.188
+pioneerweb-portal3 3600 IN A 130.253.2.70
+itestflexreg 3600 IN CNAME testdaphne.cair
+blogs 3600 IN CNAME @
+newmedusa 3600 IN A 130.253.2.16
+olin 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+pioneerweb-portal4 3600 IN A 130.253.2.71
+sqlcl01-inst3 3600 IN A 130.253.7.135
+bbts-test 3600 IN A 130.253.1.73
+rmjhs 3600 IN CNAME 173-080.sturm
+skyhigh 3600 IN A 130.253.1.35
+network-vl564-cidr26 3600 IN A 130.253.8.128
+sqlcl01-inst5 3600 IN A 130.253.7.137
+maddogg 3600 IN A 130.253.3.73
+_ldap._tcp.Campus._sites.gc._msdcs 600 IN SRV 0 100 3268 DC03DU
+600 IN SRV 0 100 3268 DC02DU
+600 IN SRV 0 100 3268 DC03CAIR.cair
+600 IN SRV 0 100 3268 DC02CAIR.cair
+600 IN SRV 0 100 3268 DC01CAIR.cair
+600 IN SRV 0 100 3268 DC01DU
+600 IN SRV 0 100 3268 dc3law.law
+600 IN SRV 0 100 3268 DC5LAW.law
+_ldap._tcp.ERI._sites.gc._msdcs 600 IN SRV 0 100 3268 CURLY.cair
+server01 3600 IN A 10.246.7.10
+server02 3600 IN A 10.246.7.11
+server03 3600 IN A 10.246.7.12
+CS-STM-0-BB-10 3600 IN A 130.253.10.253
+CS-STM-0-BB-11 3600 IN A 130.253.11.253
+CS-STM-0-10g-9-1 3600 IN A 130.253.20.1
+CS-STM-0-10g-9-2 3600 IN A 130.253.20.65
+server08 3600 IN A 10.246.7.17
+mailt 3600 IN CNAME smtpin.cair
+uts-esx20 3600 IN A 130.253.7.40
+CS-MRB-0-XE-9-7 3600 IN A 130.253.21.9
+www.ifs 3600 IN A 130.253.4.31
+www.biology 3600 IN CNAME biology
+netserv 3600 IN A 130.253.253.125
+sccm-fs 3600 IN A 130.253.3.105
+library 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+library 3600 IN A 130.253.2.7
+daniels 3600 IN MX 3 fe-ex.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+3600 IN MX 10 potato.cair
+daniels 3600 IN A 72.44.254.80
+r7nexpose 3600 IN A 130.253.1.120
+www.servicelearning 3600 IN CNAME servicelearning.masscomm
+wiki2 3600 IN A 130.253.2.109
+bbts 600 IN A 130.253.1.230
+www.universitycollege 3600 IN CNAME nuggets.campus
+mailu 3600 IN CNAME smtpin.cair
+meeting 3600 IN A 130.253.4.106
+hvc01 3600 IN A 130.253.4.111
+hcpaw 3600 IN A 130.253.1.60
+staging 3600 IN CNAME agora2.cair
+sccm-fsdp1 3600 IN A 130.253.3.106
+persona 3600 IN A 130.253.1.194
+newmercury 3600 IN A 130.253.1.10
+cpnr-authdns-dhcp-phys-1 3600 IN A 130.253.5.5
+nextbb2 3600 IN CNAME chainsaw.cair
+network-cidr30-vlan840 3600 IN A 130.253.101.8
+ghostcast 3600 IN A 130.253.3.115
+network-cidr30-vlan846 3600 IN A 130.253.101.12
+igoldreportingtemp 3600 IN A 130.253.2.173
+du-access 3600 IN A 130.253.102.21
+CS-MRB-0-BB-11 3600 IN A 130.253.11.254
+CS-MRB-0-BB-12 3600 IN A 130.253.12.253
+PS-UTSTM-VL564 3600 IN A 130.253.8.190
+_sips._tcp 3600 IN SRV 10 10 5061 vcs-e
+connect 3600 IN CNAME du-connect
+tax 3600 IN A 130.253.2.7
+hccmgmt 3600 IN A 130.253.19.20
+shib 3600 IN A 130.253.1.23
+spacesurvivability 3600 IN CNAME driserver1.nsme
+otlweb2 3600 IN A 130.253.4.63
+www.webcentral 600 IN CNAME pioneerweb
+ysc 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+redesign 3600 IN CNAME ocmdev.duadmin
+PS-UTSTM-0-10g-11-1 3600 IN A 130.253.20.193
+agora 600 IN CNAME odin.cair
+beta.mme 3600 IN CNAME mme
+loopback103-gw-up-2 3600 IN A 192.168.103.254
+mordac 3600 IN A 130.253.1.44
+PS-UTSTM-VL595 3600 IN A 130.253.5.254
+prestancia.daniels 1200 IN A 130.253.68.11
+dataviz 3600 IN A 130.253.4.54
+geography 3600 IN A 130.253.2.7
+idatatransfer 3600 IN CNAME caerus
+network-cidr30-vlan896 3600 IN A 130.253.101.20
+notagora 3600 IN A 130.253.2.7
+network-cidr30-vlan898 3600 IN A 130.253.101.28
+goldpw_ldap01 3600 IN A 130.253.2.132
+vcenter 3600 IN A 130.253.7.51
+network-cidr29-perfsonar 3600 IN A 130.253.21.200
+universitycollege 3600 IN CNAME nuggets.campus
+iworkflow 3600 IN CNAME daphne.cair
+bb8demo 3600 IN CNAME bb8demo.cair
+bfa 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+blackboard6 3600 IN CNAME helen-2.cair
+huckinstein 3600 IN A 130.253.3.63
+ducopiers 3600 IN A 130.253.1.203
+speedtrap 3600 IN A 130.253.7.45
+hutch 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+fac-util 3600 IN A 130.253.4.50
+_sips._tls 3600 IN SRV 10 10 5061 vcs-e
+ic-cure 3600 IN CNAME c-cure
+69ecb184-059c-4a34-babd-9fcc34c7f1e7._msdcs 600 IN CNAME DC2Law.law
+mailc 3600 IN CNAME smtpin.cair
+CS-MRB-0-VL229 3600 IN A 130.253.229.254
+arf 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+vmwsso 3600 IN A 130.253.7.49
+_kerberos._tcp.Law._sites.dc._msdcs 600 IN SRV 0 100 88 DC03DU
+600 IN SRV 0 100 88 DC02DU
+600 IN SRV 0 100 88 DC01DU
+carereport 3600 IN CNAME redirector.maxient.com.
+maile 3600 IN CNAME smtpin.cair
+scom 3600 IN CNAME scomvm03
+_sip._udp.cup-scl1 3600 IN SRV 2 1 5060 cup-stm
+3600 IN SRV 1 1 5060 cup-uts
+ASH 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+videomanager-windows 3600 IN A 130.253.4.191
+med13 3600 IN CNAME web.cs
+clearpass-data-virtualip 3600 IN A 130.253.5.227
+testtheia 3600 IN A 130.253.2.144
+maila 3600 IN CNAME smtpin.cair
+core-1200-xe-0-1-1-vlan840-global 3600 IN A 130.253.101.10
+_h323ls._udp 3600 IN SRV 10 10 1719 vcs-e
+maild 3600 IN CNAME smtpin.cair
+callware-media 3600 IN A 130.253.40.132
+mailf 3600 IN CNAME smtpin.cair
+mailg 3600 IN CNAME smtpin.cair
+development 3600 IN A 130.253.2.130
+maili 3600 IN CNAME smtpin.cair
+mailj 3600 IN CNAME smtpin.cair
+love 3600 IN A 130.253.1.161
+maill 3600 IN CNAME smtpin.cair
+mailm 3600 IN CNAME smtpin.cair
+ducal 3600 IN CNAME odin.cair
+mailo 3600 IN CNAME smtpin.cair
+ccm 3600 IN CNAME ccm-uts.voip
+mailq 3600 IN CNAME smtpin.cair
+mailr 3600 IN CNAME smtpin.cair
+mails 3600 IN CNAME smtpin.cair
+harmonia 3600 IN A 130.253.2.186
+igreenlearning 3600 IN A 130.253.1.154
+fireeye 3600 IN MX 5 fe-ex.cair
+3600 IN MX 10 hub-stm
+3600 IN MX 10 hub-uts
+3600 IN MX 15 potato.cair
+mailw 3600 IN CNAME smtpin.cair
+daniels.development 3600 IN A 130.253.2.130
+gw-up-0-xe-2-1-0-perfsonar 3600 IN A 130.253.21.206
+dcb-evs-07-17 3600 IN A 130.253.17.41
+perspectivehouse 3600 IN CNAME perspectivehouse.masscomm
+www.astronomy 3600 IN CNAME www.nsm
+wsus-fs 3600 IN A 130.253.3.9
+callware 3600 IN A 130.253.40.101
+cube-w1 3600 IN CNAME cube-w1.campus
+mb6-stm 3600 IN A 130.253.7.77
+5050-kiosk1 3600 IN A 130.253.81.227
+mailn 3600 IN CNAME smtpin.cair
+gamecamp 3600 IN A 130.253.191.23
+secs 3600 IN A 130.253.2.7
+masscomm 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+nntp 600 IN CNAME uts-time.cair
+www.alumni 300 IN A 72.52.5.200
+view-nlb 3600 IN A 130.253.1.164
+idcdb1 3600 IN A 130.253.1.213
+ectd 3600 IN A 130.253.4.204
+CHN 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+f5blue 3600 IN A 130.253.3.16
+ikronos 3600 IN A 130.253.2.74
+CHS 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+testgradadmissions 3600 IN A 130.253.2.7
+viewcomp 3600 IN A 130.253.7.16
+bch-rothman 3600 IN CNAME 232-099.bmc
+webteam 3600 IN CNAME devhaproxy-float.cair
+mapserver 3600 IN A 130.253.4.185
+roomview 3600 IN A 130.253.4.115
+environmentalsci 3600 IN A 130.253.2.7
+slider-ob2 3600 IN A 130.253.1.175
+kcrcagis 3600 IN CNAME nlectc-ims.nlectc
+myhealth 3600 IN A 130.253.21.147
+printers 3600 IN CNAME printers.cair
+dcb 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+mailout 3600 IN CNAME yam.cair
+mailv 3600 IN CNAME smtpin.cair
+flashmedia2 600 IN A 130.253.4.190
+lib-mms 3600 IN A 130.253.4.67
+myvoicemail 3600 IN CNAME cuc
+testprometheus 3600 IN A 130.253.2.143
+wrangler 3600 IN A 130.253.3.120
+testveritas 3600 IN A 130.253.2.229
+sqlcl01-inst2 3600 IN A 130.253.7.134
+loopback102-gw-up-0 3600 IN A 192.168.102.254
+dcs 3600 IN CNAME dcs-web.dcs
+mailx 3600 IN CNAME smtpin.cair
+grid-poc1 3600 IN A 130.253.7.53
+vctest-vum 3600 IN A 130.253.7.56
+studentlife 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+learning 3600 IN CNAME nuggets.campus
+maily 3600 IN CNAME smtpin.cair
+cms 3600 IN A 130.253.2.7
+broadcast-vl563-cidr26 3600 IN A 130.253.8.127
+network-cidr28-voip 3600 IN A 130.253.21.128
+shares 3600 IN A 130.253.1.22
+mailz 3600 IN CNAME smtpin.cair
+www.llc 3600 IN CNAME llc.masscomm
+giftplanning 3600 IN A 69.175.21.35
+desire 3600 IN A 130.253.1.183
+dcswww08 3600 IN A 130.253.4.59
+www.nano 3600 IN CNAME web.cs
+broadcast-vl564-cidr26 3600 IN A 130.253.8.191
+listserv 300 IN CNAME mailman.cair
+www.soc 600 IN A 130.253.2.7
+testrecord8 3600 IN A 10.8.8.8
+lkosten 3600 IN CNAME 208-202.duadmin
+myweb 3600 IN A 130.253.2.35
+whatsupgold-temp 3600 IN A 130.253.253.105
+PS-UTSTM-0-VL562 3600 IN A 130.253.8.61
+PS-UTSTM-0-VL563 3600 IN A 130.253.8.125
+PS-UTSTM-0-VL564 3600 IN A 130.253.8.189
+PS-UTSTM-0-VL565 3600 IN A 130.253.8.253
+natnet 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+devwiki 3600 IN A 130.253.2.181
+testiclm 3600 IN CNAME testFortuna.cair
+prime-infra-temp 3600 IN A 130.253.253.108
+PS-UTSTM-0-VL5 3600 IN A 130.253.5.29
+_adsp._domainkey 86400 IN TXT "dkim=~"
+LamontMusic 3600 IN CNAME lamontMusic.pac
+ssrrc 3600 IN CNAME web.cs
+canvas 3600 IN CNAME du-vanity.instructure.com.
+testmyweb2 3600 IN A 130.253.2.98
+DKH 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+mb1-uts 3600 IN A 130.253.7.70
+itil 3600 IN A 130.253.2.114
+cuc 3600 IN CNAME cuc-stm.voip
+ece 3600 IN A 130.253.2.7
+cto 3600 IN CNAME ctlweb
+CTS 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+xe-2-0-0.898.core-l3 3600 IN A 130.253.101.30
+blackboard 600 IN A 130.253.1.63
+testchiron 3600 IN A 130.253.2.166
+dricomp2 3600 IN CNAME dricomp2.campus
+catalog 3600 IN CNAME bianca.penlib
+_ldap._tcp.Law._sites 600 IN SRV 0 100 389 DC03DU
+600 IN SRV 0 100 389 DC02DU
+600 IN SRV 0 100 389 DC01DU
+hemera 3600 IN A 130.253.2.149
+CP 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+dms 3600 IN A 130.253.2.7
+cs 3600 IN A 130.253.8.41
+servicelearning 3600 IN CNAME servicelearning.masscomm
+hccpnc2 3600 IN A 130.253.19.7
+kline 3600 IN A 130.253.1.180
+Videodatabase 3600 IN A 130.253.99.5
+k2 3600 IN A 130.253.4.42
+PS-DCB-0-XE-6-5 3600 IN A 130.253.21.14
+ctms-uts 3600 IN A 130.253.99.8
+clearpass-uts-mgmt 3600 IN A 130.253.253.138
+recintranet 3600 IN A 130.253.4.81
+www.mme 3600 IN CNAME mme
+www.chemistry 3600 IN CNAME chemistry
+digital.library 600 IN CNAME lib-digitaldu.cair
+testcms 3600 IN CNAME minos2.cair
+recordsmanagement 3600 IN CNAME lib-recmgmt.cair
+dushares 3600 IN A 130.253.1.217
+fs 3600 IN A 130.253.1.192
+testwrangler 3600 IN A 130.253.3.55
+remotepc 60 IN CNAME passion.cair
+apps 600 IN TXT "google-site-verification:q1sYh93EPEFMZkApy3wLBYbLDBBfHj8oW2fBLHfgWok"
+dulm 3600 IN A 130.253.3.107
+go 3600 IN A 130.253.2.7
+dri 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+tegrity 3600 IN CNAME tegrity.cair
+fac 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+slife 3600 IN MX 10 potato.cair
+slife 3600 IN A 130.253.4.100
+www.privacycenter 3600 IN CNAME privacycenter.cs
+teebox 600 IN A 130.253.3.32
+www.wommenscollege 600 IN CNAME odin.cair
+whatsup 3600 IN A 130.253.253.137
+Mesembria 3600 IN A 130.253.2.122
+korbel-future 600 IN A 173.255.236.63
+DTH 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+www.forensics 3600 IN CNAME www.nsm
+duc 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+www.learning 3600 IN CNAME nuggets.campus
+smc-ts 3600 IN A 130.253.5.27
+vc-gateway 3600 IN A 130.253.99.1
+danielswm 600 IN CNAME teebox
+www.sign 3600 IN CNAME cobalt.sgm-south
+admission 3600 IN CNAME cluster2.technolutions.net.
+ritchieschool 600 IN A 173.255.236.63
+sdxdu 3600 IN A 130.253.201.20
+DU-DAG 3600 IN A 130.253.7.75
+lm 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+webgate 3600 IN A 130.253.2.40
+nano 3600 IN CNAME web.cs
+fmsds2 3600 IN A 130.253.99.14
+hv02 3600 IN A 130.253.39.11
+prometheus 3600 IN A 130.253.2.105
+google2010 3600 IN A 130.253.1.190
+google2012 3600 IN A 130.253.1.20
+PS-UTSTM-1-VL23 3600 IN A 130.253.23.60
+google2014 3600 IN A 130.253.1.9
+weboutlookf5 3600 IN A 130.253.7.80
+0c7fc723-df68-4c7e-a202-36f75d875f69._msdcs 600 IN CNAME DC02DU
+duprinters 3600 IN A 130.253.1.219
+websearch 3600 IN CNAME taurus.cair
+sonexis-35qspik 3600 IN A 130.253.40.131
+newwiki 3600 IN A 130.253.2.199
+bomgar 3600 IN A 130.253.5.24
+PS-UTSTM-1-VLAN17 3600 IN A 130.253.17.252
+du2sl 3600 IN CNAME web.cs
+testredx 3600 IN A 130.253.2.36
+wsus-cops 3600 IN A 130.253.3.28
+webcentral 600 IN A 130.253.2.51
+eri 3600 IN A 130.253.2.7
+network-cidr26-vdi 3600 IN A 130.253.23.62
+changeup 3600 IN A 130.253.1.195
+9a64ee38-102c-4f7b-8014-2658f7796566._msdcs 600 IN CNAME DC5LAW.law
+lib-moon 3600 IN A 130.253.4.96
+idcdb2 3600 IN A 130.253.1.214
+etl 3600 IN A 72.10.38.60
+rt 3600 IN CNAME trevor.cair
+PS-UTSTM-0-10g-11-2 3600 IN A 130.253.20.126
+bansvr1 3600 IN CNAME bansvr1.cair
+bansvr2 3600 IN CNAME bansvr1.cair
+PS-UTSTM-0-VL31 3600 IN A 130.253.31.253
+dorptr 3600 IN CNAME dorptr.duc
+www.parking 600 IN CNAME dcswww03.dcs
+vb 3600 IN A 130.253.1.197
+vc 3600 IN A 130.253.7.46
+_vlmcs._tcp 3600 IN SRV 0 0 1688 mva
+phys 3600 IN MX 10 potato.cair
+3600 IN MX 1 fox.phys
+phys 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+3600 IN NS fox.phys
+phys 3600 IN A 130.253.240.24
+kooning 3600 IN A 130.253.4.12
+staiertcentral 3600 IN CNAME artemis.cair
+testifsaatlas 3600 IN CNAME testchiron
+uts-nlb01-vl566 3600 IN A 130.253.7.78
+imagine 3600 IN CNAME imaginedu.wpengine.com.
+imaging 3600 IN A 130.253.1.32
+pioneerweb-admin 3600 IN A 130.253.2.67
+_ldap._tcp.gc._msdcs 600 IN SRV 0 100 3268 DC03DU
+600 IN SRV 0 100 3268 DC03CAIR.cair
+600 IN SRV 0 100 3268 DC02CAIR.cair
+600 IN SRV 0 100 3268 DC02DU
+600 IN SRV 0 100 3268 DC01CAIR.cair
+600 IN SRV 0 100 3268 DC01DU
+600 IN SRV 0 100 3268 dc3law.law
+600 IN SRV 0 100 3268 DC5LAW.law
+600 IN SRV 0 100 3268 dc1law.law
+600 IN SRV 0 100 3268 DC2Law.law
+vcenter-db 3600 IN A 130.253.7.50
+mysql02 3600 IN A 130.253.2.180
+outage 3600 IN A 130.253.2.37
+cube-w0 3600 IN CNAME cube-w0.campus
+corral 3600 IN A 130.253.4.61
+ivpn 600 IN A 10.242.1.1
+600 IN A 10.243.1.1
+webwise2011.library 600 IN CNAME library1
+broadcast-vl562-cidr26 3600 IN A 130.253.8.63
+gw-up-0-xe-0-0-0-4-vlan846-research 3600 IN A 130.253.101.13
+CS-STM-0-BB-9 3600 IN A 130.253.9.254
+git 3600 IN A 130.253.2.106
+weboutages 3600 IN A 130.253.2.182
+devwebgate 3600 IN A 130.253.2.135
+cair 3600 IN NS cpnr-authdns-dhcp-phys-1
+3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS ns4.p24.dynect.net.
+3600 IN NS ns3.p24.dynect.net.
+3600 IN NS ns2.p24.dynect.net.
+3600 IN NS ns1.p24.dynect.net.
+26a63e94-93d8-4e50-9079-f6a2633d250a._msdcs 600 IN CNAME DC03CAIR.cair
+webcam.ftp 3600 IN A 130.253.253.106
+pcpilot 600 IN CNAME dingo.campus
+www.morgridge 3600 IN CNAME mceuofdenver.wpengine.com.
+scopy 3600 IN A 130.253.3.60
+www.signup.recreation 600 IN CNAME webtrac.campus
+peak 3600 IN CNAME bianca.penlib
+ftp 3600 IN CNAME ec2-54-241-49-128.us-west-1.compute.amazonaws.com.
+reservedfornbu 3600 IN A 130.253.2.23
+PS-UTSTM-VL563 3600 IN A 130.253.8.126
+www.LamontMusic 3600 IN CNAME LamontMusic
+broadcast-a-coalliance 3600 IN A 130.253.21.111
+call 3600 IN CNAME ccm-uts.voip
+hdi 3600 IN A 130.253.1.133
+_gc._tcp 600 IN SRV 0 100 3268 DC03DU
+600 IN SRV 0 100 3268 DC03CAIR.cair
+600 IN SRV 0 100 3268 DC02CAIR.cair
+600 IN SRV 0 100 3268 DC02DU
+600 IN SRV 0 100 3268 DC01CAIR.cair
+600 IN SRV 0 100 3268 DC01DU
+600 IN SRV 0 100 3268 dc3law.law
+600 IN SRV 0 100 3268 DC5LAW.law
+600 IN SRV 0 100 3268 dc1law.law
+600 IN SRV 0 100 3268 DC2Law.law
+dcb-evs-07 3600 IN A 130.253.1.37
+educatingtomorrowslawyers 3600 IN A 72.10.38.60
+gms 3600 IN CNAME zeus.maint
+fmsds 3600 IN A 130.253.99.13
+localhost 3600 IN A 127.0.0.1
+currentbulletin 3600 IN CNAME du-curr.courseleaf.com.
+www.ifsprev 3600 IN CNAME ifsprev.campus
+olddebate2012 3600 IN A 130.253.3.118
+adfsnlb 3600 IN A 130.253.1.192
+gw-echolake-0 3600 IN A 75.104.113.245
+tempportfolio 600 IN A 130.253.1.163
+rothko 3600 IN A 130.253.4.46
+testotlweb2 3600 IN A 130.253.4.110
+mailb 3600 IN CNAME smtpin.cair
+loerke-ra1 3600 IN CNAME 144-069.physics
+duhcc 3600 IN A 130.253.19.18
+Vx570-2-nagel-freeaccess 3600 IN A 130.253.194.2
+sqlcl01-isnt2 3600 IN A 130.253.7.134
+sqlvm02 3600 IN A 130.253.7.186
+lust 3600 IN A 130.253.1.162
+clearpass-stm-mgmt 3600 IN A 130.253.253.139
+www.educatingtomorrowslawyers 3600 IN CNAME educatingtomorrowslawyers
+casl 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+casl 3600 IN A 130.253.5.1
+cpnr-authdns-dhcp-vm-1 3600 IN A 130.253.5.4
+vSaturn 3600 IN A 130.253.3.127
+sqlcl01-inst4 3600 IN A 130.253.7.136
+loopback242-cs-uts-0 3600 IN A 192.168.242.254
+clearpass 3600 IN A 130.253.5.227
+testibanner 3600 IN A 130.253.2.96
+cpnr-c-vm-1 3600 IN A 130.253.5.2
+CS-UTS-0-BB-10 3600 IN A 130.253.10.254
+CS-UTS-0-BB-12 3600 IN A 130.253.12.254
+CS-UTS-0-BB-13 3600 IN A 130.253.13.254
+sqlsandbox 3600 IN A 130.253.3.15
+sqlcl01-vcs 3600 IN A 130.253.7.131
+network-dcuplink3-cidr26 3600 IN A 130.253.20.63
+CS-UTS-0-XE-12-1 3600 IN A 130.253.21.17
+vpn-external 3600 IN A 130.253.102.9
+mailp 3600 IN CNAME smtpin.cair
+HFA 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+www.gtac 3600 IN CNAME gtac
+www.natnet 3600 IN CNAME jusfa.natnet
+ilearning 3600 IN A 130.253.1.63
+ifs 3600 IN A 130.253.4.31
+testgoogle 3600 IN A 130.253.1.38
+kimble 3600 IN A 130.253.4.155
+NSM-FW-0-GE-0-V591 3600 IN A 130.253.21.46
+broadcast-dcuplink2-cidr26 3600 IN A 130.253.20.192
+GW-UP-0-ge-2-0-7-coalliance 3600 IN A 130.253.21.110
+epr-center 3600 IN A 130.253.2.7
+fac-work-orders 3600 IN A 130.253.4.166
+sharepoint.chemistry 3600 IN CNAME nsm-web10.vm.nsm
+_ldap._tcp.ERI._sites.ForestDnsZones 600 IN SRV 0 100 389 nsm-dc11.nsm
+600 IN SRV 0 100 389 nsm-dc21.nsm
+inquire 3600 IN A 130.253.2.39
+parlance 3600 IN A 130.253.253.104
+ForestDnsZones 600 IN A 130.253.107.1
+600 IN A 130.253.107.3
+600 IN A 130.253.166.34
+600 IN A 130.253.166.46
+600 IN A 130.253.166.41
+600 IN A 130.253.166.151
+600 IN A 130.253.166.42
+_gc._tcp.Law._sites 600 IN SRV 0 100 3268 DC5LAW.law
+600 IN SRV 0 100 3268 dc3law.law
+600 IN SRV 0 100 3268 dc1law.law
+600 IN SRV 0 100 3268 DC2Law.law
+blackhole 3600 IN MX 5 potato.cair
+fourwinds 3600 IN A 130.253.4.186
+1b34923d-6dce-43ab-9abc-97c023bc5fff._msdcs 600 IN CNAME DC03DU
+igreenreporting 3600 IN CNAME greenharmonia
+PS-UTSTM-1-VL5 3600 IN A 130.253.5.28
+ctlweb 3600 IN A 130.253.4.220
+igoldreporting2temp 3600 IN A 130.253.2.172
+buzzchurn 3600 IN A 130.253.4.108
+support 600 IN A 130.253.2.113
+cup-stm 3600 IN A 10.246.200.41
+xe-2-0-0.896.core-l3 3600 IN A 130.253.101.22
+Triad-research 3600 IN A 130.253.4.65
+ibanner2 3600 IN A 130.253.2.142
+www.parents 3600 IN A 130.253.4.100
+mediamanager 3600 IN A 130.253.4.189
+dspbooks 3600 IN CNAME otlweb2
+remoteview 3600 IN CNAME passion.cair
+ifsaatlas 3600 IN CNAME chiron
+igoldreporting 3600 IN CNAME goldharmonia
+safeconnect 3600 IN A 198.31.193.211
+purplepioneerweb 3600 IN A 130.253.2.41
+soc 600 IN A 130.253.2.7
+alliance-fw03-outside-coalliance 3600 IN A 130.253.21.105
+gw-glenwood-0 3600 IN A 130.253.21.198
+stm-esx21 3600 IN A 130.253.7.41
+core-l3-xe-2-0-0-vlan898-research 3600 IN A 130.253.101.30
+twc 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+aura 3600 IN A 130.253.2.170
+stm-esx23 3600 IN A 130.253.7.43
+_kpasswd._tcp 600 IN SRV 0 100 464 DC03DU
+600 IN SRV 0 100 464 DC02DU
+600 IN SRV 0 100 464 DC01DU
+ns7-app-info-net 600 IN A 68.142.178.7
+iclockwork 3600 IN CNAME aura
+_kerberos._udp 600 IN SRV 0 100 88 DC03DU
+600 IN SRV 0 100 88 DC02DU
+600 IN SRV 0 100 88 DC01DU
+gw-up-hsrp-xe-1-1-0 3600 IN A 130.253.102.254
+testibanner2 3600 IN A 130.253.2.120
+rwc-5050 3600 IN A 130.253.4.85
+magazine 3600 IN A 173.255.236.63
+Kasenna 3600 IN A 130.253.99.3
+m.devweb 3600 IN A 130.253.2.11
+vcopsanalytics 3600 IN A 130.253.7.34
+search1 86400 IN CNAME google2014
+walk 3600 IN A 130.253.1.211
+PS-UTSTM-1-VL30 3600 IN A 130.253.30.252
+gtac 3600 IN A 130.253.2.7
+hub-stm 3600 IN A 130.253.7.69
+callware1 3600 IN CNAME callware1.cair
+callware2 3600 IN CNAME callware2.cair
+gsis 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+public 3600 IN CNAME orion.cair
+m.development 3600 IN A 130.253.2.130
+www.tax 3600 IN CNAME tax
+ptir-2.0 3600 IN A 130.253.4.199
+tvwdcsnvr1 3600 IN A 130.253.4.39
+devnul 3600 IN CNAME blackhole
+ritchiecenter 3600 IN A 130.253.4.82
+network-vl565-cidr26 3600 IN A 130.253.8.192
+grandprix-dtc 3600 IN A 130.253.7.48
+vbrick-dme 3600 IN A 130.253.99.10
+_ldap._tcp 600 IN SRV 0 100 389 DC03DU
+600 IN SRV 0 100 389 DC02DU
+600 IN SRV 0 100 389 DC01DU
+testmysql02 3600 IN A 130.253.2.179
+penlib 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+penlib 3600 IN A 130.253.32.62
+devveritas 3600 IN A 130.253.2.90
+_ldap._tcp.Law._sites.dc._msdcs 600 IN SRV 0 100 389 DC03DU
+600 IN SRV 0 100 389 DC02DU
+600 IN SRV 0 100 389 DC01DU
+m.webteam 3600 IN CNAME devhaproxy-float.cair
+chancellor 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+particle 3600 IN A 130.253.7.222
+JSH 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+viewf5 3600 IN A 130.253.1.168
+igoldlearning 600 IN A 130.253.1.39
+broadcast-cidr30-vlan840 3600 IN A 130.253.101.11
+_kpasswd._udp 600 IN SRV 0 100 464 DC03DU
+600 IN SRV 0 100 464 DC02DU
+600 IN SRV 0 100 464 DC01DU
+_sip._tcp.cup-cl 3600 IN SRV 2 1 5060 cup-stm
+3600 IN SRV 1 1 5060 cup-uts
+fddi 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+broadcast-cidr30-vlan846 3600 IN A 130.253.101.15
+incidentreport 3600 IN CNAME redirector.maxient.com.
+law 3600 IN NS dc1law.law
+3600 IN NS dc2law.law
+hcc-one 3600 IN A 130.253.19.19
+gw-up-2-xe-0-0-0-1-vlan896-global 3600 IN A 130.253.101.21
+curveball-ob2 3600 IN A 130.253.1.174
+teehee 3600 IN A 130.253.2.93
+sec-nelsondoors1-uts-idcard 3600 IN A 10.242.20.43
+www.ifsdev 3600 IN CNAME test-ifs1.campus
+evpn-private-s 3600 IN A 130.253.254.8
+admissions 600 IN A 130.253.2.7
+_kerberos._tcp.Campus._sites.dc._msdcs 600 IN SRV 0 100 88 DC03DU
+600 IN SRV 0 100 88 DC02DU
+600 IN SRV 0 100 88 DC01DU
+reg25web 3600 IN CNAME reg25web.cair
+PS-UTSTM-1-VL563 3600 IN A 130.253.8.124
+www.housing 3600 IN CNAME penguin.duc
+gsswinternships 3600 IN A 130.253.4.198
+loopback59-ps-dcb-0 3600 IN A 192.168.59.254
+candyland 3600 IN A 130.253.1.193
+_ldap._tcp.Campus._sites 600 IN SRV 0 100 389 DC03DU
+600 IN SRV 0 100 389 DC02DU
+600 IN SRV 0 100 389 DC01DU
+PS-UTSTM-1-VL565 3600 IN A 130.253.8.252
+video 3600 IN CNAME duvideo.campus
+network-vl563-cidr26 3600 IN A 130.253.8.64
+testhemera 3600 IN A 130.253.2.171
+PS-UTSTM-VLAN17 3600 IN A 130.253.17.254
+broadcast-cidr30-vlan896 3600 IN A 130.253.101.23
+legalinstitute 3600 IN A 72.10.38.60
+broadcast-cidr30-vlan898 3600 IN A 130.253.101.31
+clearpass-uts-idrac7 3600 IN A 10.15.242.32
+remotepc2 3600 IN A 130.253.1.160
+testview 3600 IN A 130.253.2.12
+PS-UTSTM-1-VL121 3600 IN A 130.253.121.252
+_sip._tcp.cup-scl1 3600 IN SRV 2 1 5060 cup-stm
+3600 IN SRV 1 1 5060 cup-uts
+testcentral 600 IN CNAME bart.cair
+broadcast 3600 IN HINFO "ETHER" "IP-BROADCAST"
+broadcast 3600 IN A 130.253.255.255
+517a7c6e-4352-46eb-ac1a-7b81868eb482._msdcs 600 IN CNAME dc3law.law
+lis 3600 IN CNAME lis.campus
+m.stage 3600 IN A 130.253.2.140
+itestkronos 3600 IN A 130.253.2.75
+llc 3600 IN A 130.253.4.75
+itestworkflow 3600 IN CNAME testdaphne.cair
+GW-UP-0-ge2-0-1-cs 3600 IN A 130.253.21.126
+uts-evs-01 3600 IN A 130.253.1.32
+vicki-myhren-gallery 600 IN A 173.255.236.63
+vc4view 3600 IN A 130.253.7.32
+cpnr-c-phys-1 3600 IN A 130.253.5.3
+mb3-stm 3600 IN A 130.253.7.72
+capture 3600 IN A 130.253.4.190
+_gc._tcp.ERI._sites 600 IN SRV 0 100 3268 CURLY.cair
+igreenreportingtemp 3600 IN A 130.253.2.174
+womenscollegetest 600 IN A 130.253.2.7
+psm 3600 IN A 130.253.2.221
+grandprix 3600 IN A 130.253.7.47
+_kerberos._tcp.Campus._sites 600 IN SRV 0 100 88 DC03DU
+600 IN SRV 0 100 88 DC02DU
+600 IN SRV 0 100 88 DC01DU
+MFH 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+engr 3600 IN MX 10 potato.cair
+3600 IN MX 1 bigbird.engr
+engr 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+3600 IN NS bigbird.engr
+engr 3600 IN A 130.253.128.30
+testcleon 3600 IN A 130.253.2.49
+gw-hrgc-0 3600 IN A 70.89.164.129
+bn4hfz1-pc 3600 IN CNAME 15-117.uts
+file01 3600 IN A 130.253.39.12
+mms.library 3600 IN CNAME lib-mms
+giving 3600 IN CNAME www.giving
+iclm 3600 IN CNAME fortuna.cair
+uhall 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+shibboleth 3600 IN A 130.253.1.66
+info-dns 3600 IN CNAME mars.cair
+loopback243-cs-stm-0 3600 IN A 192.168.243.254
+network-a-cidr29-coalliance 3600 IN A 130.253.21.104
+cs-uts-0-vlan254 3600 IN A 130.253.254.253
+search 86400 IN CNAME google2014
+otllti 3600 IN A 130.253.3.121
+telecomtools 3600 IN A 130.253.253.109
+gw-up-0-xe-0-1-0 3600 IN A 130.253.101.1
+sec-nelsondoors2-uts-idcard 3600 IN A 10.242.20.44
+time 3600 IN CNAME time.cair
+_ldap._tcp.Law._sites.ForestDnsZones 600 IN SRV 0 100 389 dc4law.law
+600 IN SRV 0 100 389 DC5LAW.law
+600 IN SRV 0 100 389 dc3law.law
+600 IN SRV 0 100 389 dc1law.law
+600 IN SRV 0 100 389 DC2Law.law
+hdi-test 3600 IN A 130.253.1.89
+mediashare 3600 IN A 130.253.99.19
+mme 3600 IN A 130.253.2.7
+stacie 3600 IN CNAME stacie.cair
+transforming 3600 IN A 130.253.2.7
+kgroup 3600 IN CNAME urizen-chemistry.nsm
+495430a0-08f1-4613-8fca-0e47407004a6._msdcs 600 IN CNAME dc3law.law
+clockwork 3600 IN CNAME aura
+_domainkey 3600 IN TXT "o=~\\; r=postmaster@du.edu"
+vbrick-vems 3600 IN A 130.253.99.9
+duadmin 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+duadmin 3600 IN A 130.253.208.1
+ops-winxpx86 3600 IN A 130.253.3.136
+du-perfsonar 3600 IN A 130.253.21.201
+icm 3600 IN A 130.253.40.131
+scomvm03 3600 IN A 130.253.3.49
+www.kcrcagis 3600 IN CNAME nlectc-ims.nlectc
+www.vicki-myhren-gallery 600 IN A 173.255.236.63
+stage 3600 IN A 130.253.2.140
+PS-UTSTM-1-VL595 3600 IN A 130.253.5.252
+hub-uts 3600 IN A 130.253.7.68
+sec-Ruff-nent-uts-idcard 3600 IN A 10.242.20.32
+recreation 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+recreation 3600 IN A 130.253.2.7
+proficio 3600 IN A 130.253.1.206
+clearpass-stm-idrac7 3600 IN A 10.15.242.33
+loanmanagement 3600 IN CNAME copia.cair
+qtest 3600 IN A 130.253.3.123
+ireporting 600 IN CNAME harmonia
+DSC-FChaconDT01 3600 IN CNAME 195-069-stm.freeaccess
+biology 3600 IN A 130.253.2.7
+dunet 600 IN CNAME taurus.cair
+_pcoip-tool._tcp 600 IN SRV 0 0 79 pcoip.cair
+f5-ve1 3600 IN A 130.253.3.137
+f5-ve2 3600 IN A 130.253.3.138
+clearpass-stm 3600 IN A 130.253.5.226
+private 600 IN CNAME odin.cair
+harpocrates 3600 IN A 130.253.2.46
+hccrdp1 3600 IN A 130.253.19.61
+hccrdp2 3600 IN A 130.253.19.62
+hccrdp3 3600 IN A 130.253.19.63
+m.library 600 IN CNAME library1
+_ldap._tcp.Campus._sites.ForestDnsZones 600 IN SRV 0 100 389 dc3law.law
+600 IN SRV 0 100 389 dc4law.law
+600 IN SRV 0 100 389 DC5LAW.law
+600 IN SRV 0 100 389 dc1law.law
+600 IN SRV 0 100 389 DC2Law.law
+_ldap._tcp.2404d23f-d827-472f-86b8-ad0852d72252.domains._msdcs 600 IN SRV 0 100 389 dc3law.law
+600 IN SRV 0 100 389 DC5LAW.law
+600 IN SRV 0 100 389 dc1law.law
+600 IN SRV 0 100 389 DC2Law.law
+homerun 3600 IN A 130.253.1.243
+apollo 3600 IN CNAME apollo.cair
+mneme 3600 IN A 130.253.3.57
+darthsidious 3600 IN A 130.253.3.133
+zixvpm 3600 IN MX 10 zixgateway02.cair
+3600 IN MX 10 zixgateway01.cair
+CTN 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+alliance-fw03b-outside-coalliance 3600 IN A 130.253.21.107
+mva 3600 IN A 130.253.3.99
+knox 3600 IN CNAME 196-073-mrb.freeaccess
+veritas 3600 IN A 130.253.1.114
+ocm 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+chemistry 3600 IN A 130.253.2.7
+ldap 600 IN A 130.253.2.118
+Vx570-1-nagel-freeaccess 3600 IN A 130.253.194.1
+igreenreporting2temp 3600 IN A 130.253.2.175
+_ldap._tcp.ForestDnsZones 600 IN SRV 0 100 389 nsm-dc11.nsm
+600 IN SRV 0 100 389 nsm-dc21.nsm
+600 IN SRV 0 100 389 dc3law.law
+600 IN SRV 0 100 389 dc4law.law
+600 IN SRV 0 100 389 DC5LAW.law
+600 IN SRV 0 100 389 dc1law.law
+600 IN SRV 0 100 389 DC2Law.law
+gw-up-2-xe-0-0-0-5-vlan898-research 3600 IN A 130.253.101.29
+futurecentral 3600 IN CNAME ariadne.cair
+testgaia 3600 IN CNAME itestkronos
+coursemedia 3600 IN CNAME wallaroo.campus
+pioneerweb-portal1 3600 IN A 130.253.2.68
+vcops4view 3600 IN A 130.253.7.38
+CS-STM-0-VL77 3600 IN A 130.253.5.62
+gradadmissions 3600 IN CNAME cluster2.technolutions.net.
+PS-UTSTM-0-VL595 3600 IN A 130.253.5.253
+dashboards 3600 IN CNAME app.cyfe.com.
+darkstar 3600 IN A 130.253.15.45
+hccts 3600 IN A 130.253.19.3
+infosectest 3600 IN A 130.253.15.239
+FIN-pxu3 1200 IN AAAA 2002:82fd:440a::82fd:440a
+FIN-pxu3 1200 IN A 130.253.68.10
+FIN-pxu4 1200 IN AAAA 2002:82fd:440a::82fd:440a
+FIN-pxu4 1200 IN A 130.253.68.10
+zeal 3600 IN A 130.253.1.163
+ucollege 3600 IN CNAME cname.bit.ly.
+update 3600 IN A 130.253.1.1
+www.womenscollege 600 IN CNAME odin.cair
+crewchief 3600 IN A 130.253.7.44
+cup 3600 IN CNAME cup-uts
+strikeout 3600 IN A 130.253.1.218
+CS-STM-0-GE-3-12 3600 IN A 130.253.21.1
+du-connect 3600 IN A 130.253.4.105
+vcstest 3600 IN CNAME vcstest.cair
+webcam 3600 IN A 130.253.253.107
+testcentralgold 3600 IN CNAME ariadne.cair
+PS-UTSTM-VL5 3600 IN A 130.253.5.30
+signup.recreation 600 IN CNAME webtrac.campus
+irene 3600 IN CNAME irene.cair
+digitalpioneers.library 600 IN CNAME library1
+gw-up-2-xe-0-1-0 3600 IN A 130.253.101.2
+legal 3600 IN MX 3 fe-ex.cair
+3600 IN MX 10 potato.cair
+3600 IN MX 5 hub-stm
+3600 IN MX 5 hub-uts
+relay 3600 IN CNAME potato.cair
+hv01 3600 IN A 130.253.39.10
+hpc-io 3600 IN A 130.253.21.116
+rhea 3600 IN CNAME rhea.cair
+f5-ve1-mgmt 3600 IN A 130.253.7.21
+nextbb 3600 IN CNAME igreenlearning
+broadcast-cidr30-gwlink 3600 IN A 130.253.101.3
+spss 3600 IN A 130.253.4.107
+rowdy 3600 IN CNAME rowdy.campus
+ulsftp 3600 IN A 130.253.4.144
+PS-LAW-0-GE-X-Y 3600 IN A 130.253.21.6
+sndiscover 3600 IN A 130.253.2.32
+DC01DU 3600 IN A 130.253.1.64
+weboutlook 600 IN A 130.253.7.67
+cs-stm-0-vlan254 3600 IN A 130.253.254.252
+TestMyWeb 3600 IN A 130.253.2.33
+ascend 3600 IN A 130.253.2.7
+stm-sql01 3600 IN A 130.253.7.130
+exchange 600 IN MX 3 fe-ex.cair
+600 IN MX 10 potato.cair
+600 IN MX 5 hub-uts
+600 IN MX 5 hub-stm
+gw-up-0-xe-0-0-0-1-vlan840-global 3600 IN A 130.253.101.9
+vcenter-um 3600 IN A 130.253.7.52
+goldpioneerweb 3600 IN A 130.253.2.193
+hccpnc 3600 IN A 130.253.19.10
+zabbix-uts 3600 IN A 130.253.3.117
+clearpass-uts 3600 IN A 130.253.5.225
+vctest 3600 IN A 130.253.7.15
+sec-Ruff-swent-uts-idcard 3600 IN A 10.242.20.31
+bookstore-fw-0-outside 3600 IN A 130.253.21.54
+NSM-FW-0-GE-0-V590 3600 IN A 130.253.21.38
+inquire-red 3600 IN A 130.253.2.100
+spanky 3600 IN CNAME spanky.du2.edu.
+otl 600 IN CNAME pod-1598.wpengine.com.
+myphone 3600 IN CNAME ccm
+loopback246-ps-utstm-0 3600 IN A 192.168.246.254
+loopback246-ps-utstm-1 3600 IN A 192.168.246.253
+testotlweb 3600 IN A 130.253.4.109
+webdav 600 IN CNAME titan.cair
+server04 3600 IN A 10.246.7.13
+vcopsanal4view 3600 IN A 130.253.7.39
+intermapper 3600 IN CNAME paek.cair
+nextcentral 600 IN CNAME knife.cair
+PS-UTSTM-1-VL564 3600 IN A 130.253.8.188
+hvs01 3600 IN A 130.253.4.213
+hvs02 3600 IN A 130.253.4.214
+dcsdsr01 3600 IN A 130.253.3.109
+adtest 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+cpnr-reg 3600 IN A 130.253.5.1
+ireportingtemp 3600 IN A 130.253.2.176
+ray 3600 IN A 130.253.1.129
+nextbulletin 3600 IN CNAME du-next.courseleaf.com.
+f5-ve2-mgmt 3600 IN A 130.253.7.22
+temp-www 3600 IN A 192.43.217.15
+evpn-private 3600 IN A 130.253.254.9
+DC02DU 1200 IN AAAA 2002:82fd:296::82fd:296
+DC02DU 1200 IN A 130.253.2.150
+ldaps 600 IN A 130.253.2.118
+owa 600 IN A 130.253.7.67
+ptir 3600 IN A 130.253.4.199
+du2sri 3600 IN CNAME web.cs
+redpioneerweb 3600 IN A 130.253.2.30
+volunteer 3600 IN A 130.253.4.192
+networktest 3600 IN A 130.253.253.103
+morgridge 3600 IN CNAME mceuofdenver.wpengine.com.
+passion 3600 IN A 130.253.1.196
+mamiwata 3600 IN A 130.253.3.142
+office365 3600 IN A 130.253.2.28
+gw-buchtelhouse-0 3600 IN A 130.253.21.94
+hccrdp 3600 IN A 130.253.19.60
+zest 3600 IN A 130.253.1.48
+dcb-esx2 3600 IN A 130.253.7.19
+dcb-esx3 3600 IN A 130.253.7.20
+www.tudri 3600 IN CNAME www.nsm
+db75d9a4f3c95d8a0adffb672c196e96 3600 IN CNAME verify.bing.com.
+VERIF 3600 IN CNAME ghs.google.com.
+beta.ece 3600 IN CNAME ece
+psy 3600 IN MX 10 potato.cair
+psy 3600 IN NS cpnr-authdns-dhcp-vm-1
+3600 IN NS cpnr-authdns-dhcp-phys-1
+psy 3600 IN A 130.253.80.25
+www.aes 600 IN A 72.47.219.173
+vcops-analytics 3600 IN A 130.253.7.37
+highlandsranchgolf 3600 IN A 130.253.2.7
+sdxdu-temp 3600 IN A 130.253.201.10
+c-cure 3600 IN A 130.253.3.3

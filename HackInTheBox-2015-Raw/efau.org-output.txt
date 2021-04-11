@@ -1,0 +1,8 @@
+@ 3600 IN SOA ns1.minibird.jp. root.sv0.minibird.jp. 0 10800 3600 604800 3600
+@ 3600 IN MX 0 @
+@ 3600 IN A 112.78.117.26
+@ 3600 IN NS ns3.minibird.jp.
+3600 IN NS ns2.minibird.jp.
+3600 IN NS ns1.minibird.jp.
+* 3600 IN A 112.78.117.26
+www 3600 IN A 112.78.117.26

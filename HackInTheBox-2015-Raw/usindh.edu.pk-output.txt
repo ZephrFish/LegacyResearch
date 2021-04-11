@@ -1,0 +1,457 @@
+@ 86400 IN SOA ns1 yaqoobkoondhar.gmail.com. 20150559 86400 7200 3600000 86400
+@ 86400 IN NS ns1
+86400 IN NS ns2
+@ 86400 IN MX 1 ASPMX.L.GOOGLE.com.
+86400 IN MX 5 ALT1.ASPMX.L.GOOGLE.com.
+86400 IN MX 5 ALT2.ASPMX.L.GOOGLE.com.
+86400 IN MX 10 ASPMX2.GOOGLEMAIL.com.
+86400 IN MX 10 ASPMX3.GOOGLEMAIL.com.
+@ 86400 IN A 64.50.173.147
+@ 86400 IN TXT "v=spf1" "mx" "~all"
+www.lisas 86400 IN CNAME lisas
+sindhi 86400 IN A 64.50.173.147
+sindhi 86400 IN MX 10 mail.sindhi
+mail.fwbf 86400 IN A 64.50.173.147
+mail.dcce 86400 IN A 64.50.173.147
+www.science 86400 IN CNAME science
+law 86400 IN A 64.50.173.147
+law 86400 IN MX 10 mail.law
+mail.science 86400 IN A 64.50.173.147
+mail.mqbc 86400 IN A 64.50.173.147
+mail.surj 86400 IN A 64.50.173.147
+mail.ste 86400 IN A 64.50.173.147
+cric 86400 IN A 64.50.173.147
+cric 86400 IN MX 10 mail.cric
+mail.cdse 86400 IN A 64.50.173.147
+mail.nce2008 86400 IN A 64.50.173.147
+fesea 86400 IN A 64.50.173.147
+fesea 86400 IN MX 10 mail.fesea
+www.sujo 86400 IN CNAME sujo
+www.surj 86400 IN CNAME surj
+laar 86400 IN A 64.50.173.147
+laar 86400 IN MX 10 mail.laar
+mail.psc 86400 IN A 64.50.173.147
+admissions 86400 IN A 64.50.173.147
+admissions 86400 IN MX 10 mail.admissions
+physiology 86400 IN A 64.50.173.147
+physiology 86400 IN MX 10 mail.physiology
+mail.sociology 86400 IN A 64.50.173.147
+mail.pehss 86400 IN A 64.50.173.147
+www.stc 86400 IN CNAME stc
+generalhistory 86400 IN A 64.50.173.147
+generalhistory 86400 IN MX 10 mail.generalhistory
+www.pc 86400 IN CNAME pc
+www.nms 86400 IN CNAME nms
+mail.cric 86400 IN A 64.50.173.147
+testing 86400 IN A 64.50.173.147
+testing 86400 IN MX 0 mail.testing
+mail.muslimhistory 86400 IN A 64.50.173.147
+qec 86400 IN A 64.50.173.147
+qec 86400 IN MX 0 mail.qec
+mail.htcrl 86400 IN A 64.50.173.147
+agmqc 86400 IN A 64.50.173.147
+agmqc 86400 IN MX 0 mail.agmqc
+mail.laar 86400 IN A 64.50.173.147
+www.thatta 86400 IN CNAME thatta
+www.moodle 86400 IN CNAME moodle
+www.students 86400 IN CNAME students
+www.statistics 86400 IN CNAME statistics
+mail.moodle 86400 IN A 64.50.173.147
+www.test 86400 IN CNAME test
+microbiology 86400 IN A 64.50.173.147
+microbiology 86400 IN MX 10 mail.microbiology
+www.shahlatif 86400 IN CNAME shahlatif
+www.sas 86400 IN CNAME sas
+www.ptgr 86400 IN CNAME ptgr
+mail.iict 86400 IN A 64.50.173.147
+ems 86400 IN A 64.50.173.147
+ems 86400 IN MX 10 mail.ems
+www.physics 86400 IN CNAME physics
+www.nausheroferoz 86400 IN CNAME nausheroferoz
+ns2 86400 IN A 64.50.173.147
+iarscs 86400 IN A 64.50.173.147
+iarscs 86400 IN MX 10 mail.iarscs
+pa 86400 IN A 64.50.173.147
+pa 86400 IN MX 10 mail.pa
+mail.law 86400 IN A 64.50.173.147
+mail.iarscs 86400 IN A 64.50.173.147
+iba 86400 IN A 64.50.173.147
+iba 86400 IN MX 10 mail.iba
+www.pinger 86400 IN A 121.52.154.50
+www.iad 86400 IN CNAME iad
+education 86400 IN A 64.50.173.147
+education 86400 IN MX 10 mail.education
+www.nce2008 86400 IN CNAME nce2008
+mail.statistics 86400 IN A 64.50.173.147
+www.grs 86400 IN CNAME grs
+www.htcrl 86400 IN CNAME htcrl
+pc 86400 IN A 64.50.173.147
+pc 86400 IN MX 10 mail.pc
+staff 86400 IN A 64.50.173.147
+staff 86400 IN MX 10 mail.staff
+socialwork 86400 IN A 64.50.173.147
+socialwork 86400 IN MX 10 mail.socialwork
+www.irelations 86400 IN CNAME irelations
+_autodiscover._tcp.um 14400 IN SRV 0 100 443 um
+www.sindhi 86400 IN CNAME sindhi
+commerce 86400 IN A 64.50.173.147
+commerce 86400 IN MX 10 mail.commerce
+irelations 86400 IN A 64.50.173.147
+irelations 86400 IN MX 10 mail.irelations
+www.law 86400 IN CNAME law
+www.mrtg 86400 IN CNAME mrtg
+neweb 86400 IN A 64.50.173.147
+neweb 86400 IN MX 10 mail.neweb
+ps 86400 IN A 64.50.173.147
+ps 86400 IN MX 10 mail.ps
+www.sutc 86400 IN CNAME sutc
+server 86400 IN A 64.50.173.146
+www.mbbscd 86400 IN CNAME mbbscd
+ns1 86400 IN A 64.50.173.146
+www.cba 86400 IN CNAME cba
+library 86400 IN A 121.52.154.49
+library 86400 IN MX 0 mail.library
+webconf.um 14400 IN A 111.68.107.15
+14400 IN A 111.68.107.16
+www.larkana 86400 IN CNAME larkana
+sucm 86400 IN A 64.50.173.147
+sucm 86400 IN MX 0 mail.sucm
+www.pcra 86400 IN CNAME pcra
+lms 86400 IN A 111.68.100.243
+_siptls._tcp.um 14400 IN SRV 0 0 443 access.um
+www.rgs 86400 IN CNAME rgs
+mail.ems 86400 IN A 64.50.173.147
+mail.rgs 86400 IN A 64.50.173.147
+mail.saicll 86400 IN A 64.50.173.147
+archea 86400 IN A 64.50.173.147
+archea 86400 IN MX 10 mail.archea
+mail.archea 86400 IN A 64.50.173.147
+sociology 86400 IN A 64.50.173.147
+sociology 86400 IN MX 10 mail.sociology
+mcs 86400 IN A 64.50.173.147
+mcs 86400 IN MX 10 mail.mcs
+mail.registrar 86400 IN A 64.50.173.147
+mail.library 86400 IN A 64.50.173.147
+imcs 86400 IN A 64.50.173.147
+imcs 86400 IN MX 10 mail.imcs
+um 14400 IN A 111.68.107.2
+14400 IN A 111.68.107.3
+um 14400 IN MX 10 mail101.pern.edu.pk.
+14400 IN MX 10 mail102.pern.edu.pk.
+14400 IN MX 20 mail201.pern.edu.pk.
+14400 IN MX 20 mail202.pern.edu.pk.
+registrar 86400 IN A 64.50.173.147
+registrar 86400 IN MX 0 mail.registrar
+mail.pmnls 86400 IN A 64.50.173.147
+mail.microbiology 86400 IN A 64.50.173.147
+www.igs 86400 IN CNAME igs
+www.zoology 86400 IN CNAME zoology
+mail.sucm 86400 IN A 64.50.173.147
+mail.students 86400 IN A 64.50.173.147
+www.pharmaceutics 86400 IN CNAME pharmaceutics
+av.um 14400 IN A 111.68.107.17
+14400 IN A 111.68.107.18
+www.iell 86400 IN CNAME iell
+mail.irelations 86400 IN A 64.50.173.147
+www.intzar 86400 IN CNAME intzar
+www.testing 86400 IN CNAME testing
+www.urdu 86400 IN CNAME urdu
+mail.mcs 86400 IN A 64.50.173.147
+sas 86400 IN A 64.50.173.147
+sas 86400 IN MX 10 mail.sas
+www.pa 86400 IN CNAME pa
+escience 86400 IN A 64.50.173.147
+escience 86400 IN MX 10 mail.escience
+moodle 86400 IN A 64.50.173.147
+moodle 86400 IN MX 10 mail.moodle
+mail.ptgr 86400 IN A 64.50.173.147
+bhitshah 86400 IN A 64.50.173.147
+bhitshah 86400 IN MX 10 mail.bhitshah
+journals 86400 IN A 64.50.173.147
+journals 86400 IN MX 10 mail.journals
+www.admissions 86400 IN CNAME admissions
+www.pageology 86400 IN CNAME pageology
+statistics 86400 IN A 64.50.173.147
+statistics 86400 IN MX 10 mail.statistics
+mail.sujo 86400 IN A 64.50.173.147
+nce2008 86400 IN A 64.50.173.147
+nce2008 86400 IN MX 0 mail.nce2008
+mail.iell 86400 IN A 64.50.173.147
+mail.fesea 86400 IN A 64.50.173.147
+www.ps 86400 IN CNAME ps
+psychology 86400 IN A 64.50.173.147
+psychology 86400 IN MX 10 mail.psychology
+autodiscover.um 14400 IN A 111.68.107.2
+14400 IN A 111.68.107.3
+www.ilanguages 86400 IN CNAME ilanguages
+www.sucm 86400 IN CNAME sucm
+www.ste 86400 IN CNAME ste
+test 86400 IN A 64.50.173.147
+test 86400 IN MX 0 mail.test
+ftp 86400 IN CNAME @
+pinger 86400 IN A 121.52.154.50
+mail.nms 86400 IN A 64.50.173.147
+pharmaceutics 86400 IN A 64.50.173.147
+pharmaceutics 86400 IN MX 10 mail.pharmaceutics
+muslimhistory 86400 IN A 64.50.173.147
+muslimhistory 86400 IN MX 10 mail.muslimhistory
+www.elearn 86400 IN CNAME elearn
+mail.nausheroferoz 86400 IN A 64.50.173.147
+mail.education 86400 IN A 64.50.173.147
+www.exam 86400 IN CNAME exam
+forum 86400 IN A 64.50.173.147
+forum 86400 IN MX 0 mail.forum
+stc 86400 IN A 64.50.173.147
+stc 86400 IN MX 0 mail.stc
+mail.test 86400 IN A 64.50.173.147
+ste 86400 IN A 64.50.173.147
+ste 86400 IN MX 10 mail.ste
+mail.sas 86400 IN A 64.50.173.147
+geography 86400 IN A 64.50.173.147
+geography 86400 IN MX 10 mail.geography
+pscience 86400 IN A 64.50.173.147
+pscience 86400 IN MX 10 mail.pscience
+www.pharmacology 86400 IN CNAME pharmacology
+mail.sutc 86400 IN A 64.50.173.147
+philosophy 86400 IN A 64.50.173.147
+philosophy 86400 IN MX 10 mail.philosophy
+www.commerce 86400 IN CNAME commerce
+www.fesea 86400 IN CNAME fesea
+mbbscd 86400 IN A 64.50.173.147
+mbbscd 86400 IN MX 0 mail.mbbscd
+surj 86400 IN A 64.50.173.147
+surj 86400 IN MX 0 mail.surj
+www.pmnls 86400 IN CNAME pmnls
+mail.mbbscd 86400 IN A 64.50.173.147
+ilanguages 86400 IN A 64.50.173.147
+ilanguages 86400 IN MX 10 mail.ilanguages
+mrtg 86400 IN A 64.50.173.147
+mrtg 86400 IN MX 0 mail.mrtg
+physics 86400 IN A 64.50.173.147
+physics 86400 IN MX 10 mail.physics
+www.cric 86400 IN CNAME cric
+www.qec 86400 IN CNAME qec
+iict 86400 IN A 64.50.173.147
+iict 86400 IN MX 0 mail.iict
+mail.pcra 86400 IN A 64.50.173.147
+mail.agmqc 86400 IN A 64.50.173.147
+www.sdsc 86400 IN CNAME sdsc
+pageology 86400 IN A 64.50.173.147
+pageology 86400 IN MX 10 mail.pageology
+mail.admissions 86400 IN A 64.50.173.147
+www.agmqc 86400 IN CNAME agmqc
+mail.pscience 86400 IN A 64.50.173.147
+uacademy 86400 IN A 64.50.173.147
+uacademy 86400 IN MX 10 mail.uacademy
+www.lpnewtest 86400 IN CNAME lpnewtest
+mail.mrtg 86400 IN A 64.50.173.147
+iad 86400 IN A 64.50.173.147
+iad 86400 IN MX 10 mail.iad
+www.joomla 86400 IN CNAME joomla
+chemistry 86400 IN A 64.50.173.147
+chemistry 86400 IN MX 10 mail.chemistry
+mail.pharmacology 86400 IN A 64.50.173.147
+larkana 86400 IN A 64.50.173.147
+larkana 86400 IN MX 10 mail.larkana
+mail.ilanguages 86400 IN A 64.50.173.147
+grs 86400 IN A 64.50.173.147
+grs 86400 IN MX 10 mail.grs
+mail.sports 86400 IN A 64.50.173.147
+mail.staff 86400 IN A 64.50.173.147
+pharmacognosy 86400 IN A 64.50.173.147
+pharmacognosy 86400 IN MX 10 mail.pharmacognosy
+nms 86400 IN A 121.52.154.51
+nms 86400 IN MX 0 mail.nms
+www.imcs 86400 IN CNAME imcs
+sports 86400 IN A 64.50.173.147
+sports 86400 IN MX 0 mail.sports
+www.philosophy 86400 IN CNAME philosophy
+mail.urdu 86400 IN A 64.50.173.147
+mail.pharmacognosy 86400 IN A 64.50.173.147
+www.sociology 86400 IN CNAME sociology
+mail.pageology 86400 IN A 64.50.173.147
+www.psc 86400 IN CNAME psc
+mail.larkana 86400 IN A 64.50.173.147
+cba 86400 IN A 64.50.173.147
+cba 86400 IN MX 0 mail.cba
+saicll 86400 IN A 64.50.173.147
+saicll 86400 IN MX 0 mail.saicll
+theshield 86400 IN A 64.50.173.147
+theshield 86400 IN MX 10 mail.theshield
+nausheroferoz 86400 IN A 64.50.173.147
+nausheroferoz 86400 IN MX 10 mail.nausheroferoz
+lisas 86400 IN A 64.50.173.147
+lisas 86400 IN MX 10 mail.lisas
+www.staff 86400 IN CNAME staff
+iell 86400 IN A 64.50.173.147
+iell 86400 IN MX 10 mail.iell
+mail.btge 86400 IN A 64.50.173.147
+www.social 86400 IN CNAME social
+www.sports 86400 IN CNAME sports
+mail 86400 IN CNAME ghs.GOOGLE.com.
+lpnewtest 86400 IN A 64.50.173.147
+lpnewtest 86400 IN MX 10 mail.lpnewtest
+www.btge 86400 IN CNAME btge
+faculty 86400 IN CNAME ghs.googlehosted.com.
+www.escience 86400 IN CNAME escience
+www.bhitshah 86400 IN CNAME bhitshah
+www.education 86400 IN CNAME education
+www.news 86400 IN CNAME news
+www.journals 86400 IN CNAME journals
+shahlatif 86400 IN A 64.50.173.147
+shahlatif 86400 IN MX 0 mail.shahlatif
+www.neweb 86400 IN CNAME neweb
+mail.grs 86400 IN A 64.50.173.147
+intzar 86400 IN A 64.50.173.147
+intzar 86400 IN MX 0 mail.intzar
+drive 86400 IN CNAME ghs.googlehosted.com.
+igs 86400 IN A 64.50.173.147
+igs 86400 IN MX 0 mail.igs
+www.physiology 86400 IN CNAME physiology
+mail.commerce 86400 IN A 64.50.173.147
+mail.joomla 86400 IN A 64.50.173.147
+www.criminology 86400 IN CNAME criminology
+access.um 14400 IN A 111.68.107.7
+14400 IN A 111.68.107.8
+www.uacademy 86400 IN CNAME uacademy
+elearn 86400 IN A 64.50.173.147
+elearn 86400 IN MX 10 mail.elearn
+sujo 86400 IN A 64.50.173.147
+sujo 86400 IN MX 10 mail.sujo
+mail.elearn 86400 IN A 64.50.173.147
+pehss 86400 IN A 64.50.173.147
+pehss 86400 IN MX 10 mail.pehss
+zoology 86400 IN A 64.50.173.147
+zoology 86400 IN MX 10 mail.zoology
+www.psychology 86400 IN CNAME psychology
+saqib 86400 IN A 121.52.154.62
+mail.cba 86400 IN A 64.50.173.147
+www.fwbf 86400 IN CNAME fwbf
+www.alumni 86400 IN CNAME alumni
+www.dcce 86400 IN CNAME dcce
+www.muslimhistory 86400 IN CNAME muslimhistory
+www 86400 IN CNAME @
+www.biochemistry 86400 IN CNAME biochemistry
+www.mqbc 86400 IN CNAME mqbc
+mail.geography 86400 IN A 64.50.173.147
+exam 86400 IN A 64.50.173.147
+exam 86400 IN MX 10 mail.exam
+www.cdse 86400 IN CNAME cdse
+www.pscience 86400 IN CNAME pscience
+economics 86400 IN A 64.50.173.147
+economics 86400 IN MX 10 mail.economics
+sdsc 86400 IN A 64.50.173.147
+sdsc 86400 IN MX 10 mail.sdsc
+mail.economics 86400 IN A 64.50.173.147
+mail.pa 86400 IN A 64.50.173.147
+mail.neweb 86400 IN A 64.50.173.147
+www.generalhistory 86400 IN CNAME generalhistory
+pharmacology 86400 IN A 64.50.173.147
+pharmacology 86400 IN MX 10 mail.pharmacology
+htcrl 86400 IN A 64.50.173.147
+htcrl 86400 IN MX 0 mail.htcrl
+mail.exam 86400 IN A 64.50.173.147
+mail.imcs 86400 IN A 64.50.173.147
+www.registrar 86400 IN CNAME registrar
+pages 86400 IN CNAME ghs.googlehosted.com.
+www.ems 86400 IN CNAME ems
+mail.forum 86400 IN A 64.50.173.147
+www.laar 86400 IN CNAME laar
+mail.igs 86400 IN A 64.50.173.147
+mail.iad 86400 IN A 64.50.173.147
+www.theshield 86400 IN CNAME theshield
+mail.qec 86400 IN A 64.50.173.147
+joomla 86400 IN A 64.50.173.147
+joomla 86400 IN MX 10 mail.joomla
+mail.biochemistry 86400 IN A 64.50.173.147
+mail.ps 86400 IN A 64.50.173.147
+mail.thatta 86400 IN A 64.50.173.147
+mail.physiology 86400 IN A 64.50.173.147
+mail.chemistry 86400 IN A 64.50.173.147
+www.microbiology 86400 IN CNAME microbiology
+www.iict 86400 IN CNAME iict
+urdu 86400 IN A 64.50.173.147
+urdu 86400 IN MX 10 mail.urdu
+www.socialwork 86400 IN CNAME socialwork
+rgs 86400 IN A 64.50.173.147
+rgs 86400 IN MX 10 mail.rgs
+mail.sdsc 86400 IN A 64.50.173.147
+mail.escience 86400 IN A 64.50.173.147
+mail.psychology 86400 IN A 64.50.173.147
+_sipfederationtls._tcp.um 14400 IN SRV 0 0 5061 access.um
+mail.bhitshah 86400 IN A 64.50.173.147
+mail.journals 86400 IN A 64.50.173.147
+mail.iba 86400 IN A 64.50.173.147
+www.forum 86400 IN CNAME forum
+www.mcs 86400 IN CNAME mcs
+www.pehss 86400 IN CNAME pehss
+social 86400 IN A 64.50.173.147
+social 86400 IN MX 0 mail.social
+vpn 86400 IN A 121.52.154.37
+ptgr 86400 IN A 64.50.173.147
+ptgr 86400 IN MX 10 mail.ptgr
+mail.social 86400 IN A 64.50.173.147
+mail.theshield 86400 IN A 64.50.173.147
+biochemistry 86400 IN A 64.50.173.147
+biochemistry 86400 IN MX 10 mail.biochemistry
+www.saicll 86400 IN CNAME saicll
+mail.philosophy 86400 IN A 64.50.173.147
+mail.lpnewtest 86400 IN A 64.50.173.147
+www.iarscs 86400 IN CNAME iarscs
+mail.intzar 86400 IN A 64.50.173.147
+mail.pc 86400 IN A 64.50.173.147
+mail.criminology 86400 IN A 64.50.173.147
+www.pharmacognosy 86400 IN CNAME pharmacognosy
+btge 86400 IN A 64.50.173.147
+btge 86400 IN MX 10 mail.btge
+sutc 86400 IN A 64.50.173.147
+sutc 86400 IN MX 0 mail.sutc
+criminology 86400 IN A 64.50.173.147
+criminology 86400 IN MX 10 mail.criminology
+students 86400 IN A 64.50.173.147
+students 86400 IN MX 10 mail.students
+mail.zoology 86400 IN A 64.50.173.147
+mail.shahlatif 86400 IN A 64.50.173.147
+www.library 86400 IN CNAME library
+www.geography 86400 IN CNAME geography
+mail.stc 86400 IN A 64.50.173.147
+news 86400 IN A 64.50.173.147
+news 86400 IN MX 0 mail.news
+mail.lisas 86400 IN A 64.50.173.147
+mail.testing 86400 IN A 64.50.173.147
+_sip._tls.um 14400 IN SRV 0 0 443 access.um
+sip.um 14400 IN A 111.68.107.7
+14400 IN A 111.68.107.8
+www.economics 86400 IN CNAME economics
+psc 86400 IN A 64.50.173.147
+psc 86400 IN MX 10 mail.psc
+mail.socialwork 86400 IN A 64.50.173.147
+pmnls 86400 IN A 64.50.173.147
+pmnls 86400 IN MX 10 mail.pmnls
+mail.generalhistory 86400 IN A 64.50.173.147
+thatta 86400 IN A 64.50.173.147
+thatta 86400 IN MX 10 mail.thatta
+pcra 86400 IN A 64.50.173.147
+pcra 86400 IN MX 0 mail.pcra
+alumni 86400 IN A 64.50.173.147
+alumni 86400 IN MX 0 mail.alumni
+www.iba 86400 IN CNAME iba
+mail.news 86400 IN A 64.50.173.147
+mail.alumni 86400 IN A 64.50.173.147
+mail.sindhi 86400 IN A 64.50.173.147
+mail.pharmaceutics 86400 IN A 64.50.173.147
+www.vpn 86400 IN A 121.52.154.37
+mail.physics 86400 IN A 64.50.173.147
+science 86400 IN A 64.50.173.147
+science 86400 IN MX 0 mail.science
+mail.uacademy 86400 IN A 64.50.173.147
+fwbf 86400 IN A 64.50.173.147
+fwbf 86400 IN MX 10 mail.fwbf
+dcce 86400 IN A 64.50.173.147
+dcce 86400 IN MX 10 mail.dcce
+www.archea 86400 IN CNAME archea
+mqbc 86400 IN A 64.50.173.147
+mqbc 86400 IN MX 0 mail.mqbc
+www.chemistry 86400 IN CNAME chemistry
+cdse 86400 IN A 64.50.173.147
+cdse 86400 IN MX 10 mail.cdse

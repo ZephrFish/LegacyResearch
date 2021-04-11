@@ -1,0 +1,165 @@
+@ 3600 IN SOA ns1 lsupport 497 900 600 86400 3600
+@ 3600 IN A 216.10.221.136
+@ 3600 IN NS ns2
+3600 IN NS ns3
+@ 3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+xeon 3600 IN A 208.163.49.45
+autodiscover.uniss 3600 IN CNAME autodiscover.outlook.com.
+wsncu 3600 IN A 208.131.181.162
+_sip._tcp 3600 IN SRV 10 10 5060 camvcsepub1
+3600 IN SRV 10 10 5060 manvcsesub1
+sip.my 3600 IN CNAME sipdir.online.lync.com.
+icajtemp 3600 IN A 216.10.221.133
+sisdev 3600 IN A 216.10.221.133
+hr 3600 IN A 216.10.221.135
+evote 3600 IN A 216.10.221.133
+helpdesk 3600 IN A 216.10.221.132
+assessment 3600 IN A 208.138.34.148
+papercut 3600 IN A 216.10.221.157
+techsupport 3600 IN A 208.138.34.148
+_sip._tls.my 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+voyager 3600 IN A 208.138.34.149
+turbopay 3600 IN A 216.10.221.135
+broadcast 3600 IN A 216.10.221.132
+news08 3600 IN A 208.138.34.148
+my 3600 IN MX 0 my-ncu-edu-jm.mail.protection.outlook.com.
+my 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+verify 3600 IN A 216.10.221.135
+rng 3600 IN A 216.10.221.133
+help 3600 IN A 216.10.221.133
+new09 3600 IN A 66.54.114.186
+3600 IN A 208.163.49.46
+taicentre 3600 IN A 208.138.34.148
+chapel 3600 IN A 216.10.221.133
+president 3600 IN A 216.10.221.133
+sango 3600 IN A 208.131.181.162
+camvcsepub1 3600 IN A 216.10.221.137
+_sip._udp 3600 IN SRV 10 10 5060 camvcsepub1
+3600 IN SRV 10 10 5060 manvcsesub1
+salt 3600 IN A 208.131.181.166
+mec 3600 IN A 208.138.34.148
+ilc 3600 IN A 216.10.221.133
+lms 3600 IN CNAME aeorion
+sgs 3600 IN A 216.10.221.133
+smst 3600 IN A 216.10.221.135
+customs 3600 IN A 216.10.0.0
+3600 IN A 216.10.221.133
+sp1 3600 IN A 216.10.221.149
+siteadmin 3600 IN A 208.138.34.148
+inventory 3600 IN A 216.10.221.133
+library 3600 IN A 208.138.34.149
+cnas 3600 IN A 216.10.221.133
+apply 3600 IN A 216.10.221.133
+calendar 3600 IN CNAME ghs.google.com.
+sms 3600 IN A 216.10.221.135
+cahn 3600 IN A 216.10.221.133
+chbs 3600 IN A 216.10.221.133
+_sips._tcp 3600 IN SRV 10 10 5061 camvcsepub1
+3600 IN SRV 10 10 5061 manvcsesub1
+hilltoptrumpet 3600 IN A 216.10.221.133
+ncuws 3600 IN A 216.10.221.135
+archive 3600 IN A 208.138.34.147
+archive 3600 IN MX 70 archive
+homecoming09 3600 IN A 216.10.221.133
+test 3600 IN A 216.10.221.136
+ftp 3600 IN A 216.10.221.136
+start 3600 IN A 216.10.221.133
+m 3600 IN A 216.10.221.135
+new 3600 IN A 208.138.34.148
+ruth 3600 IN A 216.10.221.155
+socrates 3600 IN A 208.138.34.149
+srt 3600 IN A 216.10.221.133
+jobs 3600 IN A 216.10.221.133
+_h323cs._tcp 3600 IN SRV 10 10 1720 camvcsepub1
+3600 IN SRV 10 10 1720 manvcsesub1
+idsys 3600 IN A 216.10.221.133
+stu 3600 IN A 208.138.34.150
+stu 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+stu 3600 IN TXT "MS=ms22647659"
+egw-sdaresearch 3600 IN A 216.10.221.133
+career 3600 IN A 216.10.221.133
+chin 3600 IN A 216.10.221.133
+applyadmin 3600 IN A 216.10.221.133
+tacsu 3600 IN A 216.10.221.133
+cbhm 3600 IN A 216.10.221.133
+avatar 3600 IN A 216.10.221.133
+_turn._udp 3600 IN SRV 10 10 3878 camvcsepub1
+3600 IN SRV 10 10 3878 manvcsesub1
+ns1 3600 IN A 208.138.34.147
+ns2 3600 IN A 208.138.34.148
+ns3 3600 IN A 216.10.221.132
+dev1 3600 IN A 216.10.221.133
+dev2 3600 IN A 216.10.221.133
+smstemp 3600 IN A 216.10.221.133
+aeoriondev 3600 IN A 66.54.114.182
+transcripts 3600 IN A 216.10.221.136
+_h323rs._udp 3600 IN SRV 10 10 1719 camvcsepub1
+3600 IN SRV 10 10 1719 manvcsesub1
+autodiscover.my 3600 IN CNAME autodiscover.outlook.com.
+simon 3600 IN A 192.168.10.8
+mail.stu 3600 IN CNAME ghs.google.com.
+onestop 3600 IN A 216.10.221.136
+_h323ls._udp 3600 IN SRV 10 10 1719 camvcsepub1
+3600 IN SRV 10 10 1719 manvcsesub1
+mail 3600 IN CNAME ghs.google.com.
+directory 3600 IN A 208.138.34.148
+faculty 3600 IN A 208.138.34.148
+sistraining 3600 IN A 216.10.221.133
+eml 3600 IN A 216.10.221.133
+libraryaccess 3600 IN A 216.10.221.133
+hilltophotel 3600 IN A 208.138.34.148
+msoid.my 3600 IN CNAME clientconfig.microsoftonline-p.net.
+cel 3600 IN A 216.10.221.133
+cer 3600 IN A 208.138.34.148
+*.ezproxy 3600 IN A 216.10.221.133
+1748431264.uniss 3600 IN CNAME domains.live.com.
+tts 3600 IN A 216.10.221.133
+condor 3600 IN A 216.10.221.154
+aeorionadmin 3600 IN A 216.10.221.135
+lmstraining 3600 IN A 216.10.221.0
+solar 3600 IN A 216.10.221.148
+cis 3600 IN A 216.10.221.136
+usm 3600 IN A 216.10.221.136
+wap 3600 IN A 208.131.181.162
+ezproxy 3600 IN A 216.10.221.133
+uniss 3600 IN A 208.138.34.147
+uniss 3600 IN MX 0 1748431264.mail.outlook.com.
+sysadmin 3600 IN A 216.10.221.154
+weekender 3600 IN A 216.10.221.133
+con-ed 3600 IN A 208.138.34.148
+ira 3600 IN A 208.138.34.148
+cadi-serv 3600 IN A 208.131.181.164
+dev 3600 IN A 216.10.221.133
+bookstore 3600 IN A 208.138.34.148
+projects 3600 IN CNAME northerncaribbeanuniversity.projecttodos.com.
+lyncdiscover.my 3600 IN CNAME webdir.online.lync.com.
+ncuws2 3600 IN A 216.10.221.135
+vpn 3600 IN A 216.10.221.154
+_sipfederationtls._tcp.my 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+homecoming2013 3600 IN A 216.10.221.133
+stream 3600 IN A 208.163.49.45
+connect 3600 IN A 216.10.221.133
+www 3600 IN A 216.10.221.136
+docs 3600 IN CNAME ghs.google.com.
+_finger._tcp.uniss 3600 IN SRV 0 0 79 _sipfederationtls._tcp.uniss
+news 3600 IN A 216.10.221.133
+cc 3600 IN A 66.54.114.187
+manvcsesub1 3600 IN A 216.10.221.153
+eservices 3600 IN A 208.138.34.148
+purchase 3600 IN A 208.131.181.163
+church 3600 IN A 216.10.221.133
+imgde 3600 IN A 208.131.181.162
+itsupport 3600 IN A 208.138.34.148
+bmrc 3600 IN A 216.10.221.133
+lmsdev 3600 IN A 216.10.221.133
+aeorion 3600 IN A 216.10.221.135

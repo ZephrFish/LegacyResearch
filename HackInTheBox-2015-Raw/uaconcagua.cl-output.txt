@@ -1,0 +1,8 @@
+@ 86400 IN SOA ns.conectu.com. root.conectu.com. 2013100301 7200 3600 604800 86400
+@ 86400 IN NS ns.conectu.com.
+86400 IN NS ns2.conectu.com.
+@ 86400 IN MX 10 mail
+@ 86400 IN A 164.77.223.214
+ftp 86400 IN A 200.6.117.29
+mail 86400 IN A 200.6.117.29
+www 86400 IN A 164.77.223.214

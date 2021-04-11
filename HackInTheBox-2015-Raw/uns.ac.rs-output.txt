@@ -1,0 +1,307 @@
+@ 7200 IN SOA ns1 hostmaster 2015043001 43200 1800 604800 3600
+@ 7200 IN TXT "v=spf1 mx ?all"
+@ 7200 IN MX 40 smtp
+@ 7200 IN NS ns1
+7200 IN NS ns2
+7200 IN NS ns.rcub.bg.ac.rs.
+fins 7200 IN NS ns1
+7200 IN NS ns2
+komoramladih 7200 IN CNAME bisis
+gf 7200 IN NS athos.gf
+7200 IN NS porthos.gf
+7200 IN NS ns1
+people.dmi 7200 IN CNAME people.pmf
+www.foaly 7200 IN CNAME foaly.ftn
+ftp.rt-rk 7200 IN CNAME ftp.rt-rk.ftn
+imap 300 IN A 147.91.173.8
+magister 7200 IN NS tabaqui.vts.su.ac.rs.
+7200 IN NS ns1
+unilib 7200 IN A 147.91.173.10
+www.ups 7200 IN CNAME www
+massrelay 7200 IN A 147.91.173.7
+eservisi 7200 IN CNAME dynamis.arm
+efakultet.ris 7200 IN A 192.168.200.51
+student.ris 7200 IN CNAME ris
+www.idealab 7200 IN CNAME apache2-sith.dancer.dreamhost.com.
+www.diglib 7200 IN CNAME bisis
+ns1.ef 7200 IN A 147.91.175.65
+celt 7200 IN CNAME iim.ftn
+cris 7200 IN CNAME cris-backend.arm
+biblioteka 7200 IN CNAME bisis.arm
+people.df 7200 IN CNAME people.pmf
+people.dh 7200 IN CNAME people.pmf
+knr 7200 IN CNAME knr.ftn
+www.biosense 7200 IN CNAME www.biosense.ftn
+fondacija 7200 IN CNAME www
+ucps 7200 IN CNAME www.dmi.pmf
+pop3 7200 IN CNAME pop
+razvojkarijere2 7200 IN CNAME dyn-web.arm
+ris 7200 IN A 147.91.173.79
+vpn 7200 IN A 147.91.173.30
+fimes.ris 7200 IN A 172.16.4.2
+mf 7200 IN NS ns1.mf
+7200 IN NS ns1
+7200 IN NS ns2
+www.konstmas 7200 IN CNAME www
+_adsp._domainkey.dbe 7200 IN TXT "dkim=all"
+novisad.revlab 7200 IN A 147.91.174.45
+_smtp._tcp 7200 IN SRV 10 10 25 smtp
+www.peec 7200 IN CNAME icet2009.ftn
+www.leanea 7200 IN CNAME iim.ftn
+www.oblak 7200 IN CNAME oblak.arm
+www.df 7200 IN CNAME www.df.pmf
+www.dh 7200 IN CNAME www.dh.pmf
+www.nkt 7200 IN CNAME www.multiwaves.ftn
+dgt 7200 IN MX 10 mail.dgt.pmf
+dgt 7200 IN TXT "v=spf1 mx ?all"
+www 7200 IN AAAA 2001:4170:2000:1::37
+www 7200 IN A 147.91.173.37
+fsfv 7200 IN NS ns1
+pef 7200 IN NS ns1
+7200 IN NS ns2
+www.dkmt 7200 IN CNAME www
+pf 7200 IN NS ns3.loopia.se.
+7200 IN NS ns4.loopia.se.
+ns1.mf 7200 IN A 147.91.177.236
+timea 7200 IN CNAME kula910-a.ftn
+ktt 7200 IN CNAME icet2009.ftn
+www.dubrovnikcluster 7200 IN CNAME www
+kmfhs 7200 IN CNAME icet2009.ftn
+www.etiqum 7200 IN CNAME kula910-a.ftn
+www.onestopshop 7200 IN CNAME dynamis.arm
+www.oss.unescochair 7200 IN CNAME dynamis.arm
+www.senat 7200 IN CNAME www
+www.resursnicentar 7200 IN CNAME www
+www.feed-pro-food 7200 IN CNAME fins
+www.pannonianartpath 7200 IN CNAME cp8.cpanelhosting.rs.
+www.ccd 7200 IN CNAME bisis
+svn.cris 7200 IN A 147.91.168.43
+tf 7200 IN NS tehnol.tf
+7200 IN NS ns1
+www.opendlt 7200 IN CNAME bisis
+senat 7200 IN CNAME www
+www.scentec 7200 IN CNAME dynamis.arm
+www.GoInternational 7200 IN CNAME dyn-web.arm
+opendlt 7200 IN CNAME bisis
+netacad 7200 IN CNAME www
+www.dept 7200 IN CNAME icet2009.ftn
+pmf 7200 IN NS ns1.pmf
+7200 IN NS ns1
+7200 IN NS ns.rcub.bg.ac.rs.
+www.studprog 7200 IN CNAME dynamis.arm
+newsmtp 7200 IN AAAA 2001:4170:2000:1:214:5eff:fefe:43b
+newsmtp 7200 IN A 147.91.173.8
+maildmi._domainkey.dmi 7200 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDl+MHkcJUPOncNxSH1YhH7Pp0yLEJbvFa2X3X7vUHsvgdaw30+5r9k4bHUUNxihEX9caL19ifeu5JTc+I39riclgeBxnDX2rRN+go2sFO8F17n27cwKf6ASZbqk/kJ8KqqgBoahcFvF55dweLn2mMT+gYGKlxG79WzgbN8K9syDwIDAQAB"
+www.strew 7200 IN CNAME www.strew.ftn
+www.III46001.fins 7200 IN CNAME fins
+www.ilfe 7200 IN CNAME www
+kpt 7200 IN CNAME icet2009.ftn
+diglib 7200 IN CNAME bisis
+www.iim 7200 IN CNAME iim.ftn
+www.hocudatikazem 7200 IN CNAME www
+www.dkmt2013 7200 IN CNAME www
+www.main 7200 IN CNAME apache2-sith.dancer.dreamhost.com.
+www.rdp2011 7200 IN CNAME www
+www.rt-rk 7200 IN CNAME rt-rk.com.
+foaly 7200 IN CNAME foaly.ftn
+pop 300 IN A 147.91.173.8
+www.nsinitiative 7200 IN CNAME www
+www.sport 7200 IN CNAME www
+www.los 7200 IN CNAME los.ftn
+rt-rk 7200 IN MX 10 mx1.rt-rk.com.
+7200 IN MX 20 mx2.rt-rk.com.
+7200 IN MX 30 mx3.rt-rk.com.
+ftn 7200 IN NS ns1
+7200 IN NS ns2
+7200 IN NS ns.ftn
+ns2 7200 IN AAAA 2001:4170:2000:1::5
+ns2 7200 IN A 147.91.173.5
+www.caesar 7200 IN CNAME www
+www.eqol 7200 IN CNAME www
+crowdsensing2015 7200 IN CNAME www.stari.ftn
+scen 7200 IN CNAME maja.mycpanel.rs.
+www.foodtech2014 7200 IN CNAME fins
+www.mtma 7200 IN CNAME iim.ftn
+www.intelis 7200 IN CNAME intelis-mobins.ftn
+www.dbe 7200 IN CNAME www.dbe.pmf
+www.biblioteka 7200 IN CNAME bisis.arm
+www.concur 7200 IN CNAME iim.ftn
+www.ftevents2011 7200 IN CNAME www
+www.sa 7200 IN CNAME www
+qcnet 7200 IN CNAME www
+athos.gf 7200 IN A 147.91.175.81
+tempus-test 7200 IN CNAME dyn-web.arm
+storage.razvojkarijere 7200 IN CNAME vr.razvojkarijere
+vr.razvojkarijere 7200 IN A 147.91.168.39
+www.drrrc 7200 IN CNAME drrrc.ftn
+maildh._domainkey.dh 7200 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDcyuayAzERzReTXUWQWp+zAh2y7dnwyWK+LN610SotrweqL94BqV6xsRk9jr9n0wjkoa1PWaYBUzjzG5fzYLuO8WpuTEBS4IAEY5dRjhFzEin60SLXSMchJKjcX2RAtREQKQpPWj0HezVAEhivh3fVv7Qj5DMgOIL/EeCwLGi6JwIDAQAB"
+admin.razvojkarijere2 7200 IN CNAME dhost.arm
+www.mobins 7200 IN CNAME intelis-mobins.ftn
+proxy 7200 IN A 147.91.173.31
+www.gpsweb 7200 IN CNAME gpsweb
+www.ects 7200 IN CNAME www
+ns1.ff 7200 IN A 147.91.172.81
+smtp 300 IN AAAA 2001:4170:2000:1::6
+smtp 7200 IN TXT "v=spf1 a ?all"
+smtp 300 IN A 147.91.173.6
+www.hdv 7200 IN CNAME www
+etiqum 7200 IN CNAME kula910-a.ftn
+stat 7200 IN CNAME vh3.pmf
+ucro 7200 IN CNAME www
+maildbe._domainkey.dbe 7200 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCj+JARNoIrn98+vWwd9Mcx/zy8caERj2jS8hU0izeR9Htcor+dC5esOpiOCYH767zdUtAKO1BbmOgl/IogcM4rA2UQIrCy+z3LQD+8nYDF0gE3mbRConLi4yIMBlawL73mh0TaO+WHI8Si3wIsuGhGWqGW+aJE0btIWALNlAZ1swIDAQAB"
+www.epsp 7200 IN CNAME www
+www.feed-to-food 7200 IN CNAME fins
+www.dgt 7200 IN CNAME www.dgt.pmf
+www.eec 7200 IN CNAME www
+www.koppanel 7200 IN CNAME www
+gpsweb 7200 IN A 147.91.173.28
+nkt 7200 IN CNAME www.multiwaves.ftn
+www.isirr 7200 IN CNAME www
+rep.fimes.ris 7200 IN A 172.16.4.2
+ns1 7200 IN AAAA 2001:4170:2000:1::4
+ns1 7200 IN A 147.91.173.4
+foodtech2014 7200 IN CNAME fins
+cern-danube-school 7200 IN CNAME www
+ms-collab 3600 IN TXT "MS=ms40094501"
+zaposleni.ris 7200 IN CNAME ris
+III46001.fins 7200 IN CNAME fins
+maildf._domainkey.df 7200 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9kK+R1v3Ubo5/4lEzoAaLaJxwCB7xpK4UWMgonD0nuANmaDjPtV1haY5h8TCdC22A/95VI+zJhssGq7RzSmwsiV0NSb2x4FyqjqRCWeGjpLU8++Gb+ABW3CpN0OV7X8fxXjZwihnK94qY1Wyn7lzQl6t0atbu6K4OhwGYjxAODwIDAQAB"
+www.nosic 7200 IN CNAME www
+dept 7200 IN CNAME icet2009.ftn
+_imap2._tcp 7200 IN SRV 10 10 143 imap
+intis 7200 IN A 147.91.173.68
+arm 7200 IN NS ns1
+7200 IN NS ns2
+_dmarc.dbe 7200 IN TXT "v=DMARC1; p=quarantine; pct=10; rua=mailto:postmaster@dbe.uns.ac.rs"
+www.dkv 7200 IN CNAME www
+www.dee 7200 IN CNAME dee.kavecan.com.
+ns1.pmf 7200 IN A 147.91.177.10
+www.virtuelniintervjuzaposao 7200 IN CNAME vr.razvojkarijere
+www.dmi 7200 IN CNAME www.dmi.pmf
+www.kfs 7200 IN CNAME www
+bisis 7200 IN CNAME static.4.21.4.46.clients.your-server.de.
+www.iimeuro 7200 IN CNAME iim.ftn
+www.gomes 7200 IN CNAME dyn-web.arm
+ccd 7200 IN CNAME bisis
+enastava 7200 IN CNAME canvas.arm
+www.timea 7200 IN CNAME kula910-a.ftn
+www.interface 7200 IN CNAME dynamis.arm
+tto 7200 IN A 147.91.173.72
+www.congrad 7200 IN CNAME dynamis.arm
+iii46005 7200 IN CNAME www
+www.novisadseminar 7200 IN CNAME www
+www.revlab 7200 IN CNAME revlab
+www.portal 7200 IN A 172.16.219.1
+www.dubrovnikconference 7200 IN CNAME www
+www.scen 7200 IN CNAME maja.mycpanel.rs.
+oblak 7200 IN CNAME oblak.arm
+www.iaeste 7200 IN CNAME dynamis.arm
+feed-to-food 7200 IN CNAME fins
+_dmarc.dh 7200 IN TXT "v=DMARC1; p=quarantine; pct=10; rua=mailto:postmaster@dh.uns.ac.rs"
+www.drc 7200 IN CNAME www
+www.grid 7200 IN CNAME shared4.hosting.sbb.rs.
+tfzr 7200 IN NS ns1
+iim 7200 IN MX 10 iim.ftn
+intelis 7200 IN CNAME intelis-mobins.ftn
+www.Tempus-HELP 7200 IN CNAME dyn-web.arm
+www.enecentar 7200 IN CNAME www.ftn
+feed-pro-food 7200 IN CNAME fins
+mobins 7200 IN CNAME intelis-mobins.ftn
+www.projekti 7200 IN CNAME www
+www.bsons 7200 IN CNAME dynamis.arm
+www.alumni 7200 IN CNAME dynamis.arm
+www.regionalplatform 7200 IN CNAME www.regionalplatform.ftn
+www.metepa 7200 IN CNAME www
+www.petrovacconference 7200 IN CNAME www
+www.dosird 7200 IN CNAME svn.cris
+www.ieee 7200 IN CNAME www.stari.ftn
+www.festivalnauke 7200 IN CNAME www
+www.knr 7200 IN CNAME knr
+ns.ftn 7200 IN A 147.91.175.131
+cubes 7200 IN A 147.91.173.26
+www.feedtechnology 7200 IN CNAME fins
+www.razvojkarijere 7200 IN CNAME dhost.arm
+www.unescochair 7200 IN CNAME www
+dbe 7200 IN MX 10 mail.pmf
+dbe 7200 IN TXT "v=spf1 mx ?all"
+tehnol.tf 7200 IN A 147.91.172.49
+portal 7200 IN MX 10 portal
+portal 7200 IN AAAA 2001:4170:2000:1:216:3eff:fe5d:94df
+portal 7200 IN A 147.91.173.46
+www.dubrovnik2013conference 7200 IN CNAME www
+www.kpt 7200 IN CNAME icet2009.ftn
+www.masts 7200 IN CNAME www
+casper2015 7200 IN CNAME www.stari.ftn
+_dmarc.dmi 7200 IN TXT "v=DMARC1; p=none; rua=mailto:postmaster@dmi.uns.ac.rs"
+apv-nauka 7200 IN A 147.91.172.177
+urban-path.ext 7200 IN A 147.91.168.35
+www.celt 7200 IN CNAME iim.ftn
+www.cris 7200 IN CNAME cris-backend.arm
+www.netacad 7200 IN CNAME www
+www.dunav 7200 IN CNAME bisis
+www.doktoranti 7200 IN CNAME www
+dee 7200 IN CNAME dee.kavecan.com.
+cms 7200 IN CNAME nblok305.ftn
+polj 7200 IN NS ns1
+people.dbe 7200 IN CNAME people.pmf
+www.extra2 7200 IN CNAME www
+pannonianartpath 7200 IN CNAME cp8.cpanelhosting.rs.
+www.ktt 7200 IN CNAME icet2009.ftn
+sites.dmi 7200 IN CNAME sites.pmf
+www.cubes 7200 IN CNAME cubes
+www.trend 7200 IN CNAME www.stari.ftn
+interdis 7200 IN A 147.91.173.67
+www.avh-daad 7200 IN CNAME www
+porthos.gf 7200 IN A 147.91.175.82
+_pop3._tcp 7200 IN SRV 10 10 110 pop
+feedtechnology 7200 IN CNAME fins
+razvojkarijere 7200 IN MX 10 smtp
+www.complexim 7200 IN CNAME dynamis.arm
+www.testuns 7200 IN CNAME dynuns.arm
+www.enastava 7200 IN CNAME canvas.arm
+gitis 7200 IN CNAME gitis1.ftn
+www.ipcentar 7200 IN CNAME www.stari.ftn
+revlab 7200 IN A 147.91.168.36
+www.izzs 600 IN CNAME ftn.pc021host.com.
+akademija 7200 IN NS ns1
+7200 IN NS ns2
+iaeste 7200 IN MX 10 ASPMX.L.GOOGLE.COM.
+7200 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+7200 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+7200 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+7200 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+7200 IN MX 30 ASPMX4.GOOGLEMAIL.COM.
+7200 IN MX 30 ASPMX5.GOOGLEMAIL.COM.
+iaeste 7200 IN A 147.91.173.58
+www.globalseminar 7200 IN CNAME www
+www.komoramladih 7200 IN CNAME bisis
+radius 7200 IN CNAME benjaminII.arm
+casee 7200 IN CNAME polj
+people.dgt 7200 IN CNAME people.pmf
+_dmarc.df 7200 IN TXT "v=DMARC1; p=quarantine; pct=10; rua=mailto:postmaster@df.uns.ac.rs"
+_adsp._domainkey.df 7200 IN TXT "dkim=all"
+dmi 7200 IN MX 10 mail.pmf
+dmi 7200 IN TXT "v=spf1 mx ?all"
+_adsp._domainkey.dh 7200 IN TXT "dkim=all"
+www.acs 7200 IN CNAME los.ftn
+www.kmfhs 7200 IN CNAME icet2009.ftn
+df 7200 IN MX 10 mail.pmf
+df 7200 IN TXT "v=spf1 mx ?all"
+dh 7200 IN MX 10 mail.pmf
+dh 7200 IN TXT "v=spf1 mx ?all"
+dosird 7200 IN CNAME svn.cris
+drrrc 7200 IN CNAME drrrc.ftn
+www.sarajevoconference 7200 IN CNAME www
+medical 7200 IN NS ns1
+ef 7200 IN NS ns1.ef
+7200 IN NS ns1
+www.reec 7200 IN CNAME icet2009.ftn
+erms 7200 IN AAAA 2001:4170:2000:1:216:17ff:fef0:4798
+erms 7200 IN A 147.91.173.59
+www.mma 7200 IN CNAME iim.ftn
+www.fonduns 7200 IN CNAME www
+www.netrel 7200 IN CNAME turbo.makehosting.net.
+ff 7200 IN NS ns1.ff
+7200 IN NS ns1
+www.dubrovnikforum 7200 IN CNAME www
+www.bisis 7200 IN CNAME bisis

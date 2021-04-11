@@ -1,0 +1,74 @@
+@ 86400 IN SOA pluton root 2015041003 7200 120 2419200 86400
+@ 86400 IN A 190.129.1.187
+@ 86400 IN NS marte
+86400 IN NS pluton
+@ 86400 IN MX 10 pluton
+@ 86400 IN TXT "spf2.0/mfrom,pra a mx include:uto.edu.bo -all"
+86400 IN TXT "v=spf1 a mx ptr a:pluton.uto.edu.bo mx:pluton.uto.edu.bo ip4:190.129.1.187 -all"
+@ 86400 IN SPF "v=spf1 a mx ptr a:pluton.uto.edu.bo mx:pluton.uto.edu.bo ip4:190.129.1.187 -all"
+fatec 86400 IN CNAME dns02
+www.siscop 86400 IN CNAME marte
+sistemas 86400 IN CNAME app01
+ft 86400 IN CNAME marte
+www.raliendre 86400 IN CNAME marte
+www.dicyt 86400 IN CNAME marte
+www.infoaces 86400 IN CNAME marte
+web02 86400 IN CNAME dns02
+pluton 86400 IN A 190.129.1.187
+docentes 86400 IN CNAME dns02
+raliendre 86400 IN CNAME marte
+webs 86400 IN CNAME marte
+soporte 86400 IN CNAME dns02
+www 86400 IN CNAME marte
+www2.fdcps 86400 IN CNAME dns02
+fdcps 86400 IN CNAME dns02
+moodle 86400 IN CNAME dns02
+www.docentes 86400 IN CNAME dns02
+www.informativo 86400 IN CNAME marte
+fau 86400 IN CNAME marte
+idh 86400 IN CNAME marte
+2www.fdcps 86400 IN CNAME dns02
+www.webapps 86400 IN CNAME marte
+www.registro 86400 IN CNAME marte
+soporte1 86400 IN CNAME dns02
+webuto 86400 IN CNAME marte
+www.conibio 86400 IN CNAME marte
+www.rrhh 86400 IN CNAME marte
+bd1mysql 86400 IN CNAME pluton
+teu 86400 IN CNAME marte
+camdom 86400 IN CNAME dns02
+www.mysql 86400 IN CNAME marte
+www.fdcps 86400 IN CNAME dns02
+app01 86400 IN A 190.129.1.190
+328A2F58-9FEF-11E4-A75B-7039925E5277._domainkey 86400 IN TXT "v=DKIM1; k=rsa; " "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDm9SVl0HPEM/jflVFiRjatbNGSGeCrJlVVNlMTbeIHYlvhKpomCB45/VJ8OlbhFZPC80ffk1mFMM3Nr3XikSaAZO1M5WzCfttnskZ6JxTFaUjEP4V2uUi8c2+CC2Ehaz+SIRqeWuOgeEY1BYce2LSjBXZngO+P7PkQmHhZEC8wLwIDAQAB"
+www.ingqmc 86400 IN CNAME dns02
+ingmecanica 86400 IN CNAME marte
+ftp 86400 IN CNAME marte
+postgrado 86400 IN CNAME marte
+www.congreso 86400 IN CNAME marte
+www.sistemas 86400 IN CNAME app01
+fni 86400 IN CNAME dns02
+marte 86400 IN A 190.129.1.188
+www.fni 86400 IN CNAME marte
+*.webs 86400 IN CNAME marte
+www.correo 86400 IN CNAME pluton
+www.fatec 86400 IN CNAME dns02
+www.feduto 86400 IN CNAME marte
+correo 86400 IN CNAME pluton
+bd2mysql 86400 IN CNAME marte
+www.jmorihuelac 86400 IN CNAME marte
+admin 86400 IN CNAME marte
+web 86400 IN CNAME marte
+dns02 86400 IN A 190.129.1.189
+documentos 86400 IN CNAME dns02
+www.fw 86400 IN CNAME fw01
+www.oc 86400 IN CNAME marte
+www.kardex 86400 IN CNAME marte
+dicyt 86400 IN CNAME marte
+dns 86400 IN CNAME pluton
+www.fau 86400 IN CNAME dns02
+www.fcs 86400 IN CNAME dns02
+www.teu 86400 IN CNAME marte
+eva 86400 IN CNAME marte
+sigma 86400 IN CNAME marte
+www.fcav 86400 IN CNAME marte

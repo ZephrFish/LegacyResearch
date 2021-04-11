@@ -1,0 +1,5 @@
+@ 86400 IN SOA primaryns.kiev.ua. pryadun.mail.ua. 2015031702 28800 7200 604800 86400
+@ 86400 IN NS ns.secondary.net.ua.
+86400 IN NS primaryns.kiev.ua.
+@ 86400 IN MX 10 mail
+mail 86400 IN A 193.34.94.131

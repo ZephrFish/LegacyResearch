@@ -1,0 +1,46 @@
+@ 300 IN SOA ns2.electricfiber.net. kahenp.electricfiber.com. 2015020301 10800 3600 604800 86400
+@ 300 IN NS ns1.electricfiber.net.
+300 IN NS ns2.electricfiber.net.
+@ 300 IN MX 10 nospam
+@ 300 IN A 173.203.132.148
+@ 300 IN TXT "MS=ms87765178"
+webmail 300 IN A 67.208.165.112
+geiselguides 300 IN CNAME v2.libguides.com.
+registration 300 IN A 184.75.195.224
+hawklearn 300 IN A 54.227.252.149
+cne 300 IN A 67.208.165.44
+cms 300 IN A 173.203.132.147
+search 300 IN A 67.208.165.29
+php64 300 IN A 67.208.165.17
+helpdesk 300 IN A 67.208.165.136
+athletics 300 IN CNAME www.prestosports.com.
+calendar 300 IN A 209.87.171.11
+nospam 300 IN A 67.208.165.7
+feeds 300 IN CNAME 4owqpv.feedproxy.ghs.google.com.
+groups 300 IN CNAME ghs.googlehosted.com.
+social 300 IN CNAME domains.getpressi.com.
+library.anselm.edu.library 300 IN NS ns2.electricfiber.net.library
+autodiscover 300 IN A 67.208.165.112
+Connect 300 IN A 67.208.165.200
+lantron1 300 IN A 67.208.165.23
+Financialaid 300 IN A 67.208.165.32
+*.library 300 IN A 67.208.165.20
+hawkgrid 300 IN A 67.208.165.46
+drive 300 IN CNAME ghs.googlehosted.com.
+report 300 IN A 67.208.165.169
+www 300 IN A 173.203.132.148
+myanselm 300 IN A 67.208.165.62
+portfolio 300 IN A 67.208.165.139
+blogs 300 IN A 173.203.132.148
+media 300 IN A 67.208.165.130
+catalog 300 IN CNAME anselm.catalog.acalog.com.
+reweb 300 IN A 67.208.165.25
+alumni 300 IN CNAME 6822.BBNC.BBCUST.com.
+m.catalog 300 IN CNAME anselm.catalog.acalog.com.
+QIVQBZ75K7WW 300 IN CNAME gv-SD3OIDRJNKUPMFJ7WGYYCR6JDCAMALZYEYANGNWNTUNGJ2BTW22Q.domainverify.googlehosted.com.
+library 300 IN A 67.208.165.20
+dove 300 IN A 64.80.91.3
+citrix 300 IN A 67.208.165.61
+support 300 IN A 67.208.165.40
+tickets 300 IN A 12.24.44.111
+learn 300 IN A 67.208.165.9

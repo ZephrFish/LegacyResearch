@@ -1,0 +1,134 @@
+@ 900 IN SOA ns1 ict 1173600033 3600 3600 21600 900
+@ 900 IN TXT "TXT     \"v=spf1 mx a:mail.iaun.ac.ir a:oiui.iaun.ac.ir a:proposal.iaun.ac.ir a:proposals.iaun.ac.ir -all\""
+@ 900 IN NS ns1
+900 IN NS ns2
+@ 900 IN A 178.157.60.2
+@ 900 IN MX 30 mail
+bdupdate 900 IN A 178.157.60.11
+pmi 900 IN MX 10 mail
+ceni 900 IN A 178.157.60.10
+sel 900 IN MX 10 mail
+ext.vpn 900 IN A 178.157.60.23
+ict.vc 900 IN A 178.157.60.37
+civildept 900 IN A 178.157.60.14
+nano 900 IN A 178.157.60.10
+eoa 900 IN A 178.157.60.13
+sar 900 IN MX 10 mail
+lib 900 IN A 178.157.60.12
+matlab 900 IN A 178.157.60.10
+snu 900 IN MX 10 mail
+sci 900 IN MX 10 mail
+proposal 900 IN A 178.157.60.10
+ngtc 900 IN A 178.157.60.10
+sco 900 IN MX 10 mail
+lit 900 IN A 178.157.60.10
+nursingdept 900 IN A 178.157.60.14
+sma.amrc 900 IN A 178.157.60.18
+userservice 900 IN A 178.157.60.13
+sei 900 IN A 178.157.60.13
+rcre 900 IN A 178.157.60.10
+pn 900 IN A 178.157.60.10
+pr 900 IN A 178.157.60.14
+materialsdept 900 IN A 178.157.60.14
+8ifcs 900 IN A 178.157.60.9
+se 900 IN A 178.157.60.4
+rs 900 IN A 178.157.60.13
+mail.sar 900 IN A 178.157.60.8
+shu 900 IN MX 10 mail
+mail.sci 900 IN A 178.157.60.8
+mail.sco 900 IN A 178.157.60.8
+hospital 900 IN A 178.157.60.14
+icme 900 IN A 178.157.60.10
+research 900 IN A 178.157.60.3
+ges 900 IN A 79.175.172.36
+diglib 900 IN A 178.157.60.13
+smd 900 IN MX 10 mail
+smi 900 IN MX 10 mail
+ws 900 IN A 178.157.60.13
+off 900 IN MX 10 mail
+lawdept 900 IN A 178.157.60.14
+sms 900 IN A 178.157.60.13
+smt 900 IN MX 10 mail
+nima 900 IN A 178.157.60.13
+electricaldept 900 IN A 178.157.60.14
+journals 900 IN A 178.157.60.3
+mail.shu 900 IN A 178.157.60.8
+mail.sin 900 IN A 178.157.60.8
+herasat 900 IN A 178.157.60.14
+nano-sym93 900 IN A 178.157.60.9
+basicsciences 900 IN A 178.157.60.14
+test 900 IN A 178.157.60.88
+ftp 900 IN A 178.157.60.10
+emc2016 900 IN A 178.157.60.22
+mail.smc 900 IN A 178.157.60.8
+mail.smd 900 IN A 178.157.60.8
+mail.smi 900 IN A 178.157.60.8
+mail.smt 900 IN A 178.157.60.8
+epay 900 IN A 178.157.60.13
+mail.snu 900 IN A 178.157.60.8
+dorredari 900 IN A 79.175.172.36
+proposals 900 IN A 178.157.60.14
+bd 900 IN A 178.157.60.11
+ns1 900 IN A 178.157.60.5
+ns2 900 IN A 178.157.60.7
+computerdept 900 IN A 178.157.60.14
+sin 900 IN MX 10 mail
+robotic 900 IN A 178.157.60.10
+amrc 900 IN A 178.157.60.18
+jipet 900 IN A 79.175.172.36
+literaturedept 900 IN A 178.157.60.14
+art 900 IN A 178.157.60.14
+register 900 IN A 178.157.60.3
+mail 900 IN A 178.157.60.8
+mpmpjournal 900 IN A 79.175.172.36
+engineeringdept 900 IN A 178.157.60.14
+variance 900 IN A 178.157.60.3
+par 900 IN MX 10 mail
+elp2012 900 IN A 178.157.60.10
+jeton 900 IN A 178.157.60.13
+ntp 900 IN A 178.157.60.7
+pci 900 IN MX 10 mail
+snmp 900 IN A 178.157.60.7
+mail.off 900 IN A 178.157.60.8
+medical 900 IN A 178.157.60.22
+pco 900 IN MX 10 mail
+mail.pci 900 IN A 178.157.60.8
+bpj 900 IN A 87.236.212.180
+iesc2012 900 IN A 178.157.60.10
+iesc2014 900 IN A 178.157.60.10
+pel 900 IN MX 10 mail
+student 900 IN A 178.157.60.13
+mail.par 900 IN A 178.157.60.8
+mail.sel 900 IN A 178.157.60.8
+jfl 900 IN A 79.175.172.36
+phu 900 IN MX 10 mail
+pin 900 IN MX 10 mail
+www.ceni 900 IN A 178.157.60.10
+mail.pco 900 IN A 178.157.60.8
+smc 900 IN MX 10 mail
+mail.pel 900 IN A 178.157.60.8
+faculties 900 IN A 178.157.60.22
+pmd 900 IN MX 10 mail
+offlinecourse 900 IN A 178.157.60.14
+fifh 900 IN A 178.157.60.10
+ccse 900 IN A 185.4.30.222
+pmt 900 IN MX 10 mail
+pnu 900 IN MX 10 mail
+mail.phu 900 IN A 178.157.60.8
+edu.amrc 900 IN A 178.157.60.10
+mail.pin 900 IN A 178.157.60.8
+www 900 IN A 178.157.60.2
+medicaldept 900 IN A 178.157.60.14
+oiui 900 IN A 178.157.60.13
+sport 900 IN A 178.157.60.10
+mail.pmc 900 IN A 178.157.60.8
+mail.pmd 900 IN A 178.157.60.8
+mail.pmi 900 IN A 178.157.60.8
+portal 900 IN A 178.157.60.3
+pub 900 IN A 178.157.60.10
+pmc 900 IN MX 10 mail
+ee 900 IN A 178.157.60.22
+mail.pmt 900 IN A 178.157.60.8
+www.nano 900 IN A 178.157.60.10
+staff 900 IN A 178.157.60.13
+mail.pnu 900 IN A 178.157.60.8

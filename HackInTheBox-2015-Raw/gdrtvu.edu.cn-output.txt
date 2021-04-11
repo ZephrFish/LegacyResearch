@@ -1,0 +1,91 @@
+@ 3600 IN SOA SUNSVR root.ximo.com.cn. 2015011604 30 30 360 3600
+@ 3600 IN MX 10 matrix
+@ 3600 IN NS sunsvr
+meizhou 3600 IN A 210.38.46.34
+meizhou 3600 IN MX 60 matrix
+ldap1 3600 IN A 210.38.32.95
+matrix 3600 IN A 59.42.214.94
+publish 3600 IN CNAME portal
+ldap 3600 IN A 210.38.32.93
+video 3600 IN A 210.38.32.217
+yangjiang 3600 IN A 210.38.45.34
+yangjiang 3600 IN MX 50 matrix
+heyuanmail 3600 IN A 210.38.45.20
+heyuanmail 3600 IN MX 500 heyuanmail
+nhdd 3600 IN A 210.38.32.6
+xiaoban 3600 IN MX 70 matrix
+lufeng 3600 IN A 210.38.43.10
+gs 3600 IN A 210.38.32.131
+qingyuan 3600 IN A 210.38.46.66
+nanhai 3600 IN A 210.38.45.98
+nerc 3600 IN A 210.38.32.220
+heyuan 3600 IN A 210.38.45.18
+cms 3600 IN A 210.38.32.91
+jwc 3600 IN A 210.38.32.184
+luhe 3600 IN A 210.38.43.18
+yunfu 3600 IN A 61.143.183.140
+zhaoqing 3600 IN A 210.38.45.162
+xj 3600 IN A 210.38.32.189
+cms1 3600 IN A 210.38.32.82
+jieyang 3600 IN A 210.38.45.242
+zhongshan 3600 IN A 210.38.45.130
+haifeng 3600 IN A 210.38.43.2
+zhuhaimail 3600 IN A 210.38.45.67
+zhanjiang 3600 IN A 210.38.45.194
+zhanjiang 3600 IN MX 100 matrix
+zzxx 3600 IN A 210.38.32.41
+security 3600 IN CNAME ldap
+pop3 3600 IN CNAME smtp
+mail 3600 IN CNAME smtp
+vpn 3600 IN A 210.38.47.50
+ghchen 3600 IN A 210.38.47.11
+ks 3600 IN A 210.38.32.182
+chaozhou 3600 IN A 210.38.46.18
+shantou 3600 IN A 210.38.46.2
+unixdomain 3600 IN A 210.38.32.25
+zjk 3600 IN A 210.38.32.180
+eyoufilter 3600 IN A 210.38.32.34
+nc 3600 IN MX 20 matrix
+shaoguan 3600 IN A 210.38.46.50
+shanwei 3600 IN A 210.38.45.2
+shanwei 3600 IN MX 40 matrix
+oa 3600 IN A 210.38.32.118
+ftp 3600 IN CNAME ncsvr8
+vbi 3600 IN A 210.38.32.222
+www 3600 IN A 210.38.32.4
+my 3600 IN CNAME portal
+kecheng 3600 IN A 210.38.32.42
+zs 3600 IN A 210.38.32.180
+mpe 3600 IN A 210.38.32.182
+dongguan 3600 IN A 210.38.45.220
+dongguan 3600 IN MX 90 matrix
+SUNSVR 3600 IN A 210.38.32.2
+gdcj 3600 IN CNAME cms1
+zhuhai 3600 IN A 210.38.45.66
+zhuhai 3600 IN MX 60 zhuhaimail
+ghwu 3600 IN A 210.38.47.17
+huizhou 3600 IN A 210.38.45.226
+huizhou 3600 IN MX 80 matrix
+database 3600 IN A 210.38.32.95
+open 3600 IN A 210.38.32.10
+foshan 3600 IN A 210.38.45.82
+ksz 3600 IN A 210.38.32.182
+gonglu 3600 IN A 210.38.46.242
+cj 3600 IN A 210.38.32.186
+www1 3600 IN CNAME www
+sq 3600 IN A 210.38.32.12
+portal 3600 IN A 210.38.32.92
+mcs 3600 IN A 210.38.32.12
+ncsvr8 3600 IN A 210.38.32.6
+library 3600 IN A 210.38.32.194
+pub 3600 IN A 210.38.32.42
+jiangmen 3600 IN A 210.38.45.146
+dns 3600 IN CNAME sunsvr
+ucenter 3600 IN CNAME ldap
+zjk2 3600 IN A 210.38.32.188
+maoming 3600 IN A 210.38.45.178
+maoming 3600 IN MX 110 matrix
+luoding 3600 IN A 210.38.44.250
+smtp 3600 IN A 210.38.32.22
+ntsvr 3600 IN A 210.38.32.5
+jiaowu 3600 IN MX 30 matrix

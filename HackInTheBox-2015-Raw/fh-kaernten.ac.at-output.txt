@@ -1,0 +1,13 @@
+@ 3600 IN SOA ns1 root 2012082101 10800 3600 604800 86400
+@ 3600 IN MX 100 mail05.cti.ac.at.
+3600 IN MX 100 mail07.cti.ac.at.
+@ 3600 IN NS ns1
+3600 IN NS ns2
+ns1 3600 IN A 193.171.119.77
+ns2 3600 IN A 193.171.127.177
+www 600 IN CNAME www.fh-kaernten.at.
+edu 3600 IN MX 100 mail05.cti.ac.at.
+3600 IN MX 100 mail07.cti.ac.at.
+edu 3600 IN A 193.171.127.154
+pmsrv 3600 IN A 192.168.55.60
+_autodiscover._tcp.edu 3600 IN SRV 0 5 443 mail.fh-kaernten.at.

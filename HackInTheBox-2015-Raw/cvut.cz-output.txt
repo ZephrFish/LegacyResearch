@@ -1,0 +1,690 @@
+@ 6400 IN SOA ns hostmaster 20001295 10800 1800 1209600 86400
+@ 6400 IN TXT "seIBuNBcvNeK9+Evkcig5KdavRRhFXEzhGCeU3BmsLh6L7Mn8VU0nd9RFxwJ7mKwKVETcgRw/COCLKtAjLRsjg=="
+@ 6400 IN MX 10 mailgw10
+6400 IN MX 100 mail-gw1
+@ 6400 IN A 147.32.3.133
+@ 6400 IN NS ns
+6400 IN NS nss
+bilakniha 6400 IN CNAME www2
+varhany 6400 IN CNAME www5.is
+www.intranet 6400 IN CNAME intranet
+rep 6400 IN NS ns.fsih
+6400 IN NS service.fsih
+icosymt 6400 IN A 147.32.241.6
+asy2-cs 6400 IN A 147.32.2.17
+www.knihovna 6400 IN CNAME knihovna.civ
+www.ctn-eurocodes 6400 IN CNAME www2
+eobchod 6400 IN A 147.32.3.90
+asy7-cs 6400 IN A 147.32.2.37
+qpr 6400 IN A 147.32.3.98
+www.knihovny 6400 IN CNAME knihovna.civ
+mlarg 6400 IN CNAME pck332-6.feld
+klokner-gw 6400 IN A 147.32.242.254
+mx325 6400 IN A 147.32.253.10
+www.maple 6400 IN CNAME maple
+elearning 6400 IN CNAME edge6.vc
+rcmt 6400 IN NS ns
+6400 IN NS ns.fsih
+6400 IN NS service.fsih
+andromeda.mk 6400 IN A 147.32.96.25
+wiki 6400 IN A 147.32.3.199
+ahojtechniko 6400 IN CNAME www2.sh
+asy11-cs 6400 IN A 147.32.2.53
+personal 6400 IN CNAME sharepoint
+dial-up1 6400 IN A 147.32.2.14
+dial-up2 6400 IN A 147.32.2.18
+dial-up3 6400 IN A 147.32.2.22
+dial-up4 6400 IN A 147.32.2.26
+dial-up5 6400 IN A 147.32.2.30
+dial-up6 6400 IN A 147.32.2.34
+dial-up7 6400 IN A 147.32.2.38
+dial-up8 6400 IN A 147.32.2.42
+_sip._tls 6400 IN SRV 0 0 443 sip
+emtech 6400 IN CNAME pck332-6.feld
+hk 6400 IN NS ns.hk
+6400 IN NS ns
+ipnmetodika 6400 IN CNAME sharepoint
+shp 6400 IN A 147.32.159.162
+usermap01 6400 IN A 147.32.240.69
+sim 6400 IN A 147.32.3.190
+sin 6400 IN NS ns
+6400 IN NS pride.sin
+sip 6400 IN A 147.32.3.155
+ns.uceeb 6400 IN A 147.32.99.3
+cnap 6400 IN CNAME netlab.feld
+dial-up12 6400 IN A 147.32.2.58
+kerberos 300 IN A 147.32.3.3
+www.cgg 6400 IN CNAME apps.felk
+www.ikos 6400 IN CNAME ikos
+sml 6400 IN CNAME www2
+kos01 6400 IN CNAME koscs
+kos02 6400 IN A 147.32.3.22
+kos03 6400 IN A 147.32.3.23
+kos04 6400 IN A 147.32.3.24
+kos11 6400 IN A 147.32.3.63
+detska-univerzita 6400 IN MX 10 mailgw10
+6400 IN MX 100 mail-gw1
+detska-univerzita 6400 IN A 147.32.129.94
+icsc-gw 6400 IN A 147.32.241.254
+tic 6400 IN NS nss
+6400 IN NS freyja.ic
+hades1.ad 6400 IN AAAA 2001:718:2:2202::161
+hades1.ad 6400 IN A 147.32.235.161
+www.prukazy 6400 IN CNAME web
+master 6400 IN A 147.32.3.110
+mailgw10 6400 IN A 147.32.235.54
+suz 6400 IN NS ns.suz
+6400 IN NS ns
+office 6400 IN CNAME sharepoint
+www.courseware 6400 IN CNAME ocw
+fis-gw 6400 IN A 147.32.3.1
+www.lvicata 6400 IN CNAME lvicata
+lipa 6400 IN A 147.32.235.4
+sharepoint 6400 IN A 147.32.3.248
+rozvoj 6400 IN CNAME www2
+anketa2 6400 IN A 147.32.3.104
+cvut-ts-gw 6400 IN A 147.32.254.1
+inovapoint 6400 IN NS nss
+6400 IN NS freyja.ic
+tempnet 6400 IN A 1.1.1.1
+mail-gw1 6400 IN A 147.32.235.52
+mail 6400 IN A 147.32.3.249
+ikos 6400 IN CNAME edge10.vc
+tecnicall 6400 IN CNAME www2
+portal.lg 6400 IN CNAME lg
+www.biomechanika 6400 IN CNAME biomechanika
+_kerberos-master._udp 6400 IN SRV 0 0 88 kerberos
+hades1.ms 6400 IN AAAA 2001:718:2:2202::161
+hades1.ms 6400 IN A 147.32.235.161
+virtual 6400 IN CNAME dynast.fel
+uni 6400 IN NS ns
+6400 IN NS nss
+service.fsih 6400 IN A 147.32.64.6
+www.czv 6400 IN CNAME czv
+upe 6400 IN CNAME upe.felk
+ns.ciirc 6400 IN A 147.32.69.2
+lcs.lg 6400 IN CNAME lg
+www.vvvs 6400 IN A 147.32.3.41
+www.varhany 6400 IN CNAME varhany
+vic 6400 IN NS ns
+6400 IN NS dc1.vic
+cdonline 6400 IN CNAME olc
+civ 6400 IN NS ns
+6400 IN NS nss
+tzs 6400 IN A 147.32.3.69
+student 6400 IN MX 10 svc1.sh
+6400 IN MX 10 svc2.sh
+student 6400 IN A 147.32.30.134
+www.media 6400 IN CNAME media
+generel 6400 IN CNAME www2
+www.robustnost 6400 IN CNAME www2
+www.llp-infra 6400 IN CNAME llp-infra
+networking2012 6400 IN CNAME pck332-6.feld
+semik 6400 IN A 147.32.240.123
+www.juniorakademie 6400 IN CNAME juniorakademie
+web 6400 IN A 147.32.3.40
+hades2.ms 6400 IN A 147.32.48.145
+ns.fa 6400 IN A 147.32.157.250
+mars.fsv 6400 IN A 147.32.129.26
+ns.fd 6400 IN A 147.32.100.3
+www.mobility 6400 IN CNAME mobility
+ajax 6400 IN CNAME foto.vc
+projects 6400 IN CNAME sharepoint
+technika 6400 IN NS ns.fsid
+www.fis 6400 IN CNAME www6.is
+ns.hk 6400 IN A 147.32.98.2
+feld-gw 6400 IN A 147.32.192.1
+icosym 6400 IN CNAME virtual
+nss-gw 6400 IN A 147.32.1.10
+akce2 6400 IN A 147.32.3.77
+web.isc 6400 IN CNAME ghs.google.com.
+vvvs2 6400 IN A 147.32.3.84
+vytos 6400 IN CNAME civ2
+industrial 6400 IN CNAME www5.is
+ns2.buk 6400 IN AAAA 2001:718:2:980::21
+ns2.buk 6400 IN A 147.32.104.21
+biblio.knihovna 6400 IN A 147.32.235.120
+erasmus 6400 IN CNAME www.erasmus
+ciirc 6400 IN NS ns.ciirc
+www.emtech 6400 IN CNAME emtech
+alumni 6400 IN MX 0 mailgw
+alumni 6400 IN A 147.32.240.99
+svc2.sh 6400 IN AAAA 2001:718:2::218
+svc2.sh 6400 IN A 147.32.127.218
+lux.feld 6400 IN A 147.32.192.250
+ns.fbmi 6400 IN A 147.32.229.10
+freyja.inovacentrum 6400 IN A 147.32.248.120
+freyja.ic 6400 IN A 93.185.110.150
+ns.ok 6400 IN A 147.32.108.2
+akce 6400 IN A 147.32.3.64
+vvvs 6400 IN A 147.32.3.9
+serv-gw 6400 IN A 147.32.232.1
+energetika 6400 IN CNAME www5.is
+www.fsp 6400 IN CNAME www2
+asy14-cs 6400 IN A 147.32.2.65
+fsid-gw 6400 IN A 147.32.160.1
+qprt 6400 IN A 147.32.3.5
+ns.su 6400 IN AAAA 2a01:430:17:1::ffff:496
+ns.su 6400 IN A 37.205.9.95
+educa 6400 IN CNAME www2
+www.egjes 6400 IN CNAME www6.is
+www.egjet 6400 IN CNAME www6.is
+architektura 6400 IN CNAME black.fa
+ns1.fsid 6400 IN A 147.32.160.5
+_kerberos 6400 IN TXT "CVUT.CZ"
+www.leonardo 6400 IN CNAME www2
+www 6400 IN A 147.32.3.133
+eaeeie 6400 IN CNAME eaeeie.comtel.cz.
+_sipfederationtls._tcp 6400 IN SRV 0 0 5061 sip
+dial-up9 6400 IN A 147.32.2.46
+ib 6400 IN CNAME pcK338-249.feld
+crrc 6400 IN MX 0 mailgw1.fjfi
+6400 IN MX 100 mailgw2.fjfi
+crrc 6400 IN A 147.32.5.11
+ns.pod 6400 IN A 147.32.88.5
+asy5-cs 6400 IN A 147.32.2.29
+zan 6400 IN CNAME www2
+rek 6400 IN NS ns
+6400 IN NS nss
+ph 6400 IN NS ns
+6400 IN NS nss
+www.office 6400 IN CNAME office
+mentoring 6400 IN A 147.32.3.57
+i2010 6400 IN CNAME webloy.comtel.cz.
+ocean 6400 IN A 147.32.3.74
+inpoint 6400 IN NS nss
+6400 IN NS freyja.ic
+usermap 6400 IN MX 10 mailgw
+usermap 6400 IN A 147.32.3.14
+ezop 6400 IN A 147.32.3.15
+www.igs 6400 IN A 147.32.3.48
+hades.ad 6400 IN AAAA 2001:718:2:2202::160
+hades.ad 6400 IN A 147.32.235.160
+ads 6400 IN A 147.32.3.221
+debian 6400 IN CNAME ftp
+moodle 6400 IN CNAME ocw
+koscs 6400 IN A 147.32.3.50
+autodiscover 6400 IN CNAME o365
+vc-gw 6400 IN A 147.32.240.254
+elefantc 6400 IN CNAME pcK332-6.feld
+sgs 6400 IN A 147.32.3.142
+buldok 6400 IN MX 0 buldok
+buldok 6400 IN A 147.32.253.253
+elefants 6400 IN CNAME pcK332-6.feld
+sbor 6400 IN CNAME www2
+forum 6400 IN A 147.32.3.68
+eforce 6400 IN MX 0 ispc01.suptech.cz.
+eforce 6400 IN A 81.19.11.201
+_cuplogin._tcp 6400 IN SRV 5 100 8443 cups1
+ns.fsid 6400 IN A 147.32.160.4
+inforek2 6400 IN A 147.32.3.11
+inforek2 6400 IN NS ns
+6400 IN NS nss
+ns.fsih 6400 IN A 147.32.64.5
+ns.fsik 6400 IN A 147.32.48.7
+bbs 6400 IN CNAME forrest.fsik
+iknow 6400 IN CNAME iknow.sh
+icosym-nt 6400 IN CNAME icosym
+www.isc 6400 IN CNAME isc
+fsid 6400 IN NS ns
+6400 IN NS ns.fsid
+6400 IN NS ns1.fsid
+www.vav-portal 6400 IN CNAME vav-portal
+fsih 6400 IN NS ns
+6400 IN NS ns.fsid
+6400 IN NS ns.fsih
+6400 IN NS service.fsih
+studium 6400 IN CNAME www2
+fsik 6400 IN NS ns
+6400 IN NS ns.fsik
+asy8-cs 6400 IN A 147.32.2.41
+pluto.adtest 6400 IN AAAA 2001:718:2:2301::254
+pluto.adtest 6400 IN A 147.32.247.254
+www.dnep 6400 IN CNAME dnep
+nss.fd 6400 IN A 147.32.72.3
+fs.lg 6400 IN CNAME lg
+vcsun 6400 IN CNAME ns
+isc2 6400 IN A 147.32.3.89
+bic 6400 IN NS nss
+6400 IN NS freyja.ic
+generator 6400 IN A 147.32.3.134
+hades.ms 6400 IN AAAA 2001:718:2:2202::160
+hades.ms 6400 IN A 147.32.235.160
+konstrukce 6400 IN CNAME www2
+cai 6400 IN A 147.32.211.47
+vav-prorektor 6400 IN CNAME www2
+www.icosym 6400 IN CNAME icosym
+cisco-gw 6400 IN A 147.32.235.1
+kmat-feld-gw 6400 IN A 147.32.244.254
+dipole 6400 IN A 147.32.252.102
+improvet 6400 IN CNAME pcK332-6.feld
+cvut-gw 6400 IN A 147.32.252.2
+cm1 6400 IN A 147.32.240.25
+bpm 6400 IN A 147.32.3.16
+muvs 6400 IN NS ns
+6400 IN NS nss
+6400 IN NS service.muvs
+registr2 6400 IN A 147.32.3.187
+www.alumni 6400 IN CNAME alumni
+pandora-atm 6400 IN CNAME h50-atm
+cisco 6400 IN CNAME cvut-gw
+cig 6400 IN CNAME cig.felk
+prukazy 6400 IN CNAME www.prukazy
+dial-up10 6400 IN A 147.32.2.50
+jira 6400 IN A 147.32.3.52
+ects 6400 IN CNAME www2
+dial-up13 6400 IN A 147.32.2.62
+dial-up14 6400 IN A 147.32.2.66
+dial-up15 6400 IN A 147.32.2.70
+dial-up16 6400 IN A 147.32.2.74
+research 6400 IN A 147.32.3.239
+www.spolek 6400 IN CNAME spolek
+buk 6400 IN NS ns1.buk
+6400 IN NS ns2.buk
+rozvrhy 6400 IN A 147.32.3.99
+dnep 6400 IN A 147.32.3.145
+biomechanika 6400 IN CNAME www.biomechanika.cz.
+online2 6400 IN CNAME www2
+cms 6400 IN A 147.32.3.62
+login.tempnet 6400 IN A 1.1.1.1
+ns.suz 6400 IN A 147.32.32.10
+www.egje 6400 IN CNAME www6.is
+lvicata 6400 IN MX 10 mailgw10
+6400 IN MX 100 mail-gw1
+lvicata 6400 IN A 147.32.100.7
+vcpd 6400 IN NS ns
+6400 IN NS nss
+portalt 6400 IN A 147.32.3.99
+www.kuz 6400 IN CNAME kuz
+cri 6400 IN A 147.32.3.178
+dik 6400 IN NS ns.ok
+6400 IN NS ns
+ojs 6400 IN A 147.32.3.251
+csp 6400 IN NS nss
+6400 IN NS freyja.ic
+lyncdiscover 6400 IN CNAME lync
+docs.isc 6400 IN CNAME ghs.google.com.
+tinat2 6400 IN A 147.32.3.75
+ctn 6400 IN NS ns
+6400 IN NS nss
+nss.fit 6400 IN AAAA 2001:718:2:2901::234
+nss.fit 6400 IN A 147.32.232.234
+www.improvet 6400 IN CNAME improvet
+cul 6400 IN A 147.32.3.160
+edd 6400 IN A 147.32.240.82
+fjfi.lg 6400 IN CNAME lg
+procesy 6400 IN A 147.32.3.115
+inova 6400 IN NS nss
+6400 IN NS freyja.ic
+k4 6400 IN A 147.32.3.51
+fd 6400 IN NS ns.fd
+6400 IN NS ns
+6400 IN NS nss.fd
+6400 IN NS dhcp.fd
+svc1.sh 6400 IN AAAA 2001:718:2::214
+svc1.sh 6400 IN A 147.32.127.214
+fis-atm 6400 IN CNAME j30-atm
+chynda 6400 IN A 147.32.240.20
+fs 6400 IN NS ns.fsid
+6400 IN NS ns1.fsid
+czv 6400 IN A 147.32.3.151
+ic 6400 IN NS nss
+6400 IN NS freyja.ic
+cartech 6400 IN NS ns.fsid
+6400 IN NS nss.fsid
+fel.lg 6400 IN CNAME lg
+is 6400 IN NS ns
+6400 IN NS nss
+pas 6400 IN A 147.32.3.73
+victoria 6400 IN MX 10 andrea.vc
+victoria 6400 IN A 147.32.3.10
+ki 6400 IN CNAME www2
+emc 6400 IN CNAME emc.feld
+fcm 6400 IN CNAME www2
+lg 6400 IN MX 10 lg
+lg 6400 IN A 147.32.211.71
+prvak 6400 IN CNAME www2.sh
+zakazky 6400 IN A 147.32.3.70
+fel 6400 IN NS ns
+6400 IN NS lux.fel
+6400 IN NS ns1.feld
+mk 6400 IN NS perseus.mk
+6400 IN NS andromeda.mk
+scanfis 6400 IN A 147.32.3.189
+ms 6400 IN NS ns
+6400 IN NS hades1.ms
+6400 IN NS hades2.ms
+ns 6400 IN AAAA 2001:718:2:2200::100
+ns 6400 IN A 147.32.1.20
+ok 6400 IN NS ns.ok
+6400 IN NS ns
+egje 6400 IN A 147.32.3.184
+om 6400 IN MX 0 mail-gw
+om 6400 IN A 147.32.3.221
+www.ocw 6400 IN CNAME ocw
+emc1a 6400 IN A 147.32.3.152
+emc1b 6400 IN A 147.32.3.153
+www.eforce 6400 IN CNAME eforce
+isfbmi 6400 IN A 147.32.230.20
+asy12-cs 6400 IN A 147.32.2.57
+adtestik 6400 IN A 147.32.241.141
+gis 6400 IN NS ns.gis
+6400 IN NS ns
+uceeb 6400 IN NS ns.uceeb
+6400 IN NS ns2.uceeb
+fit 6400 IN NS ns.fit
+6400 IN NS ns
+6400 IN NS nss.fit
+h50-atm 6400 IN A 147.32.249.51
+courseware 6400 IN CNAME ocw
+sf 6400 IN CNAME www2
+sh 6400 IN NS svc1.sh
+6400 IN NS svc2.sh
+6400 IN NS svc3.sh
+www.prihlaska 6400 IN CNAME prihlaska
+rs 6400 IN CNAME ns
+st-dum-gw 6400 IN A 147.32.224.1
+sp 6400 IN CNAME sharepoint
+su 6400 IN NS ns.su
+6400 IN NS ns2.buk
+tp 6400 IN NS svc1.sh
+6400 IN NS svc2.sh
+service 6400 IN A 147.32.3.4
+uk 6400 IN NS ns
+6400 IN NS nss
+vc 6400 IN NS ns
+6400 IN NS nss
+www.u3v 6400 IN CNAME u3v
+llp-infra 6400 IN CNAME www5.is
+mail-gw 6400 IN A 147.32.253.78
+us 6400 IN A 147.32.3.221
+ns.bion 6400 IN A 147.32.229.157
+pride.sin 6400 IN A 147.32.110.1
+dejvice 6400 IN NS ns.ok
+6400 IN NS ns
+bion 6400 IN NS ns.bion
+6400 IN NS ns2.bion
+svc3.sh 6400 IN A 81.95.108.125
+slave 6400 IN A 147.32.3.198
+incentrum 6400 IN NS nss
+6400 IN NS freyja.ic
+ns2.uceeb 6400 IN A 147.32.99.4
+fa-gw 6400 IN A 147.32.159.254
+www.pes 6400 IN CNAME mis
+fsi 6400 IN NS ns
+6400 IN NS ns.fsid
+asy3-cs 6400 IN A 147.32.2.21
+fw-1.fa 6400 IN A 147.32.159.249
+inforek 6400 IN A 147.32.3.62
+inforek 6400 IN NS ns
+6400 IN NS nss
+perseus.mk 6400 IN A 147.32.96.1
+fsp 6400 IN CNAME www2
+archive 6400 IN CNAME ftp
+dial-up11 6400 IN A 147.32.2.54
+fsv 6400 IN NS ns
+6400 IN NS mars.fsv
+ftp 6400 IN NS ns.fsid
+6400 IN NS ns1.fsid
+cwe1.civ1 6400 IN A 147.32.235.202
+localhost 6400 IN A 127.0.0.1
+aspi9 6400 IN CNAME buldok
+global 6400 IN A 147.32.3.97
+www.kos 6400 IN A 147.32.3.36
+media 6400 IN CNAME fotobanka.is
+camp 6400 IN NS svc1.sh
+6400 IN NS svc2.sh
+robustnost 6400 IN CNAME www2
+asy15-cs 6400 IN A 147.32.2.69
+www2 6400 IN A 147.32.3.12
+www3 6400 IN CNAME www2
+phd 6400 IN A 147.32.3.44
+regata1 6400 IN A 147.32.3.31
+fsv-gw 6400 IN A 147.32.129.254
+workshop 6400 IN A 147.32.3.86
+strahov 6400 IN NS ns.suz
+6400 IN NS ns
+sp2-gw 6400 IN A 147.32.235.1
+gtf 6400 IN CNAME tutanchamon
+minilab 6400 IN CNAME minilab.civ
+fw-2.fa 6400 IN A 147.32.159.248
+ples 6400 IN CNAME www2
+reports 6400 IN A 147.32.3.102
+idm 6400 IN A 147.32.3.192
+_cisco-uds._tcp 6400 IN SRV 1 5 8443 ccm1
+6400 IN SRV 2 20 8443 ccm2
+mailgw 6400 IN MX 5 mailgw
+6400 IN MX 200 ns
+mailgw 6400 IN A 147.32.3.235
+multimedia 6400 IN CNAME www2
+fd-gw 6400 IN A 147.32.100.1
+kos 6400 IN CNAME www.kos
+*.isc 6400 IN AAAA 2a03:b0c0:1:d0::49:1
+*.isc 6400 IN A 178.62.47.43
+webfis3 6400 IN A 147.32.3.17
+ccm1 6400 IN AAAA 2001:718:2:2201::199
+ccm1 6400 IN A 147.32.240.199
+ccm2 6400 IN AAAA 2001:718:2:2201::200
+ccm2 6400 IN A 147.32.240.200
+ccm3 6400 IN A 147.32.246.246
+ccm4 6400 IN A 147.32.157.66
+webmail 6400 IN CNAME groupwise-3.vc
+igs 6400 IN CNAME www.igs
+barevnysvetdeti 6400 IN CNAME pcK332-6.feld
+abonent 6400 IN A 147.32.3.150
+www.i2010 6400 IN CNAME i2010
+fa.lg 6400 IN CNAME lg
+pspev 6400 IN CNAME webloy.comtel.cz.
+ip6 6400 IN A 147.32.240.132
+lists.isc 6400 IN CNAME chat.sh
+maple 6400 IN CNAME ads
+www.qpr 6400 IN CNAME qpr
+www.studna 6400 IN CNAME inforek2
+tzst 6400 IN A 147.32.3.143
+kerberos1 300 IN A 147.32.3.236
+kerberos2 300 IN A 147.32.48.98
+kerberos3 300 IN A 147.32.230.252
+kerberos4 300 IN A 147.32.23.210
+www4 6400 IN A 147.32.3.72
+pvoch 6400 IN CNAME www2
+sinkul-gw 6400 IN A 147.32.110.1
+pavlik 6400 IN CNAME www2
+inkubator 6400 IN NS nss
+6400 IN NS freyja.ic
+ns2.bion 6400 IN A 147.32.226.156
+www.workshop 6400 IN CNAME workshop
+techfilm 6400 IN CNAME comtel.feld
+unity 6400 IN A 147.32.240.202
+novyprogram.informatika 6400 IN CNAME www2
+dfa 6400 IN CNAME bio.felk
+isc 6400 IN MX 1 aspmx.l.google.com.
+6400 IN MX 5 alt1.aspmx.l.google.com.
+6400 IN MX 5 alt2.aspmx.l.google.com.
+isc 6400 IN AAAA 2a03:b0c0:1:d0::49:1
+isc 6400 IN A 178.62.47.43
+remdat 6400 IN CNAME cul
+registr 6400 IN A 147.32.3.58
+_kerberos._udp 6400 IN SRV 0 0 88 kerberos
+6400 IN SRV 0 0 88 kerberos1
+6400 IN SRV 0 0 88 kerberos2
+6400 IN SRV 0 0 88 kerberos3
+6400 IN SRV 0 0 88 kerberos4
+fbmi 6400 IN NS ns.fbmi
+6400 IN NS nss
+altknihovna 6400 IN CNAME altknihovny
+www.sgs 6400 IN CNAME sgs
+www.shp 6400 IN CNAME shp
+test.isvav 6400 IN A 147.32.3.76
+ns.utef 6400 IN A 147.32.68.5
+www.sim 6400 IN CNAME sim
+power6 6400 IN A 147.32.3.2
+power7 6400 IN A 147.32.3.11
+altknihovny 6400 IN A 147.32.240.196
+juniorakademie 6400 IN CNAME multimedia
+asy9-cs 6400 IN A 147.32.2.45
+utef 6400 IN NS ns
+6400 IN NS ns.utef
+aleph 6400 IN A 147.32.3.158
+ns1.feld 6400 IN A 147.32.192.4
+www.ojs 6400 IN CNAME ojs
+www.karty 6400 IN CNAME web
+vav-portal 6400 IN CNAME www2
+storage 6400 IN CNAME ftp
+www.detska-univerzita 6400 IN CNAME detska-univerzita
+mirror 6400 IN CNAME ftp
+lync 6400 IN A 147.32.3.154
+cups1 6400 IN A 147.32.240.198
+studentskyples 6400 IN CNAME www3.sh
+team 6400 IN CNAME sharepoint
+vpn 6400 IN A 147.32.252.142
+helpdesk 6400 IN CNAME jira
+elsa 6400 IN NS ns.fjfi
+6400 IN NS nss
+kos01a 6400 IN A 147.32.3.21
+adtest 6400 IN NS ns
+www.vav-prorektor 6400 IN CNAME vav-prorektor
+bozek 6400 IN NS ns.fsid
+fd.lg 6400 IN CNAME lg
+regata3 6400 IN A 147.32.3.33
+akceprvak 6400 IN CNAME www2.sh
+anketa 6400 IN A 147.32.3.46
+o365 6400 IN A 147.32.3.250
+icm1 6400 IN A 147.32.235.38
+fjfi-br-gw 6400 IN A 147.32.5.1
+service.muvs 6400 IN A 147.32.67.6
+mobility 6400 IN A 147.32.3.228
+rfidlab 6400 IN A 147.32.211.47
+www.ib 6400 IN CNAME pcK338-249.feld
+kuz 6400 IN CNAME www.fd
+www.industrial 6400 IN CNAME industrial
+www.pspev 6400 IN CNAME pspev
+utvs 6400 IN NS ns
+6400 IN NS nss
+cs-damis 6400 IN A 147.32.254.3
+www.ki 6400 IN CNAME ki
+idmt1 6400 IN A 147.32.3.108
+idmt2 6400 IN A 147.32.3.109
+ns.felk 6400 IN AAAA 2001:718:2:1611::1:0:90
+ns.felk 6400 IN A 147.32.80.9
+spolek 6400 IN MX 0 mailgw
+spolek 6400 IN A 147.32.3.12
+uvic 6400 IN NS ns
+6400 IN NS nss
+feld 6400 IN NS ns
+6400 IN NS lux.feld
+6400 IN NS ns1.feld
+www.energetika 6400 IN CNAME www5.is
+en.lg 6400 IN CNAME lg
+www.upe 6400 IN CNAME upe
+tinat 6400 IN A 147.32.3.94
+mis 6400 IN A 147.32.3.56
+felk 6400 IN NS ns
+6400 IN NS ns.felk
+asy10-cs 6400 IN A 147.32.2.49
+www.virtual 6400 IN CNAME virtual
+www.om 6400 IN CNAME om
+intelect 6400 IN CNAME pcK332-6.feld
+bpmt 6400 IN A 147.32.3.19
+oslavy300let 6400 IN CNAME ads
+net 6400 IN NS ns
+6400 IN NS nss
+kredo 6400 IN AAAA 2001:718:2:2301::253
+kredo 6400 IN A 147.32.247.253
+dspace 6400 IN A 147.32.3.96
+www.student 6400 IN CNAME student
+www.generel 6400 IN CNAME www2
+webfis6 6400 IN A 147.32.3.93
+jilm.civ 6400 IN A 147.32.235.101
+ieee 6400 IN NS svc1.sh
+6400 IN NS svc2.sh
+private 6400 IN A 147.32.3.66
+www.us 6400 IN CNAME us
+tivoli 6400 IN A 147.32.3.125
+download 6400 IN A 147.32.235.130
+j30-atm 6400 IN A 147.32.249.50
+inovacentrum 6400 IN NS nss
+6400 IN NS freyja.ic
+ns1.buk 6400 IN AAAA 2001:718:2:980::20
+ns1.buk 6400 IN A 147.32.104.20
+asy1-cs 6400 IN A 147.32.2.13
+parkovani 6400 IN CNAME www2
+ns3 6400 IN AAAA 2001:718:2:2202::235
+ns3 6400 IN A 147.32.235.235
+ocw 6400 IN A 147.32.235.139
+ns.fit 6400 IN AAAA 2001:718:2:2901::232
+ns.fit 6400 IN A 147.32.232.232
+www.ubmi 6400 IN CNAME www.fbmi
+www.heritage 6400 IN CNAME www2
+dejinystaveb 6400 IN A 147.32.3.67
+nss.pod 6400 IN A 147.32.88.3
+fsv.lg 6400 IN CNAME lg
+koncerty 6400 IN CNAME www2
+www.damy 6400 IN CNAME damy
+klok 6400 IN NS ns
+6400 IN NS nss
+asy13-cs 6400 IN A 147.32.2.61
+anketa-vyvoj 6400 IN A 147.32.3.141
+www.erasmus 6400 IN A 147.32.3.54
+u3v 6400 IN A 147.32.3.103
+www.pki 6400 IN CNAME pki
+nss 6400 IN AAAA 2001:718:2:2200::101
+nss 6400 IN A 147.32.1.9
+nss 6400 IN MX 5 mailgw
+olc 6400 IN AAAA 2001:718:2:2201:203:47ff:fe62:dc39
+olc 6400 IN MX 0 mailgw
+olc 6400 IN A 147.32.240.141
+egjes 6400 IN A 147.32.3.188
+egjet 6400 IN A 147.32.3.182
+www.lg 6400 IN CNAME lg
+ns.fsi 6400 IN A 147.32.160.4
+ns.gis 6400 IN A 147.32.157.183
+oms 6400 IN CNAME www2
+usermapt 6400 IN A 147.32.240.157
+bladeB01 6400 IN A 147.32.3.121
+bladeB04 6400 IN A 147.32.3.124
+pes 6400 IN CNAME mis
+bladeB11 6400 IN A 147.32.3.131
+bladeB12 6400 IN A 147.32.3.132
+civ1 6400 IN NS ns
+6400 IN NS nss
+civ2 6400 IN A 147.32.240.207
+intranet 6400 IN A 147.32.3.39
+prihlaska 6400 IN A 147.32.3.49
+www.download 6400 IN CNAME download
+knihovna 6400 IN CNAME knihovna.civ
+cips 6400 IN NS ns
+6400 IN NS nss
+unilogy 6400 IN A 147.32.246.202
+asy4-cs 6400 IN A 147.32.2.25
+webfis4 6400 IN A 147.32.3.91
+pki 6400 IN A 147.32.3.229
+knihovny 6400 IN CNAME knihovna.civ
+webfis5 6400 IN A 147.32.3.92
+1-kb.usermap 6400 IN CNAME usermap
+asy6-cs 6400 IN A 147.32.2.33
+_xmpp-server._tcp 6400 IN SRV 0 0 5269 cups1
+tutanchamon 6400 IN A 147.32.3.18
+pod 6400 IN NS ns.pod
+6400 IN NS nss.pod
+www.koncerty 6400 IN CNAME www2
+www.konstrukce 6400 IN CNAME www2
+asy16-cs 6400 IN A 147.32.2.73
+dialog 6400 IN A 147.32.240.57
+dialog 6400 IN NS dialog
+calendar.isc 6400 IN CNAME ghs.google.com.
+damy 6400 IN CNAME www2
+fa 6400 IN NS ns.fa
+6400 IN NS fw-1.fa
+6400 IN NS fw-2.fa
+tina 6400 IN A 147.32.3.61
+www.anketa 6400 IN CNAME anketa
+lux.fel 6400 IN A 147.32.192.250
+office365 6400 IN CNAME logon.ms
+mail.isc 6400 IN CNAME ghs.google.com.
+psh 6400 IN CNAME olc
+*.biblio.knihovna 6400 IN A 147.32.235.120
+fis1 6400 IN A 147.32.235.53
+www.ads 6400 IN CNAME ads
+ns.fjfi 6400 IN A 147.32.9.4
+fjfi 6400 IN NS ns
+6400 IN NS ns.fjfi

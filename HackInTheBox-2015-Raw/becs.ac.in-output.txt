@@ -1,0 +1,119 @@
+@ 86400 IN SOA manas manas 2015032501 10800 3600 604800 3600
+@ 3600 IN NS amit
+3600 IN NS manas
+@ 3600 IN MX 0 mail.iiests.ac.in.
+@ 3600 IN TXT "Bengal"
+metis 3600 IN CNAME mining
+betanmagazine 3600 IN CNAME manas
+jst 3600 IN MX 0 mail.iiests.ac.in.
+jexab 3600 IN A 117.211.84.229
+oldmatsc 3600 IN A 210.212.15.19
+oldinstruo 3600 IN CNAME oldwww
+oldmining 3600 IN A 210.212.15.11
+contex 3600 IN A 210.212.15.24
+soms.becs.ac.in 3600 IN MX 0 mail.iiests.ac.in.
+it 3600 IN A 14.139.223.173
+it 3600 IN MX 0 mail.iiests.ac.in.
+arch 3600 IN A 14.139.223.186
+arch 3600 IN MX 0 mail.iiests.ac.in.
+geology 3600 IN A 210.212.15.30
+mech 3600 IN A 14.139.223.183
+mech 3600 IN MX 0 mail.iiests.ac.in.
+oldwww 3600 IN A 14.139.223.164
+oldappmech 3600 IN A 210.212.15.17
+www 86400 IN CNAME mining
+physics.becs.ac.in 3600 IN MX 0 physics
+oldvlsi 3600 IN A 210.212.15.25
+mozti 3600 IN CNAME svn
+rebeca2012 3600 IN CNAME mining
+rebeca2013 3600 IN CNAME mining
+library 3600 IN A 14.139.223.175
+library 3600 IN MX 0 mail.iiests.ac.in.
+manas 3600 IN A 14.139.223.162
+sifyrouter 3600 IN A 124.30.196.1
+webmail 3600 IN A 220.225.86.91
+oldamit 3600 IN A 220.225.86.68
+aero 3600 IN MX 0 mail.iiests.ac.in.
+oldoldwww 3600 IN A 220.225.86.101
+vlsi 3600 IN A 14.139.223.188
+vlsi 3600 IN MX 0 mail.iiests.ac.in.
+whiteboard 3600 IN CNAME svn
+rebeca 3600 IN CNAME mining
+nat 3600 IN A 14.139.223.171
+moodle 3600 IN CNAME mining
+epitome 3600 IN A 59.93.252.209
+instruo 86400 IN CNAME manas
+ftp 3600 IN A 210.212.15.29
+chem 3600 IN A 14.139.223.175
+chem 3600 IN MX 0 mail.iiests.ac.in.
+digigeo 3600 IN CNAME mining
+seihsm 3600 IN MX 0 mail.iiests.ac.in.
+publication 86400 IN CNAME mining
+npec2011 3600 IN CNAME manas
+amit 3600 IN A 14.139.223.163
+oldcivil 3600 IN A 220.225.86.76
+oldmail 3600 IN A 220.225.86.120
+oldpdsit 3600 IN A 210.212.15.22
+matsc 3600 IN MX 0 mail.iiests.ac.in.
+human 3600 IN A 210.212.15.13
+purity 86400 IN CNAME hp3
+appmech 3600 IN A 14.139.223.180
+mrtg 3600 IN A 220.225.86.117
+svn 3600 IN A 14.139.223.168
+office 3600 IN MX 0 mail.iiests.ac.in.
+mechatronics 3600 IN MX 0 mail.iiests.ac.in.
+hp2 3600 IN CNAME svn
+hp3 3600 IN A 14.139.223.177
+telecom 3600 IN MX 0 mail.iiests.ac.in.
+becsu 3600 IN CNAME oldwww
+becsoms 3600 IN A 210.212.15.15
+oldcore 3600 IN A 220.225.86.66
+oldoldoldwww 3600 IN A 220.225.86.92
+oldjexab 3600 IN A 220.225.86.85
+mail 3600 IN A 14.139.223.165
+newmail 3600 IN A 14.139.223.185
+nss 3600 IN CNAME mining
+oldvibgyor 3600 IN A 220.225.86.93
+hrm 3600 IN A 210.212.15.14
+hrm 3600 IN MX 0 mail.iiests.ac.in.
+oldoffice 3600 IN A 210.212.15.21
+euphony 3600 IN CNAME mining
+hss 3600 IN MX 0 mail.iiests.ac.in.
+exam 3600 IN A 14.139.223.179
+core 3600 IN A 14.139.223.169
+sarat 86400 IN CNAME nat
+online 86400 IN CNAME mining
+asterisk 3600 IN A 220.225.86.118
+math 3600 IN A 14.139.223.178
+math 3600 IN MX 0 mail.iiests.ac.in.
+sarat-rachanabali 86400 IN CNAME nat
+oldmanas 3600 IN A 220.225.86.67
+available1 3600 IN A 14.139.223.170
+cegess 3600 IN MX 0 mail.iiests.ac.in.
+ololdmanas 3600 IN A 210.212.15.2
+robodarshan 3600 IN CNAME mining
+metal 3600 IN MX 0 mail.iiests.ac.in.
+civil 3600 IN A 14.139.223.181
+civil 3600 IN MX 0 mail.iiests.ac.in.
+mining 3600 IN A 14.139.223.176
+mining 3600 IN MX 0 mail.iiests.ac.in.
+pdsit 3600 IN A 14.139.223.184
+pdsit 3600 IN MX 0 mail.iiests.ac.in.
+oldlibrary 3600 IN A 210.212.15.20
+students 3600 IN MX 0 1882953171.mail.exchangelabs.com.
+teqip-ii 3600 IN CNAME mining
+physics 3600 IN A 14.139.223.172
+chest 3600 IN MX 0 mail.iiests.ac.in.
+oldwebmail 3600 IN A 210.212.15.28
+oldoldamit 3600 IN A 210.212.15.3
+gallery 3600 IN CNAME webmail
+oldmech 3600 IN A 210.212.15.18
+cs 3600 IN A 14.139.223.166
+cs 3600 IN MX 0 mail.iiests.ac.in.
+oldee 3600 IN A 210.212.15.6
+ee 3600 IN A 14.139.223.176
+ee 3600 IN MX 0 mail.iiests.ac.in.
+selfservice 3600 IN CNAME manas
+reliancerouter 3600 IN A 220.225.86.65
+vibgyor 3600 IN A 14.139.223.167
+dw 86400 IN CNAME mining

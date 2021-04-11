@@ -1,0 +1,33 @@
+@ 3600 IN SOA ns1.dollardns.net. admin 2014122301 1800 21600 2419200 300
+@ 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+@ 3600 IN A 222.124.3.22
+@ 86400 IN NS ns1
+86400 IN NS ns1.dollardns.net.
+umpn 3600 IN CNAME @
+ns1 3600 IN A 222.124.3.22
+tania 3600 IN CNAME @
+it 3600 IN CNAME @
+phpmyadmin 3600 IN CNAME @
+mesin 3600 IN CNAME @
+mail 3600 IN CNAME @
+rahmad 3600 IN CNAME @
+akademik 3600 IN A 222.124.3.20
+cdc 3600 IN CNAME @
+elearning 3600 IN CNAME @
+elektro 3600 IN CNAME @
+snyube2013 3600 IN CNAME @
+cpanel 3600 IN A 119.81.40.136
+www 3600 IN CNAME @
+jurnal 3600 IN CNAME @
+usmp 3600 IN CNAME @
+dosen 3600 IN CNAME @
+kimia 3600 IN CNAME @
+sipil 3600 IN CNAME @
+library 3600 IN CNAME @
+rapid 3600 IN CNAME @
+sia 3600 IN A 222.124.3.19
+bem 3600 IN CNAME @

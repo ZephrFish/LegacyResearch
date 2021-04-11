@@ -1,0 +1,307 @@
+@ 86400 IN SOA ns1 pavel 2008051615 3600 600 1209600 86400
+@ 86400 IN NS ns3
+86400 IN NS ns2
+86400 IN NS ns1
+@ 86400 IN MX 1 tnstate-edu.mail.eo.outlook.com.
+86400 IN MX 20 zahn
+86400 IN MX 5 tnstate-edu.mail.eo.outlook.com.
+@ 86400 IN TXT "v=spf1  include:spf.protection.outlook.com ~all include:spf tnstate-edu.mail.eo.outlook.com.com ip4:173.233.192.0/23 -all"
+pinball 86400 IN A 173.233.192.45
+warp 86400 IN A 173.233.192.6
+tandberg2 86400 IN A 173.233.193.49
+laforge 86400 IN A 173.233.193.100
+laforge 86400 IN HINFO "Web" "Server"
+cyberviz 86400 IN A 173.233.193.253
+dsc 86400 IN TXT "z52026G"
+willow 86400 IN A 173.233.193.80
+temptest 86400 IN A 173.233.193.140
+ctltmedia 86400 IN A 173.233.193.236
+sacs 86400 IN CNAME tnstate.compliance-assist.com.
+dianeport1 86400 IN A 173.233.193.204
+*.braxton 86400 IN A 173.233.193.231
+dianeport3 86400 IN A 173.233.193.206
+dianeport4 86400 IN A 173.233.193.207
+ir 86400 IN A 173.233.193.92
+janeway 86400 IN A 173.233.193.86
+remus 86400 IN A 173.233.193.177
+msoid.my 86400 IN CNAME clientconfig.microsoftonline-p.net.
+lander 86400 IN A 173.233.193.98
+library3 86400 IN A 173.233.193.87
+trackit 86400 IN A 173.233.193.82
+sierra-db 86400 IN A 173.233.192.75
+*.moodle 86400 IN CNAME moodle
+moodle 86400 IN A 173.233.193.176
+bvanhooser 86400 IN A 173.233.193.20
+bvanhooser 86400 IN HINFO "ariel" "software"
+wireless 86400 IN A 10.210.4.11
+lu 86400 IN A 173.233.193.47
+ns2 86400 IN A 173.233.192.102
+sitar 86400 IN A 173.233.193.115
+arwen 86400 IN A 173.233.193.61
+arwen 86400 IN HINFO "2ND" "SCTWEB"
+fnad05 86400 IN A 173.233.193.185
+neptune 86400 IN A 173.233.193.134
+www.jobs 86400 IN CNAME tnstate.peopleadmin.com.
+tandberg6000 86400 IN A 173.233.193.37
+dipa 86400 IN A 173.233.193.163
+constcamera 86400 IN A 173.233.193.252
+eealumni 86400 IN A 173.233.193.30
+dianebridge 86400 IN A 173.233.193.202
+token 86400 IN A 173.233.193.63
+token 86400 IN HINFO "Library" "pc"
+quark 86400 IN A 173.233.193.175
+_sipfederationtls._tcp 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+www 86400 IN CNAME webserver
+moodle2 86400 IN A 173.233.192.43
+webct 86400 IN CNAME cassini
+server 86400 IN A 173.233.193.225
+distream 86400 IN A 173.233.193.8
+fac 86400 IN HINFO "SARAYLOO'S" "PC"
+tsuibm1 86400 IN A 173.233.193.53
+tsuibm1 86400 IN HINFO "Sekman" "unit"
+lyncdiscover.office365 3600 IN CNAME webdir.online.lync.com.
+exeter 86400 IN A 173.233.193.85
+tela 86400 IN A 173.233.193.143
+*.webwork 86400 IN CNAME webwork
+digitalscholarship 86400 IN CNAME dctennesseestate.bepress.com.
+autodiscover.test 3600 IN CNAME autodiscover.outlook.com.
+tsuibm4 86400 IN A 173.233.193.32
+tsuibm4 86400 IN HINFO "Sekman" "unit"
+putz 86400 IN A 173.233.193.41
+msoid.test 3600 IN CNAME clientconfig.microsoftonline-p.net.
+engineer 86400 IN A 173.233.193.68
+engineer 86400 IN HINFO "Engineerings" "Server"
+autodiscover.my 86400 IN CNAME autodiscover.outlook.com.
+docutek 86400 IN A 173.233.193.154
+cassini 86400 IN A 173.233.193.141
+orbiter 86400 IN A 173.233.193.130
+pioneer 86400 IN A 173.233.193.93
+sekmen-cs 86400 IN A 173.233.193.51
+library 86400 IN A 173.233.193.21
+library 86400 IN HINFO "DEC-AXP-3400" "VMS"
+sctweb 86400 IN A 173.233.193.11
+phonon 86400 IN A 173.233.193.132
+soval 86400 IN A 173.233.193.167
+sultan 86400 IN A 173.233.193.23
+sultan 86400 IN HINFO "Library" "system"
+tpg 86400 IN A 173.233.193.9
+tpg 86400 IN HINFO "TOUCHNET" "TSERVE/PAYMENT"
+borg 86400 IN A 173.233.193.33
+borg 86400 IN HINFO "email" "server"
+webserver 86400 IN A 173.233.193.27
+webserver 86400 IN HINFO "Web" "Server"
+govserve 86400 IN A 173.233.193.236
+adm 86400 IN CNAME picard
+palantir 86400 IN A 173.233.193.13
+palantir 86400 IN HINFO "Sun" "V210"
+ironmail2 86400 IN CNAME norquay
+locutus 86400 IN A 173.233.193.19
+locutus 86400 IN HINFO "mail" "server"
+2017490098 86400 IN CNAME domains.live.com.
+edcast 86400 IN A 173.233.192.180
+edcast 86400 IN TXT "WO 7709"
+hawthorne 86400 IN A 173.233.193.234
+mypassword 86400 IN A 173.233.193.14
+hemlock 86400 IN A 173.233.193.12
+hemlock 86400 IN HINFO "2000" "server"
+img-svr 86400 IN A 173.233.193.52
+img-svr 86400 IN HINFO "Scanning" "Server"
+robots 86400 IN A 173.233.193.123
+autodiscover 86400 IN CNAME autodiscover.outlook.com.
+crais 86400 IN A 173.233.193.120
+crais 86400 IN HINFO "sharepoint" "server"
+rs 86400 IN A 173.233.193.63
+rs 86400 IN TXT "WO 9230 - Junming Wang"
+dianeport2 86400 IN A 173.233.193.205
+archive 86400 IN A 173.233.193.27
+stargate 86400 IN A 173.233.192.4
+carnel 86400 IN A 173.233.193.168
+omniupdate 86400 IN A 173.233.193.164
+*.sultan 86400 IN A 173.233.193.23
+*.sultan 86400 IN HINFO "wildcard" "test"
+test 3600 IN MX 0 test-tnstate-edu.mail.protection.outlook.com.
+test 3600 IN TXT "MS=ms85055977"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ezproxy.library3 86400 IN A 173.233.193.87
+e-research 86400 IN CNAME dctnstate.bepress.com.
+dinaal 86400 IN A 173.233.192.250
+*.ezproxy.library3 86400 IN CNAME library3
+xopacketshaper 86400 IN A 71.4.242.246
+coe001 86400 IN A 173.233.193.106
+coe002 86400 IN A 173.233.193.107
+coe003 86400 IN A 173.233.193.108
+coe004 86400 IN A 173.233.193.109
+jobs 86400 IN CNAME tnstate.peopleadmin.com.
+ctlt 86400 IN A 173.233.193.250
+media 86400 IN A 173.233.194.11
+media 86400 IN HINFO "media" "streamer"
+www.cob 86400 IN CNAME tela
+password 3600 IN A 173.233.193.14
+agfacs 86400 IN A 173.233.193.88
+horizon 86400 IN A 173.233.193.251
+magellan 86400 IN A 173.233.193.95
+epay 86400 IN A 198.187.196.207
+citrix 86400 IN A 173.233.193.36
+test_replication 86400 IN HINFO "246" "test_replication"
+weblogic-test-ssb 86400 IN A 173.233.192.47
+at-t 86400 IN A 173.233.193.224
+google._____domainkey 86400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCPTdZlDznDO/L0PTI3azZBV5RpPV/2TkOLqgIfxQn9l1ygURZhOQzeoSml/BDEsr3u9HwYv/V351icYiZnrcxAINvVD5bmnbIz04EBeugX+B+9h1blouaBK7s3p16Y2SbNnruo76Fbs1Zc4MwNjtLuUiOqJ3KY0TQPK2z9kyqIwwIDAQAB"
+tigerpoint 86400 IN A 173.233.193.165
+tandberg1 86400 IN A 173.233.193.48
+msoid.office365 3600 IN CNAME clientconfig.microsoftonline-p.net.
+yearbook 86400 IN A 173.233.193.211
+yearbook 86400 IN HINFO "THE" "YEARBOOK"
+chephren 86400 IN CNAME mytsu
+www.weekend-academy 86400 IN CNAME weekend-academy
+gamshadzahi 86400 IN A 173.233.193.46
+gamshadzahi 86400 IN HINFO "Gamshadzahis" "PC"
+ns1 86400 IN A 173.233.192.101
+mymathwork 86400 IN CNAME moodle2
+ns3 86400 IN A 173.233.192.100
+weatherbug 86400 IN A 173.233.193.73
+agitcenter 86400 IN A 204.13.102.110
+peyto 86400 IN A 173.233.193.60
+noc 86400 IN A 173.233.193.5
+noc 86400 IN HINFO "NOC" "Mach"
+engrdept 86400 IN A 173.233.193.69
+mars 86400 IN A 173.233.193.132
+palm 86400 IN A 173.233.193.117
+palm 86400 IN HINFO "Web" "CT"
+xjog3h4oligs 86400 IN CNAME gv-hfkev6moysy5t33cztppkm4jk4cjgncfkgzx7dt3p6unovqoym6a.domainverify.googlehosted.com.
+academicaffairs 86400 IN A 173.233.193.22
+redshirt 86400 IN A 173.233.192.247
+mariner 86400 IN A 173.233.193.129
+zahn 86400 IN A 173.233.193.155
+2092188505 86400 IN CNAME domains.live.com.
+weekend-academy 86400 IN A 173.233.193.65
+www.blue 86400 IN CNAME webserver.blue
+ultra 86400 IN A 173.233.193.223
+venus 86400 IN A 173.233.193.130
+mail 86400 IN A 173.233.193.207
+cbms 86400 IN CNAME gerak
+dzc.clearpass 86400 IN TXT "z52026G"
+faculty 86400 IN A 173.233.193.66
+dargo 86400 IN A 173.233.193.84
+mobile 86400 IN A 173.233.193.138
+86400 IN A 173.233.192.42
+elvis 86400 IN A 173.233.193.101
+elvis 86400 IN HINFO "Engr." "Robot"
+q 86400 IN A 173.233.193.121
+q 86400 IN HINFO "mail" "box"
+venkatraman 86400 IN A 173.233.193.7
+venkatraman 86400 IN HINFO "TSU" "COB"
+gerak 86400 IN A 173.233.192.111
+norquay 86400 IN CNAME mytsu
+earth 86400 IN A 173.233.193.131
+46002738.dev 86400 IN CNAME domains.live.com.
+oier 86400 IN CNAME ir
+maint 86400 IN CNAME www.tnstate.edu.s3-website-us-east-1.amazonaws.com.
+dzc.ezproxy.library3 86400 IN TXT "0JyxgHo"
+nexus 86400 IN A 173.233.193.96
+vdiddc 86400 IN A 173.233.193.124
+elearn 60 IN CNAME tsu.desire2learn.com.
+autodiscover.office365 3600 IN CNAME autodiscover.outlook.com.
+bow 86400 IN A 173.233.193.57
+admin 86400 IN CNAME picard
+jdajournal 86400 IN A 173.233.193.2
+kellogg 86400 IN A 173.233.192.225
+mercury 86400 IN A 173.233.193.182
+ww2 86400 IN A 173.233.192.224
+tsurt1 86400 IN A 173.233.193.1
+luminis4a 86400 IN A 173.233.193.179
+weblogic-test-zone 86400 IN A 173.233.193.133
+studentweb 86400 IN A 173.233.193.35
+darmok 86400 IN A 173.233.193.166
+aitc 86400 IN A 173.233.193.90
+www.picard 86400 IN CNAME picard
+edserv 86400 IN A 173.233.193.148
+phoenix 86400 IN A 173.233.193.249
+webserver.blue 86400 IN A 173.233.193.27
+sip.office365 3600 IN CNAME sipdir.online.lync.com.
+scorpius 86400 IN A 173.233.193.39
+dax 86400 IN A 173.233.193.64
+dax 86400 IN HINFO "Honors" "server"
+testmobile 86400 IN A 173.233.193.138
+althos 86400 IN A 173.233.193.164
+7of9 86400 IN A 173.233.193.71
+stuorg 86400 IN A 173.233.193.94
+www.mba 86400 IN CNAME mba
+_sipfederationtls._tcp.office365 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+intrepid 86400 IN A 173.233.193.176
+compliance 86400 IN CNAME tnstate.compliance-assist.com.
+cob 86400 IN CNAME tela
+sftp 86400 IN A 173.233.192.104
+students 86400 IN A 50.28.24.55
+hpgc01 86400 IN A 173.233.193.18
+hpgc01 86400 IN HINFO "HPGC01" "Instument"
+aruba-master 86400 IN A 172.17.52.76
+braxton 86400 IN A 173.233.193.231
+dev 86400 IN MX 10 46002738.pamx1.hotmail.com.
+dev 86400 IN TXT "v=spf1 include:hotmail.com ~all"
+www.mymathwork 86400 IN CNAME moodle2
+elba 86400 IN A 173.233.193.180
+joshua 86400 IN A 173.233.193.104
+cas-torres 86400 IN A 172.17.52.76
+listserv 86400 IN A 173.233.193.25
+listserv 86400 IN HINFO "list" "server"
+www.diane 86400 IN A 173.233.193.196
+www.diane 86400 IN HINFO "PRoject" "Diane"
+dickens 86400 IN A 173.233.193.89
+dickens 86400 IN HINFO "Dickens" "MAC"
+reset 86400 IN CNAME 7of9
+vpn 86400 IN A 173.233.192.4
+saturn 86400 IN A 173.233.193.133
+poplar 86400 IN A 173.233.193.40
+poplar 86400 IN HINFO "poplar" "djh"
+email 86400 IN A 173.233.193.207
+remotesensing 86400 IN A 173.233.192.246
+remotesensing 86400 IN TXT "WO 6690 - Junming Wang"
+tsuibm0 86400 IN A 173.233.193.24
+tsuibm0 86400 IN HINFO "IBM" "Project"
+mcnair 86400 IN A 173.233.193.54
+mcnair 86400 IN HINFO "Server" "Arc2k"
+tsuibm2 86400 IN A 173.233.193.29
+tsuibm2 86400 IN HINFO "Sekman" "unit"
+tsuibm3 86400 IN A 173.233.193.31
+tsuibm3 86400 IN HINFO "Sekman" "unit"
+blue 86400 IN A 173.233.193.27
+webwork 86400 IN A 173.233.193.176
+mellon7 86400 IN A 173.233.193.122
+www.moodle2 86400 IN CNAME moodle2
+lepton 86400 IN A 173.233.193.97
+sciquest-test 86400 IN A 173.233.193.215
+illiad 86400 IN A 173.233.193.102
+illiad 86400 IN HINFO "library" "reserve"
+marketing 86400 IN A 173.233.193.163
+vdipvs 86400 IN A 173.233.193.157
+my 86400 IN MX 10 my.tnstate.edu.mail.eo.outlook.com.
+86400 IN MX 10 my-tnstate-edu.mail.protection.outlook.com.
+office365 3600 IN MX 0 office365-tnstate-edu.mail.protection.outlook.com.
+office365 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ironmail 86400 IN CNAME zahn
+meter 86400 IN A 173.233.193.210
+meter 86400 IN HINFO "THE" "METER"
+juniper 86400 IN A 173.233.193.72
+juniper 86400 IN HINFO "GUYETTES" "SERVER"
+mba 86400 IN A 173.233.193.91
+86400 IN A 173.233.193.50
+dzc 86400 IN TXT "4taxK9o"
+86400 IN TXT "vW2fhcr"
+86400 IN TXT "0JyxgHo"
+86400 IN TXT "rn885Ph"
+86400 IN TXT "huCa428"
+donatra 86400 IN A 173.233.193.125
+donatra 86400 IN HINFO "CIT" "SERVER"
+data 86400 IN A 173.233.194.12
+_sip._tls.office365 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+mytsu 86400 IN A 173.233.193.81
+mytsu 86400 IN HINFO "Luminis" "Server"
+tsuvnmr 86400 IN A 173.233.193.17
+gentrycamera 86400 IN A 173.233.193.208
+picard 86400 IN A 173.233.193.10
+picard 86400 IN HINFO "Alpha" "4100-VMS"
+solkar 86400 IN A 173.233.193.153
+robotest 86400 IN A 173.233.193.26
+robotest 86400 IN HINFO "Sekman" "Test"
+duras 86400 IN A 173.233.193.83
+duras 86400 IN HINFO "B.B." "server"

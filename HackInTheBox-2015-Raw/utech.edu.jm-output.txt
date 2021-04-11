@@ -1,0 +1,55 @@
+@ 3600 IN SOA dns root.dns 101624 7200 3600 3600000 86400
+@ 3600 IN NS ns.jm.
+3600 IN NS ns.cast.edu.jm.
+3600 IN NS ns
+3600 IN NS ns.utechjamaica.edu.jm.
+3600 IN NS dns.cast.edu.jm.
+3600 IN NS dns
+3600 IN NS dns.utechjamaica.edu.jm.
+@ 3600 IN A 200.9.115.9
+@ 3600 IN MX 10 mail
+3600 IN MX 20 exchange
+3600 IN MX 30 utechstudent
+@ 3600 IN TXT "v=spf1 mx"
+ezproxy 3600 IN A 200.9.115.100
+exchange 3600 IN A 200.9.115.249
+exchange 3600 IN TXT "v=spf1 a -all"
+url-mgr 3600 IN A 200.9.115.101
+dns.students 3600 IN A 200.9.115.10
+evision 3600 IN A 200.9.115.15
+ecommerce 3600 IN A 200.9.115.78
+bcatonline 3600 IN A 200.9.115.82
+faq 3600 IN A 200.9.115.75
+utechisas 3600 IN A 200.9.115.13
+students 3600 IN NS ns.students.utech.edu.jm
+3600 IN NS dns.students.utech.edu.jm
+bcathelp 3600 IN A 200.9.115.82
+ns.students 3600 IN A 200.9.115.10
+utechonline 3600 IN A 200.9.115.75
+utechstudent 3600 IN TXT "v=spf1 a -all"
+mail 3600 IN A 200.9.115.250
+agri.eng 3600 IN CNAME fenc-utech.net
+yourcounsellor 3600 IN A 200.9.115.75
+bcat 3600 IN A 200.9.115.82
+vdigateway 3600 IN A 200.9.115.130
+utechltsu 3600 IN A 200.9.115.77
+stream 3600 IN A 200.9.115.79
+www 3600 IN A 200.9.115.9
+csp 3600 IN A 200.9.115.80
+utech-vle 3600 IN A 200.9.115.75
+mybcat 3600 IN A 200.9.115.82
+localhost 3600 IN A 127.0.0.1
+shrp 3600 IN A 200.9.115.84
+HCT 3600 IN A 200.9.115.81
+*.ezproxy 3600 IN A 200.9.115.100
+bcatsun 3600 IN A 200.9.115.82
+utechonline2 3600 IN A 200.9.115.75
+ns 3600 IN A 200.9.115.2
+mobileaccess 3600 IN A 208.163.53.34
+bcattv 3600 IN A 200.9.115.82
+library 3600 IN A 200.9.115.12
+SUN 3600 IN A 200.9.115.82
+cabrima 3600 IN A 200.9.115.84
+dns 3600 IN A 200.9.115.10
+users 3600 IN A 200.9.115.235
+lmsdev 3600 IN A 200.9.115.76

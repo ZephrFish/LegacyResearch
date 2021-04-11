@@ -1,0 +1,7 @@
+@ 38400 IN SOA dil1.datainfosys.net. helpdesk.datainfosys.net. 946884297 10800 3600 432000 38400
+@ 38400 IN MX 10 mail
+@ 38400 IN NS ns1.dildns.com.
+38400 IN NS ns2.dildns.com.
+@ 38400 IN A 50.19.255.184
+mail 38400 IN A 210.212.98.139
+www 38400 IN A 50.19.255.184

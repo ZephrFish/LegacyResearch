@@ -1,0 +1,22 @@
+@ 86400 IN SOA ns5.bnshosting.net. team.bnshosting.net. 1414058026 10800 3600 604800 10800
+@ 86400 IN NS ns5.bnshosting.net.
+86400 IN NS ns2.bnshosting.net.
+@ 86400 IN A 202.91.163.60
+@ 86400 IN MX 10 mail
+@ 86400 IN TXT "v=spf1 mx ip4:202.91.163.60 mx:mail.vmuf.edu.ph -all"
+alumnionline 86400 IN A 202.91.163.60
+webmasters 86400 IN A 202.91.163.60
+sis 86400 IN A 202.91.163.60
+test 86400 IN A 202.91.163.60
+guidote35 86400 IN A 202.91.163.60
+ftp 86400 IN CNAME @
+sefrs 86400 IN A 202.91.163.60
+www 86400 IN CNAME @
+online 86400 IN A 202.91.163.60
+mail 86400 IN A 202.91.163.60
+colleges 86400 IN A 202.91.163.60
+webmail 86400 IN A 202.91.163.60
+registration 86400 IN A 202.91.163.60
+rpdc 86400 IN A 202.91.163.60
+elearning 86400 IN A 202.91.163.60
+cime 86400 IN A 202.91.163.60

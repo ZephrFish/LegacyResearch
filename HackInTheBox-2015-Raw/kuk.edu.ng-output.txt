@@ -1,0 +1,16 @@
+@ 10800 IN SOA ns.mainnameserver.com. hostmaster.mainnameserver.com. 2014122889 86400 604800 2419200 10800
+@ 10800 IN A 176.32.230.29
+@ 10800 IN NS ns.mainnameserver.com.
+10800 IN NS ns2.mainnameserver.com.
+@ 10800 IN MX 5 alt1.aspmx.l.google.com.
+10800 IN MX 5 alt2.aspmx.l.google.com.
+10800 IN MX 1 aspmx.l.google.com.
+10800 IN MX 10 aspmx2.googlemail.com.
+10800 IN MX 10 aspmx3.googlemail.com.
+webmail 10800 IN A 79.170.40.67
+* 10800 IN A 176.32.230.29
+ns2 10800 IN A 79.170.43.3
+www 10800 IN A 176.32.230.29
+mail 10800 IN A 79.170.44.38
+ftp 10800 IN A 79.170.44.20
+ns1 10800 IN A 79.170.40.2

@@ -1,0 +1,39 @@
+@ 86400 IN SOA douro.por postmaster.douro.por 201208303 28800 3600 3600000 86400
+@ 86400 IN NS ave.fam
+86400 IN NS tejo.lis
+86400 IN NS douro.por
+clissis 86400 IN CNAME web.lis
+douro.por 86400 IN A 193.136.185.1
+2ciss 86400 IN CNAME web.lis
+edu 86400 IN NS ave.fam
+86400 IN NS tejo.lis
+86400 IN NS douro.por
+repositorio 86400 IN A 193.136.186.9
+fam 86400 IN NS ave.fam
+86400 IN NS tejo.lis
+86400 IN NS douro.por
+irc 86400 IN A 193.136.184.5
+ads 86400 IN CNAME web.lis
+rpca 86400 IN CNAME web.lis
+por 86400 IN NS ave.fam
+86400 IN NS tejo.lis
+86400 IN NS douro.por
+www 86400 IN CNAME www.por
+lis 86400 IN NS ave.fam
+86400 IN NS tejo.lis
+86400 IN NS douro.por
+cipd 86400 IN CNAME www.por
+angola 86400 IN NS tejo.lis
+86400 IN NS douro.por
+koha 86400 IN A 193.136.186.11
+ssn 86400 IN CNAME este.fam
+rpa 86400 IN CNAME www.por
+stp 86400 IN NS tejo.lis
+86400 IN NS douro.por
+digitool 86400 IN A 193.136.186.12
+baselusiada 86400 IN CNAME koha
+cv 86400 IN NS tejo.lis
+86400 IN NS douro.por
+tejo.lis 86400 IN A 193.136.186.1
+ave.fam 86400 IN A 193.136.184.1
+e-u 86400 IN CNAME e-u.lis

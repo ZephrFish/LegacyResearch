@@ -1,0 +1,521 @@
+@ 1800 IN SOA sakyu postmaster 2015032501 10800 1800 518400 259200
+@ 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+@ 1800 IN NS dns-x.sinet.ad.jp.
+1800 IN NS sakyu
+1800 IN NS sakyu2
+mu.eecs 86400 IN A 160.15.35.26
+webmail.edu 86400 IN A 160.15.13.90
+bellman.eecs 86400 IN A 160.15.33.16
+ml.mech 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+rar.lib 86400 IN A 160.15.13.70
+phobos.eecs 86400 IN A 160.15.32.2
+idenshiiryo.med 86400 IN A 160.15.14.100
+sv01eecs.eecs 86400 IN A 160.15.30.6
+ml.bio 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+irene.eecs 86400 IN A 160.15.37.39
+imatrix.center 86400 IN A 160.15.14.48
+fw-wan.eecs 86400 IN A 160.15.30.254
+ntp01 1800 IN CNAME appgw
+tu-wordpress.center 86400 IN A 160.15.13.79
+dhcp-sv.eecs 86400 IN A 192.168.250.2
+www.bio 86400 IN A 160.15.14.206
+ml.ces 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+tns.vbl 86400 IN A 160.15.14.206
+grc1.med 86400 IN A 160.15.52.58
+doc-eecs1.eecs 86400 IN CNAME sv02eecs.eecs
+mail.fuzoku.fed 86400 IN A 160.15.14.206
+www.ces 86400 IN A 160.15.14.100
+group172 86400 IN A 160.15.13.172
+wool.eecs 86400 IN A 160.15.43.6
+sannai.med 86400 IN A 160.15.52.58
+fuzoku 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+sse.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+gan-center.med 86400 IN A 160.15.13.207
+global.ciatu 86400 IN A 160.15.13.78
+wiener.eecs 86400 IN A 160.15.33.14
+antispam 1800 IN A 160.15.14.10
+usagi 1800 IN A 160.15.14.206
+akebia.eng 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+alcap1.edu 86400 IN A 160.15.13.50
+sse 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+www.ninomiya.med 86400 IN A 160.15.14.100
+bus-dev.eecs 86400 IN A 160.15.35.33
+vm-manage.eecs 86400 IN A 192.168.250.1
+www.coc 86400 IN A 160.15.13.88
+chembio 1800 IN A 160.15.13.115
+sv01-sa.eecs 86400 IN A 160.15.33.2
+sv00eecs.eecs 86400 IN A 160.15.30.5
+dacom1.ele 86400 IN A 160.15.14.206
+uec 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+www.eng 86400 IN A 160.15.14.206
+office 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+fw-cb.eecs 86400 IN A 160.15.36.1
+pop-eecs.eecs 86400 IN CNAME sv09eecs.eecs
+ml.global 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+idp.edu 86400 IN A 160.15.13.85
+group195 86400 IN A 160.15.13.195
+group196 86400 IN A 160.15.13.196
+group179 86400 IN A 160.15.13.179
+www.edu 86400 IN A 160.15.13.91
+e-sia.edu 86400 IN A 160.15.14.212
+www.tedrec.eng 86400 IN A 160.15.14.206
+sbsrvv01.med 86400 IN A 160.15.14.206
+totoro.ele 86400 IN A 160.15.14.206
+www.kotsuban25.med 86400 IN A 160.15.14.100
+gan-stream-srv.med 86400 IN A 160.15.14.206
+neusur.med 86400 IN A 160.15.14.206
+glc.office 86400 IN A 160.15.14.206
+group160 86400 IN A 160.15.13.160
+www.ele 86400 IN A 160.15.14.206
+group170 86400 IN A 160.15.13.170
+group171 86400 IN A 160.15.13.171
+lib2.med 86400 IN A 160.15.14.206
+group173 86400 IN A 160.15.13.173
+group174 86400 IN A 160.15.13.174
+group175 86400 IN A 160.15.13.175
+group176 86400 IN A 160.15.13.176
+group177 86400 IN A 160.15.13.177
+group178 86400 IN A 160.15.13.178
+group180 86400 IN A 160.15.13.180
+group181 86400 IN A 160.15.13.181
+www.fed 86400 IN A 160.15.14.206
+zeruel.cjrd 86400 IN A 160.15.27.59
+group190 86400 IN A 160.15.13.190
+group201 86400 IN A 160.15.13.201
+group202 86400 IN A 160.15.13.202
+group203 86400 IN A 160.15.13.203
+group204 86400 IN A 160.15.13.204
+group205 86400 IN A 160.15.13.205
+grape.med 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+grape.med 86400 IN A 160.15.183.9
+iapetus.eecs 86400 IN A 160.15.32.42
+lab1.damp 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+lab1.damp 86400 IN A 160.15.14.206
+sv01-cc.eecs 86400 IN A 160.15.40.2
+mp 1800 IN A 160.15.13.115
+neurol2.med 86400 IN A 160.15.13.228
+faraday.ele 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+faraday.ele 86400 IN A 160.15.13.107
+mgmtpc.eecs 86400 IN A 192.168.250.3
+www.mech 86400 IN A 160.15.14.100
+ampere.ele 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+griffin.eecs 86400 IN A 160.15.43.8
+center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+webmeeting.center 86400 IN A 160.15.13.225
+kim01.sse 86400 IN A 160.15.13.240
+fw-sa.eecs 86400 IN A 160.15.33.1
+hyperion.eecs 86400 IN A 160.15.32.13
+bhs.damp 86400 IN A 160.15.14.206
+ftp.seigyo-a.eecs 86400 IN CNAME anubias.eecs
+mail.office 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+mail.office 86400 IN A 160.15.14.206
+nyquist.eecs 86400 IN A 160.15.33.11
+lyapunov.eecs 86400 IN A 160.15.33.17
+www.chu.fuzoku 86400 IN A 160.15.13.79
+ntp1 1800 IN A 160.15.14.52
+ntp2 1800 IN A 160.15.14.53
+doc-eecs2.eecs 86400 IN CNAME sv03eecs.eecs
+sankaku 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+crest.cv 86400 IN A 160.15.13.246
+www.seigyo-a.eecs 86400 IN CNAME anubias.eecs
+www.ganka.med 86400 IN A 160.15.14.100
+gleas-ua.center 86400 IN A 160.15.13.87
+ftp.chishikiC.eecs 86400 IN CNAME seki.eecs
+dezima.eecs 86400 IN A 160.15.34.51
+nichols.eecs 86400 IN A 160.15.33.20
+www.fuzoku 86400 IN A 160.15.14.206
+www.pe.mech 86400 IN A 160.15.14.100
+turtle.eecs 86400 IN A 160.15.43.11
+group200 86400 IN A 160.15.13.200
+www.alrc 86400 IN A 160.15.14.217
+sv10eecs.eecs 86400 IN A 192.168.250.20
+mech 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+sv03-ike.ike 86400 IN A 160.15.30.10
+www 1800 IN A 160.15.14.78
+rendai.muses 86400 IN A 160.15.14.100
+www.ciatu 86400 IN A 160.15.13.52
+coral.eecs 86400 IN A 160.15.43.16
+tamc.muses 86400 IN A 160.15.13.79
+bousai01.sse 86400 IN A 160.15.13.239
+www.ndi.med 86400 IN A 160.15.14.100
+zaiweb.adm 86400 IN A 160.15.27.237
+86400 IN A 160.15.27.238
+86400 IN A 160.15.27.239
+86400 IN A 160.15.27.240
+giken25.center 86400 IN A 160.15.13.77
+www.office 86400 IN A 160.15.14.206
+sv03-ike.eecs 86400 IN A 160.15.30.10
+fw01eecs.eecs 86400 IN A 160.15.30.1
+kalman.eecs 86400 IN A 160.15.33.15
+buturi.fed 86400 IN A 160.15.14.206
+sv01-sb.eecs 86400 IN A 160.15.34.2
+www.chisikiA.eecs 86400 IN CNAME irene.eecs
+fw-cc.eecs 86400 IN A 160.15.40.1
+adm 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+consul.cjrd 86400 IN A 160.15.14.206
+zim 86400 IN NS sakyu
+86400 IN NS sakyu2
+lambda.eecs 86400 IN A 160.15.35.19
+fourier.eecs 86400 IN A 160.15.33.19
+mutton.eecs 86400 IN A 160.15.43.20
+alrc 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+sv06eecs.eecs 86400 IN A 160.15.30.14
+bio.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+www2.fuzoku.fed 86400 IN A 160.15.14.206
+akebia.jim 86400 IN MX 10 senjosan1
+86400 IN MX 10 senjosan2
+akebia.jim 86400 IN A 160.15.14.206
+kyouge.med 86400 IN A 160.15.13.241
+graduate.med 86400 IN A 160.15.14.220
+www.isc 86400 IN A 160.15.14.100
+www.eecs 86400 IN A 160.15.30.16
+neurol3.med 86400 IN A 160.15.13.229
+www.fuzoku.fed 86400 IN A 160.15.14.100
+sv08eecs.eecs 86400 IN A 160.15.30.18
+www.opac.lib 86400 IN A 160.15.188.231
+laplace.eecs 86400 IN A 160.15.33.18
+hifuhp.med 86400 IN A 160.15.13.62
+pear.med 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+pear.med 86400 IN A 160.15.14.206
+psas.lib 86400 IN A 160.15.14.96
+cancer-center.med 86400 IN A 160.15.13.208
+bio 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+kitty.eecs 86400 IN A 160.15.43.68
+legendre.eecs 86400 IN A 160.15.33.22
+www.denshi.lib 86400 IN A 160.15.188.23
+kengamine1 1800 IN A 160.15.14.10
+kengamine2 1800 IN A 160.15.14.11
+kengamine3 1800 IN A 160.15.13.251
+ap.chem 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+exwsrv.hosp.med 86400 IN A 160.15.52.50
+grc2.med 86400 IN A 160.15.14.100
+www.center 86400 IN A 160.15.13.199
+ces 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+tu02.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+virus.med 86400 IN A 160.15.14.206
+daisen 1800 IN MX 10 daisen3
+daisen 1800 IN A 160.15.10.202
+www.tottori-ac-mirai.adm 86400 IN A 160.15.14.103
+walnut.eng 86400 IN A 160.15.14.206
+kaihatsu2.sse 86400 IN A 160.15.14.206
+eecs 1800 IN A 160.15.13.115
+eecs 86400 IN TXT "v=spf1 +a:sv09eecs.eecs.tottori-u.ac.jp. ~all"
+eecs 86400 IN MX 10 sv08eecs.eecs
+senjosan0 1800 IN A 160.15.14.9
+senjosan1 1800 IN A 160.15.14.7
+senjosan2 1800 IN A 160.15.14.8
+www.lib 86400 IN A 160.15.14.100
+unicorn.eecs 86400 IN A 160.15.43.3
+neurosurgery.med 86400 IN A 160.15.14.100
+fw-sb.eecs 86400 IN A 160.15.34.1
+blyxa.eecs 86400 IN A 160.15.33.9
+ele.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+esxi1.eecs 86400 IN A 192.168.250.11
+tu-webmail-c.center 86400 IN A 160.15.13.113
+sv01-ka.eecs 86400 IN A 160.15.35.2
+alcap2.edu 86400 IN A 160.15.13.51
+circuit.eecs 86400 IN A 160.15.43.7
+www.med 86400 IN A 160.15.52.58
+ganpro.med 86400 IN A 160.15.13.217
+tiiki.med 86400 IN A 160.15.13.223
+test-daisen1 1800 IN A 160.15.14.20
+test-daisen2 1800 IN A 160.15.14.21
+auth11.eecs 86400 IN CNAME sv00eecs.eecs
+mail.muses 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+dacom2.ele 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+nonlinear.damp 86400 IN A 160.15.14.206
+mail.center 1800 IN MX 10 senjosan3
+wifi-auth-eecs.eecs 86400 IN CNAME sv05eecs.eecs
+bode.eecs 86400 IN A 160.15.33.12
+edu 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+cv 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+cryptocoryne.eecs 86400 IN A 160.15.33.6
+*.fuzoku.fed 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+titan.eecs 86400 IN A 160.15.32.12
+test-daisens 1800 IN A 160.15.14.20
+1800 IN A 160.15.14.21
+www2.cjrd 86400 IN A 160.15.13.79
+seimei-vpn.med 86400 IN A 160.15.13.112
+ele 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+www.chishikiC.eecs 86400 IN CNAME seki.eecs
+eta.eecs 86400 IN A 160.15.35.21
+www3.fuzoku.fed 86400 IN A 160.15.14.206
+dncnt-eecs.eecs 86400 IN CNAME sv03-ike.eecs
+graph.eecs 86400 IN A 160.15.43.1
+cab.eecs 86400 IN A 160.15.35.32
+lagrange.eecs 86400 IN A 160.15.33.3
+eng 1800 IN A 160.15.13.115
+kensa.med 86400 IN A 160.15.14.100
+infectsrv1.med 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+infectsrv1.med 86400 IN A 160.15.14.206
+lemon.bio 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+lib3.med 86400 IN A 160.15.14.206
+echinodorus.eecs 86400 IN A 160.15.33.5
+jabber.eecs 86400 IN A 160.15.43.12
+bus.eecs 86400 IN A 160.15.35.5
+eecs-storage1.eecs 86400 IN A 192.168.250.31
+ml.ciatu 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+nymphaea.eecs 86400 IN A 160.15.33.10
+rs 1800 IN MX 10 senjosan1
+1800 IN MX 10 senjosan2
+appgw 1800 IN A 160.15.14.209
+rabbit.eecs 86400 IN A 160.15.43.15
+internal2.med 86400 IN A 160.15.14.206
+webauth.edu 86400 IN A 160.15.14.49
+ntp3 1800 IN A 160.15.14.54
+svr01.damp 86400 IN MX 5 senjosan0
+86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+svr01.damp 86400 IN A 160.15.14.206
+busdev.eecs 86400 IN A 160.15.35.4
+dear.eecs 86400 IN A 160.15.43.5
+ftp.keisanA.eecs 86400 IN CNAME nu.eecs
+seki.eecs 86400 IN A 160.15.40.21
+app6.ele 86400 IN A 160.15.14.206
+fw-ka.eecs 86400 IN A 160.15.35.1
+vidyo.center 86400 IN A 160.15.17.200
+spamw-eecs.eecs 86400 IN CNAME sv08eecs.eecs
+sakyu 1800 IN A 160.15.14.50
+poe.eecs 86400 IN A 160.15.43.70
+ooo 1800 IN MX 10 senjosan1
+1800 IN MX 10 senjosan2
+fragile-x.med 86400 IN A 160.15.14.100
+carroll.eecs 86400 IN A 160.15.43.13
+lily.eecs 86400 IN A 160.15.43.69
+global 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+education.med 86400 IN A 160.15.14.206
+ec.med 86400 IN A 160.15.52.58
+riccati.eecs 86400 IN A 160.15.33.21
+salmon.ele 86400 IN A 160.15.14.206
+www.sankaku 86400 IN A 160.15.13.79
+www.skybird.ele 86400 IN A 160.15.14.206
+www.uec 86400 IN A 160.15.13.236
+edu2 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+ml.rs 1800 IN MX 10 senjosan1
+1800 IN MX 10 senjosan2
+login.damp 86400 IN A 160.15.13.221
+mail.cv 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+www.ssij37.chem 86400 IN A 160.15.13.238
+senjosan3 1800 IN A 160.15.13.250
+www.shiryo.lib 86400 IN A 160.15.188.20
+transfer.center 86400 IN A 160.15.13.81
+ike.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+idp 86400 IN A 160.15.13.119
+jsb52.med 86400 IN A 160.15.14.100
+sv05eecs.eecs 86400 IN A 160.15.30.13
+neuropsychiatry.med 86400 IN A 160.15.14.100
+esxi2.eecs 86400 IN A 192.168.250.12
+netmon-eecs.eecs 86400 IN CNAME sv06eecs.eecs
+sv01-kb.eecs 86400 IN A 160.15.32.2
+center.cjrd 86400 IN A 160.15.14.206
+lewis.eecs 86400 IN A 160.15.43.14
+inaba2 1800 IN A 160.15.14.205
+sv09eecs.eecs 86400 IN A 160.15.30.19
+ike 86400 IN NS sv03-ike.ike
+zarobi.cjrd 86400 IN A 160.15.27.58
+auth12.eecs 86400 IN CNAME sv01eecs.eecs
+surgery1.med 86400 IN A 160.15.14.206
+ezpro.lib 86400 IN A 160.15.14.95
+www.tech 86400 IN A 160.15.13.68
+isc 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+jim 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+fw-kb.eecs 86400 IN A 160.15.32.1
+cjrd 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+fwrt-kb.eecs 86400 IN A 160.15.32.126
+www.icee 86400 IN A 160.15.14.100
+damp.damp 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+damp.damp 86400 IN A 160.15.14.206
+mylab.eecs 86400 IN A 160.15.32.23
+gnat.eecs 86400 IN A 160.15.43.4
+ml.cjrd 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+xi.eecs 86400 IN A 160.15.35.23
+www3.cjrd 86400 IN A 160.15.13.79
+mimas.eecs 86400 IN A 160.15.32.11
+hosp.med 86400 IN NS exmsrv.hosp.med
+86400 IN NS exwsrv.hosp.med
+syusanki.med 86400 IN A 160.15.13.54
+webml-eecs.eecs 86400 IN CNAME sv09eecs.eecs
+sv04eecs.eecs 86400 IN A 160.15.30.11
+fwrt-ka.eecs 86400 IN A 160.15.35.126
+eme.ele 86400 IN A 160.15.14.206
+fuzoku.fed 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+eecs-storage2.eecs 86400 IN A 192.168.250.32
+*.med 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+1800 IN MX 100 senjosan3
+chembio.eng 86400 IN A 160.15.14.100
+ml.uec 86400 IN MX 10 senjosan1
+86400 IN MX 10 senjosan2
+www.sse 86400 IN A 160.15.14.206
+live.alrc 86400 IN A 160.15.14.206
+hurwitz.eecs 86400 IN A 160.15.33.13
+www.ac 86400 IN A 160.15.14.206
+tech 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+toby-dmz 1800 IN A 160.15.14.1
+*.ezpro.lib 86400 IN A 160.15.14.95
+www.chem 86400 IN A 160.15.14.206
+imap-eecs.eecs 86400 IN CNAME sv09eecs.eecs
+icee 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+kjaro.damp 86400 IN A 160.15.14.206
+www.cv 86400 IN A 160.15.14.206
+sv01-ca.eecs 86400 IN A 160.15.37.2
+bousai02.sse 86400 IN A 160.15.13.53
+www.keisanA.eecs 86400 IN CNAME mu.eecs
+vallisneria.eecs 86400 IN A 160.15.33.8
+med 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+1800 IN MX 100 senjosan3
+www.vbl 86400 IN A 160.15.14.206
+smtp 1800 IN A 160.15.14.10
+obgyn.med 86400 IN A 160.15.14.100
+sslvpn 1800 IN A 160.15.14.61
+luna.damp 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+luna.damp 86400 IN A 160.15.14.206
+staff.muses 86400 IN A 160.15.13.235
+wwwlife.med 86400 IN A 160.15.14.206
+sotsugo.med 86400 IN A 160.15.13.105
+webmail-cert.center 86400 IN A 160.15.13.111
+zad-kiel.cjrd 86400 IN A 160.15.27.57
+mossla.eecs 86400 IN A 160.15.36.90
+nu.eecs 86400 IN A 160.15.35.20
+sv03eecs.eecs 86400 IN A 160.15.30.8
+daisen2 1800 IN MX 10 daisen3
+daisen2 1800 IN A 160.15.10.203
+daisen3 1800 IN A 160.15.14.7
+daisen4 1800 IN A 160.15.14.8
+hare.eecs 86400 IN A 160.15.43.9
+www.eng-alum.jim 86400 IN A 160.15.14.215
+cwa.cv 86400 IN A 160.15.14.206
+ac 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+inaba 1800 IN A 160.15.14.204
+chem 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+www.rs 1800 IN A 160.15.14.218
+sscv 1800 IN A 160.15.13.115
+esxi3.eecs 86400 IN A 192.168.250.13
+antivirus-proxy.center 86400 IN A 160.15.13.116
+rcbt 1800 IN A 160.15.13.72
+vm.eecs 86400 IN A 160.15.35.31
+keikanken.muses 86400 IN A 160.15.13.232
+key.eecs 86400 IN A 160.15.37.52
+jobhunt.adm 86400 IN A 160.15.13.109
+omoshiro.tech.eng 86400 IN A 160.15.14.206
+fw-dd.eecs 86400 IN A 160.15.30.65
+anubias.eecs 86400 IN A 160.15.33.4
+psychiatry.med 86400 IN A 160.15.13.106
+www2.alrc 86400 IN A 160.15.13.117
+infectsrv2.med 86400 IN A 160.15.14.206
+muses 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+water.eecs 86400 IN TXT "v=spf1 +a:water.eecs.tottori-u.ac.jp. ~all"
+water.eecs 86400 IN MX 10 water.eecs
+water.eecs 86400 IN A 160.15.43.2
+www.damp 86400 IN A 160.15.14.206
+hatter.eecs 86400 IN A 160.15.43.10
+sakyu2 1800 IN A 160.15.14.51
+muses.muses 86400 IN A 160.15.14.100
+www.cjrd 86400 IN A 160.15.14.100
+ntp 1800 IN A 160.15.14.52
+1800 IN A 160.15.14.53
+1800 IN A 160.15.14.54
+europa.eecs 86400 IN A 160.15.32.15
+fw-ca.eecs 86400 IN A 160.15.37.1
+tu01.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+microsorium.eecs 86400 IN A 160.15.33.7
+sv02eecs.eecs 86400 IN A 160.15.30.7
+eng-alum.jim 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+dncache-eecs.eecs 86400 IN CNAME sv04eecs.eecs
+ciatu 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+tech.eng 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+exmsrv.hosp.med 86400 IN A 160.15.52.52
+stream.eng 86400 IN A 160.15.17.100
+kocyoukai.ele 86400 IN A 160.15.14.206
+antivirus-proxy-m.center 86400 IN A 160.15.13.114
+www.ec.med 86400 IN A 160.15.52.58
+damp 1800 IN MX 5 senjosan0
+1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+researchers.adm 86400 IN A 160.15.13.248
+fungusdb.muses 86400 IN A 160.15.13.245
+optoele.ele 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+optoele.ele 86400 IN A 160.15.14.206
+inventory.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+ml.sankaku 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+syllabus.adm 86400 IN A 160.15.13.109
+hosp2.med 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+lib.med 86400 IN A 160.15.14.100
+neurol.med 86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+neurol.med 86400 IN A 160.15.13.227
+newton.damp 86400 IN MX 5 senjosan0
+86400 IN MX 10 daisen3
+86400 IN MX 10 daisen4
+newton.damp 86400 IN A 160.15.13.244
+zaafdiel.cjrd 86400 IN A 160.15.27.56
+fw-kc.eecs 86400 IN A 160.15.43.126
+sslvpn-y 1800 IN A 160.15.13.118
+mail-check.adm 86400 IN A 160.15.13.109
+repository.lib 86400 IN A 160.15.13.69
+mail-eecs.eecs 86400 IN CNAME sv09eecs.eecs
+alrc.center 1800 IN MX 10 daisen3
+1800 IN MX 10 daisen4
+sv01-cb.eecs 86400 IN A 160.15.36.2

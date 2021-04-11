@@ -1,0 +1,14 @@
+@ 14400 IN SOA dns.linuxmela.com. admin.nocdirect.com. 2014111700 86400 7200 3600000 86400
+@ 14400 IN MX 0 aspmx.l.google.com.
+@ 86400 IN NS dns.linuxmela.com.
+86400 IN NS dns1.linuxmela.com.
+@ 14400 IN A 173.0.139.251
+googleffffffffd0589c53 14400 IN CNAME google.com.
+webdisk 14400 IN A 69.73.181.130
+ftp 14400 IN A 69.73.181.130
+cpanel 14400 IN A 69.73.181.130
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME ghs.google.com.
+webmail 14400 IN A 69.73.181.130
+whm 14400 IN A 69.73.181.130

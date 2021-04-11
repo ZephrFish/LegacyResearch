@@ -1,0 +1,14 @@
+@ 86400 IN SOA ns8061.hostgator.com. root.gator4031.hostgator.com. 2014111002 86400 7200 3600000 86400
+@ 14400 IN TXT "v=spf1 a mx include:websitewelcome.com ~all"
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns8061.hostgator.com.
+86400 IN NS ns8062.hostgator.com.
+@ 14400 IN A 192.185.5.182
+webdisk 14400 IN A 192.185.5.182
+ftp 14400 IN CNAME @
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME @
+autoconfig 14400 IN A 192.185.5.182
+autodiscover 14400 IN A 192.185.5.182
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.

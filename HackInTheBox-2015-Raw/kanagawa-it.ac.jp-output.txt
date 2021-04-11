@@ -1,0 +1,117 @@
+@ 86400 IN SOA ccnsv1 naka.ccnsv1 2015020906 28800 7200 604800 86400
+@ 86400 IN NS ccnsv1
+86400 IN NS ccnsv2x
+86400 IN NS ns-kg021.ocn.ad.jp.
+@ 86400 IN A 202.250.64.145
+@ 86400 IN MX 10 ccnsv1
+86400 IN MX 20 ccnsv2
+he 86400 IN NS ccnsv1
+ic 86400 IN NS ccnsv1
+msoid.cco 3600 IN CNAME clientconfig.microsoftonline-p.net.
+lec 86400 IN MX 10 ccnsv7
+86400 IN MX 20 ccnsv8
+www.webopac.lib 86400 IN A 202.250.70.188
+ccproxy2 86400 IN CNAME ccproxyd
+ccproxy3 86400 IN CNAME ccproxyd
+ccproxy4 86400 IN CNAME ccproxyw
+ele 86400 IN NS ccnsv1
+86400 IN NS eserver.ele
+sytaka 86400 IN CNAME cw01.sub
+eng 86400 IN MX 10 ccnsv7
+86400 IN MX 20 ccnsv8
+www 86400 IN CNAME ccnsv6
+weserv.we 86400 IN A 202.250.71.50
+ns 3600 IN MX 10 ns-kanagawait-ac-jp02i.mail.protection.outlook.com.
+ns 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+3600 IN TXT "MS=ms34711403"
+ccproxyb 86400 IN A 202.250.64.135
+ccproxyc 86400 IN A 202.250.64.161
+ccproxyd 86400 IN A 202.250.64.160
+nw 86400 IN NS ccnsv1
+ccproxyf 86400 IN A 202.250.64.134
+ccy_kanagawa-it20090224._domainkey.ccy 86400 IN TXT "k=rsa; t=y; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAL17TR/BDUd//XtD5LAmDHGqKxJjRsHiC6G/MXrOlLCqOwKbdcqS7GC9CYBgdYa8j0jf0E7XWD5CR11eBv+4cZUgCElbvhfo5EAV0KOah0Ljb+ZwBe5mjLz6UVc0sBff9wIDAQAB; n=A 768 bit key"
+erc 86400 IN NS ccnsv1
+ccproxyv 86400 IN A 202.250.64.165
+ccproxyw 86400 IN A 202.250.64.163
+ccproxyx 86400 IN A 202.250.64.164
+ccproxyy 86400 IN A 202.250.64.136
+ccproxyz 86400 IN A 202.250.64.133
+rm 86400 IN NS ccnsv1
+86400 IN NS weserv.we
+ccproxy 86400 IN CNAME ccproxyw
+ccw10 86400 IN A 202.250.64.207
+nmana 86400 IN CNAME cw01.sub
+autodiscover.ns 3600 IN CNAME autodiscover.outlook.com.
+circle 86400 IN A 202.250.64.232
+circle 86400 IN MX 10 ccx
+uo 86400 IN NS ccnsv1
+cisco 86400 IN A 202.250.64.129
+gen 86400 IN NS ccnsv1
+ccnsv1 86400 IN A 202.250.64.145
+ccnsv2 86400 IN A 202.250.64.146
+ccnsv5 86400 IN CNAME ccproxyw
+ccnsv6 86400 IN A 202.250.64.132
+ccnsv7 86400 IN A 202.250.64.150
+ccnsv8 86400 IN A 202.250.64.151
+ccnsv9 86400 IN A 202.250.64.154
+ccsrvc 86400 IN A 202.250.64.203
+sol 86400 IN CNAME cw01.sub
+liaison 86400 IN CNAME cw01.sub
+ccw09 86400 IN A 202.250.64.206
+ccw15 86400 IN CNAME ccnsv9
+ftp 86400 IN CNAME ccnsv7
+DTYAQILLXOZJ.power-monitor 86400 IN CNAME gv-35F6Z6SPZORT42XHQVZPDFTWENPP5T46PHQIPIKYY7N6MFSXGBOQ.domainverify.googlehosted.com.
+chem 86400 IN NS ccnsv1
+chemjanz 86400 IN CNAME cw01.sub
+power-monitor 86400 IN CNAME ghs.google.com.
+media 86400 IN NS ccnsv1
+sub 86400 IN NS ccnsv1
+iqvote 86400 IN CNAME cw01.sub
+yyy 86400 IN MX 10 ccnsv9
+www.repository.lib 86400 IN A 202.250.70.185
+bio 86400 IN MX 10 ccnsv7
+86400 IN MX 20 ccnsv8
+sd 86400 IN NS ccnsv1
+dgallery 86400 IN CNAME cw01.sub
+cce 86400 IN NS ccnsv1
+autodiscover.cco 3600 IN CNAME autodiscover.outlook.com.
+cco 3600 IN MX 10 cco-kanagawait-ac-jp03b.mail.protection.outlook.com.
+cco 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+3600 IN TXT "MS=ms13627796"
+nsg 86400 IN CNAME cw01.sub
+eserver.ele 86400 IN A 202.250.68.20
+ccx 86400 IN A 202.250.64.232
+ccy 86400 IN TXT "v=spf1 include:yahoo.co.jp ~all"
+ccy 86400 IN MX 10 ptnmx1.mail.yahoo.co.jp.
+ftp2 86400 IN CNAME ccnsv8
+msoid.ns 3600 IN CNAME clientconfig.microsoftonline-p.net.
+cet 86400 IN NS ccnsv1
+me 86400 IN NS ccnsv1
+i.power-monitor 86400 IN CNAME ghs.googlehosted.com.
+ccnsv10 86400 IN A 202.250.64.152
+ccnsv11 86400 IN A 202.250.64.154
+autodiscover.ccto 3600 IN CNAME autodiscover.outlook.com.
+msoid.ccto 3600 IN CNAME clientconfig.microsoftonline-p.net.
+ccml 86400 IN A 202.250.64.201
+www.lib 86400 IN A 202.250.70.182
+inavi 3600 IN A 202.250.64.202
+cct 86400 IN TXT "v=spf1 include:yahoo.co.jp ~all"
+cct 86400 IN MX 10 ptndemomx1.mail.yahoo.co.jp.
+ccy_kanagawa-it20110819._domainkey.ccy 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvBnPwic67WLiGR2cCOqvnl0WQyNLKjf7CD//EloBVSLvGtcFxwbNicbyXK8Ks6eiM49ITo/TtnGM2gK6xZvkgYppbZKvcfToWuf4oTrcDBOFH/gIFulAFLREDbVCt7YiD/sd0ST3DpFrdxrzhkqAythe+YfAQFF8721IFJIro9wIDAQAB"
+ccml2 86400 IN A 202.250.64.205
+datas 86400 IN A 202.250.64.137
+chemwalker 86400 IN CNAME cw01.sub
+www-me 86400 IN CNAME cw01.sub
+ccto 3600 IN MX 10 ccto-kanagawait-ac-jp03c.mail.protection.outlook.com.
+ccto 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+3600 IN TXT "MS=ms95369263"
+ccnsv2x 86400 IN A 220.110.153.205
+ctr 86400 IN MX 10 ccnsv7
+86400 IN MX 20 ccnsv8
+cc 86400 IN A 202.250.64.147
+cc 86400 IN MX 10 ccsrvc
+ccproxya 86400 IN A 202.250.64.131
+cs 86400 IN NS ccnsv1
+cct_kanagawa-it20110819._domainkey.cct 86400 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/9QO27EcHOWJnW+fpwUtOIKmNY/Iju65jT9lHHxvKo9ImAyE3ETzP3DXTKhI14NtkybGaJEBfvnxT+Ekg6pUzcSTraHH2mlfjwyMFcIic1UYNIh+iedqFw/5zdkTBXt5RdIs4vIjljSREhbLwWUZujAyDEbSMEyK8OoWPPAz+qwIDAQAB"
+inish 86400 IN CNAME cw01.sub
+ccproxye 86400 IN A 202.250.64.162

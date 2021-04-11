@@ -1,0 +1,144 @@
+@ 86400 IN SOA @ root 20130401 10800 3600 3600 3600
+@ 86400 IN NS ns
+@ 86400 IN MX 10 aspmx.l.google.com.
+86400 IN MX 20 alt1.aspmx.l.google.com.
+86400 IN MX 20 alt2.aspmx.l.google.com.
+86400 IN MX 30 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx3.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 30 aspmx5.googlemail.com.
+@ 86400 IN A 128.140.229.114
+www.efisol 86400 IN CNAME net
+gi 86400 IN CNAME net
+reviste 86400 IN CNAME net
+experientaurbana 86400 IN A 128.140.229.114
+sociologie.psihologie 86400 IN CNAME net
+ja 86400 IN CNAME net
+130670255.student 86400 IN CNAME domains.live.com.
+unix 86400 IN A 109.99.183.206
+fisiere 86400 IN A 94.176.181.100
+profesor 86400 IN MX 10 1651918592.mail.outlook.com.
+profesor 86400 IN TXT "v=spf1 include:outlook.com ~all"
+clio 86400 IN A 89.45.183.202
+sistem-pv 86400 IN CNAME net
+ccdmcig 86400 IN A 128.140.229.114
+promarket 86400 IN A 89.45.183.202
+www.presa 86400 IN CNAME pr
+qve 86400 IN CNAME net
+www 3600 IN A 128.140.229.114
+ns 86400 IN A 128.140.229.114
+www.ushfmi 86400 IN CNAME net
+qa 86400 IN A 128.140.229.114
+msdn 86400 IN MX 10 1853268682.mail.outlook.com.
+w1 86400 IN A 128.140.229.114
+w2 86400 IN A 128.140.229.114
+pr 86400 IN A 94.176.180.11
+erp 86400 IN A 94.176.180.14
+mamis 86400 IN A 89.45.183.202
+library 86400 IN A 86.34.134.158
+www.digital-life 86400 IN A 128.140.229.114
+_sipfederationtls._tcp.profesor 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+ccicrce 86400 IN A 128.140.229.114
+conferinte 86400 IN CNAME net
+fmi 86400 IN MX 10 1894883966.mail.outlook.com.
+fmi 86400 IN A 94.176.180.12
+cumsa2si3d 86400 IN A 128.140.229.114
+ebcl 86400 IN CNAME net
+1651918592.profesor 86400 IN CNAME domains.live.com.
+csme 86400 IN CNAME net
+efisol 86400 IN CNAME net
+www.sociologie.psihologie 86400 IN CNAME net
+research 86400 IN CNAME net
+_sipfederationtls._tcp.alumni 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+www.camai 86400 IN CNAME net
+geo-turism-posea 86400 IN CNAME net
+admitere 86400 IN A 128.140.229.114
+www.odeqa 86400 IN CNAME net
+anale-mi 86400 IN CNAME net
+gw 86400 IN A 128.140.229.114
+atelierjurnalistic 86400 IN A 128.140.229.114
+digital-life 86400 IN A 128.140.229.114
+test 86400 IN A 128.140.229.114
+ftp 86400 IN A 128.140.229.114
+net 86400 IN A 94.176.180.12
+net 86400 IN MX 10 net
+autodiscover.profesor 86400 IN CNAME autodiscover.outlook.com.
+xpert 86400 IN A 128.140.229.114
+www.beta.admitere 86400 IN CNAME pr
+jurnale 86400 IN CNAME net
+www.vnc 86400 IN A 94.176.181.100
+297841576.alumni 86400 IN CNAME domains.live.com.
+media 86400 IN A 128.140.229.114
+ccriri 86400 IN A 128.140.229.114
+anale-economie 86400 IN A 128.140.229.114
+www1 86400 IN A 128.140.229.114
+ushfmi 86400 IN CNAME net
+xpertit 86400 IN A 128.140.229.114
+ecel 86400 IN A 128.140.229.114
+www.ccoc 86400 IN CNAME net
+anale-litere 86400 IN A 128.140.229.114
+ridrce 86400 IN A 128.140.229.114
+backup 86400 IN CNAME net
+bib 86400 IN A 128.140.229.114
+ccefa 86400 IN A 128.140.229.114
+autodiscover.alumni 86400 IN CNAME autodiscover.outlook.com.
+www.zilelearhitecturii 86400 IN CNAME net
+ctehno 86400 IN A 128.140.229.114
+smail 86400 IN CNAME net
+beta.admitere 86400 IN CNAME pr
+ccea 86400 IN A 128.140.229.114
+www.sistem-pv 86400 IN CNAME net
+mail 86400 IN CNAME ghs.google.com.
+www.admitere 86400 IN A 128.140.229.114
+www.promarket 86400 IN A 89.45.183.202
+www.mamis 86400 IN A 89.45.183.202
+rp5 86400 IN A 128.140.229.114
+ojs 86400 IN CNAME net
+ccj 86400 IN CNAME net
+europa2020 86400 IN A 89.45.183.202
+brasov 86400 IN CNAME net
+admin 86400 IN A 128.140.229.114
+cciv 86400 IN CNAME net
+cercetarijuridice 86400 IN CNAME net
+www2 86400 IN A 128.140.229.114
+www.fisiere 86400 IN A 94.176.181.100
+jda 86400 IN CNAME net
+www.geo-turism-posea 86400 IN CNAME net
+presa 86400 IN CNAME pr
+student 86400 IN MX 10 130670255.mail.outlook.com.
+student 86400 IN TXT "v=spf1 include:outlook.com ~all"
+beta 86400 IN CNAME net
+cercetare 86400 IN CNAME net
+haret1 86400 IN A 128.140.229.114
+ccoc 86400 IN CNAME net
+zilelearhitecturii 86400 IN CNAME net
+bib1 86400 IN A 128.140.229.114
+vnc 86400 IN A 94.176.181.100
+aiceicf 86400 IN CNAME net
+www.clio 86400 IN A 89.45.183.202
+masterate 86400 IN A 128.140.229.114
+www.conferinte 86400 IN CNAME net
+search 86400 IN A 128.140.229.114
+jires 86400 IN CNAME net
+campus 86400 IN CNAME net
+anale-arhitectura 86400 IN A 128.140.229.114
+www.fmi 86400 IN CNAME net
+camai 86400 IN CNAME net
+fdapct 86400 IN CNAME net
+bb 86400 IN CNAME spiruharetams.blackboard.com.
+biblioteca 86400 IN A 128.140.229.114
+odeqa 86400 IN CNAME net
+icami 86400 IN A 128.140.229.114
+alumni 86400 IN MX 10 297841576.mail.outlook.com.
+alumni 86400 IN TXT "v=spf1 include:outlook.com ~all"
+alumni 86400 IN A 128.140.229.114
+jedep 86400 IN CNAME net
+ums-test 86400 IN A 94.176.180.101
+ab 86400 IN CNAME net
+bib2 86400 IN A 128.140.229.114
+geoland 86400 IN CNAME net
+www.ebcl 86400 IN CNAME net
+_sipfederationtls._tcp.student 86400 IN SRV 10 2 5061 federation.messenger.msn.com.
+www.europa2020 86400 IN A 89.45.183.202
+autodiscover.student 86400 IN CNAME autodiscover.outlook.com.
+educonf 86400 IN CNAME net

@@ -1,0 +1,5 @@
+@ 172800 IN SOA dns1.tpm.com.my. root.dns1.tpm.com.my. 2011071501 10800 3600 604800 86400
+@ 172800 IN A 202.129.175.75
+@ 172800 IN NS ns1.tpm.com.my.
+172800 IN NS ns2.tpm.com.my.
+www 172800 IN A 202.129.175.75

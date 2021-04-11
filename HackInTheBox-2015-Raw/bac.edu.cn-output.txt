@@ -1,0 +1,8 @@
+@ 3600 IN SOA dns1.bua.edu.cn. root.bua.edu.cn. 2014102201 30 30 360 3600
+@ 3600 IN MX 1 mail
+@ 3600 IN NS dns1.bua.edu.cn.
+3600 IN NS dns2.bua.edu.cn.
+mail 3600 IN A 111.207.2.18
+www 3600 IN A 111.207.2.1
+dns1 3600 IN A 219.242.32.3
+dns2 3600 IN A 111.207.2.36

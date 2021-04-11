@@ -1,0 +1,19 @@
+@ 86400 IN SOA ns4.infinitehorizon.biz. info.infinitehorizon.biz. 2008071046 10800 3600 604800 86400
+@ 86400 IN MX 10 mail9.infinitehorizon.biz.
+@ 86400 IN A 173.0.143.234
+@ 86400 IN NS ns3.infinitehorizon.biz.
+86400 IN NS ns4.infinitehorizon.biz.
+mail.diplomacy 86400 IN CNAME mail10.infinitehorizon.biz.
+*.m 86400 IN A 173.0.143.204
+m 86400 IN MX 10 mail10.infinitehorizon.biz.
+m 86400 IN A 173.0.143.204
+images 86400 IN MX 10 mail10.infinitehorizon.biz.
+images 86400 IN A 173.0.143.204
+mail.m 86400 IN CNAME mail10.infinitehorizon.biz.
+mail.images 86400 IN CNAME mail10.infinitehorizon.biz.
+mail 86400 IN CNAME mail9.infinitehorizon.biz.
+*.diplomacy 86400 IN A 173.0.143.204
+*.images 86400 IN A 173.0.143.204
+diplomacy 86400 IN MX 10 mail10.infinitehorizon.biz.
+diplomacy 86400 IN A 173.0.143.204
+www 86400 IN A 173.0.143.234

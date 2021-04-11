@@ -1,0 +1,161 @@
+@ 86400 IN SOA ns hostmaster 2970552818 28800 7200 1209600 86400
+@ 86400 IN A 149.153.4.1
+@ 86400 IN NS ns.kerna.ie.
+86400 IN NS ns
+86400 IN NS ns2
+86400 IN NS ns3
+@ 86400 IN MX 10 mailgate
+@ 3600 IN TXT "MS=ms48101716"
+3600 IN TXT "jjnT07Bl+s1gpjyIhV3HOSWicka8RoH9moLzNwMO9a0V7ijhR1suJ2dcfXgU4UfGqg5/xB7XwenTylRGbp+/dw=="
+3600 IN TXT "v=spf1 ip4:149.153.0.0/16 ip4:92.52.102.162/32 ip4:46.22.130.182/32 ip4:212.135.6.10/29 ip4:87.192.253.75/32 ip4:193.178.1.33/32 ip4:193.1.234.12/32 ip4:193.1.219.93/32 ip4:134.170.206.11/32 include:spf.protection.outlook.com -all"
+blackboard2013-2014 86400 IN A 149.153.100.113
+spie 86400 IN A 149.153.150.45
+elearn 86400 IN A 149.153.4.15
+Elmo 86400 IN A 149.153.23.54
+gridstore 86400 IN A 149.153.11.3
+itnews 86400 IN A 149.153.159.130
+wpad 86400 IN A 149.153.159.101
+paulbarry 86400 IN A 149.153.4.14
+drupal 86400 IN A 149.153.4.12
+c751c001 86400 IN A 149.153.216.249
+jr 86400 IN A 149.153.100.162
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+beans 86400 IN A 149.153.4.14
+*.library 86400 IN A 193.1.234.15
+TestiMAC 86400 IN A 149.153.23.58
+www 86400 IN A 149.153.4.1
+stabbans 86400 IN A 149.153.4.14
+ns 86400 IN A 149.153.1.5
+edocs 86400 IN A 193.1.234.36
+placement 86400 IN A 149.153.4.10
+coursestest 86400 IN CNAME itctest.akarisoftware.com.
+_sipfederationtls._tcp 3600 IN SRV 1 100 5061 sipfed.online.lync.com.
+nambot 86400 IN A 149.153.150.45
+w3 86400 IN A 149.153.4.14
+gridfw 86400 IN A 149.153.11.7
+www-new 86400 IN A 149.153.4.1
+_sip._tls 3600 IN SRV 1 100 443 sipdir.online.lync.com.
+sgames 86400 IN A 149.153.4.19
+epagst 86400 IN A 149.153.4.12
+library 86400 IN A 193.1.234.15
+cms-new 86400 IN A 149.153.4.1
+cah1 86400 IN A 149.153.231.128
+cah2 86400 IN A 149.153.231.130
+sp 86400 IN A 149.153.31.122
+games 86400 IN A 149.153.4.14
+printcredit.services 86400 IN A 149.153.4.19
+sip 3600 IN CNAME sipdir.online.lync.com.
+wise 86400 IN A 149.153.4.12
+webmail 86400 IN A 149.153.231.39
+mailgate 86400 IN A 149.153.100.9
+mailgate 86400 IN MX 10 mailgate
+mailgate 86400 IN TXT "v=spf1 a -all"
+python 86400 IN A 149.153.4.14
+mis 86400 IN A 193.1.234.15
+staging 86400 IN A 149.153.4.1
+appengine 86400 IN A 149.153.4.14
+eric33r 86400 IN A 91.123.234.33
+breezenet 86400 IN A 149.153.216.241
+results01 86400 IN A 149.153.4.113
+results02 86400 IN A 149.153.4.114
+results03 86400 IN A 149.153.4.115
+results04 86400 IN A 149.153.4.116
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+firewall1 86400 IN A 149.153.4.110
+firewall2 86400 IN A 149.153.4.101
+breezestp 86400 IN A 149.153.216.242
+eric36r 86400 IN A 91.123.234.36
+ebiz 86400 IN A 149.153.105.99
+tuicarlow 86400 IN A 149.153.4.14
+localhost 86400 IN A 127.0.0.1
+gridui 86400 IN A 149.153.11.4
+survey 86400 IN A 149.153.4.112
+accomodation 86400 IN A 149.153.4.10
+proxy 86400 IN A 149.153.100.1
+studynetwork 86400 IN A 149.153.4.14
+updates 86400 IN A 149.153.134.252
+MENRG 86400 IN A 149.153.4.12
+staffvpn 86400 IN A 149.153.14.1
+ppig2004 86400 IN A 149.153.20.113
+eduroam-wifi 86400 IN A 149.153.4.12
+sslvpn 86400 IN A 149.153.251.253
+cybill 86400 IN A 149.153.100.11
+AKMac 86400 IN A 149.153.4.14
+emeritus 86400 IN A 149.153.4.12
+emeritus 86400 IN MX 10 mailgate
+emeritus 86400 IN TXT "v=spf1 a -all"
+mypc 86400 IN A 149.153.4.28
+vc1 86400 IN A 149.153.28.240
+vc2 86400 IN A 149.153.28.241
+vc3 86400 IN A 149.153.28.242
+ns2 86400 IN A 149.153.100.3
+ns3 86400 IN A 149.153.100.4
+sigerson 86400 IN A 149.153.4.10
+webmason 86400 IN A 149.153.159.130
+software 86400 IN A 149.153.100.57
+testweb 86400 IN A 149.153.4.16
+cms-su 86400 IN A 149.153.4.1
+modules 86400 IN CNAME itcarlow.akarisoftware.com.
+swimming 86400 IN A 149.153.4.14
+wexlinux 86400 IN A 149.153.4.26
+idp 86400 IN A 149.153.4.20
+results 86400 IN A 149.153.4.10
+mail 86400 IN A 149.153.231.39
+mail 86400 IN MX 10 mailgate
+86400 IN MX 30 mailfail
+mail 86400 IN TXT "v=spf1 a -all"
+86400 IN TXT "v=spf1 a ip4:149.153.0.0/16 -all"
+accommodation 86400 IN A 149.153.4.10
+printcredit 86400 IN A 149.153.134.251
+pin.services 86400 IN A 149.153.4.19
+demosite 86400 IN A 149.153.100.17
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+volleyball 86400 IN A 149.153.150.45
+studentsunion 86400 IN A 149.153.4.1
+blackboardhelp 86400 IN A 149.153.4.17
+mailfail 86400 IN A 149.153.100.8
+mailfail 86400 IN MX 10 mailfail
+mailfail 86400 IN TXT "v=spf1 a -all"
+carlowns 86400 IN A 149.153.4.14
+natplaques 86400 IN A 149.153.150.45
+admin 86400 IN MX 10 mailgate
+86400 IN MX 30 mailfail
+staffportal 86400 IN A 149.153.31.122
+understanding-maths 86400 IN A 149.153.4.12
+jira 86400 IN A 149.153.4.23
+stagingcms 86400 IN A 149.153.4.1
+exchange 86400 IN MX 10 mailgate
+exchange 86400 IN TXT "v=spf1 a -all"
+omfeng 86400 IN A 91.123.234.36
+wordpress 86400 IN A 149.153.4.15
+www.emeritus 86400 IN A 149.153.4.12
+computing 86400 IN A 149.153.4.14
+glasnost 86400 IN A 149.153.4.14
+web 86400 IN A 149.153.4.1
+link2data 86400 IN A 149.153.4.15
+cms 86400 IN A 149.153.4.1
+programming 86400 IN A 149.153.4.14
+cns 86400 IN A 149.153.4.14
+timetable 86400 IN A 149.153.4.104
+gridgate 86400 IN A 149.153.11.2
+www.aviation 86400 IN A 149.153.100.17
+mobiles 86400 IN A 149.153.4.10
+join-in 86400 IN A 149.153.4.24
+cps 86400 IN A 149.153.4.14
+www.wise 86400 IN A 149.153.4.12
+agribiotics 86400 IN A 149.153.4.12
+blackboard9-test 86400 IN A 149.153.100.112
+gridnm 86400 IN A 149.153.11.6
+gridinstall 86400 IN A 149.153.11.1
+swimclub 86400 IN A 149.153.4.14
+gridmon 86400 IN A 149.153.11.5
+blackboard 86400 IN A 149.153.4.17
+fitzgibbon 86400 IN A 149.153.4.10
+spamtitan 86400 IN A 149.153.100.9
+gamecore 86400 IN A 149.153.4.22
+tyndall 86400 IN A 149.153.1.5
+blackboard9 86400 IN A 149.153.4.17
+tvdesk 86400 IN A 149.153.4.25
+mis-crlw-lib 86400 IN MX 10 mis-crlw-lib
+86400 IN MX 20 mailgate
+mis-crlw-lib 86400 IN A 193.1.234.15

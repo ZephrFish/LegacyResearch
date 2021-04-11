@@ -1,0 +1,15 @@
+@ 3600 IN SOA ns1.vsmu.vinnica.ua. hostmaster.vsmu.vinnica.ua. 2003111814 86400 14400 604800 86400
+@ 3600 IN NS ns1.vsmu.vinnica.ua.
+3600 IN NS ns2.nest.vinnica.ua.
+3600 IN NS ns2.vsmu.vinnica.ua.
+@ 3600 IN A 195.177.236.66
+@ 3600 IN MX 10 relay1.vsmu.vinnica.ua.
+congress 3600 IN A 195.177.236.66
+admission 3600 IN A 195.177.236.66
+opersurgery 3600 IN A 195.177.236.66
+www 3600 IN A 195.177.236.66
+anatomy 3600 IN A 195.177.236.66
+11bca 3600 IN A 195.177.236.66
+biophysics 3600 IN A 195.177.236.66
+oldsite 3600 IN A 195.177.236.66
+newsite 3600 IN A 195.177.236.66

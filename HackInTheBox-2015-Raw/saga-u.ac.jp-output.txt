@@ -1,0 +1,76 @@
+@ 3600 IN SOA kachi.cc etoh.cc 2015032600 3600 300 604800 3600
+@ 3600 IN NS kachi.cc
+3600 IN NS sakura.cc
+@ 3600 IN MX 10 yoshinogari.cc
+t.m 3600 IN MX 10 yoshinogari.cc
+f.m 3600 IN MX 10 yoshinogari.cc
+www.gsmed 3600 IN CNAME wwwhouse.cc
+dousou.ext 3600 IN A 133.49.27.23
+u.m 3600 IN MX 10 yoshinogari.cc
+ephysiology.oge 3600 IN CNAME miyaki.cc
+g.m 3600 IN MX 10 yoshinogari.cc
+v.m 3600 IN MX 10 yoshinogari.cc
+sakura.cc 3600 IN A 219.94.222.94
+a.m 3600 IN MX 10 yoshinogari.cc
+www.suhcc 3600 IN CNAME www
+w.m 3600 IN MX 10 yoshinogari.cc
+med 3600 IN NS dns0.med
+3600 IN NS dns1.med
+3600 IN NS dns2.med
+www.chiikigaku 3600 IN CNAME wwwhouse.cc
+x.m 3600 IN MX 10 yoshinogari.cc
+www.slc 3600 IN CNAME wwwhouse.cc
+d.m 3600 IN MX 10 yoshinogari.cc
+www.oge 3600 IN CNAME wwwhouse.cc
+y.m 3600 IN MX 10 yoshinogari.cc
+p.m 3600 IN MX 10 yoshinogari.cc
+k.m 3600 IN MX 10 yoshinogari.cc
+ccc 3600 IN MX 10 tutae.cc
+www.cerd 3600 IN CNAME wwwhouse.cc
+i.m 3600 IN MX 10 yoshinogari.cc
+z.m 3600 IN MX 10 yoshinogari.cc
+ri.iac 3600 IN CNAME miyaki.cc
+j.m 3600 IN MX 10 yoshinogari.cc
+www.ccsap 3600 IN A 49.212.180.167
+m.m 3600 IN MX 10 yoshinogari.cc
+kachi.cc 3600 IN A 133.49.4.4
+dns0.med 3600 IN A 133.49.120.53
+www.iac 3600 IN CNAME wwwhouse.cc
+n.m 3600 IN MX 10 yoshinogari.cc
+www.ocir 3600 IN CNAME wwwhouse.cc
+dns1.med 3600 IN A 133.49.120.54
+www 3600 IN A 133.49.50.61
+www 3600 IN TXT "v=spf1 +ip4:133.49.50.61 +ip6:2001:2f8:22:5800::8531:323d ~all"
+www 3600 IN AAAA 2001:2f8:22:5800::8531:323d
+o.m 3600 IN MX 10 yoshinogari.cc
+bbb 3600 IN MX 10 tutae.cc
+l.m 3600 IN MX 10 yoshinogari.cc
+www2 3600 IN A 133.49.50.61
+jimu 3600 IN MX 10 jimu-sagau-ac-jp02c.mail.protection.outlook.com.
+jimu 3600 IN TXT "MS=ms94677726"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ellab.crdhe 3600 IN CNAME miyaki.cc
+b.m 3600 IN MX 10 yoshinogari.cc
+www.kasasagilab 3600 IN CNAME wwwhouse.cc
+www.sao 3600 IN CNAME www
+dns2.med 3600 IN A 133.49.120.57
+q.m 3600 IN MX 10 yoshinogari.cc
+www.irdc 3600 IN CNAME wwwhouse.cc
+c.m 3600 IN MX 10 yoshinogari.cc
+ccsap 3600 IN A 49.212.180.167
+www.crdhe 3600 IN CNAME wwwhouse.cc
+www.cbc 3600 IN CNAME www.aic.ag
+cmi.iac 3600 IN CNAME miyaki.cc
+r.m 3600 IN MX 10 yoshinogari.cc
+www.fusion 3600 IN CNAME wwwhouse.cc
+gyosei 3600 IN A 133.49.15.97
+www.hedu-moodle.sao 3600 IN A 133.49.27.225
+mso 3600 IN MX 10 mail-exp.cc
+mso 3600 IN TXT "MS=ms29976149"
+s.m 3600 IN MX 10 yoshinogari.cc
+www.fsc 3600 IN CNAME www.aic.ag
+e.m 3600 IN MX 10 yoshinogari.cc
+aaa 3600 IN MX 10 tutae.cc
+lowland20.lowland 3600 IN CNAME ilt3f-03.ilt
+www3 3600 IN A 133.49.50.67
+h.m 3600 IN MX 10 yoshinogari.cc

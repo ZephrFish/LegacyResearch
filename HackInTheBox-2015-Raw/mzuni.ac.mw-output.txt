@@ -1,0 +1,23 @@
+@ 86400 IN SOA @ dns-admin 2013050306 28800 7200 604800 86400
+@ 86400 IN NS moni
+86400 IN NS nyala.sdnp.org.mw.
+@ 86400 IN A 41.87.6.25
+@ 86400 IN MX 1 luwinga
+86400 IN MX 2 mail.mtlonline.mw.
+choma 86400 IN A 41.87.6.30
+www 86400 IN CNAME mzuweb
+webmail 86400 IN CNAME mkango
+ftp 86400 IN CNAME mzuweb
+moni 86400 IN A 41.87.6.25
+la 86400 IN CNAME mzuweb
+ictdirectorate 86400 IN CNAME mzuweb
+luwinga 86400 IN A 41.87.6.26
+yellowpages 86400 IN CNAME mzuweb
+mzuweb 86400 IN A 41.87.6.27
+mail 86400 IN CNAME choma
+dns 86400 IN CNAME moni
+assessment 86400 IN CNAME mzuweb
+elearn 86400 IN A 41.87.6.28
+mail1 86400 IN CNAME luwinga
+firewall 86400 IN CNAME mkango
+mkango 86400 IN A 41.221.99.254

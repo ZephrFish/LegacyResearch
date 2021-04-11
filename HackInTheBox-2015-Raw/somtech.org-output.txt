@@ -1,0 +1,14 @@
+@ 86400 IN SOA ns90.downtownhost.com. admin.downtownhost.com. 2015042103 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns90.downtownhost.com.
+86400 IN NS ns91.downtownhost.com.
+@ 14400 IN A 173.254.238.38
+default._domainkey 14400 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9XBgk1yXu4MtgCT2SFzPYY5b0vSJM+1DJDZ5kIO3bDG1MDgLSOd3UI3vzspIdC5nt6MsXFvQLSn4qJzKa+RFkMWvQusw46RKxlw9BUIrJXP5Bn++nY5Sly/XBNM2g9nb+EI8wEMcGREPpb0xYme5QxXZGPsMt5X1UuYyz58Ea8E0toU21O9oaNF1gW+PsSHcl" "sxeiUzMleJdbAak5xxtJakHNQ9MaGQoelcDNdOKP5k4SbiZRnC3SmV1A5C0nHN5hw0yH9Z1dXQFWEj9CagnvyX0f69jI0xRH/n/MMsvIqM5vI8ubNVbHliKkkxcbr5iVanrXsQ/LLLwcJAnlD8oDwIDAQAB;"
+webdisk 14400 IN A 173.254.238.38
+ftp 14400 IN CNAME @
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME @
+autoconfig 14400 IN A 173.254.238.38
+autodiscover 14400 IN A 173.254.238.38
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.

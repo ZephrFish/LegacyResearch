@@ -1,0 +1,7 @@
+@ 86400 IN SOA sah1.ye. root.y.net.ye. 2001021110 10800 3600 1209600 86400
+@ 86400 IN NS sah1.ye.
+86400 IN NS sah2.ye.
+@ 86400 IN MX 10 ty-ax-fe01.y.net.ye.
+mail 86400 IN A 195.94.0.16
+www 86400 IN A 195.94.0.48
+localhost 86400 IN A 127.0.0.1

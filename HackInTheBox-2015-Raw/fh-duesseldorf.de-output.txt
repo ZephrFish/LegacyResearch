@@ -1,0 +1,509 @@
+@ 40000 IN SOA zsol1.dvz schawohl 3935806524 10000 3600 1728000 10000
+@ 40000 IN A 193.23.169.152
+@ 40000 IN NS zsol1.dvz
+40000 IN NS zvms1.dvz
+40000 IN NS sirene.rz.uni-duesseldorf.de.
+40000 IN NS selene.rz.uni-duesseldorf.de.
+40000 IN NS deneb.dfn.de.
+@ 40000 IN NAPTR 100 10 "s" "x-eduroam:radius.tls" "" _radsec._tcp.eduroam.de.
+@ 40000 IN MX 10 zux10.dvz
+ifs.muv 40000 IN CNAME zvnts06.muv
+msnlb 40000 IN A 193.23.170.171
+isave.web 40000 IN CNAME web
+zvms6.dvz 40000 IN A 193.23.168.5
+weblogs 40000 IN A 193.23.169.156
+bt-lab.medien 40000 IN A 195.37.239.201
+zwlc02.dvz 40000 IN A 1.1.1.2
+nnts111.medien 40000 IN A 195.37.239.188
+ent72.et 40000 IN A 195.37.240.102
+lync.cit 40000 IN A 193.23.170.172
+facedev-soz-kult.mki 40000 IN CNAME facedev.mki
+edi.web 40000 IN CNAME web
+CISCO-LWAPP-CONTROLLER.dvz 40000 IN A 192.168.9.5
+40000 IN A 192.168.9.6
+ifi-r710s2.mv 40000 IN A 195.37.239.113
+studienprojekte.soz-kult 40000 IN A 193.23.170.190
+zwek.web 40000 IN CNAME web
+mnt10.muv 40000 IN A 193.23.168.40
+mail.bibl 40000 IN MX 10 zux10.dvz
+zwek.webdev 40000 IN CNAME webdev
+zvtmg1 40000 IN A 193.23.170.167
+kux01.mki 40000 IN A 193.23.169.158
+edos45.et 40000 IN A 193.23.168.62
+www.arc 40000 IN A 193.23.169.152
+nnt40-e 40000 IN A 195.37.239.145
+nux51 40000 IN A 195.37.239.143
+bib.web 40000 IN CNAME web
+_sip._tls 40000 IN SRV 0 0 443 lync.cit
+et.web 40000 IN CNAME web
+sux30 40000 IN A 195.37.236.110
+sigam 40000 IN A 193.23.170.33
+nnts40.medien 40000 IN A 195.37.239.136
+fhdclicker.medien 40000 IN A 195.37.239.194
+*.bibl 40000 IN MX 10 zux10.dvz
+mail.mv 40000 IN CNAME mv-server.mv
+meet.cit 40000 IN A 193.23.170.173
+et.mv 40000 IN A 195.37.239.102
+vfw1.verw 40000 IN A 195.37.238.253
+mail.wirtschaft 40000 IN MX 10 zux10.dvz
+zies 40000 IN CNAME www2
+pop3.dvz 40000 IN CNAME imap.dvz
+zeit2.dvz 40000 IN CNAME zvms4.dvz
+bnts6.bibl 40000 IN A 193.23.168.59
+old.soz-kult 40000 IN A 193.23.170.191
+share.estudy 40000 IN A 195.37.239.145
+eux35.et 40000 IN A 193.23.171.87
+elab.medien 40000 IN CNAME nnt-40.medien
+notes.wirtschaft 40000 IN A 195.37.236.13
+service.alex 40000 IN A 195.37.239.139
+zux10.dvz 40000 IN A 193.23.168.19
+portal.cit 40000 IN A 193.23.170.171
+*.design 40000 IN MX 10 zux10.dvz
+sozpaed 40000 IN MX 10 zux10.dvz
+gerhardvormwaldundschueler 40000 IN A 193.23.170.209
+*.verw 40000 IN MX 10 zux10.dvz
+zvnts06.muv 40000 IN A 193.23.170.92
+moodle.cg.medien 40000 IN A 195.37.239.152
+video.mki 40000 IN CNAME zora.mki
+sts 40000 IN A 193.23.170.207
+iraa.web 40000 IN CNAME web
+nux10.medien 40000 IN A 195.37.240.97
+ZVNTS07.dvz 40000 IN A 193.23.170.34
+mwin61.muv 40000 IN A 193.23.171.94
+www.born-to-be-me 40000 IN CNAME sux30
+bnt33.bibl 40000 IN A 193.23.168.130
+diasa 40000 IN CNAME www2
+zopelab.soz-kult 40000 IN A 195.37.236.100
+fivecode.medien 40000 IN A 195.37.239.6
+medienlabor.mki 40000 IN A 193.23.169.143
+bnt38.bibl 40000 IN A 193.23.171.78
+meinfhd.medien 40000 IN A 195.37.239.195
+facedev-design.mki 40000 IN CNAME facedev.mki
+verleih.cit 40000 IN A 195.37.239.10
+fmdauto.web 40000 IN CNAME web
+sozarb 40000 IN MX 10 zux10.dvz
+_vlmcs._tcp.dvz 40000 IN SRV 0 0 1688 ZVNTS07.dvz
+epmac0.et 40000 IN A 193.23.168.87
+smartgrid.et 40000 IN A 193.23.170.234
+edos48.et 40000 IN A 193.23.168.48
+nux113.medien 40000 IN A 195.37.239.190
+mail.muv 40000 IN MX 10 zux10.dvz
+pc-pool.medien 40000 IN CNAME nux40.medien
+iassadm 40000 IN CNAME info
+*.sozarb 40000 IN MX 10 zux10.dvz
+imap 40000 IN MX 10 imap.dvz
+vsvr.medien 40000 IN CNAME nnts96.medien
+bnt35.bibl 40000 IN A 193.23.168.99
+admin-www 40000 IN CNAME www2
+smtp.exch 40000 IN A 172.20.36.15
+40000 IN A 172.20.36.18
+exch 40000 IN MX 10 smtp1.exch
+40000 IN MX 10 smtp2.exch
+facedev-muv.mki 40000 IN CNAME facedev.mki
+av.cit 40000 IN A 193.23.170.174
+edos77.et 40000 IN A 193.23.168.223
+eux31.et 40000 IN A 193.23.168.164
+ewin40.et 40000 IN CNAME inflab.et
+nnts96.medien 40000 IN A 195.37.239.244
+web 40000 IN A 193.23.170.220
+edos50.et 40000 IN A 193.23.168.186
+wirtschaft.webdev 40000 IN CNAME webdev
+mail.sozpaed 40000 IN MX 10 zux10.dvz
+old.design 40000 IN A 193.23.169.152
+exam.alex 40000 IN A 195.37.239.171
+CISCO-CAPWAP-CONTROLLER.dvz 40000 IN CNAME CISCO-LWAPP-CONTROLLER.dvz
+autlab.et 40000 IN A 195.37.239.97
+bnts7.bibl 40000 IN A 193.23.168.145
+zies.web 40000 IN CNAME web
+vrar2012.medien 40000 IN CNAME moodle.cg.medien
+pbsa.webdev 40000 IN CNAME webdev
+ent50.et 40000 IN A 193.23.171.108
+dial 40000 IN A 193.23.170.175
+zfw1.dvz 40000 IN A 193.23.168.253
+zvms1.dvz 40000 IN A 193.23.168.16
+woas 40000 IN A 195.37.240.24
+www.wortschaft 40000 IN CNAME wortschaft
+nnts90.medien 40000 IN A 195.37.239.187
+ifidbs.muv 40000 IN CNAME mnts11.muv
+stroetech.mv 40000 IN CNAME mnt10.mv
+*.weblogs 40000 IN CNAME weblogs
+ivlys 40000 IN A 172.20.36.31
+*.medien 40000 IN MX 10 zux10.dvz
+eux60.mv 40000 IN A 193.23.168.38
+ifi.mv 40000 IN MX 10 ifi-win2008.ifi.mv
+znts04.itm 40000 IN A 192.168.4.20
+test1.medien 40000 IN CNAME nux114.medien
+autodiscover.study 40000 IN CNAME autodiscover.outlook.com.
+cg.medien 40000 IN A 195.37.239.31
+*.dbe.medien 40000 IN CNAME dbe.medien
+medien.web 40000 IN CNAME web
+island.design 40000 IN A 193.23.169.136
+zies.webdev 40000 IN CNAME webdev
+www.fs.et 40000 IN CNAME fs.et
+kommunikation.wirtschaft 40000 IN CNAME wnt10.wirtschaft
+www 40000 IN CNAME et
+cit.web 40000 IN CNAME web
+mmi.design 40000 IN CNAME eignung.design
+stroetech.muv 40000 IN CNAME mnt10.muv
+meet 40000 IN CNAME dial
+_sipfederationtls._tcp 40000 IN SRV 0 0 5061 lync.cit
+zvms4.dvz 40000 IN A 193.23.168.7
+*.autlab.et 40000 IN CNAME autlab.et
+alex 40000 IN A 195.37.239.140
+mail.architekt 40000 IN MX 10 zux10.dvz
+app.medien 40000 IN A 195.37.239.141
+router7.dvz 40000 IN A 193.23.168.3
+wirtschaft 40000 IN MX 10 zux10.dvz
+wirtschaft 40000 IN A 195.37.236.48
+wirtschaft.web 40000 IN CNAME web
+lyncdiscover.study 40000 IN CNAME webdir.online.lync.com.
+fbw01.wirtschaft 40000 IN A 193.23.170.10
+werkschau2013 40000 IN A 193.23.170.101
+nnt74.alex 40000 IN A 195.37.239.147
+facedev-dvz.mki 40000 IN CNAME facedev.mki
+portal.alex 40000 IN CNAME nnt74.alex
+facedev-verwaltung.mki 40000 IN CNAME facedev.mki
+studio5.medien 40000 IN A 195.37.239.182
+sdn-controler 40000 IN A 10.2.0.3
+*.sozpaed 40000 IN MX 10 zux10.dvz
+aport.mv 40000 IN A 195.37.239.117
+webkurs.mki 40000 IN CNAME cms.mki
+kalender.wirtschaft 40000 IN CNAME server-01.wirtschaft
+save 40000 IN CNAME ifs
+autodiscover 40000 IN A 193.23.170.167
+mateso 40000 IN A 193.23.170.195
+*.ifi.mv 40000 IN MX 10 ifi-win2008.ifi.mv
+shd.mki 40000 IN A 193.23.169.133
+bnt39.bibl 40000 IN A 193.23.171.79
+bdos10.bibl 40000 IN A 193.23.168.40
+smtp2.exch 40000 IN A 172.20.36.18
+40000 IN A 172.20.36.24
+www.smartgrid.et 40000 IN CNAME smartgrid.et
+old.medien 40000 IN A 195.37.239.181
+zbbsm1.dvz 40000 IN A 193.23.168.10
+xcor5.mv 40000 IN A 172.24.20.16
+fs.et 40000 IN A 193.23.169.152
+idos3.dvz 40000 IN A 193.23.168.39
+zvms7.dvz 40000 IN A 193.23.168.122
+rdg.cit 40000 IN A 193.23.170.131
+www.qisserver 40000 IN CNAME vfw1.verw
+tickets 40000 IN CNAME tickets.cit
+bscw.mki 40000 IN A 193.23.169.156
+osx.mki 40000 IN A 193.23.169.134
+mwin90.muv 40000 IN A 193.23.171.71
+hg.cg.medien 40000 IN CNAME redmine.cg.medien
+cms.mki 40000 IN A 193.23.169.131
+old.arc 40000 IN A 193.23.169.152
+mlab.medien 40000 IN CNAME nnts40.medien
+wap1.medien 40000 IN CNAME nnts111.medien
+bib 40000 IN CNAME bibl
+arc 40000 IN CNAME et
+nnt82.medien 40000 IN A 195.37.239.175
+fs.mv 40000 IN CNAME www.mv
+mv.web 40000 IN CNAME web
+mail.verw 40000 IN MX 10 zux10.dvz
+anyconnect.cit 40000 IN A 193.23.170.8
+mail.sozarb 40000 IN MX 10 zux10.dvz
+workspace.alex 40000 IN CNAME my.alex
+design 40000 IN MX 10 zux10.dvz
+design 40000 IN A 193.23.169.152
+lyncdiscover 40000 IN CNAME dial
+mnts11.mv 40000 IN A 193.23.171.253
+facedev-organe.mki 40000 IN CNAME facedev.mki
+nnt77.medien 40000 IN A 195.37.239.170
+nux40.medien 40000 IN A 195.37.240.247
+mnts10.muv 40000 IN A 193.23.168.98
+mmk.medien 40000 IN A 195.37.239.9
+40000 IN A 172.25.40.143
+smtp.dvz 40000 IN CNAME zvms3.dvz
+alumni 40000 IN A 195.37.239.11
+mv.webdev 40000 IN CNAME webdev
+router3.et 40000 IN A 193.23.169.33
+videosvn.mki 40000 IN CNAME svn.mki
+vsvr-serv.medien 40000 IN CNAME nux10.medien
+bscw.dvz 40000 IN CNAME znts06.dvz
+router4.dvz 40000 IN A 193.23.170.1
+server-01.wirtschaft 40000 IN A 195.37.238.43
+zeit3.dvz 40000 IN CNAME zux4.dvz
+ifi.muv 40000 IN CNAME mnts10.muv
+werkschau 40000 IN CNAME dertag
+facedev-fachbereiche.mki 40000 IN CNAME facedev.mki
+www.bibl 40000 IN A 193.23.169.152
+v6win01.verw 40000 IN A 193.23.170.157
+pbsa.web 40000 IN CNAME web
+mwin61.mv 40000 IN A 193.23.171.94
+c.mv 40000 IN A 195.37.239.118
+kommunikationsforschung 40000 IN CNAME wortschaft
+ifidbs.mv 40000 IN CNAME mnts11.mv
+www.job5.medien 40000 IN CNAME nnts97.medien
+english 40000 IN CNAME et
+etesting 40000 IN A 195.37.239.170
+cit.webdev 40000 IN CNAME webdev
+campus.alex 40000 IN A 195.37.239.150
+e-learning 40000 IN CNAME nnt40-e
+pc.cit 40000 IN A 193.23.168.100
+eux11.et 40000 IN A 193.23.168.44
+www.diasa 40000 IN CNAME www2
+old.bibl 40000 IN A 193.23.169.152
+*.dvz 40000 IN MX 10 zux10.dvz
+edi 40000 IN CNAME et
+edos30.et 40000 IN A 193.23.168.47
+fs.medien 40000 IN CNAME nux30.medien
+www.mki 40000 IN CNAME www
+www.campus-it 40000 IN CNAME campus-it
+control-net 40000 IN A 195.37.240.99
+ds 40000 IN A 193.23.168.42
+learnlab.soz-kult 40000 IN A 195.37.236.100
+en 40000 IN CNAME et
+dux12.design 40000 IN A 195.37.240.188
+old.et 40000 IN A 193.23.169.152
+et 40000 IN MX 10 zux10.dvz
+et 40000 IN A 193.23.169.152
+mail.mki 40000 IN CNAME pigeon.mki
+ssp.alex 40000 IN CNAME my.alex
+www.machweb 40000 IN CNAME machweb
+_sipfederationtls._tcp.study 40000 IN SRV 1 100 5061 sipfed.online.lync.com.
+facedev-medien.mki 40000 IN CNAME facedev.mki
+opus 40000 IN CNAME tww
+dux10.design 40000 IN A 195.37.240.84
+dokumente.wirtschaft 40000 IN CNAME server-01.wirtschaft
+master 40000 IN CNAME www2
+bibl 40000 IN MX 10 zux10.dvz
+bibl 40000 IN A 193.23.169.152
+facedev-mki.mki 40000 IN CNAME facedev.mki
+nnt75.alex 40000 IN A 195.37.239.148
+dbe.medien 40000 IN A 195.37.239.27
+zora.mki 40000 IN A 193.23.169.132
+imap4 40000 IN A 193.23.170.175
+dvz 40000 IN MX 10 zux10.dvz
+old.mv 40000 IN A 193.23.169.152
+mv 40000 IN MX 10 mv-server.mv
+mv 40000 IN A 193.23.169.152
+www.etesting 40000 IN CNAME etesting
+bwin21.bibl 40000 IN A 193.23.171.9
+mirevi.medien 40000 IN A 195.37.239.8
+nux1.medien 40000 IN A 193.23.171.161
+bnt41.bibl 40000 IN A 193.23.171.81
+ents01.et 40000 IN A 193.23.171.38
+pigeon.mki 40000 IN A 193.23.169.138
+facedev-et.mki 40000 IN CNAME facedev.mki
+medien 40000 IN A 195.37.239.181
+medien 40000 IN MX 10 zux10.dvz
+verw 40000 IN MX 10 zux10.dvz
+cis.medien 40000 IN CNAME nnts90.medien
+cms2.mki 40000 IN A 193.23.169.135
+zux33.dvz 40000 IN A 193.23.168.13
+webtec.medien 40000 IN A 195.37.239.8
+ent59.et 40000 IN A 193.23.171.208
+www.moodle.cg.medien 40000 IN CNAME moodle.cg.medien
+v6win05.verw 40000 IN A 193.23.171.151
+bux1.bibl 40000 IN A 193.23.168.207
+facedev-architektur.mki 40000 IN CNAME facedev.mki
+inflab.et 40000 IN A 193.23.168.169
+zdnstest.dvz 40000 IN A 193.23.168.34
+dec.dvz 40000 IN CNAME zux4.dvz
+info.alex 40000 IN CNAME nnt74.alex
+service 40000 IN A 195.37.239.149
+router5.dvz 40000 IN A 193.23.168.1
+40000 IN A 193.23.171.1
+nnt-40.medien 40000 IN A 195.37.239.137
+weblogs.mki 40000 IN CNAME weblogs
+www.design 40000 IN A 193.23.169.152
+eux14.et 40000 IN A 193.23.168.86
+cisco-academy 40000 IN A 193.23.168.164
+www.fivecode.medien 40000 IN CNAME fivecode.medien
+mi.medien 40000 IN A 195.37.239.30
+bdos27.bibl 40000 IN A 193.23.168.129
+nnts44.alex 40000 IN A 195.37.239.173
+tickets.cit 40000 IN A 193.23.168.77
+pearson-de 40000 IN CNAME nnt40-e
+wuk.et 40000 IN CNAME edos48.et
+sps2013eval.cit 40000 IN A 193.23.170.103
+www1 40000 IN A 193.23.168.42
+www2 40000 IN A 193.23.169.140
+wikis.mki 40000 IN CNAME weblogs
+swlab.et 40000 IN CNAME edos50.et
+mnt90.mv 40000 IN A 193.23.171.134
+zwec 40000 IN A 193.23.169.153
+imap.dvz 40000 IN A 193.23.168.23
+face 40000 IN CNAME www1
+daga2011 40000 IN A 193.23.168.42
+moodle-et-wi 40000 IN A 195.37.239.7
+_sip._tls.study 40000 IN SRV 1 100 443 sipdir.online.lync.com.
+zux11.itm 40000 IN A 192.168.9.15
+amacs01.arc 40000 IN A 193.23.170.225
+pl.et 40000 IN CNAME edos45.et
+webaudit.mki 40000 IN CNAME www2
+medien.webdev 40000 IN CNAME webdev
+dvk.datenschutz 40000 IN A 193.23.168.12
+mail.et 40000 IN MX 10 zux10.dvz
+muv-intern 40000 IN CNAME info
+idp 40000 IN A 193.23.168.26
+hmt 40000 IN A 195.37.239.101
+ants10.architekt 40000 IN A 195.37.240.120
+intern 40000 IN A 193.23.169.152
+av.design 40000 IN CNAME dux12.design
+int12.dvz 40000 IN A 193.23.168.112
+nux114.medien 40000 IN A 195.37.239.192
+zwlc01.dvz 40000 IN A 1.1.1.1
+mnt90.muv 40000 IN A 193.23.171.134
+ifs 40000 IN A 195.37.239.187
+vm.mki 40000 IN A 193.23.169.155
+wortschaft 40000 IN A 195.37.236.48
+lernserver 40000 IN A 193.23.169.130
+fastra-sowe 40000 IN A 195.37.236.182
+mail.design 40000 IN MX 10 zux10.dvz
+lyncws.cit 40000 IN A 193.23.170.175
+www.video.soz-kult 40000 IN CNAME sux30
+nux112.medien 40000 IN A 195.37.239.189
+*.meinfhd.medien 40000 IN A 195.37.239.195
+bewerbung 40000 IN A 193.23.170.198
+bibl.webdev 40000 IN CNAME webdev
+webdev.mki 40000 IN A 193.23.169.144
+ossc 40000 IN CNAME vfw1.verw
+katalog.bibl 40000 IN A 195.37.241.41
+websvn.mki 40000 IN CNAME svn.mki
+my.alex 40000 IN A 195.37.239.140
+*.mi.medien 40000 IN A 195.37.239.30
+nnts97.medien 40000 IN A 195.37.239.164
+cmail.cit 40000 IN A 193.23.168.23
+kontakte.wirtschaft 40000 IN CNAME server-01.wirtschaft
+videoconf 40000 IN A 193.23.168.105
+ifi-win2008.ifi.mv 40000 IN A 195.37.239.91
+shop.medien 40000 IN CNAME nux112.medien
+znoc1.dvz 40000 IN A 192.168.9.234
+wnt10.wirtschaft 40000 IN A 195.37.238.240
+www.master 40000 IN CNAME www2
+www.alumni.medien 40000 IN CNAME *.mi.medien
+komvor.soz-kult 40000 IN A 193.23.170.193
+fotostudios.design 40000 IN CNAME eignung.design
+idos4.dvz 40000 IN A 193.23.168.33
+live.alex 40000 IN CNAME nux51
+www.studio5.medien 40000 IN CNAME studio5.medien
+isave 40000 IN CNAME et
+avrenim.medien 40000 IN A 195.37.239.134
+sip.study 40000 IN CNAME sipdir.online.lync.com.
+facedev.mki 40000 IN A 193.23.168.42
+vpn01.dvz 40000 IN A 193.23.168.4
+mwin91.muv 40000 IN A 193.23.171.72
+www.ifi.mv 40000 IN CNAME mux50.mv
+vvz.design 40000 IN CNAME eignung.design
+*.architekt 40000 IN MX 10 zux10.dvz
+soz-kult.webdev 40000 IN CNAME webdev
+lists.mki 40000 IN CNAME pigeon.mki
+www.medien 40000 IN CNAME nux50.medien
+kim 40000 IN CNAME www2
+moodle.mv 40000 IN A 193.23.170.205
+qisserver 40000 IN CNAME vfw1.verw
+support.alex 40000 IN A 195.37.239.172
+svn.mki 40000 IN A 193.23.169.153
+bibl.web 40000 IN CNAME web
+webvpn.dvz 40000 IN CNAME vpn01.dvz
+zope-www 40000 IN CNAME www2
+dertag 40000 IN A 193.23.169.136
+www.pml.mv 40000 IN A 195.37.240.80
+pml 40000 IN A 195.37.240.82
+zwecdev.mki 40000 IN CNAME facedev.mki
+ifs.mv 40000 IN CNAME zvnts06.mv
+pop3 40000 IN A 193.23.170.167
+mnt10.mv 40000 IN A 193.23.168.40
+mnts11.muv 40000 IN A 193.23.171.253
+zadmin-www 40000 IN CNAME www2
+power.et 40000 IN CNAME ent50.et
+*.mki 40000 IN MX 10 pigeon.mki
+msoid.study 40000 IN CNAME clientconfig.microsoftonline-p.net.
+zvnts06.mv 40000 IN A 193.23.170.92
+moodle.wi 40000 IN A 195.37.239.7
+znts06.dvz 40000 IN A 193.23.168.21
+dmacs11 40000 IN A 195.37.239.26
+www.wirtschaft 40000 IN A 195.37.236.48
+www.et 40000 IN A 193.23.169.152
+showroom.design 40000 IN A 193.23.169.136
+estudy.medien 40000 IN A 195.37.239.150
+alumnitest 40000 IN A 193.23.170.101
+mail.medien 40000 IN MX 10 zux10.dvz
+smtp 40000 IN A 193.23.170.175
+mail.dvz 40000 IN MX 10 zux10.dvz
+webmail 40000 IN A 193.23.170.167
+kfw01.mki 40000 IN A 193.23.169.157
+fs.study 40000 IN A 193.23.170.180
+machweb 40000 IN A 193.23.168.14
+www.mv 40000 IN A 193.23.169.152
+mki 40000 IN MX 10 pigeon.mki
+mki 40000 IN A 193.23.169.140
+*.muv 40000 IN MX 10 zux10.dvz
+soz-kult 40000 IN A 193.23.170.191
+anmeldung.mv 40000 IN CNAME zvnts06.mv
+mux50.mv 40000 IN A 193.23.171.171
+streaming.medien 40000 IN A 195.37.239.176
+_autodiscover._tcp 40000 IN SRV 0 0 443 webmail
+schnell.et 40000 IN CNAME epmac0.et
+sps2013dev.cit 40000 IN A 193.23.170.208
+zora.diasa 40000 IN A 193.23.169.132
+www1.bibl 40000 IN CNAME bux1.bibl
+facedev-wirtschaft.mki 40000 IN CNAME facedev.mki
+nux50.medien 40000 IN A 195.37.239.181
+soz-kult.web 40000 IN CNAME web
+znts10.dvz 40000 IN A 193.23.168.37
+smtp1.exch 40000 IN A 172.20.36.15
+40000 IN A 172.20.36.20
+old.wirtschaft 40000 IN A 195.37.236.48
+campus-it 40000 IN A 193.23.168.25
+zvms0.dvz 40000 IN A 193.23.168.15
+mfa.mki 40000 IN CNAME kux01.mki
+mv-intern 40000 IN CNAME info
+mwin90.mv 40000 IN A 193.23.171.71
+muv 40000 IN MX 10 zux10.dvz
+job5.medien 40000 IN CNAME nnts97.medien
+mwvi.architekt 40000 IN CNAME ants10.architekt
+elearning.soz-kult 40000 IN A 193.23.170.192
+facedev-mv.mki 40000 IN CNAME facedev.mki
+srt-aut.mv 40000 IN A 193.23.171.95
+ifi-r710s1.mv 40000 IN A 195.37.239.112
+zdns3.dvz 40000 IN CNAME zsol1.dvz
+ants03.arc 40000 IN A 195.37.242.114
+tost.medien 40000 IN A 195.37.239.65
+www.soz-kult 40000 IN A 193.23.170.191
+vpn01.itm 40000 IN A 193.23.168.4
+old 40000 IN A 193.23.169.152
+estudy 40000 IN A 195.37.239.166
+test1 40000 IN CNAME weblogs
+bnt32.bibl 40000 IN A 193.23.168.117
+test2 40000 IN CNAME et
+eat.isave 40000 IN A 195.37.239.100
+weiterbildung.web 40000 IN CNAME web
+vserv06 40000 IN A 192.168.96.4
+bbsm52.dvz 40000 IN A 195.37.237.1
+www.app.medien 40000 IN CNAME app.medien
+otrs 40000 IN CNAME weblogs
+webvpn.itm 40000 IN CNAME vpn01.itm
+zvms3.dvz 40000 IN A 193.23.168.6
+*.wirtschaft 40000 IN MX 10 zux10.dvz
+mfhdm.medien 40000 IN A 195.37.239.193
+dialin 40000 IN CNAME dial
+streaming.alex 40000 IN A 195.37.239.176
+neubauhaus 40000 IN A 193.23.169.136
+mv-test 40000 IN A 193.23.169.152
+router6.dvz 40000 IN A 195.37.239.1
+mephisto.et 40000 IN CNAME eux35.et
+eignung.design 40000 IN A 193.23.169.136
+www.kommunikationsforschung 40000 IN CNAME wortschaft
+mv-server.mv 40000 IN A 195.37.239.114
+et.webdev 40000 IN CNAME webdev
+*.et 40000 IN MX 10 zux10.dvz
+facedev-bibl.mki 40000 IN CNAME facedev.mki
+webdev 40000 IN A 193.23.168.100
+alumni.medien 40000 IN CNAME *.mi.medien
+router2-2.dvz 40000 IN A 193.23.170.254
+vpn02.cit 40000 IN A 193.23.178.8
+nux30.medien 40000 IN A 195.37.240.237
+qis 40000 IN CNAME vserv06
+architekt 40000 IN MX 10 zux10.dvz
+ftp.et 40000 IN CNAME ent59.et
+zsol1.dvz 40000 IN A 193.23.168.2
+study 40000 IN TXT "MS=ms27240843"
+40000 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+study 40000 IN MX 10 study-fhduesseldorf-de02b.mail.protection.outlook.com.
+redmine.cg.medien 40000 IN A 193.23.170.224
+bnts1.bibl 40000 IN A 193.23.168.208
+aad-galerie.design 40000 IN CNAME eignung.design

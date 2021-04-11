@@ -1,0 +1,116 @@
+@ 86400 IN SOA usi root 2015031902 1800 600 1296000 86400
+@ 86400 IN A 200.68.60.233
+@ 86400 IN TXT "v=spf1 mx ip4:200.68.60.234/32 ip4:200.68.60.236/32 a:smtp.umag.cl a:smtp2.umag.cl include:_spf.google.com ~all"
+@ 86400 IN MX 1 mail
+@ 86400 IN NS usi
+86400 IN NS secundario.nic.cl.
+investigacion 0 IN CNAME sid2
+foro 86400 IN A 200.68.60.233
+ww.ozonocedario 0 IN CNAME ozono
+webmail2 86400 IN A 200.68.60.231
+formacion 86400 IN A 200.68.18.76
+umagtv 86400 IN A 200.54.89.50
+parc 86400 IN A 200.68.18.68
+fscutesting 86400 IN A 200.68.60.233
+ozonocedario 0 IN CNAME ozono
+www.gaia_antartica_repositorio 0 IN CNAME repositorioantartica
+congreso2009 0 IN CNAME webumag
+gaia_antartica 0 IN CNAME repositorioantartica
+escuelavirtual 0 IN CNAME webumag
+www 86400 IN A 200.68.60.233
+empleos 86400 IN A 200.29.145.50
+gaia_antartica_repositorio 0 IN CNAME repositorioantartica
+fondosolidario 0 IN CNAME webumag
+e 0 IN CNAME formacion
+g 86400 IN MX 1 aspmx.l.google.com.
+86400 IN MX 5 alt1.aspmx.l.google.com.
+86400 IN MX 5 alt2.aspmx.l.google.com.
+86400 IN MX 10 aspmx2.googlemail.com.
+86400 IN MX 10 aspmx3.googlemail.com.
+sid2 86400 IN A 200.68.18.77
+www.seminario 0 IN CNAME webumag
+gap 0 IN CNAME kataix
+www.analisis 0 IN CNAME analisis
+www.regcur 0 IN CNAME web
+sid 86400 IN A 200.68.18.75
+www.ozono 0 IN CNAME ozono
+e2 86400 IN A 200.68.18.78
+smtp 86400 IN A 200.68.60.234
+smtp 86400 IN TXT "v=spf1 mx ip4:200.68.60.234/32 a:smtp.umag.cl include:_spf.google.com ~all"
+smtp 86400 IN MX 20 smtp
+fisica-espacial 86400 IN A 200.54.149.140
+webmail 86400 IN A 200.54.97.50
+smtp2 86400 IN A 200.68.60.236
+smtp2 86400 IN TXT "v=spf1 mx ip4:200.68.60.236/32 a:smtp2.umag.cl include:_spf.google.com ~all"
+smtp2 86400 IN MX 25 smtp2
+jzonasur 0 IN CNAME webumag
+aoniken.fc 86400 IN A 200.68.60.229
+aoniken.fc 86400 IN MX 10 aoniken.fc
+depadmin 0 IN CNAME webumag
+www.agro 0 IN CNAME webumag
+cedd 0 IN CNAME webumag
+bibliotecadigital 86400 IN A 200.54.63.162
+omora 86400 IN A 200.68.18.78
+sia 0 IN CNAME sid2
+test 86400 IN A 200.54.149.164
+fscu 86400 IN A 200.68.38.212
+dkim._domainkey 3600 IN TXT "v=DKIM1; p=" "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDY6QhqiRK5MS1XTD1/Q03R5R3F" "AK0uHBctfj+JGMZcttwqZvgH4MdAJpOZE14GMlFPzMlBrdRl/h80g0JeaGEjq752" "JoJ8Ajs7gWXtuT952lt2ke1TgBiD7YI32lphcO/HREU+4N0xMJNb1C2tWITUDV65" "1FUtDA1dC9rtfmKX1QIDAQAB"
+webumag 86400 IN A 200.68.60.233
+gaia_antarticarepositorio 0 IN CNAME repositorioantartica
+gaiaantartica_repositorio 0 IN CNAME repositorioantartica
+www.antarticarepositorio 0 IN CNAME repositorioantartica
+hain 86400 IN A 200.68.60.227
+www.dic 0 IN CNAME kataix
+enlaces 86400 IN A 200.54.149.144
+admision 86400 IN A 200.91.44.222
+ampa 0 IN CNAME sid
+www.psicoalumnos 0 IN CNAME webumag
+www.salud 0 IN CNAME usi
+www.gaia_antarticarepositorio 0 IN CNAME repositorioantartica
+www.gaiaantartica_repositorio 0 IN CNAME repositorioantartica
+sisdae2 0 IN CNAME sid
+mail 86400 IN A 200.68.60.226
+mail 86400 IN MX 1 mail
+pionero 0 IN CNAME sid
+agro 0 IN CNAME webumag
+docencia 86400 IN A 200.68.18.70
+www.repositorioantartica 0 IN CNAME repositorioantartica
+testingsid 86400 IN A 200.54.68.253
+idiomas 86400 IN A 200.68.18.79
+reduai 0 IN CNAME analisis
+demre 86400 IN A 200.68.38.210
+modis 86400 IN A 200.68.18.67
+psu2014 86400 IN A 200.54.235.62
+psu2015 86400 IN A 200.54.235.62
+usi 86400 IN A 200.68.60.232
+webumag2 86400 IN A 200.54.235.62
+hip2 86400 IN A 200.68.18.72
+vpn1 86400 IN A 200.68.60.228
+vpn2 86400 IN A 200.54.94.205
+torneodedebates 0 IN CNAME webumag
+www.enlaces 0 IN CNAME enlaces
+repositorioantartica 86400 IN A 200.54.63.163
+mailbox 86400 IN A 200.68.38.249
+antarticarepositorio 0 IN CNAME repositorioantartica
+docencia2 0 IN CNAME docencia
+vpn 86400 IN A 200.68.60.228
+dic 86400 IN MX 15 selknam
+www.confauce 0 IN CNAME confauce
+www.sid 0 IN CNAME sid
+www.matricula2013 0 IN CNAME webumag
+congresosuelos2014 0 IN CNAME webumag
+servidores 86400 IN A 200.68.38.211
+proyectosdsi 0 IN CNAME webftp
+kataix 86400 IN A 200.68.18.69
+www.sid2 0 IN CNAME sid2
+dpa 0 IN CNAME webumag
+ozono 86400 IN A 200.68.18.66
+sisdae 0 IN CNAME sid
+analisis 86400 IN A 200.68.18.74
+pta 86400 IN A 200.68.54.58
+www.bibliotecadigital 0 IN CNAME bibliotecadigital
+www.conservatorio 0 IN CNAME webumag
+psu 86400 IN A 200.68.38.210
+raon 0 IN CNAME sid
+dns 86400 IN A 200.68.60.235
+parqueomora 86400 IN A 200.54.149.130

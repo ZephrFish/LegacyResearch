@@ -1,0 +1,59 @@
+@ 3600 IN SOA dnsv postmaster 2015040101 3600 300 3600000 3600
+@ 3600 IN TXT "v=spf1 +ip4:210.160.35.25 +ip4:210.160.35.15 +ip4:210.160.35.61 +ip4:210.160.35.31 +ip4:210.160.35.14 +ip4:211.2.156.84 include:_spf.google.com ~all"
+@ 3600 IN NS dnsv
+3600 IN NS ns-tk012.ocn.ad.jp.
+@ 3600 IN MX 10 ASPMX.L.GOOGLE.COM.
+3600 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+3600 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+3600 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+3600 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+3600 IN MX 30 ASPMX4.GOOGLEMAIL.COM.
+3600 IN MX 30 ASPMX5.GOOGLEMAIL.COM.
+3600 IN MX 40 wmail
+3600 IN MX 50 mlist
+@ 3600 IN A 210.160.35.8
+sites 3600 IN CNAME ghs.google.com.
+wmail 3600 IN CNAME iuj-edu
+googleffffffffee0bd9a4.mail 3600 IN CNAME google.com.
+moderator 3600 IN CNAME ghs.google.com.
+googlebc062d341da478e6.html 3600 IN CNAME google.com.
+dnsv 3600 IN A 210.160.35.1
+googleffffffffee0bd9a4 3600 IN CNAME google.com.
+ews 3600 IN A 210.160.35.52
+elab-jrrsvr 3600 IN A 210.160.35.55
+cms 3600 IN CNAME elab-cms
+ibs 3600 IN CNAME webserv
+wave 3600 IN CNAME ghs.google.com.
+calendar 3600 IN CNAME ghs.google.com.
+google 3600 IN CNAME ghs.google.com.
+dbserv1 3600 IN A 210.160.35.13
+iclove 3600 IN CNAME webserv
+mail 3600 IN CNAME ghs.google.com.
+google._domainkey 3600 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChubODlfllIpPbGS6Eg7qfflv7vYtBen4OGxAA47j5spZ68Rz4frrRCK78pM4/+HKB9jHCHgfyOQeeXyJPdjZ92b/8mFDzVs0VI5pNNTkJxvosAFkBDHMoQJcJfuau1QjddW/mr7Poaqjr0LGTpqUxRdB/frctjco0jKuCTGlxmQIDAQAB"
+webserv 3600 IN A 210.160.35.8
+blogger 3600 IN CNAME ghs.google.com.
+drive 3600 IN CNAME drive.google.com.
+www 3600 IN CNAME webserv
+gsim 3600 IN CNAME webserv
+docs 3600 IN CNAME ghs.google.com.
+*.www3 3600 IN A 210.160.35.11
+iuj-edu 3600 IN A 210.160.35.15
+elab-cms 3600 IN A 210.160.35.56
+gsir 3600 IN CNAME webserv
+video 3600 IN CNAME ghs.google.com.
+vlab 3600 IN A 210.160.35.57
+fie 3600 IN CNAME webserv
+webserv1 3600 IN A 210.160.35.9
+admin 3600 IN A 210.160.35.6
+www1 3600 IN CNAME ghs.google.com.
+mlist 3600 IN A 210.160.35.25
+www3 3600 IN A 210.160.35.11
+e-iuj 3600 IN CNAME elab-db1
+www7 3600 IN CNAME webserv1
+library 3600 IN A 210.160.35.17
+iras 3600 IN A 210.160.35.16
+youtube 3600 IN CNAME ghs.google.com.
+x 3600 IN CNAME elab-jrrsvr
+gmail 3600 IN CNAME ghs.google.com.
+j 3600 IN CNAME elab-apsrv
+news 3600 IN CNAME ghs.google.com.

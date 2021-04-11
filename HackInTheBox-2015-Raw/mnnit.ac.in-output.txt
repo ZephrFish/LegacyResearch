@@ -1,0 +1,108 @@
+@ 300 IN SOA sangam ss.root.com. 1277738648 10800 3600 604800 38400
+@ 300 IN NS sangam
+@ 300 IN A 14.139.249.200
+@ 300 IN MX 1 ASPMX.L.GOOGLE.com.
+300 IN MX 5 ALT1.ASPMX.L.GOOGLE.com.
+300 IN MX 5 ALT2.ASPMX.L.GOOGLE.com.
+300 IN MX 10 ASPMX2.GOOGLEMAIL.com.
+@ 300 IN TXT "v=spf1 include:_spf.google.com ~all"
+gnosiomania 300 IN A 210.212.49.23
+nimcetreport 300 IN A 210.212.49.44
+nimcetreport 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetreport 300 IN TXT "Dns Firewall & Proxy Server"
+www.gnosiomania 300 IN CNAME gnosiomania
+www.biosangam 300 IN CNAME ns.kratikal.in
+www.goldenj 300 IN CNAME goldenj
+placements 300 IN A 210.212.49.18
+placements 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+placements 300 IN TXT "Placements Web Site Server"
+biosangam 300 IN A 210.212.49.5
+biosangam 300 IN MX 10 mx.zoho.com
+300 IN MX 20 mx2.zoho.com
+biosangam 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+biosangam 300 IN TXT "Goldenj Web Server"
+www.ece 300 IN CNAME ece
+www.mail 300 IN CNAME ganga
+citk 300 IN A 210.212.49.29
+citk 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+citk 300 IN TXT "CITK Web Site Server"
+renaissance 1 IN A 210.212.49.5
+nimcetlock 300 IN A 210.212.49.44
+nimcetlock 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetlock 300 IN TXT "Dns Firewall & Proxy Server"
+www.nimcet09 300 IN CNAME nimcet09
+www.narmada 300 IN CNAME narmada
+nimcetwithdraw 300 IN A 210.212.49.44
+nimcetwithdraw 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetwithdraw 300 IN TXT "Dns Firewall & Proxy Server"
+goldenj 300 IN A 210.212.49.26
+motorsports 300 IN A 210.212.49.27
+motorsports 300 IN TXT "motorsports.mnnit.ac.in Server"
+sac 300 IN A 210.212.49.24
+sac 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+sac 300 IN TXT "Dns Firewall & Proxy Server"
+www.placements 300 IN CNAME placements
+nimcetverify 300 IN A 210.212.49.44
+nimcetverify 300 IN MX 10 ganga
+nimcetverify 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetverify 300 IN TXT "Dns Firewall & Proxy Server"
+nimcethelp 300 IN A 210.212.49.44
+nimcethelp 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcethelp 300 IN TXT "Dns Firewall & Proxy Server"
+nimcetdeposit 300 IN A 210.212.49.44
+nimcetdeposit 300 IN MX 10 ganga
+nimcetdeposit 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetdeposit 300 IN TXT "Dns Firewall & Proxy Server"
+nimcetadmin 300 IN A 210.212.49.44
+nimcetadmin 300 IN MX 10 ganga
+nimcetadmin 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetadmin 300 IN TXT "Dns Firewall & Proxy Server"
+nimcetfill 300 IN A 210.212.49.44
+nimcetfill 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetfill 300 IN TXT "Dns Firewall & Proxy Server"
+www.academics 300 IN CNAME academics
+nimcet09 1 IN A 210.212.49.28
+robofest 300 IN A 210.212.49.21
+robofest 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+robofest 300 IN TXT "Robofest Web Server Server"
+www.gallery 300 IN CNAME gallery
+dkim._domainkey.gnosiomania 300 IN TXT "v=DKIM1;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDr2STaVEVM6pDClRvpn0cId5AE3AzQejQZY9Bmbah+evbA+MEX1dCW25wwiMPaekZUkJ8OeM7m3zjPo6S0O7ds7CqCKnxx6G6XJioNc/sst2U9E5mjbHi2j2/wVPwTbTmjEFgZukosoWGe8bHBofUC3QYq0w0CsPkS9v0lcq+jKQIDAQAB"
+www.mail1 300 IN CNAME himalaya
+academics 300 IN A 14.139.249.199
+academics 300 IN MX 10 ganga
+academics 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+academics 300 IN TXT "Academics Web Server"
+ece 300 IN A 210.212.49.30
+ece 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+ece 300 IN TXT "ECE Web Site Server"
+himalaya 300 IN A 210.212.49.42
+www.robofest 300 IN CNAME robofest
+www 300 IN A 14.139.249.200
+www.citk 300 IN CNAME citk
+icmmsa 1 IN A 14.139.249.199
+nimcetrefund 300 IN A 210.212.49.44
+nimcetrefund 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcetrefund 300 IN TXT "Dns Firewall & Proxy Server"
+alumni 1 IN A 14.139.249.199
+gallery 300 IN A 14.139.249.196
+gallery 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+gallery 300 IN TXT "Nimcet09 Web Server"
+www.culrav 300 IN CNAME culrav
+culrav 300 IN A 210.212.49.22
+culrav 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+culrav 300 IN TXT "Culrav Web Site Server"
+icamt 300 IN A 14.139.249.198
+icamt 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+icamt 300 IN TXT "v=spf1 mx -all"
+300 IN TXT "Gnosiomania Web Site Server"
+google3bb965cd14e67cbc 300 IN CNAME GOOGLE.com.
+avishkar 1 IN A 210.212.49.16
+avishkar 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+avishkar 300 IN TXT "Avishkar Web Site Server"
+www.sac 300 IN CNAME sac
+www.renaissance 300 IN CNAME renaissance
+nimcethq 300 IN A 210.212.49.44
+nimcethq 300 IN MX 10 ganga
+nimcethq 300 IN HINFO "P-IV HCL PC CPU 3601.468 Mhz" "RHEL-4.0"
+nimcethq 300 IN TXT "Dns Firewall & Proxy Server"
+www.avishkar 300 IN CNAME avishkar

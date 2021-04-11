@@ -1,0 +1,19 @@
+@ 3600 IN SOA swa-afit-02.afit.edu. hostmaster.00e0ed24a978_fwlocal.com. 14 3600 300 3600000 3600
+@ 3600 IN A 129.92.252.254
+@ 3600 IN TXT "v=spf1 mx ip4:129.92.253.248 ip4:129.92.253.249 -all"
+@ 3600 IN MX 15 mr-afit-02.afit.edu.
+3600 IN MX 15 mr-afit-03.afit.edu.
+@ 3600 IN NS goldilocks.afit.edu.
+3600 IN NS goldilocks1.afit.edu.
+proxy 3600 IN A 129.92.250.41
+goldilocks1 3600 IN CNAME goldilocks
+scxp44dd 3600 IN A 129.92.0.200
+sg2mil 3600 IN A 129.92.250.46
+mr-afit-02 3600 IN A 129.92.253.248
+mr-afit-02 3600 IN TXT "v=spf1 a -all"
+mr-afit-03 3600 IN A 129.92.253.249
+mr-afit-03 3600 IN TXT "v=spf1 a -all"
+sg1mil 3600 IN A 129.92.250.45
+dc-afit-12 3600 IN A 129.92.1.127
+scbcxp487d 3600 IN A 129.92.150.200
+goldilocks 3600 IN A 129.92.252.254

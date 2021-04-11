@@ -1,0 +1,546 @@
+@ 810800 IN SOA ns hostmaster 2015032401 10800 7200 604800 10800
+@ 810800 IN MX 10 mx
+810800 IN MX 20 mx1
+@ 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS dns
+810800 IN NS ns2
+@ 810800 IN A 196.44.161.193
+www.noma 810800 IN CNAME noma
+rdu 810800 IN A 196.44.161.9
+advancement 810800 IN A 41.86.162.27
+faith 810800 IN A 196.44.161.189
+complaints 810800 IN CNAME kewl
+aris2 810800 IN A 196.44.161.32
+smartboard 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+smbind 810800 IN A 196.44.161.222
+fcmmail 810800 IN A 196.44.162.82
+fisi 810800 IN A 196.44.161.189
+mbox2 810800 IN A 196.44.161.177
+www.udec 810800 IN CNAME tembo
+five 810800 IN CNAME mwewe
+elearning 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+SwahiliWikipedia 810800 IN CNAME tembo
+arisd 810800 IN A 196.44.161.31
+sed 810800 IN A 196.44.161.230
+www.zims 810800 IN CNAME kaskazi.ims
+www.ilab 810800 IN CNAME ilab
+karibu 810800 IN A 196.44.161.199
+codec-sa 810800 IN A 196.44.162.44
+codec-sb 810800 IN A 196.44.162.46
+nyererechairclimatechange 810800 IN CNAME tembo
+uces 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+sip 810800 IN A 196.44.170.25
+sis 810800 IN A 196.44.162.90
+cisco-capwap-controller 810800 IN A 41.86.168.25
+www.email 810800 IN CNAME email
+planrep5 810800 IN A 41.86.162.27
+planrep5 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+noma 810800 IN CNAME tembo
+cnas 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+coictstudents1 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.udbsalumni 810800 IN CNAME tembo
+udhra 810800 IN CNAME tembo
+monitoring 810800 IN A 196.44.161.152
+udbs 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+tge 810800 IN CNAME tembo
+udec 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+tickettest 810800 IN A 196.44.161.140
+udiemso 810800 IN CNAME tembo
+utawala 810800 IN A 196.44.162.25
+mlimanisaccos 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+start 810800 IN A 195.217.172.147
+www.cme 810800 IN CNAME cme
+www.kilinux 810800 IN CNAME kilinux
+tjs 810800 IN CNAME tembo
+ucc 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+mwewe 810800 IN A 196.44.161.217
+ilab 810800 IN A 196.44.161.158
+syslog 810800 IN CNAME rdu
+alpha 810800 IN A 195.217.172.20
+ims 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+coet 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+_domainkey.udsm.ac.tz 810800 IN TXT "t=y; o=~;"
+mx224 810800 IN A 196.44.161.224
+bwmgr 810800 IN A 196.44.161.22
+dtech 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.udgema 810800 IN CNAME tembo
+cohu 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+mail 810800 IN A 196.44.161.73
+810800 IN A 196.44.161.75
+flora 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.dpe 810800 IN CNAME dpe
+www.tataki 810800 IN CNAME tataki
+gdpc 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+_submission._tcp 810800 IN SRV 0 100 587 smtp
+admin 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.humanities-duce 810800 IN CNAME tembo
+openemm 810800 IN A 196.44.161.155
+mntr01 810800 IN A 196.44.161.245
+dsadmin 810800 IN CNAME rdu
+engtutor 810800 IN CNAME tembo
+avsvr01 810800 IN A 196.44.161.200
+saccos 810800 IN CNAME tembo
+coss 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.epa 810800 IN CNAME tembo
+coet1 810800 IN CNAME tembo
+wrep 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+ldapsvr 810800 IN CNAME ns3
+www.erb 810800 IN CNAME erb
+security 810800 IN A 196.44.161.8
+www.dirm 810800 IN CNAME tembo
+alumni 810800 IN CNAME tembo
+links 810800 IN CNAME tembo
+science 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.planrep5 810800 IN CNAME planrep5
+uccblog2 810800 IN A 41.86.162.27
+www.research 810800 IN CNAME tembo
+udasaforums 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+eaump 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+eaump 810800 IN A 41.86.162.26
+libisserver 810800 IN A 41.86.178.3
+kiboko 810800 IN A 196.44.161.58
+webmail2 810800 IN A 196.44.161.184
+nyererechairpas 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+softwaretest1 810800 IN CNAME tembo
+softwaretest2 810800 IN CNAME tembo
+softwaretest3 810800 IN CNAME tembo
+softwaretest4 810800 IN CNAME tembo
+softwaretest5 810800 IN CNAME tembo
+chem3printer 810800 IN A 196.44.162.21
+lms2 810800 IN A 196.44.161.26
+www 810800 IN CNAME @
+csfm 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.wrem 810800 IN CNAME tembo
+www.coris 810800 IN CNAME tembo
+mitocw 810800 IN CNAME tembo
+itsadu 810800 IN CNAME tembo
+dirm 810800 IN CNAME tembo
+aaa 810800 IN A 196.44.161.27
+aquatic 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+coict 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.convocation 810800 IN CNAME tembo
+kdc 810800 IN CNAME ca2
+smtp4 810800 IN A 196.44.161.139
+ete 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+pitro 810800 IN A 41.86.162.27
+learn 810800 IN CNAME maktaba
+lists2 810800 IN A 196.44.161.156
+sieve 810800 IN CNAME webmail1
+forum 810800 IN CNAME mrtg
+wrem 810800 IN CNAME tembo
+ca2 810800 IN A 196.44.161.195
+tembo 810800 IN A 41.86.162.27
+www.tuki 810800 IN CNAME tembo
+temco 810800 IN CNAME tembo
+amu 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+science-duce 810800 IN CNAME tembo
+fsiu 810800 IN CNAME kewl
+webmail1 810800 IN A 196.44.161.174
+www.saccos 810800 IN CNAME tembo
+webmail3 810800 IN A 196.44.161.155
+ud 810800 IN CNAME tembo
+dke 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.chisimba 810800 IN CNAME chisimba
+CISCO-LWAPP-CONTROLLER 810800 IN A 194.44.161.155
+edu-duce 810800 IN CNAME tembo
+nyererechair 810800 IN CNAME tembo
+cce 810800 IN A 196.44.162.87
+fcmalumni 810800 IN CNAME mwewe
+www.lac 810800 IN CNAME lac
+cet 810800 IN CNAME coet
+elearn 810800 IN CNAME kewl
+kilinux 810800 IN A 196.44.162.89
+ecse 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+mobileapps 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+ihris 810800 IN A 97.74.55.1
+backup2 810800 IN A 196.44.161.57
+www.linguistics 810800 IN CNAME linguistics
+ansa 810800 IN CNAME kayzg
+www.udhra 810800 IN CNAME udhra
+dan 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+research 810800 IN CNAME tembo
+www.economics 810800 IN CNAME economics
+postgraduate 810800 IN CNAME tembo
+tuki 810800 IN CNAME tembo
+cme 810800 IN CNAME tembo
+www.marketplace 810800 IN A 196.44.161.215
+edufoundations 810800 IN CNAME tembo
+cpe 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+cpe 810800 IN A 41.86.168.5
+zoology 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.advancement 810800 IN CNAME tembo
+www.lms 810800 IN CNAME lms
+crl 810800 IN CNAME radius
+cse 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.lot 810800 IN CNAME tembo
+csw 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+lists 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.mie 810800 IN CNAME mie
+ca 810800 IN A 196.44.161.170
+ce 810800 IN A 41.86.168.3
+www.mitocw 810800 IN CNAME tembo
+cvl 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.itsadu 810800 IN CNAME itsadu
+edu 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+ee 810800 IN CNAME tembo
+dns 810800 IN A 196.44.161.10
+dpf 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+conas 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+retooling 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+kahigi 810800 IN CNAME tembo
+drp 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.new 810800 IN A 196.44.161.33
+webtest 810800 IN CNAME tembo
+kchs 810800 IN A 41.86.162.26
+ir 810800 IN A 196.44.164.9
+udsmgw 810800 IN A 82.206.143.66
+bico 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+wspcw 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+msaud 810800 IN CNAME tembo
+coict-systems 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+smartcard 810800 IN A 196.44.161.50
+dtechmail 810800 IN CNAME mail.dtech
+mx 810800 IN A 196.44.161.18
+ns 810800 IN A 196.44.161.111
+ldapadmin 810800 IN A 196.44.161.184
+wre 810800 IN CNAME tembo
+erb 810800 IN A 196.44.162.47
+doso 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+webct 810800 IN A 196.44.161.7
+library 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+phrest 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+aris 810800 IN A 196.44.161.17
+www.postgraduate 810800 IN CNAME tembo
+www.mlimanimarket 810800 IN CNAME mwewe
+h3abionet 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+asat 810800 IN CNAME cnas
+www.edu-duce 810800 IN CNAME tembo
+bima 810800 IN CNAME tembo
+smail 810800 IN CNAME smbind
+meche 810800 IN CNAME tembo
+tiger 810800 IN A 196.44.168.12
+fpa 810800 IN A 196.44.162.5
+sict 810800 IN CNAME coict
+femsa 810800 IN A 64.177.8.165
+sociology 810800 IN CNAME tembo
+gla 810800 IN A 196.44.162.13
+www.links 810800 IN CNAME tembo
+zabbix 810800 IN CNAME ca2
+www.elearning 810800 IN CNAME elearning
+www.elearn 810800 IN CNAME kewl
+www.eaump 810800 IN CNAME eaump
+smart 810800 IN A 196.44.161.131
+websv1 810800 IN A 196.44.168.26
+www.tjs 810800 IN CNAME tjs
+pitroeconomics 810800 IN CNAME tembo
+mtandao 810800 IN CNAME tembo
+redet 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+wlan-c0etgw 810800 IN A 196.44.161.132
+smartcampus 810800 IN A 196.44.164.11
+www.elearningresources 810800 IN CNAME mwewe
+twiga 810800 IN A 196.44.161.61
+cass 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.newlabcs 810800 IN CNAME newlabcs
+idd 810800 IN A 196.44.168.59
+www.duef 810800 IN CNAME tembo
+idm 810800 IN A 196.44.161.55
+www.dufa 810800 IN CNAME tembo
+ids 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+sjmc 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+kewl 810800 IN A 196.44.161.30
+amavis 810800 IN A 196.44.161.18
+usab 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.pitro 810800 IN CNAME tembo
+ikr 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+iks 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+coictstudents2 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+support 810800 IN CNAME tembo
+uccwebcollabo 810800 IN CNAME tembo
+nagios 810800 IN CNAME awstats
+www.kahigi 810800 IN CNAME tembo
+coris 810800 IN CNAME tembo
+www.fossig 810800 IN CNAME mwewe
+ira 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+faru 810800 IN A 196.44.161.107
+chem4printer 810800 IN A 196.44.162.20
+duef 810800 IN CNAME tembo
+dufa 810800 IN CNAME tembo
+uccpdc 810800 IN A 195.217.172.15
+www.cs 810800 IN CNAME cse
+www.temco 810800 IN CNAME tembo
+www.uccwebcollabo 810800 IN CNAME tembo
+news 810800 IN A 196.44.161.155
+cempis 810800 IN CNAME mwewe
+wlan-gw 810800 IN A 41.86.174.1
+_ldap._tcp 810800 IN SRV 0 100 636 ns
+humanities-duce 810800 IN CNAME tembo
+control-sa 810800 IN A 196.44.162.45
+lac 810800 IN CNAME tembo
+www.tge 810800 IN CNAME tge
+wireless2 810800 IN A 195.217.172.3
+cs 810800 IN CNAME cse
+law 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+enviromux01 810800 IN A 196.44.161.232
+libis 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+ngiri 810800 IN A 196.44.174.194
+daruso 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+helpdesk 810800 IN A 41.86.162.27
+somoe 810800 IN A 196.44.168.18
+edqual 810800 IN CNAME tembo
+geology 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.ihris 810800 IN CNAME ihris
+www.udiemso 810800 IN CNAME tembo
+www.icts 810800 IN CNAME tembo
+mx15 810800 IN CNAME 196.44.161.15
+www.ee 810800 IN CNAME ee
+www.aadu 810800 IN CNAME tembo
+mbb 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+undergraduate 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+database 810800 IN A 195.217.172.18
+egranary 810800 IN A 196.44.161.232
+default._domainkey 810800 IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxsSEt3bFnRHK+l2FcGXx9J8hGHENjwOPZlKvOyQkZsE6ghNTihek7B6SpKr+F5j3FQCXMOO7lu3+BQ4hB0q9Iunoc1yrp61KKvRPrSTbM0YpGZBv8zYnvfUfMzaLe6hAC8M2yo6Lb93gmXpkZVuLigDzbbRkitCNBU5kd0Q7PqQIDAQAB"
+ghanahealthservice 810800 IN CNAME tembo
+accounting 810800 IN A 41.86.162.27
+websvr 810800 IN A 196.44.161.110
+tdtc 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+lms 810800 IN A 196.44.161.54
+literature 810800 IN CNAME tembo
+smtp 810800 IN A 196.44.161.19
+www.ir 810800 IN CNAME ir
+dhcp-maths 810800 IN A 196.44.162.2
+lot 810800 IN CNAME tembo
+www.fsiu 810800 IN CNAME kewl
+www.literature 810800 IN CNAME tembo
+www.cs-lib 810800 IN CNAME cs-lib
+mie 810800 IN CNAME tembo
+maths 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+udbs2 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+nac 810800 IN CNAME tembo
+ldapsvr2 810800 IN CNAME ns2
+chem2printer 810800 IN A 196.44.162.22
+udasa 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+backup01 810800 IN A 196.44.161.100
+test 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+maktaba 810800 IN A 196.44.161.94
+chem 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.bsec 810800 IN CNAME bsec
+icts 810800 IN CNAME tembo
+libis2 810800 IN A 41.86.178.30
+www.ud 810800 IN CNAME tembo
+convocation 810800 IN CNAME tembo
+aadu 810800 IN A 41.86.162.27
+mx1 810800 IN A 196.44.161.250
+economics 810800 IN A 41.86.162.27
+mrtg 810800 IN A 196.44.161.40
+w3perl 810800 IN CNAME nagios
+_imap._tcp 810800 IN SRV 0 100 143 mail
+ldap 810800 IN CNAME ns
+chemistry 810800 IN CNAME tembo
+ns2 810800 IN A 196.44.161.172
+ns4 810800 IN A 196.44.161.112
+www.pspa 810800 IN CNAME tembo
+e-reference 810800 IN A 41.86.178.65
+noc 810800 IN A 196.44.161.8
+www.thrp 810800 IN CNAME thrp
+webmail 810800 IN A 196.44.161.61
+mupdate 810800 IN A 196.44.161.72
+810800 IN A 196.44.161.190
+ocsp1 810800 IN A 196.44.161.188
+muce 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+ojs 810800 IN CNAME radius
+uccblog 810800 IN CNAME tembo
+www.wre 810800 IN CNAME wre
+chui 810800 IN A 196.44.161.178
+www.virtualibrary 810800 IN CNAME virtualibrary
+moshano 810800 IN A 41.86.162.27
+aris-test 810800 IN A 196.44.161.33
+www.meche 810800 IN CNAME tembo
+bsec 810800 IN A 41.86.162.27
+wlan-gw0 810800 IN A 196.44.161.204
+netdot 810800 IN A 196.44.161.242
+intranet 810800 IN CNAME tembo
+cheetah 810800 IN A 196.44.168.13
+escdepartment 810800 IN CNAME tembo
+qab 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+phy 810800 IN A 196.44.162.8
+idsproxy 810800 IN A 196.44.162.15
+www.bima 810800 IN CNAME tembo
+udgema 810800 IN CNAME tembo
+sheki 810800 IN A 196.44.161.161
+pspa 810800 IN CNAME tembo
+thrp 810800 IN A 196.44.162.26
+www.accounting 810800 IN CNAME tembo
+www.edqual 810800 IN CNAME tembo
+odel 810800 IN A 196.44.161.150
+awstats 810800 IN A 196.44.161.13
+linguistics 810800 IN CNAME tembo
+tataki 810800 IN CNAME tembo
+www.egranary 810800 IN CNAME egranary
+www.fcmalumni 810800 IN CNAME fcmalumni
+radius 810800 IN A 196.44.161.187
+physics 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+koha 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.escdepartment 810800 IN CNAME tembo
+dasf 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+www.msaudi 810800 IN CNAME msaudi
+www.pitroeconomics 810800 IN CNAME tembo
+coictresearch1 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+coictresearch2 810800 IN NS ns
+810800 IN NS dns.ucc.co.tz.
+810800 IN NS ns2
+dhcp-ucc 810800 IN A 82.206.143.69

@@ -1,0 +1,14 @@
+@ 60 IN SOA ns1.h26.hvosting.ua. hostmaster.hvosting.ua. 2013123018 10800 3600 604800 86400
+@ 60 IN TXT "v=spf1 ip4:91.200.40.26 a mx ~all"
+@ 60 IN NS ns1.h26.hvosting.ua.
+60 IN NS ns2.h26.hvosting.ua.
+@ 60 IN MX 10 mail
+60 IN MX 20 mail
+@ 60 IN A 91.200.40.26
+pop 60 IN A 91.200.40.26
+ftp 60 IN A 91.200.40.26
+www 60 IN A 91.200.40.26
+mail 60 IN A 91.200.40.26
+www.sr 60 IN A 91.200.40.26
+smtp 60 IN A 91.200.40.26
+sr 60 IN A 91.200.40.26

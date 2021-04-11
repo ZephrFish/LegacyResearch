@@ -1,0 +1,208 @@
+@ 604800 IN SOA FRCU.EUN.EG. Postmaster.FRCU.EUN.EG. 2015021602 15000 7200 12090 86400
+@ 604800 IN NS FRCU.EUN.EG.
+@ 604800 IN MX 10 NEWMAILER.EUN.EG.
+_sip._tls.pef 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+AUTODISCOVER.LAW 86400 IN CNAME autodiscover.outlook.com.
+HECO 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+HECO 86400 IN MX 0 heco-helwan-edu-eg.mail.eo.outlook.com.
+_sipfederationtls._tcp.SCIENCE 86400 IN SRV 100 1 5061 sipdir.online.lync.com.
+AUTODISCOVER.FAE 604800 IN CNAME autodiscover.outlook.com.
+sip.FCI 86400 IN CNAME sipdir.online.lync.com.
+WEBMAIL.EDU 604800 IN A 193.227.34.35
+WSUNITED.CIS 604800 IN A 193.227.34.45
+FAE 604800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+FAE 604800 IN MX 0 fae-helwan-edu-eg.mail.eo.outlook.com.
+lyncdiscover.SCIENCE 86400 IN CNAME webdir.online.lync.com.
+HQ 86400 IN MX 10 hq-helwan-edu-eg.mail.outlook.com.
+HQ 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+helwan1 604800 IN A 193.227.34.39
+autodiscover.FCI 86400 IN CNAME autodiscover.outlook.com.
+COMMERCE 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+COMMERCE 86400 IN MX 0 commerce-helwan-edu-eg.mail.eo.outlook.com.
+lyncdiscover.MUSIC 86400 IN CNAME webdir.online.lync.com.
+a-arts 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+a-arts 86400 IN MX 0 aarts-helwan-edu-eg0c.mail.protection.outlook.com.
+MAIL.EDU 604800 IN A 193.227.34.35
+FCI 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+FCI 86400 IN MX 0 fci-helwan-edu-eg.mail.eo.outlook.com.
+FCI 604800 IN A 193.227.34.46
+_sip._tls.pem 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+_sipfederationtls._tcp.f-arts 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+msoid.social 86400 IN CNAME clientconfig.microsoftonline-p.net.
+lyncdiscover.social 86400 IN CNAME webdir.online.lync.com.
+lyncdiscover.EDU 86400 IN CNAME webdir.online.lync.com.
+_sipfederationtls._tcp.pef 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+ENG 604800 IN MX 10 MAIL.ENG
+_sip._tls.a-arts 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+msoid.pef 86400 IN CNAME clientconfig.microsoftonline-p.net.
+msoid.pem 86400 IN CNAME clientconfig.microsoftonline-p.net.
+LAW 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+LAW 86400 IN MX 0 law-helwan-edu-eg.mail.eo.outlook.com.
+WWW 604800 IN A 193.227.34.41
+msoid.SCIENCE 86400 IN CNAME clientconfig.microsoftonline-p.net.
+FOEHU 86400 IN MX 10 MAIL.FOEHU
+AUTODISCOVER.HQ 86400 IN CNAME autodiscover.outlook.com.
+pef 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+pef 86400 IN MX 0 pef-helwan-edu-eg.mail.eo.outlook.com.
+_sip._tls.HQ 86400 IN SRV 10 2 443 sipdir.online.lync.com.
+sip.SCIENCE 86400 IN CNAME sipdir.online.lync.com.
+lyncdiscover.FAE 86400 IN CNAME webdir.online.lync.com.
+WEBMAIL.ENG 604800 IN A 193.227.34.35
+_sip._tls.fth 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+_sip._tls.pharm 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+lyncdisvocer.TECHEDU 86400 IN CNAME webdir.online.lync.com.
+WN-GRID 604800 IN A 193.227.2.252
+_sipfederationtls._tcp.social 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+sip.a-arts 86400 IN CNAME sipdir.online.lync.com.
+FAC 604800 IN A 193.227.34.44
+lyncdiscover.FCI 86400 IN CNAME webdir.online.lync.com.
+_sip._tls.H-Eng 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+MAIL.ENG 604800 IN A 193.227.34.35
+_sip._tcp.ARTS 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+autodiscover.social 86400 IN CNAME autodiscover.outlook.com.
+AUTODISCOVER.ARTS 86400 IN CNAME autodiscover.outlook.com.
+_sip._tls.HECO 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+msoid.ARTS 86400 IN CNAME clientconfig.microsoftonline-p.net.
+LIBRARY 604800 IN A 193.227.1.33
+_sipfederationtls._tcp.MUSIC 86400 IN SRV 100 1 5061 sipdir.online.lync.com.
+AUTODISCOVER.NURSING 86400 IN CNAME autodiscover.outlook.com.
+MIS 86400 IN A 193.227.34.232
+msoid.a-arts 86400 IN CNAME clientconfig.microsoftonline-p.net.
+lyncdiscover.a-arts 86400 IN CNAME webdir.online.lync.com.
+sip.fth 86400 IN CNAME sipdir.online.lync.com.
+AUTODISCOVER.MUSIC 86400 IN CNAME autodiscover.outlook.com.
+WWW.HPC.FCI 604800 IN A 193.227.34.49
+_sip._tls.FCI 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+autodiscover.f-arts 86400 IN CNAME autodiscover.outlook.com.
+_sip._tls.SCIENCE 86400 IN SRV 100 1 443 sipfed.online.lync.com.
+SE-GRID 604800 IN A 193.227.2.253
+lyncdiscover.HECO 86400 IN CNAME webdir.online.com.
+autodiscover.fth 86400 IN CNAME autodiscover.outlook.com.
+FTP 604800 IN A 193.227.34.45
+fth 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+fth 86400 IN MX 0 fth-helwan-edu-eg.mail.eo.outlook.com.
+_sipfederationtls._tcp.EDU 86400 IN SRV 100 1 5061 sepfed.online.lync.com.
+_sipfederationtls._tcp.COMMERCE 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+msoid.EDU 86400 IN CNAME clientconfig.microsoftonline-p.net.
+STUDENT 604800 IN MX 0 682859335.mail.outlook.com.
+msoid.MUSIC 86400 IN CNAME clientconfig.microsoftonline-p.net.
+ARTS 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ARTS 86400 IN MX 0 arts-helwan-edu-eg.mail.protection.outlook.com.
+sip.pharm 86400 IN CNAME sipdir.online.lync.com.
+WWW.SW 604800 IN A 193.227.34.203
+_sipfederationtls._tcp.a-arts 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sipfederationtls._tcp.LAW 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+msoid.LAW 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_sipfederationtls._tcp.FAE 86400 IN SRV 100 1 5061 spifed.online.lync.com.
+sip.H-Eng 86400 IN CNAME sipdir.online.lync.com.
+E-LEARNING 604800 IN A 193.227.34.36
+msoid.FAE 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_sipfederationtls._tcp.fth 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+MAIL.FOEHU 86400 IN A 193.227.30.60
+_sipfederationtls._tcp.FCI 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls.COMMERCE 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+msoid.FCI 86400 IN CNAME clientconfig.microsoftonline-p.net.
+lyncdiscover.fth 86400 IN CNAME webdir.onlinelync.com.
+sip.HECO 86400 IN CNAME sipdir.online.lync.com.
+sip.M-ENG 86400 IN CNAME sipdir.online.lync.com.
+_sip._tls.NURSING 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+msoid.HQ 86400 IN CNAME clientconfig.microsofonline-p.net.
+HCI.FCI 86400 IN MX 10 MAIL.HCI.FCI
+HCI.FCI 86400 IN A 193.227.34.35
+MAIL.HCI.FCI 86400 IN A 193.227.34.35
+_sipfederationtls._tcp.pharm 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+AUTODISCOVER.COMMERCE 86400 IN CNAME autodiscover.outlook.com.
+_sip._tcp.M-ENG 86400 IN SRV 100 1 5061 sipdir.online.lync.com.
+_sipfederationtls._tcp.pem 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+LYNCDISCOVER.NURSING 86400 IN CNAME webdir.online.lync.com.
+_sipfederationtls._tcp.H-Eng 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+MUSIC 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+MUSIC 86400 IN MX 0 music-helwan-edu-eg.mail.eo.outlook.com.
+MAIL 604800 IN CNAME portal.microsoftonline.com.
+UI-GRID 604800 IN A 193.227.2.251
+TECHEDU 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+TECHEDU 86400 IN MX 0 techedu-helwan-edu.eg.mail.eo.outlook.com.
+lyncdiscover.ARTS 86400 IN CNAME webdir.online.lync.com.
+sip.pef 86400 IN CNAME SIPDIR.ONLINE.LYNC.com.
+IIB 86400 IN A 193.227.34.45
+sip.pem 86400 IN CNAME sipdir.online.lync.com.
+msoid.pharm 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_sipfederationtls._tcp.M-ENG 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+autodiscover.pef 86400 IN CNAME autodiscover.outlook.com.
+autodiscover.a-arts 86400 IN CNAME autodiscover.outlook.com.
+autodiscover.pem 86400 IN CNAME autodiscover.outlook.com.
+MSOID.H-Eng 86400 IN CNAME CLIENTCONFIG.MICROSOFTONLINE-P.NET.
+AUTODISCOVER.M-ENG 86400 IN CNAME autodiscover.outlook.com.
+pem 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+pem 86400 IN MX 0 pem-helwan-edu-eg.mail.outlook.com.
+ELEARNING 604800 IN A 193.227.34.36
+f-arts 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+f-arts 86400 IN MX 0 farts-helwan-edu-eg0c.mail.eo.outlook.com.
+lyncdiscover.HQ 86400 IN CNAME autodiscover.outlook.com.
+CIS 604800 IN MX 10 MAIL.CIS
+AUTODISCOVER.H-Eng 86400 IN CNAME autodiscover.outlook.com.
+AUTODISCOVER.TECHEDU 86400 IN CNAME autodiscover.outlook.com.
+AUTODISCOVER.SCIENCE 86400 IN CNAME autodiscover.outlook.com.
+_sipfederationtls._tcp.HECO 86400 IN SRV 100 1 5061 sipdif.online.lync.com.
+WEB 604800 IN A 193.227.34.43
+_sipfederationtls._tcp.HQ 86400 IN SRV 10 2 5061 sipfed.online.lync.com.
+msoid.M-ENG 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_sip._tls.f-arts 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+_sip._tls.EDU 86400 IN SRV 100 1 443 sepdir.online.lync.com.
+lyncdiscover.pharm 86400 IN CNAME webdir.online.lync.com.
+autodiscover.pharm 86400 IN CNAME autodiscover.outlook.com.
+msoid.TECHEDU 86400 IN CNAME clientconfig.microsoftonline-p.net.
+msoid.COMMERCE 86400 IN CNAME CLIENTCONFIG.MICROSOFTONLINE-P.NET.
+WEBMAIL.CIS 604800 IN A 193.227.34.35
+lyncdiscover.H-Eng 86400 IN CNAME webdir.online.lync.com.
+WEB.CIS 604800 IN A 193.227.34.35
+msoid.fth 86400 IN CNAME clientconfig.microsoftonline-p.net.
+CE-GRID 604800 IN A 193.227.2.254
+lyncdiscover.pef 86400 IN CNAME sipfed.online.lync.com.
+_sip._tls.LAW 86400 IN SRV 100 1 443 sipdoir.online.lync.com.
+lyncdiscover.pem 86400 IN CNAME webdir.online.lync.com.
+_sip._tls.FAE 86400 IN SRV 100 1 443 spidir.online.lync.com.
+MAIL.CIS 604800 IN A 193.227.34.35
+MSOID.NURSING 86400 IN CNAME CLIENTCONFIG.MICROSOFTONLINE-P.NET.
+sip.TECHEDU 86400 IN CNAME sipdir.online.lync.com.
+_sipfederationtls._tcp.TECHEDU 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+pharm 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+pharm 86400 IN MX 0 pharm-helwan-edu-eg.mail.eo.outlook.com.
+WWW.HELC 604800 IN A 193.227.34.90
+AUTODISCOVER.HECO 86400 IN CNAME autodiscover.outlook.com.
+lyncdiscover.M-ENG 86400 IN CNAME webdir.online.lync.com.
+msoid.HECO 86400 IN CNAME clientconfig.microsoftonline-p.net.
+H-Eng 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+H-Eng 86400 IN MX 0 heng-helwan-edu-eg0c.mail.eo.outlook.com.
+_sip._tls.social 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+_sip._tls.TECHEDU 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+sip.EDU 86400 IN CNAME sipdir.online.lync.com.
+sip.ARTS 86400 IN CNAME sipdir.online.lync.com.
+sip.NURSING 86400 IN CNAME sipdir.online.lync.com.
+_sipfederationtls._tcp.ARTS 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+sip.HQ 86400 IN CNAME autodiscover.outlook.com.
+_sip._tls.MUSIC 86400 IN SRV 100 1 443 webdir.online.lync.com.
+sip.COMMERCE 86400 IN CNAME sipdir.online.lync.com.
+FCIH 604800 IN A 193.227.34.34
+MIMP 604800 IN A 193.227.34.46
+AUTODISCOVER.EDU 86400 IN CNAME autodiscover.outlook.com.
+lyncdiscover.LAW 86400 IN CNAME webdir.online.lync.com.
+social 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+social 86400 IN MX 0 social-helwan-edu-eg.mail.eo.outlook.com.
+PORTAL 604800 IN A 193.227.34.42
+M-ENG 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+M-ENG 86400 IN MX 0 meng-helwan-edu-eg0c.mail.eo.outlook.com.
+EDU 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+EDU 86400 IN MX 0 edu-helwan-edu-eg.mail.protection.outlook.com.
+sip.LAW 86400 IN CNAME sipdir.online.lync.com.
+msoid.f-arts 86400 IN CNAME clientconfig.microsoftonline-p.net.
+SCIENCE 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+SCIENCE 86400 IN MX 0 science-helwan-edu-eg.mail.eo.outlook.com.
+_sipfederationtls._tcp.NURSING 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+NURSING 86400 IN TXT "v=spf1 include:spf.protction.outlook.com -all"
+NURSING 86400 IN MX 0 nursing-helwan-edu-eg.mail.protection.outlook.com.
+sip.social 86400 IN CNAME sipdir.online.lync.com.
+SIP.FAE 86400 IN CNAME sipdir.online.lync.com.
+lyncdiscover.COMMERCE 86400 IN CNAME webdir.online.lync.com.
+CAMERA.HCI 86400 IN A 193.227.34.139
+sip.MUSIC 86400 IN CNAME sipdir.online.lync.com.

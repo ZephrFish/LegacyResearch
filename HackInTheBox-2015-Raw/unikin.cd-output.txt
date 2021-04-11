@@ -1,0 +1,14 @@
+@ 1800 IN SOA ns1 root 2014050804 14400 3600 604800 86400
+@ 1800 IN NS ns1
+@ 1800 IN MX 10 smtp
+vtanga 1800 IN A 185.27.248.44
+tanga 1800 IN A 185.27.248.44
+sites 1800 IN CNAME ghs.googlehosted.com.
+nas 1800 IN A 185.27.248.35
+cvkoha 1800 IN CNAME koha.unikin.cd
+www 1800 IN A 185.27.248.42
+mail 1800 IN CNAME ghs.googlehosted.com.
+claroline 1800 IN A 185.27.248.36
+koha 1800 IN A 185.27.248.45
+smtp 1800 IN A 185.27.248.39
+ns1 1800 IN A 185.27.248.40

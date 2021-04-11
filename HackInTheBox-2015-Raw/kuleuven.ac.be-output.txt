@@ -1,0 +1,1321 @@
+@ 86400 IN SOA dns2.kulnet.kuleuven.be. postmaster.kulnet 2014011700 10800 1800 3600000 86400
+@ 86400 IN NS dns1.kulnet.kuleuven.be.
+86400 IN NS dns2.kulnet.kuleuven.be.
+86400 IN NS ns2.sri.ucl.ac.be.
+86400 IN NS ns.belnet.be.
+@ 86400 IN MX 10 cavin.kuleuven.be.
+86400 IN MX 20 kromsin.cc
+86400 IN MX 20 limbak.cc
+86400 IN MX 30 cavin01.kuleuven.be.
+86400 IN MX 30 cavin02.kuleuven.be.
+86400 IN MX 30 cavin03.kuleuven.be.
+@ 86400 IN A 134.58.64.15
+rec 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-mech-c300-0008 3600 IN A 134.58.118.190
+ap-mech-c300-0009 3600 IN A 134.58.118.191
+lrswitch-dc-hh 3600 IN A 10.255.0.102
+ap-biw-1 3600 IN A 134.58.120.120
+ap-biw-2 3600 IN A 134.58.120.121
+ap-biw-3 3600 IN A 134.58.120.134
+ap-biw-4 3600 IN A 134.58.120.106
+ap-biw-5 3600 IN A 134.58.121.10
+kulak-crn-cs1 3600 IN CNAME kulak-crn-cs1.kulak.be.
+econdc4.econ 86400 IN A 134.58.95.123
+kulak-crn-cs3 3600 IN CNAME kulak-crn-cs3.kulak.be.
+kulak-crn-cs4 3600 IN CNAME kulak-crn-cs4.kulak.be.
+pswitch-icts-a 3600 IN A 134.58.121.179
+n22i-switch-08 3600 IN CNAME n22i-switch-08.gbiomed.kuleuven.be.
+switch-mech-b8 3600 IN A 10.119.27.9
+switch-mech-n16c0 3600 IN A 10.119.13.1
+ups-monitoringcard-ra2 3600 IN A 10.119.0.33
+ap-econ-12 3600 IN A 134.58.120.12
+ster 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-cw-a 3600 IN A 10.119.28.12
+ups-monitoringcard-alma3 3600 IN A 10.119.8.46
+onderwijs 86400 IN CNAME halo1.cc.kuleuven.be.
+ap-mech-c300-0077 3600 IN A 134.58.121.23
+col-switch-01 3600 IN CNAME col-switch-01.med.kuleuven.be.
+col-switch-02 3600 IN CNAME col-switch-02.med.kuleuven.be.
+gbeg 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-ludit-srv-1 3600 IN A 10.255.0.55
+ap-tropser-1 3600 IN A 10.119.42.96
+ap-tropser-2 3600 IN A 134.58.118.27
+3600 IN A 10.119.42.97
+prometa 86400 IN NS ns1.esat
+86400 IN NS ns2.esat
+86400 IN NS dns.esat
+bb-law-theo 86400 IN A 192.168.12.253
+ap-cit-1 3600 IN A 134.58.118.193
+etew 86400 IN NS econdns1.econ.kuleuven.be.
+86400 IN NS econdns2.econ.kuleuven.be.
+khl1-switch-02 3600 IN CNAME khl1-switch-02.gbiomed.kuleuven.be.
+kulak-stuhu1 3600 IN CNAME kulak-stuhu1.kulak.be.
+aza-switch-01 3600 IN CNAME aza-switch-01.med.kuleuven.be.
+n26f-switch-02 3600 IN CNAME n26f-switch-02.gbiomed.kuleuven.be.
+n26f-switch-03 3600 IN CNAME n26f-switch-03.gbiomed.kuleuven.be.
+n26f-switch-04 3600 IN CNAME n26f-switch-04.gbiomed.kuleuven.be.
+n26f-switch-05 3600 IN CNAME n26f-switch-05.gbiomed.kuleuven.be.
+n26f-switch-06 3600 IN CNAME n26f-switch-06.gbiomed.kuleuven.be.
+pswitch-matrix-leu 3600 IN A 10.119.49.1
+pswitch-dcleu-1-cmp 3600 IN A 10.119.49.203
+pswitch-ecru-a 3600 IN A 10.119.6.29
+n22i-switch-02 3600 IN CNAME n22i-switch-02.gbiomed.kuleuven.be.
+dcom 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-theo-1 3600 IN A 134.58.125.68
+ap-theo-2 3600 IN A 134.58.119.196
+ups-monitoringcard-psy 3600 IN A 10.119.18.64
+ap-esat-0224 3600 IN A 134.58.125.183
+pswitch-soc-a 3600 IN A 10.119.20.1
+czv 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lrswitch-dcleu-1 3600 IN A 10.119.49.205
+lswitch-lucina 3600 IN CNAME lswitch-lucina.hiva.kuleuven.be.
+bswitch-icts 3600 IN A 10.255.0.1
+kulak-crn-cs2 3600 IN CNAME kulak-crn-cs2.kulak.be.
+dns1.kulnet 86400 IN A 134.58.126.5
+sirius.mtm 86400 IN A 134.58.60.1
+ap-ped-0038 3600 IN A 134.58.118.4
+lrswitch-theo-telefonie-1 3600 IN A 10.119.0.31
+ap-ped-0047 3600 IN A 134.58.120.197
+cisco-sap 3600 IN A 10.32.31.254
+ap-med-2 3600 IN A 134.58.125.90
+rega 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-200g01 3600 IN A 134.58.118.1
+n19d-switch-10 3600 IN CNAME n19d-switch-10.gbiomed.kuleuven.be.
+faber-switch-01 3600 IN CNAME faber-switch-01.med.kuleuven.be.
+faber-switch-02 3600 IN CNAME faber-switch-02.med.kuleuven.be.
+faber-switch-03 3600 IN CNAME faber-switch-03.med.kuleuven.be.
+faber-switch-05 3600 IN CNAME faber-switch-05.med.kuleuven.be.
+n19d-switch-02 3600 IN CNAME n19d-switch-02.gbiomed.kuleuven.be.
+n19d-switch-03 3600 IN CNAME n19d-switch-03.gbiomed.kuleuven.be.
+n19d-switch-04 3600 IN CNAME n19d-switch-04.gbiomed.kuleuven.be.
+n19d-switch-05 3600 IN CNAME n19d-switch-05.gbiomed.kuleuven.be.
+n19d-switch-06 3600 IN CNAME n19d-switch-06.gbiomed.kuleuven.be.
+n19d-switch-07 3600 IN CNAME n19d-switch-07.gbiomed.kuleuven.be.
+n19d-switch-08 3600 IN CNAME n19d-switch-08.gbiomed.kuleuven.be.
+luc-switch-01 3600 IN CNAME luc-switch-01.med.kuleuven.be.
+n19d-switch-11 3600 IN CNAME n19d-switch-11.gbiomed.kuleuven.be.
+n19d-switch-12 3600 IN CNAME n19d-switch-12.gbiomed.kuleuven.be.
+n19d-switch-13 3600 IN CNAME n19d-switch-13.gbiomed.kuleuven.be.
+soc 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+quantchem 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+stuc 86400 IN MX 10 cavin.kuleuven.be.
+86400 IN MX 20 kromsin.cc
+86400 IN MX 20 limbak.cc
+n19d-switch-17 3600 IN CNAME n19d-switch-17.gbiomed.kuleuven.be.
+ap-200l06 3600 IN A 134.58.125.172
+ap-on2-06307 3600 IN A 134.58.125.235
+ap-ac-0112 3600 IN A 134.58.118.7
+pswitch-on2-vlan2 86400 IN A 10.119.7.252
+n11b-switch-01 3600 IN CNAME n11b-switch-01.gbiomed.kuleuven.be.
+n11b-switch-02 3600 IN CNAME n11b-switch-02.gbiomed.kuleuven.be.
+n11b-switch-03 3600 IN CNAME n11b-switch-03.gbiomed.kuleuven.be.
+n11b-switch-04 3600 IN CNAME n11b-switch-04.gbiomed.kuleuven.be.
+n11b-switch-05 3600 IN CNAME n11b-switch-05.gbiomed.kuleuven.be.
+n11b-switch-06 3600 IN CNAME n11b-switch-06.gbiomed.kuleuven.be.
+n11b-switch-07 3600 IN CNAME n11b-switch-07.gbiomed.kuleuven.be.
+n11b-switch-08 3600 IN CNAME n11b-switch-08.gbiomed.kuleuven.be.
+n11b-switch-10 3600 IN CNAME n11b-switch-10.gbiomed.kuleuven.be.
+ser16-switch-03 3600 IN CNAME ser16-switch-03.gbiomed.kuleuven.be.
+ser16-switch-04 3600 IN CNAME ser16-switch-04.gbiomed.kuleuven.be.
+lrswitch-dc-hh-vlan2 3600 IN A 10.119.53.254
+ap-psy-02-0051 3600 IN A 134.58.118.195
+ns2.esat 86400 IN A 134.58.59.69
+ap-ped-0122 3600 IN A 134.58.120.198
+hkt-switch-01 3600 IN CNAME hkt-switch-01.med.kuleuven.be.
+facultyclub 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+headend-catv-13 3600 IN A 10.66.254.97
+ap-asro-1 3600 IN A 134.58.125.212
+ap-asro-2 3600 IN A 134.58.125.213
+n22d-switch-01 3600 IN CNAME n22d-switch-01.gbiomed.kuleuven.be.
+n22d-switch-02 3600 IN CNAME n22d-switch-02.gbiomed.kuleuven.be.
+n22d-switch-03 3600 IN CNAME n22d-switch-03.gbiomed.kuleuven.be.
+n22d-switch-04 3600 IN CNAME n22d-switch-04.gbiomed.kuleuven.be.
+n22d-switch-05 3600 IN CNAME n22d-switch-05.gbiomed.kuleuven.be.
+n22d-switch-06 3600 IN CNAME n22d-switch-06.gbiomed.kuleuven.be.
+n22d-switch-07 3600 IN CNAME n22d-switch-07.gbiomed.kuleuven.be.
+n22d-switch-08 3600 IN CNAME n22d-switch-08.gbiomed.kuleuven.be.
+n22d-switch-09 3600 IN CNAME n22d-switch-09.gbiomed.kuleuven.be.
+eswitch-ucs-1 3600 IN CNAME eswitch-ucs-1.ucs.kuleuven.be.
+eswitch-ucs-2 3600 IN CNAME eswitch-ucs-2.ucs.kuleuven.be.
+switch-mech-c8 3600 IN A 10.119.27.19
+ludit 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-econ-n13a02 3600 IN A 134.58.120.22
+lswitch-econ-n13a03 3600 IN A 134.58.120.23
+lswitch-econ-n13a04 3600 IN A 134.58.120.24
+lswitch-econ-n13a05 3600 IN A 134.58.120.25
+lswitch-econ-n13a06 3600 IN A 134.58.120.26
+kulak-e2-cs1 3600 IN CNAME kulak-e2-cs1.kulak.be.
+kulak-e2-cs2 3600 IN CNAME kulak-e2-cs2.kulak.be.
+lswitch-chem-0 3600 IN CNAME lswitch-chem-0.quantchem.kuleuven.be.
+pswitch-dchev-2-cmp 3600 IN A 10.119.48.208
+toledo-assessment-try 86400 IN CNAME toledo-assessment-try.cc
+ucs 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+flok 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+cisco-as1 3600 IN CNAME cisco-as1.kulnet.kuleuven.be.
+lrswitch-access 3600 IN CNAME lrswitch-access-l0.kulnet.kuleuven.be.
+pswitch-hol-a 3600 IN A 10.119.30.1
+odistest 86400 IN CNAME odistest.kadoc
+ser46-switch-01 3600 IN A 10.119.38.10
+ap-mc-1 3600 IN A 134.58.121.33
+neu-switch-01 3600 IN CNAME neu-switch-01.med.kuleuven.be.
+neu-switch-02 3600 IN CNAME neu-switch-02.med.kuleuven.be.
+mrv2-rack-azuur 3600 IN A 134.58.118.76
+ap-ped-0348 3600 IN A 134.58.120.199
+ap-bib-arenberg-1 3600 IN A 134.58.118.143
+ap-bib-arenberg-2 3600 IN A 134.58.118.144
+ap-law-valk3-1 3600 IN A 134.58.118.43
+ap-law-valk3-2 3600 IN A 134.58.118.44
+lrswitch-kulnet-1-vlan2 86400 IN A 10.119.48.254
+pswitch-theo-a 3600 IN A 10.119.14.34
+ap-kolen-0004 3600 IN A 134.58.125.249
+kulak-a4-cs1 3600 IN CNAME kulak-a4-cs1.kulak.be.
+ups-monitoringcard-soc 3600 IN A 10.119.20.38
+lswitch-econ-n13c04 3600 IN A 134.58.120.39
+n22g-switch-06 3600 IN CNAME n22g-switch-06.gbiomed.kuleuven.be.
+ap-200g06 3600 IN A 134.58.118.2
+onyx.arts 86400 IN A 134.58.129.8
+lswitch-econ-n13b01 3600 IN A 134.58.120.31
+lswitch-econ-n13b02 3600 IN A 134.58.120.32
+lswitch-econ-n13b03 3600 IN A 134.58.120.33
+ap-kadoc-1 3600 IN A 134.58.118.179
+n26d-switch-01 3600 IN CNAME n26d-switch-01.gbiomed.kuleuven.be.
+n26d-switch-02 3600 IN CNAME n26d-switch-02.gbiomed.kuleuven.be.
+n26d-switch-03 3600 IN CNAME n26d-switch-03.gbiomed.kuleuven.be.
+n26d-switch-04 3600 IN CNAME n26d-switch-04.gbiomed.kuleuven.be.
+pswitch-faber 3600 IN A 10.255.0.21
+ap-plantkunde-0130 3600 IN A 134.58.118.3
+pswitch-pewter-vlan2 86400 IN A 10.119.7.253
+ap-aiv-hev-3 3600 IN A 134.58.125.42
+ap-on2-animal-0490 3600 IN A 134.58.119.135
+ap-agr-2 3600 IN A 134.58.125.211
+ups-monitoringcard-cbib 3600 IN A 10.119.24.42
+imap 86400 IN CNAME mail.cc
+headend-catv-6 3600 IN A 10.66.254.41
+n19e-switch-09 3600 IN CNAME n19e-switch-09.gbiomed.kuleuven.be.
+ap-aiv-hev-4 3600 IN A 134.58.125.43
+switch-mech-d1 3600 IN A 10.119.27.23
+upv 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-hal-a 3600 IN A 10.119.36.23
+student 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+kulak 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ls 600 IN CNAME listserv.icts.kuleuven.be.
+ap1130-kulnet 3600 IN A 134.58.125.115
+headend-catv-20 3600 IN A 10.66.254.153
+lswitch-econ-n13c01 3600 IN A 134.58.120.36
+lswitch-econ-n13c02 3600 IN A 134.58.120.37
+wav 86400 IN NS econdns1.econ.kuleuven.be.
+86400 IN NS econdns2.econ.kuleuven.be.
+kulak-a4-cs2 3600 IN CNAME kulak-a4-cs2.kulak.be.
+nat-fvl 86400 IN CNAME nat-fvl.med.kuleuven.be.
+vkt 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-law-1 3600 IN A 134.58.125.28
+ap-law-2 3600 IN A 134.58.125.29
+kulnet 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n19k-switch-01 3600 IN CNAME n19k-switch-01.gbiomed.kuleuven.be.
+n19k-switch-02 3600 IN CNAME n19k-switch-02.gbiomed.kuleuven.be.
+n19k-switch-03 3600 IN CNAME n19k-switch-03.gbiomed.kuleuven.be.
+ap-stuk-1 3600 IN A 134.58.125.229
+col-switch-03 3600 IN CNAME col-switch-03.med.kuleuven.be.
+ap-lawbib-1 3600 IN A 134.58.125.124
+ap-lawbib-2 3600 IN A 134.58.125.125
+ap-lawbib-3 3600 IN A 134.58.125.126
+wet 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-lawbib-5 3600 IN A 134.58.125.128
+tswitch-dchev-telco 3600 IN A 10.119.1.150
+pswitch-hh-a 3600 IN A 10.119.32.1
+n11i-switch-01 3600 IN CNAME n11i-switch-01.gbiomed.kuleuven.be.
+bswitch-faber 3600 IN A 10.255.0.3
+n19e-switch-25 3600 IN CNAME n19e-switch-25.gbiomed.kuleuven.be.
+n22b-switch-02 3600 IN CNAME n22b-switch-02.gbiomed.kuleuven.be.
+cafed 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n19e-switch-26 3600 IN CNAME n19e-switch-26.gbiomed.kuleuven.be.
+pharm 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-esat-a 3600 IN A 10.119.10.8
+n11c-switch-03 3600 IN CNAME n11c-switch-03.gbiomed.kuleuven.be.
+gbw-switch-02 3600 IN CNAME gbw-switch-02.gbiomed.kuleuven.be.
+gbw-switch-03 3600 IN CNAME gbw-switch-03.med.kuleuven.be.
+gbw-switch-04 3600 IN CNAME gbw-switch-04.med.kuleuven.be.
+gbw-switch-05 3600 IN CNAME gbw-switch-05.med.kuleuven.be.
+gbw-switch-06 3600 IN CNAME gbw-switch-06.med.kuleuven.be.
+n11c-switch-04 3600 IN CNAME n11c-switch-04.gbiomed.kuleuven.be.
+kulak-at-cs1 3600 IN CNAME kulak-at-cs1.kulak.be.
+kulak-at-cs2 3600 IN CNAME kulak-at-cs2.kulak.be.
+switch-mech-l4 3600 IN A 10.119.27.39
+n22k-switch-01 3600 IN CNAME n22k-switch-01.gbiomed.kuleuven.be.
+wis 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-mech 3600 IN A 10.255.0.27
+pswitch-cbib-a 3600 IN A 10.119.24.40
+rtr-ou-sys 86400 IN CNAME rtr-ou-sys.kulnet.kuleuven.be.
+ups-monitoringcard-rns 3600 IN A 10.119.0.34
+lrswitch-dcleu-2 3600 IN A 10.119.49.206
+lswitch-econ-n13d01 3600 IN A 134.58.120.41
+cisco-lwapp-controller 86400 IN CNAME wlc2.kulnet.kuleuven.be.
+bb-arts-cbib 86400 IN A 192.168.10.253
+ap-esat-10 3600 IN A 134.58.118.17
+ap-esat-11 3600 IN A 134.58.118.18
+ap-esat-12 3600 IN A 134.58.119.185
+opnet-mgmt 3600 IN A 134.58.121.25
+ap-pds-inkom-1 3600 IN A 134.58.120.185
+ser44-switch-01 3600 IN CNAME ser44-switch-01.gbiomed.kuleuven.be.
+ser44-switch-02 3600 IN CNAME ser44-switch-02.gbiomed.kuleuven.be.
+switch-installatie 3600 IN A 134.58.118.32
+ap-pds-inkom-2 3600 IN A 134.58.120.186
+pswitch-hal 3600 IN A 10.255.0.17
+gen-switch-01 3600 IN CNAME gen-switch-01.gbiomed.kuleuven.be.
+ap-lawbib-4 3600 IN A 134.58.125.127
+hep-switch-01 3600 IN CNAME hep-switch-01.med.kuleuven.be.
+kulak-c1-cs1 3600 IN CNAME kulak-c1-cs1.kulak.be.
+kulak-c1-cs2 3600 IN CNAME kulak-c1-cs2.kulak.be.
+kulak-c1-cs3 3600 IN CNAME kulak-c1-cs3.kulak.be.
+kulak-c1-cs4 3600 IN CNAME kulak-c1-cs4.kulak.be.
+kulak-c1-cs5 3600 IN CNAME kulak-c1-cs5.kulak.be.
+kulak-c1-cs6 3600 IN CNAME kulak-c1-cs6.kulak.be.
+bb-soc-psy 86400 IN A 192.168.11.253
+kulak-c1-cs8 3600 IN CNAME kulak-c1-cs8.kulak.be.
+khl1-switch-01 3600 IN CNAME khl1-switch-01.gbiomed.kuleuven.be.
+abvtest 86400 IN CNAME abvtest.kadoc
+pswitch-dcleu-2-cmp 3600 IN A 10.119.49.204
+temp-switch-01 3600 IN CNAME temp-switch-01.gbiomed.kuleuven.be.
+ap-bibtheo-1 3600 IN A 134.58.125.242
+pswitch-psy-a 3600 IN A 10.119.18.1
+pswitch-matrix-telco 3600 IN A 10.119.48.2
+ap-iks 3600 IN A 134.58.125.141
+pswitch-ecru 3600 IN A 10.255.0.10
+webmail2 86400 IN CNAME webmail2.cc
+lrswitch-dc-biw-vlan2 3600 IN A 10.119.50.254
+n26b-switch-01 3600 IN CNAME n26b-switch-01.gbiomed.kuleuven.be.
+n26b-switch-02 3600 IN CNAME n26b-switch-02.gbiomed.kuleuven.be.
+n26b-switch-03 3600 IN CNAME n26b-switch-03.gbiomed.kuleuven.be.
+n26b-switch-04 3600 IN CNAME n26b-switch-04.gbiomed.kuleuven.be.
+n26b-switch-05 3600 IN CNAME n26b-switch-05.gbiomed.kuleuven.be.
+n26b-switch-06 3600 IN CNAME n26b-switch-06.gbiomed.kuleuven.be.
+sadl 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+bswitch-soc 3600 IN A 10.255.0.5
+pswitch-dcleu-1-vlan2 3600 IN A 10.119.0.253
+pswitch-arts-vlan2 86400 IN A 10.119.23.254
+ap-icri-1 3600 IN A 134.58.125.7
+ap-icri-2 3600 IN A 134.58.125.206
+headend-catv-4 3600 IN A 10.66.254.25
+n22b-switch-01 3600 IN CNAME n22b-switch-01.gbiomed.kuleuven.be.
+lrswitch-dc-esat-vlan2 3600 IN A 10.119.51.254
+lswitch-econ-n13e05 3600 IN A 134.58.120.48
+ups-monitoringcard-icts1 3600 IN A 10.119.42.92
+ser16-switch-02 3600 IN CNAME ser16-switch-02.gbiomed.kuleuven.be.
+n26k-switch-01 3600 IN CNAME n26k-switch-01.gbiomed.kuleuven.be.
+n26k-switch-02 3600 IN CNAME n26k-switch-02.gbiomed.kuleuven.be.
+n26k-switch-03 3600 IN CNAME n26k-switch-03.gbiomed.kuleuven.be.
+n26k-switch-04 3600 IN CNAME n26k-switch-04.gbiomed.kuleuven.be.
+n22b-switch-03 3600 IN CNAME n22b-switch-03.gbiomed.kuleuven.be.
+pswitch-dcleu-2-vlan2 3600 IN A 10.119.0.252
+ap-law-zvh 3600 IN A 134.58.118.42
+ups-monitoringcard-cw 3600 IN A 10.119.28.105
+ap-on-1 3600 IN A 134.58.125.45
+ap-on-2 3600 IN A 134.58.125.46
+antenne-mariapoort 3600 IN A 10.119.46.8
+mech 86400 IN NS dns.mech
+86400 IN NS dns-slave1.kulnet.kuleuven.be.
+86400 IN NS dns-slave2.kulnet.kuleuven.be.
+lrswitch-dc-psy-vlan2 3600 IN A 10.119.52.254
+tswitch-nexus 3600 IN A 134.58.121.248
+ap-on-8 3600 IN A 134.58.125.52
+ap-on-9 3600 IN A 134.58.125.53
+lrswitch-access-vlan169 3600 IN A 193.190.169.254
+switch-mech-b3 3600 IN A 10.119.27.4
+ap-geo-1 3600 IN A 134.58.119.195
+ap-geo-2 3600 IN A 134.58.120.221
+ap-pdc-1 3600 IN A 134.58.118.250
+ap-pdc-2 3600 IN A 134.58.119.14
+www 86400 IN CNAME www.kuleuven.be.
+pswitch-kulak-2 3600 IN A 10.255.0.43
+switch-mech-d2 3600 IN A 10.119.27.24
+switch-mech-b5 3600 IN A 10.119.27.6
+ap-betlehem-assoc 3600 IN A 134.58.118.180
+pswitch-soc-vlan2 86400 IN A 10.119.21.254
+ap-cbib-10 3600 IN A 134.58.119.207
+switch-mech-b6 3600 IN A 10.119.27.7
+ap-cbib-2 3600 IN A 134.58.125.96
+ap-bibtheo-3 3600 IN A 134.58.125.244
+ap-cag-01 3600 IN A 134.58.120.238
+n22e-switch-02 3600 IN CNAME n22e-switch-02.gbiomed.kuleuven.be.
+tdswitch-39081-9116-1 3600 IN A 10.119.46.13
+tdswitch-39081-9116-2 3600 IN A 10.119.46.14
+ap-betlehem-2 3600 IN A 134.58.125.130
+lswitch-econ-n13f06 3600 IN A 134.58.120.56
+switch-mech-c0 3600 IN A 10.119.27.11
+pswitch-hol 3600 IN A 10.255.0.19
+ap-on-0582 3600 IN A 134.58.119.12
+lswitch-econ-n04b02 3600 IN A 134.58.120.94
+lswitch-econ-n04b03 3600 IN A 134.58.120.95
+gbw-switch-01 3600 IN CNAME gbw-switch-01.med.kuleuven.be.
+switch-mech-l6 3600 IN A 10.119.27.41
+headend-catv-10 3600 IN A 10.66.254.73
+n10g-switch-01 3600 IN CNAME n10g-switch-01.gbiomed.kuleuven.be.
+n10g-switch-02 3600 IN CNAME n10g-switch-02.gbiomed.kuleuven.be.
+n10g-switch-03 3600 IN CNAME n10g-switch-03.gbiomed.kuleuven.be.
+lrswitch-access-2 3600 IN CNAME lrswitch-access-2-l0.kulnet.kuleuven.be.
+lswitch-econ-n13f01 3600 IN A 134.58.120.51
+lswitch-econ-n13f02 3600 IN A 134.58.120.52
+headend-catv-17 3600 IN A 10.66.254.129
+headend-catv-18 3600 IN A 10.66.254.137
+dicts 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+cisco-acco 3600 IN CNAME cisco-acco.kulnet.kuleuven.be.
+headend-catv-22 3600 IN A 10.66.253.41
+headend-catv-23 3600 IN A 10.66.254.193
+headend-catv-24 3600 IN A 10.66.254.201
+headend-catv-25 3600 IN A 10.66.254.209
+headend-catv-26 3600 IN A 10.66.254.217
+lswitch-olv-peda 3600 IN A 10.0.46.249
+kring 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+headend-catv-29 3600 IN A 10.66.253.1
+headend-catv-31 3600 IN A 10.66.253.17
+headend-catv-32 3600 IN A 10.66.253.49
+headend-catv-33 3600 IN A 10.66.253.57
+headend-catv-34 3600 IN A 10.66.253.65
+headend-catv-35 3600 IN A 10.66.253.73
+headend-catv-36 3600 IN A 10.66.253.81
+abh 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+bb-ludit-esat 86400 IN A 192.168.24.253
+aud-switch-01 3600 IN CNAME aud-switch-01.auditoria.kuleuven.be.
+n22h-switch-02 3600 IN CNAME n22h-switch-02.gbiomed.kuleuven.be.
+headend-catv-30 3600 IN A 10.66.253.9
+headend-catv-28 3600 IN A 10.66.254.249
+n22h-switch-03 3600 IN CNAME n22h-switch-03.gbiomed.kuleuven.be.
+abv 86400 IN CNAME abv.kadoc
+ap-bibtheo-2 3600 IN A 134.58.125.243
+alma 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n22h-switch-04 3600 IN CNAME n22h-switch-04.gbiomed.kuleuven.be.
+switch-mech-d0 3600 IN A 10.119.27.22
+reg-switch-01 3600 IN CNAME reg-switch-01.med.kuleuven.be.
+lswitch-econ-n13f04 3600 IN A 134.58.120.54
+reg-switch-04 3600 IN CNAME reg-switch-04.med.kuleuven.be.
+reg-switch-05 3600 IN CNAME reg-switch-05.med.kuleuven.be.
+n22i-switch-01 3600 IN CNAME n22i-switch-01.gbiomed.kuleuven.be.
+n22h-switch-06 3600 IN CNAME n22h-switch-06.gbiomed.kuleuven.be.
+n22i-switch-03 3600 IN CNAME n22i-switch-03.gbiomed.kuleuven.be.
+n22i-switch-04 3600 IN CNAME n22i-switch-04.gbiomed.kuleuven.be.
+n22i-switch-05 3600 IN CNAME n22i-switch-05.gbiomed.kuleuven.be.
+n22i-switch-06 3600 IN CNAME n22i-switch-06.gbiomed.kuleuven.be.
+n22i-switch-07 3600 IN CNAME n22i-switch-07.gbiomed.kuleuven.be.
+cme-switch-04 3600 IN CNAME cme-switch-04.med.kuleuven.be.
+switch-mech-d3 3600 IN A 10.119.27.25
+tolapps 86400 IN CNAME www2.cc
+lswitch-chem-10 3600 IN CNAME lswitch-chem-10.quantchem.kuleuven.be.
+lswitch-chem-11 3600 IN CNAME lswitch-chem-11.quantchem.kuleuven.be.
+lswitch-chem-12 3600 IN CNAME lswitch-chem-12.quantchem.kuleuven.be.
+lswitch-chem-13 3600 IN CNAME lswitch-chem-13.quantchem.kuleuven.be.
+lrswitch-dc-biw 3600 IN A 10.255.0.103
+ap-on-0607 3600 IN A 134.58.119.13
+ap-on2-04226 3600 IN A 134.58.125.238
+ghum 86400 IN NS ghumadc1.ghum
+86400 IN NS ghumadc2.ghum
+agr 86400 IN NS dnsrv.agr
+86400 IN NS ns1.kulnet
+lswitch-econ-n13f05 3600 IN A 134.58.120.55
+ap-vhi-0129 3600 IN A 134.58.125.179
+ap-ac-0217 3600 IN A 134.58.118.8
+bswitch-cruysberghs 3600 IN A 10.255.0.7
+lswitch-econ-n13g05 3600 IN A 134.58.120.70
+lswitch-econ-n13g06 3600 IN A 134.58.120.71
+ap-esat-reserve 3600 IN A 134.58.125.70
+ap-molen-0007 3600 IN A 134.58.118.194
+aiv 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+forum 300 IN CNAME tobias08.cc
+lrswitch-hpc-t1 3600 IN A 10.119.1.151
+lrswitch-hpc-t2 3600 IN A 10.119.1.152
+extern 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-fys-2 3600 IN A 134.58.125.226
+ap-fys-3 3600 IN A 134.58.119.188
+ap-fys-4 3600 IN A 134.58.119.189
+ap-med-1 3600 IN A 134.58.125.59
+pswitch-matrix-hev 3600 IN A 10.119.48.1
+ghumadc1.ghum 86400 IN A 134.58.95.121
+alum 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-cag-06 3600 IN A 134.58.120.243
+thk-switch-01 3600 IN CNAME thk-switch-01.med.kuleuven.be.
+thk-switch-02 3600 IN CNAME thk-switch-02.med.kuleuven.be.
+ap-mirw-1 3600 IN A 134.58.118.107
+ap-mirw-2 3600 IN A 134.58.118.108
+bb-mech-cw 86400 IN A 192.168.17.253
+drac-switch-01 3600 IN CNAME drac-switch-01.gbiomed.kuleuven.be.
+drac-switch-02 3600 IN CNAME drac-switch-02.gbiomed.kuleuven.be.
+ap-bibhiw-1 3600 IN A 134.58.125.214
+webmail1 86400 IN CNAME webmail1.cc
+ant 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-bibhiw-4 3600 IN A 134.58.119.238
+ap-bibhiw-5 3600 IN A 134.58.119.239
+ap-bibhiw-6 3600 IN A 134.58.119.240
+ap-bibhiw-7 3600 IN A 134.58.119.241
+ap-bibhiw-8 3600 IN A 134.58.119.242
+ap-bibhiw-9 3600 IN A 134.58.119.243
+cisco-siemens-kulnet 86400 IN CNAME cisco-siemens-kulnet.kulnet.kuleuven.be.
+n26i-switch-01 3600 IN CNAME n26i-switch-01.gbiomed.kuleuven.be.
+n26i-switch-02 3600 IN CNAME n26i-switch-02.gbiomed.kuleuven.be.
+n26i-switch-03 3600 IN CNAME n26i-switch-03.gbiomed.kuleuven.be.
+n26i-switch-04 3600 IN CNAME n26i-switch-04.gbiomed.kuleuven.be.
+tswitch-ipv6 3600 IN A 134.58.121.249
+switch-mech-n16c1 3600 IN A 10.119.13.2
+bib 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-vhi-0229 3600 IN A 134.58.125.180
+ou-sys 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-200c-a 3600 IN A 134.58.125.176
+ap-200c-b 3600 IN A 134.58.125.177
+pswitch-dchev-1 3600 IN A 10.255.0.61
+pswitch-dchev-1-vlan2 3600 IN A 10.119.1.253
+lrswitch-dc-esat 3600 IN A 10.255.0.104
+pswitch-dchev-2 3600 IN A 10.255.0.62
+bio 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-cruysberghs 3600 IN A 10.255.0.24
+ap-on-0676 3600 IN A 134.58.119.21
+kulak-a5-cs1 3600 IN CNAME kulak-a5-cs1.kulak.be.
+kulak-a5-cs2 3600 IN CNAME kulak-a5-cs2.kulak.be.
+ap-ac-0017 3600 IN A 134.58.118.6
+tswitch-eden 3600 IN A 10.119.36.44
+arx 86400 IN CNAME breydel.kulnet
+n11s-switch-01 3600 IN A 10.119.40.23
+kulak-gm1-cs1 3600 IN CNAME kulak-gm1-cs1.kulak.be.
+ap-hallen-1 3600 IN A 134.58.125.131
+ap-hallen-2 3600 IN A 134.58.125.132
+ap-hallen-3 3600 IN A 134.58.125.133
+ap-hallen-4 3600 IN A 134.58.125.134
+ap-hallen-5 3600 IN A 134.58.125.135
+ap-hallen-6 3600 IN A 134.58.125.136
+ap-cag-04 3600 IN A 134.58.120.241
+ap-bibhiw-10 3600 IN A 134.58.119.244
+ccl 86400 IN NS pricie.ccl.kuleuven.be.
+86400 IN NS hagar.ccl.kuleuven.be.
+86400 IN NS onyx.arts.kuleuven.be.
+86400 IN NS dns-slave1.kulnet.kuleuven.be.
+86400 IN NS dns-slave2.kulnet.kuleuven.be.
+avd 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-korbeekhoeve 86400 IN A 10.120.232.3
+pswitch-arts-a 3600 IN A 10.119.22.1
+pswitch-azuur 3600 IN A 134.58.121.72
+cisco-as0 3600 IN CNAME cisco-as0.kulnet.kuleuven.be.
+avl 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+cisco-as2 3600 IN CNAME cisco-as2.kulnet.kuleuven.be.
+econ 86400 IN NS econdns1.econ.kuleuven.be.
+86400 IN NS econdns2.econ.kuleuven.be.
+ap-on2-05316 3600 IN A 134.58.125.237
+kulak-b1-cs1 3600 IN CNAME kulak-b1-cs1.kulak.be.
+kulak-b1-cs2 3600 IN CNAME kulak-b1-cs2.kulak.be.
+kulak-b1-cs3 3600 IN CNAME kulak-b1-cs3.kulak.be.
+kulak-b1-cs4 3600 IN CNAME kulak-b1-cs4.kulak.be.
+kulak-b1-cs5 3600 IN CNAME kulak-b1-cs5.kulak.ac.be.
+kulak-b1-cs6 3600 IN CNAME kulak-b1-cs6.kulak.ac.be.
+switch-mech-n16c2 3600 IN A 10.119.13.3
+n19g-switch-01 3600 IN CNAME n19g-switch-01.gbiomed.kuleuven.be.
+hagar.ccl 86400 IN A 134.58.128.19
+bswitch-ludit 3600 IN A 10.255.0.6
+pswitch-mtm-a 3600 IN A 10.119.12.1
+pers 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+tswitch-wimax-tests 3600 IN CNAME tswitch-wimax-tests.kulnet.kuleuven.be.
+pswitch-law 3600 IN A 10.255.0.14
+cib 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+cisco-siemens-kulak 86400 IN CNAME cisco-siemens-kulak.kulnet.kuleuven.be.
+n11e-switch-01 3600 IN CNAME n11e-switch-01.gbiomed.kuleuven.be.
+ap-ac-0417 3600 IN A 134.58.118.10
+n11b-switch-09 3600 IN CNAME n11b-switch-09.gbiomed.kuleuven.be.
+nokia-fvl 86400 IN CNAME nokia-fvl.med.kuleuven.be.
+ser20-switch-01 3600 IN CNAME ser20-switch-01.gbiomed.kuleuven.be.
+ser20-switch-02 3600 IN CNAME ser20-switch-02.gbiomed.kuleuven.be.
+wgb-energyville 86400 IN A 10.33.239.2
+ser20-switch-04 3600 IN CNAME ser20-switch-04.gbiomed.kuleuven.be.
+ser20-switch-05 3600 IN CNAME ser20-switch-05.gbiomed.kuleuven.be.
+ser20-switch-06 3600 IN CNAME ser20-switch-06.gbiomed.kuleuven.be.
+ser20-switch-07 3600 IN CNAME ser20-switch-07.gbiomed.kuleuven.be.
+cit 86400 IN NS dns1.kulnet.kuleuven.be.
+86400 IN NS dns2.kulnet.kuleuven.be.
+gfg 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+dap 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ups-monitoringcard-straf 3600 IN A 10.119.38.64
+bb-soc-hh 86400 IN A 192.168.20.253
+pswitch-on2-2 3600 IN A 134.58.120.248
+n22g-switch-01 3600 IN CNAME n22g-switch-01.gbiomed.kuleuven.be.
+n22g-switch-02 3600 IN CNAME n22g-switch-02.gbiomed.kuleuven.be.
+n22g-switch-03 3600 IN CNAME n22g-switch-03.gbiomed.kuleuven.be.
+n22g-switch-04 3600 IN CNAME n22g-switch-04.gbiomed.kuleuven.be.
+n22g-switch-05 3600 IN CNAME n22g-switch-05.gbiomed.kuleuven.be.
+med-switch-01 3600 IN CNAME med-switch-01.med.kuleuven.be.
+med-switch-02 3600 IN CNAME med-switch-02.med.kuleuven.be.
+cme 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ups-monitoringcard-theo 3600 IN A 10.119.14.53
+clt 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+tswitch-werfkeet-chem 3600 IN A 10.119.28.98
+upers 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+bwk 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lrswitch-dchev-1 3600 IN A 10.119.48.203
+lrswitch-dchev-2 3600 IN A 10.119.48.204
+lrswitch-dchev-3 3600 IN A 10.119.48.205
+lrswitch-dchev-4 3600 IN A 10.119.48.206
+ap-europa-0002 3600 IN A 134.58.118.232
+n26f-switch-01 3600 IN CNAME n26f-switch-01.gbiomed.kuleuven.be.
+ap-mtm-0039 3600 IN A 134.58.125.251
+pswitch-cbib 3600 IN A 10.255.0.15
+dns.esat 86400 IN A 134.58.56.153
+ap-arts-bib-10 3600 IN A 134.58.118.137
+cisco-kotnet-2 3600 IN CNAME cisco-kotnet-2-vlan174.kulnet.kuleuven.be.
+n10b-switch-01 3600 IN CNAME n10b-switch-01.gbiomed.kuleuven.be.
+dif 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-econ-n13j02 3600 IN A 134.58.120.87
+cel-switch-02 3600 IN CNAME cel-switch-02.med.kuleuven.be.
+lswitch-econ-n13j04 3600 IN A 134.58.120.89
+lswitch-econ-n13j05 3600 IN A 134.58.120.90
+dir 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+vlreg 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ber-switch-01 3600 IN CNAME ber-switch-01.med.kuleuven.be.
+ap-faber-1 3600 IN A 134.58.118.31
+ap-esat-3 3600 IN A 134.58.125.73
+isro 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-chem-1 3600 IN CNAME lswitch-chem-1.quantchem.kuleuven.be.
+lswitch-chem-2 3600 IN CNAME lswitch-chem-2.quantchem.kuleuven.be.
+lswitch-chem-3 3600 IN CNAME lswitch-chem-3.quantchem.kuleuven.be.
+lswitch-chem-4 3600 IN CNAME lswitch-chem-4.quantchem.kuleuven.be.
+lswitch-chem-5 3600 IN CNAME lswitch-chem-5.quantchem.kuleuven.be.
+lswitch-chem-6 3600 IN CNAME lswitch-chem-6.quantchem.kuleuven.be.
+lswitch-chem-7 3600 IN CNAME lswitch-chem-7.quantchem.kuleuven.be.
+lswitch-chem-8 3600 IN CNAME lswitch-chem-8.quantchem.kuleuven.be.
+cc 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-esat-5 3600 IN A 134.58.125.75
+tswitch-dhcpv6relay 3600 IN A 10.119.42.66
+ap-bib-arenberg-3 3600 IN A 134.58.118.145
+kulak-c1-cs7 3600 IN CNAME kulak-c1-cs7.kulak.be.
+ap-esat-6 3600 IN A 134.58.125.76
+ap-mtc-0103 3600 IN A 134.58.125.248
+n26g-switch-01 3600 IN CNAME n26g-switch-01.gbiomed.kuleuven.be.
+n26g-switch-02 3600 IN CNAME n26g-switch-02.gbiomed.kuleuven.be.
+n26g-switch-03 3600 IN CNAME n26g-switch-03.gbiomed.kuleuven.be.
+n26g-switch-04 3600 IN CNAME n26g-switch-04.gbiomed.kuleuven.be.
+ns2.kulnet 86400 IN A 134.58.126.6
+ap-socbib-2 3600 IN A 134.58.118.229
+ap-socbib-3 3600 IN A 134.58.118.230
+ap-esat-8 3600 IN A 134.58.125.78
+ap-cbib-4 3600 IN A 134.58.125.98
+n19d-switch-09 3600 IN CNAME n19d-switch-09.gbiomed.kuleuven.be.
+ap-psy-1 3600 IN A 134.58.125.122
+pswitch-dchev-2-mgmt 3600 IN A 10.119.48.202
+ap-bib-arenberg-4 3600 IN A 134.58.118.146
+et 86400 IN NS pricie.ccl
+86400 IN NS hagar.ccl
+86400 IN NS onyx.arts
+86400 IN NS dns-slave1.kulnet.kuleuven.be.
+86400 IN NS dns-slave2.kulnet.kuleuven.be.
+dpv 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+misc 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ups-monitoringcard-esat 3600 IN A 10.119.10.38
+bswitch-theo 3600 IN A 10.255.0.4
+n19d-switch-14 3600 IN CNAME n19d-switch-14.gbiomed.kuleuven.be.
+dsa 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+dpav 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-ac-9112 3600 IN A 134.58.118.5
+n19d-switch-15 3600 IN CNAME n19d-switch-15.gbiomed.kuleuven.be.
+ap-cbib-6 3600 IN A 134.58.118.38
+n19d-switch-16 3600 IN CNAME n19d-switch-16.gbiomed.kuleuven.be.
+bswitch-icts-vlan2 3600 IN A 134.58.119.252
+3600 IN A 134.58.121.252
+3600 IN A 134.58.125.252
+pswitch-straf 3600 IN A 10.255.0.28
+io 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-bwk-2 3600 IN A 134.58.118.203
+ap-bwk-3 3600 IN A 134.58.118.204
+ap-bwk-4 3600 IN A 134.58.118.205
+ap-bwk-5 3600 IN A 134.58.119.190
+dsv 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+kc 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-on-0674 3600 IN A 134.58.119.20
+lswitch-econ-n13f10 3600 IN A 134.58.120.60
+groupware 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-mtm 3600 IN A 10.255.0.22
+arch 86400 IN NS dns1.kulnet.kuleuven.be.
+86400 IN NS dns2.kulnet.kuleuven.be.
+duo 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n19e-switch-01 3600 IN CNAME n19e-switch-01.gbiomed.kuleuven.be.
+n19e-switch-02 3600 IN CNAME n19e-switch-02.gbiomed.kuleuven.be.
+n19e-switch-03 3600 IN CNAME n19e-switch-03.gbiomed.kuleuven.be.
+n19e-switch-04 3600 IN CNAME n19e-switch-04.gbiomed.kuleuven.be.
+n19e-switch-05 3600 IN CNAME n19e-switch-05.gbiomed.kuleuven.be.
+n19e-switch-06 3600 IN CNAME n19e-switch-06.gbiomed.kuleuven.be.
+n19e-switch-07 3600 IN CNAME n19e-switch-07.gbiomed.kuleuven.be.
+n19e-switch-08 3600 IN CNAME n19e-switch-08.gbiomed.kuleuven.be.
+eng 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n19e-switch-11 3600 IN CNAME n19e-switch-11.gbiomed.kuleuven.be.
+n19e-switch-12 3600 IN CNAME n19e-switch-12.gbiomed.kuleuven.be.
+n19e-switch-13 3600 IN CNAME n19e-switch-13.gbiomed.kuleuven.be.
+n19e-switch-14 3600 IN CNAME n19e-switch-14.gbiomed.kuleuven.be.
+n19e-switch-15 3600 IN CNAME n19e-switch-15.gbiomed.kuleuven.be.
+n19e-switch-16 3600 IN CNAME n19e-switch-16.gbiomed.kuleuven.be.
+neuro 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n19e-switch-18 3600 IN CNAME n19e-switch-18.gbiomed.kuleuven.be.
+n19e-switch-19 3600 IN CNAME n19e-switch-19.gbiomed.kuleuven.be.
+n19e-switch-21 3600 IN CNAME n19e-switch-21.gbiomed.kuleuven.be.
+n19e-switch-22 3600 IN CNAME n19e-switch-22.gbiomed.kuleuven.be.
+n19e-switch-23 3600 IN CNAME n19e-switch-23.gbiomed.kuleuven.be.
+n19e-switch-24 3600 IN CNAME n19e-switch-24.gbiomed.kuleuven.be.
+n11c-switch-01 3600 IN CNAME n11c-switch-01.gbiomed.kuleuven.be.
+n11c-switch-02 3600 IN CNAME n11c-switch-02.gbiomed.kuleuven.be.
+www.adlug 86400 IN CNAME lambik25.cc.kuleuvenac.be.
+stuk 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n11c-switch-05 3600 IN CNAME n11c-switch-05.gbiomed.kuleuven.be.
+n11c-switch-06 3600 IN CNAME n11c-switch-06.gbiomed.kuleuven.be.
+switch-mech-l0 3600 IN A 10.119.27.35
+cisco-conc 3600 IN CNAME cisco-conc-vlan248.kulnet.kuleuven.be.
+dns.mech 86400 IN A 134.58.24.10
+idewe 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+headend-catv-8 3600 IN A 10.66.254.57
+ou 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-cbib-7 3600 IN A 134.58.118.39
+pswitch-on2 3600 IN A 10.255.0.11
+ap-vhi-9124 3600 IN A 134.58.119.184
+ap-cag-05 3600 IN A 134.58.120.242
+n22e-switch-01 3600 IN CNAME n22e-switch-01.gbiomed.kuleuven.be.
+fin 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n22e-switch-03 3600 IN CNAME n22e-switch-03.gbiomed.kuleuven.be.
+n22e-switch-04 3600 IN CNAME n22e-switch-04.gbiomed.kuleuven.be.
+n22e-switch-05 3600 IN CNAME n22e-switch-05.gbiomed.kuleuven.be.
+n22e-switch-06 3600 IN CNAME n22e-switch-06.gbiomed.kuleuven.be.
+n22e-switch-07 3600 IN CNAME n22e-switch-07.gbiomed.kuleuven.be.
+n22e-switch-08 3600 IN CNAME n22e-switch-08.gbiomed.kuleuven.be.
+ap-cit-2 3600 IN A 134.58.119.199
+n22h-switch-01 3600 IN CNAME n22h-switch-01.gbiomed.kuleuven.be.
+dns2.kulnet 86400 IN A 134.58.126.6
+n19e-switch-10 3600 IN CNAME n19e-switch-10.gbiomed.kuleuven.be.
+dowb 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ser16-switch-01 3600 IN CNAME ser16-switch-01.gbiomed.kuleuven.be.
+upar 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+spl 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n22j-switch-04 3600 IN CNAME n22j-switch-04.gbiomed.kuleuven.be.
+ap-esat-7 3600 IN A 134.58.125.77
+ap-on-0625 3600 IN A 134.58.119.15
+ap-on-0627 3600 IN A 134.58.119.16
+ghumadc2.ghum 86400 IN A 134.58.95.122
+ap1100-kulnet 3600 IN A 134.58.125.1
+ap-on-0635 3600 IN A 134.58.119.17
+ap-cag-02 3600 IN A 134.58.120.239
+ap-on-0637 3600 IN A 134.58.119.18
+auditoria 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+geo 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+gep 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+iptube-leuven 86400 IN CNAME iptube-leuven.kulnet.kuleuven.be.
+uz 86400 IN NS dns1.uzleuven.be.
+86400 IN NS dns2.uzleuven.be.
+86400 IN NS dns-slave1.kulnet.kuleuven.be.
+86400 IN NS dns-slave2.kulnet.kuleuven.be.
+switch-installatie-iefpief 3600 IN A 134.58.121.150
+pswitch-mech-a 3600 IN A 10.119.26.1
+ap-esat-1 3600 IN A 134.58.125.71
+ap-esat-2 3600 IN A 134.58.125.72
+kulak-a1-cs1 3600 IN CNAME kulak-a1-cs1.kulak.be.
+kulak-a1-cs2 3600 IN CNAME kulak-a1-cs2.kulak.be.
+kulak-a1-cs3 3600 IN CNAME kulak-a1-cs3.kulak.be.
+kulak-a1-cs4 3600 IN CNAME kulak-a1-cs4.kulak.be.
+kulak-a1-cs5 3600 IN CNAME kulak-a1-cs5.kulak.be.
+kulak-a1-cs6 3600 IN CNAME kulak-a1-cs6.kulak.be.
+ap-esat-9 3600 IN A 134.58.125.79
+pswitch-dchev-1-mgmt 3600 IN A 10.119.48.201
+ap-on-0670 3600 IN A 134.58.119.19
+n26e-switch-01 3600 IN CNAME n26e-switch-01.gbiomed.kuleuven.be.
+ser20-switch-03 3600 IN CNAME ser20-switch-03.gbiomed.kuleuven.be.
+headend-catv-3 3600 IN A 10.66.253.25
+bb-flok-hol 86400 IN A 192.168.14.253
+headend-catv-5 3600 IN A 10.66.254.33
+n26e-switch-02 3600 IN CNAME n26e-switch-02.gbiomed.kuleuven.be.
+ap-cbib-5 3600 IN A 134.58.118.37
+bb-mtm-esat 86400 IN A 192.168.18.253
+headend-catv-9 3600 IN A 10.66.254.65
+ap-cbib-8 3600 IN A 134.58.119.205
+ap-cbib-9 3600 IN A 134.58.119.206
+gkg 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-soc-monet 3600 IN A 134.58.119.187
+ap-soc-weber 3600 IN A 134.58.119.186
+mrv-rack-azuur 86400 IN A 134.58.125.103
+kulak-a6-cs1 3600 IN CNAME kulak-a6-cs1.kulak.be.
+kulak-a6-cs2 3600 IN CNAME kulak-a6-cs2.kulak.be.
+n26e-switch-03 3600 IN CNAME n26e-switch-03.gbiomed.kuleuven.be.
+n26e-switch-04 3600 IN CNAME n26e-switch-04.gbiomed.kuleuven.be.
+lrswitch-access-2-mgmt 3600 IN A 10.119.49.200
+ftw 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+arts 86400 IN NS onyx.arts
+86400 IN NS pricie.ccl
+86400 IN NS dns-slave1.kulnet.kuleuven.be.
+86400 IN NS dns-slave2.kulnet.kuleuven.be.
+ap-duo 3600 IN A 134.58.125.3
+avnet 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lrswitch-access-1-mgmt 3600 IN A 10.119.48.200
+econex 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-pewter 3600 IN A 10.255.0.20
+ap-icri-3 3600 IN A 134.58.125.207
+lswitch-law1 3600 IN CNAME lswitch-law1.law.kuleuven.be.
+lswitch-law2 3600 IN CNAME lswitch-law2.law.kuleuven.be.
+www2 86400 IN CNAME www2.cc
+bswitch-ludit-vlan2 3600 IN A 134.58.119.253
+3600 IN A 134.58.121.253
+3600 IN A 134.58.125.253
+iltpbx 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+fvf 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-spoel-1 3600 IN A 134.58.119.155
+ap-spoel-2 3600 IN A 134.58.119.156
+ap-spoel-3 3600 IN A 134.58.119.157
+ups-monitoringcard-icts2 3600 IN A 10.119.42.93
+ap-on-0762 3600 IN A 134.58.119.22
+fys 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-dcleu-2-mgmt 3600 IN A 10.119.49.202
+czv-switch-01 3600 IN CNAME czv-switch-01.med.kuleuven.be.
+czv-switch-02 3600 IN CNAME czv-switch-02.med.kuleuven.be.
+ap-econ-11 3600 IN A 134.58.120.11
+ap-mech-3 3600 IN A 134.58.118.208
+ap-mech-4 3600 IN A 134.58.118.209
+ap-mech-5 3600 IN A 134.58.120.178
+ap-on-0782 3600 IN A 134.58.119.23
+asro 86400 IN NS asro-srv-24.asro
+86400 IN NS asro-srv-23.asro
+ap-on-0787 3600 IN A 134.58.119.24
+n19c-switch-01 3600 IN CNAME n19c-switch-01.gbiomed.kuleuven.be.
+n19c-switch-02 3600 IN CNAME n19c-switch-02.gbiomed.kuleuven.be.
+n19c-switch-03 3600 IN CNAME n19c-switch-03.gbiomed.kuleuven.be.
+n19c-switch-04 3600 IN CNAME n19c-switch-04.gbiomed.kuleuven.be.
+n19c-switch-05 3600 IN CNAME n19c-switch-05.gbiomed.kuleuven.be.
+n19c-switch-06 3600 IN CNAME n19c-switch-06.gbiomed.kuleuven.be.
+n19c-switch-07 3600 IN CNAME n19c-switch-07.gbiomed.kuleuven.be.
+n19c-switch-08 3600 IN CNAME n19c-switch-08.gbiomed.kuleuven.be.
+n19c-switch-09 3600 IN CNAME n19c-switch-09.gbiomed.kuleuven.be.
+n19c-switch-11 3600 IN CNAME n19c-switch-11.gbiomed.kuleuven.be.
+n19c-switch-12 3600 IN CNAME n19c-switch-12.gbiomed.kuleuven.be.
+n19c-switch-13 3600 IN CNAME n19c-switch-13.gbiomed.kuleuven.be.
+n19c-switch-14 3600 IN CNAME n19c-switch-14.gbiomed.kuleuven.be.
+n19c-switch-15 3600 IN CNAME n19c-switch-15.gbiomed.kuleuven.be.
+n19c-switch-16 3600 IN CNAME n19c-switch-16.gbiomed.kuleuven.be.
+n19c-switch-17 3600 IN CNAME n19c-switch-17.gbiomed.kuleuven.be.
+n19c-switch-18 3600 IN CNAME n19c-switch-18.gbiomed.kuleuven.be.
+n19c-switch-19 3600 IN CNAME n19c-switch-19.gbiomed.kuleuven.be.
+n19c-switch-21 3600 IN CNAME n19c-switch-21.gbiomed.kuleuven.be.
+n19c-switch-22 3600 IN CNAME n19c-switch-22.gbiomed.kuleuven.be.
+n22h-switch-07 3600 IN CNAME n22h-switch-07.gbiomed.kuleuven.be.
+n19c-switch-24 3600 IN CNAME n19c-switch-24.gbiomed.kuleuven.be.
+n19c-switch-25 3600 IN CNAME n19c-switch-25.gbiomed.kuleuven.be.
+n19c-switch-26 3600 IN CNAME n19c-switch-26.gbiomed.kuleuven.be.
+n19c-switch-27 3600 IN CNAME n19c-switch-27.gbiomed.kuleuven.be.
+n19c-switch-28 3600 IN CNAME n19c-switch-28.gbiomed.kuleuven.be.
+n19c-switch-30 3600 IN CNAME n19c-switch-30.gbiomed.kuleuven.be.
+n19c-switch-31 3600 IN CNAME n19c-switch-31.gbiomed.kuleuven.be.
+n19c-switch-32 3600 IN CNAME n19c-switch-32.gbiomed.kuleuven.be.
+n19c-switch-33 3600 IN CNAME n19c-switch-33.gbiomed.kuleuven.be.
+n19c-switch-34 3600 IN CNAME n19c-switch-34.gbiomed.kuleuven.be.
+n19c-switch-35 3600 IN CNAME n19c-switch-35.gbiomed.kuleuven.be.
+ap-cbib-11 3600 IN A 134.58.119.208
+webmail 86400 IN CNAME webmail.cc
+ap-agr-genie-1 3600 IN A 134.58.119.39
+econls00 3600 IN CNAME econls00.econ.kuleuven.be.
+lswitch-soc-1 3600 IN CNAME lswitch-soc-1.soc.kuleuven.be.
+intern 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-psy-0030 3600 IN A 134.58.120.222
+n22c-switch-01 3600 IN CNAME n22c-switch-01.gbiomed.kuleuven.be.
+n22c-switch-02 3600 IN CNAME n22c-switch-02.gbiomed.kuleuven.be.
+n22c-switch-03 3600 IN CNAME n22c-switch-03.gbiomed.kuleuven.be.
+n22c-switch-04 3600 IN CNAME n22c-switch-04.gbiomed.kuleuven.be.
+n22c-switch-05 3600 IN CNAME n22c-switch-05.gbiomed.kuleuven.be.
+n22c-switch-06 3600 IN CNAME n22c-switch-06.gbiomed.kuleuven.be.
+n22c-switch-07 3600 IN CNAME n22c-switch-07.gbiomed.kuleuven.be.
+n22c-switch-08 3600 IN CNAME n22c-switch-08.gbiomed.kuleuven.be.
+n22c-switch-09 3600 IN CNAME n22c-switch-09.gbiomed.kuleuven.be.
+n22c-switch-11 3600 IN CNAME n22c-switch-11.gbiomed.kuleuven.be.
+ap-cbib-3 3600 IN A 134.58.125.97
+lswitch-econ-n13a01 3600 IN A 134.58.120.21
+pswitch-straf-a 3600 IN A 10.119.38.1
+pswitch-telco-hev 3600 IN A 10.255.0.30
+n22j-switch-01 3600 IN CNAME n22j-switch-01.gbiomed.kuleuven.be.
+econls40 3600 IN CNAME econls40.econ.kuleuven.be.
+n11s-switch-02 3600 IN A 10.119.40.24
+leg-switch-01 3600 IN CNAME leg-switch-01.med.kuleuven.be.
+faber 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-dcleu-1 3600 IN A 10.255.0.60
+n22j-switch-03 3600 IN CNAME n22j-switch-03.gbiomed.kuleuven.be.
+n19c-switch-98 3600 IN CNAME n19c-switch-98.gbiomed.kuleuven.be.
+n19c-switch-99 3600 IN CNAME n19c-switch-99.gbiomed.kuleuven.be.
+ap-straf-huisartsgeneeskunde 3600 IN A 134.58.118.91
+switch-mech-d4 3600 IN A 10.119.27.26
+pswitch-icts 3600 IN A 10.255.0.63
+iks 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-esat-4 3600 IN A 134.58.125.74
+pswitch-dchev-1-cmp 3600 IN A 10.119.48.207
+lrswitch-kulnet-2-vlan2 86400 IN A 10.119.49.254
+tswitch-libis 3600 IN A 10.119.42.85
+pswitch-alma3 3600 IN A 10.255.0.16
+ilt 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+bb-alma-flok 86400 IN A 192.168.13.253
+ini 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-bi17-huisarts 3600 IN A 134.58.118.98
+n19e-switch-20 3600 IN CNAME n19e-switch-20.gbiomed.kuleuven.be.
+cisco-campusnet-1 3600 IN CNAME cisco-campusnet-1-vlan176.kulnet.kuleuven.be.
+cisco-campusnet-2 3600 IN CNAME cisco-campusnet-2-vlan176.kulnet.kuleuven.be.
+pswitch-hh 3600 IN A 10.255.0.18
+ap-on-0537 3600 IN A 134.58.119.10
+n15a-switch-01 3600 IN CNAME n15a-switch-01.gbiomed.kuleuven.be.
+pswitch-dcleu-2 3600 IN A 10.255.0.59
+kulak-b2-cs1 3600 IN CNAME kulak-b2-cs1.kulak.be.
+ap-200k06 3600 IN A 134.58.125.170
+ap-200k07 3600 IN A 134.58.125.171
+elink 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-mech-1 3600 IN A 134.58.125.208
+farm 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+perswww 86400 IN CNAME perswww.cc
+www.arenbergbib 86400 IN CNAME www.wbib
+ap-alma1 3600 IN A 134.58.125.5
+ap-alma2 3600 IN A 134.58.125.6
+ap-alma3 3600 IN A 134.58.125.210
+n26c-switch-01 3600 IN CNAME n26c-switch-01.gbiomed.kuleuven.be.
+n26c-switch-02 3600 IN CNAME n26c-switch-02.gbiomed.kuleuven.be.
+n26c-switch-03 3600 IN CNAME n26c-switch-03.gbiomed.kuleuven.be.
+n26c-switch-04 3600 IN CNAME n26c-switch-04.gbiomed.kuleuven.be.
+ap-biw-loods 3600 IN A 134.58.119.178
+n22f-switch-10 3600 IN CNAME n22f-switch-10.gbiomed.kuleuven.be.
+ap-bibhiw-3 3600 IN A 134.58.119.237
+toledo-assessment 86400 IN CNAME qm3.cc
+switch-mech-b0 3600 IN A 10.119.27.1
+switch-mech-b1 3600 IN A 10.119.27.2
+ap-psy-9193 3600 IN A 134.58.125.182
+ap-betlehem-1 3600 IN A 134.58.125.129
+switch-mech-b4 3600 IN A 10.119.27.5
+lrswitch-azuur-srv-1 3600 IN A 10.119.7.18
+ap-pbib-01 3600 IN A 134.58.120.153
+ap-pbib-02 3600 IN A 134.58.120.154
+ap-pbib-03 3600 IN A 134.58.120.155
+switch-mech-b9 3600 IN A 10.119.27.10
+switch-mech-c1 3600 IN A 10.119.27.12
+switch-mech-c2 3600 IN A 10.119.27.13
+switch-mech-c3 3600 IN A 10.119.27.14
+switch-mech-c4 3600 IN A 10.119.27.15
+switch-mech-c5 3600 IN CNAME switch-mech-c5.mech.kuleuven.be.
+switch-mech-c6 3600 IN A 10.119.27.17
+switch-mech-c7 3600 IN A 10.119.27.18
+asro-srv-23.asro 86400 IN A 134.58.106.8
+switch-mech-c9 3600 IN A 10.119.27.20
+vir-switch-01 3600 IN CNAME vir-switch-01.med.kuleuven.be.
+vir-switch-02 3600 IN CNAME vir-switch-02.med.kuleuven.be.
+vir-switch-03 3600 IN CNAME vir-switch-03.med.kuleuven.be.
+vir-switch-04 3600 IN CNAME vir-switch-04.med.kuleuven.be.
+switch-mech-d5 3600 IN A 10.119.27.27
+switch-mech-d6 3600 IN A 10.119.27.28
+switch-mech-d7 3600 IN A 10.119.27.29
+ap-pdc-3 3600 IN A 134.58.120.118
+kdv 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+switch-mech-f0 3600 IN A 10.119.27.31
+switch-mech-f1 3600 IN A 10.119.27.32
+switch-mech-f2 3600 IN A 10.119.27.33
+switch-mech-f3 3600 IN A 10.119.27.34
+pswitch-soc 3600 IN A 10.255.0.13
+ap-on2-05313 3600 IN A 134.58.125.236
+pswitch-theo 3600 IN A 10.255.0.29
+ap-arts-pcklas-1 3600 IN A 134.58.118.249
+ap-dsv-0028 3600 IN A 134.58.120.225
+ap-200l07 3600 IN A 134.58.125.173
+pswitch-kulak-1 3600 IN A 10.255.0.42
+hiva 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lrswitch-kulak-srv-1 86400 IN CNAME lrswitch-kulak-srv-1.kulak.be.
+lrswitch-kulak-srv-2 86400 IN CNAME lrswitch-kulak-srv-2.kulak.be.
+ap-bi15-groepspraktijk 3600 IN A 134.58.118.98
+wbib 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n22d-switch-10 3600 IN CNAME n22d-switch-10.gbiomed.kuleuven.be.
+lad 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-econ-08 3600 IN A 134.58.120.8
+www.emss 86400 IN CNAME tobias25.cc
+lswitch-econ-n13c03 3600 IN A 134.58.120.38
+ap-econ-09 3600 IN A 134.58.120.9
+ap-biw-serres 3600 IN A 134.58.119.177
+law 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-mech-2 3600 IN A 134.58.125.209
+switch-mech-l1 3600 IN A 10.119.27.36
+switch-mech-l2 3600 IN A 10.119.27.37
+switch-mech-l3 3600 IN A 10.119.27.38
+ap-cbib-1 3600 IN A 134.58.125.95
+switch-mech-l5 3600 IN A 10.119.27.40
+libis 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+switch-mech-l7 3600 IN A 10.119.27.42
+lswitch-pel-wlink 86400 IN A 10.120.232.2
+ap-econ-13 3600 IN A 134.58.120.13
+switch-mech-n0 3600 IN A 10.119.27.43
+ap-mtm-1 3600 IN A 134.58.125.105
+ap-medbib-5 3600 IN A 134.58.125.65
+icag 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-arts-1 3600 IN A 134.58.118.40
+ap-pcklas-deken 3600 IN A 134.58.125.8
+tech 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-200m06 3600 IN A 134.58.125.174
+ap-200m07 3600 IN A 134.58.125.175
+n10z-switch-01 3600 IN CNAME n10z-switch-01.gbiomed.kuleuven.be.
+n10z-switch-02 3600 IN CNAME n10z-switch-02.gbiomed.kuleuven.be.
+n10z-switch-03 3600 IN CNAME n10z-switch-03.gbiomed.kuleuven.be.
+n10z-switch-04 3600 IN CNAME n10z-switch-04.gbiomed.kuleuven.be.
+n10z-switch-05 3600 IN CNAME n10z-switch-05.gbiomed.kuleuven.be.
+n10z-switch-06 3600 IN CNAME n10z-switch-06.gbiomed.kuleuven.be.
+senaat 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n22j-switch-05 3600 IN CNAME n22j-switch-05.gbiomed.kuleuven.be.
+n22j-switch-06 3600 IN CNAME n22j-switch-06.gbiomed.kuleuven.be.
+n22j-switch-07 3600 IN CNAME n22j-switch-07.gbiomed.kuleuven.be.
+kulak-a2-cs1 3600 IN CNAME kulak-a2-cs1.kulak.be.
+kulak-a2-cs2 3600 IN CNAME kulak-a2-cs2.kulak.be.
+kulak-a2-cs3 3600 IN CNAME kulak-a2-cs3.kulak.be.
+ap-cag-03 3600 IN A 134.58.120.240
+cisco-vpn-client-1 3600 IN A 10.43.33.254
+switch-mech-s1 3600 IN A 10.119.27.21
+antenne-toren 3600 IN A 10.119.46.7
+n19e-switch-sci2 3600 IN CNAME n19e-switch-sci2.gbiomed.kuleuven.be.
+ap-vhi-0010 3600 IN A 134.58.125.178
+n19e-switch-27 3600 IN CNAME n19e-switch-27.gbiomed.kuleuven.be.
+kulak-gm-cs1 3600 IN CNAME kulak-gm-cs1.kulak.ac.be.
+pswitch-dcleu-1-mgmt 3600 IN A 10.119.49.201
+switch-mech-n17n 3600 IN A 10.119.26.11
+n22j-switch-02 3600 IN CNAME n22j-switch-02.gbiomed.kuleuven.be.
+ap-medbib-6 3600 IN A 134.58.125.66
+cisco-campusnet 3600 IN CNAME cisco-campusnet-vlan176.kulnet.kuleuven.be.
+hiw 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-econ-n13j01 3600 IN A 134.58.120.86
+lll 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-de-moete 3600 IN A 134.58.125.4
+ap-bwk-1 3600 IN A 134.58.118.202
+kulak-a7-cs1 3600 IN CNAME kulak-a7-cs1.kulak.be.
+kulak-a7-cs2 3600 IN CNAME kulak-a7-cs2.kulak.be.
+kulak-a7-cs3 3600 IN CNAME kulak-a7-cs3.kulak.be.
+kulak-a7-cs4 3600 IN CNAME kulak-a7-cs4.kulak.be.
+med 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-econ-n13j03 3600 IN A 134.58.120.88
+kadoc 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+econdc3.econ 86400 IN A 134.58.95.113
+ap-on2-04230 3600 IN A 134.58.125.241
+default-gateway 3600 IN A 134.58.119.254
+3600 IN A 134.58.121.254
+3600 IN A 134.58.125.254
+3600 IN A 10.119.1.254
+3600 IN A 10.119.5.254
+3600 IN A 10.119.7.254
+3600 IN A 10.119.9.254
+3600 IN A 10.119.11.254
+3600 IN A 10.119.13.254
+3600 IN A 10.119.15.254
+3600 IN A 10.119.17.254
+3600 IN A 10.119.25.254
+3600 IN A 10.119.27.254
+3600 IN A 10.119.29.254
+3600 IN A 10.119.31.254
+3600 IN A 10.119.33.254
+3600 IN A 10.119.35.254
+3600 IN A 10.119.37.254
+3600 IN A 10.119.39.254
+3600 IN A 10.119.41.254
+3600 IN A 10.119.43.254
+3600 IN A 10.119.45.254
+3600 IN A 10.119.47.254
+3600 IN A 10.120.232.254
+ap-mtm-0013 3600 IN A 134.58.125.250
+ap-geelhuis-1 3600 IN A 134.58.119.158
+lswitch-econ-n04b01 3600 IN A 134.58.120.93
+pswitch-esat 3600 IN A 10.255.0.26
+kulakwerkstation 86400 IN A 193.190.181.65
+ap-mtc-0015 3600 IN A 134.58.125.181
+kulak-sd1-cs1 3600 IN CNAME kulak-sd1-cs1.kulak.ac.be.
+icc 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ap-econ-10 3600 IN A 134.58.120.10
+ap-biochem 3600 IN A 134.58.125.195
+kulak-b3-cs1 3600 IN CNAME kulak-b3-cs1.kulak.be.
+ap-on2-04124 3600 IN A 134.58.125.205
+n19c-switch-10 3600 IN CNAME n19c-switch-10.gbiomed.kuleuven.be.
+lrd 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n19f-switch-01 3600 IN CNAME n19f-switch-01.gbiomed.kuleuven.be.
+kotnet 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+emss 86400 IN CNAME tobias25.cc
+n26j-switch-01 3600 IN CNAME n26j-switch-01.gbiomed.kuleuven.be.
+n26j-switch-02 3600 IN CNAME n26j-switch-02.gbiomed.kuleuven.be.
+n26j-switch-03 3600 IN CNAME n26j-switch-03.gbiomed.kuleuven.be.
+n26j-switch-04 3600 IN CNAME n26j-switch-04.gbiomed.kuleuven.be.
+ap-kas-1 3600 IN A 134.58.118.96
+ap-kas-2 3600 IN A 134.58.118.97
+pswitch-psy 3600 IN A 10.255.0.12
+headend-catv-11 3600 IN A 10.66.254.81
+lrswitch-dc-psy 3600 IN A 10.255.0.101
+lrswitch-ludit-srv-1 3600 IN A 134.58.118.184
+headend-catv-12 3600 IN A 10.66.254.89
+lrswitch-access-1 3600 IN CNAME lrswitch-access-1-l0.kulnet.kuleuven.be.
+n19e-switch-sci 3600 IN CNAME n19e-switch-sci.gbiomed.kuleuven.be.
+ap-mirw-3 3600 IN A 134.58.118.109
+headend-catv-14 3600 IN A 10.66.254.105
+n19c-switch-20 3600 IN CNAME n19c-switch-20.gbiomed.kuleuven.be.
+test 86400 IN NS ns1.kulnet
+86400 IN NS ns2.kulnet
+ap-mech-c300-0003 3600 IN A 134.58.118.172
+cisco-extern-1 3600 IN CNAME cisco-extern-1-vlan248.kulnet.kuleuven.be.
+cisco-extern-2 3600 IN CNAME cisco-extern-2-vlan248.kulnet.kuleuven.be.
+chem 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-kulnet-bur-1 3600 IN A 134.58.119.181
+lswitch-kulnet-bur-2 3600 IN A 134.58.119.70
+lswitch-econ-n13f03 3600 IN A 134.58.120.53
+ap-avnet-1 3600 IN A 134.58.118.138
+ap-avnet-2 3600 IN A 134.58.118.139
+ap-avnet-3 3600 IN A 134.58.118.140
+ap-avnet-4 3600 IN A 134.58.118.141
+ap-avnet-5 3600 IN A 134.58.118.142
+lrswitch-theo-telefonie-2 3600 IN A 10.119.0.32
+ups-monitoringcard-hol 3600 IN A 10.119.30.57
+headend-catv-19 3600 IN A 10.66.253.33
+cal-switch-01 3600 IN CNAME cal-switch-01.med.kuleuven.be.
+cal-switch-02 3600 IN CNAME cal-switch-02.med.kuleuven.be.
+headend-catv-21 3600 IN A 10.66.254.161
+eswitch-cite5 3600 IN A 10.0.9.253
+lswitch-econ-n13f07 3600 IN A 134.58.120.57
+cisco-vpn-1 3600 IN A 193.190.168.22
+ups-monitoringcard-arts 3600 IN A 10.119.22.21
+mrv2-rack-ludit 3600 IN A 134.58.118.75
+lswitch-econ-n13f08 3600 IN A 134.58.120.58
+lswitch-econ-n13f09 3600 IN A 134.58.120.59
+n19c-switch-29 3600 IN CNAME n19c-switch-29.gbiomed.kuleuven.be.
+mtm 86400 IN NS sirius.mtm
+86400 IN NS dns-slave1.kulnet.kuleuven.be.
+oce 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+lswitch-econ-n13f11 3600 IN A 134.58.120.61
+ser21-switch-01 3600 IN CNAME ser21-switch-01.gbiomed.kuleuven.be.
+ser21-switch-02 3600 IN CNAME ser21-switch-02.gbiomed.kuleuven.be.
+ser21-switch-03 3600 IN CNAME ser21-switch-03.gbiomed.kuleuven.be.
+ser21-switch-04 3600 IN CNAME ser21-switch-04.gbiomed.kuleuven.be.
+ser21-switch-05 3600 IN CNAME ser21-switch-05.gbiomed.kuleuven.be.
+doc 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+tswitch-2960-10g 3600 IN A 134.58.121.221
+headend-catv-27 3600 IN A 10.66.254.225
+pswitch-dchev-2-vlan2 3600 IN A 10.119.1.252
+popserv 86400 IN CNAME mail.cc
+ach-switch-01 3600 IN CNAME ach-switch-01.med.kuleuven.be.
+ach-switch-02 3600 IN CNAME ach-switch-02.med.kuleuven.be.
+bb-hal-straf 86400 IN A 192.168.19.253
+ap-ac-0312 3600 IN A 134.58.118.9
+n19z-switch-01 3600 IN CNAME n19z-switch-01.gbiomed.kuleuven.be.
+n19z-switch-02 3600 IN CNAME n19z-switch-02.gbiomed.kuleuven.be.
+n19z-switch-03 3600 IN CNAME n19z-switch-03.gbiomed.kuleuven.be.
+n19z-switch-04 3600 IN CNAME n19z-switch-04.gbiomed.kuleuven.be.
+n22h-switch-05 3600 IN CNAME n22h-switch-05.gbiomed.kuleuven.be.
+cme-switch-03 3600 IN CNAME cme-switch-03.med.kuleuven.be.
+associatie 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n22h-switch-08 3600 IN CNAME n22h-switch-08.gbiomed.kuleuven.be.
+kulak-wg-cs1 3600 IN CNAME kulak-wg-cs1.kulak.be.
+kulak-wg-cs2 3600 IN CNAME kulak-wg-cs2.kulak.be.
+lrswitch-ludit-hpc006-1 3600 IN A 10.119.42.27
+cme-switch-09 3600 IN CNAME cme-switch-09.med.kuleuven.be.
+ap-cbib-12 3600 IN A 134.58.119.209
+ap-agr-1 3600 IN A 134.58.125.67
+ns1.esat 86400 IN A 134.58.189.140
+ap-agr-3 3600 IN A 134.58.119.38
+ap-cbib-13 3600 IN A 134.58.119.210
+lrswitch-kulnet-1 3600 IN A 10.255.0.39
+lrswitch-kulnet-2 3600 IN A 10.255.0.38
+workplace 86400 IN CNAME workplace.kuleuven.be.
+ap-cbib-14 3600 IN A 134.58.119.211
+lswitch-chem-9 3600 IN CNAME lswitch-chem-9.quantchem.kuleuven.be.
+dnsrv.agr 86400 IN A 134.58.73.250
+theo 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+headend-catv-37 3600 IN A 10.66.253.89
+kulak-e1-cs1 3600 IN CNAME kulak-e1-cs1.kulak.be.
+kulak-e1-cs2 3600 IN CNAME kulak-e1-cs2.kulak.be.
+kulak-e1-cs3 3600 IN CNAME kulak-e1-cs3.kulak.be.
+kulak-e1-cs4 3600 IN CNAME kulak-e1-cs4.kulak.be.
+pswitch-ecru-vlan2 86400 IN A 10.119.7.251
+vnti 86400 IN CNAME ftp.cc
+ntp 86400 IN CNAME ntp.kulnet.kuleuven.be.
+ap-on-reserve 3600 IN A 134.58.125.56
+ap-on2-04227 3600 IN A 134.58.125.240
+ap-pds-aula-1 3600 IN A 134.58.120.183
+ap-pds-aula-2 3600 IN A 134.58.120.184
+ped 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+asro-srv-24.asro 86400 IN A 134.58.106.4
+pricie.ccl 86400 IN A 134.58.128.16
+ap-chem-1 3600 IN A 134.58.125.202
+lswitch-econ-n13d02 3600 IN A 134.58.120.42
+switch-mech-b2 3600 IN A 10.119.27.3
+pfd 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ups-monitoringcard-cruys 3600 IN A 10.119.34.48
+iptube-kortrijk 86400 IN CNAME iptube-kortrijk.kulnet.kuleuven.be.
+ups-monitoringcard-mech 3600 IN A 10.119.26.50
+acco 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+ups-monitoringcard-mtm 3600 IN A 10.119.12.50
+pswitch-ludit-srv-2 3600 IN A 10.255.0.56
+n26h-switch-01 3600 IN CNAME n26h-switch-01.gbiomed.kuleuven.be.
+n26h-switch-02 3600 IN CNAME n26h-switch-02.gbiomed.kuleuven.be.
+n26h-switch-03 3600 IN CNAME n26h-switch-03.gbiomed.kuleuven.be.
+n26h-switch-04 3600 IN CNAME n26h-switch-04.gbiomed.kuleuven.be.
+ap-arts-bib-1 3600 IN A 134.58.118.92
+ap-arts-bib-2 3600 IN A 134.58.118.93
+ap-arts-bib-3 3600 IN A 134.58.118.94
+ap-arts-bib-4 3600 IN A 134.58.118.95
+ap-arts-bib-5 3600 IN A 134.58.118.132
+ap-arts-bib-6 3600 IN A 134.58.118.133
+ap-arts-bib-7 3600 IN A 134.58.118.134
+ap-arts-bib-8 3600 IN A 134.58.118.135
+ap-arts-bib-9 3600 IN A 134.58.118.136
+ap-aiv-hev-1 3600 IN A 134.58.125.34
+tswitch-icts-1 3600 IN A 10.119.42.45
+tswitch-icts-2 3600 IN A 10.119.42.46
+ap-aiv-hev-2 3600 IN A 134.58.125.36
+ap-europa-0210 3600 IN A 134.58.118.233
+cs 86400 IN NS dns.cs.kuleuven.be.
+86400 IN NS dns-slave1.kulnet.kuleuven.be.
+86400 IN NS dns-slave2.kulnet.kuleuven.be.
+achg 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+pswitch-law-a 86400 IN A 10.119.16.46
+bb-ludit-cw 86400 IN A 192.168.15.253
+ap-fys-1 3600 IN A 134.58.125.225
+ap1200-kulnet 3600 IN A 134.58.125.2
+n19d-switch-01 3600 IN CNAME n19d-switch-01.gbiomed.kuleuven.be.
+ups-monitoringcard-on2 3600 IN A 10.119.6.113
+lrswitch-sap 3600 IN A 134.58.119.85
+bsc-switch-01 3600 IN CNAME bsc-switch-01.med.kuleuven.be.
+lswitch-theo-mtc-n08b-1 3600 IN A 134.58.121.58
+lswitch-cbib-11 3600 IN CNAME lswitch-cbib-11.bib.kuleuven.be.
+lswitch-pcklas-ludit6 3600 IN A 134.58.121.133
+lrswitch-ludit-telefonie-1 3600 IN A 10.119.1.196
+lrswitch-ludit-telefonie-2 3600 IN A 10.119.1.195
+n22c-switch-10 3600 IN CNAME n22c-switch-10.gbiomed.kuleuven.be.
+cme-switch-07 3600 IN CNAME cme-switch-07.med.kuleuven.be.
+n18o-switch-01 3600 IN CNAME n18o-switch-01.gbiomed.kuleuven.be.
+n18o-switch-02 3600 IN CNAME n18o-switch-02.gbiomed.kuleuven.be.
+mrv-rack-ludit 86400 IN A 134.58.125.102
+ap-socbib-1 3600 IN A 134.58.125.123
+n19e-switch-17 3600 IN CNAME n19e-switch-17.gbiomed.kuleuven.be.
+pswitch-arts 3600 IN A 10.255.0.23
+pswitch-cruysberghs-a 3600 IN A 10.119.34.8
+lswitch-pel 86400 IN A 10.120.232.1
+ap-bibhiw-2 3600 IN A 134.58.125.215
+ppw 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+esat 86400 IN NS dns.esat.kuleuven.be.
+86400 IN NS ns1.esat.kuleuven.be.
+86400 IN NS ns2.esat.kuleuven.be.
+86400 IN NS gwt-p-esat1.icts.kuleuven.be.
+esat 86400 IN DS 18391 8 1 73b0da6d542c2dae0044c3adf9a47f04b6a9f7a5
+86400 IN DS 18391 8 2 7147c4ed245ff13e87d16754252a0cba9bc293acad87176738856ffce2710741
+odis 86400 IN CNAME odis.kadoc
+bswitch-ghb 3600 IN A 10.255.0.2
+kulak-a3-cs1 3600 IN CNAME kulak-a3-cs1.kulak.be.
+kulak-a3-cs2 3600 IN CNAME kulak-a3-cs2.kulak.be.
+kulak-a3-cs3 3600 IN CNAME kulak-a3-cs3.kulak.be.
+kulak-a3-cs4 3600 IN CNAME kulak-a3-cs4.kulak.be.
+kulak-a3-cs5 3600 IN CNAME kulak-a3-cs5.kulak.be.
+pswitch-cw 3600 IN A 10.255.0.25
+n10b-switch-02 3600 IN CNAME n10b-switch-02.gbiomed.kuleuven.be.
+n22f-switch-09 3600 IN CNAME n22f-switch-09.gbiomed.kuleuven.be.
+ap-pangaea 3600 IN A 134.58.118.99
+psy 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+n22f-switch-01 3600 IN CNAME n22f-switch-01.gbiomed.kuleuven.be.
+n22f-switch-02 3600 IN CNAME n22f-switch-02.gbiomed.kuleuven.be.
+n22f-switch-03 3600 IN CNAME n22f-switch-03.gbiomed.kuleuven.be.
+n22f-switch-04 3600 IN CNAME n22f-switch-04.gbiomed.kuleuven.be.
+n22f-switch-05 3600 IN CNAME n22f-switch-05.gbiomed.kuleuven.be.
+n22f-switch-06 3600 IN CNAME n22f-switch-06.gbiomed.kuleuven.be.
+n22f-switch-07 3600 IN CNAME n22f-switch-07.gbiomed.kuleuven.be.
+n22f-switch-08 3600 IN CNAME n22f-switch-08.gbiomed.kuleuven.be.
+ns1.kulnet 86400 IN A 134.58.126.5
+celgen 86400 IN NS dns1.kulnet
+86400 IN NS dns2.kulnet
+switch-mech-b7 3600 IN A 10.119.27.8

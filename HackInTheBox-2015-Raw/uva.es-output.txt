@@ -1,0 +1,1070 @@
+@ 86400 IN SOA ns1 hostmaster 2015042900 3600 7200 86400 7200
+@ 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+@ 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+@ 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+86400 IN NS sun.rediris.es.
+smtp-server.a8 86400 IN CNAME cartero
+mail-server.ieip 86400 IN A 157.88.18.32
+www.posgrados 86400 IN CNAME alojamientos
+www.dbbmf 86400 IN A 217.76.128.220
+pvs 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+pvs 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.aic 86400 IN CNAME albergueweb
+getef 86400 IN CNAME albergueweb
+mail.aedificavit 86400 IN A 185.2.131.127
+conecta 86400 IN A 157.88.37.22
+SEIC09 86400 IN CNAME dali.eis
+ns1.ges 86400 IN A 157.88.17.190
+www.masteria 86400 IN CNAME future.iq.cie
+www.cursoscap 86400 IN CNAME albergueweb
+iice 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+iice 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.sid 86400 IN A 157.88.65.100
+www.catedrabancaja 86400 IN CNAME albergueweb
+www.cristodelaluz 86400 IN CNAME albergueweb
+agriso 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+miportaldeservicios 86400 IN A 157.88.25.153
+manufacturing 86400 IN NS ns1
+86400 IN NS ns2
+smtp-server.ah 86400 IN CNAME cartero
+foro.gui 86400 IN CNAME gui
+www.segovia 86400 IN CNAME albergueweb
+smtp-server.am 86400 IN CNAME cartero
+aulader-gw 86400 IN A 157.88.139.45
+htd 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+htd 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.ieip 86400 IN CNAME cartero
+sedepre 86400 IN A 193.146.18.8
+www.master-agroforestal 86400 IN A 157.88.225.253
+*.ws 86400 IN CNAME 1.ws
+mail-server.pdg 86400 IN A 157.88.18.32
+smtp-server.ea 86400 IN CNAME cartero
+smtp-server.soc 86400 IN CNAME cartero
+www.bioforge 86400 IN A 157.88.202.125
+staff 86400 IN MX 10 uva.1.hurakan.dnsbl.rediris.es.
+86400 IN MX 10 uva.2.hurakan.dnsbl.rediris.es.
+mail-server.gci 86400 IN A 157.88.18.32
+extension.campusvirtual 86400 IN A 157.88.25.151
+politecnica.ma 86400 IN A 157.88.66.40
+www.simposing09 86400 IN CNAME albergueweb
+alfonso8 86400 IN CNAME albergueweb
+m 86400 IN CNAME villacarralon.cpd
+smtp-server.ibgm 86400 IN CNAME cartero
+www.urcomante 86400 IN CNAME albergueweb
+smtp-server.hm 86400 IN CNAME cartero
+etit 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+eio 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+eio 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+sjc 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+sjc 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+sjc 86400 IN A 157.88.26.18
+smtp-server.agro 86400 IN CNAME cartero
+smtp-server.iq 86400 IN CNAME cartero
+ie 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ie 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.cea 86400 IN CNAME albergueweb
+www.mastergyta 86400 IN CNAME future.iq.cie
+mail-server.tradso 86400 IN A 157.88.18.32
+tap 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+tap 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+almena 86400 IN A 157.88.20.47
+smtp-server.sdcs 86400 IN CNAME cartero
+www.iqtma 86400 IN A 157.88.41.72
+feyts 86400 IN NS ns1
+86400 IN NS ns2
+www.cet 86400 IN CNAME albergueweb
+dei1 86400 IN A 157.88.21.40
+www.fachadahistorica 86400 IN CNAME albergueweb
+mail-server.acm 86400 IN CNAME acm
+caronte-sg 86400 IN A 157.88.78.40
+soc 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+soc 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+itbyte 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+itbyte 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.qa 86400 IN CNAME cartero
+directorio 10800 IN A 157.88.25.12
+smtp-server.qf 86400 IN CNAME cartero
+smtp-server.qi 86400 IN CNAME cartero
+ns1.eca-simm 86400 IN A 157.88.123.63
+mail-server.eame 86400 IN A 157.88.18.32
+smtp-server.qo 86400 IN CNAME cartero
+mail-server.agt 86400 IN A 157.88.18.32
+www.epyme 86400 IN A 157.88.204.140
+1.ws 86400 IN A 157.88.18.4
+portafirmas-pre2 86400 IN A 193.146.18.8
+mail-server.aip 86400 IN A 157.88.18.32
+smtp-server.tele 86400 IN CNAME cartero
+sitios 86400 IN CNAME alojamientos
+profiles 86400 IN CNAME albergueweb
+smtp-server.ie 86400 IN CNAME cartero
+www.participauva 86400 IN CNAME albergueweb
+uxxi-oid 86400 IN A 157.88.25.22
+smtp-server.hmca 86400 IN CNAME cartero
+infor 86400 IN NS ns1.dcs.fi
+86400 IN NS ns1
+86400 IN NS ns2.dcs.fi
+86400 IN NS ns2
+mail-server.prmf 86400 IN A 157.88.18.32
+inf 86400 IN NS ns1.inf
+86400 IN NS ns1
+86400 IN NS ns2.inf
+86400 IN NS ns2
+ucs 86400 IN NS ns1
+86400 IN NS ns2
+www.imm4 86400 IN CNAME albergueweb
+rueda.tel 86400 IN A 157.88.128.1
+mail-server.ana 86400 IN A 157.88.18.32
+www.paco 86400 IN A 157.88.65.93
+empso 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+consultasmedicas 86400 IN A 157.88.18.62
+admision 10800 IN A 157.88.25.12
+munduslindo 86400 IN CNAME albergueweb
+mail-server.biocel 86400 IN A 157.88.18.32
+eurl 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS thor.etsiiaa
+ribera.tel 86400 IN A 157.88.129.100
+alfVIII 86400 IN NS ns1
+86400 IN NS ns2
+sso-pruebas 86400 IN A 157.88.18.96
+mail-server.bio 86400 IN A 157.88.18.32
+fuego.latuv 86400 IN CNAME fuego.fa1.cie
+opac 86400 IN NS ns1
+86400 IN NS ns2
+www.doe 86400 IN A 157.88.77.150
+tui 86400 IN CNAME castromonte.cpd
+appsrvweb1 86400 IN CNAME villacarralon.cpd
+eca-simm 86400 IN NS ns1
+86400 IN NS ns1.eca-simm
+86400 IN NS ns2
+mail-server.opt 86400 IN A 157.88.18.32
+agro 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+agro 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.xi_escmatmol 86400 IN CNAME albergueweb
+mala 86400 IN A 127.0.0.1
+virtual 86400 IN NS ns1
+86400 IN NS ns2
+mail-server.sdcs 86400 IN A 157.88.18.32
+www.vsmcgroup 86400 IN A 157.88.213.55
+www.fundacion.jimenez-arellanoalonso 86400 IN CNAME albergueweb
+mail-server.cep 86400 IN A 157.88.18.32
+smtp-server.dce 86400 IN CNAME cartero
+www.eio 86400 IN A 157.88.39.60
+mail-server.cinquima 86400 IN A 157.88.18.32
+cmscf-gw 86400 IN A 157.88.139.44
+mail-server.goa 86400 IN CNAME webmail.grupos
+www.profiles 86400 IN CNAME albergueweb
+innovaciondocente 86400 IN CNAME alojamientos
+airwave 86400 IN A 157.88.18.67
+www.reconocimientomedico 86400 IN CNAME mudarra.cpd
+alberguewebaux 86400 IN A 157.88.26.18
+albergueweb 86400 IN A 157.88.26.18
+www.fotomaraton 86400 IN CNAME albergueweb
+pruebas-noc 86400 IN A 157.88.139.50
+mail-server.cir 86400 IN A 157.88.18.32
+www.rima 86400 IN CNAME albergueweb
+ns1.rectorado 86400 IN A 157.88.18.76
+imm4 86400 IN CNAME albergueweb
+mail-server.dce 86400 IN A 157.88.18.32
+www.nanostructures 86400 IN CNAME albergueweb
+www.epd 86400 IN A 217.76.142.56
+mail-server.dci 86400 IN A 157.88.18.32
+med-gw 86400 IN A 157.88.139.48
+stic 10800 IN A 157.88.25.12
+www5 86400 IN CNAME albergueweb
+smtp-server.autom 86400 IN CNAME cartero
+mail-server.edif 86400 IN A 157.88.18.32
+ordenacionacademica 86400 IN CNAME alojamientos
+smtp-server.prmf 86400 IN CNAME cartero
+smtp-server.u3m 86400 IN CNAME cartero
+ana 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ana 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.inf5g 86400 IN CNAME albergueweb
+smtp-server.htd 86400 IN CNAME cartero
+actres 86400 IN A 157.88.58.140
+vpn 86400 IN NS ns1
+86400 IN NS ns2
+www.universityofvalladolid 86400 IN CNAME www.psc
+totem 86400 IN A 157.88.21.14
+inea 86400 IN NS ns1
+86400 IN NS ns2
+alumnos 86400 IN NS ns1
+86400 IN NS ns2
+www.eui 86400 IN CNAME albergueweb
+www.muitic 86400 IN CNAME muitic.tel
+mail-server.ibgm 86400 IN A 157.88.18.32
+www.gem 86400 IN CNAME albergueweb
+drupal_test.sitios 86400 IN CNAME portillo
+mail-server.dlyl 86400 IN A 157.88.18.32
+mail-server.ie 86400 IN A 157.88.18.32
+smtp-server.flfc 86400 IN CNAME cartero
+buzones.grupos 86400 IN A 157.88.18.48
+mail-server.fa1 86400 IN A 157.88.18.32
+ceitriangular 86400 IN NS ns1
+86400 IN NS ns2
+tita.emp 86400 IN A 157.88.15.190
+smtp-server.ee 86400 IN CNAME cartero
+smtp-server.tradso 86400 IN CNAME cartero
+mail-server.qi 86400 IN A 157.88.18.32
+mail-server.efc 86400 IN A 157.88.18.32
+mail-server.doe 86400 IN A 157.88.18.32
+smtp-server.acm 86400 IN CNAME cartero
+mail-server.ega 86400 IN CNAME iscar.cpd
+metip 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+metip 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.egi 86400 IN CNAME cronos.egi.eup
+eii-week 86400 IN CNAME albergueweb
+www.sjc 86400 IN CNAME albergueweb
+mail-server.isf 86400 IN CNAME isf
+aedificavit 86400 IN MX 10 mail.aedificavit
+aedificavit 86400 IN A 185.2.131.127
+www.badminton 86400 IN A 157.88.6.146
+cartero2 86400 IN A 157.88.18.70
+cartero3 86400 IN A 157.88.18.71
+cartero4 86400 IN A 157.88.18.72
+mail-server.pcuva 86400 IN A 157.88.18.32
+www.clyma 86400 IN A 157.88.193.23
+smtp-server.agt 86400 IN CNAME cartero
+funge 86400 IN NS ns1
+86400 IN NS ns1.funge
+86400 IN NS ns2
+gramola.fyl 86400 IN A 157.88.151.190
+solysalud.latuv 86400 IN CNAME castor.fa1.cie
+smtp-server.aip 86400 IN CNAME cartero
+ns1.idelab 86400 IN A 157.88.130.109
+www.mui-tic 86400 IN CNAME muitic.tel
+mail-server.metip 86400 IN A 157.88.18.32
+eade 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+eade 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+ctri 86400 IN CNAME albergueweb
+eaee 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+eaee 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+eadmon 86400 IN NS ns1.ges
+smtp-server.termo 86400 IN CNAME cartero
+www.src.tel 86400 IN CNAME albergueweb
+www 10800 IN A 157.88.25.12
+grado 86400 IN CNAME www
+smtp-server.ana 86400 IN CNAME cartero
+smtp-server.fing 86400 IN CNAME cartero
+mail-server.ffr 86400 IN CNAME iscar.cpd
+19icsls 86400 IN NS ns1
+86400 IN NS ns2
+smtp-server.lesp 86400 IN CNAME cartero
+blogs 86400 IN CNAME alojamientos
+moodle-uva 86400 IN A 88.84.66.107
+www.gui 86400 IN CNAME gui
+www.soria 86400 IN CNAME albergueweb
+moodle.segovia 86400 IN A 157.88.77.252
+www.iea 86400 IN CNAME albergueweb
+thor.etsiiaa 86400 IN A 157.88.88.190
+www.ftao 86400 IN CNAME albergueweb
+qo 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+qo 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+psc 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+www.ctri 86400 IN CNAME albergueweb
+smtp-server.itbyte 86400 IN CNAME cartero
+smtp-server.iice 86400 IN CNAME cartero
+mail-server.euc 86400 IN A 157.88.18.32
+www.educacionparaeldesarrollo 86400 IN CNAME www.epd
+smtp-server.bio 86400 IN CNAME cartero
+correo-aux 86400 IN A 157.88.18.140
+eame 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+eame 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+automatica2009 86400 IN A 157.88.70.250
+www.hpp 86400 IN CNAME alojamientos
+acm 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+acm 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+acm 86400 IN A 157.88.129.177
+mail-server.geo 86400 IN A 157.88.18.32
+edicion 10800 IN A 157.88.25.13
+hm 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+hm 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+edupa 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS thor.etsiiaa
+www.participa 86400 IN CNAME albergueweb
+docentia 86400 IN A 157.88.21.21
+foros 86400 IN CNAME albergueweb
+smtp-server.cep 86400 IN CNAME cartero
+www.cittac 86400 IN CNAME albergueweb
+www.guiacomercial 86400 IN CNAME alojamientos
+edusg 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+mail-server.fta 86400 IN CNAME iscar.cpd
+agt 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+agt 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.eade 86400 IN A 157.88.18.32
+ftp.latuv 86400 IN CNAME ftp.fa1.cie
+eduso 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+www.consigna2 86400 IN CNAME consigna
+smtp-server.latuv 86400 IN CNAME cartero
+www.seec 86400 IN CNAME www.seec.es.
+alojamientos 86400 IN A 157.88.18.50
+www.ipa 86400 IN CNAME alojamientos
+aip 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+aip 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+acmicpc-live-archive 86400 IN CNAME acm
+smtp-server.cir 86400 IN CNAME cartero
+www.educacion 86400 IN A 157.88.196.199
+ctme 86400 IN CNAME ctme.inf
+ges 86400 IN NS ns1.ges
+86400 IN NS ns1
+86400 IN NS ns2
+programastv 86400 IN CNAME albergueweb
+www.getef 86400 IN CNAME cobos2.termo.cie
+proxy 86400 IN CNAME cabezon.cpd
+gci 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+gci 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+correo11 86400 IN A 157.88.18.81
+correo12 86400 IN A 157.88.18.82
+arque 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+smtp-server.dci 86400 IN CNAME cartero
+bcl 86400 IN NS ns1
+86400 IN NS ns2
+www.isf 86400 IN CNAME isf
+www.aprenderpensando 86400 IN CNAME albergueweb
+www.geclidsei 86400 IN CNAME geclidsei
+osce.soria 86400 IN A 157.88.234.13
+imuva 86400 IN CNAME albergueweb
+mail-server.eaee 86400 IN A 157.88.18.32
+tienda.universitaria 86400 IN A 185.2.131.127
+eventos2-gw 86400 IN A 157.88.139.51
+mail-server.arte 86400 IN A 157.88.18.32
+mail-server.hie 86400 IN A 157.88.18.32
+www.encuestapsicosocial 86400 IN A 157.88.18.62
+www.dlyl 86400 IN CNAME albergueweb
+sdcs 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+sdcs 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+infomat 86400 IN CNAME alojamientos
+mail-server.iaf 86400 IN A 157.88.18.32
+bib 86400 IN NS ns1
+86400 IN NS ns2
+cervantes.cta 86400 IN A 157.88.16.126
+www.toxicologia 86400 IN CNAME albergueweb
+sigma 86400 IN NS ns1
+86400 IN NS ns2
+bio 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+bio 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+arq 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+www.mastertpi 86400 IN CNAME itastmain.tel
+aru 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+www.staff 86400 IN CNAME albergueweb
+automatricula 86400 IN CNAME pod
+movil 86400 IN CNAME villacarralon.cpd
+www.5iscepp 86400 IN CNAME rabano.cpd
+participauva 86400 IN CNAME albergueweb
+mail-server.ief 86400 IN A 157.88.18.32
+segovia 86400 IN A 157.88.77.50
+vc 86400 IN NS ns1
+86400 IN NS ns2
+www.itnt 86400 IN CNAME itastmain.tel
+iberfora 86400 IN A 157.88.126.141
+cde 86400 IN NS ns1
+86400 IN NS ns2
+www.encuestaestudiostecnicos 86400 IN CNAME idefix.eup
+smtp-server.fa1 86400 IN CNAME cartero
+cea 86400 IN CNAME albergueweb
+buzones 86400 IN A 157.88.18.68
+rectorado 86400 IN NS ns1
+86400 IN NS ns1.rectorado
+86400 IN NS ns2
+fisioso 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+cei 86400 IN CNAME albergueweb
+smtp-server.efc 86400 IN CNAME cartero
+cep 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+cep 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.cinquima 86400 IN CNAME cartero
+www.agoras 86400 IN CNAME albergueweb
+cansurez 86400 IN NS ns1
+86400 IN NS ns2
+cet 86400 IN CNAME albergueweb
+smtp-server.ega 86400 IN CNAME cartero
+publicaciones 86400 IN NS ns1
+86400 IN NS ns2
+smtp-server.euepa 86400 IN CNAME cartero
+sede 86400 IN A 193.146.18.8
+www2 86400 IN A 157.88.25.4
+smtp-server.egi 86400 IN CNAME cartero
+mathphys 86400 IN CNAME alojamientos
+mail-server.htd 86400 IN A 157.88.18.32
+cie 86400 IN NS ns1
+86400 IN NS ns2
+pcuva 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+pcuva 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.pau 86400 IN CNAME alojamientos
+smtp-server.fae 86400 IN CNAME cartero
+smtp-server.eio 86400 IN CNAME cartero
+cir 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+cir 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+cursoanterior2.campusvirtual 86400 IN A 157.88.18.91
+dce 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+dce 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+masteriq 86400 IN CNAME alojamientos
+dci 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+dci 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.ventilacion 86400 IN CNAME albergueweb
+blogrector 86400 IN CNAME albergueweb
+auditoria-web 10800 IN A 157.88.58.139
+externos 86400 IN A 157.88.37.21
+smtp-server.ief 86400 IN CNAME cartero
+www.aedificavit 86400 IN A 185.2.131.127
+www.catedradecine 86400 IN CNAME albergueweb
+incidencias 86400 IN CNAME alojamientos
+soporte 86400 IN CNAME alojamientos
+dlyl 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+dlyl 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+registro 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+dep 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+flfc 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+flfc 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+cpd 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+fstudent 86400 IN A 157.88.193.41
+smtp-server.ffr 86400 IN CNAME cartero
+biocomp 86400 IN CNAME www.infor
+smtp-server.libra 86400 IN CNAME cartero
+palencia 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS thor.etsiiaa
+www.innovacioncienciasjuridicas 86400 IN CNAME albergueweb
+www.aumisan 86400 IN CNAME albergueweb
+educasg 86400 IN CNAME ghs.google.com.
+ns1.funge 86400 IN A 157.88.55.24
+csc 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+cta 86400 IN NS ns1
+86400 IN NS ns2
+idelab 86400 IN NS ns1
+86400 IN NS ns1.idelab
+www.pdi 86400 IN CNAME mudarra.cpd
+ns2.inf 86400 IN A 157.88.109.248
+ah 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ah 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.euc 86400 IN CNAME cartero
+am 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+am 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+eupisa 86400 IN A 157.88.70.253
+smtp-server.gci 86400 IN CNAME cartero
+smtp-server.fmc 86400 IN CNAME cartero
+eco 86400 IN NS ns1
+86400 IN NS ns2
+fa1 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+fa1 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.doe 86400 IN CNAME cartero
+correo.grupos 86400 IN A 157.88.18.48
+asepelt 86400 IN CNAME mudarra.cpd
+efc 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+efc 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+cursoanterior.campusvirtual 86400 IN A 157.88.18.90
+doe 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+doe 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+grupos 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+grupos 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+ee 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ee 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.geo 86400 IN CNAME cartero
+ega 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ega 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+caronte-pa 86400 IN A 157.88.94.180
+olimpiadafisica 86400 IN CNAME albergueweb
+egi 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+egi 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+fi 86400 IN NS ns1.fi
+86400 IN NS ns1
+86400 IN NS ns2.fi
+86400 IN NS ns2
+opacs-gw 86400 IN A 157.88.139.43
+investigacion 86400 IN A 157.88.25.152
+mail-server.itbyte 86400 IN A 157.88.18.32
+cerbero 86400 IN CNAME ataquines.cpd
+hcuv 86400 IN NS ns1
+86400 IN NS ns2
+eii 86400 IN NS ns1
+86400 IN NS ns3
+edif 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+edif 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+fae 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+fae 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+archivo-des 86400 IN A 157.88.21.10
+gw 86400 IN NS ns1
+eis 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+smtp-server.fta 86400 IN CNAME cartero
+hu 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+hu 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+agenda 10800 IN CNAME edicion
+iq 86400 IN A 157.88.41.72
+iq 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+iq 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+caronte-so 86400 IN A 157.88.234.8
+master 86400 IN CNAME www
+www.singacom 86400 IN A 157.88.73.109
+ele 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS rueda.tel
+86400 IN NS merlot.tel
+86400 IN NS ribera.tel
+www.pdg.mide 86400 IN A 157.88.77.150
+www.masterls 86400 IN CNAME albergueweb
+www.msf 86400 IN A 157.88.6.146
+mail-server.let 86400 IN A 157.88.18.32
+autom 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 ip4:66.84.10.165 include:spf.puc.rediris.es -all"
+autom 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+fed 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+enf 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+emp 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS tita.emp
+smtp-server.goa 86400 IN CNAME cartero
+itunes 86400 IN A 157.88.52.48
+lfa.mobivap 86400 IN A 157.88.193.20
+mail-server.lia 86400 IN CNAME iscar.cpd
+miportal 10800 IN A 157.88.25.12
+moodle.gui 86400 IN CNAME gui
+ffr 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ffr 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.mac 86400 IN CNAME iscar.cpd
+minerva 86400 IN CNAME albergueweb
+mail-server.maf 86400 IN A 157.88.18.32
+archivo.cetie 86400 IN CNAME troya.cetie
+mail-server.tele 86400 IN A 157.88.18.32
+qa 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+qa 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.hie 86400 IN CNAME cartero
+qf 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+qf 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+qi 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+qi 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.bioforge 86400 IN CNAME dali.eis
+smtp-server.iaf 86400 IN CNAME cartero
+www.ingenieriainformatica 86400 IN CNAME albergueweb
+mail-server.autom 86400 IN CNAME iscar.cpd
+euc 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+euc 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+telenet 86400 IN CNAME telenet.fa1.cie
+eui 86400 IN NS ns1
+86400 IN NS ns2
+fmc 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+fmc 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.cetie 86400 IN CNAME troya.cetie
+mail-server.hmca 86400 IN A 157.88.18.32
+eup 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+portafirmas-pre 86400 IN A 193.146.18.8
+gee 86400 IN NS ns1
+86400 IN NS ns2
+cerbero2 86400 IN A 157.88.18.180
+ut 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+geo 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+geo 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+e-commerce 86400 IN CNAME bazaar.dcs.fi
+cartero1 86400 IN A 157.88.18.69
+bino 86400 IN A 157.88.26.5
+magma.soria 86400 IN A 157.88.231.229
+smtp-server.eaee 86400 IN CNAME cartero
+www.doctorado.ma 86400 IN CNAME politecnica.ma
+mail-server.fae 86400 IN A 157.88.18.32
+www.caelis 86400 IN A 157.88.43.101
+cartero 86400 IN A 157.88.25.16
+mail-server.eio 86400 IN A 157.88.18.32
+cooperacion 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+cooperacion 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.lti 86400 IN A 157.88.18.32
+baal.euisg 86400 IN CNAME baal.eui
+mobivap 86400 IN CNAME mobivap.infor
+www.campusexcelencia 86400 IN CNAME albergueweb
+fta 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+fta 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+master.educasg 86400 IN A 157.88.77.252
+arte 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+arte 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.opt 86400 IN CNAME secre.opt.cie
+centros 10800 IN A 157.88.25.12
+master-calidad-innovacion-alimentos 86400 IN CNAME alojamientos
+localhost 86400 IN A 127.0.0.1
+mail-server.mpc 86400 IN A 157.88.18.32
+correo 86400 IN A 157.88.18.68
+relint 86400 IN NS ns1
+86400 IN NS ns2
+goa 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+goa 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+goa 86400 IN A 157.88.26.18
+online-judge 86400 IN CNAME acm
+tesea 86400 IN CNAME alojamientos
+www.doe.mide 86400 IN A 157.88.77.150
+asoc 86400 IN NS ns1
+86400 IN NS ns2
+termo 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+termo 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.eame 86400 IN CNAME cartero
+www4 86400 IN CNAME mudarra.cpd
+aulasBiblio-gw 86400 IN A 157.88.139.52
+www6 86400 IN A 157.88.25.20
+www7 86400 IN CNAME alojamientos
+cinquima 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+cinquima 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+cinquima 86400 IN A 157.88.18.50
+fyl 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS gramola.fyl
+hie 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+hie 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+evaluacion 86400 IN A 157.88.21.21
+www.ruct 86400 IN CNAME albergueweb
+cdoce 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+iaf 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+iaf 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.isf 86400 IN CNAME cartero
+gsi 86400 IN CNAME alojamientos
+www.empresayempleo 86400 IN CNAME albergueweb
+let 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+let 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+consigna 86400 IN A 157.88.21.8
+biblio 86400 IN CNAME cigales.cpd
+gui 86400 IN A 157.88.58.134
+mail-server.termo 86400 IN A 157.88.18.32
+cidiomas 86400 IN NS ns1
+86400 IN NS ns2
+rsim 86400 IN CNAME alojamientos
+eco2 86400 IN NS ns1
+86400 IN NS ns2
+www.preinsposgrado 86400 IN CNAME alojamientos
+sso 86400 IN A 157.88.25.15
+mail-server.a8 86400 IN CNAME mail-server
+www.aulavirtual.iq 86400 IN CNAME aulavirtual.iq.cie
+www.blogs 86400 IN CNAME alojamientos
+www.orientate 86400 IN CNAME titan.gsic
+test1 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+forest 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+forest 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.smap 86400 IN CNAME antonio.termo.cie
+eventos-gw 86400 IN A 157.88.139.42
+mail-server.paa 86400 IN A 157.88.18.32
+mail-server.u3m 86400 IN CNAME isf
+www.lineas 86400 IN CNAME nostromo.sid.eup
+hpp 86400 IN CNAME alojamientos
+www.fusionportal 86400 IN CNAME albergueweb
+cmscm-gw 86400 IN A 157.88.139.46
+rno6 86400 IN CNAME concha.opt.cie
+mail-server.pat 86400 IN A 157.88.18.32
+idiomas 86400 IN NS ns1
+86400 IN NS ns1.funge
+www.simposing2012 86400 IN CNAME albergueweb
+www.practicasempresa 86400 IN CNAME albergueweb
+mail-server.ah 86400 IN A 157.88.18.32
+www.biomoif 86400 IN CNAME albergueweb
+mail-server.lesp 86400 IN A 157.88.18.32
+mail-server.am 86400 IN A 157.88.18.32
+mail-server.ped 86400 IN A 157.88.18.32
+hcu-gw 86400 IN A 157.88.139.49
+latuv 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+latuv 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.mag 86400 IN CNAME albergueweb
+deportes 10800 IN A 157.88.25.12
+www3 86400 IN CNAME albergueweb
+webmail.aedificavit 86400 IN A 185.2.131.127
+ns2.dcs.fi 86400 IN A 157.88.124.248
+www.cinquima 86400 IN CNAME alojamientos
+mail-server.ea 86400 IN A 157.88.18.32
+www.foros 86400 IN CNAME albergueweb
+mail-server.ee 86400 IN A 157.88.18.32
+ipa 86400 IN CNAME alojamientos
+smtp-server.let 86400 IN CNAME cartero
+tel 86400 IN NS ns1
+86400 IN NS rueda.tel
+86400 IN NS merlot.tel
+86400 IN NS ribera.tel
+smtp-server.eade 86400 IN CNAME cartero
+uvadoc 86400 IN CNAME cerro.cpd
+smtp-server.lia 86400 IN CNAME cartero
+www.consigna 86400 IN CNAME consigna
+mail-server.latuv 86400 IN CNAME correo.fa1.cie
+mail-server.hm 86400 IN A 157.88.18.32
+titan.gsic 86400 IN A 157.88.130.199
+smtp-server.mac 86400 IN CNAME cartero
+isf 86400 IN A 157.88.50.12
+smtp-server.maf 86400 IN CNAME cartero
+participa 86400 IN CNAME albergueweb
+mail-server.iq 86400 IN A 157.88.18.32
+smtp-server.edif 86400 IN CNAME cartero
+eduroam-cat 86400 IN A 192.168.6.1
+iqtma 86400 IN A 157.88.41.77
+mbidi 86400 IN CNAME mbidi.infor
+gsic 86400 IN NS ns1
+86400 IN NS titan.gsic
+86400 IN NS merlot.tel
+86400 IN NS begonia.uib.no.
+a8 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+a8 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+ns1.inf 86400 IN A 157.88.109.249
+ldap 10800 IN A 157.88.25.9
+www.imuva 86400 IN CNAME albergueweb
+cmendoza 86400 IN NS ns1
+86400 IN NS ns2
+der 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS botijas.der
+smav 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+merlot.tel 86400 IN A 157.88.129.90
+uva-wifi 86400 IN A 192.168.4.1
+maroc.latuv 86400 IN CNAME latuv1.fa1.cie
+mail-server.qa 86400 IN A 157.88.18.32
+campusexcelencia 86400 IN CNAME albergueweb
+mail-server.psi 86400 IN CNAME iscar.cpd
+mail-server.qf 86400 IN A 157.88.18.32
+www.greidi 86400 IN A 157.88.65.93
+mail-server.qo 86400 IN A 157.88.18.32
+euepa 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+euepa 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+psi 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+psi 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.dlyl 86400 IN CNAME cartero
+campusvirtual2013 86400 IN A 157.88.25.28
+etsiiaa 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS thor.etsiiaa
+caronte-001 86400 IN CNAME caronte-001.cpd
+caronte-002 86400 IN CNAME caronte-001.cpd
+smtp-server.lti 86400 IN CNAME cartero
+ibgm 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ibgm 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.pvs 86400 IN A 157.88.18.32
+ccmapp 86400 IN A 157.88.58.171
+www.traduccion-franciscanos 86400 IN CNAME albergueweb
+*.almena 86400 IN A 157.88.20.47
+troya.cetie 86400 IN A 157.88.196.27
+smtp-server.bioforge 86400 IN CNAME cartero
+canalInfor-gw 86400 IN A 157.88.58.155
+ns1.fi 86400 IN A 157.88.109.249
+www.apuntes 86400 IN CNAME albergueweb
+mail-server.euepa 86400 IN A 157.88.18.32
+smtp-server.mpc 86400 IN CNAME cartero
+www.opencms 86400 IN CNAME alojamientos
+mail-server.fing 86400 IN A 157.88.18.32
+www.au 86400 IN CNAME albergueweb
+erica 86400 IN A 212.183.202.228
+lia 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+lia 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.extensionycultura 86400 IN A 94.76.208.19
+mac 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+mac 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+maf 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+maf 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+libra 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+libra 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+sede2 86400 IN A 193.146.18.8
+www.icors11 86400 IN CNAME albergueweb
+mail-server.iice 86400 IN CNAME iscar.cpd
+mat 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+www.sys 86400 IN CNAME www2.fa1.cie
+smtp-server 86400 IN CNAME cartero
+www.jute2013 86400 IN CNAME troya.cetie
+*.sitios 86400 IN CNAME alojamientos
+med 86400 IN NS ns1
+86400 IN NS ns2
+ns2.fi 86400 IN A 157.88.109.248
+www.jirsme 86400 IN CNAME albergueweb
+alberguebd 86400 IN A 157.88.26.19
+www.ingenieromecanico 86400 IN A 157.88.64.191
+campusvirtual 86400 IN A 157.88.25.28
+hmca 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+hmca 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+radius2 86400 IN A 157.88.18.195
+eduvalab 86400 IN A 157.88.130.109
+mail-server.sjc 86400 IN A 157.88.18.32
+mail-server.libra 86400 IN A 157.88.18.32
+premiosmichelin_eii 86400 IN CNAME albergueweb
+www.ma 86400 IN CNAME politecnica.ma
+mail-server.tap 86400 IN CNAME iscar.cpd
+colegiomayorsantacruz 86400 IN CNAME albergueweb
+smtp-server.paa 86400 IN CNAME cartero
+www.tpqybq 86400 IN CNAME alojamientos
+webmail.grupos 86400 IN A 157.88.18.75
+www.IBBI08 86400 IN A 157.88.190.205
+radioclub 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+radioclub 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mx8-dsoto.wireless 86400 IN A 192.168.66.1
+lti 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+lti 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+gente 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+smtp-server.pat 86400 IN CNAME cartero
+citaprevia 86400 IN CNAME alojamientos
+mail-server.soc 86400 IN A 157.88.18.32
+www.innovaciondocente 86400 IN CNAME alojamientos
+departamentos 10800 IN A 157.88.25.12
+videowall.segovia 86400 IN A 157.88.77.248
+smtp-server.pdg 86400 IN CNAME cartero
+smtp-server.ped 86400 IN CNAME cartero
+docencia.soria 86400 IN A 157.88.234.16
+arcadia 86400 IN NS ns1
+86400 IN NS ns2
+www.latuv 86400 IN CNAME latuv1.fa1.cie
+ns1.dcs.fi 86400 IN A 157.88.124.249
+net 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+mpc 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+mpc 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+video 86400 IN A 157.88.24.1
+mail-server.flfc 86400 IN A 157.88.18.32
+tele 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+tele 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+uvaeconomico 86400 IN A 157.88.25.154
+smtp-server.opt 86400 IN CNAME cartero
+economico 86400 IN A 157.88.25.150
+campeonatos2011 86400 IN CNAME campeonato2011.blogs
+botijas.der 86400 IN A 157.88.48.189
+revistas 86400 IN CNAME otero.cpd
+trs 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+buendia 86400 IN NS ns1
+86400 IN NS ns2
+86400 IN NS ns3
+tpqybq 86400 IN CNAME alojamientos
+www.iq 86400 IN A 157.88.41.77
+masterls 86400 IN CNAME albergueweb
+podesa 86400 IN A 157.88.21.6
+www.bhsc 86400 IN CNAME gaia.dcs.fi
+comunicacion 10800 IN A 157.88.25.12
+tfa.etit 86400 IN CNAME cawdor.fa2.etit
+*.blogs 86400 IN CNAME alojamientos
+mediateca 86400 IN CNAME albergueweb
+radius1 86400 IN A 157.88.18.194
+ief 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ief 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+ns1 86400 IN A 157.88.18.190
+ns2 86400 IN A 157.88.18.189
+ns3 86400 IN A 157.88.200.33
+maf-linux.arq 86400 IN CNAME www.singacom
+www.eduvalab 86400 IN CNAME eduvalab
+ieip 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ieip 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.ieip 86400 IN CNAME albergueweb
+biocel 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+biocel 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server.fmc 86400 IN CNAME iscar.cpd
+smtp-server.arte 86400 IN CNAME cartero
+sitim 86400 IN A 157.88.131.61
+legua.soria 86400 IN A 157.88.231.87
+edificiolucia 86400 IN CNAME albergueweb
+defensor 86400 IN NS ns1
+86400 IN NS ns2
+oecim 86400 IN NS ns1
+86400 IN NS ns2
+www.congresoaufop2012 86400 IN CNAME troya.cetie
+uxxi-sso 86400 IN A 157.88.25.21
+www.adde 86400 IN CNAME albergueweb
+biblioteca 10800 IN A 157.88.25.12
+webmail 86400 IN A 157.88.18.73
+ife 86400 IN NS ns1
+86400 IN NS ns2
+paa 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+paa 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+mail-server 86400 IN A 157.88.18.32
+prisma 86400 IN A 157.88.21.5
+prmf 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+prmf 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+smtp-server.psi 86400 IN CNAME cartero
+ciber 86400 IN CNAME servidor-lcd.eis
+smtp-server.pcuva 86400 IN CNAME cartero
+pat 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+pat 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+pau 86400 IN CNAME alojamientos
+encuentrotopologia2014 86400 IN CNAME alojamientos
+ntp 86400 IN CNAME simancas.cpd
+educacionpalencia 86400 IN CNAME albergueweb
+audiovisuales 10800 IN A 157.88.25.12
+pdg 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+pdg 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.muva 86400 IN CNAME albergueweb
+smtp-server.metip 86400 IN CNAME cartero
+ped 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ped 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+termoweb 86400 IN A 157.88.35.105
+www.nanoestructuras 86400 IN CNAME albergueweb
+smtp-server.pvs 86400 IN CNAME cartero
+intranet 10800 IN A 157.88.25.4
+smtp-server.biocel 86400 IN CNAME cartero
+mail-server.agro 86400 IN CNAME iscar.cpd
+opt 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+opt 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.traduccion-monacal 86400 IN CNAME mudarra.cpd
+portafirmas 86400 IN A 193.146.18.8
+geclidsei 86400 IN A 157.88.130.109
+uap-controller 86400 IN A 192.168.192.3
+ingenieriainformatica 86400 IN CNAME albergueweb
+ea 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+ea 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+piu 86400 IN NS ns1
+86400 IN NS ns2
+parquecientifico 86400 IN NS ns1
+www.upmillansantos 86400 IN A 94.76.208.19
+pasarela 86400 IN A 157.88.18.44
+www.pdg 86400 IN A 157.88.77.150
+tradso 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+tradso 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+www.posgrado 86400 IN CNAME alojamientos
+fasfe14 86400 IN CNAME alojamientos
+pod 86400 IN A 157.88.21.47
+www.termo 86400 IN A 157.88.40.62
+olimpiadasfisica 86400 IN CNAME albergueweb
+bioforge 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+bioforge 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+bioforge 86400 IN A 157.88.202.125
+a8-gw 86400 IN A 157.88.139.41
+gradoenestadistica 86400 IN CNAME www.eio
+smtp-server.sid 86400 IN CNAME cartero
+autilla 86400 IN A 87.111.221.9
+www.mediateca 86400 IN CNAME albergueweb
+prl 86400 IN NS ns1
+86400 IN NS ns2
+www.gir-tadrus 86400 IN A 157.88.225.253
+smtp-server.sjc 86400 IN CNAME cartero
+alojamientosaux 86400 IN A 157.88.18.50
+trabajosocial 86400 IN CNAME alojamientos
+pru 86400 IN NS ns1
+smtp-server.tap 86400 IN CNAME cartero
+hppg 86400 IN CNAME alojamientos
+muva 86400 IN NS ns1
+86400 IN NS ns2
+fing 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+fing 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.
+fachadahistorica 86400 IN CNAME albergueweb
+lesp 86400 IN TXT "v=spf1 ip4:157.88.0.0/16 include:spf.puc.rediris.es -all"
+lesp 86400 IN MX 10 mx01.puc.rediris.es.
+86400 IN MX 10 mx02.puc.rediris.es.

@@ -1,0 +1,41 @@
+@ 3200 IN SOA ns1 kyre68.hotmail.com. 28 259200 900 604800 86400
+@ 3200 IN NS ns1
+3200 IN NS ns2
+@ 3200 IN MX 10 mail
+@ 3200 IN TXT "v=spf1 ip4:200.105.139.38 ip4:200.105.139.6 ip4:200.105.139.36 mx a:mail.ucbcba.edu.bo a:pcmonitor.ucbcba.edu.bo a:mailback.ucbcba.edu.bo mx:mail.ucbcba.edu.bo mx:pcmonitor.ucbcba.edu.bo mx:mailback.ucbcba.edu.bo ~all"
+labos 3200 IN A 200.105.139.52
+ns1 3200 IN A 200.105.139.2
+ns2 3200 IN A 200.105.139.3
+smtp1 3200 IN CNAME mailback
+gw 3200 IN A 200.105.139.1
+dsi 3200 IN CNAME pcmonitor
+ucbvirtual 3200 IN A 200.105.139.78
+firewall 3200 IN A 200.105.139.4
+siaa2 3200 IN A 200.105.139.46
+fw1 3200 IN CNAME firewall
+fw2 3200 IN CNAME firewall2
+estudiantes 3200 IN CNAME mail
+radio 3200 IN A 200.105.139.68
+ucbsun2 3200 IN CNAME www
+mail 3200 IN A 200.105.139.38
+mail 3200 IN TXT "v=spf1 a ~all"
+ucbwifi 3200 IN A 200.105.139.50
+mailback 3200 IN A 200.105.139.36
+firewall2 3200 IN A 200.105.139.8
+ingenieria 3200 IN A 200.105.139.66
+ucbsun3 3200 IN A 200.105.139.42
+ucbconocimiento 3200 IN A 200.105.139.70
+postgrado 3200 IN CNAME ucbvirtual
+www 3200 IN A 200.105.139.34
+gnumirror 3200 IN CNAME labos
+pcmonitor 3200 IN A 200.105.139.6
+pcmonitor 3200 IN MX 8 pcmonitor
+vmserver21 3200 IN A 200.105.139.48
+posgradowifi 3200 IN A 190.181.39.5
+wifiucb 3200 IN A 200.105.139.51
+pregradovirtual 3200 IN A 200.105.139.44
+ucbwiki 3200 IN CNAME ucbconocimiento
+lacato 3200 IN CNAME ucbvirtual
+smtp 3200 IN CNAME mail
+colegios 3200 IN CNAME ucbvirtual
+siaa 3200 IN A 200.105.139.40

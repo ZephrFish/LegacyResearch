@@ -1,0 +1,89 @@
+@ 604800 IN SOA ousv root 2015031402 10800 3600 604800 86400
+@ 604800 IN NS ousv01
+604800 IN NS ousv02
+604800 IN NS dns-x.sinet.ad.jp.
+@ 604800 IN TXT "v=spf1 include:spf01.secure-premium.ne.jp -all"
+@ 604800 IN MX 10 mx1.secure-premium.ne.jp.
+604800 IN MX 10 mx2.secure-premium.ne.jp.
+604800 IN MX 10 mx3.secure-premium.ne.jp.
+arm01 604800 IN A 202.246.132.3
+msoid.ug 604800 IN CNAME clientconfig.microsoftonline-p.net.
+proxy-ccn 604800 IN A 202.246.128.26
+ug 604800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ug 604800 IN MX 0 ug-kobecufs-ac-jp01i.mail.protection.outlook.com.
+KCNET 604800 IN A 202.246.128.0
+autodiscover.inst 604800 IN CNAME autodiscover.outlook.com.
+nr 604800 IN MX 0 arm01
+webmail 604800 IN A 27.34.170.219
+ns1 604800 IN CNAME ousv01
+ns2 604800 IN CNAME ousv02
+msoid.gs 604800 IN CNAME clientconfig.microsoftonline-p.net.
+ousv02 604800 IN A 202.246.136.34
+ikimono-map 604800 IN A 202.246.131.102
+gs 604800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+gs 604800 IN MX 0 gs-kobecufs-ac-jp01i.mail.protection.outlook.com.
+gw 604800 IN A 202.246.132.1
+instgw3 604800 IN MX 0 instgw3
+instgw3 604800 IN A 202.246.131.162
+transform 604800 IN A 54.65.47.104
+idp01 604800 IN A 202.246.136.23
+idp02 604800 IN A 202.246.136.24
+instmailsv.inst 604800 IN CNAME insv
+commons-p 604800 IN A 202.246.131.103
+adm 604800 IN TXT "v=spf1 include:spf01.secure-premium.ne.jp -all"
+adm 604800 IN MX 10 mx1.secure-premium.ne.jp.
+604800 IN MX 10 mx2.secure-premium.ne.jp.
+604800 IN MX 10 mx3.secure-premium.ne.jp.
+instg 604800 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+instg 604800 IN MX 0 instg-kobecufs-ac-jp02e.mail.protection.outlook.com.
+proxysv.inst 604800 IN CNAME cache
+web02 604800 IN A 202.246.136.26
+idp 604800 IN CNAME idp.mh
+officegw.office 604800 IN CNAME insv
+cac01 604800 IN A 202.246.136.21
+cac02 604800 IN A 202.246.136.22
+mail 604800 IN CNAME webmail
+mail.gs 604800 IN CNAME ghs.google.com.
+unipa-web 604800 IN CNAME unipa-web.mh
+KOBE-ACNS 604800 IN A 202.246.128.10
+autodiscover.ug 604800 IN CNAME autodiscover.outlook.com.
+autodiscover.gs 604800 IN CNAME autodiscover.outlook.com.
+insv.inst 604800 IN CNAME insv
+lib 604800 IN MX 0 kobe-acns
+msoid.instg 604800 IN CNAME clientconfig.microsoftonline-p.net.
+athena.inst 604800 IN CNAME insv
+drs01 604800 IN A 202.246.132.4
+insv.office 604800 IN CNAME insv
+ftp3 604800 IN CNAME insv
+inst 604800 IN TXT "v=spf1 include:spf01.secure-premium.ne.jp -all"
+inst 604800 IN MX 10 mx1.secure-premium.ne.jp.
+604800 IN MX 10 mx2.secure-premium.ne.jp.
+604800 IN MX 10 mx3.secure-premium.ne.jp.
+proxysv.office 604800 IN CNAME cache
+mail.instg 604800 IN CNAME ghs.google.com.
+insv.ug 604800 IN CNAME insv
+ousv01 604800 IN A 202.246.136.33
+mh1 604800 IN A 202.246.132.33
+mh2 604800 IN A 113.38.246.254
+ftp 604800 IN CNAME insv
+cache 604800 IN A 202.246.136.14
+www 604800 IN CNAME www.mh
+insv 604800 IN A 202.246.131.10
+insvgw 604800 IN A 202.246.132.1
+office 604800 IN TXT "v=spf1 include:spf01.secure-premium.ne.jp -all"
+office 604800 IN MX 10 mx1.secure-premium.ne.jp.
+604800 IN MX 10 mx2.secure-premium.ne.jp.
+604800 IN MX 10 mx3.secure-premium.ne.jp.
+streaming 604800 IN A 54.65.33.139
+mail.ug 604800 IN CNAME ghs.google.com.
+instgw.inst 604800 IN CNAME insv
+proxy-muni 604800 IN A 202.246.128.18
+mh 604800 IN TXT "MS=ms52980879"
+mh 604800 IN NS mh1
+604800 IN NS mh2
+mailsv1 604800 IN CNAME insv
+timesv 604800 IN CNAME ousv01
+namesv1 604800 IN CNAME ousv01
+namesv2 604800 IN CNAME ousv02
+web01 604800 IN A 202.246.136.25
+uggw.ug 604800 IN CNAME insv

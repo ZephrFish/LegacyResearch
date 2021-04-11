@@ -1,0 +1,7 @@
+@ 86400 IN SOA ns3.salenames.ru. noc.salenames.ru. 2015041802 10800 3600 3600000 86400
+@ 86400 IN A 91.195.241.86
+@ 86400 IN MX 10 148.240.4.32.
+86400 IN MX 100 148.240.4.32.
+@ 86400 IN NS ns3.salenames.ru.
+86400 IN NS ns4.salenames.ru.
+* 86400 IN A 91.195.241.86

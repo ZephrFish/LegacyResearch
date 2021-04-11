@@ -1,0 +1,40 @@
+@ 3600 IN SOA ns root 2013102732 3600 1800 604800 10800
+@ 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS ns3
+@ 3600 IN A 178.49.132.78
+@ 3600 IN MX 10 mx2
+3600 IN MX 15 mx
+@ 3600 IN TXT "v=spf1 a:mx2.nsau.edu.ru -all"
+@ 3600 IN SPF "v=spf1 a:mx2.nsau.edu.ru -all"
+libserv 3600 IN A 81.1.217.167
+ns1 3600 IN A 178.49.132.79
+ns2 3600 IN A 81.1.217.167
+ns3 3600 IN A 178.49.137.174
+vetmed 3600 IN CNAME vetfac
+vetfak 3600 IN CNAME vetfac
+cms 3600 IN CNAME www
+vetfac 3600 IN A 178.49.132.78
+vetfac 3600 IN MX 10 mx2
+3600 IN MX 15 mx
+bulletin 3600 IN A 178.49.132.78
+b2 3600 IN TXT "v=spf1 a:mx3.nsau.edu.ru -all"
+b2 3600 IN SPF "v=spf1 a:mx3.nsau.edu.ru -all"
+ee 3600 IN A 81.1.217.167
+stvideo 3600 IN A 81.1.217.168
+ko 3600 IN A 178.49.132.78
+lib 3600 IN CNAME libserv
+biti 3600 IN A 81.1.217.167
+stat 3600 IN CNAME www1
+mx 3600 IN A 178.49.137.173
+www.vetfac 3600 IN A 178.49.132.78
+www 3600 IN A 178.49.132.78
+ns 3600 IN A 178.49.132.79
+marcweb 3600 IN A 81.1.217.167
+www1 3600 IN CNAME ns
+mx2 3600 IN A 81.1.217.166
+portal 3600 IN A 178.49.132.78
+www2 3600 IN A 178.49.132.78
+etc 3600 IN A 81.1.217.167
+rm 3600 IN A 81.1.217.167
+izop 3600 IN A 178.49.132.78

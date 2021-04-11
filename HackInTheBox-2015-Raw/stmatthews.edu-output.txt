@@ -1,0 +1,134 @@
+@ 172800 IN SOA ns1 root 200803381 10800 3600 604800 86400
+@ 172800 IN NS ns1
+172800 IN NS mail
+@ 172800 IN MX 10 ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+172800 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+172800 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+@ 172800 IN A 216.53.203.98
+@ 172800 IN TXT "v=spf1 include:_spf.google.com ~all"
+172800 IN TXT "v=spf1 a mx ip4:216.27.20.130 ip4:216.53.203.98 ip4:216.53.203.73/29 ~all"
+lms.vet 14400 IN CNAME stmatthvet.remote-learner.net.
+jabber 172800 IN A 66.194.203.130
+med-forum 172800 IN A 216.53.203.98
+helpdesk 172800 IN A 216.53.203.98
+bugs 172800 IN A 216.53.203.98
+md2019 172800 IN MX 10 armada.smucayman.COM.
+timeclock 172800 IN A 216.53.203.98
+information 172800 IN A 216.53.203.98
+md2000 172800 IN MX 10 armada.smucayman.COM.
+md2001 172800 IN MX 10 armada.smucayman.COM.
+md2002 172800 IN MX 10 armada.smucayman.COM.
+md2003 172800 IN MX 10 armada.smucayman.COM.
+md2004 172800 IN MX 10 armada.smucayman.COM.
+md2005 172800 IN MX 10 armada.smucayman.COM.
+md2006 172800 IN MX 10 armada.smucayman.COM.
+md2007 172800 IN MX 10 armada.smucayman.COM.
+md2008 172800 IN MX 10 armada.smucayman.COM.
+md2009 172800 IN MX 10 armada.smucayman.COM.
+md2011 172800 IN MX 10 armada.smucayman.COM.
+md2012 172800 IN MX 10 armada.smucayman.COM.
+md2013 172800 IN MX 10 armada.smucayman.COM.
+md2014 172800 IN MX 10 armada.smucayman.COM.
+md2015 172800 IN MX 10 armada.smucayman.COM.
+md2016 172800 IN MX 10 armada.smucayman.COM.
+md2017 172800 IN MX 10 armada.smucayman.COM.
+md2018 172800 IN MX 10 armada.smucayman.COM.
+md2020 172800 IN MX 10 armada.smucayman.COM.
+md2021 172800 IN MX 10 armada.smucayman.COM.
+vmd2004 172800 IN MX 10 armada.smucayman.COM.
+vmd2006 172800 IN MX 10 armada.smucayman.COM.
+saml 172800 IN A 216.53.203.98
+med 172800 IN MX 10 ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+172800 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+172800 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+p 172800 IN A 216.53.203.98
+lms 14400 IN CNAME stmatth.remote-learner.net.
+vet-forum 172800 IN A 216.53.203.98
+vmd2010 172800 IN MX 10 armada.smucayman.COM.
+applications 172800 IN A 216.53.203.98
+library 172800 IN A 216.53.203.98
+_xmpp-server._tcp 172800 IN SRV 0 0 5269 jabber
+md1997 172800 IN MX 10 armada.smucayman.COM.
+md1998 172800 IN MX 10 armada.smucayman.COM.
+md1999 172800 IN MX 10 armada.smucayman.COM.
+calendar 172800 IN CNAME ghs.googlehosted.COM.
+vmd2020 172800 IN MX 10 armada.smucayman.COM.
+armada 172800 IN A 216.53.203.75
+google._domainkey 172800 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpPG/DD/tSh9VktcBHwcjlF9W0wgWdxqOn3jsml3xY1d868TzW82nX41WjG+7q63ri0dlCG+vwO2i9mqpfptu6qaYQxPsmqYDu9ksEERKu0bUkzuSJLlOAqZafuJdM7UV5oiKZb5FVbLqVIVA/KD4vHwmNXPl5zTiMmGqoWfUkwIDAQAB"
+_jabber._tcp 172800 IN SRV 0 0 5269 jabber
+new 172800 IN A 216.53.203.98
+clicks 172800 IN A 216.27.8.44
+facebook 172800 IN A 216.53.203.98
+gmail 172800 IN CNAME ghs.googlehosted.COM.
+office 172800 IN A 66.194.203.130
+mail2 172800 IN A 216.53.203.98
+sites 172800 IN CNAME ghs.googlehosted.COM.
+ns1 172800 IN A 216.53.203.75
+ns2 172800 IN A 216.53.203.78
+aliasmail 172800 IN MX 10 ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+172800 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+172800 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+aliasmail 172800 IN A 216.53.203.98
+linkedin 172800 IN A 216.53.203.98
+groups 172800 IN CNAME ghs.googlehosted.COM.
+mail 172800 IN A 216.53.203.78
+preceptor-evals 172800 IN CNAME ghs.googlehosted.COM.
+joomla 172800 IN A 216.53.203.98
+ilo1 172800 IN A 216.53.203.11
+vet 172800 IN MX 10 ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT1.ASPMX.L.GOOGLE.COM.
+172800 IN MX 20 ALT2.ASPMX.L.GOOGLE.COM.
+172800 IN MX 30 ASPMX2.GOOGLEMAIL.COM.
+172800 IN MX 30 ASPMX3.GOOGLEMAIL.COM.
+smuonline 172800 IN A 216.53.203.98
+vmd2000 172800 IN MX 10 armada.smucayman.COM.
+vmd2001 172800 IN MX 10 armada.smucayman.COM.
+vmd2002 172800 IN MX 10 armada.smucayman.COM.
+vmd2003 172800 IN MX 10 armada.smucayman.COM.
+alumni 172800 IN MX 10 armada.smucayman.COM.
+alumni 172800 IN A 216.53.203.98
+vmd2005 172800 IN MX 10 armada.smucayman.COM.
+mercury 172800 IN MX 10 mercury
+mercury 172800 IN A 66.194.203.130
+vmd2007 172800 IN MX 10 armada.smucayman.COM.
+vmd2008 172800 IN MX 10 armada.smucayman.COM.
+vmd2009 172800 IN MX 10 armada.smucayman.COM.
+vmd2011 172800 IN MX 10 armada.smucayman.COM.
+vmd2012 172800 IN MX 10 armada.smucayman.COM.
+vmd2013 172800 IN MX 10 armada.smucayman.COM.
+vmd2014 172800 IN MX 10 armada.smucayman.COM.
+vmd2015 172800 IN MX 10 armada.smucayman.COM.
+vmd2016 172800 IN MX 10 armada.smucayman.COM.
+vmd2017 172800 IN MX 10 armada.smucayman.COM.
+vmd2018 172800 IN MX 10 armada.smucayman.COM.
+vmd2019 172800 IN MX 10 armada.smucayman.COM.
+vmd2021 172800 IN MX 10 armada.smucayman.COM.
+phoenix 172800 IN A 216.53.203.77
+phoenix3 172800 IN A 216.53.203.98
+phoenix_dev 172800 IN A 216.53.203.98
+besx 172800 IN A 66.194.203.130
+orl 172800 IN A 66.194.203.130
+students 172800 IN MX 10 armada.smucayman.COM.
+students 172800 IN A 216.53.203.98
+vet.stmatthews._domainkey 172800 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5P648xKw1jdx297SrvSLFK/D3xYZEFcm6M2WR1llHjZSY6pAOFZ+eR2YRNU1alkXKtZxr6GFjoAYdPTP7rQGFD8cqnWnkfYJGU2DhCWhitFL8p3/0lEeB1s1Wm2BFb/ZZ60A+oFD/1MucTrlr4/jH7aIioQob87vfjvb7+FHZmwIDAQAB"
+orlando 172800 IN A 66.194.203.130
+lmsvet 14400 IN CNAME stmatthvet.remote-learner.net.
+images 172800 IN A 216.27.8.44
+vmd1998 172800 IN MX 10 armada.smucayman.COM.
+vmd1999 172800 IN MX 10 armada.smucayman.COM.
+med.stmatthews._domainkey 172800 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCEr7BNWnipD8WcMLJOuvUNgba6+YYj9vXJd2PYv5dInXJo8IW8m65+EkJHs6nozLzgcfkUHbyXv3f4SpMregiS+IiHVvfPY/05Soaij18U+ZyP2aqm/XWXEvwMZRkblSjuUd8b/B6qhkTVH5gN9Uo/DiqHnsvllotWucSpXfcBUQIDAQAB"
+_xmpp-client._tcp 172800 IN SRV 0 0 5222 jabber
+www 172800 IN CNAME @
+docs 172800 IN CNAME ghs.googlehosted.COM.
+esxi3 172800 IN A 216.53.203.10
+phoenix-3-7-0 172800 IN A 216.53.203.98
+db 172800 IN A 216.53.203.76
+portal 172800 IN A 216.53.203.98
+nemesis 172800 IN A 216.53.203.74
+md2010 172800 IN MX 10 armada.smucayman.COM.

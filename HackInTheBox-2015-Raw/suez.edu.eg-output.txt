@@ -1,0 +1,273 @@
+@ 86400 IN SOA ns1 hostmaster 2014032293 10800 900 604800 10800
+@ 86400 IN NS ns1
+86400 IN NS frcu.eun.eg.
+@ 86400 IN A 193.227.19.7
+@ 86400 IN MX 0 suez-edu-eg.mail.protection.outlook.com.
+@ 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+www.agr 86400 IN A 193.227.19.4
+_SIP._TLS.med 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+SIP.dent 86400 IN CNAME sipdir.online.lync.com.
+www.p-edu 86400 IN A 193.227.19.4
+www.qaapscu 86400 IN A 193.227.1.53
+a-edu 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+a-edu 86400 IN MX 0 aedu-suez-edu-eg0c.mail.protection.outlook.com.
+a-edu 86400 IN A 193.227.19.4
+AUTODISCOVER.s-petrol 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+SIP.a-sci-agr 86400 IN CNAME sipdir.online.lync.com.
+AUTODISCOVER.p-commerce 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+AUTODISCOVER.ci 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+SIP.eng 86400 IN CNAME sipdir.online.lync.com.
+_SIP._TLS.tourism 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+www.a-art 86400 IN A 193.227.19.4
+msoid.commerce.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+p-nursing 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-nursing 86400 IN MX 0 1995520498.mail.outlook.com.
+p-nursing 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.vet 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+s-techedu 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+s-techedu 86400 IN A 193.227.19.4
+inurse 86400 IN MX 0 ms48070571.msv1.invalid.outlook.com.
+inurse 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.a-sci-agr 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+AUTODISCOVER.eng 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+lyncdiscover.edu 86400 IN CNAME webdir.online.lync.com.
+s-commerce 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+s-commerce 86400 IN MX 0 1604351751.mail.outlook.com.
+s-commerce 86400 IN A 193.227.19.4
+eng 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+eng 86400 IN MX 0 eng-suez-edu-eg.mail.protection.outlook.com.
+eng 86400 IN A 193.227.19.4
+www.s-edu 86400 IN A 193.227.19.4
+www.frms 86400 IN A 193.227.19.4
+AUTODISCOVER.p-phed 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+msoid.science.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+SIP.art 86400 IN CNAME sipdir.online.lync.com.
+AUTODISCOVER.p-eng 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIPFEDERATIONTLS._TCP.frms 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+www.p-nursing 86400 IN A 193.227.19.4
+AUTODISCOVER.i-computer 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+p-commerce 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-commerce 86400 IN MX 0 944818271.mail.outlook.com.
+p-commerce 86400 IN A 193.227.19.4
+SIP.med 86400 IN CNAME sipdir.online.lync.com.
+SIP.science 86400 IN CNAME sipdir.online.lync.com.
+msoid.pharm.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_SIPFEDERATIONTLS._TCP.p-commerce 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+lyncdiscover.science 86400 IN CNAME webdir.online.lync.com.
+commerce 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+commerce 86400 IN MX 0 commerce-suez-edu-eg.mail.protection.outlook.com.
+commerce 86400 IN A 193.227.19.4
+AUTODISCOVER.tourism 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIPFEDERATIONTLS._TCP 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+staffcms 86400 IN A 193.227.19.29
+_SIP._TLS.agr 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+AUTODISCOVER.p-sed 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIPFEDERATIONTLS._TCP.p-science 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+_SIP._TLS 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+AUTODISCOVER.med 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+s-science 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+s-science 86400 IN MX 0 1582326266.mail.outlook.com.
+s-science 86400 IN A 193.227.19.4
+www.art 86400 IN A 193.227.19.4
+med 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+med 86400 IN MX 0 med-suez-edu-eg.mail.protection.outlook.com.
+med 86400 IN A 193.227.19.4
+AUTODISCOVER.nursing 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+www.s-petrol 86400 IN A 193.227.19.4
+a-sci-agr 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+a-sci-agr 86400 IN MX 0 asciagr-suez-edu-eg0cc.mail.protection.outlook.com.
+a-sci-agr 86400 IN A 193.227.19.4
+www.p-sed 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.p-child 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+www.dent 86400 IN A 193.227.19.4
+msoid.tourism.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+smtp 86400 IN A 193.227.19.4
+msoid.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+lyncdiscover.eng 86400 IN CNAME webdir.online.lync.com.
+p-edu 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-edu 86400 IN MX 0 1289713281.mail.outlook.com.
+p-edu 86400 IN A 193.227.19.4
+SIP 86400 IN CNAME sipdir.online.lync.com.
+_SIPFEDERATIONTLS._TCP.dent 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+www.pharm 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.edu 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+_SIPFEDERATIONTLS._TCP.science 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+www.vet 86400 IN A 193.227.19.4
+SIP.agr 86400 IN CNAME sipdir.online.lync.com.
+msoid.eng.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+qaapscu 86400 IN A 193.227.1.53
+_SIP._TLS.science 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+lyncdiscover.med 86400 IN CNAME webdir.online.lync.com.
+AUTODISCOVER 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+AUTODISCOVER.agr 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIPFEDERATIONTLS._TCP.i-compute 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+AUTODISCOVER.s-techedu 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIP._TLS.a-edu 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+agr 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+agr 86400 IN MX 0 agr-suez-edu-eg.mail.protection.outlook.com.
+agr 86400 IN A 193.227.19.4
+AUTODISCOVER.dent 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIP._TLS.art 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+_SIPFEDERATIONTLS._TCP.commerce 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+www.tourism 86400 IN A 193.227.19.4
+www.a-science 86400 IN A 193.227.19.4
+p-eng 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-eng 86400 IN MX 0 55534799.mail.outlook.com.
+p-eng 86400 IN A 193.227.19.4
+frms 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+frms 86400 IN MX 0 4685fbc6c063a2498a1a8e3757f83f.mail.outlook.com.
+frms 86400 IN A 193.227.19.4
+www.ci 86400 IN A 193.227.19.4
+www.nursing 86400 IN A 193.227.19.4
+SIP.pharm 86400 IN CNAME sipdir.online.lync.com.
+msoid.a-sci-agr.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+msoid.nursing.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+www.commerce 86400 IN A 193.227.19.4
+www.a-edu 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.s-science 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+i-computer 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+i-computer 86400 IN MX 0 88649640.mail.outlook.com.
+i-computer 86400 IN A 193.227.19.4
+AUTODISCOVER.p-child 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIP._TLS.vet 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+fishfarm 86400 IN MX 0 ms58339078.msv1.invalid.outlook.com.
+fishfarm 86400 IN A 193.227.19.4
+msoid.edu.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+www 86400 IN A 193.227.19.7
+_SIP._TLS.commerce 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+p-phed 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-phed 86400 IN MX 0 697946497.mail.outlook.com.
+p-phed 86400 IN A 193.227.19.4
+lyncdiscover.agr 86400 IN CNAME webdir.online.lync.com.
+ns1 86400 IN A 193.227.19.7
+lyncdiscover.a-sci-agr 86400 IN CNAME webdir.online.lync.com.
+_SIPFEDERATIONTLS._TCP.eng 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.com.
+_SIP._TLS.nursing 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+www.p-phed 86400 IN A 193.227.19.4
+AUTODISCOVER.art 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+msoid.dent.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_SIPFEDERATIONTLS._TCP.pharm 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+AUTODISCOVER.commerce 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+art 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+art 86400 IN MX 0 art-suez-edu-eg.mail.protection.outlook.com.
+art 86400 IN A 193.227.19.4
+www.s-techedu 86400 IN A 193.227.19.4
+_SIP._TLS.pharm 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+AUTODISCOVER.pharm 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+AUTODISCOVER.frms 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+www.edu 86400 IN A 193.227.19.4
+AUTODISCOVER.s-edu 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+AUTODISCOVER.p-nursing 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+SIP.a-edu 86400 IN CNAME sipdir.online.lync.com.
+SIP.vet 86400 IN CNAME sipdir.online.lync.com.
+msoid.art.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+www.s-commerce 86400 IN A 193.227.19.4
+msoid.ci.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_SIPFEDERATIONTLS._TCP.med 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+a-art 86400 IN MX 0 ms68807205.msv1.invalid.outlook.com.
+a-art 86400 IN A 193.227.19.4
+AUTODISCOVER.vet 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIPFEDERATIONTLS._TCP.ci 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+www.phyedu 86400 IN A 193.227.19.4
+www.p-commerce 86400 IN A 193.227.19.4
+www.science 86400 IN A 193.227.19.4
+dent 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+dent 86400 IN MX 0 dent-suez-edu-eg.mail.protection.outlook.com.
+dent 86400 IN A 193.227.19.4
+www.p-child 86400 IN A 193.227.19.4
+www.s-science 86400 IN A 193.227.19.4
+msoid.vet 86400 IN CNAME clientconfig.microsoftonline-p.net.
+tourism 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+tourism 86400 IN MX 0 tourism-suez-edu-eg.mail.protection.outlook.com.
+tourism 86400 IN A 193.227.19.4
+s-petrol 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+s-petrol 86400 IN MX 0 1995520498.mail.outlook.com.
+s-petrol 86400 IN A 193.227.19.4
+s-edu 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL"
+s-edu 86400 IN MX 0 1995520498.mail.outlook.com.
+s-edu 86400 IN A 193.227.19.4
+www.a-sci-agr 86400 IN A 193.227.19.4
+lyncdiscover.art 86400 IN CNAME webdir.online.lync.com.
+_SIPFEDERATIONTLS._TCP.s-techedu 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+msoid.agr.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_SIPFEDERATIONTLS._TCP.p-eng.suez 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+msoid.a-edu.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+AUTODISCOVER.s-science 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+nursing 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+nursing 86400 IN MX 0 nursing-suez-edu-eg.mail.protection.outlook.com.
+nursing 86400 IN A 193.227.19.4
+p-sed 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-sed 86400 IN MX 0 1196626849.mail.outlook.com.
+p-sed 86400 IN A 193.227.19.4
+lyncdiscover.dent 86400 IN CNAME webdir.online.lync.com.
+s-techedu.suez 86400 IN MX 0 1073714985.mail.outlook.com.
+msoid.med.suez.edu.eg 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_SIPFEDERATIONTLS._TCP.a-edu 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+www.eng 86400 IN A 193.227.19.4
+vet 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+vet 86400 IN MX 0 vet-suez-edu-eg.mail.protection.outlook.com.
+vet 86400 IN A 193.227.19.4
+AUTODISCOVER.science 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+www.fishfarm 86400 IN A 193.227.19.4
+_SIP._TLS.a-sci-agr 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+www.i-computer 86400 IN A 193.227.19.4
+_SIP._TLS.edu 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+AUTODISCOVER.a-edu 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+lyncdiscover.pharm 86400 IN CNAME webdir.online.lync.com.
+_SIP._TLS.dent 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+_SIPFEDERATIONTLS._TCP.agr 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+www.p-science 86400 IN A 193.227.19.4
+www.p-eng 86400 IN A 193.227.19.4
+SIP.ci 86400 IN CNAME sipdir.online.lync.com.
+lyncdiscover.vet 86400 IN CNAME webdir.online.lync.com.
+www.inurse 86400 IN A 193.227.19.4
+AUTODISCOVER.p-science 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+www.med 86400 IN A 193.227.19.4
+phyedu 86400 IN MX 0 ms63981216.msv1.invalid.outlook.com.
+phyedu 86400 IN A 193.227.19.4
+pharm 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+pharm 86400 IN MX 0 pharm-suez-edu-eg.mail.protection.outlook.com.
+pharm 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.p-phed 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+_SIPFEDERATIONTLS._TCP.s-commerce 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+SIP.tourism 86400 IN CNAME sipdir.online.lync.com.
+lyncdiscover.tourism 86400 IN CNAME webdir.online.lync.com.
+lyncdiscover 86400 IN CNAME webdir.online.lync.com.
+_SIPFEDERATIONTLS._TCP.s-edu 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+AUTODISCOVER.a-sci-agr 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+SIP.edu 86400 IN CNAME sipdir.online.lync.com.
+_SIP._TLS.eng 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+a-science 86400 IN MX 0 ms63610229.msv1.invalid.outlook.com.
+a-science 86400 IN A 193.227.19.4
+_SIP._TLS.ci 86400 IN SRV 100 1 443 SIPDIR.ONLINE.LYNC.COM.
+SIP.nursing 86400 IN CNAME sipdir.online.lync.com.
+lyncdiscover.nursing 86400 IN CNAME webdir.online.lync.com.
+lyncdiscover.ci 86400 IN CNAME webdir.online.lync.com.
+SIP.commerce 86400 IN CNAME sipdir.online.lync.com.
+_SIPFEDERATIONTLS._TCP.tourism 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+_SIPFEDERATIONTLS._TCP.s-petrol 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+ci 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ci 86400 IN MX 0 ci-suez-edu-eg.mail.protection.outlook.com.
+ci 86400 IN A 193.227.19.4
+AUTODISCOVER.edu 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIPFEDERATIONTLS._TCP.p-nursing 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+lyncdiscover.a-edu 86400 IN CNAME webdir.online.lync.com.
+p-science 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-science 86400 IN MX 0 1995520498.mail.outlook.com.
+p-science 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.p-edu 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+_SIPFEDERATIONTLS._TCP.p-sed 86400 IN SRV 10 2 5061 FEDERATION.MESSENGER.MSN.COM.
+edu 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+edu 86400 IN MX 0 edu-suez-edu-eg.mail.protection.outlook.com.
+edu 86400 IN A 193.227.19.4
+science 86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+science 86400 IN MX 0 science-suez-edu-eg.mail.protection.outlook.com.
+science 86400 IN A 193.227.19.4
+_SIPFEDERATIONTLS._TCP.nursing 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.
+AUTODISCOVER.s-commerce 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+p-child 86400 IN TXT "V=SPF1 INCLUDE:OUTLOOK.COM ~ALL  "
+p-child 86400 IN MX 0 681742969.mail.outlook.com.
+p-child 86400 IN A 193.227.19.4
+lyncdiscover.commerce 86400 IN CNAME webdir.online.lync.com.
+AUTODISCOVER.p-edu 86400 IN CNAME AUTODISCOVER.OUTLOOK.COM.
+_SIPFEDERATIONTLS._TCP.art 86400 IN SRV 100 1 5061 SIPFED.ONLINE.LYNC.COM.

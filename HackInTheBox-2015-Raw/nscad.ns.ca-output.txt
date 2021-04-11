@@ -1,0 +1,27 @@
+@ 38400 IN SOA ns1.acorn-ns.ca. acorn-noc.dal.ca. 2015021001 10800 3600 604800 38400
+@ 38400 IN NS ns1.acorn-ns.ca.
+38400 IN NS ns1.mrnet.mb.ca.
+@ 38400 IN MX 0 nscad-ns-ca.mail.protection.outlook.com.
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com \150all"
+3600 IN TXT "uLZIYydWWdU5GyqiAVr5J9+vHIljNvDA41SxsLSmkJ7knuV9VveZpwM2i04dkqzBEpgpLQfI3CJPyWNna9m2vA=="
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+ezproxy 38400 IN A 198.166.233.2
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+multimedia 38400 IN CNAME www.nscad.ca.
+mec0 38400 IN A 198.166.233.20
+mrbs 38400 IN CNAME www.nscad.ca.
+libguides 38400 IN CNAME guides.nscad.ca.
+colleague 38400 IN CNAME ezproxy
+jci 38400 IN CNAME johnson
+johnson 38400 IN A 198.166.233.97
+linux 38400 IN CNAME ns1.acorn-ns.ca.
+DZC 38400 IN TXT "Zwj7MMO"
+38400 IN TXT "yK7y9Th"
+pay 38400 IN A 198.166.233.93
+wordpress 38400 IN CNAME www.nscad.ca.
+autodiscover 38400 IN CNAME autodiscover.outlook.com.
+guides 38400 IN CNAME guides.nscad.ca.
+*.ezproxy 38400 IN A 198.166.233.2
+blaauw 38400 IN A 198.166.233.19
+payment 38400 IN CNAME pay
+myprofile 38400 IN CNAME pay

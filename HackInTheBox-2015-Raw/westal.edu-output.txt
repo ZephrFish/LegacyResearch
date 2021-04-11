@@ -1,0 +1,15 @@
+@ 3600 IN SOA ns1.uwa.edu. sysadmin.uwa.edu. 222 3600 300 604800 259200
+@ 259200 IN NS asnsvr.asc.edu.
+259200 IN NS ns2.uwa.edu.
+259200 IN NS ns1.uwa.edu.
+@ 259200 IN MX 0 univ.uwa.edu.
+univ 259200 IN A 199.88.23.18
+nitrogen 259200 IN A 199.88.23.18
+livingstonpress 259200 IN CNAME tiberius.uwa.edu.
+www 259200 IN CNAME tiberius.uwa.edu.
+ruby 259200 IN A 199.88.23.69
+ruby 259200 IN MX 0 univ.uwa.edu.
+ariel 259200 IN A 199.88.23.20
+ns2.uwa.edu. 259200 IN A 199.88.23.66
+ns1 259200 IN A 199.88.23.2
+julia 259200 IN A 199.88.23.6

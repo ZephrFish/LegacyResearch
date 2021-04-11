@@ -1,0 +1,18 @@
+@ 3600 IN SOA master.dagupan.com. hostmaster.dagupan.com. 28 900 600 86400 3600
+@ 3600 IN NS rasserv.dagupan.com.
+3600 IN NS master.dagupan.com.
+@ 3600 IN MX 10 mail
+3600 IN MX 10 32cb1c2d7f2945bb3977e8dc04fb97.mail.outlook.com.
+@ 3600 IN TXT "v=spf1 include:outlook.com ~all"
+3600 IN TXT "v=msv1 t=32cb1c2d7f2945bb3977e8dc04fb97"
+mymail 3600 IN MX 10 0dec7a4394994dbd099eb7429a5c3c.mail.outlook.com.
+mymail 3600 IN TXT "v=spf1 include:outlook.com ~all"
+3600 IN TXT "v=msv1 t=f14977bc940b4fba136f409963947c"
+rasserv.dagupan.com. 3600 IN A 202.91.161.132
+test 3600 IN TXT "v=msv1 t=4bb4b71ee364b445b03234b5230f21"
+www 3600 IN A 122.52.98.141
+mail 3600 IN A 115.84.253.71
+autodiscover.mymail 3600 IN CNAME autodiscover.outlook.com.
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+_sipfederationtls._tcp.mymail 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+_sipfederationtls._tcp 3600 IN SRV 10 2 5061 federation.messenger.msn.com.

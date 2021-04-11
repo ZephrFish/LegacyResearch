@@ -1,0 +1,76 @@
+@ 10800 IN SOA web postmaster 2013101440 3600 3600 604800 3600
+@ 300 IN TXT "v=spf1 include:spf.protection.outlook.com a:mail-gw.vet-alfort.fr -all"
+@ 10800 IN NS web
+@ 300 IN MX 10 mail-gw
+300 IN MX 50 vetalfort-fr0i.mail.protection.outlook.com.
+eve 10800 IN CNAME webproxy
+sip 3600 IN CNAME sipdir.online.lync.com.
+autodiscover.outlook 3600 IN CNAME autodiscover.outlook.com.
+msoid.outlook 3600 IN CNAME clientconfig.microsoftonline-p.net.
+crb-enva 10800 IN CNAME webproxy
+idp 10800 IN CNAME webproxy
+musee-fragonard 10800 IN CNAME srv-web
+joomlabas 10800 IN CNAME webproxy
+joomlaqualif 10800 IN CNAME webproxy
+web 10800 IN A 194.254.35.129
+formation-continue 10800 IN CNAME webproxy
+bigbluebutton 10800 IN A 194.254.35.133
+moodlebas 10800 IN CNAME webproxy
+physioweb 10800 IN CNAME web
+cerclealfort 10800 IN CNAME web
+bigbluebutton81 10800 IN CNAME webproxy
+webcocktail 10800 IN A 194.254.35.148
+perception 10800 IN CNAME serv-dns-2
+_sipfederationtls._tcp.outlook 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+alforpro 10800 IN CNAME webproxy
+cas 10800 IN CNAME webproxy
+envacloud 10800 IN CNAME webproxy
+seniordog 10800 IN CNAME webproxy
+mail 10800 IN CNAME mail-gw
+vpn 10800 IN A 194.254.35.150
+openmeetings 10800 IN A 194.254.35.137
+preinscription 10800 IN CNAME web
+etudiants 10800 IN MX 15 mail-gw
+msoid 300 IN CNAME clientconfig.microsoftonline-p.net.
+idp-test 10800 IN CNAME webproxy
+theses 10800 IN CNAME web
+suivitheses 10800 IN CNAME web
+pop 10800 IN CNAME mail-gw
+webmail 10800 IN CNAME mail-gw
+aeema 10800 IN CNAME web
+ftp 10800 IN CNAME web
+datalogger1 10800 IN CNAME webproxy
+imap.outlook 10800 IN CNAME webproxy
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+nuxeo 10800 IN CNAME webproxy
+chiliproject 10800 IN CNAME webproxy
+outlook 300 IN TXT "v=spf1 include:spf.protection.outlook.com a:mail-gw.vet-alfort.fr -all"
+outlook 10800 IN MX 20 mail-gw
+pacs 10800 IN CNAME webproxy
+mail-gw 10800 IN A 194.254.35.131
+imap 10800 IN CNAME mail-gw
+annuaire_etu 10800 IN CNAME web
+moodlequalif 10800 IN CNAME webproxy
+musee 10800 IN CNAME srv-web
+crbm 10800 IN CNAME web
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+grisby 10800 IN CNAME mail-gw
+bibliotheque 10800 IN A 194.254.35.139
+radius 10800 IN CNAME webproxy
+genetics 10800 IN CNAME web
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+abeille 10800 IN CNAME webproxy
+sip.outlook 3600 IN CNAME sipdir.online.lync.com.
+cirale 10800 IN CNAME srv-web
+serv-dns-2 10800 IN A 194.254.35.130
+_sip._tls.outlook 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+virtex.outlook 3600 IN CNAME webproxy
+webproxy 10800 IN A 194.254.35.140
+moodlequaliffc 10800 IN CNAME webproxy
+srv-web 10800 IN A 194.254.35.152
+sympa 10800 IN CNAME mail-gw
+lyncdiscover.outlook 3600 IN CNAME webdir.online.lync.com.
+aeema_joomla 10800 IN CNAME web
+smtp 10800 IN CNAME mail-gw
+labradorcnm 10800 IN CNAME webproxy
+www 10800 IN CNAME srv-web

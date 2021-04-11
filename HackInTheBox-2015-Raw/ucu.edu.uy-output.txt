@@ -1,0 +1,165 @@
+@ 86400 IN SOA ucudal1 root.ucudal1 2015042801 10800 3600 86400 86400
+@ 86400 IN MX 5 postino2
+86400 IN MX 10 postino1
+@ 86400 IN NS seciu.edu.uy.
+86400 IN NS ucudal1
+@ 86400 IN A 190.64.30.4
+@ 86400 IN TXT "v=msv1 t=c1d0ffe8facb4ca5620d7f3a2d2192"
+86400 IN TXT "v=spf1 ip4:200.40.112.83 a mx mx:smtp.ucu.edu.uy include:outlook.com -all"
+86400 IN TXT "05Ds0LLJM3AhNkpw0MWPE0BX0Gv/S64xnMMy4t/VaJp2QbGKQ7EqChJqDKhN3jU+UdMeIThEBToEKzDVqYnadA=="
+_sipfederationtls._tcp 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+dixit 86400 IN A 200.40.112.86
+migracion 86400 IN A 200.40.112.85
+revistadederecho 86400 IN A 200.40.112.93
+icompetitividad 86400 IN A 190.64.30.3
+_sip._tls.correo 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+economia 86400 IN A 190.64.30.3
+midas 86400 IN A 200.40.112.83
+ia 86400 IN A 200.40.112.94
+cdtp 86400 IN A 200.40.112.93
+mafalda 86400 IN A 200.40.112.90
+autodiscover.correo 86400 IN CNAME autodiscover.outlook.com.
+msoid.correo 86400 IN CNAME clientconfig.microsoftonline-p.net.
+isedesmtp 86400 IN A 200.40.112.84
+isedemailer 86400 IN A 200.40.112.91
+fce 86400 IN A 200.40.112.93
+jm 86400 IN A 190.64.30.3
+fch 86400 IN A 190.64.30.3
+sage 86400 IN A 200.40.112.82
+enfermeriacuidadoshumanizados 86400 IN A 200.40.112.93
+pop3 86400 IN A 200.40.112.84
+pop.correo 86400 IN A 200.40.112.87
+portal-laboral 86400 IN CNAME tbjdns.trabajando.com.uy.
+wikidie 86400 IN A 200.40.112.86
+eportfolio 86400 IN A 200.40.112.84
+msoid 86400 IN CNAME clientconfig.microsoftonline-p.net.
+_sipfederationtls._tcp.correo 86400 IN SRV 100 1 5061 sipfed.online.lync.com.
+smtpisede 86400 IN A 200.40.112.84
+pmbmemorias 86400 IN A 200.40.112.91
+rcurricular 86400 IN A 200.40.112.86
+www 86400 IN CNAME ucudal2
+emprende 86400 IN A 200.40.112.91
+lyncdiscover 86400 IN CNAME webdir.online.lync.com.
+autodiscover.service 86400 IN CNAME autodiscover.outlook.com.
+admisiones 86400 IN A 200.40.112.93
+cinapcap 86400 IN CNAME cinap
+trackit 86400 IN A 200.40.112.87
+_sip._tls 86400 IN SRV 100 1 443 sipdir.online.lync.com.
+doblevia 86400 IN A 200.40.112.86
+webmail.correo 86400 IN A 200.40.112.87
+ipes 86400 IN A 200.40.112.86
+mailsrv01.correo 86400 IN A 200.40.112.87
+smtp 86400 IN A 200.40.112.83
+revistadixit 86400 IN A 190.64.30.3
+sip 86400 IN CNAME sipdir.online.lync.com.
+magix 86400 IN A 200.40.112.88
+popisede 86400 IN A 200.40.112.83
+ucudal2 86400 IN A 190.64.30.4
+webmail 86400 IN A 200.40.112.93
+prueba 86400 IN TXT "v=msv1 t=72294e1e40f89342bd1ad49173369f"
+prueba 86400 IN MX 10 72294e1e40f89342bd1ad49173369f.mail.outlook.com.
+boletincompetitividad 86400 IN A 200.40.112.93
+carreras 86400 IN A 200.40.112.93
+idel 86400 IN A 190.64.30.3
+charlasinformativas 86400 IN A 200.40.112.86
+recso 86400 IN A 200.40.112.93
+pop 86400 IN A 200.40.112.87
+moodle 86400 IN A 200.40.112.85
+obislam 86400 IN A 200.40.112.92
+autoservicio 86400 IN A 200.40.112.93
+cienciaspsicologicas 86400 IN A 200.40.112.93
+jurisprudenciauruguaya 86400 IN A 200.40.112.84
+rrhh 86400 IN A 190.64.30.3
+psicologiaeducacional2011 86400 IN A 190.64.30.3
+expoferialaboral 86400 IN A 200.40.112.93
+postgrado 86400 IN A 200.40.112.93
+submission 86400 IN A 200.40.112.83
+openfire 86400 IN A 200.40.112.93
+isedepop 86400 IN A 200.40.112.84
+correo 86400 IN A 200.40.112.87
+correo 86400 IN MX 10 4cc14808198c4e41986c06599b114d.mail.outlook.com.
+correo 86400 IN TXT "v=msv1 t=4cc14808198c4e41986c06599b114d"
+obras 86400 IN A 190.64.30.3
+deptoeconomia 86400 IN A 190.64.30.3
+webasignatura27 86400 IN A 200.40.112.84
+cuadernodeeconomia 86400 IN A 200.40.112.93
+presupuesto 86400 IN A 200.40.69.66
+boletinalumni 86400 IN A 190.64.30.4
+autogestionfuncionarios 86400 IN A 200.40.112.91
+hybrid 86400 IN A 200.40.112.87
+postino1.correo 86400 IN A 200.40.112.84
+testinsercionlaboral 86400 IN A 200.40.112.91
+grado 86400 IN A 200.40.112.93
+autodiscover 86400 IN CNAME autodiscover.outlook.com.
+conflictividadlaboral 86400 IN A 200.40.112.86
+odiseo 86400 IN A 200.40.112.91
+paginasdeeducacion 86400 IN A 200.40.112.93
+sip.correo 86400 IN CNAME sipdir.online.lync.com.
+actasodontologicas 86400 IN A 200.40.112.93
+bi 86400 IN A 200.40.112.81
+ucudal1 86400 IN A 200.40.112.87
+internacionales 86400 IN A 200.40.112.93
+insercionlaboral 86400 IN A 190.64.30.4
+mail 86400 IN CNAME ucudal1
+valores 86400 IN A 200.40.112.86
+cdptemp 86400 IN A 200.40.112.91
+catislam 86400 IN A 200.40.112.92
+institutorrll 86400 IN A 200.40.112.86
+prisma 86400 IN A 200.40.112.93
+cinapcap1 86400 IN CNAME cinap
+postino1 3600 IN A 200.40.112.84
+posgradofce 86400 IN A 190.64.30.3
+jeanm 86400 IN A 190.64.30.3
+postino2 3600 IN A 200.40.112.83
+aux 86400 IN TXT "v=msv1 t=102c60fe124d4581cbbe05ddf9a703"
+aux 86400 IN MX 10 102c60fe124d4581cbbe05ddf9a703.mail.outlook.com.
+cdp 86400 IN A 190.64.30.3
+ojs 86400 IN A 190.64.30.3
+conf 86400 IN A 200.40.112.84
+incubadora_tic 86400 IN CNAME incubadoratic
+atenea 86400 IN A 200.40.112.84
+lyncdiscover.correo 86400 IN CNAME webdir.online.lync.com.
+webasignatura 86400 IN A 200.40.112.85
+posgrado 86400 IN A 200.40.112.93
+todobien 86400 IN A 200.40.112.86
+ige 86400 IN A 200.40.112.86
+pgc 86400 IN A 200.40.112.86
+comunicacion2009 86400 IN A 200.40.112.86
+medialogos 86400 IN A 200.40.112.93
+leconomia 86400 IN A 190.64.30.3
+vradm 86400 IN A 200.40.112.86
+ayuda 86400 IN A 200.40.112.91
+intranet 86400 IN A 192.168.37.31
+expedienteucu 86400 IN A 200.40.112.84
+estudios 86400 IN A 200.40.112.93
+evaluacioneducativa 86400 IN A 200.40.112.86
+terminalserver 86400 IN A 200.40.112.93
+pencacopaamerica 86400 IN CNAME ucu.tupenca.com.
+admisionesweb 86400 IN A 200.40.112.80
+cinapcap2 86400 IN CNAME cinap
+cec2 86400 IN A 190.64.30.3
+cec 86400 IN A 200.40.112.86
+eneas 86400 IN A 200.40.112.93
+competitividad 86400 IN A 190.64.30.4
+comunicacionsocial 86400 IN A 200.40.112.86
+soporte 86400 IN A 200.40.112.84
+dieucu 86400 IN A 200.40.112.94
+producciondocente 86400 IN A 200.40.112.91
+jornadasinteruniversitarias2008 86400 IN A 200.40.112.86
+smtp.correo 86400 IN A 200.40.112.83
+owa 3600 IN A 200.40.112.87
+die 86400 IN A 200.40.112.86
+portallaboral 86400 IN A 200.40.112.80
+tempdixit 86400 IN A 190.64.30.3
+autogestion 86400 IN A 200.40.112.89
+leysociedadescomerciales 86400 IN A 200.40.112.86
+gestion 86400 IN A 200.40.112.87
+nexo 86400 IN A 200.40.112.86
+dicc 86400 IN A 200.40.112.82
+soportemagix 86400 IN A 200.40.69.66
+educacion 86400 IN A 200.40.112.86
+adfs 86400 IN A 200.40.112.93
+portal 86400 IN A 200.40.112.86
+loopback 86400 IN A 127.0.0.1
+tempidel 86400 IN A 200.40.112.91
+biblioteca 86400 IN A 200.40.112.91

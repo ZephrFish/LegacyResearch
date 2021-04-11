@@ -1,0 +1,19 @@
+@ 3600 IN SOA ns1.dichvu-tenmien.com.vn. info.dichvu-tenmien.com.vn. 1420645533 10800 3600 604800 600
+@ 3600 IN A 118.70.205.68
+@ 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+@ 3600 IN NS ns1.dichvu-tenmien.com.vn.
+3600 IN NS ns2.dichvu-tenmien.com.vn.
+@ 3600 IN TXT "MS=ms88302516"
+logserver 3600 IN A 118.70.205.77
+data 3600 IN A 118.70.205.81
+www 3600 IN CNAME @
+docs 3600 IN CNAME ghs.googlehosted.com.
+mail 3600 IN CNAME ghs.google.com.
+vpn 3600 IN A 118.70.205.88
+domain1 3600 IN A 118.70.205.69
+ttbd 3600 IN A 118.70.205.75
+tinchi 3600 IN A 118.70.205.70

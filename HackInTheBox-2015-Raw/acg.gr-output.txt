@@ -1,0 +1,13 @@
+@ 86400 IN SOA tl1.techlink.gr. root.tl1.techlink.gr. 2013020801 10800 1800 3600000 86400
+@ 86400 IN NS tl1.techlink.gr.
+86400 IN NS tl2.techlink.gr.
+86400 IN NS ns1.techlink.gr.
+86400 IN NS ns2.techlink.gr.
+86400 IN NS ns3.techlink.gr.
+@ 86400 IN MX 10 mx2.techlink.gr.
+86400 IN MX 20 mx1.techlink.gr.
+drupal 86400 IN CNAME drupal.acg.edu.
+ftp 86400 IN CNAME msftp1.techlink.gr.
+www 86400 IN CNAME www.acg.edu.
+old 86400 IN CNAME msweb1.techlink.gr.
+academics 86400 IN CNAME drupal

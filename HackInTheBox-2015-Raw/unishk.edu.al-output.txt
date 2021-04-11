@@ -1,0 +1,14 @@
+@ 3600 IN SOA @ dns.akshi.gov.al. 2014101203 300 150 2419200 0
+@ 3600 IN NS ns1.akshi.gov.al.
+3600 IN NS ns2.akshi.gov.al.
+@ 3600 IN A 134.0.34.221
+@ 3600 IN MX 10 unishk-edu-al.mail.protection.outlook.com.
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+simbd 3600 IN A 134.0.34.221
+bush 3600 IN A 134.0.34.221
+www 3600 IN A 134.0.34.221
+adsh 3600 IN A 134.0.34.221
+isursh 3600 IN A 134.0.34.221
+clientconfig.microsoftonline-p.net 3600 IN CNAME msoid
+konferenca 3600 IN A 134.0.34.221
+u3m 3600 IN A 92.222.2.158

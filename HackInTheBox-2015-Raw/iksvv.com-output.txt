@@ -1,0 +1,11 @@
+@ 600 IN SOA ns.r4h.com. hostmaster 2013042400 43200 3600 604800 86400
+@ 600 IN A 50.28.8.175
+@ 600 IN NS ns.r4h.com.
+600 IN NS ns2.r4h.com.
+@ 600 IN MX 10 mail
+webmail 600 IN A 67.225.241.221
+ftp 600 IN CNAME www
+www 600 IN A 50.28.8.175
+old 600 IN A 64.37.68.145
+localhost 600 IN A 127.0.0.1
+mail 600 IN A 67.225.241.221

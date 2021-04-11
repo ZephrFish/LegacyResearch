@@ -1,0 +1,34 @@
+@ 86400 IN SOA ns1 root 20150318 3600 1800 604800 86400
+@ 86400 IN NS ns1
+86400 IN NS ns2
+@ 86400 IN MX 1 mail
+86400 IN MX 60 webmail
+86400 IN MX 2 aspmx.l.google.com.
+86400 IN MX 5 alt1.aspmx.l.google.com.
+86400 IN MX 5 alt2.aspmx.l.google.com.
+86400 IN MX 10 aspmx3.googlemail.com.
+86400 IN MX 20 aspmx2.googlemail.com.
+86400 IN MX 30 aspmx4.googlemail.com.
+86400 IN MX 40 aspmx5.googlemail.com.
+webmail 86400 IN CNAME ns1
+ns1 86400 IN A 180.211.172.162
+ns2 86400 IN A 10.10.204.12
+stat 86400 IN CNAME web
+web 86400 IN A 180.211.172.163
+cujs 86400 IN CNAME web
+meeting 86400 IN CNAME web
+www.sanatan 86400 IN CNAME web
+mail 86400 IN CNAME ghs.google.com.
+soil 86400 IN CNAME web
+www.physics 86400 IN CNAME web
+sanatan 86400 IN CNAME web
+cse 86400 IN CNAME web
+apece 86400 IN CNAME web
+law 86400 IN CNAME web
+chem 86400 IN CNAME web
+www 86400 IN CNAME web
+physics 86400 IN CNAME web
+zool 86400 IN CNAME web
+proxy 86400 IN CNAME ns2
+cumikrouter 86400 IN A 10.10.201.6
+library 86400 IN A 180.211.172.166

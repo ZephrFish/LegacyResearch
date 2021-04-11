@@ -1,0 +1,28 @@
+@ 86400 IN SOA ns1.datakl.com. server.myadmin.info. 2015021907 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns1.datakl.com.
+86400 IN NS ns2.datakl.com.
+@ 14400 IN A 210.48.154.34
+_autodiscover._tcp.mymeeting 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webmail 14400 IN A 210.48.154.34
+autodiscover.mymeeting 14400 IN A 210.48.154.34
+www.moodle 14400 IN A 210.48.154.34
+moodle 14400 IN A 210.48.154.34
+mail 14400 IN CNAME @
+autoconfig.moodle 14400 IN A 210.48.154.34
+autodiscover 14400 IN A 210.48.154.34
+whm 14400 IN A 210.48.154.34
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+webdisk 14400 IN A 210.48.154.34
+ftp 14400 IN A 210.48.154.34
+cpanel 14400 IN A 210.48.154.34
+www 14400 IN CNAME @
+webdisk.mymeeting 14400 IN A 210.48.154.34
+localhost 14400 IN A 127.0.0.1
+autodiscover.moodle 14400 IN A 210.48.154.34
+webdisk.moodle 14400 IN A 210.48.154.34
+autoconfig.mymeeting 14400 IN A 210.48.154.34
+_autodiscover._tcp.moodle 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.mymeeting 14400 IN A 210.48.154.34
+autoconfig 14400 IN A 210.48.154.34
+mymeeting 14400 IN A 210.48.154.34

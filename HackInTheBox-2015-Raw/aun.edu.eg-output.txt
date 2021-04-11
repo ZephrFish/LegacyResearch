@@ -1,0 +1,110 @@
+@ 604800 IN SOA dns root.dns 22 1800 3600 2419200 86400
+@ 604800 IN TXT "v=spf1" "include:spf.protection.outlook.com" "-all"
+@ 604800 IN MX 10 aun-edu-eg.mail.protection.outlook.com.
+@ 604800 IN NS dns
+@ 604800 IN A 193.227.61.26
+www.fldp 604800 IN A 193.227.61.27
+ww1 604800 IN A 193.227.61.27
+www.trmc 604800 IN A 193.227.61.27
+phedu.portal 604800 IN A 193.227.1.190
+egyfouna 604800 IN A 193.227.61.35
+sip.nv 604800 IN CNAME sipdir.online.lync.com.
+camera 604800 IN A 195.246.49.209
+fci-agmn 604800 IN A 195.246.49.40
+www.mqe 604800 IN A 195.246.49.31
+pharm.portal 604800 IN A 193.227.1.190
+www.cdessit 604800 IN A 193.227.61.27
+www.qaaped 604800 IN A 193.227.61.27
+fci 604800 IN A 195.246.49.208
+arch 604800 IN A 195.246.49.33
+www.test 604800 IN A 193.227.61.31
+socwork 604800 IN A 193.227.1.190
+msoid 604800 IN CNAME clientconfig.microsoftonline-p.net.
+icdl 604800 IN A 193.227.61.34
+vetmed.portal 604800 IN A 193.227.1.190
+www.ababda 604800 IN A 193.227.61.27
+_sip._tls.nv 604800 IN SRV 100 1 443 sipdir.online.lync.com.
+www 604800 IN A 193.227.61.27
+ns 604800 IN A 193.227.61.26
+www.clinpharm 604800 IN A 193.227.61.27
+nv 604800 IN TXT "v=spf1" "include:spf.protection.outlook.com" "-all"
+nv 604800 IN MX 10 nv-aun-edu-eg.mail.protection.outlook.com.
+qc 604800 IN A 195.246.49.207
+_sipfederationtl._tcp.nv 604800 IN SRV 100 1 506 sipfed.online.lync.com.
+www.evet 604800 IN A 193.227.61.27
+_sip._tls 604800 IN SRV 100 1 443 sipdir.online.lync.com.
+wn-grid 604800 IN A 193.227.2.243
+library 604800 IN A 193.227.1.33
+www.mahmoud 604800 IN A 193.227.61.27
+www.aucest 604800 IN A 193.227.61.27
+www.platinum 604800 IN A 193.227.61.27
+mailsci 604800 IN A 193.227.61.46
+eng.portal 604800 IN A 193.227.1.190
+mecha 604800 IN A 195.246.48.45
+webmail 604800 IN A 193.227.61.24
+autodiscover.nv 604800 IN CNAME autodiscover.outlook.com.
+acc 604800 IN A 193.227.61.27
+agac 604800 IN A 195.246.49.46
+www.icttraining 604800 IN A 195.246.49.216
+edunv 604800 IN A 193.227.1.190
+Autodiscover 604800 IN CNAME autodiscover.outlook.com.
+www.nv 604800 IN A 193.227.61.27
+se-grid 604800 IN A 193.227.2.245
+nurs 604800 IN A 193.227.1.190
+phedunv 604800 IN A 193.227.1.190
+artsnv 604800 IN A 193.227.1.190
+scinv 604800 IN A 193.227.1.190
+www.jes 604800 IN A 193.227.61.27
+www.todary 604800 IN A 193.227.61.34
+localhost 604800 IN A 127.0.0.1
+staffcms 604800 IN A 195.246.49.34
+_sipfederationtl._tcp 604800 IN SRV 100 1 506 sipfed.online.lync.com.
+www.mbio 604800 IN A 193.227.61.27
+www.auqaac 604800 IN A 193.227.61.27
+604800 IN A 195.246.51.13
+edu.portal 604800 IN A 193.227.1.190
+mail1 604800 IN A 193.227.61.29
+www.math 604800 IN A 193.227.61.27
+dent 604800 IN A 193.227.1.190
+camera1 604800 IN A 195.246.49.211
+acc2.acc4 604800 IN A 193.227.61.23
+www.qaapvet 604800 IN A 193.227.61.27
+sip 604800 IN CNAME sipdir.online.lync.com.
+www.egyhepnet 604800 IN A 193.227.61.27
+fciaq 604800 IN A 195.246.49.40
+www.elearning 604800 IN A 195.246.48.47
+law.portal 604800 IN A 193.227.1.190
+fse.portal 604800 IN A 193.227.1.190
+www.dtpp 604800 IN A 193.227.61.27
+agr.portal 604800 IN A 193.227.1.190
+comm 604800 IN A 193.227.1.190
+lyncdiscover 604800 IN CNAME webdir.online.lync.com.
+www.developmentvet 604800 IN A 193.227.61.27
+msoid.nv 604800 IN CNAME clientconfig.microsoftonline-p.net.
+www.geologyupgrading 604800 IN A 193.227.61.27
+agvc 604800 IN A 195.246.49.43
+agvd 604800 IN A 195.246.49.44
+serverdell 604800 IN A 193.227.61.27
+www.megwrm 604800 IN A 193.227.61.27
+moddle 604800 IN A 193.227.61.36
+www.meatip4 604800 IN A 195.246.48.45
+www.deafblind 604800 IN A 193.227.61.27
+fci.portal 604800 IN A 193.227.1.190
+med.portal 604800 IN A 193.227.1.190
+jes 604800 IN A 193.227.61.27
+www.sci 604800 IN A 195.246.49.210
+vetmednv 604800 IN A 193.227.1.190
+www.epp 604800 IN A 193.227.61.27
+arts.portal 604800 IN A 193.227.1.190
+www.gifted 604800 IN A 193.227.61.27
+ce-grid 604800 IN A 193.227.2.244
+lyncdiscover.nv 604800 IN CNAME webdir.online.lync.com.
+www.mcu 604800 IN A 193.227.61.27
+agrnv 604800 IN A 193.227.1.190
+sci.portal 604800 IN A 193.227.1.190
+www.12thibnsina 604800 IN A 193.227.61.27
+www.mht 604800 IN A 193.227.61.27
+aundb 604800 IN A 193.227.61.42
+www.mis 604800 IN A 195.246.49.215
+portal 604800 IN A 193.227.1.190
+dns 604800 IN A 193.227.61.26

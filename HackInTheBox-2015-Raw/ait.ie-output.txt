@@ -1,0 +1,76 @@
+@ 86400 IN SOA ns root.ns 2015032301 7200 7200 604800 3600
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com ~all"
+3600 IN TXT "mlv3RGeF7F9cXI16xdGe2hNgQ20TWdU9eNmToSut8GvQz3GH4yUWuHtUm6ru9Jew7envr1zzeETsx4CJn3kChw=="
+@ 86400 IN MX 10 ait-ie.mail.protection.outlook.com.
+@ 86400 IN NS ns
+86400 IN NS ns.kerna.ie.
+86400 IN NS ns.heanet.ie.
+86400 IN NS ns2
+password 86400 IN A 193.1.30.153
+extranet 86400 IN A 193.1.30.35
+sip 86400 IN A 193.1.30.20
+elearning2 86400 IN A 193.1.30.26
+srcpaypal 86400 IN A 91.123.236.228
+planetlab-coffee 86400 IN A 193.1.13.12
+cheir 86400 IN CNAME helpdesk
+planetlab-milk 86400 IN A 193.1.13.13
+modmgr 86400 IN A 193.1.30.62
+aitcard 86400 IN A 193.1.30.50
+916720002.student 86400 IN CNAME domains.live.com.
+modmgrtest 86400 IN A 193.1.30.61
+modules 86400 IN A 193.1.30.104
+staging 86400 IN A 193.1.30.249
+srcsensor 86400 IN A 91.123.236.248
+helpdesk 86400 IN A 193.1.30.145
+timetables 86400 IN A 193.1.30.7
+idp 86400 IN A 193.1.30.30
+*.libmain 86400 IN CNAME libmain
+owa 86400 IN CNAME mail
+planetlab-sugar 86400 IN A 193.1.13.11
+mail 86400 IN A 193.1.30.250
+autodiscover 86400 IN A 193.1.30.250
+msoid 86400 IN CNAME clientconfig.microsoftonline-p.net
+elearning 86400 IN A 193.1.30.13
+timetable 86400 IN A 193.1.30.75
+ns2 86400 IN AAAA 2001:770:50:300::12
+ns2 86400 IN A 193.1.30.12
+legacy 86400 IN A 193.1.30.131
+estateshelpdesk 86400 IN AAAA 2001:770:50:300::54
+estateshelpdesk 86400 IN A 193.1.30.54
+design 86400 IN CNAME studentresourcecentre
+student 86400 IN MX 10 student-ait-ie.mail.eo.outlook.com.
+www 86400 IN AAAA 2001:770:50:300::24
+www 86400 IN A 193.1.30.24
+sri 86400 IN A 193.1.30.90
+ns 86400 IN AAAA 2001:770:50:300::10
+ns 86400 IN A 193.1.30.10
+aitintranet 86400 IN A 193.1.30.40
+elearningm2 86400 IN AAAA 2001:770:50:300::28
+elearningm2 86400 IN A 193.1.30.28
+edocs 86400 IN A 193.1.234.37
+heict-research 86400 IN CNAME helpdesk
+srcnew 86400 IN A 91.123.236.225
+_sipfederationtls._tcp 86400 IN SRV 0 0 5061 sip
+planetlab-tea 86400 IN A 193.1.13.14
+campuscard 86400 IN A 109.228.26.226
+adfs 86400 IN A 193.1.30.150
+collaboration 86400 IN CNAME vsandboxm2
+nursingresearch 86400 IN A 193.1.30.18
+bri 86400 IN A 193.1.30.44
+netlab 86400 IN A 193.1.30.135
+hal 86400 IN AAAA 2001:770:50:300::2555
+sqa 86400 IN CNAME studentresourcecentre
+src-zebedee 86400 IN A 193.1.30.80
+libmain 86400 IN A 193.1.234.13
+studentresourcecentre 86400 IN AAAA 2001:770:50:300::77
+studentresourcecentre 86400 IN A 193.1.30.77
+#autodiscover 86400 IN CNAME autodiscover.outlook.com.
+vsandboxm2 86400 IN A 193.1.30.29
+research 86400 IN TXT "v=spf1 include:_spf.google.com ~all"
+research 86400 IN MX 1 ASPMX.L.GOOGLE.COM.
+86400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+86400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+86400 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+86400 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+86400 IN MX 10 ASPMX4.GOOGLEMAIL.COM.
+86400 IN MX 10 ASPMX5.GOOGLEMAIL.COM.

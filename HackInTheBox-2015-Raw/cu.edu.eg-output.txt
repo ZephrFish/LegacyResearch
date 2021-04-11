@@ -1,0 +1,1224 @@
+@ 3600 IN SOA ns1 . 2014122684 900 600 604800 3600
+@ 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+3600 IN TXT "v=msv1 t=ca16b838be27a84aa7cfe7d641b892" ""
+3600 IN TXT "google-site-verification=H_g6nIlhd1mtSyCqc47nA7dU1_kKFBW8emyffDJVORI"
+3600 IN TXT "google-site-verification=Vqwlu6HjXQlCYtnNS0_9XHdmZqqUpLRs16xtkUOLBU4"
+3600 IN TXT "3puyCFs+/t8E5ZmoXJoHeKfS2wu9b/tA/ASbeaGXE5tNgmg282n3zSJQdlye3sdmfmhfvWDB653D+ZyEum84dA=="
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+3600 IN TXT "v=spf1 a mx  -all"
+3600 IN TXT "MS=ms93384530"
+@ 3600 IN MX 10 mail
+3600 IN MX 8 cu-edu-eg.mail.eo.outlook.com.
+3600 IN MX 0 aspmx.l.google.com.
+3600 IN MX 1 alt1.aspmx.l.google.com.
+3600 IN MX 3 alt2.aspmx.l.google.com.
+@ 3600 IN NS ns1
+3600 IN NS frcu.eun.eg.
+3600 IN NS ns2
+3600 IN NS cu-dns-srv1.
+@ 3600 IN A 195.246.42.198
+mail.furp 3600 IN CNAME ghs.googlehosted.com.
+plus.dentistry 3600 IN CNAME ghs.googlehosted.com.
+mba.commerce 3600 IN A 193.227.13.23
+mhealthres 3600 IN A 195.246.45.241
+cuweb 3600 IN A 195.246.45.241
+www.agr 3600 IN A 195.246.45.241
+www.mhealthy 3600 IN A 195.246.45.241
+www.jur.furp 3600 IN A 195.246.45.241
+results.commerce 3600 IN A 195.246.45.241
+_sipfederationtls._tcp.ies 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+egy-arch 3600 IN A 193.227.13.51
+www.mail.eece 3600 IN A 193.227.38.156
+googlef4ea1606641b2df6.ham 3600 IN CNAME google.com.
+alumini 3600 IN TXT "MS=ms29028778"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+alumini 3600 IN MX 0 alumini-cu-edu-eg.mail.eo.outlook.com.
+3600 IN MX 10 ms29028778.msv1.invalid.outlook.com.
+surgery.dentistry 3600 IN CNAME www.dentistry
+portal.agr 3600 IN CNAME ghs.googlehosted.com.
+result-y3.foc 3600 IN CNAME ghs.googlehosted.com.
+mhealthmobtam 3600 IN A 195.246.45.241
+rexplore 3600 IN A 193.227.13.51
+stud 3600 IN TXT "MS=ms75614309"
+3600 IN TXT "v=spf1 include:outlook.com ~all"
+stud 3600 IN MX 10 ms75614309.msv1.invalid.outlook.com.
+3600 IN MX 0 stud-cu-edu-eg.mail.eo.outlook.com.
+calendar.pt 3600 IN CNAME .
+www.mba.commerce 3600 IN A 193.227.13.23
+www.helwan.pathways 3600 IN A 193.227.13.51
+plus.mis 3600 IN CNAME ghs.googlehosted.com.
+master.dentistry 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+www.newsph2 3600 IN A 193.227.13.20
+elearning 3600 IN A 193.227.13.20
+lawres 3600 IN A 193.227.13.3
+www.newsph5 3600 IN A 193.227.13.20
+www.newsph6 3600 IN A 193.227.13.20
+scc 3600 IN TXT "google-site-verification=hAWQru9gxUTgDJFuCZDtCAiQ2HpMXefl3IJF4Zkl3Gk"
+scc 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+scc 3600 IN A 195.246.45.241
+st-eng 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+st-eng 3600 IN A 195.246.44.203
+plus.oocn-fpga 3600 IN CNAME ghs.googlehosted.com.
+vpn.nci 3600 IN A 196.219.35.21
+100 3600 IN A 195.246.45.241
+newsph4 3600 IN A 193.227.13.20
+www.mis-data 3600 IN A 193.227.13.20
+sea 3600 IN A 193.227.13.3
+fayoum.pathways 3600 IN A 193.227.13.51
+patcab 3600 IN A 195.246.45.241
+staff 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+staff 3600 IN MX 0 staff-cu-edu-eg.mail.eo.outlook.com.
+staff 3600 IN A 65.54.188.78
+www.mhealthmobelg 3600 IN A 195.246.45.6
+www.ou 3600 IN A 82.201.143.222
+start.niles 3600 IN CNAME ghs.google.com.
+www.mearim 3600 IN A 195.246.45.241
+www.cairodjll 3600 IN A 195.246.45.241
+edarts 3600 IN A 195.246.45.241
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+mail.phth 3600 IN CNAME .
+wn-grid 3600 IN A 193.227.13.47
+shc 3600 IN A 195.246.45.241
+minia.pathways 3600 IN A 193.227.13.51
+www.mhealthmobtam 3600 IN A 195.246.45.241
+grd.pt 3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 10 alt1.aspmx.l.google.com.
+mhealthtam 3600 IN A 195.246.45.241
+plus.phd.dentistry 3600 IN CNAME ghs.googlehosted.com.
+id 3600 IN A 195.246.45.241
+your.pathways 3600 IN A 193.227.13.51
+mail.dentistry 3600 IN CNAME ghs.googlehosted.com.
+drive.pharma 280800 IN CNAME ghs.googlehosted.com.
+icdl 3600 IN A 195.246.45.241
+mhnew 3600 IN A 195.246.45.241
+fldc 3600 IN TXT "google-site-verification=GiYdwkXLcfyojDrDvg03T4b_wsDvtBnAFtl8gG5ce-M"
+fldc 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+fldc 3600 IN A 195.246.42.201
+orthodontics.dentistry 3600 IN CNAME wwws.dentistry
+drtpc 3600 IN MX 10 drtpc
+drtpc 3600 IN A 195.246.43.51
+biotech 3600 IN A 193.227.13.20
+www.icsra 3600 IN A 195.246.45.241
+media.nci 3600 IN A 41.187.16.173
+st.pt 3600 IN TXT "v=spf1 include:_spf.google.com ~all"
+st.pt 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+autodiscover.ou 3600 IN CNAME autodiscover.outlook.com.
+research 3600 IN A 193.227.13.3
+docs.students.dentistry 3600 IN CNAME ghs.googlehosted.com.
+masscommems 3600 IN TXT "google-site-verification=1FWtfpBTCXQPkXfL5_kVnF4J_X6Nb4TFBUukj5UkVg4"
+masscommems 3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+monitoring 3600 IN A 195.246.45.17
+urbanplanning 3600 IN A 195.246.45.241
+www.mail 3600 IN A 193.227.7.130
+rbahgat 3600 IN A 195.246.42.194
+www.search 3600 IN A 193.227.13.20
+www.cuproject 3600 IN A 195.246.45.241
+docs.std.furp 3600 IN CNAME ghs.googlehosted.com.
+std.furp 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+ftp.masscomm 3600 IN A 193.227.13.20
+www.bio.vet 3600 IN A 193.227.13.20
+plus.ansr 3600 IN CNAME ghs.googlehosted.com.
+agrlib 3600 IN A 195.246.45.241
+initiative 3600 IN A 193.227.13.20
+www.mhealthelg 3600 IN A 195.246.45.6
+www.initiative 3600 IN A 193.227.13.20
+science 3600 IN A 174.122.174.250
+sip 3600 IN CNAME sipdir.online.lync.com\032.
+drive.oocn-fpga 3600 IN CNAME ghs.googlehosted.com.
+result.darelom 3600 IN A 195.246.45.241
+calendar.nci 311043600 IN CNAME ghs.googlehosted.com.
+moodle.eece 3600 IN A 193.227.38.154
+awarpenv 3600 IN A 193.227.13.3
+1663441697.students 3600 IN CNAME domains.live.com.
+www.clt 3600 IN A 193.227.13.20
+scholar 3600 IN A 195.246.42.194
+cuportal 3600 IN A 195.246.42.198
+www.nursing 3600 IN A 195.246.45.241
+mail.mis 3600 IN CNAME ghs.googlehosted.com.
+enbii 3600 IN A 193.227.13.20
+mail.arts 3600 IN CNAME ghs.googlehosted.com.
+www.infonet 3600 IN A 195.246.42.203
+ftp.issr 3600 IN A 195.246.45.241
+CUICA2015.foc 3600 IN CNAME ghs.google.com.
+mhealthmobelg 3600 IN A 195.246.45.6
+www.italy.arts 3600 IN A 195.246.45.241
+mhealthsyd 3600 IN A 195.246.45.241
+result-y1.foc 3600 IN CNAME ghs.googlehosted.com.
+_sip._tls.staff 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+mob.ou 3600 IN A 82.201.143.221
+3600 IN A 82.201.143.223
+mail.cufealumni 3600 IN CNAME ghs.googlehosted.com.
+www.csc 3600 IN A 195.246.45.241
+drive.students.dentistry 3600 IN CNAME ghs.googlehosted.com.
+drive.ansr 3600 IN CNAME ghs.googlehosted.com.
+autodiscover.alumini 3600 IN CNAME autodiscover.outlook.com.
+anader 3600 IN A 195.246.42.194
+www.gerc 3600 IN A 195.246.45.241
+emaster.masscomm 3600 IN A 193.227.5.230
+endodontics.dentistry 3600 IN CNAME www.dentistry
+plus.furp 3600 IN CNAME ghs.googlehosted.com.
+newsph5 3600 IN A 193.227.13.20
+bulletin 3600 IN A 193.227.5.70
+newsph6 3600 IN A 193.227.13.20
+www.youth 3600 IN A 195.246.45.241
+develop 3600 IN A 195.246.42.198
+asp.artsjoomla 3600 IN A 195.246.45.241
+www.student 3600 IN A 193.227.13.3
+mail.pt 3600 IN CNAME .
+mserver.cucqae 3600 IN A 41.196.198.4
+www.mdgs 3600 IN A 193.227.13.20
+results 3600 IN A 195.246.45.241
+mail 3600 IN TXT "3puyCFs+/t8E5ZmoXJoHeKfS2wu9b/tA/ASbeaGXE5tNgmg282n3zSJQdlye3sdmfmhfvWDB653D+ZyEum84dA=="
+mail 3600 IN MX 0 cu-edu-eg.mail.eo.outlook.com.
+3600 IN MX 10 mail
+mail 3600 IN A 193.227.7.130
+lyncdiscover.ies.cu.edu.eg.ies 3600 IN CNAME webdir.online.lync.com.
+portal.emp.agr 3600 IN CNAME ghs.googlehosted.com.
+www.scholar 3600 IN A 195.246.42.194
+www.cws 3600 IN A 195.246.45.241
+ashry 3600 IN A 195.246.42.194
+artsjoomla 3600 IN A 193.227.13.20
+oratest 3600 IN A 195.246.45.4
+start.mis 3600 IN CNAME ghs.googlehosted.com.
+www.patcab 3600 IN A 195.246.45.241
+www.foreign 3600 IN A 195.246.45.241
+appcumis 3600 IN A 193.227.5.69
+cupros 3600 IN MX 10 cupros
+cupros 3600 IN A 193.227.14.37
+my.pathways 3600 IN A 193.227.13.51
+mearim 3600 IN A 195.246.45.241
+ad.pathways 3600 IN A 193.227.13.51
+www.pharma 3600 IN A 162.144.248.101
+www.cairo.pathways 3600 IN A 195.246.45.241
+alumnicommunity 3600 IN A 193.227.13.20
+emp 3600 IN TXT "MS=ms51545169"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+emp 3600 IN MX 10 ms51545169.msv1.invalid.outlook.com.
+3600 IN MX 0 emp-cu-edu-eg.mail.eo.outlook.com.
+www.nspa 3600 IN A 193.227.13.20
+start.phd.dentistry 3600 IN CNAME ghs.googlehosted.com.
+www.awarpenv 3600 IN A 193.227.13.3
+www.cuportal 3600 IN A 195.246.42.198
+www.conf2009.agr 3600 IN A 193.227.13.20
+www.elc 3600 IN A 195.246.42.215
+www.newsph3 3600 IN A 193.227.13.20
+drive.nursing 3600 IN CNAME ghs.googlehosted.com.
+lib.arts 3600 IN A 193.227.5.35
+www.fose 3600 IN A 195.246.45.241
+lyncdiscover.stud 3600 IN CNAME webdir.online.lync.com.
+www.newsph4 3600 IN A 193.227.13.20
+drive.furp 3600 IN CNAME ghs.googlehosted.com.
+start.fldc 3600 IN CNAME ghs.googlehosted.com.
+docs.nursing 3600 IN CNAME ghs.googlehosted.com.
+commres 3600 IN A 193.227.13.3
+www.stcommunity 3600 IN A 195.246.45.241
+cca-arch 3600 IN A 195.246.45.241
+www.dentistry 3600 IN A 195.246.45.241
+cucourses 3600 IN A 195.246.45.241
+docs.pt 3600 IN CNAME .
+plus.master.dentistry 3600 IN CNAME ghs.googlehosted.com.
+result-y4.foc 3600 IN CNAME ghs.googlehosted.com.
+start.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+www.epa 3600 IN A 193.227.10.2
+std.arts 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+plus.agr 3600 IN CNAME ghs.googlehosted.com.
+kasralainy 3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+kasralainy 3600 IN A 173.254.60.182
+www.sdl 3600 IN A 195.246.45.241
+quality-arch 3600 IN A 195.246.42.198
+sci 3600 IN NS ns1.sci
+3600 IN NS ns2.sci
+cuphweb 3600 IN A 193.227.13.20
+www.oocn-fpga 3600 IN CNAME ghs.googlehosted.com.
+beni-sueif.pathways 3600 IN A 193.227.13.51
+mail.sorcam 3600 IN CNAME ghs.googlehosted.com.
+desert-technology-12.agr 3600 IN A 193.227.5.151
+calendar.niles 3600 IN CNAME ghs.google.com.
+gerc 3600 IN A 195.246.45.241
+mhealth 3600 IN A 195.246.45.6
+www.bulletin 3600 IN A 193.227.5.70
+www.alcc 3600 IN A 195.246.45.241
+acc-vlab 3600 IN A 193.227.13.20
+www.csds 3600 IN A 193.227.14.23
+vpn 3600 IN A 193.227.11.116
+mail.infonet 3600 IN CNAME ghs.googlehosted.com.
+www.mastercairoimplant 3600 IN A 195.246.42.199
+play.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+www.gaw 3600 IN A 195.246.45.241
+asmc.fa-arch 3600 IN A 193.227.13.23
+mysql.masscomm 3600 IN A 193.227.13.20
+mhres 3600 IN A 195.246.45.241
+_sip._tls.pg 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+students 3600 IN TXT "v=spf1 include:outlook.com ~all"
+students 3600 IN MX 10 1663441697.mail.outlook.com.
+students 3600 IN A 65.54.188.78
+Eng-alum 0 IN NS nseng
+conference.dentistry 3600 IN CNAME www.dentistry
+cairo_un 3600 IN A 193.227.13.3
+webmail.pharma 3600 IN A 198.57.207.248
+www.student.vet 3600 IN A 193.227.13.20
+essmat 3600 IN A 195.246.42.194
+hostle 3600 IN A 195.246.45.241
+mail.pharma 311043600 IN CNAME ghs.googlehosted.com.
+ftp.commerce 3600 IN A 195.246.45.241
+www.edarts 3600 IN A 195.246.45.241
+journal.nci 3600 IN A 41.187.16.171
+srvdent001 3600 IN A 195.246.42.199
+www.participation.agr 3600 IN A 195.246.45.241
+mscds 3600 IN A 195.246.45.241
+cairo.dent 3600 IN A 193.227.13.3
+sites.cucqae 3600 IN CNAME ghs.googlehosted.com.
+www.sa.science 3600 IN A 193.227.5.126
+staff1 3600 IN A 193.227.13.3
+agrelearn 3600 IN A 193.227.13.20
+iciae 3600 IN A 195.246.45.241
+plus.arts 311043600 IN CNAME ghs.googlehosted.com.
+hanaakaraksy 3600 IN A 195.246.42.194
+www.emis 3600 IN A 193.227.5.66
+fose 3600 IN A 195.246.45.241
+frcu.eun.eg. 3600 IN A 193.227.1.1
+emaster.masscom 3600 IN TXT "google-site-verification=ii8n8ZOJN89f9_o23IArtfnKtOO2vpdY-28ot7CjoVA"
+emaster.masscom 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+drive.dentistry 3600 IN CNAME ghs.googlehosted.com.
+emaster1.masscomm 3600 IN TXT "google-site-verification=H_g6nIlhd1mtSyCqc47nA7dU1_kKFBW8emyffDJVORI"
+emaster1.masscomm 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+docs.phd.dentistry 3600 IN CNAME ghs.googlehosted.com.
+training.scc 3600 IN A 195.246.45.241
+nseng 3600 IN A 193.227.9.200
+www.cspm 3600 IN A 195.246.45.241
+red-sea.pathways 3600 IN A 193.227.13.51
+mdgs 3600 IN A 193.227.13.20
+tameraali 3600 IN A 195.246.42.194
+path 3600 IN A 193.227.13.51
+arts.elearning 3600 IN A 193.227.13.20
+artres 3600 IN A 193.227.13.3
+niles 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+niles 3600 IN A 193.227.13.20
+results.agr 3600 IN A 195.246.45.241
+mail.phd.dentistry 3600 IN CNAME ghs.googlehosted.com.
+itu.nursing 3600 IN A 193.227.13.20
+www.cuac 3600 IN A 193.227.13.23
+_sipfederationtls._tcp.stud 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www.agrlib 3600 IN A 195.246.45.241
+genet.dept 3600 IN A 195.246.45.241
+mail.math-sci 3600 IN A 195.246.42.53
+autodiscover.emp 3600 IN CNAME autodiscover.outlook.com.
+fci.elearning 3600 IN A 195.246.45.241
+ns1 3600 IN A 195.246.42.210
+www.acc-vlab 3600 IN A 193.227.13.20
+mail.kind 3600 IN CNAME ghs.googlehosted.com.
+alcc 3600 IN A 195.246.45.241
+docs.master.dentistry 3600 IN CNAME ghs.googlehosted.com.
+csds 3600 IN MX 10 193.227.14.23.
+csds 3600 IN A 193.227.14.23
+docs.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+sip.tls.ou 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.cufe 3600 IN A 193.227.10.200
+pt 3600 IN TXT "google-site-verification=MOzhii-VYTYkqEJSRDmOf-mixPAos21vjh0fZLLhKxU"
+pt 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 6 alt1.aspmx.l.google.com.
+3600 IN MX 7 alt2.aspmx.l.google.com.
+3600 IN MX 8 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+pt 3600 IN A 195.246.45.241
+esmat 3600 IN A 195.246.42.194
+drive.arts 3600 IN CNAME ghs.googlehosted.com.
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+std.agr 3600 IN MX 30 aspmx2.google.com.
+3600 IN MX 30 aspmx3.google.com.
+3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+calendar.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+ns2.egyevents.net. 3600 IN A 69.89.16.124
+elearning-cucm 3600 IN A 193.227.13.20
+results.masscomm 3600 IN A 195.246.45.241
+_sipfederationtls._tcp.staff 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www.dlib 3600 IN A 195.246.45.241
+elective 3600 IN A 195.246.45.241
+sip.alumini 3600 IN CNAME sipdir.online.lync.com.
+drive.agr 3600 IN CNAME ghs.googlehosted.com.
+www.beni-sueif.pathways 3600 IN A 193.227.13.51
+lyncdiscover.emp 3600 IN CNAME webdir.online.lync.com.
+www.luxor.pathways 3600 IN A 193.227.13.51
+1009270201.staff 3600 IN CNAME domains.live.com.
+biology.dentistry 3600 IN CNAME www.dentistry
+agrres 3600 IN A 195.246.45.241
+sorcam 3600 IN TXT "google-site-verification=nYI4FboL4l97uF6ma8f3fHEAhcBr2WzXm5XLHlpX5OA" "          "
+sorcam 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+cuclub 3600 IN A 108.175.148.57
+profsalmadowara 3600 IN A 195.246.42.194
+psyconf 3600 IN A 72.52.148.43
+www.mhealthmobph 3600 IN A 195.246.45.241
+acc 3600 IN A 195.246.45.241
+forum.cl 3600 IN A 193.227.11.165
+abo 3600 IN A 195.246.42.194
+www.mhealthmobnya 3600 IN A 195.246.45.6
+www.dmcm 3600 IN A 193.227.14.69
+akeed 3600 IN A 193.227.13.20
+stactiv 3600 IN A 193.227.13.20
+atansik 3600 IN A 195.246.45.241
+sthost 3600 IN A 195.246.45.241
+jur.furp 3600 IN A 195.246.45.241
+www.jar 3600 IN A 195.246.45.241
+cspm 3600 IN A 195.246.45.241
+netview 3600 IN A 195.246.45.22
+quality.dentistry 3600 IN CNAME www.dentistry
+calendar.ckes 3600 IN CNAME ghs.googlehosted.com.
+www.saqqara.fa-arch 3600 IN A 193.227.13.23
+autodiscover 3600 IN CNAME autodiscover.outlook.com.
+docs.foc 3600 IN CNAME ghs.google.com.
+cuac 3600 IN A 193.227.13.23
+operative.dentistry 3600 IN CNAME www.dentistry
+dbsrc 3600 IN A 193.227.13.20
+ch.nursing 3600 IN A 193.227.13.51
+agr 3600 IN TXT "google-site-verification=_xVX-34C7k3wH62FmmrpTS1fggFlAMGJa3H1BQ-DQIk"
+agr 3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 30 aspmx2.google.com.
+3600 IN MX 30 aspmx3.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+agr 3600 IN A 195.246.45.241
+mail.std.furp 3600 IN CNAME ghs.googlehosted.com.
+drive.master.dentistry 3600 IN CNAME ghs.googlehosted.com.
+plus.pharma 280800 IN CNAME ghs.googlehosted.com.
+autodiscover.mail 3600 IN CNAME autodiscover.outlook.com.
+rcsc 3600 IN A 193.227.13.20
+innovate 3600 IN A 193.227.13.23
+iauss233 3600 IN A 195.246.45.241
+www.cuway 3600 IN A 195.246.45.125
+credit.nursing 3600 IN A 195.246.45.6
+www.ecrs 3600 IN A 193.227.13.20
+newsph2 3600 IN A 193.227.13.20
+newsph3 3600 IN A 193.227.13.20
+emastermasscomm 3600 IN A 193.227.5.230
+www.cuphelearning 3600 IN A 193.227.13.20
+comtest 3600 IN A 195.246.45.241
+www.ectl 3600 IN A 193.227.13.20
+www.eece 3600 IN A 193.227.38.153
+www.acc.cu.edu.eg 3600 IN A 195.246.45.241
+www.african 3600 IN A 193.227.13.23
+cufe 3600 IN MX 10 mail.cufe
+cufe 3600 IN A 193.227.10.200
+www.fa-arch 3600 IN A 195.246.45.241
+www.intresconf 3600 IN A 193.227.13.0
+cal 3600 IN A 193.227.13.3
+plus.std.furp 3600 IN CNAME ghs.googlehosted.com.
+docs.ansr 3600 IN CNAME ghs.googlehosted.com.
+ns1.egyevents.net. 3600 IN A 74.220.195.44
+www.staff 3600 IN A 65.54.188.78
+aswan.pathways 3600 IN A 193.227.13.51
+www.foc 3600 IN CNAME ghs.google.com.
+www.alumnicommunity 3600 IN A 193.227.13.20
+dlib 3600 IN A 195.246.45.241
+www.questionnaire 3600 IN A 195.246.45.241
+www.mhealthmobatb 3600 IN A 195.246.45.6
+drive.std.agr 3600 IN CNAME ghs.googlehosted.com.
+www.mhealthmobasn 3600 IN A 195.246.45.6
+start.ansr 3600 IN CNAME ghs.googlehosted.com.
+participation.agr 3600 IN A 195.246.45.241
+mhealthatb 3600 IN A 195.246.45.6
+result.pt 3600 IN A 195.245.45.241
+mhealthasn 3600 IN A 195.246.45.6
+pathology.dentistry 3600 IN CNAME www.dentistry
+students.dentistry 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 5 alt3.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+dmcm 3600 IN A 193.227.14.69
+engelective 3600 IN A 193.227.38.152
+azhar.pathways 3600 IN A 193.227.13.51
+autodiscover.ies 3600 IN CNAME autodiscover.outlook.com.
+lis.cl 3600 IN A 193.227.11.164
+alum.furp 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+www.rexplore 3600 IN A 193.227.13.51
+annualconfrence.foc 3600 IN CNAME ghs.googlehosted.com.
+its.infonet 3600 IN A 195.246.42.203
+sccexam 3600 IN A 195.246.45.241
+lyncdiscover 3600 IN CNAME webdir.online.lync.com\032.
+www.issr 3600 IN A 195.246.45.241
+www.email 3600 IN A 195.246.45.241
+www.law 3600 IN A 193.227.13.20
+www.hostle 3600 IN A 195.246.45.241
+www.innovate 3600 IN A 193.227.13.23
+lib.commerce 3600 IN A 193.227.5.51
+autodiscover.pg 3600 IN CNAME autodiscover.outlook.com.
+docs.furp 3600 IN CNAME ghs.googlehosted.com.
+masscomm 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+masscomm 3600 IN A 195.246.45.6
+www.drtpc 3600 IN A 195.246.43.51
+start.students.dentistry 3600 IN CNAME ghs.googlehosted.com.
+ecrs 3600 IN A 193.227.13.20
+mastercairoimplant 3600 IN A 195.246.42.199
+www.iswi 3600 IN A 195.246.45.241
+cucqae 3600 IN TXT "google-site-verification=PrmHCXkrN0_EoLHIyQ1auIq3Pp1ZqeQfk1B2Iu9IZEA"
+cucqae 3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 alt3.aspmx.l.google.com.
+3600 IN MX 10 alt4.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+cucqae 3600 IN A 195.246.42.197
+cairodjll 3600 IN A 195.246.45.241
+ectl 3600 IN A 193.227.13.20
+eece 3600 IN TXT "v=spf1 mx mx:mail.eece.cu.edu.eg ip4:193.227.38.156 " "a:mail.eece.cu.edu.eg -all" ""
+eece 3600 IN MX 10 mail.eece
+eece 3600 IN PTR 193.227.38.153.
+eece 3600 IN A 193.227.38.153
+calendar.fldc 3600 IN CNAME ghs.googlehosted.com.
+elearning.issr 3600 IN A 193.227.13.20
+nursing 3600 IN TXT "google-site-verification=-wfZjk2M25LXY-kEoMsWYwdKUAktFHXGvZ7zfq-LWew"
+nursing 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+nursing 3600 IN A 195.246.45.241
+ehesham 3600 IN A 195.246.42.194
+start.emaster.masscom 3600 IN CNAME ghs.googlehosted.com.
+cucqaeghost.cucqae 3600 IN A 41.196.198.3
+infonet 3600 IN TXT "google-site-verification=BTAMTQfoT014EUSVWA3Er02PxGcpMa3e55Jym5lHPKA" "          "
+infonet 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+infonet 3600 IN A 195.246.42.203
+ansr 3600 IN TXT "google-site-verification=MntCm3R2vA0eH7vf98giNK3428vf0MCHSJPJhT8CkqU"
+ansr 3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+icmic 3600 IN A 195.246.45.241
+www.mac 3600 IN A 195.246.45.241
+clt 3600 IN A 193.227.13.20
+www.vetonline 3600 IN A 193.227.10.2
+youth 3600 IN A 195.246.45.241
+result.commerce 3600 IN A 195.246.45.241
+aruba-master 3600 IN A 172.24.0.30
+continuing-edu.dentistry 3600 IN CNAME www.dentistry
+museums-arch 3600 IN A 195.246.42.198
+nspa 3600 IN A 193.227.13.20
+cuproject 3600 IN A 195.246.45.241
+www.urbanplanning 3600 IN A 195.246.45.241
+nfldc 3600 IN A 195.246.42.204
+drive.kind 3600 IN CNAME ghs.googlehosted.com.
+www.red-sea.pathways 3600 IN A 193.227.13.51
+csc 3600 IN A 195.246.45.241
+_sipfederationtls._tcp.pg 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+docs.phth 3600 IN CNAME .
+_sipfederationtls._tcp.ou 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+autodiscover.staff 3600 IN CNAME autodiscover.outlook.com.
+www.minia.pathways 3600 IN A 193.227.13.51
+materials.dentistry 3600 IN CNAME www.dentistry
+student 3600 IN MX 10 2014878711.pamx1.hotmail.com.
+3600 IN MX 10 2086884371.pamx1.hotmail.com.
+student 3600 IN A 193.227.13.3
+docs.iro 3600 IN CNAME ghs.googlehosted.com.
+eleg1 3600 IN A 193.227.5.153
+_sip._tls.emp 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+radiology.dentistry 3600 IN CNAME www.dentistry
+mail.ckes 3600 IN CNAME ghs.googlehosted.com.
+cucqaehost.cucqae 3600 IN A 41.196.198.3
+play.foc 3600 IN CNAME ghs.googlehosted.com.
+cam.cl 3600 IN A 193.227.11.168
+issr 3600 IN MX 10 mail.issr
+issr 3600 IN A 195.246.45.241
+foreign 3600 IN A 195.246.45.241
+calendar.pharma 3600 IN CNAME ghs.googlehosted.com.
+hdist 3600 IN A 10.2.1.209
+eng-st 0 IN NS nseng
+cl 3600 IN MX 10 mail.cl
+cl 3600 IN A 193.227.11.165
+theses 3540 IN A 193.227.1.33
+portal 3600 IN A 195.246.45.241
+emp.agr 3600 IN MX 30 aspmx3.google.com.
+3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.google.com.
+furp 3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+furp 3600 IN A 195.246.45.241
+dl 3600 IN A 195.246.45.241
+sohag.pathways 3600 IN A 193.227.13.51
+sareg.science 3600 IN A 195.246.45.241
+cws 3600 IN A 195.246.45.241
+www.nci 3600 IN A 41.187.16.171
+docs.niles 3600 IN CNAME ghs.google.com.
+fe 3600 IN A 195.246.44.200
+iswi 3600 IN A 195.246.45.241
+profabuabdeen 3600 IN A 195.246.42.194
+conf.nursing 3600 IN A 195.246.45.241
+www.mhealthnya 3600 IN A 195.246.45.6
+mail.gaea 3600 IN CNAME ghs.google.com.
+www.cuclub 3600 IN A 108.175.148.57
+italy.arts 3600 IN A 195.246.45.241
+start.std.furp 3600 IN CNAME ghs.googlehosted.com.
+bulletin.agr 3600 IN A 193.227.13.20
+portal.nci 311043600 IN CNAME ghs.googlehosted.com.
+docs.emaster.masscom 3600 IN CNAME ghs.googlehosted.com.
+magazine.arts 3600 IN A 193.227.13.23
+www.fayoum.pathways 3600 IN A 193.227.13.51
+gr 3600 IN A 193.227.13.51
+www.ham 3600 IN A 193.227.13.20
+ic 3600 IN NS ns1.sci
+3600 IN NS ns2.sci
+agricbulletin 3600 IN A 195.246.42.215
+result-y2.foc 3600 IN CNAME ghs.googlehosted.com.
+mhealthelg 3600 IN A 195.246.45.6
+www.furp 3600 IN A 195.246.45.241
+sip.emp 3600 IN CNAME sipdir.online.lync.com.
+ns1.sci 3600 IN A 193.227.5.18
+alum.arts 3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+dss 3600 IN A 193.227.13.3
+elc 3600 IN A 195.246.42.215
+phpmyadmin 3600 IN A 193.227.13.20
+lyncdiscover.staff 3600 IN CNAME webdir.online.lync.com.
+fci 3600 IN NS nsfci
+www.cais 3600 IN A 193.227.13.3
+arch 3600 IN A 193.227.13.51
+se-grid 3600 IN A 193.227.13.56
+stafffci 3600 IN A 193.227.14.57
+www.museum.fa-arch 3600 IN A 193.227.13.23
+eng 3600 IN NS nseng
+pediatric.dentistry 3600 IN CNAME www.dentistry
+seat_no.commerce 3600 IN A 195.246.45.241
+www.arts 3600 IN A 193.227.13.20
+www.ehog 3600 IN A 195.246.45.241
+mhealthmobnya 3600 IN A 195.246.45.6
+docs.oocn-fpga 3600 IN CNAME ghs.googlehosted.com.
+sites.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+egyptsun 3600 IN A 195.246.45.241
+drive.foc 3600 IN CNAME ghs.googlehosted.com.
+docs.infonet 3600 IN CNAME ghs.googlehosted.com.
+_sip._tls.ou 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+phd.dentistry 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 1 aspmx.l.google.com.
+calender.std.agr 3600 IN CNAME ghs.googlehosted.com.
+www.surgery.med 3600 IN A 195.246.45.241
+osar 3600 IN A 193.227.13.3
+pg 3600 IN TXT "MS=ms32757788"
+3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+pg 3600 IN MX 10 ms32757788.msv1.invalid.outlook.com.
+3600 IN MX 0 pg-cu-edu-eg.mail.eo.outlook.com.
+chem-sci 3600 IN NS ns2.sci
+3600 IN NS ns1.sci
+commerce 3600 IN A 195.246.45.241
+ou 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all" ""
+ou 3600 IN MX 0 ou-cu-edu-eg.mail.eo.outlook.com.
+3600 IN MX 10 952481935.mail.outlook.com.
+ou 3600 IN A 82.201.143.222
+ftp.pharma 3600 IN A 204.152.212.72
+_sipfederationtls._tcp._tcp.students 3600 IN SRV 10 2 5061 federation.messenger.msn.com.
+calendar.mis 3600 IN CNAME ghs.googlehosted.com.
+cme.ou 3600 IN A 82.201.143.222
+oriental 3600 IN A 195.246.45.241
+mail.std.agr 3600 IN CNAME ghs.googlehosted.com.
+sites.mis 3600 IN CNAME ghs.googlehosted.com.
+masscommres 3600 IN A 193.227.13.3
+activity 3600 IN A 195.246.45.6
+gaw 3600 IN A 195.246.45.241
+helwan.pathways 3600 IN A 193.227.13.51
+tsrp 3600 IN A 193.227.13.20
+cdj.dentistry 3600 IN CNAME www.dentistry
+www.aerospace 86400 IN A 193.227.13.23
+lib.pt 3600 IN A 193.227.13.20
+snc 3600 IN A 195.246.45.241
+nursingconf 3600 IN A 195.246.45.241
+seatno.commerce 3600 IN A 195.246.45.241
+oralmedicine.dentistry 3600 IN CNAME www.dentistry
+ns2 3600 IN A 195.246.42.211
+www.resinfo 3600 IN A 193.227.5.85
+foc 3600 IN TXT "google-site-verification=GHlVjwuwj5c0KhADSN3hNdlssF4SozuoG3FPD-yEDN0"
+foc 3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+foc 3600 IN A 195.246.45.241
+results.nursing 3600 IN A 193.227.13.51
+www.urbancenter-furp 3600 IN A 195.246.45.241
+drive.emp.agr 3600 IN CNAME ghs.googlehosted.com.
+www.phpmyadmin 3600 IN A 193.227.13.20
+mail.fldc 3600 IN CNAME ghs.googlehosted.com.
+www.stactiv 3600 IN A 193.227.13.20
+sites.std.furp 3600 IN CNAME ghs.googlehosted.com.
+www.agrilib 3600 IN A 193.227.13.20
+oocn-fpga 3600 IN TXT "google-site-verification=HtcdzGAfM1iXum9ZjrjGPS8mKqIC1NjDpLFJPxBC2MU"
+oocn-fpga 3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+erepository 3600 IN A 195.246.42.194
+engtraining 3600 IN A 195.246.45.241
+www.azhar.pathways 3600 IN A 193.227.13.51
+www.info-fp7 3600 IN A 195.246.45.241
+www.ou3 3600 IN A 62.241.131.5
+oracle 3600 IN A 195.246.45.241
+result.arts 3600 IN A 195.246.45.241
+newsph 3600 IN A 193.227.13.20
+ham 3600 IN TXT "google-site-verification=QrX81lYPHnuTUxsLFNfa4NVEYTRXiqraoVYZAauBrSg"
+ham 3600 IN A 193.227.13.20
+cais 3600 IN A 193.227.13.3
+www.lecture 3600 IN A 195.246.45.241
+search 3600 IN A 193.227.13.20
+cuagree 3600 IN A 195.246.45.241
+cufealumni 4294944000 IN TXT "google-site-verification=a1KP0Z6JXWEr73W9xBxt6ZIvRqxQjH9O5o_LwMVtAsQ"
+cufealumni 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 1 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+www.cbrl 3600 IN A 195.246.45.241
+docs.mis 3600 IN CNAME ghs.googlehosted.com.
+getmail 3600 IN A 195.246.45.241
+www.iciae 3600 IN A 195.246.45.241
+arts 3600 IN TXT "google-site-verification=yJg420w0eTtJEDBlyVxs_wumdRyL-w7cYGSBdqAj39A"
+3600 IN TXT "v=spf1 include:_spf.google.com ~all"
+arts 311043600 IN MX 5 alt2.aspmx.l.google.com.
+311043600 IN MX 1 aspmx.l.google.com.
+311043600 IN MX 5 alt1.aspmx.l.google.com.
+311043600 IN MX 10 aspmx3.googlemail.com.
+311043600 IN MX 10 aspmx2.googlemail.com.
+arts 3600 IN A 193.227.13.20
+ehog 3600 IN A 195.246.45.241
+www.egyptsun 3600 IN A 195.246.45.241
+_sip._tls.ies 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+plus.students.dentistry 3600 IN CNAME ghs.googlehosted.com.
+calendar.agr 3600 IN CNAME ghs.googlehosted.com.
+apps.nci 3600 IN A 41.187.16.172
+mhealthmobph 3600 IN A 195.246.45.241
+start.furp 3600 IN CNAME ghs.googlehosted.com.
+www.cucqae 3600 IN A 195.246.42.197
+www.commerce 3600 IN A 195.246.45.241
+mhealthy 3600 IN A 195.246.45.241
+www.pathways 3600 IN A 195.246.45.241
+gsrs 3600 IN A 195.246.45.241
+plus.ckes 3600 IN CNAME ghs.googlehosted.com.
+www.oriental 3600 IN A 195.246.45.241
+portal.arts 3600 IN CNAME ghs.googlehosted.com.
+mail.agr 3600 IN CNAME ghs.googlehosted.com.
+sa.science 3600 IN A 193.227.5.126
+phth 3600 IN TXT "google-site-verification=MOzhii-VYTYkqEJSRDmOf-mixPAos21vjh0fZLLhKxU"
+phth 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 6 alt1.aspmx.l.google.com.
+3600 IN MX 7 alt2.aspmx.l.google.com.
+3600 IN MX 8 aspmx2.googlemail.com.
+3600 IN MX 9 aspmx3.googlemail.com.
+phth 3600 IN A 195.246.45.241
+cumic 3600 IN A 193.227.13.23
+calendar.std.furp 3600 IN CNAME ghs.googlehosted.com.
+www.farp 3600 IN A 195.246.45.241
+mail.cl 3600 IN A 193.227.11.166
+medicine 86400 IN NS ns1.egyevents.net.
+86400 IN NS ns2.egyevents.net.
+transfer.arts 3600 IN A 195.246.45.249
+post.science 3600 IN A 195.246.45.241
+cumis 3600 IN A 193.227.5.74
+mail.nci 3600 IN CNAME ghs.googlehosted.com.
+benha.pathways 3600 IN A 193.227.13.51
+engedu 3600 IN A 193.227.10.9
+3600 IN A 193.227.9.200
+engedu 3600 IN NS engedu
+www.lib 3600 IN A 193.227.13.22
+www.mhealthtam 3600 IN A 195.246.45.241
+icdlexam 3600 IN A 195.246.45.241
+www.iaga 3600 IN A 195.246.45.241
+post.agr 3600 IN TXT " v=spf1 include:_spf.google.com ~all"
+3600 IN TXT "google-site-verification=ffT2N946Z--yzQJhuOW9jkuuBjDqcHAzYOpum6mjWmE"
+post.agr 3600 IN MX 10 alt4.aspmx.l.google.com.
+3600 IN MX 10 gv-56dmrxevh6at5m.dv.googlehosted.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 alt3.aspmx.l.google.com.
+portal.pharma 311043600 IN CNAME ghs.googlehosted.com.
+calendar.oocn-fpga 3600 IN CNAME ghs.googlehosted.com.
+artsres.tansik 3600 IN A 195.246.45.249
+cebd.dentistry 3600 IN CNAME www.dentistry
+start.master.dentistry 3600 IN CNAME ghs.googlehosted.com.
+plus.kind 3600 IN CNAME ghs.googlehosted.com.
+itunit.nursing 3600 IN A 193.227.13.51
+_sip._tls.stud 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+student.vet 3600 IN A 193.227.13.20
+www.sohag.pathways 3600 IN A 193.227.13.51
+ies 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all" ""
+3600 IN TXT "MS=ms40422755" ""
+ies 3600 IN MX 10 ms40422755.msv1.invalid.outlook.com.
+3600 IN MX 0 ies-cu-edu-eg.mail.protection.outlook.com.
+chemconf 3600 IN A 195.246.45.241
+www.sthost 3600 IN A 195.246.45.241
+docs.sorcam 3600 IN CNAME ghs.googlehosted.com.
+actcom 3600 IN A 195.246.45.241
+xc-b0a254.furp 86400 IN A 172.22.16.14
+drive.ckes 3600 IN CNAME ghs.googlehosted.com.
+plus.std.agr 3600 IN CNAME ghs.googlehosted.com.
+gapanat 3600 IN A 195.246.45.241
+www.sareg.science 3600 IN A 195.246.45.241
+cbrl 3600 IN A 195.246.45.241
+www.newsph 3600 IN A 193.227.13.20
+htc 3600 IN A 195.246.45.241
+www.darelom 3600 IN A 195.246.45.241
+assiut.pathways 3600 IN A 193.227.13.51
+www.feps 3600 IN A 193.227.1.83
+jar 3600 IN A 195.246.45.241
+www.portal 3600 IN A 195.246.45.241
+start.oocn-fpga 3600 IN CNAME ghs.googlehosted.com.
+www.qena.pathways 3600 IN A 193.227.13.51
+mail.cucqae 3600 IN CNAME ghs.googlehosted.com.
+results.law 3600 IN A 195.246.45.241
+www.akeed 3600 IN A 193.227.13.20
+plus.sorcam 3600 IN CNAME ghs.googlehosted.com.
+www.quality-eng 3600 IN A 193.227.13.20
+ou.ou 3600 IN TXT "v=spf1include:outlook.com~all"
+moataz 3600 IN A 195.246.42.194
+plus.nci 311043600 IN CNAME ghs.googlehosted.com.
+mail.ou 3600 IN MX 10 mail.ou
+mail.ou 3600 IN A 82.201.143.226
+african 3600 IN A 193.227.13.23
+www.gsrd 3600 IN A 193.227.5.69
+www.scc 3600 IN A 195.246.45.241
+mailreg 3600 IN A 195.246.45.241
+fa-arch 3600 IN A 195.246.45.241
+docs.dentistry 3600 IN CNAME ghs.googlehosted.com.
+mail.nursing 3600 IN CNAME ghs.googlehosted.com.
+www.dbsrc 3600 IN A 193.227.13.20
+mail.emaster.masscom 3600 IN CNAME ghs.googlehosted.com.
+www.mhealthsyd 3600 IN A 195.246.45.241
+farp 3600 IN A 195.246.45.241
+www.kind 3600 IN A 195.246.45.241
+afahmy 3600 IN A 195.246.42.194
+docs.kind 3600 IN CNAME ghs.googlehosted.com.
+hkamel 3600 IN A 195.246.42.194
+ce-grid 3600 IN A 193.227.13.45
+iro 3600 IN TXT "google-site-verification=lQ5IuWl6r6cA2Yoddgja27Y9kEsMLh-C7G4QfqI7c0A"
+iro 4294944000 IN MX 1 aspmx.l.google.com.
+4294944000 IN MX 5 alt1.aspmx.l.google.com.
+4294944000 IN MX 5 alt2.aspmx.l.google.com.
+4294944000 IN MX 10 aspmx2.googlemail.com.
+4294944000 IN MX 10 aspmx3.googlemail.com.
+sip.cl 3600 IN A 193.227.11.169
+emcta.fa-arch 3600 IN A 195.246.45.241
+952481935.ou 3600 IN CNAME domains.live.com.
+www.icdl 3600 IN A 195.246.45.241
+iaga 3600 IN A 195.246.45.241
+www.shc 3600 IN A 195.246.45.241
+www.masscomm.cu.edu.eg 3600 IN A 195.246.45.125
+email 3600 IN A 195.246.45.241
+3600 IN A 193.227.13.50
+icsra 3600 IN A 195.246.45.241
+start.kind 3600 IN CNAME ghs.googlehosted.com.
+eleg 3600 IN A 193.227.5.153
+menna_abdeldayem 3600 IN A 195.246.42.194
+uploads 3600 IN A 195.246.45.22
+plus.nursing 3600 IN CNAME ghs.googlehosted.com.
+urbancenter-furp 3600 IN A 195.246.45.241
+mac 3600 IN A 195.246.45.241
+www.chemconf 3600 IN A 195.246.45.241
+www 3600 IN A 195.246.42.198
+results.med 3600 IN A 195.246.45.241
+www.hlib 3600 IN A 195.246.45.241
+www.artsjoomla 3600 IN A 193.227.13.20
+calender.emp.agr 3600 IN CNAME ghs.googlehosted.com.
+www.vmcu 3600 IN A 193.227.10.2
+www.credit.nursing 3600 IN A 195.246.45.6
+vet 3600 IN TXT "google-site-verification=4832k55fDeJUimlhl05jKesu_Cu0QvhoIDNqYlNAD6c"
+vet 4294944000 IN MX 1 aspmx.l.google.com.
+4294944000 IN MX 5 aspmx.l.google.com.
+4294944000 IN MX 5 alt2.aspmx.l.google.com.
+4294944000 IN MX 10 alt2.aspmx.l.google.com.
+4294944000 IN MX 10 aspmx3.googlemail.com.
+vet 3600 IN A 195.246.42.204
+www.my.pathways 3600 IN A 193.227.13.51
+mail.emp.agr 3600 IN CNAME ghs.googlehosted.com.
+resmasscomm 3600 IN A 195.246.45.241
+www.biotech 3600 IN A 193.227.13.20
+dentistry 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googleemail.com.
+3600 IN MX 10 aspmx3.googleemail.com.
+dentistry 3600 IN A 195.246.45.241
+www.masscommres 3600 IN A 193.227.13.3
+ns6035.hostgator.com. 3600 IN A 50.87.144.29
+epayment 3600 IN A 195.246.45.241
+3600 IN A 195.246.45.125
+st-pharm 3600 IN MX 10 768169784.mail.outlook.com.
+st-pharm 3600 IN A 193.227.13.3
+start.nursing 3600 IN CNAME ghs.googlehosted.com.
+www.nursingconf 3600 IN A 195.246.45.241
+law 3600 IN A 193.227.13.20
+portals 3600 IN A 193.227.13.159
+www.aswan.pathways 3600 IN A 193.227.13.51
+sites.foc 3600 IN CNAME ghs.google.com.
+mail.students.dentistry 3600 IN CNAME ghs.googlehosted.com.
+calenar.sorcam 3600 IN CNAME ghs.googlehosted.com.
+artsfac 3600 IN A 195.246.45.241
+mail.master.dentistry 3600 IN CNAME ghs.googlehosted.com.
+gsrd 3600 IN A 193.227.5.69
+www.mhealthf 3600 IN A 195.246.45.6
+agribulletin 3600 IN A 195.246.42.215
+sip.pg 3600 IN CNAME sipdir.online.lync.com.
+hsalem 3600 IN A 195.246.42.194
+result-en.foc 3600 IN CNAME ghs.googlehosted.com.
+thesis 3540 IN A 193.227.1.33
+drive.sorcam 3600 IN CNAME ghs.googlehosted.com.
+drive.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+www.elearning-cucm 3600 IN A 193.227.13.20
+drive.phd.dentistry 3600 IN CNAME ghs.googlehosted.com.
+docs.cucqae 3600 IN CNAME ghs.googlehosted.com.
+www.kasralainy 3600 IN A 173.254.60.182
+www.your.pathways 3600 IN A 193.227.13.51
+kind 3600 IN TXT "google-site-verification=Mu4fjnH8on7oWvbkKk_WATRzuBSxJpbUXklaWnun-zU"
+kind 3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+kind 3600 IN A 195.246.45.241
+mail.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+www.erepository 3600 IN A 195.246.42.194
+www.engtraining 3600 IN A 195.246.45.241
+live.cl 3600 IN A 193.227.11.174
+kasralainy1 86400 IN NS ns1.egyevents.net.
+86400 IN NS ns2.egyevents.net.
+sip.stud 3600 IN CNAME sipdir.online.lync.com.
+www.chem 3600 IN A 193.227.13.3
+eng1 3600 IN NS nseng
+conf.kind 3600 IN A 195.246.45.241
+emis 3600 IN A 193.227.5.66
+lib 3600 IN A 193.227.13.22
+utst 3600 IN A 62.140.73.168
+www.cl 3600 IN A 193.227.11.165
+acc.cu.edu.eg 3600 IN A 195.246.45.241
+www.mhealthatb 3600 IN A 195.246.45.6
+*.nci 3600 IN A 41.187.16.170
+3600 IN A 196.219.35.20
+www.dl 3600 IN A 195.246.45.241
+math-sci 3600 IN MX 10 mail.math-sci
+math-sci 3600 IN A 195.246.42.53
+intresconf 3600 IN A 193.227.13.3
+www.mob.ou 3600 IN A 82.201.143.221
+3600 IN A 82.201.143.223
+lyncdiscover.ou 3600 IN CNAME webdir.online.lync.com.
+www.icmic 3600 IN A 195.246.45.241
+drive.mis 3600 IN CNAME ghs.googlehosted.com.
+remena 3600 IN A 195.246.45.241
+utsu 3600 IN A 62.140.73.168
+tansik.arts 3600 IN A 195.246.45.241
+hlib 3600 IN A 195.246.45.241
+autodiscover.stud 3600 IN CNAME autodiscover.outlook.com\032.
+autodiscover.students 3600 IN CNAME autodiscover.outlook.com.
+calendar.cufealumni 3600 IN CNAME ghs.googlehosted.com.
+drive.nci 311043600 IN CNAME ghs.googlehosted.com.
+calendar.ansr 3600 IN CNAME ghs.googlehosted.com.
+calendar.dentistry 3600 IN CNAME ghs.googlehosted.com.
+www.id 3600 IN A 195.246.45.241
+amalelsafty 3600 IN A 195.246.42.194
+www.cucourses 3600 IN A 195.246.45.241
+enia 3600 IN A 195.246.45.241
+lyncdiscover.alumini 3600 IN CNAME webdir.online.lync.com.
+www.vfp-lab 3600 IN A 193.227.13.3
+docs.cufealumni 3600 IN CNAME ghs.googlehosted.com.
+mtest 3600 IN A 195.246.45.241
+resmail 3600 IN MX 10 193.227.5.86.
+resmail 3600 IN A 193.227.5.86
+www.phth 3600 IN A 195.246.45.241
+www.epayment 3600 IN A 195.246.45.125
+3600 IN A 195.246.45.241
+www.st-pharm 3600 IN A 193.227.13.3
+felnady 3600 IN A 195.246.42.194
+www.nfldc 3600 IN A 195.246.42.204
+calendar.kind 3600 IN CNAME ghs.googlehosted.com.
+imane_saroit 3600 IN A 195.246.42.194
+_sipfederationtls._tcp.alumini 3600 IN SRV 100 0 5061 sipfed.online.lync.com.
+www.gr 3600 IN A 193.227.13.51
+www.results 3600 IN A 195.246.45.241
+www.remena 3600 IN A 195.246.45.241
+www.vet 3600 IN A 195.246.42.204
+results.darelom 3600 IN A 195.246.45.241
+cunews 3600 IN A 195.246.45.241
+mis 3600 IN TXT "google-site-verification=HJwS9R5TDEWpJ0akUpdSVIny7HSmOXnSdqFXD5Dl61A"
+mis 3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 10 \032aspmx.l.google.com.
+mis 3600 IN A 193.227.5.66
+drive.std.furp 3600 IN CNAME ghs.googlehosted.com.
+accountconf.foc 3600 IN CNAME https://sites.google.com/a/foc.cu.edu.eg/accounting-conference-14/.
+www.100 3600 IN A 195.246.45.241
+calendar 3600 IN CNAME ghs.google.com.
+www.cctdp 3600 IN A 193.227.13.20
+blade-10 1200 IN AAAA 2002:c3f6:2ac6::c3f6:2ac6
+blade-10 1200 IN A 195.246.42.198
+prothesis.dentistry 3600 IN CNAME www.dentistry
+feng 3600 IN A 195.246.44.200
+www.oracle 3600 IN A 195.246.45.241
+nci 3600 IN TXT "v=spf1 include:_spf.google.com ~all" ""
+3600 IN TXT "google-site-verification=8u29FRR2eq_Waq7ZuIPVb3xlHVrXV7oUWc0CKxYJikQ"
+nci 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+nci 3600 IN A 41.187.16.171
+start.sorcam 3600 IN CNAME ghs.googlehosted.com.
+play.std.furp 3600 IN CNAME ghs.googlehosted.com.
+mhealthmob 3600 IN A 195.246.45.6
+www.assiut.pathways 3600 IN A 193.227.13.51
+_autodiscover._tcp 3600 IN SRV 0 0 443 mail
+www.pt 3600 IN NS ns6035.hostgator.com.
+www.conf.kind 3600 IN A 195.246.45.241
+www.st-eng 3600 IN A 195.246.44.203
+mail.foc 3600 IN CNAME ghs.google.com.
+feps 3600 IN A 193.227.1.83
+artstancek 3600 IN A 195.246.45.241
+nsfci 3600 IN A 193.227.14.33
+_sip._tls.alumini 3600 IN SRV 0 0 443 sipdir.online.lync.com.
+www.lib.arts 3600 IN A 193.227.5.35
+calendar.furp 3600 IN CNAME ghs.googlehosted.com.
+plus.emp.agr 3600 IN CNAME ghs.googlehosted.com.
+ns6036.hostgator.com. 3600 IN A 50.87.147.132
+www.st 3600 IN A 193.227.10.2
+www.iesr 3600 IN A 193.227.13.23
+start.infonet 3600 IN CNAME ghs.googlehosted.com.
+stud.cu.edu.eg 3600 IN MX 10 stud.
+ehogtest 3600 IN A 195.246.45.125
+info-fp7 3600 IN A 195.246.45.241
+journal 3600 IN A 193.227.13.3
+www.agrelearn 3600 IN A 193.227.13.20
+elibrary.dentistry 3600 IN CNAME www.dentistry
+www.lib.pt 3600 IN A 193.227.13.20
+saqqara.fa-arch 3600 IN A 193.227.13.23
+ies.elearning 3600 IN A 193.227.13.20
+bio.vet 3600 IN A 193.227.13.20
+www.eleg 3600 IN A 193.227.5.153
+mail.niles 3600 IN CNAME ghs.google.com.
+www.cuphweb 3600 IN A 193.227.13.20
+std.pharma 3600 IN TXT "v=spf1 include:_spf.google.com ~all"
+std.pharma 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+cctdp 3600 IN A 193.227.13.20
+3yxui674xdyi.post.agr 3600 IN CNAME .
+calendar.students.dentistry 3600 IN CNAME ghs.googlehosted.com.
+_sipfederationtls._tcp.emp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www.mhealth 3600 IN A 195.246.45.6
+lib-arch 3600 IN A 193.227.13.51
+cnews 3600 IN A 195.246.45.241
+sherif 3600 IN A 195.246.42.194
+sqau 3600 IN A 195.246.45.241
+kind.kind 3600 IN A 195.246.45.241
+admin.mis 3600 IN A 193.227.5.74
+mmohi 3600 IN A 195.246.42.194
+www.genet.dept 3600 IN A 195.246.45.241
+resinfo 3600 IN A 193.227.5.85
+www.mscds 3600 IN A 195.246.45.241
+stud.vet 4294947600 IN MX 5 alt2.aspmx.l.google.com.
+4294947600 IN MX 10 aspmx3.googlemail.com.
+4294947600 IN MX 10 aspmx2.googlemail.com.
+4294947600 IN MX 1 aspmx.l.google.com.
+4294947600 IN MX 5 alt1.aspmx.l.google.com.
+start.foc 3600 IN CNAME ghs.googlehosted.com.
+dares 3600 IN A 193.227.13.3
+www.niles 3600 IN A 193.227.13.20
+www.comtest 3600 IN A 195.246.45.241
+mail.oocn-fpga 3600 IN CNAME ghs.googlehosted.com.
+docs.ckes 3600 IN CNAME ghs.googlehosted.com.
+w3.commerce 3600 IN A 195.246.45.241
+sites.dentistry 3600 IN CNAME ghs.googlehosted.com.
+agrilib 3600 IN A 193.227.13.20
+mhf 3600 IN A 195.246.45.241
+www.desert-technology-12.agr 3600 IN CNAME desert-technology-12.agr
+cairo.pathways 3600 IN A 195.246.45.241
+193.227.14.67 3600 IN PTR staff
+start.ckes 3600 IN CNAME ghs.googlehosted.com.
+new_mail.cu_mail 3600 IN CNAME mail
+www.science 3600 IN A 195.246.45.241
+nbf2013 3600 IN A 195.246.42.198
+result.iesr 3600 IN A 195.246.45.241
+www.gaea 3600 IN A 193.227.13.20
+lecture 3600 IN A 195.246.45.241
+docs.gaea 3600 IN CNAME ghs.google.com.
+mhealthnya 3600 IN A 195.246.45.6
+www.mis 3600 IN A 193.227.5.66
+mhealthc 3600 IN A 195.246.45.241
+mhealthd 3600 IN A 195.246.45.241
+mhealthe 3600 IN A 195.246.45.241
+mhealthf 3600 IN A 195.246.45.6
+luxor.pathways 3600 IN A 193.227.13.51
+elfa.arts 3600 IN A 193.227.13.3
+ou2 3600 IN A 193.227.1.72
+ou3 3600 IN A 62.241.131.5
+mhealthm 3600 IN A 195.246.45.6
+mhealthn 3600 IN A 195.246.45.241
+iesr 3600 IN A 193.227.13.23
+calendar.cucqae 3600 IN CNAME ghs.googlehosted.com.
+mhealthr 3600 IN A 195.246.45.6
+www.students 3600 IN A 65.54.188.78
+calendar.master.dentistry 3600 IN CNAME ghs.googlehosted.com.
+www.resmail 3600 IN A 193.227.5.86
+ies1.elearning 3600 IN A 193.227.13.20
+mis-data 3600 IN A 193.227.13.20
+pathways 3600 IN A 195.246.45.241
+www.mhealthr 3600 IN A 195.246.45.6
+calendar.phth 3600 IN CNAME .
+mail.eece 3600 IN TXT "v=spf1 mx ip4:193.227.38.156 -all"
+mail.eece 3600 IN PTR 193.227.38.156.
+mail.eece 3600 IN A 193.227.38.156
+sip.ies.cu.edu.eg.ies 3600 IN CNAME sipdir.online.lync.com.
+www.masscomm 3600 IN A 195.246.45.6
+prosthodontics.dentistry 3600 IN CNAME www.dentistry
+gaea 3600 IN MX 1 aspmx.l.google.com.
+gaea 3600 IN A 193.227.13.20
+mail.ansr 3600 IN CNAME ghs.googlehosted.com.
+nasermowafy 3600 IN A 195.246.42.194
+ns2.sci 3600 IN A 193.227.5.19
+quality-eng 3600 IN A 193.227.13.20
+www.mailreg 3600 IN A 195.246.45.241
+portal.std.agr 3600 IN CNAME ghs.googlehosted.com.
+dlibrary 3600 IN A 195.246.42.196
+lyncdiscover.pg 3600 IN CNAME webdir.online.lync.com.
+pt1 3600 IN NS ns6035.hostgator.com.
+3600 IN NS ns6036.hostgator.com.
+sccnews 3600 IN A 195.246.45.241
+surgery.med 3600 IN A 195.246.45.241
+www.mhealthd 3600 IN A 195.246.45.241
+www.mhealthasn 3600 IN A 195.246.45.6
+calendar.arts 3600 IN CNAME ghs.googlehosted.com.
+qena.pathways 3600 IN A 193.227.13.51
+www.mhealthe 3600 IN A 195.246.45.241
+calendar.iro 3600 IN CNAME ghs.googlehosted.com.
+cuphelearning 3600 IN A 193.227.13.20
+ckes 3600 IN TXT "google-site-verification=u6ll8sN1NfbSScMUIOaBq3zqR9KVVOHMOiADcEPNiI8"
+ckes 3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 10 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 30 aspmx5.googlemail.com.
+3600 IN MX 10 \032aspmx.l.google.com.
+abdou 3600 IN A 195.246.42.194
+aerospace 86400 IN A 193.227.13.23
+calendar.phd.dentistry 3600 IN CNAME ghs.googlehosted.com.
+calender.emaster.masscom 3600 IN CNAME ghs.googlehosted.com.
+calendar.nursing 3600 IN CNAME ghs.googlehosted.com.
+monitor.infonet 3600 IN A 195.246.42.205
+www.acc 3600 IN A 195.246.45.241
+www.cumic 3600 IN A 193.227.13.23
+conference.issr 3600 IN A 193.227.13.23
+alum.pharma 3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+pharma 3600 IN TXT "v=spf1 include:_spf.google.com ~all"
+pharma 311043600 IN MX 10 aspmx3.googlemail.com.
+311043600 IN MX 1 aspmx.l.google.com.
+311043600 IN MX 5 alt1.aspmx.l.google.com.
+311043600 IN MX 5 alt2.aspmx.l.google.com.
+311043600 IN MX 10 aspmx2.googlemail.com.
+pharma 3600 IN A 162.144.248.101
+calendar.infonet 3600 IN CNAME ghs.googlehosted.com.
+conf2009.agr 3600 IN A 193.227.13.20
+mail.iro 3600 IN CNAME ghs.googlehosted.com.
+www.cumis 3600 IN A 193.227.5.74
+plus.alum.furp 3600 IN CNAME ghs.googlehosted.com.
+stcommunity 3600 IN A 195.246.45.241
+www.iauss233 3600 IN A 195.246.45.241
+museum.fa-arch 3600 IN A 193.227.13.23
+www.mhealthc 3600 IN A 195.246.45.241
+mail.issr 3600 IN A 195.246.45.241
+sites.furp 3600 IN CNAME ghs.googlehosted.com.
+www.fldc 3600 IN A 195.246.42.201
+questionnaire 3600 IN A 195.246.45.241
+mhealthmobatb 3600 IN A 195.246.45.6
+cuway 3600 IN A 195.246.45.125
+docs.fldc 3600 IN CNAME ghs.googlehosted.com.
+mhealthmobasn 3600 IN A 195.246.45.6
+darelom 3600 IN A 195.246.45.241
+calendar.foc 3600 IN CNAME ghs.google.com.
+www.mhealthn 3600 IN A 195.246.45.241

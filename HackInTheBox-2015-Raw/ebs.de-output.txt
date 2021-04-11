@@ -1,0 +1,72 @@
+@ 900 IN SOA ns2 sysadmin.domain.ebs.edu. 2014112801 28800 21600 3600000 900
+@ 900 IN A 213.252.184.115
+@ 900 IN NS ns2
+900 IN NS pns.dtag.de.
+900 IN NS secondary006.dtag.net.
+@ 900 IN MX 40 mx11d.antispameurope.com.
+900 IN MX 10 mx11a.antispameurope.com.
+900 IN MX 30 mx11c.antispameurope.com.
+900 IN MX 20 mx11b.antispameurope.com.
+@ 900 IN TXT "v=spf1 mx a:my1.myebs.de a:my2.myebs.de a:mailhub.ebs.de a:webmail.ebs.de ~all"
+popebs 900 IN CNAME owa.ebs.edu.
+ns2 900 IN A 213.252.184.104
+jobinterviewseminar 900 IN CNAME my3.myebs.de.
+mailee 900 IN A 5.10.179.90
+inside 900 IN CNAME inside.ebs.edu.
+owwi2ql 900 IN A 89.31.0.234
+social.inside 900 IN CNAME social.inside.ebs.edu.
+students 900 IN MX 40 mx11d.antispameurope.com.
+900 IN MX 10 mx11a.antispameurope.com.
+900 IN MX 20 mx11b.antispameurope.com.
+900 IN MX 30 mx11c.antispameurope.com.
+resumebook 900 IN CNAME my3.myebs.de.
+career 900 IN CNAME my3.myebs.de.
+owa 900 IN CNAME owa.ebs.edu.
+owb 900 IN MX 40 mx11d.antispameurope.com.
+900 IN MX 10 mx11a.antispameurope.com.
+900 IN MX 20 mx11b.antispameurope.com.
+900 IN MX 30 mx11c.antispameurope.com.
+owc 900 IN MX 20 mx02b.antispameurope.de.
+900 IN MX 30 mx02c.antispameurope.de.
+900 IN MX 40 mx02d.antispameurope.de.
+900 IN MX 10 mx02a.antispameurope.de.
+owd 900 IN MX 60 mforward.dtag.de.
+900 IN MX 50 dl
+cisco-fw 900 IN A 213.252.184.103
+greenprocurement 900 IN CNAME www
+quickr 900 IN A 213.252.184.108
+s15247651 900 IN CNAME webmail
+stellendatenbank 900 IN CNAME my3.myebs.de.
+coaching 900 IN CNAME my3.myebs.de.
+www-opac 900 IN A 213.252.184.112
+wwwopac 900 IN CNAME www-opac
+owz 900 IN MX 10 mailhub3
+sandbox.inside 900 IN CNAME sandbox.inside.ebs.edu.
+www 900 IN A 213.252.184.115
+my 900 IN CNAME web.cluster.myebs.de.
+dzc 900 IN TXT "0JY2ZQS"
+webmail 900 IN A 87.106.67.122
+webmail 900 IN MX 50 webmail
+900 IN MX 60 mforward.dtag.de.
+ow 900 IN MX 50 ns1
+900 IN MX 60 mforward.dtag.de.
+s15289162 900 IN CNAME dl
+smtpsupply 900 IN CNAME mail.myebs.de.
+mailhub3 900 IN A 213.252.184.105
+alumni 900 IN MX 200 mx0160.ppsmtp.de.
+900 IN MX 100 mx0160.ppsmtp.com.
+alumni 900 IN TXT "google-site-verification=KbgKP0xbkeyL7ejYBgxFjXxjHOKDUk4Z0x23Iio0WiA"
+www2 900 IN CNAME campusnet
+campusnet 900 IN A 213.252.184.108
+mailout 900 IN CNAME ns1
+dl 900 IN A 87.106.221.79
+webapp 900 IN CNAME my3.myebs.de.
+ee 900 IN MX 10 mx02a.antispameurope.de.
+900 IN MX 20 mx02b.antispameurope.de.
+900 IN MX 30 mx02c.antispameurope.de.
+900 IN MX 40 mx02d.antispameurope.de.
+survey 900 IN CNAME www.myebs.de.
+smtpebs 900 IN CNAME owa.ebs.edu.
+student 900 IN MX 50 mail.myebs.de.
+popsupply 900 IN CNAME mail.myebs.de.
+sslvpn 900 IN CNAME cisco-fw

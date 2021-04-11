@@ -1,0 +1,64 @@
+@ 7200 IN SOA dns hostmaster.crf 2014111800 7200 3600 2419200 86400
+@ 7200 IN NS dns
+7200 IN NS dns.lcms.org.
+7200 IN NS t1dns1.anl.gov.
+@ 7200 IN A 192.111.36.44
+@ 7200 IN MX 10 caisrh5
+7200 IN MX 20 caisrh4
+7200 IN MX 110 caisrh4.cuchicago.edu.
+@ 7200 IN TXT "MS=ms69451015"
+7200 IN TXT "v=spf1 mx a:caisrh6.cuis.edu -all"
+nat 7200 IN A 192.111.36.175
+banweb 7200 IN A 192.111.36.108
+ldap 7200 IN CNAME alpha6
+caisrh1 7200 IN A 192.111.36.45
+listserv 7200 IN A 192.111.36.14
+listserv 7200 IN MX 10 caisrh5
+7200 IN MX 20 caisrh4
+7200 IN MX 110 caisrh4.cuchicago.edu.
+listserv 7200 IN TXT "v=spf1 a mx -all"
+7200 IN TXT "spf2.0/pra a mx -all"
+caisrh4 7200 IN A 66.99.10.74
+caisrh4 7200 IN TXT "v=spf1 a -all"
+caisrh5 7200 IN A 192.111.36.13
+caisrh5 7200 IN MX 10 caisrh5
+caisrh5 7200 IN TXT "v=spf1 a -all"
+caisrh7 7200 IN A 192.111.36.16
+pop3 7200 IN CNAME ALPHA7
+mail 7200 IN A 192.111.36.106
+mail 7200 IN MX 1 caisrh5
+vpn 7200 IN A 192.111.36.65
+autodiscover 7200 IN A 192.111.36.106
+crf 7200 IN A 192.111.36.5
+crf 7200 IN MX 1 caisrh4
+listserv2 7200 IN A 192.111.36.14
+listserv2 7200 IN MX 10 caisrh4
+7200 IN MX 20 caisrh5
+support 7200 IN A 192.111.36.72
+pmas2 7200 IN A 192.111.36.15
+wiki 7200 IN A 192.111.36.46
+ms 7200 IN A 192.111.36.166
+ms 7200 IN TXT "v=spf1 a -all"
+pmas 7200 IN A 192.111.36.15
+ftp 7200 IN CNAME caisrh7
+web1 7200 IN A 192.111.36.44
+ftp2 7200 IN CNAME caisrh7
+www 7200 IN CNAME web1
+dns2 7200 IN A 192.111.36.3
+ntp 7200 IN CNAME caisrh5
+imap 7200 IN A 192.111.36.11
+caisrh4-5 7200 IN A 66.99.10.74
+7200 IN A 192.111.36.13
+caisrh4-5 7200 IN TXT "v=spf1 a -all"
+blackboard 7200 IN A 192.111.36.45
+webct 7200 IN A 192.111.36.106
+web3 7200 IN A 192.111.36.13
+portal 7200 IN A 192.111.36.164
+cais3 7200 IN A 192.111.36.67
+msgstore 7200 IN CNAME alpha7
+dns 7200 IN A 192.111.36.2
+cais7 7200 IN A 192.111.36.107
+cais9 7200 IN A 192.111.36.109
+smtp 7200 IN A 192.111.36.11
+mail2 7200 IN A 192.111.36.106
+mail2 7200 IN MX 1 caisrh4

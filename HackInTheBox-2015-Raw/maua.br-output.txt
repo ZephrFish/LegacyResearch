@@ -1,0 +1,53 @@
+@ 3600 IN SOA ns1 postmaster 768 3600 3600 86400 3600
+@ 3600 IN A 201.63.210.9
+@ 3600 IN NS 201.63.210.6.
+3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS wwwserver
+@ 3600 IN MX 10 mailgw
+3600 IN MX 20 mailserver
+@ 3600 IN TXT "v=spf1 ip4:201.63.210.29 a:mailserver.maua.br mx:mailserver.maua.br ~all"
+ecommerce 3600 IN A 201.63.210.19
+exchange 3600 IN CNAME email
+201.63.210.6. 3600 IN A 201.63.210.6
+php2015 3600 IN A 201.63.210.20
+webmail 3600 IN CNAME mailserver
+ns1 3600 IN A 201.63.210.6
+ns2 3600 IN A 186.201.214.8
+blog 3600 IN A 201.63.210.5
+ns1.exacttarget.com. 3600 IN A 66.231.91.222
+php2009 3600 IN A 201.63.210.18
+cms 3600 IN CNAME php2015
+eureka2015 3600 IN A 186.201.214.19
+sandbox 3600 IN A 186.201.214.18
+moodle 3600 IN A 186.201.214.5
+w3 3600 IN A 201.63.210.9
+weblab 3600 IN CNAME weblab1
+emailreg608cc5266d85fbe0 3600 IN CNAME emailreg.org.
+mail 7200 IN CNAME mailserver
+weblab1 3600 IN A 201.63.210.22
+email 3600 IN A 201.63.210.23
+mailgw 3600 IN A 201.63.210.12
+ns2.exacttarget.com. 3600 IN A 66.231.94.222
+ead 3600 IN CNAME moodle
+vagas 3600 IN A 200.29.145.52
+www 3600 IN CNAME w3
+sysman 3600 IN A 201.63.210.17
+mailgw2009 3600 IN A 201.63.210.12
+news 3600 IN NS ns1.exacttarget.com.
+3600 IN NS ns2.exacttarget.com.
+3600 IN NS ns3.exacttarget.com.
+imap 3600 IN CNAME mailserver
+mailhost 7200 IN CNAME mailserver
+mconf 3600 IN A 186.201.214.7
+carona 3600 IN CNAME sandbox
+projetos 3600 IN A 201.63.210.10
+maua50anos 3600 IN A 201.63.210.26
+wwwserver 3600 IN A 201.63.210.4
+compras 3600 IN A 186.201.214.15
+mailserver 3600 IN A 201.63.210.29
+capes 3600 IN A 201.63.210.28
+ns3.exacttarget.com. 3600 IN A 68.232.203.115
+glpi 3600 IN A 186.201.214.6
+smtp 7200 IN CNAME mailserver
+eureka 3600 IN CNAME eureka2015

@@ -1,0 +1,59 @@
+@ 600 IN SOA spins2.spins root.spins2.spins 2015032703 10800 3600 604800 600
+@ 600 IN A 202.243.128.135
+@ 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+@ 600 IN MX 10 mx11.ec
+600 IN MX 30 spins13.spins
+@ 600 IN TXT "MS=ms38944993"
+line4.line 600 IN A 210.236.186.31
+line 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+ice 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+wpad 600 IN CNAME netadm.usp-local.
+spins1.spins 600 IN A 202.243.128.99
+_sipfederationtls._tcp 600 IN SRV 100 1 5061 sipfed.online.lync.com.
+ccdp 600 IN CNAME off-we.spins
+msoid 600 IN CNAME clientconfig.microsoftonline-p.net.
+mech 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+lib 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+sip 600 IN CNAME sipdir.online.lync.com.
+spins 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+spins2.spins 600 IN A 202.243.128.100
+lp1 600 IN A 202.243.128.36
+lp2 600 IN A 210.236.186.4
+lyncdiscover 600 IN CNAME webdir.online.lync.com.
+localhost 600 IN A 127.0.0.1
+mat 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+nurse 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+oumishounin 600 IN CNAME d6105232.shc
+www 600 IN CNAME cvps-158-199-195-82.secure.ne.jp.
+ses 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+_sip._tls 600 IN SRV 100 1 443 sipdir.online.lync.com.
+shc 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+ec 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins
+www.linc 600 IN NS lp1
+600 IN NS lp2
+rs 600 IN CNAME off-we.spins
+office 600 IN NS line4.line
+600 IN NS spins1.spins
+600 IN NS spins2.spins

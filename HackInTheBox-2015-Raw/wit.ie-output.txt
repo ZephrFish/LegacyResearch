@@ -1,0 +1,366 @@
+@ 3600 IN SOA ns1 pcluney 2015022877 7200 1200 300 3600
+@ 600 IN A 193.1.34.10
+600 IN A 193.1.184.8
+600 IN A 193.1.184.10
+600 IN A 193.1.184.9
+@ 3600 IN NS ns1
+3600 IN NS ns.heanet.ie.
+3600 IN NS ns3
+3600 IN NS ns2
+@ 3600 IN MX 0 wit-ie.mail.protection.outlook.com.
+3600 IN MX 100 moodle
+3600 IN MX 110 witexchange
+@ 3600 IN TXT "MS=ms47042383"
+3600 IN TXT "google-site-verification=0Ow9tygcYzJCDo_1LzJdi5Rx8qqEB829jZl2PhChjUk"
+3600 IN TXT "v=spf1 mx a:goodly.heanet.ie a:moodlenodes.wit.ie include:spf.protection.outlook.com -all"
+3600 IN TXT "IQDluQsNTrkssKLBavxnlvvPVTYwOIllRxF0BNb3zx0itkkd/fuy1IcJeFRnITxyS+AQHxHqyKj6H9RICirvQA=="
+@ 600 IN AAAA 2001:770:20:4001:d3d:9ff8:7fbf:2ef4
+600 IN AAAA 2001:770:20:4001:adce:a6fa:13ba:3201
+600 IN AAAA 2001:770:20:4001:193:1:184:9
+600 IN AAAA 2001:770:20:4001:193:1:184:10
+600 IN AAAA 2001:770:20:4001:193:1:184:8
+600 IN AAAA 2001:770:20:4001:214:22ff:fe1c:39c4
+600 IN AAAA 2001:770:20:4201:9403:d551:b1ae:f3b5
+600 IN AAAA 2001:770:20:4001:214:22ff:fe16:b90a
+_ldap._tcp.default-first-site-name._sites.forestdnszones 600 IN SRV 0 100 389 ns2
+600 IN SRV 0 100 389 ns3
+600 IN SRV 0 100 389 ns1
+isiknowledge.com.ezproxy 3600 IN CNAME ezproxy
+_kpasswd._udp 600 IN SRV 0 100 464 ns1
+600 IN SRV 0 100 464 ns2
+600 IN SRV 0 100 464 ns3
+hwwilsonweb.com.ezproxy 3600 IN CNAME ezproxy
+witexchange 691200 IN A 193.1.184.109
+pg 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+pg 3600 IN TXT "google-site-verification=0Ow9tygcYzJCDo_1LzJdi5Rx8qqEB829jZl2PhChjUk"
+eprints 3600 IN A 193.1.184.52
+thecochranelibrary.com.ezproxy 3600 IN CNAME ezproxy
+content.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+gw 3600 IN A 193.1.184.1
+acm.com.ezproxy 3600 IN CNAME ezproxy
+jstor.org.ezproxy 3600 IN CNAME ezproxy
+www.onlinelibrary.wiley.com.ezproxy 3600 IN CNAME ezproxy
+wit.summon.serialsolutions.com.ezproxy 3600 IN CNAME ezproxy
+fo 691200 IN TXT "HtU1r9zmTVHqOoit577zzP7q0SxkBnilf1BEUyVcaSqq2p4wtSfllEUsKIy2BWjKPKawwUVblJtav7i8tSr4qw=="
+jtr.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+_ldap._tcp.domaindnszones 600 IN SRV 0 100 389 ns2
+600 IN SRV 0 100 389 ns3
+600 IN SRV 0 100 389 ns1
+onlinelibrarystatic.wiley.com.ezproxy 3600 IN CNAME ezproxy
+adbconnect 3600 IN A 193.1.184.38
+www.clinicalskillsonline.com.ezproxy 3600 IN CNAME ezproxy
+theses.com.ezproxy 3600 IN CNAME ezproxy
+ras01 3600 IN A 193.1.184.116
+psi.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+ovidsp.ovid.com.ezproxy 3600 IN CNAME ezproxy
+web.d.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+eschools 691200 IN A 193.1.208.246
+ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+msoid 3600 IN CNAME clientconfig.microsoftonline-p.net.
+elearning 691200 IN A 193.1.184.20
+fimpwdreg 691200 IN CNAME witfimpp
+www.lexisnexis.com.ezproxy 3600 IN CNAME ezproxy
+nexis.com.ezproxy 3600 IN CNAME ezproxy
+tssgisdn1 3600 IN A 195.7.60.225
+nursing.tx.ovid.com.ezproxy 3600 IN CNAME ezproxy
+staging.elearning 3600 IN A 193.1.184.20
+gateway.isiknowledge.com.ezproxy 3600 IN CNAME ezproxy
+tssgisdn5 3600 IN A 195.7.60.229
+tssgisdn6 3600 IN A 195.7.60.230
+app.readspeaker.com.ezproxy 3600 IN CNAME ezproxy
+autodiscover 691200 IN CNAME autodiscover.outlook.com.
+eduroam.wireless 691200 IN A 193.1.34.21
+edocs 3600 IN A 193.1.234.41
+emeraldinsight.com.ezproxy 3600 IN CNAME ezproxy
+gra.wireless 691200 IN A 193.1.34.17
+login.westlaw.co.uk.ezproxy 3600 IN CNAME ezproxy
+jrn.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+_sipfederationtls._tcp 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www 691200 IN NS hotstandby-ns1.heanet.ie.
+691200 IN NS hotstandby-ns0.heanet.ie.
+netlab 691200 IN A 193.1.184.81
+umi.com.ezproxy 3600 IN CNAME ezproxy
+domaindnszones 600 IN A 193.1.184.10
+600 IN A 193.1.184.9
+600 IN A 193.1.184.8
+600 IN A 193.1.34.10
+domaindnszones 600 IN AAAA 2001:770:20:4001:193:1:184:10
+600 IN AAAA 2001:770:20:4201:9403:d551:b1ae:f3b5
+600 IN AAAA 2001:770:20:4001:193:1:184:9
+600 IN AAAA 2001:770:20:4001:adce:a6fa:13ba:3201
+600 IN AAAA 2001:770:20:4001:214:22ff:fe1c:39c4
+600 IN AAAA 2001:770:20:4001:214:22ff:fe16:b90a
+600 IN AAAA 2001:770:20:4100:193:1:184:10
+600 IN AAAA 2001:770:20:4001:d3d:9ff8:7fbf:2ef4
+600 IN AAAA 2001:770:20:4001:193:1:184:8
+_sip._tls 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+myendnoteweb.com.ezproxy 3600 IN CNAME ezproxy
+ihsti.com.ezproxy 3600 IN CNAME ezproxy
+www.thomsonone.com.ezproxy 3600 IN CNAME ezproxy
+cs.sciencedirect.com.ezproxy 3600 IN CNAME ezproxy
+ns.heanet.ie. 3600 IN A 193.1.193.194
+ns.heanet.ie. 3600 IN AAAA 2001:770:18:4::c101:c1c2
+fimpwdreset 691200 IN CNAME witfimpp
+portal.acm.org.ezproxy 3600 IN CNAME ezproxy
+linkinghub.elsevier.com.ezproxy 3600 IN CNAME ezproxy
+_kerberos._tcp.default-first-site-name._sites 600 IN SRV 0 100 88 ns1
+600 IN SRV 0 100 88 ns2
+600 IN SRV 0 100 88 ns3
+www3.interscience.wiley.com.ezproxy 3600 IN CNAME ezproxy
+idp 691200 IN A 193.1.184.55
+repository 3600 IN A 193.1.184.52
+eds.c.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+www.westlaw.ie.ezproxy 3600 IN CNAME ezproxy
+global.ebsco-content.com.ezproxy 3600 IN CNAME ezproxy
+gateway.proquest.com.ezproxy 3600 IN CNAME ezproxy
+www.computing 3600 IN A 193.1.184.11
+sip 3600 IN CNAME sipdir.online.lync.com.
+webofknowledgev4.com.ezproxy 3600 IN CNAME ezproxy
+cdp.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+library 691200 IN A 193.1.184.14
+witadfse1 691200 IN A 193.1.184.58
+oxfordmusiconline.com.ezproxy 3600 IN CNAME ezproxy
+autodiscover.pgrad 3600 IN CNAME autodiscover.outlook.com.
+ebsco.com.ezproxy 3600 IN CNAME ezproxy
+lexisnexis.com.ezproxy 3600 IN CNAME ezproxy
+MoodleNodes 3600 IN A 193.1.204.27
+3600 IN A 193.1.204.146
+3600 IN A 193.1.204.147
+3600 IN A 193.1.204.26
+3600 IN A 193.1.204.25
+MoodleNodes 3600 IN AAAA 2001:770:1c:29::c101:cc92
+3600 IN AAAA 2001:770:18:29::c101:cc19
+3600 IN AAAA 2001:770:18:29::c101:cc1b
+3600 IN AAAA 2001:770:18:29::c101:cc1a
+3600 IN AAAA 2001:770:1c:29::c101:cc93
+witfimportal 3600 IN A 193.1.184.45
+_gc._tcp.default-first-site-name._sites 600 IN SRV 0 100 3268 ns2
+600 IN SRV 0 100 3268 ns1
+600 IN SRV 0 100 3268 ns3
+gateway.ovid.com.ezproxy 3600 IN CNAME ezproxy
+eecscai 691200 IN A 193.1.184.22
+*.witcat 3600 IN CNAME witcat
+tal.wireless 691200 IN A 193.1.34.16
+ESBServer 691200 IN A 193.1.184.53
+jchemed.chem.wisc.edu.ezproxy 3600 IN CNAME ezproxy
+googleffffffffc094b3b3.mail 3600 IN CNAME google.com.
+moodle 3600 IN NS hotstandby-ns0.heanet.ie.
+3600 IN NS hotstandby-ns1.heanet.ie.
+search.proquest.com.ezproxy 3600 IN CNAME ezproxy
+images.webofknowledge.com.ezproxy 3600 IN CNAME ezproxy
+mail 3600 IN A 193.1.184.15
+mail 3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx4.googlemail.com.
+3600 IN MX 110 wit-moodle-web
+3600 IN MX 30 aspmx5.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+web.lexis-nexis.newsalert.com.ezproxy 3600 IN CNAME ezproxy
+www.ihsti.com.ezproxy 3600 IN CNAME ezproxy
+www.lexis-nexis.com.ezproxy 3600 IN CNAME ezproxy
+arc.wireless 691200 IN A 193.1.34.15
+milcnet.lendac.ie.ezproxy 3600 IN CNAME ezproxy
+proquest.umi.com.ezproxy 3600 IN CNAME ezproxy
+studentssp 3600 IN CNAME results
+lyncdiscover.pgrad 3600 IN CNAME webdir.online.lync.com.
+international 3600 IN CNAME www
+sip.pgrad 3600 IN CNAME sipdir.online.lync.com.
+atb.wireless 691200 IN A 193.1.34.19
+wit.summon.serialssolutions.com.ezproxy 3600 IN CNAME ezproxy
+ovidsp.tx.ovid.com.ezproxy 3600 IN CNAME ezproxy
+www.myilibrary.com.ezproxy 3600 IN CNAME ezproxy
+apps.webofknowledge.com.ezproxy 3600 IN CNAME ezproxy
+tcasonline 3600 IN A 193.1.184.23
+isiwebofknowledge.com.ezproxy 3600 IN CNAME ezproxy
+thomsonib.com.ezproxy 3600 IN CNAME ezproxy
+taxireland.ie.ezproxy 3600 IN CNAME ezproxy
+_gc._tcp 600 IN SRV 0 100 3268 ns1
+600 IN SRV 0 100 3268 ns2
+600 IN SRV 0 100 3268 ns3
+web.c.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+projectee 691200 IN A 193.1.184.57
+hej.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+www3 3600 IN A 193.1.184.4
+www4 691200 IN A 193.1.184.51
+ebsco-content.com.ezproxy 3600 IN CNAME ezproxy
+vnweb.hwwilsonweb.com.ezproxy 3600 IN CNAME ezproxy
+static.search.proquest.com.ezproxy 3600 IN CNAME ezproxy
+ei3rcw 3600 IN A 193.1.185.13
+web.a.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+wit-moodle-web 691200 IN A 193.1.193.187
+sagepub.com.ezproxy 3600 IN CNAME ezproxy
+nej.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+adbmeeting 3600 IN A 193.1.184.40
+cerberus 3600 IN A 193.1.185.2
+computer.org.ezproxy 3600 IN CNAME ezproxy
+_sipfederationtls._tcp.pgrad 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+www.emeraldinsight.com.ezproxy 3600 IN CNAME ezproxy
+ns1 3600 IN A 193.1.184.10
+ns1 3600 IN AAAA 2001:770:20:4001:193:1:184:10
+ns2 3600 IN A 193.1.184.9
+ns2 3600 IN AAAA 2001:770:20:4001:193:1:184:9
+ns3 3600 IN A 193.1.184.8
+ns3 3600 IN AAAA 2001:770:20:4001:193:1:184:8
+_ldap._tcp.default-first-site-name._sites.domaindnszones 600 IN SRV 0 100 389 ns1
+600 IN SRV 0 100 389 ns2
+600 IN SRV 0 100 389 ns3
+cardreports 3600 IN A 193.1.184.77
+ovid.com.ezproxy 3600 IN CNAME ezproxy
+gateway.tx.ovid.com.ezproxy 3600 IN CNAME ezproxy
+arc 3600 IN A 193.1.184.110
+wit-web01 691200 IN A 193.1.184.122
+wit-web01 691200 IN AAAA 2001:770:20:4105:193:1:184:122
+_ldap._tcp.forestdnszones 600 IN SRV 0 100 389 ns2
+600 IN SRV 0 100 389 ns3
+600 IN SRV 0 100 389 ns1
+wiley.com.ezproxy 3600 IN CNAME ezproxy
+witcat 3600 IN A 193.1.234.26
+webofknowledge.com.ezproxy 3600 IN CNAME ezproxy
+login.westlaw.ie.ezproxy 3600 IN CNAME ezproxy
+eds.b.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+tssgisdn4 3600 IN A 195.7.60.228
+neb.wireless 691200 IN A 193.1.34.14
+lendac.ie.ezproxy 3600 IN CNAME ezproxy
+witeca 3600 IN A 193.1.184.89
+tssg 3600 IN A 193.1.185.11
+tssg 3600 IN MX 10 tssg
+3600 IN MX 15 mail.tssg
+3600 IN MX 20 spike
+3600 IN MX 40 ns0.xylene.com.
+eds.e.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+www.sourceoecd.org.ezproxy 3600 IN CNAME ezproxy
+www.oxfordmusiconline.com.ezproxy 3600 IN CNAME ezproxy
+results 3600 IN A 193.1.184.30
+sourceoecd.org.ezproxy 3600 IN CNAME ezproxy
+aeq.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+ieeexplore.ieee.org.ezproxy 3600 IN CNAME ezproxy
+informaworld.com.ezproxy 3600 IN CNAME ezproxy
+mail.tssg 3600 IN A 195.7.60.229
+www.justis.com.ezproxy 3600 IN CNAME ezproxy
+pubs.acs.org.ezproxy 3600 IN CNAME ezproxy
+www.taxireland.ie.ezproxy 3600 IN CNAME ezproxy
+ner.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+web.lexis.com.ezproxy 3600 IN CNAME ezproxy
+nursing.ovid.com.ezproxy 3600 IN CNAME ezproxy
+dl.acm.org.ezproxy 3600 IN CNAME ezproxy
+*.fo 691200 IN A 193.1.184.47
+hotstandby-ns0.heanet.ie. 3600 IN A 193.1.219.11
+hotstandby-ns0.heanet.ie. 3600 IN AAAA 2001:770:18:2::c101:db0b
+_msdcs 0 IN NS ns1
+web.e.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+forestdnszones 600 IN A 193.1.184.10
+600 IN A 193.1.184.9
+600 IN A 193.1.34.10
+600 IN A 193.1.184.8
+forestdnszones 600 IN AAAA 2001:770:20:4001:193:1:184:10
+600 IN AAAA 2001:770:20:4201:9403:d551:b1ae:f3b5
+600 IN AAAA 2001:770:20:4001:193:1:184:9
+600 IN AAAA 2001:770:20:4001:adce:a6fa:13ba:3201
+600 IN AAAA 2001:770:20:4001:214:22ff:fe1c:39c4
+600 IN AAAA 2001:770:20:4100:193:1:184:10
+600 IN AAAA 2001:770:20:4001:214:22ff:fe16:b90a
+600 IN AAAA 2001:770:20:4001:d3d:9ff8:7fbf:2ef4
+600 IN AAAA 2001:770:20:4001:193:1:184:8
+_kerberos._tcp 600 IN SRV 0 100 88 ns2
+600 IN SRV 0 100 88 ns3
+600 IN SRV 0 100 88 ns1
+*.ezproxy 691200 IN A 193.1.184.54
+msoid.pgrad 3600 IN CNAME clientconfig.microsoftonline-p.net.
+jom.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+www.humankinetics.com.ezproxy 3600 IN CNAME ezproxy
+multimedia 3600 IN A 193.1.184.23
+jht.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+hotstandby-ns1.heanet.ie. 3600 IN A 193.1.248.5
+hotstandby-ns1.heanet.ie. 3600 IN AAAA 2001:770:1c:2::c101:f805
+online.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+witdc1 691200 IN A 193.1.184.49
+www2 3600 IN A 193.1.184.18
+WITadfse3 1200 IN A 193.1.184.92
+www.sciencedirect.com.ezproxy 3600 IN CNAME ezproxy
+wit-web0 691200 IN AAAA 2001:770:20:4105:10:5::56
+www.eprints 3600 IN A 193.1.184.52
+www.tandfonline.com.ezproxy 3600 IN CNAME ezproxy
+media.proquest.com.ezproxy 3600 IN CNAME ezproxy
+dba 691200 IN CNAME wit-moodle-web
+icmserver 3600 IN A 193.1.184.26
+web.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+pps.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+readspeaker.com.ezproxy 3600 IN CNAME ezproxy
+ezproxy 691200 IN A 193.1.184.54
+web.b.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+vconf 3600 IN A 193.1.184.17
+www.acm.org.ezproxy 3600 IN CNAME ezproxy
+witadfse2 691200 IN A 193.1.184.90
+ehis.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+www.lexis.com.ezproxy 3600 IN CNAME ezproxy
+computing 3600 IN CNAME www
+search.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+lexis-nexis.com.ezproxy 3600 IN CNAME ezproxy
+_ldap._tcp 600 IN SRV 0 100 389 ns1
+600 IN SRV 0 100 389 ns3
+600 IN SRV 0 100 389 ns2
+itb.wireless 691200 IN A 193.1.34.12
+eng.wireless 691200 IN A 193.1.34.18
+gateway.webofknowledge.com.ezproxy 3600 IN CNAME ezproxy
+site.ebrary.com.ezproxy 3600 IN CNAME ezproxy
+pgrad 3600 IN MX 0 pgrad-wit-ie.mail.protection.outlook.com.
+pgrad 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+www.informaworld.com.ezproxy 3600 IN CNAME ezproxy
+www.thecochranelibrary.com.ezproxy 3600 IN CNAME ezproxy
+lib.myilibrary.com.ezproxy 3600 IN CNAME ezproxy
+www.lexis-nexis.newsalert.com.ezproxy 3600 IN CNAME ezproxy
+_kpasswd._tcp 600 IN SRV 0 100 464 ns1
+600 IN SRV 0 100 464 ns2
+600 IN SRV 0 100 464 ns3
+hwwilson.com.ezproxy 3600 IN CNAME ezproxy
+witelearn1 691200 IN A 193.1.184.38
+web.nexis.com.ezproxy 3600 IN CNAME ezproxy
+irs.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+witfimpp 691200 IN A 193.1.184.91
+cispubs.com.ezproxy 3600 IN CNAME ezproxy
+_kerberos._udp 600 IN SRV 0 100 88 ns1
+600 IN SRV 0 100 88 ns2
+600 IN SRV 0 100 88 ns3
+tssgisdn2 3600 IN A 195.7.60.226
+web.lexisnexis.com.ezproxy 3600 IN CNAME ezproxy
+tssgisdn3 3600 IN A 195.7.60.227
+humankinetics.com.ezproxy 3600 IN CNAME ezproxy
+www.jstor.org.ezproxy 3600 IN CNAME ezproxy
+banker.thomsonib.com.ezproxy 3600 IN CNAME ezproxy
+_sip._tls.pgrad 3600 IN SRV 100 1 443 sipdir.online.lync.com.
+www.repository 3600 IN A 193.1.184.52
+onlinelibrary.wiley.com.ezproxy 3600 IN CNAME ezproxy
+eds.a.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+itsblog 691200 IN A 193.1.184.21
+wifiprint 3600 IN A 193.1.184.34
+wifiprint 3600 IN AAAA 2001:770:20:4001:193:1:184:34
+sciencedirect.com.ezproxy 3600 IN CNAME ezproxy
+www.webofknowledge.com.ezproxy 3600 IN CNAME ezproxy
+lyncdiscover 3600 IN CNAME webdir.online.lync.com.
+eds.d.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+links.emeraldinsight.com.ezproxy 3600 IN CNAME ezproxy
+www.multimedia 3600 IN CNAME multimedia.
+webvpn 691200 IN A 193.1.34.200
+proquest.com.ezproxy 3600 IN CNAME ezproxy
+hsb.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+lib.wireless 691200 IN A 193.1.34.20
+csc.wireless 691200 IN A 193.1.34.13
+_ldap._tcp.default-first-site-name._sites 600 IN SRV 0 100 389 ns1
+600 IN SRV 0 100 389 ns2
+600 IN SRV 0 100 389 ns3
+www.theses.com.ezproxy 3600 IN CNAME ezproxy
+lexis.com.ezproxy 3600 IN CNAME ezproxy
+adfs 691200 IN A 193.1.184.60
+ns 3600 IN A 193.1.184.10
+ns 3600 IN AAAA 2001:770:20:4001:193:1:184:10
+openurl.ebscohost.com.ezproxy 3600 IN CNAME ezproxy
+localhost 3600 IN CNAME loopback
+loopback 3600 IN A 127.0.0.1
+www.nexis.com.ezproxy 3600 IN CNAME ezproxy
+web.lexis-nexis.com.ezproxy 3600 IN CNAME ezproxy
+pss.sagepub.com.ezproxy 3600 IN CNAME ezproxy
+main.wireless 691200 IN A 193.1.34.11
+www.computer.org.ezproxy 3600 IN CNAME ezproxy

@@ -1,0 +1,16 @@
+@ 86400 IN SOA ns.nayatel.com. helios.dsl.net.pk. 2014042300 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns.nayatel.com.
+86400 IN NS ns3.nayatel.com.
+@ 14400 IN A 66.96.147.113
+webmail 14400 IN A 203.82.48.218
+webdisk 14400 IN A 203.82.48.218
+ftp 14400 IN CNAME @
+cpanel 14400 IN A 203.82.48.218
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+mail 14400 IN CNAME 203.82.48.218.
+autoconfig 14400 IN A 203.82.48.218
+autodiscover 14400 IN A 203.82.48.218
+whm 14400 IN A 203.82.48.218
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.

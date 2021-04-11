@@ -1,0 +1,15 @@
+@ 36000 IN SOA ns admin 2010042455 3600 900 360000 3600
+@ 36000 IN NS ns
+36000 IN NS ns.westcall.ru.
+36000 IN NS ns2.westcall.ru.
+36000 IN NS dns1.yandex.ru.
+36000 IN NS dns2.yandex.ru.
+@ 36000 IN MX 10 mx.yandex.ru.
+36000 IN MX 20 ahch-0005
+@ 36000 IN A 178.209.115.167
+zoovetbio 36000 IN CNAME www
+ftp 36000 IN CNAME biblio
+www 36000 IN A 178.209.115.167
+ns 36000 IN A 178.209.115.167
+mail 36000 IN CNAME domain.mail.yandex.net.
+biblio 36000 IN A 178.209.115.162

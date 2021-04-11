@@ -1,0 +1,77 @@
+@ 604800 IN SOA kioi.cc ns 2014120302 10800 3600 604800 3600
+@ 604800 IN MX 2 rockliff.cc
+@ 604800 IN NS kioi.cc
+604800 IN NS dns-a.iij.ad.jp.
+604800 IN NS hoffman.cc
+mc1.lib 604800 IN NS saint.mc1.lib
+604800 IN NS libdns.lib
+eagle 86400 IN TXT "MS=ms57243547"
+86400 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+eagle 86400 IN MX 0 eagle-sophia-ac-jp.mail.protection.outlook.com.
+lux 604800 IN CNAME lux.lib
+nile.ph 604800 IN A 133.12.64.4
+st 604800 IN NS nsas1.firstserver.ne.jp.
+604800 IN NS nsas2.firstserver.ne.jp.
+kitsune.ch 604800 IN A 133.12.97.2
+genv 604800 IN NS alpha.genv
+604800 IN NS hoffman.cc
+ns.fla 604800 IN CNAME sirius.fla
+dept 604800 IN A 210.149.181.106
+idb 86400 IN A 210.148.14.64
+saint.mc1.lib 604800 IN A 133.12.131.2
+pweb 604800 IN CNAME pweb.cc
+tanuki.ch 604800 IN A 133.12.97.1
+megw.me 604800 IN A 133.12.84.4
+mail 86400 IN A 210.148.14.63
+cc 604800 IN NS kioi.cc
+604800 IN NS hoffman.cc
+me 604800 IN NS megw.me
+604800 IN NS hoffman.cc
+infomail.info 604800 IN A 133.12.192.3
+mls 604800 IN NS hoffman.cc
+604800 IN NS sephiroth.mls
+lib 604800 IN NS libdns.lib
+604800 IN NS hoffman.cc
+english-literature 604800 IN NS ns1.station171.com.
+604800 IN NS ns2.station171.com.
+ics 604800 IN NS nsas1.firstserver.ne.jp.
+604800 IN NS nsas2.firstserver.ne.jp.
+mm 604800 IN NS take.mm
+604800 IN NS hoffman.cc
+mmgw.mm 604800 IN A 133.12.50.1
+www 604800 IN CNAME clsot.cl
+eas 604800 IN NS nile.ph
+604800 IN NS hoffman.cc
+clsaturn.cl 604800 IN A 133.12.241.3
+info 604800 IN NS infons.info
+604800 IN NS hoffman.cc
+rrp-dns.erp 604800 IN A 133.12.207.13
+sophiamail 86400 IN TXT "MS=ms70445912"
+sophiamail 86400 IN MX 10 sophiamail
+sophiamail 86400 IN A 210.148.14.63
+ph 604800 IN NS nile.ph
+604800 IN NS hoffman.cc
+infons.info 604800 IN A 133.12.192.2
+sephiroth.mls 604800 IN A 133.12.103.1
+fuji.jrc 604800 IN A 133.12.160.21
+alpha.genv 604800 IN A 133.12.158.1
+ch 604800 IN NS tanuki.ch
+604800 IN NS hoffman.cc
+cl 604800 IN NS cleobr.cl
+604800 IN NS hoffman.cc
+604800 IN NS clsaturn.cl
+erp 604800 IN NS rrp-dns.erp
+jrc 604800 IN NS fuji.jrc
+604800 IN NS rokko.jrc
+604800 IN NS hoffman.cc
+alumniportal 604800 IN CNAME clkun.cl
+ee 604800 IN NS dns-b.iij.ad.jp.
+604800 IN NS dns-c.iij.ad.jp.
+fla 604800 IN NS ns.fla
+604800 IN NS hoffman.cc
+cleobr.cl 604800 IN A 133.12.241.2
+libdns.lib 604800 IN A 133.12.129.2
+sirius.fla 604800 IN A 133.12.178.13
+take.mm 604800 IN A 133.12.50.12
+autodiscover.eagle 86400 IN CNAME autodiscover.outlook.com.
+rokko.jrc 604800 IN A 133.12.160.22

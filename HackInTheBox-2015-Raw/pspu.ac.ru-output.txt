@@ -1,0 +1,6 @@
+@ 3600 IN SOA ns administrator 15020 28800 3600 2592000 14400
+@ 14400 IN MX 10 aspmx.l.google.com.
+@ 14400 IN A 194.61.67.75
+@ 14400 IN NS ns.ccl.ru.
+14400 IN NS ns
+14400 IN NS ns.runnet.ru.

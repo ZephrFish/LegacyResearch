@@ -1,0 +1,64 @@
+@ 3600 IN SOA names.phkk.fi. hostmaster.phkk.fi. 154 14400 7200 1209600 3600
+@ 3600 IN NS ukko.phkk.fi.
+3600 IN NS names.phkk.fi.
+3600 IN NS amoeboid.lpt.fi.
+@ 3600 IN A 195.95.209.15
+@ 3600 IN MX 20 styke.phkk.fi.
+3600 IN MX 9 isengard
+3600 IN MX 10 spike.phkk.fi.
+sip 3600 IN A 195.95.209.71
+peppi 3600 IN CNAME peppi.lamk.csc.fi.
+libguides 3600 IN CNAME v2.libguides.com.
+names.phkk.fi. 3600 IN A 195.95.209.81
+*.aineistot 3600 IN A 193.166.79.79
+salkku 3600 IN CNAME moodle.phkk.fi.
+lukkarit 3600 IN CNAME services.lamk.csc.fi.
+aineistot 3600 IN A 193.166.79.79
+webropol 3600 IN CNAME siirto.lpt.fi.
+niisku 3600 IN A 193.166.72.3
+tuotekori 3600 IN A 195.95.209.15
+garibaldi 3600 IN TXT "N61,09.732 E025,35.048"
+qvrxwaohxe5z 3600 IN CNAME gv-gva7omcko6ggrd.dv.googlehosted.com.
+opinto-opas 3600 IN CNAME services.lamk.csc.fi.
+amoeboid.lpt.fi. 3600 IN A 193.166.79.4
+sip.student 3600 IN CNAME sipdir.online.lync.com.
+reppu 3600 IN CNAME moodle.lpt.fi.
+it 3600 IN A 195.95.209.90
+mle-reppu 3600 IN CNAME moodle.lpt.fi.
+ilmoittautumiset 3600 IN CNAME tuotekori
+ressu 3600 IN A 193.166.79.91
+_sip._tls.student 3600 IN SRV 1 100 443 sipdir.online.lync.com.
+lyncdiscover.student 3600 IN CNAME webdir.online.lync.com.
+myy 3600 IN A 193.166.72.2
+ebooks 3600 IN A 193.166.79.112
+winhawille 3600 IN A 193.166.79.107
+lahtinen 3600 IN CNAME pulinat.phkk.fi.
+wiki 3600 IN CNAME wiki.lpt.fi.
+reppu2 3600 IN CNAME reppu2.lpt.fi.
+julkaisu 3600 IN A 195.95.209.90
+connect 3600 IN CNAME webnet2.lpt.fi.
+lyncdiscover 3600 IN CNAME meet
+www 3600 IN CNAME @
+info 3600 IN CNAME info.lpt.fi.
+opaali 3600 IN A 193.166.79.92
+logintuotekori 3600 IN CNAME tuotekori
+lomake 3600 IN A 193.166.79.84
+meet 3600 IN A 193.166.79.113
+_sipfederationtls._tcp 3600 IN SRV 0 0 5061 sip
+intra 3600 IN A 195.95.209.40
+isengard 3600 IN A 193.166.79.20
+lsweb-ext 3600 IN CNAME meet
+it-opiskelijaksi 3600 IN CNAME www-9.wmhost.com.
+_sip._tls 3600 IN SRV 0 0 443 sip
+anonymous-test 3600 IN CNAME wap.salpaus.fi.
+rekry 3600 IN A 193.166.79.55
+autodiscover.student 3600 IN CNAME autodiscover.outlook.com.
+blogit 3600 IN CNAME pulinat.phkk.fi.
+tayskymppi 3600 IN CNAME www.lpt.fi.
+_sipfederationtls._tcp.student 3600 IN SRV 0 0 5061 sipfed.online.lync.com.
+hallinta 3600 IN CNAME hallinta.lpt.fi.
+jira 3600 IN CNAME wiki.lpt.fi.
+student 3600 IN MX 0 student-lamk-fi.mail.eo.outlook.com.
+student 3600 IN TXT "v=spf1 include:spf.protection.outlook.com -all"
+tilat 3600 IN CNAME tilat.salpaus.fi.
+ukko.phkk.fi. 3600 IN A 195.95.209.2

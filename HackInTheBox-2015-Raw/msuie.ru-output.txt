@@ -1,0 +1,22 @@
+@ 604800 IN SOA ns1 zagarskih 2008052238 28800 7200 604800 86400
+@ 604800 IN NS ns0.xname.org.
+604800 IN NS ns1.us.editdns.net.
+604800 IN NS ns1
+604800 IN NS ns1.xname.org.
+604800 IN NS ns2.trifle.net.
+@ 604800 IN A 77.108.94.251
+@ 604800 IN MX 10 mail
+www 604800 IN CNAME @
+bit 604800 IN CNAME @
+sql 604800 IN CNAME smtp
+ns1 604800 IN A 77.108.94.251
+www.tender 604800 IN CNAME smtp
+library 604800 IN A 77.108.94.252
+old 604800 IN CNAME @
+www.library 604800 IN CNAME library
+mail 604800 IN A 77.108.94.251
+imap 604800 IN CNAME smtp
+help 604800 IN CNAME @
+tender 604800 IN CNAME smtp
+smtp 604800 IN A 77.108.94.250
+webtest 604800 IN CNAME smtp

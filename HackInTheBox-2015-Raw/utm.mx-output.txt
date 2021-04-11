@@ -1,0 +1,80 @@
+@ 604800 IN SOA mixteco redutm.mixteco 2015041601 10800 3600 604800 86400
+@ 604800 IN NS 8.8.8.8.
+604800 IN NS 208.67.222.222.
+604800 IN NS mixteco
+604800 IN NS mixteco.campus.utm.
+@ 604800 IN TXT "v=spf1 mx a ip4:192,100.170.1/32 ip4:192.100.170.3/32 ip4:192.100.170.4/32 a:correo.utm.mx a:correo.campus.utm a:proxy.utm.mx 192.168.0.0/16 ~all"
+@ 604800 IN MX 5 mixteco
+604800 IN MX 10 correo
+virtualum 604800 IN A 192.100.170.17
+seres 604800 IN A 200.23.253.201
+website 604800 IN A 192.100.170.2
+acatlima 604800 IN CNAME red09
+mictlan 604800 IN A 192.100.170.18
+libreria 604800 IN CNAME jupiter
+mixteca 604800 IN CNAME mixteco
+simix 604800 IN A 192.100.170.44
+controlestancias 604800 IN CNAME jupiter
+pasi 604800 IN A 192.100.170.10
+roundcube 604800 IN CNAME mixteco
+repositorio 604800 IN A 192.100.170.197
+mixteco 604800 IN A 192.100.170.1
+mixteco 604800 IN TXT "v=spf1 a -all"
+servicios 604800 IN A 192.100.170.12
+yodocono 604800 IN A 192.100.170.5
+inetae 604800 IN A 192.100.170.41
+mixtli 604800 IN CNAME website
+nndikandi 604800 IN A 192.100.170.113
+moodle 604800 IN A 192.100.170.11
+practicas 604800 IN A 192.100.170.16
+red10 604800 IN A 192.100.170.200
+yucuna 604800 IN CNAME website
+inscripciones 604800 IN CNAME jupiter
+server233 604800 IN A 200.23.253.215
+foros 604800 IN A 192.100.170.26
+jupiter 604800 IN A 192.100.170.4
+conferencia 604800 IN A 192.100.170.9
+encuesta 604800 IN CNAME yodocono
+escolares 604800 IN CNAME jupiter
+ndikandi 604800 IN A 192.100.170.3
+mail 604800 IN CNAME ndikandi
+red01 604800 IN A 192.100.170.191
+#posgradosvr 604800 IN CNAME website
+siemix 604800 IN CNAME simix
+mmi 604800 IN CNAME mixteco
+edumoodle 604800 IN CNAME website
+educamix 604800 IN A 192.100.170.42
+pruebas 604800 IN A 192.100.170.19
+virtual1 604800 IN CNAME website
+virtual 604800 IN A 192.100.170.31
+presupuesto 604800 IN CNAME jupiter
+kada 604800 IN A 192.100.170.15
+www 604800 IN CNAME mixteco
+nes 604800 IN CNAME jupiter
+edutm 604800 IN A 192.100.170.43
+localhost 604800 IN A 127.0.0.1
+nes_escolares_prope 604800 IN CNAME jupiter
+red02 604800 IN A 192.100.170.192
+red03 604800 IN A 192.100.170.193
+red04 604800 IN A 192.100.170.194
+red05 604800 IN A 192.100.170.195
+red06 604800 IN A 192.100.170.196
+correo 604800 IN CNAME mixteco
+red08 604800 IN A 192.100.170.198
+red09 604800 IN A 192.100.170.199
+egresados 604800 IN CNAME servicios
+biblioteca 604800 IN CNAME jupiter
+sirem 604800 IN CNAME jupiter
+proxy 604800 IN A 192.100.170.6
+estancias 604800 IN CNAME jupiter
+bdutm 604800 IN A 192.100.170.103
+cruzroja 604800 IN CNAME website
+router 604800 IN A 192.100.170.254
+604800 IN A 200.23.253.254
+nes_alumnos 604800 IN CNAME jupiter
+vjunior 604800 IN A 192.100.170.13
+nes_escolares 604800 IN CNAME jupiter
+utmbox 604800 IN CNAME mixteco
+kada00 604800 IN A 192.100.170.14
+nuyoo 604800 IN CNAME mixteco
+mercurio 604800 IN CNAME jupiter

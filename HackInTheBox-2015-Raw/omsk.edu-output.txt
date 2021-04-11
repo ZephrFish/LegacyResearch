@@ -1,0 +1,23 @@
+@ 900 IN SOA ns sysadmin.omgpu.ru. 2015022600 1800 1500 2419200 1200
+@ 1200 IN A 176.62.72.150
+@ 1200 IN NS drug
+1200 IN NS ns
+@ 1200 IN MX 10 emx.mail.ru.
+@ 1200 IN TXT "mailru-verification: 82a0883bf5914c6c"
+1200 IN TXT "v=spf1 redirect=_spf.mail.ru"
+ns 1200 IN A 176.62.72.129
+dmx 1200 IN CNAME xvm007.omgpu.ru.
+mail 1200 IN CNAME biz.mail.ru.
+www2 1200 IN CNAME sova.omgpu.ru.
+www 1200 IN CNAME xvm003.omgpu.ru.
+dmu 1200 IN CNAME xvm007.omgpu.ru.
+omgpu 1200 IN NS ns
+dm 1200 IN CNAME xvm007.omgpu.ru.
+omelta 1200 IN CNAME xvm002.omgpu.ru.
+deb 1200 IN CNAME xvm007.omgpu.ru.
+suhoe 1200 IN CNAME xvm002.omgpu.ru.
+oblomov 1200 IN CNAME oblomov-school.ru.
+mailru._domainkey 1200 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSmTznG8RdsDhXPkAf3Jq/03ko1oHF6FIaQUSAN3tvn3YVdJjCR5cIeDr7u00UXX4pnJ//Tyq3/Q8J/WQfEF1FAZVRJHOQjJrJxocGwWZX/i3UVlG4zrOC02DpnDpdHWIT878l493H9X+fhJU7Np4gkaeDruC5WIaB0wxlreOXXwIDAQAB"
+dmb 1200 IN CNAME xvm007.omgpu.ru.
+drug 1200 IN A 91.144.170.245
+philos 1200 IN CNAME vz307.omgpu.ru.

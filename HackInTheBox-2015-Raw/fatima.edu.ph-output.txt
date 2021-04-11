@@ -1,0 +1,29 @@
+@ 86400 IN SOA ns.wsiph2.com. admin.webfocus.ph. 2012091462 10800 3600 604800 86400
+@ 86400 IN NS ns.wsiph2.com.
+86400 IN NS ns2.wsiph2.com.
+@ 86400 IN A 162.254.147.187
+@ 86400 IN MX 10 mail7.wsiph2.com.
+*.sa-pampanga 86400 IN A 162.254.147.187
+default._domainkey 86400 IN TXT "t=y; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhANp9t+8nkRIHw8W1xuS1xEb7T+jbMzeY4qJO+R2Ye5uM+mFBF7vsfPzfDNm/vxlHiumvJScDE2vKg6HzK7r1ZFz6OOIZzszVBeB/zDtycxl8Ej3KOkj1HToY4t4TAQGYBQIDAQAB;"
+sa-antipolo 86400 IN A 162.254.147.187
+webmail 86400 IN A 210.213.148.144
+webmail 86400 IN MX 20 210.213.148.144.
+mymoodle 86400 IN A 119.92.173.170
+*.sa-antipolo 86400 IN A 162.254.147.187
+sa-qc 86400 IN A 162.254.147.187
+saonline 86400 IN A 162.254.147.187
+* 86400 IN A 162.254.147.187
+mail 86400 IN CNAME mail7.wsiph2.com.
+schoolautomate 86400 IN A 162.254.147.187
+*.live 86400 IN A 162.254.147.187
+_domainkey 86400 IN TXT "t=y; o=~; n=http://antispam.yahoo.com/domainkeys"
+*.schoolautomate 86400 IN A 162.254.147.187
+live 86400 IN A 162.254.147.187
+live 86400 IN MX 10 806548962.mail.outlook.com.
+*.saonline 86400 IN A 162.254.147.187
+806548962.live 86400 IN CNAME domains.live.com.
+rdic 86400 IN A 210.213.148.132
+rdic 86400 IN MX 10 mail7.wsiph2.com.
+*.sa-qc 86400 IN A 162.254.147.187
+sa-pampanga 86400 IN A 162.254.147.187
+mail.rdic 86400 IN CNAME mail7.wsiph2.com.

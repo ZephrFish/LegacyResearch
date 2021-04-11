@@ -1,0 +1,7 @@
+@ 3500 IN SOA ns1.avx.pl. admin.avx.pl. 2008061012 10800 3600 604800 3500
+@ 3500 IN NS ns1.avx.pl.
+3500 IN NS ns2.avx.pl.
+@ 3500 IN A 91.200.32.24
+@ 3500 IN MX 1 mail.avx.pl.
+@ 3500 IN TXT "v=spf1 a mx ptr ip4:217.149.240.32/27 ip4:91.200.32.24/29 -all"
+* 3500 IN A 91.200.32.24

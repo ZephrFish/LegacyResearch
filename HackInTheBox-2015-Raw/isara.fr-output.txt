@@ -1,0 +1,124 @@
+@ 10800 IN SOA calimero root 2015041501 3600 600 604800 7200
+@ 10800 IN MX 1 calimero2
+10800 IN MX 10 borealis
+@ 10800 IN NS dns.univ-lyon1.fr.
+10800 IN NS ns2
+10800 IN NS calimero
+@ 10800 IN SPF "v=spf1 a mx include:ceti.isara.fr -all"
+@ 10800 IN TXT "v=spf1 a mx include:ceti.isara.fr -all"
+@ 10800 IN A 193.55.245.151
+kit 10800 IN CNAME vega
+test.www 10800 IN CNAME ceti3
+actt 10800 IN CNAME perseus
+portail3 10800 IN CNAME sirius3
+borealis 10800 IN A 212.129.1.191
+borealis 10800 IN AAAA 2001:bc8:34f2:102::1
+webstats 10800 IN CNAME cassiopee
+master 10800 IN CNAME auriga
+stratus 10800 IN A 193.55.245.155
+visiopc 10800 IN A 193.55.245.144
+antares 10800 IN A 193.55.245.135
+atlas 10800 IN A 193.55.245.141
+preprod.www 10800 IN CNAME ceti2
+ns0 10800 IN A 193.55.245.130
+bilans 10800 IN CNAME auriga
+oc 10800 IN CNAME arcus
+conferences 10800 IN CNAME vega
+www 10800 IN CNAME ceti
+dafesia 10800 IN CNAME auriga
+svn.serviceinfo 10800 IN CNAME aurora
+ceti 10800 IN A 193.55.245.151
+enquete 10800 IN CNAME aurora
+guardian 10800 IN A 193.55.245.129
+efood 10800 IN CNAME auriga
+proxyx 10800 IN A 193.55.245.173
+docil 10800 IN CNAME atlas
+cloud 10800 IN CNAME arcus
+a214.visio 10800 IN A 193.55.245.143
+autodiscover.etu 10800 IN CNAME autodiscover.outlook.com.
+auriga 10800 IN A 193.55.245.156
+botanisara 10800 IN CNAME pegase
+etu 10800 IN MX 0 etu-isara-fr.mail.protection.outlook.com.
+etu 10800 IN SPF "v=spf1 include:outlook.com ~all"
+etu 10800 IN TXT "v=spf1 include:outlook.com ~all"
+preprod 10800 IN CNAME ceti2
+redir 10800 IN CNAME vega
+arcus 10800 IN A 193.55.245.150
+formation 10800 IN CNAME auriga
+sirius3 10800 IN A 193.55.245.166
+xmpp 10800 IN A 193.55.245.158
+b326.visio 10800 IN A 193.55.245.142
+_xmpp-server._tcp 10800 IN SRV 5 0 5269 xmpp
+webmailetu 10800 IN CNAME vega
+_xmpp-client._tcp 10800 IN SRV 5 0 5222 xmpp
+cassiopee 10800 IN A 193.55.245.159
+mailetu 10800 IN CNAME redir
+aurora 10800 IN A 193.55.245.153
+publi 10800 IN CNAME atlas
+forum 10800 IN CNAME auriga
+cartix 10800 IN A 193.55.245.139
+mr._domainkey.etu 10800 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXnEXMTMa2ZjTwOF4q7g3fLx6elWGE/ZW61fJ3YqgbUhviuxh5uN3V6+K4GxPOqpSwFhBQaP9T1eUYWOiJKq0pP6+++Htl8TfLVS/aSCpIUf/RENIvg1Nw7Al3iLkbJNqeLhnMMiMWu4C286EoiUmqlTW0wU1LiLxSZRSY0I7yLQIDAQAB"
+pegase 10800 IN A 193.55.245.138
+cumulus 10800 IN A 193.55.245.147
+propositionmfe 10800 IN CNAME vega
+webcourses 10800 IN CNAME pollux
+etherpad 10800 IN CNAME aurora
+test123 10800 IN CNAME ceti
+news 10800 IN CNAME antares
+ape 10800 IN CNAME pegase
+ns-resolver1 10800 IN A 193.55.245.190
+ns-resolver2 10800 IN A 212.129.1.190
+ns-resolver2 10800 IN AAAA 2001:bc8:34f2:101::1
+ns2 10800 IN A 212.129.1.189
+ns2 10800 IN AAAA 2001:bc8:34f2:103::1
+pollux 10800 IN A 193.55.245.137
+nuage 10800 IN CNAME stratus
+polaris 10800 IN A 193.55.245.140
+asso 10800 IN CNAME redir
+wiki.serviceinfo 10800 IN CNAME aurora
+emploi-parite 10800 IN CNAME redir
+venus 10800 IN A 193.55.245.158
+situation 10800 IN CNAME auriga
+c2icertification 10800 IN CNAME antares
+bilanmfe 10800 IN CNAME auriga
+sondage 10800 IN CNAME aurora
+calimero 10800 IN A 193.55.245.131
+mobile 10800 IN CNAME sirius
+sisvn 10800 IN A 193.55.245.149
+calimero2 10800 IN A 193.55.245.132
+mercure 10800 IN A 193.55.245.148
+parcours 10800 IN CNAME auriga
+sirius 10800 IN A 193.55.245.133
+profilcultural 10800 IN CNAME canopus
+ecampus-qcm 10800 IN CNAME antares
+ape2 10800 IN CNAME pegase
+journalinterne 10800 IN CNAME ceti
+ceti2 10800 IN A 193.55.245.154
+intranet 10800 IN CNAME antares
+c2i 10800 IN CNAME antares
+isaracom 10800 IN CNAME ceti
+canopus 10800 IN A 193.55.245.145
+exchange 10800 IN CNAME proxyx
+portail 10800 IN CNAME sirius
+blog 10800 IN CNAME ceti
+reseaupublic 10800 IN A 172.28.255.245
+bugtrack 10800 IN CNAME vega
+madame 10800 IN CNAME auriga
+optionnels 10800 IN CNAME auriga
+owa 10800 IN CNAME redir
+vpn 10800 IN CNAME mercure
+isaradoc 10800 IN CNAME atlas
+_xmpp-server._tcp.conference 10800 IN SRV 5 0 5269 xmpp
+rabelais 10800 IN CNAME redir
+produitsdemontagne 10800 IN CNAME auriga
+perseus 10800 IN A 193.55.245.146
+zeta 10800 IN A 193.55.245.160
+conf 10800 IN CNAME auriga
+ecampus 10800 IN CNAME antares
+e-campus 10800 IN CNAME antares
+c2ipositionnement 10800 IN CNAME antares
+proxyx2 10800 IN A 193.55.245.174
+pictor 10800 IN A 193.55.245.161
+elanor 10800 IN A 193.55.245.157
+vega 10800 IN A 193.55.245.134
+cepheus 10800 IN A 193.55.245.152

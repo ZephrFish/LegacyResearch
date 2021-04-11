@@ -1,0 +1,378 @@
+@ 86400 IN SOA smtp postmaster.smtp 2015040801 10800 3600 604800 86400
+@ 86400 IN NS smtp1
+86400 IN NS smtp2
+@ 86400 IN MX 0 smtp
+@ 86400 IN TXT "v=spf1 ip4:200.14.51.4 ip4:200.55.139.213 ip4:190.6.86.171 a:smtp.uh.cu mx ~all"
+redes 86400 IN MX 0 smtp
+redes 86400 IN A 200.55.139.216
+estudiantes.ffh 86400 IN MX 0 smtp
+fq 86400 IN MX 0 smtp
+fq 86400 IN A 200.55.139.216
+www.revflacso 86400 IN A 200.55.139.216
+login.weboo.matcom 86400 IN A 200.55.139.216
+correo.ifal 86400 IN A 200.55.139.216
+equitext.cepes 86400 IN A 200.55.139.216
+_jabber._tcp.therion.fayl 86400 IN SRV 10 0 5269 jabber-gw
+www.flex 86400 IN CNAME flex
+_xmpp-server._tcp.flex 60 IN SRV 10 0 5269 jabber-gw
+estudiantes.matcom 86400 IN MX 0 smtp
+www.rcfa 86400 IN A 200.55.139.216
+bender 86400 IN A 200.55.139.216
+_xmpp-client._tcp.rect 60 IN SRV 10 0 5222 jabber-gw
+fcom 86400 IN MX 0 smtp
+fcom 86400 IN A 200.55.139.216
+_xmpp-server._tcp.chat 60 IN SRV 10 0 5269 jabber-gw
+www.rccb 86400 IN A 200.55.139.216
+rim.cim 86400 IN A 200.55.139.216
+cetur 86400 IN MX 0 smtp
+cetur 86400 IN A 200.55.139.216
+proxy2 86400 IN MX 0 smtp
+proxy2 86400 IN A 200.55.139.213
+webmail.biomat 86400 IN A 200.55.139.216
+www.cofinhab 86400 IN A 200.55.139.216
+_jabber._tcp.rect 60 IN SRV 10 0 5269 jabber-gw
+* 86400 IN TXT "v=spf1 ip4:200.14.51.4 ip4:200.55.139.213 ip4:190.6.86.171 a:smtp.uh.cu mx ~all"
+frodo.matcom 86400 IN A 200.55.139.216
+biomat 86400 IN MX 0 smtp
+biomat 86400 IN A 200.55.139.216
+aulavirtual.fbio 86400 IN A 200.55.139.216
+ifal2 86400 IN MX 0 smtp
+ifal2 86400 IN A 200.55.139.216
+fbio.fbio 86400 IN MX 0 smtp
+fbio.fbio 86400 IN A 200.55.139.216
+jabber-gw 86400 IN A 200.55.139.211
+personal.weboo.matcom 86400 IN A 200.55.139.216
+karin.qct.fq 86400 IN A 200.55.139.216
+pronat.cim 86400 IN A 200.55.139.216
+fec 86400 IN MX 0 smtp
+fec 86400 IN A 200.55.139.216
+fed 86400 IN MX 0 smtp
+fed 86400 IN A 200.55.139.216
+ff.oc 86400 IN MX 0 smtp
+ff.oc 86400 IN A 200.55.139.216
+_xmpp-client._tcp.flex 60 IN SRV 10 0 5222 jabber-gw
+karin 86400 IN A 190.6.94.137
+multics 86400 IN A 200.55.139.216
+www.congreso2010.biomat 86400 IN A 200.55.139.216
+ntic.cepes 86400 IN A 200.55.139.216
+www.invoperacional 86400 IN A 200.55.139.216
+www.rsam 86400 IN CNAME deltha
+_jabber._tcp.flex 60 IN SRV 10 0 5269 jabber-gw
+bohr 86400 IN A 200.55.139.216
+moodle2 86400 IN A 200.55.139.216
+www.ifal 86400 IN CNAME ifal
+cepes 86400 IN MX 0 smtp
+cepes 86400 IN A 200.55.139.216
+webservices 86400 IN A 200.55.139.216
+wwwimre.imre.oc 86400 IN CNAME imre
+vriep 86400 IN MX 0 smtp
+vriep 86400 IN A 200.55.139.216
+ftur 86400 IN MX 0 smtp
+ftur 86400 IN A 200.55.139.216
+www.ceted 86400 IN CNAME ceted
+comuh 86400 IN MX 0 smtp
+comuh 86400 IN A 200.55.139.216
+epsuh 86400 IN A 200.55.139.216
+dcms 86400 IN A 200.55.139.216
+mail.fcf 86400 IN A 200.55.139.216
+www.fq 86400 IN CNAME fq
+webmail.ffh 86400 IN CNAME ffh
+www.ujc 86400 IN CNAME deltha
+correo.cedem 86400 IN A 200.55.139.216
+conservacion.cim 86400 IN A 200.55.139.216
+www.fisica 86400 IN A 200.55.139.216
+cehseu 86400 IN MX 0 smtp
+_xmpp-client._tcp.matcom 60 IN SRV 10 0 5222 jabber-gw
+mail.cehseu 86400 IN A 200.55.139.216
+mail.fec 86400 IN A 200.55.139.216
+www.ff.oc 86400 IN A 200.55.139.216
+lists.ceted 86400 IN CNAME ceted
+revistauh 86400 IN A 200.55.139.216
+linux 86400 IN CNAME deltha
+svn.crv.matcom 86400 IN A 200.55.139.216
+smtp 86400 IN MX 0 smtp
+smtp 86400 IN A 200.14.51.4
+86400 IN A 200.55.139.213
+estudiantes.psico 86400 IN MX 0 smtp
+cedem 86400 IN MX 0 smtp
+cedem 86400 IN A 200.55.139.216
+www.rjbn 86400 IN A 200.55.139.216
+fq.oc 86400 IN A 200.55.139.216
+ujc 86400 IN CNAME deltha
+_jabber._tcp.matcom 60 IN SRV 10 0 5269 jabber-gw
+virtualizacion2014-ddi 86400 IN CNAME moodle
+rect 86400 IN MX 0 smtp
+rect 86400 IN A 200.55.139.216
+_xmpp-client._tcp.fisica 60 IN SRV 10 0 5222 jabber-gw
+biblioteca.dict 86400 IN A 200.55.139.216
+_xmpp-client._tcp.jabber 86400 IN SRV 10 0 5222 jabber-gw
+est.fbio 86400 IN MX 0 smtp
+est.fbio 86400 IN A 200.55.139.216
+nimbo 86400 IN MX 0 smtp
+nimbo 86400 IN A 200.55.139.216
+smtp2 86400 IN MX 0 smtp
+smtp2 86400 IN A 200.55.139.213
+ioi.cim 86400 IN A 200.55.139.216
+geo 86400 IN MX 0 smtp
+geo 86400 IN A 200.55.139.216
+www.cietcuba 86400 IN A 200.55.139.216
+mail.cepes 86400 IN A 200.55.139.216
+get 86400 IN A 200.55.139.216
+gefines 86400 IN A 200.55.139.216
+www.cartacuba 86400 IN A 200.55.139.216
+mcc.matcom 86400 IN A 200.55.139.216
+_xmpp-server._tcp 60 IN SRV 10 0 5269 jabber-gw
+fedvirtual2.fed 86400 IN A 200.55.139.216
+politicalatina.flacso 86400 IN A 200.55.139.216
+fenhi 86400 IN MX 0 smtp
+fenhi 86400 IN A 200.55.139.216
+www.iris 86400 IN CNAME iris
+_xmpp-server._tcp.iris 60 IN SRV 10 0 5269 jabber-gw
+flex 86400 IN MX 0 smtp
+flex 86400 IN A 200.55.139.216
+www.novpob 86400 IN A 200.55.139.216
+tigris 86400 IN A 200.55.139.216
+clio.rect 86400 IN A 200.55.139.216
+moodle 86400 IN A 200.55.139.216
+estudiantes.ftur 86400 IN MX 0 smtp
+www.cim 86400 IN A 200.55.139.216
+linuhx 86400 IN CNAME deltha
+revista.dict 86400 IN CNAME dict
+jce.matcom 86400 IN A 200.55.139.216
+bolscmc.matcom 86400 IN MX 0 smtp
+bolscmc.matcom 86400 IN A 200.55.139.216
+_xmpp-server._tcp.matcom 60 IN SRV 10 0 5269 jabber-gw
+www.rim 86400 IN A 200.55.139.216
+_jabber._tcp 60 IN SRV 10 0 5269 jabber-gw
+_xmpp-server._tcp.fisica 60 IN SRV 10 0 5269 jabber-gw
+www.flacso 86400 IN A 200.55.139.216
+quimred.fq 86400 IN A 200.55.139.216
+congresoeconomia 86400 IN A 200.55.139.216
+www.cope 86400 IN CNAME cope
+_xmpp-client._tcp.iris 60 IN SRV 10 0 5222 jabber-gw
+www.fayl 86400 IN A 200.55.139.216
+estudiantes.ff.oc 86400 IN MX 0 smtp
+webjabber 86400 IN CNAME comuh
+lab.matcom 86400 IN MX 0 smtp
+lab.matcom 86400 IN A 200.55.139.216
+deltha 86400 IN A 200.55.139.216
+proxy1 86400 IN MX 0 smtp
+proxy1 86400 IN A 200.55.139.212
+direco.rect 86400 IN MX 0 smtp
+direco.rect 86400 IN A 200.55.139.216
+mail.geo 86400 IN CNAME geo
+_xmpp-client._tcp.lab.matcom 60 IN SRV 10 0 5222 jabber-gw
+_jabber._tcp.iris 60 IN SRV 10 0 5269 jabber-gw
+rsam 86400 IN CNAME deltha
+tesiscomp.matcom 86400 IN A 200.55.139.216
+www.linux 86400 IN CNAME deltha
+webmail.ceap 86400 IN A 200.55.139.216
+www.vriep 86400 IN A 200.55.139.216
+www.hraices 86400 IN A 200.55.139.216
+estudiantes.ifal 86400 IN MX 0 smtp
+ecfa 86400 IN A 200.55.139.216
+_xmpp-client._tcp.fenhi 60 IN SRV 10 0 5222 jabber-gw
+tncfa 86400 IN CNAME moodle
+fcf 86400 IN MX 0 smtp
+fcf 86400 IN A 200.55.139.216
+fisica 86400 IN MX 0 smtp
+fisica 86400 IN A 200.55.139.216
+mail.fisica 86400 IN A 200.55.139.216
+www.congresoalafec.fcf 86400 IN A 200.55.139.216
+_xmpp-server._tcp.anduin 60 IN SRV 10 0 5269 jabber-gw
+reds.flacso 86400 IN A 200.55.139.216
+www.cetur 86400 IN CNAME cetur
+www.cisdem 86400 IN A 200.55.139.216
+acuicultura.cim 86400 IN A 200.55.139.216
+fbio.fbio.oc 86400 IN MX 0 smtp
+fbio.fbio.oc 86400 IN A 200.55.139.216
+_xmpp-client._tcp.therion.fayl 86400 IN SRV 10 0 5222 jabber-gw
+_xmpp-server._tcp.redes 60 IN SRV 10 0 5269 jabber-gw
+odisea.fec 86400 IN MX 0 smtp
+odisea.fec 86400 IN A 200.55.139.216
+mizc.cim 86400 IN MX 0 smtp
+mizc.cim 86400 IN A 200.55.139.216
+www.fbio 86400 IN CNAME fbio
+*.crv.matcom 86400 IN A 200.55.139.216
+_xmpp-server._tcp.therion.fayl 86400 IN SRV 10 0 5269 jabber-gw
+crv.matcom 86400 IN A 200.55.139.216
+_jabber._tcp.fisica 60 IN SRV 10 0 5269 jabber-gw
+psico 86400 IN MX 0 smtp
+psico 86400 IN A 200.55.139.216
+web.ftur 86400 IN A 200.55.139.216
+iris 86400 IN MX 0 smtp
+iris 86400 IN A 200.55.139.216
+tibero 86400 IN A 200.55.139.216
+www.lacolina 86400 IN CNAME moodle
+ifal 86400 IN MX 0 smtp
+ifal 86400 IN A 200.55.139.216
+_xmpp-server._tcp.rect 60 IN SRV 10 0 5269 jabber-gw
+anduin 86400 IN A 200.55.139.213
+quimica 86400 IN MX 0 smtp
+quimica 86400 IN A 200.55.139.216
+_jabber._tcp.lab.matcom 60 IN SRV 10 0 5269 jabber-gw
+*.profesores.matcom 86400 IN A 200.55.139.216
+www.cepes 86400 IN CNAME cepes
+www.ceap 86400 IN A 200.55.139.216
+lex 86400 IN MX 0 smtp
+lex 86400 IN A 200.55.139.216
+raman.ff.oc 86400 IN MX 0 smtp
+biomat2014 86400 IN CNAME moodle
+cofinhabana.fcf 86400 IN A 200.55.139.216
+www.comuh 86400 IN CNAME comuh
+www.epsuh 86400 IN CNAME epsuh
+mail 86400 IN MX 0 smtp
+mail 86400 IN A 200.55.139.216
+piwik 86400 IN A 200.55.139.216
+_xmpp-server._tcp.jabber 86400 IN SRV 10 0 5269 jabber-gw
+caesc.flacso 86400 IN A 200.55.139.216
+_jabber._tcp.chat.uh.cu 60 IN SRV 10 0 5269 jabber-gw
+www.linuxuh 86400 IN CNAME deltha
+aulavirtual.cim 86400 IN A 200.55.139.216
+www.imre.oc 86400 IN CNAME imre
+www.ceec 86400 IN A 200.55.139.216
+deuh 86400 IN MX 0 smtp
+deuh 86400 IN A 200.55.139.216
+www.linuhx 86400 IN CNAME deltha
+genetica.cim 86400 IN A 200.55.139.216
+_xmpp-server._tcp.lab.matcom 60 IN SRV 10 0 5269 jabber-gw
+eko.fec 86400 IN MX 0 smtp
+eko.fec 86400 IN A 200.55.139.216
+abcd.dict 86400 IN A 200.55.139.216
+flacso 86400 IN MX 0 smtp
+metmat.fq.oc 86400 IN MX 0 smtp
+metmat.fq.oc 86400 IN A 200.55.139.216
+mail.iris 86400 IN CNAME iris
+mail.flacso 86400 IN A 200.55.139.216
+karin.fq 86400 IN MX 0 smtp
+karin.fq 86400 IN A 200.55.139.216
+mail.fenhi 86400 IN CNAME fenhi
+canaria.quimica 86400 IN MX 0 smtp
+estudiantes.flex 86400 IN MX 0 smtp
+www.erma 86400 IN CNAME deltha
+www.cedem 86400 IN CNAME cedem
+direco 86400 IN MX 0 smtp
+direco 86400 IN A 200.55.139.216
+_xmpp-client._tcp.redes 60 IN SRV 10 0 5222 jabber-gw
+www.rcei 86400 IN A 200.55.139.216
+www.dict 86400 IN CNAME dict
+_xmpp-server._tcp.dict 60 IN SRV 10 0 5269 jabber-gw
+_jabber._tcp.fenhi 60 IN SRV 10 0 5269 jabber-gw
+www.weboo.matcom 86400 IN A 200.55.139.216
+cope 86400 IN MX 0 smtp
+cope 86400 IN A 200.55.139.216
+estudiantes.fbio 86400 IN MX 0 smtp
+forum.cim 86400 IN A 200.55.139.216
+ifaldirec 86400 IN MX 0 smtp
+ifaldirec 86400 IN A 200.55.139.216
+mail.direco 86400 IN MX 0 smtp
+mail.direco 86400 IN A 200.55.139.216
+imre 86400 IN MX 0 smtp
+imre 86400 IN A 200.55.139.216
+www.fcf 86400 IN A 200.55.139.216
+www.matcom 86400 IN A 200.55.139.216
+correo.ceted 86400 IN CNAME ceted
+cim 86400 IN MX 0 smtp
+cim 86400 IN A 200.55.139.216
+biblioteca.ffh 86400 IN A 200.55.139.216
+egroup.matcom 86400 IN MX 0 smtp
+www.guiaclinica.biomat 86400 IN A 200.55.139.216
+www.lex 86400 IN CNAME lex
+ingreso.cepes 86400 IN CNAME cepes
+dec 86400 IN CNAME deuh
+langosta.cim 86400 IN A 200.55.139.216
+www.fec 86400 IN CNAME fec
+www.fed 86400 IN CNAME fed
+cimpa.matcom 86400 IN A 200.55.139.216
+_xmpp-server._tcp.fenhi 60 IN SRV 10 0 5269 jabber-gw
+_xmpp-client._tcp.dict 60 IN SRV 10 0 5222 jabber-gw
+gridmes 86400 IN CNAME murphy
+ceted 86400 IN MX 0 smtp
+ceted 86400 IN A 200.55.139.216
+mba.cim 86400 IN MX 0 smtp
+mba.cim 86400 IN A 200.55.139.216
+estudiantes.fisica 86400 IN MX 0 smtp
+estudiantes.fisica 86400 IN A 200.55.139.216
+www.ffh 86400 IN CNAME ffh
+www.fcom 86400 IN CNAME fcom
+_xmpp-server._tcp.fcom 60 IN SRV 10 0 5269 jabber-gw
+revista.cepes 86400 IN A 200.55.139.216
+_jabber._tcp.dict 60 IN SRV 10 0 5269 jabber-gw
+ddi 86400 IN A 200.55.139.216
+catedradecalidad.biomat 86400 IN A 200.55.139.216
+mail.rect 86400 IN CNAME rect
+fbio 86400 IN MX 0 smtp
+fbio 86400 IN A 200.55.139.216
+ffh 86400 IN MX 0 smtp
+ffh 86400 IN A 200.55.139.216
+www.rim.uh.cu 86400 IN A 200.55.139.216
+_xmpp-client._tcp.anduin 60 IN SRV 10 0 5222 jabber-gw
+estudiantes.fayl 86400 IN MX 0 smtp
+mail.redes 86400 IN CNAME redes
+smtp1 86400 IN MX 0 smtp
+smtp1 86400 IN A 200.55.139.212
+nanoimre 86400 IN A 200.55.139.216
+valores.cepes 86400 IN A 200.55.139.216
+webmail.fcom 86400 IN CNAME fcom
+unipatrimonio 86400 IN CNAME patrimonio
+matcom 86400 IN MX 0 smtp
+matcom 86400 IN A 200.55.139.216
+www.biomat 86400 IN CNAME biomat
+mail.fbio 86400 IN A 200.55.139.216
+mail.cim 86400 IN A 200.55.139.216
+estudiantes.lex 86400 IN MX 0 smtp
+_jabber._tcp.redes 60 IN SRV 10 0 5269 jabber-gw
+www.jce.matcom 86400 IN A 200.55.139.216
+_jabber._tcp.anduin 60 IN SRV 10 0 5269 jabber-gw
+_xmpp-client._tcp.fcom 60 IN SRV 10 0 5222 jabber-gw
+www.psicoencuentro 86400 IN CNAME moodle
+havmun 86400 IN CNAME moodle
+ceap 86400 IN MX 0 smtp
+www.scq 86400 IN A 200.55.139.216
+www.rces 86400 IN A 200.55.139.216
+imre.oc 86400 IN MX 0 smtp
+imre.oc 86400 IN A 200.55.139.216
+_jabber._tcp.fcom 60 IN SRV 10 0 5269 jabber-gw
+patrimonio 86400 IN A 200.55.139.216
+mail.imre.oc 86400 IN A 200.55.139.216
+stats.weboo.matcom 86400 IN A 200.55.139.216
+_xmpp-client._tcp 60 IN SRV 10 0 5222 jabber-gw
+_jabber._tcp.jabber 86400 IN SRV 10 0 5269 jabber-gw
+portal.cepes 86400 IN A 200.55.139.216
+fbio.oc 86400 IN MX 0 smtp
+fbio.oc 86400 IN A 200.55.139.216
+www 86400 IN A 200.55.139.216
+ceec 86400 IN MX 0 smtp
+ceec 86400 IN A 200.55.139.216
+pncbasicas.matcom 86400 IN A 200.55.139.216
+fayl 86400 IN MX 0 smtp
+linuxuh 86400 IN CNAME deltha
+lists 86400 IN MX 0 smtp
+lists 86400 IN A 200.55.139.216
+www.geo 86400 IN CNAME geo
+clases.matcom 86400 IN A 200.55.139.216
+proxy 86400 IN MX 0 smtp
+proxy 86400 IN A 200.55.139.212
+ecologia.cim 86400 IN A 200.55.139.216
+www.get 86400 IN CNAME get
+caesc 86400 IN CNAME caesc.flacso
+estudiantes.flacso 86400 IN MX 0 smtp
+mail.ceec 86400 IN A 200.55.139.216
+erma 86400 IN CNAME deltha
+estudiantes.fcom 86400 IN MX 0 smtp
+mail.fayl 86400 IN A 200.55.139.216
+estudiantes.fcf 86400 IN MX 0 smtp
+dict 86400 IN MX 0 smtp
+dict 86400 IN A 200.55.139.216
+www.imre 86400 IN CNAME imre
+www.fq.oc 86400 IN A 200.55.139.216
+mail.lex 86400 IN A 200.55.139.216
+www.anuariocemi 86400 IN A 200.55.139.216
+www.rect 86400 IN CNAME rect
+mail.matcom 86400 IN A 200.55.139.216
+estudiantes.fec 86400 IN MX 0 smtp
+estudiantes.fed 86400 IN MX 0 smtp
+profesores.matcom 86400 IN A 200.55.139.216
+web.flex 86400 IN CNAME flex
+canaria.fq 86400 IN MX 0 smtp
+mail.dict 86400 IN CNAME dict

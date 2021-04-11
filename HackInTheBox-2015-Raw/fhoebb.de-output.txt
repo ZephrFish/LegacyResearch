@@ -1,0 +1,14 @@
+@ 86400 IN SOA ns1.parklogic.com. hostmaster 2015042400 16384 2048 1048576 2560
+@ 86400 IN NS ns1.parklogic.com.
+86400 IN NS ns2.parklogic.com.
+86400 IN NS ns3.parklogic.com.
+@ 3600 IN A 74.200.250.181
+@ 3600 IN MX 10 allmail.parklogic.com.
+ww1 3600 IN CNAME sedoparking.com.
+ww2 3600 IN CNAME r484.fwdservice.com.
+* 3600 IN CNAME @
+ww7 3600 IN CNAME id109489.ndparking.com.
+ww8 3600 IN CNAME www10.smartname.com.
+ww11 3600 IN CNAME 9185.searchmagnified.com.
+ww12 3600 IN CNAME 685259.parkingcrew.net.
+ww4 3600 IN CNAME cname.voodoo.com.

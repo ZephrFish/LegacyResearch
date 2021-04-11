@@ -1,0 +1,1158 @@
+@ 86400 IN SOA gerencia.rede root.rede 2015043001 720 3600 3600000 86400
+@ 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+@ 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 80 mail1
+86400 IN MX 80 mail2
+86400 IN MX 80 mail3
+86400 IN MX 80 mail4
+@ 86400 IN NS ns.pop-mg.rnp.br.
+86400 IN NS bee.uspnet.usp.br.
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS gerencia.rede
+mv-2.voip 86400 IN CNAME sv-2.voip
+vet 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS indicus.vet
+cppta 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+cppta 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+cppta 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+# 86400 IN NS felix.lcc
+* 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+86400 IN TXT "v=spf1 ip4:150.164.0.0/16 ip4:78.46.81.239 -all"
+hc 86400 IN NS taz.medicina
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS aleste.hc
+86400 IN NS basalto.dcc
+qui 86400 IN NS zeus.qui
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+www.redeifes 86400 IN CNAME montreal.tv.cedecom
+drh 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+drh 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+drh 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+ehr 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+rpd 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+rpd 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+rpd 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+almox 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+7simposioneurociencias 86400 IN CNAME 7simposioneurociencias.chsd.com.br.
+apollo.fafich 86400 IN A 150.164.95.1
+rede 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+sim 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+sim 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+sim 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+jupiter.cp 86400 IN A 150.164.118.1
+dc04.minha 86400 IN A 150.164.76.64
+cedro.fisica 86400 IN A 150.164.12.25
+ufmgjovem 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+ufmgjovem 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+ufmgjovem 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+mav3 86400 IN A 150.164.64.61
+86400 IN A 150.164.64.62
+86400 IN A 150.164.64.63
+86400 IN A 150.164.64.64
+elice.letras 86400 IN A 150.164.100.8
+mhnjb 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+mhnjb 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+mhnjb 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+ua2 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+ua3 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+aurora.cedeplar 86400 IN A 150.164.82.1
+www.projetocavas 86400 IN CNAME projetocavas
+sempre 600 IN CNAME www
+dees 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+indicus.vet 86400 IN A 150.164.122.2
+ciif.fundepar 86400 IN A 150.164.30.229
+www.giars 86400 IN A 150.164.95.2
+antispam 86400 IN CNAME mail1
+nanocarbono 86400 IN CNAME morena.fisica
+www.cursos 86400 IN A 150.164.30.6
+demai 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+etuc 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+catalogobiblioteca 86400 IN A 150.164.250.4
+www.waporbrasil 86400 IN CNAME chronos.fafich
+demec 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+demc 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+farmacia 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS belladona.farmacia
+www.perfil 600 IN CNAME www
+delt 86400 IN NS ns1.eng
+86400 IN NS ns2.eng
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+demet 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+diarq 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+diarq 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+diarq 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+polos 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+polos 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+polos 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+capela.csr 86400 IN A 150.164.29.18
+www.cte 86400 IN A 150.164.124.4
+www.somos 86400 IN CNAME somos
+musica 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS beethoven.musica
+demin 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+arquitetura 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+arquitetura 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+arquitetura 86400 IN MX 10 brunelleschi.arq
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+arquitetura 86400 IN A 150.164.106.1
+geas 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+geas 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+geas 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+desa 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+mail 86400 IN A 150.164.64.61
+86400 IN A 150.164.64.62
+86400 IN A 150.164.64.63
+86400 IN A 150.164.64.64
+frmfa 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+dhcp.redesemfio 86400 IN A 150.164.159.253
+virtual 86400 IN A 150.164.250.11
+estatistica 86400 IN CNAME www.est
+enf 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS dourado.enf
+eng 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+cedeplar 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS aurora.cedeplar
+86400 IN NS franco.face
+86400 IN NS basalto.dcc
+copi 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+gabinete 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+gabinete 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+gabinete 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+brunelleschi.arq 86400 IN A 150.164.106.1
+mav1 86400 IN A 150.164.64.61
+86400 IN A 150.164.64.62
+86400 IN A 150.164.64.63
+86400 IN A 150.164.64.64
+mav2 86400 IN A 150.164.64.61
+86400 IN A 150.164.64.62
+86400 IN A 150.164.64.63
+86400 IN A 150.164.64.64
+dc03.minha 86400 IN A 150.164.76.63
+odonto 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS central.odonto
+condor.cpdee 86400 IN A 150.164.32.33
+dns1.eci 86400 IN A 150.164.98.1
+cespe 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.regeo2011 86400 IN CNAME asterix.cce
+cursoseeventos 86400 IN A 150.164.30.6
+www.labcri 86400 IN CNAME morena.fisica
+enfermagem 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+enfermagem 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+enfermagem 86400 IN MX 10 dourado.enf
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+espacotim 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+espacotim 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+espacotim 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+cppd 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+tempestade.cecaps 86400 IN A 150.164.95.54
+assessoria 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+assessoria 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+assessoria 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+projetocavas 86400 IN CNAME chronos.fafich
+www.telessaude 86400 IN CNAME sureco.grude
+srv-fundepar 86400 IN A 150.164.30.5
+observatoriodajuventude 86400 IN A 192.185.208.111
+ppgee 86400 IN NS ns1.eng
+86400 IN NS ns2.eng
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+terra.reitoria 86400 IN A 150.164.73.251
+webeditorateste 86400 IN A 150.164.254.3
+www.estacaoecologica 600 IN CNAME www
+www.centrocultural 600 IN CNAME www
+sampa.fump 86400 IN A 150.164.162.1
+www.sempre 600 IN CNAME www
+portal.fundepar 86400 IN A 150.164.30.229
+www.ctit 86400 IN A 150.164.30.119
+cevep 86400 IN CNAME cevep.fafich
+proex 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+ns0 86400 IN A 150.164.255.230
+www.geres 86400 IN A 150.164.116.241
+ritu.cedecom 86400 IN A 150.164.254.11
+www.nanocarbono 86400 IN CNAME nanocarbono
+cpanel.observatoriodajuventude 86400 IN CNAME br140.hostgator.com.br.
+www.redesemfio 600 IN CNAME www
+listas 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+listas 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+listas 86400 IN MX 10 scorpius.cecom
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+listas 86400 IN A 150.164.76.112
+www.nupad 86400 IN CNAME www.nupad.medicina
+auth-local.eduroam 86400 IN A 150.164.255.155
+proplan 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+ebap 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+ebap 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+ebap 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+www.cultura 600 IN CNAME www
+ns2.eng 86400 IN A 150.164.51.2
+aci 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+aci 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+aci 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+bevilaqua.direito 86400 IN A 150.164.104.1
+prorh 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+xerox.servicos 86400 IN A 150.164.70.200
+etg 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+adm 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.arquitetura 86400 IN CNAME www.arq
+proxy.ica 86400 IN A 150.164.130.251
+sast 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+sast 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+sast 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+prograd 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+apoio.rede 86400 IN A 150.164.76.165
+www.observatorio 86400 IN CNAME www13.fisica
+dout 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+ctit 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+ctit 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+ctit 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+dc02.minha 86400 IN A 150.164.76.62
+fundep 86400 IN NS ns.pop-mg.rnp.br.
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS ruiva2.fundep
+86400 IN NS basalto.dcc
+www.7simposioneurociencias 86400 IN CNAME 7simposioneurociencias.chsd.com.br.
+mest 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+www.waporbh 86400 IN CNAME chronos.fafich
+_sip._tcp.voip 86400 IN SRV 0 5 5060 sv-1.voip
+rmbh 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+rmbh 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+rmbh 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+asterix.cce 86400 IN A 150.164.51.1
+mail1 86400 IN A 150.164.64.61
+mail2 86400 IN A 150.164.64.62
+mail3 86400 IN A 150.164.64.63
+mail4 86400 IN A 150.164.64.64
+mail5 86400 IN A 150.164.64.65
+mail6 86400 IN A 150.164.64.66
+mail7 86400 IN A 150.164.64.67
+mail8 86400 IN A 150.164.64.68
+mail9 86400 IN A 150.164.64.69
+www.lanano 86400 IN CNAME www.microscopia
+mail10 86400 IN A 150.164.64.70
+vitanova 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+cac 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+general.igc 86400 IN A 150.164.29.253
+arq 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS brunelleschi.arq
+www.portalprosaudebh 600 IN CNAME www
+ati 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+ati 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+ati 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+cce 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+cdc 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+sv-1.voip 86400 IN A 150.164.255.171
+ceu 86400 IN MX 70 mav3
+ceu 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+everest.atm 86400 IN A 150.164.200.2
+www.simposioneurociencias 86400 IN CNAME 7simposioneurociencias.chsd.com.br.
+minha 86400 IN NS dc03.minha
+86400 IN NS dc04.minha
+86400 IN NS apoio.rede
+simposioneurociencias 600 IN CNAME 7simposioneurociencias.chsd.com.br.
+dac 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+dac 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+dac 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+dac 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+dae 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+dae 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+dae 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+dae 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.mhnjb 600 IN CNAME www
+dai 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+dai 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+dai 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+dai 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+eeco 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+dap 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+dap 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+dap 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+dcc 86400 IN NS ns.pop-mg.rnp.br.
+86400 IN NS apoio.rede
+86400 IN NS basalto-master.dcc
+dcf 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+ddc 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+dee 86400 IN NS ns1.eng
+86400 IN NS ns2.eng
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+crisp 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+copeve 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+copeve 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+copeve 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+gaptem 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+gaptem 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+gaptem 86400 IN MX 10 mail.gaptem
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+gaptem 86400 IN A 150.164.46.120
+dep 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+deq 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+polopsf 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+polopsf 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+polopsf 86400 IN MX 10 polopsf
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+polopsf 86400 IN A 150.164.90.1
+dga 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.dpfo 600 IN CNAME www
+dgi 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+cpv 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.opiniaopublica 86400 IN CNAME chronos.fafich
+www.labepeh 86400 IN A 150.164.118.1
+fump 86400 IN NS apoio.rede
+86400 IN NS sampa.fump
+basalto-master.dcc 86400 IN A 150.164.0.145
+ead 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+galileu.coltec 86400 IN A 150.164.102.3
+ftp.observatoriodajuventude 86400 IN CNAME observatoriodajuventude
+eba 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS kline.eba
+86400 IN NS basalto.dcc
+cpdee 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS condor.cpdee
+86400 IN NS falcao.cpdee
+86400 IN NS basalto.dcc
+cte 86400 IN A 150.164.124.4
+aplicativos 86400 IN A 150.164.250.8
+csr 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS capela.csr
+86400 IN NS basalto.dcc
+86400 IN NS general.igc
+www.profamilia 86400 IN A 150.164.90.1
+www.lpt 86400 IN CNAME www.lpt.lcc
+eci 86400 IN NS dns1.eci
+86400 IN NS dns2.eci
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+ca 86400 IN A 150.164.250.225
+bl 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+dlo 86400 IN MX 70 mav3
+dlo 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.polos 86400 IN A 150.164.104.4
+eee 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+eef 86400 IN CNAME eeffto
+dmp 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+dmp 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+dmp 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+cp 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS jupiter.cp
+inova 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS diamantina.inova
+eb 86400 IN NS dns1.eci
+86400 IN NS dns2.eci
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+do 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.bibliotecadigital 86400 IN CNAME vulcano.grude
+ruiva2.fundep 86400 IN A 150.164.30.1
+hydra.lcc 86400 IN A 150.164.65.3
+vesper.demec 86400 IN A 150.164.43.12
+proxy.cache 86400 IN CNAME cache.proxy
+dri 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+fae 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS comenius.fae
+dsg 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.institutoconfucio 86400 IN A 150.164.100.85
+dc01.minha 86400 IN A 150.164.76.61
+cache.proxy 86400 IN A 150.164.255.201
+dti 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+dti 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+dti 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+www.siex 86400 IN CNAME ext-psq.adm-serv
+comenius.fae 86400 IN A 150.164.116.1
+mail.espacotim 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+mail.espacotim 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+mail.espacotim 86400 IN MX 10 terra.reitoria
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+www.eventos 86400 IN A 150.164.30.6
+www.eicv 86400 IN CNAME www
+dpfo 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+dpfp 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+dns2.eci 86400 IN A 150.164.98.2
+DZC 300 IN TXT "GVmRKS2H"
+pc 86400 IN CNAME ext-psq.adm-serv
+www.nnc 86400 IN CNAME nnc.icb
+www.propetsaude 86400 IN CNAME propetsaude
+pj 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+taz.medicina 86400 IN A 150.164.90.1
+esp 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+eeffto 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS olympic.eef
+ccult 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+est 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS venus.est
+86400 IN NS basalto.dcc
+vest 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+direito 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS bevilaqua.direito
+wap.vestibular 86400 IN A 150.164.250.9
+cecom 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+tu 86400 IN NS terra.reitoria
+caed 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+webcoltec 86400 IN A 150.164.76.79
+auditoria 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+auditoria 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+auditoria 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+letters.letras 86400 IN A 150.164.100.5
+caid 86400 IN A 150.164.254.242
+drca 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+imprensa 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+siex 86400 IN CNAME ext-psq.adm-serv
+mv-0.voip 86400 IN CNAME sv-0.voip
+cpanel 86400 IN A 50.97.98.99
+watsi.mat 86400 IN A 150.164.25.5
+milenioagua 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+milenioagua 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+milenioagua 86400 IN MX 10 agora.grude
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+taba 86400 IN CNAME taba.lcc
+aleste.hc 86400 IN A 150.164.93.1
+sv-2.voip 86400 IN A 150.164.255.172
+cecaps 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+cecaps 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+cecaps 86400 IN MX 10 tempestade.cecaps
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+mav-1 86400 IN CNAME mail1
+mav-2 86400 IN CNAME mail2
+mav-3 86400 IN CNAME mail3
+mav-4 86400 IN CNAME mail4
+www2 86400 IN A 150.164.250.2
+www3 86400 IN CNAME lua.adm-serv
+fafich 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hades.fafich
+86400 IN NS apollo.fafich
+86400 IN NS basalto.dcc
+simposio.neurociencias 600 IN CNAME 7simposioneurociencias.chsd.com.br.
+genesis.campus.cce 86400 IN A 150.164.52.1
+editora 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.ctpeixes 86400 IN A 150.164.24.3
+face 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS franco.face
+86400 IN NS basalto.dcc
+cedecom 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+medicina 86400 IN NS taz.medicina
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+ibe 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+ibe 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+ibe 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+ica 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS proxy.ica
+86400 IN NS basalto.dcc
+icb 86400 IN NS mono.icb
+86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+cultura 600 IN CNAME www
+www.gaptem 86400 IN A 150.164.46.120
+grad 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+auth.eduroam 86400 IN A 150.164.255.153
+igc 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS general.igc
+mono.icb 86400 IN A 150.164.24.5
+central.odonto 86400 IN A 150.164.108.1
+www.cursoseeventos 86400 IN A 150.164.30.53
+grude 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+litterae.letras 86400 IN A 150.164.100.1
+sf 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.enfermagem 86400 IN CNAME www.enf
+nuclear 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS asterix.cce
+86400 IN NS basalto.dcc
+86400 IN NS genesis.campus.cce
+waporbh 86400 IN CNAME chronos.fafich
+cenapad 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+servicos 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+servicos 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+servicos 86400 IN MX 10 servicos
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+servicos 86400 IN A 150.164.250.10
+webmail.fundepar 86400 IN A 150.164.30.5
+_sip._udp.voip 86400 IN SRV 0 5 5060 sv-1.voip
+sv-0-voip 86400 IN A 150.164.255.170
+franco.face 86400 IN A 150.164.83.1
+mail.gaptem 86400 IN A 150.164.46.120
+_http._tcp 600 IN SRV 10 0 80 www
+www.regeossinteticos2011 86400 IN CNAME www.regeo2011
+www.gris 86400 IN A 150.164.95.118
+pascal.coltec 86400 IN A 150.164.102.4
+www.nupad.medicina 86400 IN CNAME taz.medicina.
+redesemfio 600 IN CNAME www
+fundepar 86400 IN A 150.164.30.238
+fundepar 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+fundepar 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+fundepar 86400 IN MX 10 srv-fundepar
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+scorpius.cecom 86400 IN A 150.164.76.111
+www 600 IN A 150.164.250.1
+news 86400 IN CNAME news.dcc
+hades.fafich 86400 IN A 150.164.95.9
+microscopia 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.polopsf 86400 IN A 150.164.90.1
+bmic2014 86400 IN CNAME bmic2014.adaltech.com.br.
+sistemas 86400 IN A 150.164.250.5
+lcc 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+letras 86400 IN NS apoio.rede
+86400 IN NS elice.letras
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS litterae.letras
+www.framebyframe 86400 IN CNAME www.quadroaquadro.eba
+adm-serv 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+falcao.cpdee 86400 IN A 150.164.32.35
+belladona.farmacia 86400 IN A 150.164.110.1
+zabumba.coltec 86400 IN A 150.164.102.68
+somos 86400 IN A 150.164.30.127
+centrocultural 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+centrocultural 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+centrocultural 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+marte 86400 IN CNAME marte.adm-serv
+www.fundepar 86400 IN A 150.164.30.238
+www.milenioagua 86400 IN CNAME agora.grude
+icex 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS everest.icex
+mat 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS watsi.mat
+86400 IN NS basalto.dcc
+www.cecaps 86400 IN CNAME tempestade.cecaps
+felix.lcc 86400 IN A 150.164.64.2
+mv-1.voip 86400 IN CNAME sv-1.voip
+cointer 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+cointer 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+cointer 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+pingifes 600 IN A 150.164.76.91
+reitoria 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+www.quadroaquadro 86400 IN CNAME www.quadroaquadro.eba
+diamantina.inova 86400 IN A 150.164.211.1
+dourado.enf 86400 IN A 150.164.128.1
+sods 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+colgrad 86400 IN CNAME www2
+nca 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS proxy.ica
+86400 IN NS basalto.dcc
+dip-adm 86400 IN NS apoio.rede
+86400 IN NS terra.reitoria
+86400 IN NS scorpius.cecom
+www.pc 86400 IN CNAME ext-psq.adm-serv
+beethoven.musica 86400 IN A 150.164.114.1
+www.voip 600 IN CNAME www
+eventos 86400 IN A 150.164.30.6
+prae 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+ieat 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+manuelzao 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+conservatorio 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+projetos 86400 IN A 150.164.250.7
+ag 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+ag 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+ag 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+www.nbiofar 600 IN CNAME www
+fisica 86400 IN NS apoio.rede
+86400 IN NS cedro.fisica
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+venus.est 86400 IN A 150.164.18.2
+ldap 86400 IN A 150.164.250.227
+ns1 86400 IN A 150.164.255.231
+ns2 86400 IN A 150.164.255.232
+ns3 86400 IN A 150.164.255.233
+nnc 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+nnc 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+nnc 86400 IN MX 10 nnc.icb
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+www.estatistica 86400 IN CNAME www.est
+basalto.dcc 86400 IN A 150.164.0.147
+museu 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+kline.eba 86400 IN A 150.164.120.1
+propetsaude 86400 IN A 150.164.90.53
+www.simposio.neurociencias 86400 IN CNAME 7simposioneurociencias.chsd.com.br.
+cerrado.bu 86400 IN A 150.164.76.123
+voip 86400 IN CNAME sv-1.voip
+cursos 86400 IN A 150.164.30.6
+pdb 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS hydra.lcc
+86400 IN NS basalto.dcc
+prpg 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+relay 86400 IN A 150.164.64.69
+86400 IN A 150.164.64.70
+prpq 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+waporbrasil 86400 IN CNAME chronos.fafich
+bu 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+gerencia.rede 86400 IN A 150.164.76.164
+perfil 600 IN CNAME www
+www.microscopia 600 IN CNAME www
+www.bibliotecacentral 86400 IN CNAME www.bu
+www.observatoriodajuventude 86400 IN CNAME observatoriodajuventude
+nupad 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all"
+nupad 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+nupad 86400 IN MX 10 exchangemail.nupad.medicina
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+www.bienaluniversitariadearte 600 IN CNAME www
+fict 86400 IN NS gerencia.rede
+ipe.cenapad 86400 IN A 150.164.220.100
+demon2010 600 IN CNAME rede-www.qui
+everest.icex 86400 IN A 150.164.22.1
+ns1.eng 86400 IN A 150.164.51.1
+dast 86400 IN SPF "v=spf1 ip4:150.164.0.0/16 -all" "iu"
+dast 86400 IN TXT "v=spf1 ip4:150.164.0.0/16 -all"
+dast 86400 IN MX 10 mail5
+86400 IN MX 10 mail6
+86400 IN MX 90 mail1
+86400 IN MX 90 mail2
+86400 IN MX 90 mail3
+86400 IN MX 90 mail4
+pra 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS terra.reitoria
+86400 IN NS basalto.dcc
+86400 IN NS scorpius.cecom
+zeus.qui 86400 IN A 150.164.20.1
+coltec 86400 IN NS apoio.rede
+86400 IN NS felix.lcc
+86400 IN NS basalto.dcc
+86400 IN NS zabumba.coltec
+www.telesaude 86400 IN CNAME sureco.grude
+opiniaopublica 86400 IN CNAME chronos.fafich

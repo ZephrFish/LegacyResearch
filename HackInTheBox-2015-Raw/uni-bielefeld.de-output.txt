@@ -1,0 +1,853 @@
+@ 3600 IN SOA NS1 hostmaster 136693 10800 1800 2419200 3600
+@ 3600 IN MX 200 mx2
+3600 IN MX 100 mx1
+3600 IN MX 300 mx3
+@ 3600 IN TXT "v=spf1 ip4:129.70.4.0/24 ip4:129.70.204.0/24 ip4:129.70.208.0/24 ?all"
+@ 3600 IN NAPTR 100 10 "s" "x-eduroam:radius.tls" "" _radsec._tcp.eduroam.de.
+@ 3600 IN A 129.70.240.4
+@ 3600 IN NS NS1
+3600 IN NS NS2
+3600 IN NS ws-mue1.win-ip.dfn.de.
+sportab34farblaser2 3600 IN A 129.70.86.13
+docu-idm 3600 IN A 129.70.78.33
+spomedfax 3600 IN A 129.70.70.13
+laborschule 3600 IN NS NS1
+3600 IN NS NS2
+ubi-1-64-199 3600 IN A 129.70.64.199
+wwwtest1 3600 IN CNAME www
+bielefelder-arbeitsrechtstag 3600 IN CNAME jease.jura
+tdm-ds 3600 IN CNAME tdm-ds.tdm
+debug-caldav 3600 IN A 129.70.240.84
+ubi-1-64-225 3600 IN A 129.70.64.225
+bio10-w3-126-hplaser 3600 IN A 129.70.66.18
+sap-s01 3600 IN CNAME UHRZ-SAP-ERW.ad
+tgkm3 3600 IN A 129.70.29.205
+sfb360 3600 IN NS auth0.dns.TechFak
+3600 IN NS dns1.BelWue.de.
+3600 IN NS dns3.BelWue.de.
+3600 IN NS auth1.dns.TechFak
+3600 IN NS auth-ext0.dns.TechFak.NET.
+ubi-1-64-242 3600 IN A 129.70.64.242
+fs-hrz 3600 IN A 129.70.4.63
+bioalytes 3600 IN CNAME ubio-larus
+elearning 3600 IN CNAME studip25.ub
+udp2890859uds 3600 IN A 129.70.84.246
+ticolor 3600 IN A 129.70.212.61
+ex-dszbo 3600 IN A 129.70.40.51
+prp000508prs 3600 IN A 129.70.112.33
+scm 3600 IN NS NS1
+3600 IN NS NS2
+bewerbungsverfahren 3600 IN A 129.70.240.83
+ubi-1-100-235 3600 IN A 129.70.100.235
+gespool 3600 IN A 129.70.108.8
+kappa-imw 3600 IN A 129.70.84.30
+sdw 3600 IN A 129.70.84.18
+bio4jd 3600 IN A 129.70.94.17
+caldav 3600 IN A 129.70.240.136
+rpm 3600 IN A 129.70.112.19
+sozmail 3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+bioak-epson-c1100 3600 IN A 129.70.85.10
+ijcv 3600 IN CNAME ijcv2.ub
+phya5 3600 IN MX 10 phya5.physik
+www.sfb882 3600 IN CNAME sfb882vm1
+sunwaves 3600 IN NS DHCP3.hrz
+3600 IN NS NS1
+3600 IN NS NS2
+userv-isec3 3600 IN A 129.70.106.64
+klausen 3600 IN A 129.70.29.50
+vhosting-vc 3600 IN CNAME UHRZ-VC-VHOST2.ad
+monitoring 3600 IN CNAME UHRZ-BMC-PORTAL.ad
+www.cm2 3600 IN CNAME wwwhomes
+tdm 3600 IN NS NS1
+3600 IN NS NS2
+psychofs 3600 IN NS NS1
+3600 IN NS NS2
+sap-pai 3600 IN CNAME v-sap-pai.hrz
+rvs 3600 IN NS auth0.dns.techfak
+3600 IN NS dns1.BelWue.de.
+3600 IN NS dns3.BelWue.de.
+3600 IN NS auth1.dns.techfak
+3600 IN NS auth-ext0.dns.techfak.NET.
+egw.soz.uni-bielefefeld.de 3600 IN CNAME soz-hosting
+wiwi 3600 IN NS NS1
+3600 IN NS NS2
+virtualapps 3600 IN CNAME UHRZ-XENAPP01.ad
+uscm-n6107c 3600 IN A 129.70.198.11
+bio5jd 3600 IN A 129.70.82.34
+biob2jd2 3600 IN A 129.70.94.19
+fs-home 3600 IN A 129.70.4.62
+soz 3600 IN NS NS1
+3600 IN NS NS2
+graphics 3600 IN NS auth0.DNS.TechFak
+3600 IN NS dns1.BelWue.DE.
+3600 IN NS dns3.BelWue.DE.
+3600 IN NS auth1.DNS.TechFak
+3600 IN NS auth-ext0.DNS.TechFak.NET.
+uges-ag2rm 3600 IN A 129.70.74.8
+praxissemester 3600 IN CNAME UZFL-ProjektSP2.dhcp
+www.tag-der-initiativen 3600 IN CNAME wwwhomes
+Breithorn 3600 IN A 129.70.212.35
+seniorweb 3600 IN NS NS1
+3600 IN NS NS2
+mx-hertz 3600 IN A 129.70.40.14
+phyfa 3600 IN NS NS1
+3600 IN NS NS2
+tgkm1 3600 IN A 129.70.29.201
+molbiotech 3600 IN NS auth1.DNS.TechFak
+3600 IN NS auth-ext0.DNS.TechFak.NET.
+3600 IN NS auth0.DNS.TechFak
+p5 3600 IN A 129.70.100.34
+proxy.jabber 3600 IN CNAME gaskell.jura
+sub 3600 IN A 129.70.124.125
+icq.jabber 3600 IN CNAME gaskell.jura
+uges-ag4cl 3600 IN A 129.70.108.25
+fachschaften 3600 IN NS NS1
+3600 IN NS NS2
+bio5-hpljp3005 3600 IN A 129.70.82.11
+fax-srv1 3600 IN A 129.70.97.10
+fax-srv2 3600 IN A 129.70.97.2
+UEAC-Verwaltung-CLJ2605dtn 3600 IN A 129.70.197.14
+lili 3600 IN NS NS1
+3600 IN NS NS2
+uhrz-rerite 3600 IN CNAME UHRZ-RERITE.verw
+Kamet 3600 IN A 129.70.212.13
+zv-digipath-2000 3600 IN A 129.70.182.107
+ubilias 3600 IN CNAME ilias.ub
+mootcourt 3600 IN A 129.70.34.100
+lion 3600 IN CNAME luna.lili
+entria2 3600 IN A 129.70.84.51
+entria3 3600 IN A 129.70.84.52
+entria4 3600 IN A 129.70.84.53
+entria5 3600 IN A 129.70.84.54
+entria7 3600 IN A 129.70.84.56
+bis-rfp 3600 IN A 129.70.240.85
+Annapurna 3600 IN A 129.70.212.14
+paradim 3600 IN A 129.70.3.51
+dhaulagiri 3600 IN A 129.70.212.28
+mail 3600 IN A 129.70.240.30
+bio1-vhf360-konica250 3600 IN A 129.70.21.5
+debug-owa 3600 IN A 129.70.240.133
+coli 3600 IN NS NS1
+3600 IN NS NS2
+spomedpr 3600 IN A 129.70.70.12
+abt2-vhf-fs3820 3600 IN A 129.70.21.2
+CoR-Lab 3600 IN NS auth0.DNS.TechFak
+3600 IN NS dns1.BelWue.DE.
+3600 IN NS dns3.BelWue.DE.
+3600 IN NS auth1.DNS.TechFak
+3600 IN NS auth-ext0.DNS.TechFak.NET.
+tux 3600 IN MX 300 tux
+3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+tux 3600 IN A 129.70.40.144
+ohm-hertz 3600 IN A 129.70.40.19
+choqyu 3600 IN A 129.70.212.64
+physg 3600 IN A 129.70.125.147
+imap 3600 IN A 129.70.240.40
+media-hertz 3600 IN A 129.70.40.17
+CIT-EC 3600 IN NS auth0.DNS.TechFak
+3600 IN NS dns1.BelWue.DE.
+3600 IN NS dns3.BelWue.DE.
+3600 IN NS auth1.DNS.TechFak
+3600 IN NS auth-ext0.DNS.TechFak.NET.
+ubi-1-100-234 3600 IN A 129.70.100.234
+physw 3600 IN MX 10 phya5.physik
+www.didy 3600 IN CNAME wwwhomes
+wiwi17 3600 IN A 129.70.84.17
+sozjur 3600 IN MX 10 sozjur
+xflow-e01 3600 IN CNAME UHRZ-XFLOW-E01.ad
+abt6-vhf-114-hplaser 3600 IN A 129.70.21.3
+auth0.dns.cebitec 3600 IN A 129.70.161.2
+vpn-gate-2 3600 IN A 193.174.167.18
+genomforschung 3600 IN NS NS1
+3600 IN NS NS2
+Nirvana 3600 IN A 129.70.212.88
+gespin 3600 IN A 150.254.71.2
+math 3600 IN NS alloy.math
+3600 IN NS NS1
+3600 IN NS NS2
+3600 IN NS auth0.dns.techfak
+3600 IN NS dns1.belwue.de.
+3600 IN NS dns3.belwue.de.
+3600 IN NS waldorf.cs.uni-dortmund.de.
+spuren 3600 IN NS DHCP3.hrz
+3600 IN NS DHCP2.hrz
+3600 IN NS NS1
+3600 IN NS NS2
+dhcp 3600 IN NS NS1
+3600 IN NS NS2
+wiwi10 3600 IN A 129.70.84.10
+wiwi16 3600 IN A 129.70.84.16
+voc 3600 IN NS NS1
+3600 IN NS NS2
+wiwi19 3600 IN A 129.70.84.19
+wiwi21 3600 IN A 129.70.84.21
+msn.jabber 3600 IN CNAME gaskell.jura
+hertz 3600 IN A 129.70.176.23
+www.transfer 3600 IN CNAME transfer
+changtzu 3600 IN A 129.70.212.26
+www.fir 3600 IN CNAME jease.jura
+radio 3600 IN A 129.70.176.22
+kangchuntse 3600 IN A 129.70.212.70
+vpn 3600 IN NS NS1
+3600 IN NS NS2
+trivor01 3600 IN A 129.70.212.40
+trivor02 3600 IN A 129.70.212.41
+trivor03 3600 IN A 129.70.212.42
+trivor04 3600 IN A 129.70.212.43
+ipw 3600 IN NS NS1
+3600 IN NS NS2
+sophos-managed 3600 IN CNAME UHRZ-SOPHOSUPD2.ad
+sap-prw 3600 IN CNAME v-sap-prw.hrz
+wwweditA 3600 IN A 129.70.204.117
+www.bielefelder-arbeitsrechtstag 3600 IN CNAME jease.jura
+smtp-relay 3600 IN A 129.70.240.29
+aris-srv 3600 IN CNAME UHRZ-ARIS2.ad
+Matterhorn 3600 IN A 129.70.212.33
+Himalaya 3600 IN A 129.70.212.11
+sport 3600 IN NS NS1
+3600 IN NS NS2
+ssltest 3600 IN A 129.70.240.22
+frmtools 3600 IN A 129.70.240.35
+ntp-server1 3600 IN A 129.70.4.250
+ntp-server2 3600 IN A 129.70.4.251
+ntp-server3 3600 IN A 129.70.4.252
+hertz-drucker 3600 IN A 129.70.176.24
+bio233 3600 IN CNAME kyb293.biologie
+wlan-ap 3600 IN A 129.70.212.5
+watt-hertz 3600 IN A 129.70.40.13
+philosophie 3600 IN NS NS1
+3600 IN NS NS2
+stunt 3600 IN A 129.70.40.26
+Genesis 3600 IN A 129.70.212.80
+ubi-1-76-199 3600 IN A 129.70.76.199
+bewerbungsverfahren-debug 3600 IN A 129.70.240.138
+didy 3600 IN CNAME wwwhomes
+ubi-1-76-215 3600 IN A 129.70.76.215
+psydiff4 3600 IN A 129.70.100.21
+wiwi7 3600 IN A 129.70.84.27
+jabber 3600 IN CNAME gaskell.jura
+uspo-4-f0-149b 3600 IN A 129.70.86.30
+vhosting 3600 IN CNAME UHRZ-VWC-VHOST2.ad
+ticolor4650 3600 IN A 129.70.212.60
+wikifarm 3600 IN CNAME ubpmwiki.ub
+sfb882 3600 IN CNAME sfb882vm1
+cebitec 3600 IN NS noc2.rrz.uni-koeln.de.
+3600 IN NS dns1.belwue.de.
+3600 IN NS dns3.belwue.de.
+3600 IN NS auth0.dns.techfak
+3600 IN NS auth0.dns.cebitec
+3600 IN NS waldorf.cs.uni-dortmund.de.
+aris-bp 3600 IN CNAME UHRZ-ARIS4.ad
+www.forschung.sfb882 3600 IN CNAME sfb882vm2
+genetik 3600 IN NS dns1.belwue.de.
+3600 IN NS dns3.belwue.de.
+3600 IN NS auth0.dns.techfak
+3600 IN NS waldorf.cs.uni-dortmund.de.
+3600 IN NS auth0.dns.cebitec
+3600 IN NS noc2.rrz.uni-koeln.de.
+kyo3820dn 3600 IN A 129.70.172.17
+alloy.math 3600 IN A 129.70.14.6
+gestel00 3600 IN CNAME gestelsrv
+gestel01 3600 IN CNAME gestelsrv
+gestel02 3600 IN CNAME gestelsrv
+gestel03 3600 IN CNAME gestelsrv
+gestel04 3600 IN CNAME gestelsrv
+gestel05 3600 IN CNAME gestelsrv
+gestel06 3600 IN CNAME gestelsrv
+gestel07 3600 IN CNAME gestelsrv
+gestel08 3600 IN CNAME gestelsrv
+gestel09 3600 IN CNAME gestelsrv
+gestel11 3600 IN CNAME gestelsrv
+gestel12 3600 IN CNAME gestelsrv
+gestel13 3600 IN CNAME gestelsrv
+gestel14 3600 IN CNAME gestelsrv
+gestel15 3600 IN CNAME gestelsrv
+gestel16 3600 IN CNAME gestelsrv
+gestel17 3600 IN CNAME gestelsrv
+gestel18 3600 IN CNAME gestelsrv
+gestel20 3600 IN CNAME gestelsrv
+gestel21 3600 IN CNAME gestelsrv
+gestel22 3600 IN CNAME gestelsrv
+gestel23 3600 IN CNAME gestelsrv
+gestel24 3600 IN CNAME gestelsrv
+gestel25 3600 IN CNAME gestelsrv
+Aerosmith 3600 IN A 129.70.212.82
+ibg-db 3600 IN A 129.70.40.23
+udp2890860uds 3600 IN A 129.70.84.247
+umscrypt 3600 IN A 129.70.240.21
+Kantschindschunga 3600 IN A 129.70.212.12
+ubi-1-78-140 3600 IN A 129.70.78.140
+soziologie 3600 IN NS NS1
+3600 IN NS NS2
+windowsactivation 3600 IN CNAME dc3.ad
+zdb 3600 IN CNAME zdb.ub
+uver-splus 3600 IN A 129.70.40.5
+hrz-rembo 3600 IN CNAME hrz-rembo.hrz
+teamdrive 3600 IN A 129.70.240.72
+rakaposhi 3600 IN A 129.70.212.66
+udp2890857uds 3600 IN A 129.70.84.244
+wiwi20 3600 IN A 129.70.84.20
+tgkm2 3600 IN A 129.70.29.202
+remotesupport 3600 IN CNAME islonline.hrz
+zfl 3600 IN NS NS1
+3600 IN NS NS2
+hyla 3600 IN CNAME biohyla.biologie
+udp2890842uds 3600 IN A 129.70.84.118
+moodle 3600 IN CNAME unimoodle
+zif 3600 IN NS NS1
+3600 IN NS NS2
+wsp004011wss 3600 IN A 129.70.120.3
+verw 3600 IN NS NS1
+3600 IN NS NS2
+ag9-1 3600 IN A 129.70.74.21
+DHCP2.hrz 3600 IN A 129.70.182.24
+UEAC-Graduierte-LJP2015n 3600 IN A 129.70.197.16
+pear 3600 IN CNAME bes.ub
+cubi 3600 IN NS DHCP2.hrz
+3600 IN NS NS1
+3600 IN NS NS2
+wwweditB 3600 IN A 129.70.204.118
+ubi-1-78-170 3600 IN A 129.70.78.170
+ns1.physik 3600 IN A 129.70.54.8
+wwwedit 3600 IN A 129.70.240.12
+delegatedadmin 3600 IN A 129.70.240.37
+uges-pkzcl 3600 IN A 129.70.106.36
+Genoskop 3600 IN NS auth0.DNS.TechFak
+3600 IN NS dns1.BelWue.DE.
+3600 IN NS dns3.BelWue.DE.
+scm-div2 3600 IN A 129.70.198.3
+zww 3600 IN NS NS1
+3600 IN NS NS2
+Bonete10 3600 IN A 129.70.212.59
+zv-dokutech-6100 3600 IN A 129.70.182.106
+asl 3600 IN NS NS1
+3600 IN NS NS2
+chemie 3600 IN NS DHCP3.hrz
+3600 IN NS NS1
+3600 IN NS NS2
+bised 3600 IN NS NS1
+3600 IN NS NS2
+info 3600 IN CNAME info.ub
+hp-pc.dyn 3600 IN A 129.70.202.67
+ubi-1-64-235 3600 IN A 129.70.64.235
+scm-teacher 3600 IN A 129.70.198.10
+anw 3600 IN NS NS1
+3600 IN NS NS2
+gesag3 3600 IN A 129.70.108.7
+UGES-phag3pc34 3600 IN CNAME nejm
+udp2890861uds 3600 IN A 129.70.84.248
+ammma 3600 IN NS NS1
+3600 IN NS NS2
+wlan-ap2 3600 IN A 129.70.212.6
+auth1.dns.techfak 3600 IN A 129.70.132.13
+auth1.dns.techfak 3600 IN AAAA 2001:638:504:2000::54
+Manaslu 3600 IN A 129.70.212.30
+bis 3600 IN A 129.70.240.70
+cal 3600 IN A 129.70.240.43
+scm-div3 3600 IN A 129.70.198.4
+transfer 3600 IN A 46.163.72.148
+transfer 3600 IN MX 10 mxrelay.medienlabor.de.
+cyberbildung 3600 IN A 129.70.3.44
+soz01.soz.uni-bielefefeld.de 3600 IN CNAME soz-hosting
+tips4050 3600 IN A 129.70.212.67
+gesund 3600 IN NS NS1
+3600 IN NS NS2
+nuptse 3600 IN A 129.70.212.17
+ubio-bio5-longshine 3600 IN A 129.70.82.12
+webcam-sport 3600 IN A 129.70.184.194
+avz 3600 IN NS NS1
+3600 IN NS NS2
+dc3 3600 IN CNAME dc3.ad
+cm2 3600 IN CNAME wwwhomes
+hpdj570-imw 3600 IN CNAME 25-imw-hpclj4700dn.wiwi
+unimoodle 3600 IN A 129.70.240.48
+UGES-160099 3600 IN CNAME nejm
+nds_hrz_unibi 3600 IN CNAME rigo.hrz
+dad 3600 IN CNAME dad.ub
+linprn 3600 IN A 129.70.40.9
+danton-imw 3600 IN A 129.70.84.37
+Nadelhorn 3600 IN A 129.70.212.34
+it-sicherheitstest-ssl-2014-04 3600 IN A 129.70.43.43
+vpn-gate-1 300 IN A 193.174.167.26
+cweb 3600 IN A 129.70.3.5
+ubi-1-78-176 3600 IN A 129.70.78.176
+roam 3600 IN NS nsc-s45-1.hrz
+sophos-backup 3600 IN CNAME UHRZ-SOPHOSUPD2.ad
+kww-ljP2015 3600 IN A 129.70.106.44
+www.bgts 3600 IN CNAME bgts
+forschung.sfb882 3600 IN CNAME sfb882vm2
+bombina 3600 IN CNAME bombina.biologie
+biodekajd1 3600 IN A 129.70.78.50
+ubio-bio1-dnastar 3600 IN A 129.70.21.4
+iit-biotech 3600 IN NS auth0.DNS.TechFak
+3600 IN NS dns1.BelWue.de.
+3600 IN NS dns3.BelWue.de.
+3600 IN NS waldorf.cs.Uni-Dortmund.de.
+3600 IN NS auth0.dns.cebitec
+3600 IN NS noc2.rrz.uni-koeln.de.
+sap-e01 3600 IN CNAME UHRZ-SAP-ERW.ad
+sap-e02 3600 IN CNAME UHRZ-SAP-ERW.ad
+pmwiki 3600 IN CNAME ubpmwiki.ub
+syntbio 3600 IN NS auth-ext0.DNS.TechFak.NET.
+3600 IN NS auth1.DNS.TechFak
+3600 IN NS auth0.DNS.TechFak
+lehrenundlernen 3600 IN CNAME uscm-lul1.dhcp
+bioa1hp2420n 3600 IN A 129.70.94.25
+ad 3600 IN NS DHCP3.hrz
+3600 IN NS DHCP2.hrz
+3600 IN NS NS1
+3600 IN NS NS2
+lists 3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+lists 3600 IN A 129.70.240.5
+lerndorf 3600 IN NS NS1
+3600 IN NS NS2
+ubi-1-88-204 3600 IN A 129.70.88.204
+suche 3600 IN CNAME unisuche.ub
+ubi-1-88-212 3600 IN A 129.70.88.212
+parabolica 3600 IN A 129.70.3.50
+broadpeak 3600 IN A 129.70.212.3
+ubi-1-88-218 3600 IN A 129.70.88.218
+dms 3600 IN CNAME UHRZ-DOCMGT2.ad
+aim.jabber 3600 IN CNAME gaskell.jura
+ubi-1-88-223 3600 IN A 129.70.88.223
+ubi-1-88-224 3600 IN A 129.70.88.224
+ubi-1-88-225 3600 IN A 129.70.88.225
+l-3 3600 IN NS NS1
+3600 IN NS NS2
+K2 3600 IN A 129.70.212.4
+k3 3600 IN A 129.70.212.44
+wiwinwp5 3600 IN CNAME 29-stat-hplj4000n.wiwi
+ubi-1-88-236 3600 IN A 129.70.88.236
+ubi-1-88-242 3600 IN A 129.70.88.242
+ubi-1-88-243 3600 IN A 129.70.88.243
+ubi-1-88-244 3600 IN A 129.70.88.244
+arminia-projekt 3600 IN NS NS1
+3600 IN NS NS2
+p3 3600 IN A 129.70.100.9
+p4 3600 IN A 129.70.100.33
+hector 3600 IN A 129.70.212.91
+fax 3600 IN NS NS1
+3600 IN NS NS2
+zv-dokucolor-3535 3600 IN A 129.70.182.105
+bgts 3600 IN A 129.70.45.8
+dhcp11-210 3600 IN A 129.70.11.210
+demo.sfb882 3600 IN CNAME sfb882vm4.ub
+dhcp11-212 3600 IN A 129.70.11.212
+dhcp11-213 3600 IN A 129.70.11.213
+dhcp11-214 3600 IN A 129.70.11.214
+dhcp11-215 3600 IN A 129.70.11.215
+dhcp11-216 3600 IN A 129.70.11.216
+uiff-t7-221-divd 3600 IN A 129.70.74.3
+momig 3600 IN CNAME jease.jura
+dhcp11-220 3600 IN A 129.70.11.220
+dhcp11-221 3600 IN A 129.70.11.221
+dhcp11-222 3600 IN A 129.70.11.222
+dhcp11-223 3600 IN A 129.70.11.223
+dhcp11-224 3600 IN A 129.70.11.224
+dhcp11-225 3600 IN A 129.70.11.225
+dhcp11-226 3600 IN A 129.70.11.226
+dhcp11-230 3600 IN A 129.70.11.230
+dhcp11-231 3600 IN A 129.70.11.231
+dhcp11-232 3600 IN A 129.70.11.232
+dhcp11-233 3600 IN A 129.70.11.233
+dhcp11-234 3600 IN A 129.70.11.234
+oa 3600 IN CNAME webserver.ub
+cipux 3600 IN NS NS1
+3600 IN NS NS2
+printer-lektoren-v9-lili 3600 IN A 129.70.84.152
+ubio-mw-canon5000 3600 IN A 129.70.76.41
+dyn 3600 IN NS DHCP3.hrz
+3600 IN NS NS1
+3600 IN NS NS2
+UGES-335101 3600 IN CNAME nejm
+transfer2k 3600 IN NS NS1
+3600 IN NS NS2
+lion-ddi-testing 3600 IN A 129.70.43.68
+_caldavs._TCP 14400 IN SRV 10 20 443 caldav
+_caldavs._TCP 14400 IN TXT "path=/dav"
+sportab34swlaser5 3600 IN A 129.70.86.14
+physik 3600 IN NS ns1.physik
+3600 IN NS NS1
+3600 IN NS noc2.rrz.uni-koeln.de.
+fir 3600 IN CNAME jease.jura
+bismailverteiler 3600 IN A 129.70.40.95
+enlprinter 3600 IN A 129.70.92.23
+ubi-1-88-228 3600 IN A 129.70.88.228
+hrz-unix 3600 IN CNAME dozy2.hrz
+tc 3600 IN NS NS1
+3600 IN NS NS2
+ubio-bio4-promega 3600 IN A 129.70.94.12
+TheRasmus 3600 IN A 129.70.212.87
+ti 3600 IN NS auth0.dns.techfak
+3600 IN NS auth1.dns.techfak
+3600 IN NS auth-ext0.dns.techfak.net.
+ub 3600 IN NS NS1
+3600 IN NS NS2
+genomik 3600 IN NS auth0.dns.techfak
+3600 IN NS dns1.BelWue.de.
+3600 IN NS dns3.BelWue.de.
+3600 IN NS waldorf.cs.Uni-Dortmund.de.
+3600 IN NS auth0.dns.cebitec
+3600 IN NS noc2.rrz.uni-koeln.de.
+gesag4 3600 IN CNAME UGES-AG4-Colorlaser.dhcp
+sophos-update 3600 IN CNAME sophos1.hrz
+phepiclp 3600 IN A 129.70.120.21
+_VLMCS._TCP 3600 IN SRV 0 0 1688 windowsactivation
+abt3-w1-140-cl2600 3600 IN A 129.70.76.47
+foo 3600 IN A 129.70.3.96
+biob9jd1 3600 IN A 129.70.66.10
+gestelsrv 3600 IN A 129.70.74.25
+phepi02 3600 IN A 129.70.120.20
+dav-hertz 3600 IN A 129.70.40.18
+dlink-webcam1 3600 IN A 129.70.212.27
+ronin 3600 IN A 129.70.3.52
+bio4colorprinter 3600 IN A 129.70.94.16
+Weisshorn 3600 IN A 129.70.212.31
+enoch 3600 IN A 129.70.104.185
+fsz 3600 IN NS NS1
+3600 IN NS NS2
+phepi-s 3600 IN A 129.70.120.22
+localhost 3600 IN A 127.0.0.1
+xflow-p01x 3600 IN CNAME UHRZ-XFLOW-P01x.ad
+for945 3600 IN NS NS1
+3600 IN NS NS2
+dszbo 3600 IN CNAME ipo.dszbo.soz
+upsy-ftportal 3600 IN A 129.70.40.6
+hp2200dn 3600 IN A 129.70.90.6
+zuse 3600 IN A 129.70.40.128
+TempleOfTheDog 3600 IN A 129.70.212.86
+xflow-p01 3600 IN CNAME UHRZ-XFLOW-P01.ad
+pr15 3600 IN A 129.70.74.15
+werther.stud 3600 IN NS ns1
+3600 IN NS ns2
+windowsupdate 3600 IN CNAME UHRZ-WSUS-UMG2.ad
+BioHyla 3600 IN CNAME biohyla.biologie
+zv-ics-5560 3600 IN A 129.70.182.104
+hja 3600 IN A 129.70.108.21
+biob1hpc12250ln 3600 IN A 129.70.21.71
+pioneer3 3600 IN A 129.70.212.23
+Pioneer4 3600 IN A 129.70.212.24
+ixiums-smtp-t 3600 IN A 129.70.240.14
+Schwarzhorn 3600 IN A 129.70.212.32
+public-health 3600 IN NS NS1
+3600 IN NS NS2
+ifxsrv01 3600 IN A 129.70.3.22
+ubi-1-78-148 3600 IN A 129.70.78.148
+ubi-1-78-153 3600 IN A 129.70.78.153
+asta 3600 IN NS NS1
+3600 IN NS NS2
+ibg 3600 IN A 129.70.40.22
+ubi-1-78-156 3600 IN A 129.70.78.156
+ubi-1-78-158 3600 IN A 129.70.78.158
+ubi-1-78-160 3600 IN A 129.70.78.160
+ubi-1-78-161 3600 IN A 129.70.78.161
+wwwC 3600 IN A 129.70.204.123
+ubi-1-78-163 3600 IN A 129.70.78.163
+lernblog 3600 IN CNAME ubpmwiki.ub
+ibs 3600 IN NS NS1
+3600 IN NS NS2
+idb 3600 IN CNAME zdb.ub
+ubio-bio2-w4-126-fs2020 3600 IN A 129.70.94.4
+ubi-1-78-174 3600 IN A 129.70.78.174
+DOKU1 3600 IN A 129.70.78.17
+DOKU2 3600 IN A 129.70.78.18
+biovhf-brother-1470n 3600 IN A 129.70.21.102
+idm 3600 IN NS NS1
+3600 IN NS NS2
+idp 3600 IN A 129.70.240.90
+iff 3600 IN NS NS1
+3600 IN NS NS2
+mtavmgmt 3600 IN CNAME USCM-GLOBVIEW1.ad
+Koala 3600 IN A 129.70.212.25
+soziologiefs 3600 IN MX 300 soziologiefs
+3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+UEAC-Promovenden3-LJP2015dn 3600 IN A 129.70.197.15
+TST 3600 IN A 129.70.120.24
+transfer2 3600 IN A 129.70.197.3
+cal-oc-fb 3600 IN A 129.70.240.44
+wlan 3600 IN NS DHCP3.hrz
+3600 IN NS DHCP2.hrz
+acii-6 3600 IN A 129.70.90.37
+bio-print 3600 IN CNAME ubio-larus
+abt3-w1-140-hp3005 3600 IN A 129.70.76.46
+nejm 3600 IN A 129.70.112.57
+3600 IN A 129.70.74.57
+3600 IN A 129.70.74.73
+3600 IN A 129.70.108.57
+ekvvtest 3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+hrz 3600 IN NS NS1
+3600 IN NS NS2
+udp2890858uds 3600 IN A 129.70.84.245
+sfbpc1 3600 IN A 129.70.84.64
+ubi-1-212-96 3600 IN A 129.70.212.96
+psyling 3600 IN CNAME wwwhomes
+ikarus-imw 3600 IN A 129.70.84.35
+xflow-e01x 3600 IN CNAME UHRZ-XFLOW-E01x.ad
+imw 3600 IN NS NS1
+3600 IN NS NS2
+udp2890843uds 3600 IN A 129.70.84.119
+geschichte 3600 IN NS NS1
+3600 IN NS NS2
+web-hertz 3600 IN A 129.70.40.16
+zfl4100 3600 IN A 129.70.112.16
+DHCP3.hrz 3600 IN A 129.70.4.243
+unity 3600 IN A 129.70.240.15
+zwup 3600 IN NS NS1
+3600 IN NS NS2
+elan 3600 IN NS NS1
+3600 IN NS NS2
+pad.elearning 3600 IN CNAME studip25.ub
+bis3null 3600 IN CNAME UVER-ProjektSP2.dhcp
+conference.jabber 3600 IN CNAME gaskell.jura
+izhd 3600 IN NS NS1
+3600 IN NS NS2
+bio10-webcam1 3600 IN A 129.70.66.8
+spectrum 3600 IN NS NS1
+3600 IN NS NS2
+ibg-bmc 3600 IN A 129.70.40.24
+printserver-wels 3600 IN A 129.70.74.13
+Led-Zeppelin 3600 IN A 129.70.212.84
+fs-vranger 3600 IN CNAME fs-vranger.hrz
+utrfst-pleus 3600 IN A 129.70.197.2
+ubio-bio5-longshine1 3600 IN A 129.70.82.47
+digests 3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+ubi-1-212-95 3600 IN A 129.70.212.95
+wall 3600 IN A 129.70.64.46
+iwb 3600 IN NS NS1
+3600 IN NS NS2
+www 3600 IN A 129.70.240.4
+news 3600 IN CNAME news.cis.dfn.de.
+iwt 3600 IN NS NS1
+3600 IN NS NS2
+SamsasTraum 3600 IN A 129.70.212.81
+sportab34swlaser1 3600 IN A 129.70.86.10
+www.tdi 3600 IN CNAME wwwhomes
+fs-big 3600 IN CNAME fs-big.hrz
+srv.cipux2 3600 IN A 129.70.220.11
+Lhotse 3600 IN A 129.70.212.16
+udp2890862uds 3600 IN A 129.70.84.249
+psychometrie 3600 IN A 129.70.40.114
+gestel10 3600 IN CNAME gestelsrv
+wsp000456wss 3600 IN A 129.70.84.4
+debug 3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+msrtower01 3600 IN A 129.70.97.3
+msrtower02 3600 IN A 129.70.97.4
+msrtower03 3600 IN A 129.70.97.5
+uniblog 3600 IN A 129.70.240.49
+pioneer1 3600 IN A 129.70.212.21
+ekvv 3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+ekvv 3600 IN A 129.70.240.19
+hplj5000-imw 3600 IN CNAME 23-imw-hplj5000n.wiwi
+pioneer2 3600 IN A 129.70.212.22
+ubi-1-78-141 3600 IN A 129.70.78.141
+computerspiele 3600 IN NS NS1
+3600 IN NS NS2
+biologie 3600 IN NS NS1
+3600 IN NS NS2
+LABOR1 3600 IN A 129.70.120.25
+alt-fs-big 3600 IN CNAME alt-fs-big.hrz
+soz-hosting 3600 IN A 129.70.40.11
+udp2890856uds 3600 IN A 129.70.84.243
+udp2890831uds 3600 IN A 129.70.84.103
+gestel19 3600 IN CNAME gestelsrv
+ubi-1-78-145 3600 IN A 129.70.78.145
+UGES-335201 3600 IN CNAME nejm
+ubi-1-78-146 3600 IN A 129.70.78.146
+search 3600 IN CNAME unisuche.ub
+astasrv 3600 IN A 129.70.112.50
+smtp-lists 3600 IN A 129.70.240.16
+zub 3600 IN NS NS1
+3600 IN NS NS2
+gesundberaten-ampc 3600 IN A 129.70.120.17
+sap-erw 3600 IN CNAME UHRZ-SAP-ERW.ad
+gesc2000 3600 IN A 129.70.74.10
+lili-prn-gradkoll 3600 IN A 129.70.104.66
+drpaed2 3600 IN A 129.70.74.11
+wwwfo 3600 IN CNAME wwwfo1.hrz
+wiwi3 3600 IN A 129.70.84.23
+wiwi4 3600 IN A 129.70.84.24
+wiwi5 3600 IN A 129.70.84.25
+fax-testpc 3600 IN A 129.70.97.11
+wiwi8 3600 IN A 129.70.84.28
+iseed 3600 IN CNAME iseed.dhcp
+UEAC-Promovenden2-LJP2015n 3600 IN A 129.70.197.13
+ubi-1-78-155 3600 IN A 129.70.78.155
+sophos-managed-backup 3600 IN CNAME sophos1.hrz
+userv-aiesec 3600 IN A 129.70.176.16
+smtp 3600 IN A 129.70.240.41
+wwwA 3600 IN A 129.70.204.121
+Everest 3600 IN A 129.70.212.10
+webmail 3600 IN A 129.70.240.32
+ubio-bio2-w4-126-cl5100 3600 IN MX 100 mx1.uni-bielefeld.de
+3600 IN MX 200 mx2.uni-bielefeld.de
+3600 IN MX 200 mx2
+3600 IN MX 100 mx1
+ubio-bio2-w4-126-cl5100 3600 IN A 129.70.94.22
+wwwB 3600 IN A 129.70.204.122
+mailsenke 3600 IN A 129.70.104.90
+mailsenke 3600 IN MX 100 mailsenke
+3600 IN MX 10 mx1
+bis-int 3600 IN CNAME UHRZ-SPALL-E01.ad
+wwwD 3600 IN A 129.70.204.124
+sfb882vm1 3600 IN A 129.70.43.114
+int-ns1 3600 IN CNAME dhcp1.hrz
+int-ns2 3600 IN CNAME dhcp2.hrz
+psychologie 3600 IN NS NS1
+3600 IN NS NS2
+blogfarm 3600 IN A 129.70.240.39
+benvw 3600 IN CNAME rayadm3.hrz
+gatekeeper 3600 IN CNAME v01-cisco2900-2.hrz
+linstore 3600 IN CNAME linstore.soz
+lul 3600 IN CNAME uscm-lul1.dhcp
+vc-lili 3600 IN A 129.70.176.10
+ubi-1-78-169 3600 IN A 129.70.78.169
+uzfl-mjablonski 3600 IN A 129.70.112.22
+verwaltung 3600 IN NS NS1
+3600 IN NS NS2
+phaser860 3600 IN A 129.70.172.4
+search.jabber 3600 IN CNAME gaskell.jura
+digest 3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+wwwhomes 3600 IN A 129.70.240.67
+entria8 3600 IN A 129.70.84.57
+ubi-1-212-106 3600 IN A 129.70.212.106
+entria9 3600 IN A 129.70.84.58
+www.ti 3600 IN CNAME broadpeak
+ubi-1-212-118 3600 IN A 129.70.212.118
+ubi-1-212-119 3600 IN A 129.70.212.119
+ubi-1-212-121 3600 IN A 129.70.212.121
+mx1 3600 IN A 129.70.240.45
+mx2 3600 IN A 129.70.240.46
+mx3 3600 IN A 129.70.240.69
+Jamiroquai 3600 IN A 129.70.212.83
+biob7jd1 3600 IN A 129.70.94.20
+pubsub.jabber 3600 IN CNAME gaskell.jura
+udp2890855uds 3600 IN A 129.70.84.242
+hplj5-imw 3600 IN CNAME 24-imw-hplj5n.wiwi
+sozgw.soz.uni-bielefefeld.de 3600 IN CNAME soz-hosting
+u31 3600 IN CNAME u31.soz
+nr5 3600 IN A 129.70.212.76
+ldap 3600 IN CNAME ldap.hrz
+ns1 3600 IN A 129.70.182.7
+ns2 3600 IN A 129.70.182.23
+paedagogik 3600 IN NS NS1
+3600 IN NS NS2
+www.momig 3600 IN CNAME jease.jura
+leibnitz 3600 IN A 129.70.104.8
+tgkm 3600 IN NS NS1
+3600 IN NS NS2
+pc1 3600 IN MX 100 mx1.uni-bielefeld.de
+3600 IN MX 200 mx2.uni-bielefeld.de
+3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+pc1 3600 IN A 129.70.70.100
+Bonete01 3600 IN A 129.70.212.50
+Bonete02 3600 IN A 129.70.212.51
+Bonete03 3600 IN A 129.70.212.52
+Bonete04 3600 IN A 129.70.212.53
+Bonete05 3600 IN A 129.70.212.54
+Bonete06 3600 IN A 129.70.212.55
+Bonete07 3600 IN A 129.70.212.56
+Bonete08 3600 IN A 129.70.212.57
+Bonete09 3600 IN A 129.70.212.58
+cetabolica 3600 IN A 129.70.3.53
+udp2890853uds 3600 IN A 129.70.84.241
+scmlaserN7-110 3600 IN A 129.70.198.15
+sap-p01 3600 IN CNAME v-sap-prw.hrz
+sap-p02 3600 IN CNAME v-sap-prw.hrz
+alytes 3600 IN CNAME ubio-larus
+prisma 3600 IN A 129.70.240.68
+jura 3600 IN NS NS1
+3600 IN NS NS2
+voip 3600 IN NS NS1
+3600 IN NS NS2
+biologiedidaktik 3600 IN CNAME web.biologie
+biob8jd 3600 IN A 129.70.82.33
+docmgt 3600 IN CNAME UHRZ-DOCMGT2.ad
+ntp 3600 IN A 129.70.189.12
+3600 IN A 129.70.189.1
+xrx6250 3600 IN A 129.70.172.11
+zv-directprint 3600 IN CNAME dankaserv.hrz
+mail-hertz 3600 IN A 129.70.40.15
+IPW7022 3600 IN A 129.70.108.39
+ubi-1-88-213 3600 IN A 129.70.88.213
+techfak 3600 IN NS auth0.dns.techfak
+3600 IN NS dns1.belwue.de.
+3600 IN NS dns3.belwue.de.
+3600 IN NS auth1.dns.techfak
+3600 IN NS auth-ext0.dns.techfak.NET.
+moodle-mig 3600 IN A 129.70.240.38
+wiwixt2 3600 IN A 129.70.84.61
+wiwixt3 3600 IN A 129.70.84.62
+wiwixt4 3600 IN A 129.70.84.63
+vpn-cluster-1 3600 IN A 193.174.167.19
+vpn-cluster-2 3600 IN A 193.174.167.20
+ubi-1-88-216 3600 IN A 129.70.88.216
+zfldrucker 3600 IN A 129.70.112.18
+sap-q01 3600 IN CNAME UHRZ-SAP-ERW.ad
+chomolonzo 3600 IN A 129.70.212.65
+ubi-1-88-220 3600 IN A 129.70.88.220
+auth0.dns.techfak 3600 IN AAAA 2001:638:504:2000::53
+auth0.dns.techfak 3600 IN A 129.70.136.53
+ubi-1-88-221 3600 IN A 129.70.88.221
+osk 3600 IN NS NS1
+3600 IN NS NS2
+tgkmedv7 3600 IN A 129.70.29.215
+pub3 3600 IN CNAME pub3.ub
+Makalu 3600 IN A 129.70.212.15
+sfb882vm2 3600 IN A 129.70.43.115
+yahoo.jabber 3600 IN CNAME gaskell.jura
+mobilesync 3600 IN CNAME UHRZ-MOBILESYN2.ad
+teamdrive-data 3600 IN A 129.70.240.74
+wiki.elearning 3600 IN CNAME ubpmwiki.ub
+UEAC-Hilfskraefte-LJP2015n 3600 IN A 129.70.197.11
+ubi-1-78-139 3600 IN A 129.70.78.139
+photobioreaktor 3600 IN A 129.70.52.19
+majestix 3600 IN MX 100 mx1.uni-bielefeld.de
+3600 IN MX 200 mx2.uni-bielefeld.de
+3600 IN MX 100 mx1
+3600 IN MX 200 mx2
+majestix 3600 IN A 129.70.34.48
+owa 3600 IN A 129.70.240.134
+TheGodMachine 3600 IN A 129.70.212.85
+spock 3600 IN CNAME sarek.tgkm
+citmed 3600 IN NS auth-ext0.DNS.TechFak.NET.
+3600 IN NS auth0.DNS.TechFak
+3600 IN NS auth1.DNS.TechFak
+mathematik 3600 IN NS alloy.math
+3600 IN NS NS1
+3600 IN NS NS2
+3600 IN NS noc.belwue.de.
+3600 IN NS noc2.rrz.uni-koeln.de.
+3600 IN NS waldorf.informatik.uni-dortmund.de.
+owi 3600 IN NS NS1
+3600 IN NS NS2
+laptop1 3600 IN A 129.70.212.18
+laptop2 3600 IN A 129.70.212.19
+laptop3 3600 IN A 129.70.212.20
+dns 3600 IN A 129.70.240.53
+bio2jd 3600 IN A 129.70.94.18
+hidden-ns1 3600 IN CNAME dhcp3.hrz
+chamlang 3600 IN A 129.70.212.63
+momotombo.techfak 3600 IN A 129.70.136.107
+radius 3600 IN A 129.70.240.60
+biosmbserv 3600 IN A 129.70.76.2
+roggen.stud.uni-bielefeld.de 3600 IN NS ns1
+3600 IN NS ns2
+ubio-larus 3600 IN A 129.70.76.10
+wlan-guest 3600 IN A 172.16.255.253
+soz01 3600 IN CNAME soz01.soz
+data 3600 IN CNAME sfb882vm3.ub
+pub 3600 IN CNAME pub2.ub
+Gasherbirum 3600 IN A 129.70.212.2
+gl-ws1 3600 IN A 129.70.120.23
+wpr 3600 IN NS NS1
+3600 IN NS NS2

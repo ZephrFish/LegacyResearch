@@ -1,0 +1,8 @@
+@ 38400 IN SOA ns2.weblink.in. info 1341658292 10800 3600 604800 38400
+@ 38400 IN MX 10 mail
+@ 38400 IN NS ns1.weblink.in.
+38400 IN NS ns2.weblink.in.
+@ 38400 IN A 54.84.131.25
+ftp 38400 IN CNAME @
+mail 38400 IN A 54.84.131.25
+www 38400 IN CNAME @

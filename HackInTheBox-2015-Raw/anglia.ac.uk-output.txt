@@ -1,0 +1,469 @@
+@ 43200 IN SOA sooty hostmaster.mailhub 2015042800 3600 600 1209600 3600
+@ 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+@ 43200 IN NAPTR 100 10 "s" "x-eduroam:radius.tls" "" _radsec._tcp.roaming.ja.net.
+@ 600 IN MX 10 engine01-20313-1.icritical.com.
+600 IN MX 10 engine02-20313-2.icritical.com.
+600 IN MX 10 engine03-20313-1.icritical.com.
+600 IN MX 10 engine04-20313-3.icritical.com.
+@ 3600 IN A 195.194.92.222
+@ 43200 IN TXT "v=spf1 all"
+che-i-ap09 43200 IN A 194.83.42.10
+ping0 43200 IN CNAME camdns01
+filestore 43200 IN A 194.82.45.178
+ping2 43200 IN CNAME chedns01
+ping3 43200 IN CNAME chedns01
+business 43200 IN A 79.170.44.92
+myworkplace 43200 IN A 194.82.45.121
+iimp.blogs 43200 IN CNAME iimpblog.wordpress.com.
+mysite 43200 IN A 194.82.45.9
+vlenew 43200 IN A 194.82.45.172
+wiki 43200 IN CNAME web-scripts2
+rmd 43200 IN CNAME rmd.i-dev.co.uk.
+licence-svr 43200 IN A 193.63.55.17
+cam-i-mg04 43200 IN A 193.63.55.111
+rms 43200 IN CNAME rmd.i-dev.co.uk.
+ping1 43200 IN CNAME camdns01
+_sip._tls 43200 IN SRV 0 0 443 sip
+rdiu 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+vdi-sandbox-gw 43200 IN A 193.63.55.170
+pvle 43200 IN A 194.82.45.14
+sip 43200 IN A 195.194.92.201
+proxy-lib 43200 IN A 195.194.255.27
+vlepilot 43200 IN A 194.66.160.10
+che-s-ns04 43200 IN A 194.83.42.13
+che-s-ns05 43200 IN A 194.83.42.14
+tt1415-ap 43200 IN CNAME timetabling
+magictemp 43200 IN A 194.83.40.41
+download.im 43200 IN CNAME im
+cam-i-ws28 43200 IN A 193.63.55.59
+ap.crm 43200 IN CNAME p.crm
+cam-i-ws40 43200 IN A 193.63.55.149
+che-s-ss02 43200 IN A 194.83.42.12
+login 43200 IN A 195.194.92.203
+che-s-ss03 43200 IN A 194.83.42.16
+timetable 30 IN CNAME www-redir
+cam-i-ws53 43200 IN A 193.63.55.152
+cam-i-ws55 43200 IN A 193.63.55.167
+englishtestbeta 43200 IN A 194.82.45.170
+mypassword 43200 IN A 195.194.92.42
+che-s-vm01-ilo 43200 IN A 10.21.212.5
+edge-webconf 43200 IN A 195.194.92.202
+u.crm 43200 IN A 195.194.92.216
+www.cor 30 IN CNAME www-redir
+qlikview 43200 IN CNAME cam-i-ap70
+libhelp 43200 IN CNAME spike.lib
+dt.crm 43200 IN CNAME u.crm
+exlora0 43200 IN A 193.63.55.224
+exlora1 43200 IN A 195.194.255.89
+cam-i-ap09 43200 IN A 193.63.55.125
+extranet 43200 IN A 194.83.45.38
+mail-filter-2 300 IN CNAME unfiltered-mail
+che-ad-ldap 43200 IN A 194.83.40.145
+43200 IN A 194.83.40.146
+cam-i-ap14 43200 IN A 10.22.210.64
+myqa 43200 IN A 194.82.45.125
+publications 43200 IN A 194.82.45.124
+pollux 43200 IN A 194.66.160.1
+misa04 43200 IN A 193.63.55.231
+cam-i-ap26 43200 IN A 193.63.55.41
+cam-x-ss01 43200 IN A 193.63.55.117
+oevision-backup 43200 IN CNAME oevision
+mail 300 IN MX 1 mail
+mail 300 IN A 10.21.211.6
+300 IN A 10.22.212.132
+digitisation 43200 IN CNAME content.talisaspire.com.
+cam-i-ap70 43200 IN A 10.22.212.92
+mail-to-altman-1 43200 IN CNAME mx121.emailfiltering.com.
+mail-to-altman-2 43200 IN CNAME mx122.emailfiltering.com.
+reskin 43200 IN A 193.63.55.42
+parkrd1fp 43200 IN A 193.63.56.226
+microsites 43200 IN A 193.63.55.121
+cam-assess-prt1 43200 IN A 193.63.55.228
+mycapture 43200 IN A 195.194.92.14
+my.player 43200 IN CNAME myplayer
+qmpadmin 43200 IN A 194.82.45.15
+webapps 43200 IN A 195.194.92.221
+alpha1 43200 IN A 193.63.55.22
+netlab 43200 IN A 212.219.52.90
+gateway-eml 43200 IN A 193.63.55.19
+web-content 43200 IN A 193.63.55.80
+student 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+sooty-temp 43200 IN A 193.63.55.40
+myplayer-admin 43200 IN A 10.22.211.79
+vconf 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+vle 60 IN A 194.82.45.171
+web 60 IN A 193.63.55.128
+edge-av 43200 IN A 195.194.92.200
+payments 43200 IN CNAME ang0002-01.cpg.edu.wpmhost.net.
+mpowernet 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+vdesktop 43200 IN A 194.83.40.31
+my.timetable 43200 IN A 195.194.92.205
+connect 43200 IN A 195.194.92.29
+lsiprap01 43200 IN A 10.22.210.130
+student-it-helpdesk 43200 IN CNAME cits-support
+mail-filter2 300 IN CNAME unfiltered-mail
+itsupport 43200 IN CNAME isms-support
+sportsbooking 43200 IN A 195.194.92.215
+chelnms 43200 IN A 193.63.56.3
+ww2 43200 IN A 195.194.92.206
+cam-ad-ldap 43200 IN A 193.63.55.96
+43200 IN A 193.63.55.97
+che-i-mg01d 43200 IN A 10.21.210.35
+e-vision 43200 IN A 195.194.92.32
+ntp1 43200 IN A 194.83.42.17
+forums 43200 IN CNAME web-scripts2
+ntp3 43200 IN A 194.83.42.17
+gateway 43200 IN A 195.194.254.20
+proxy1 43200 IN A 195.194.255.58
+sweep 43200 IN A 193.63.56.1
+proxy5 43200 IN A 195.194.255.25
+proxy6 43200 IN A 193.63.55.8
+che-smtp 43200 IN CNAME mail
+ad 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+housing 43200 IN A 195.194.92.220
+test.e-vision 43200 IN CNAME oevision
+webmail.lca 43200 IN MX 10 webmail.lca
+43200 IN MX 15 46.65.210.43.
+webmail.lca 43200 IN A 46.65.210.45
+dhcp-cam 43200 IN CNAME sooty
+cen-smtp 43200 IN CNAME mail
+netmon 43200 IN A 194.82.45.168
+www-redir 43200 IN A 193.63.55.37
+www 300 IN A 195.194.92.222
+vleuat 43200 IN A 194.82.45.169
+inspire 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+edge-access 43200 IN A 195.194.92.201
+blogs 43200 IN CNAME web-scripts2
+siprap02 43200 IN A 10.22.210.131
+siprap03 43200 IN A 10.22.210.132
+cam-i-fw201d-ext 43200 IN A 193.63.55.212
+survey 43200 IN A 194.82.45.120
+che-s-vm02-ilo 43200 IN A 10.21.212.7
+mysites 43200 IN A 194.82.45.159
+library 43200 IN CNAME libweb
+rm 43200 IN CNAME rmd.i-dev.co.uk.
+intedge 43200 IN CNAME cam-s-ap27
+p.crm 43200 IN A 195.194.92.214
+pilot.vle 43200 IN CNAME cam-i-ws11d.anglia.local.
+qacampusm 43200 IN A 195.194.92.26
+www.ims 43200 IN CNAME ims
+timetabling 43200 IN A 194.82.45.117
+mail-filter 300 IN CNAME unfiltered-mail
+pcws 43200 IN A 195.194.92.213
+web-archive 43200 IN A 193.63.55.121
+whatsup 43200 IN A 194.83.45.60
+fst_nas1 43200 IN A 194.83.42.18
+fst_nas2 43200 IN A 194.83.42.19
+libweb 600 IN MX 10 engine01-20313-1.icritical.com.
+600 IN MX 10 engine02-20313-2.icritical.com.
+600 IN MX 10 engine03-20313-1.icritical.com.
+600 IN MX 10 engine04-20313-3.icritical.com.
+libweb 43200 IN A 195.194.92.204
+cqpub1ext 43200 IN A 193.63.55.232
+googlebox 43200 IN A 193.63.55.215
+northbr1 60 IN A 193.63.56.18
+libweb1 43200 IN A 195.194.255.56
+cqauthext 43200 IN A 193.63.55.231
+aleph 43200 IN A 193.63.55.223
+isms-support 43200 IN CNAME cits-support
+bell 60 IN A 193.63.56.33
+poc-idm 43200 IN A 193.63.55.185
+www.lca 43200 IN A 37.128.131.233
+procurement 43200 IN CNAME apu.i-dev.co.uk.
+test.progressplatform 43200 IN A 194.82.45.177
+prospectus 43200 IN A 82.109.213.8
+primo 300 IN CNAME pmt-eu.hosted.exlibrisgroup.com.
+hardy0 43200 IN A 193.63.55.225
+hardy1 43200 IN A 195.194.255.90
+oscar0 43200 IN A 193.63.55.223
+oscar1 43200 IN A 195.194.255.88
+riv-smtp 43200 IN CNAME mail
+www.e-vision 43200 IN CNAME e-vision
+beta 43200 IN CNAME web-scripts2
+essexpdc 43200 IN CNAME web-scripts2
+pocwebmail 43200 IN A 194.82.45.12
+dcs 43200 IN A 194.66.160.11
+apel 43200 IN A 91.151.210.83
+mysitedev 43200 IN A 10.22.210.40
+google 43200 IN CNAME search
+vletest 43200 IN A 10.22.210.40
+cam-s-ap34 43200 IN A 10.22.210.169
+csd 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+arupoc 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+dns1 43200 IN CNAME camdns01
+dns2 43200 IN CNAME chedns01
+dns3 43200 IN CNAME chedns01
+thinkpeterborough 43200 IN A 79.170.44.90
+lists 43200 IN A 193.63.55.106
+lists 3600 IN MX 10 engine01-20313-1.icritical.com.
+3600 IN MX 10 engine02-20313-2.icritical.com.
+3600 IN MX 10 engine03-20313-1.icritical.com.
+3600 IN MX 10 engine04-20313-3.icritical.com.
+cam-smtp 43200 IN CNAME mail
+poc-i-mg04 43200 IN A 193.63.55.156
+filter2.lca 43200 IN MX 30 82.153.128.243.
+filter2.lca 43200 IN A 82.153.128.243
+av 43200 IN A 195.194.92.200
+autodiscover.arupoc 43200 IN CNAME autodiscover.outlook.com.
+chbrep 43200 IN A 193.63.56.46
+www.lta 43200 IN A 79.170.44.141
+mail-out 43200 IN MX 1 mail-out
+mail-out 300 IN A 193.63.55.26
+300 IN A 193.63.55.195
+student.blogs 43200 IN CNAME arustudents.wordpress.com.
+eb 43200 IN A 92.52.95.61
+_sipfederationtls._tcp 43200 IN SRV 0 0 5061 sip
+agrweb 43200 IN A 10.22.212.188
+fs 43200 IN A 194.82.45.179
+sec-clerk 43200 IN CNAME scgo.i-dev.co.uk.
+at.crm 43200 IN CNAME u.crm
+im 43200 IN A 194.82.45.166
+che-s-vm03-ilo 43200 IN A 10.21.212.9
+mail-to-altman 300 IN A 194.116.198.80
+mail-to-altman 3600 IN MX 10 engine01-20313-1.icritical.com.
+3600 IN MX 10 engine02-20313-2.icritical.com.
+3600 IN MX 10 engine03-20313-1.icritical.com.
+3600 IN MX 10 engine04-20313-3.icritical.com.
+upload 43200 IN A 10.22.211.75
+sfx0 43200 IN A 193.63.55.64
+sfx1 43200 IN A 195.194.255.30
+3600 43200 IN MX 1 blackhole
+it-service-desk 43200 IN A 193.63.55.127
+_smtp._tcp.cits-support 43200 IN SRV 1 1 25 cits-support
+my 43200 IN A 194.82.45.13
+ns 43200 IN CNAME sooty
+_autodiscover._tcp 43200 IN SRV 0 0 443 webmail
+bes825 43200 IN A 193.63.56.192
+everyoneprint 43200 IN CNAME cam-i-fp09
+webct 43200 IN MX 1 webct
+webct 43200 IN A 194.66.160.126
+rbl-plus 43200 IN CNAME rbl-plus.mail-abuse.ja.net.
+ntp0 43200 IN A 195.194.92.47
+chelmsford-provost.blogs 43200 IN CNAME aruprovostchelmsford.wordpress.com.
+englishtest 43200 IN A 193.63.55.155
+ntp2 43200 IN A 195.194.92.47
+www.libweb 60 IN CNAME libweb
+arc-ws 43200 IN A 195.194.92.43
+cam-i-ws56 43200 IN A 193.63.55.168
+readinglists 43200 IN CNAME list-app.talis.com.
+recode.e-vision 43200 IN CNAME oevision
+as.im 43200 IN CNAME im
+lambert 43200 IN A 193.63.56.9
+chedns01 43200 IN A 194.83.42.17
+ukraine-botswana.blogs 43200 IN CNAME aruice.wordpress.com.
+ftp 43200 IN CNAME web1
+cen-s302-pc1 43200 IN A 193.63.56.90
+cen-s302-pc2 43200 IN A 193.63.56.88
+web-scripts 43200 IN A 193.63.55.197
+localhost 43200 IN A 127.0.0.1
+call 30 IN CNAME www-redir
+myqmp 43200 IN A 194.82.45.16
+unfiltered-mail-2 43200 IN MX 1 unfiltered-mail-2
+unfiltered-mail-2 43200 IN A 193.63.55.25
+outbound-mail-1 43200 IN A 193.63.55.240
+outbound-mail-2 43200 IN A 193.63.55.241
+outbound-mail-3 43200 IN A 193.63.55.242
+outbound-mail-4 43200 IN A 193.63.55.243
+outbound-mail-5 43200 IN A 193.63.55.244
+outbound-mail-6 43200 IN A 193.63.55.245
+outbound-mail-7 43200 IN A 193.63.55.246
+outbound-mail-8 43200 IN A 193.63.55.247
+heron1 43200 IN A 195.194.255.86
+redir 43200 IN CNAME www-redir
+my.player-upload 43200 IN CNAME myplayer-upload
+clearpass 43200 IN A 192.168.195.121
+business-school.blogs 43200 IN CNAME laibsbusiness.wordpress.com.
+webservices 43200 IN A 195.194.92.210
+hml 43200 IN A 10.22.211.75
+store 43200 IN CNAME ang0002-01.store.edu.wpmhost.net.
+b406d 43200 IN A 194.83.46.241
+burns 43200 IN A 193.63.55.122
+qa2.e-vision 43200 IN A 192.168.195.152
+dsadm1 43200 IN A 193.63.55.230
+talk 43200 IN A 194.82.45.167
+some-dell-idrac 43200 IN A 193.63.55.159
+vdi-sandbox-sccm 43200 IN A 193.63.55.57
+autodiscover.alumnitest 43200 IN CNAME autodiscover.outlook.com.
+blackhole 43200 IN A 193.63.55.142
+www1 300 IN A 193.63.55.220
+che-s-vm01 43200 IN A 10.21.212.4
+che-s-vm02 43200 IN A 10.21.212.6
+che-s-vm03 43200 IN A 10.21.212.8
+localhost.localdomain 43200 IN A 127.0.0.1
+dvl1.e-vision 43200 IN A 192.168.195.64
+sws.timetable 43200 IN A 195.194.94.212
+ims 43200 IN A 195.194.92.30
+content.marketing 43200 IN CNAME web-content
+computing 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+dp.crm 43200 IN CNAME p.crm
+tickets.mumfordtheatre 43200 IN A 194.82.45.123
+web1 300 IN A 193.63.55.128
+hlbtest 43200 IN A 193.63.55.18
+elwyn0 43200 IN A 193.63.55.77
+elwyn1 43200 IN A 195.194.255.54
+ums-cen-print1 43200 IN CNAME ums25p
+unfiltered-mail 43200 IN MX 1 unfiltered-mail
+unfiltered-mail 300 IN A 193.63.55.15
+300 IN A 193.63.55.25
+300 IN A 193.63.55.210
+actemp 43200 IN CNAME www-redir
+cqpub2ext 43200 IN A 193.63.55.233
+csd433 43200 IN A 193.63.56.44
+myworkplaceqa 43200 IN A 194.82.45.122
+marie 43200 IN A 195.194.255.64
+qa1.e-vision 43200 IN A 10.22.210.34
+cablecom 43200 IN A 194.83.45.165
+staffnet 43200 IN A 193.63.55.72
+cam-i-ws15d 43200 IN A 193.63.55.150
+lca 43200 IN MX 20 filter3.lca
+43200 IN MX 30 filter2.lca
+lca 43200 IN A 37.128.131.233
+cam-s-ap27 43200 IN A 10.22.210.163
+filtered-mail-1 43200 IN A 193.63.55.248
+filtered-mail-2 43200 IN A 193.63.55.249
+filtered-mail-3 43200 IN A 193.63.55.250
+filtered-mail-4 43200 IN A 193.63.55.251
+filtered-mail-5 43200 IN A 193.63.55.252
+filtered-mail-6 43200 IN A 193.63.55.253
+filtered-mail-7 43200 IN A 193.63.55.254
+sharepointsql 43200 IN A 193.63.55.92
+t.crm 43200 IN A 195.194.92.217
+_smtp._tcp.lists 43200 IN SRV 1 1 25 lists
+progressplatform 43200 IN A 194.82.45.176
+dscsd 43200 IN A 193.63.56.45
+mailhub2-out 300 IN A 193.63.55.195
+alpha 43200 IN CNAME web-scripts2
+campusm 43200 IN A 195.194.92.25
+lib 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+roombooking 43200 IN A 10.21.210.47
+mkt858 43200 IN A 193.63.56.217
+staffnet0 43200 IN A 193.63.55.72
+staffnet1 43200 IN A 195.194.255.62
+link 43200 IN CNAME elink-eu.azuresend.com.
+ums25p 43200 IN A 193.63.56.208
+libanswers 43200 IN A 174.132.16.54
+pmy 43200 IN A 194.82.45.160
+camdns01 43200 IN A 195.194.92.47
+intfilestore 43200 IN A 10.22.210.14
+appraisal 43200 IN A 95.154.254.127
+alumnitest 3600 IN TXT "MS=ms57937656"
+alumnitest 3600 IN MX 10 engine01-20313-1.icritical.com.
+3600 IN MX 10 engine02-20313-2.icritical.com.
+3600 IN MX 10 engine03-20313-1.icritical.com.
+3600 IN MX 10 engine04-20313-3.icritical.com.
+lang 30 IN CNAME www-redir
+autodiscover 43200 IN A 193.63.55.7
+poc-idmrl 43200 IN A 193.63.55.186
+*.proxy-lib 43200 IN CNAME proxy-lib
+testzone 43200 IN MX 10 engine03-20313-1.icritical.com.
+43200 IN MX 10 engine04-20313-3.icritical.com.
+search 43200 IN A 193.63.55.23
+myplayer-upload 43200 IN A 194.82.45.162
+webconf 43200 IN A 195.194.92.202
+calendar 43200 IN A 193.63.55.91
+_smtp._tcp.webct 43200 IN SRV 1 1 25 webct
+filter3.lca 43200 IN MX 20 5.148.152.100.
+filter3.lca 43200 IN A 5.148.152.100
+cam-i-au201d 43200 IN A 193.63.55.74
+cam-s-ss03 43200 IN A 195.194.92.19
+idp0 43200 IN A 193.63.55.34
+idp1 43200 IN A 194.66.160.36
+idp2 43200 IN A 193.63.55.145
+che-s-ss01 43200 IN A 194.83.42.11
+idp4 43200 IN A 193.63.55.6
+idp5 43200 IN A 195.194.255.25
+idp6 43200 IN A 193.63.55.8
+idp7 43200 IN A 10.22.210.251
+idp8 43200 IN A 10.22.210.252
+idp9 43200 IN A 10.22.210.253
+dns0 43200 IN A 195.194.92.47
+cat-cloudups 43200 IN A 195.194.252.80
+dhcp0 43200 IN CNAME sooty
+mysiteqa 43200 IN A 194.82.45.126
+portaltest 43200 IN CNAME cam-i-ws10d.anglia.local.
+ldap 43200 IN A 194.66.160.10
+43200 IN A 194.82.45.12
+vcs-expressway 43200 IN CNAME vcs-expressway.vconf
+idp 43200 IN A 193.63.55.6
+43200 IN A 193.63.55.8
+43200 IN A 195.194.255.25
+sooty 43200 IN A 193.63.55.1
+software 43200 IN A 195.194.92.240
+olists 60 IN A 193.63.55.106
+webmail 43200 IN A 193.63.55.7
+sharepoint 43200 IN A 193.63.55.66
+research.blogs 43200 IN CNAME aruresearch.wordpress.com.
+cam-i-fp09 43200 IN A 10.22.211.119
+checa1 43200 IN A 193.63.56.14
+victor0 43200 IN A 193.63.55.85
+victor1 43200 IN A 193.63.55.80
+beres 43200 IN A 195.194.95.44
+ntp 43200 IN A 194.83.42.17
+43200 IN A 195.194.92.47
+content-man 43200 IN A 193.63.55.198
+helix 43200 IN A 193.63.55.13
+distancelearning 43200 IN CNAME distancelearning-ar.co.uk.
+login-poc 43200 IN A 195.194.92.27
+hugo 43200 IN A 195.194.255.63
+mail-to-altman-3 43200 IN CNAME mx123.emailfiltering.com.
+web-scripts2 43200 IN A 193.63.55.196
+mail-to-altman-4 43200 IN CNAME post12.emailfiltering.com.
+che-i-mg45 43200 IN A 194.83.42.15
+pmysites 43200 IN A 194.82.45.180
+_smtp._tcp.libweb 43200 IN SRV 1 1 25 libweb
+arthur 43200 IN A 193.63.55.179
+cits-support 43200 IN MX 1 cits-support
+cits-support 43200 IN A 193.63.55.127
+chebr1 43200 IN A 193.63.56.41
+cam-i-db210int 43200 IN A 193.63.55.148
+cheda1 43200 IN A 193.63.56.39
+mailhub 300 IN A 193.63.55.144
+sophosweb 43200 IN A 195.194.92.88
+cits 43200 IN NS sooty
+43200 IN NS sweep
+43200 IN NS camdns01
+43200 IN NS chedns01
+vledr 43200 IN A 194.66.160.10
+www.libanswers 43200 IN A 174.132.16.54
+cam-s-db12 43200 IN A 193.63.55.38
+studyskillsplus 43200 IN CNAME www.libcal.com.
+myplayer 43200 IN A 194.82.45.161
+cam-s-ss04 43200 IN A 195.194.92.20
+uk-ac-anglia 43200 IN A 193.63.55.23
+desktop 43200 IN A 195.194.92.17
+che-i-ap05 43200 IN A 10.21.210.29
+pkrd24pc1 43200 IN A 193.63.56.47
+ums836 43200 IN A 193.63.56.206

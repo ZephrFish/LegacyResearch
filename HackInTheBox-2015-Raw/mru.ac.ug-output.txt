@@ -1,0 +1,59 @@
+@ 86400 IN SOA ns1.worldispcloud.com. e.webnet.co.ug. 2015010607 86400 7200 3600000 86400
+@ 14400 IN MX 1 ASPMX.L.GOOGLE.COM.
+14400 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+14400 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+14400 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+14400 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+@ 86400 IN NS ns1.worldispcloud.com.
+86400 IN NS ns2.worldispcloud.com.
+@ 14400 IN A 174.36.248.51
+default._domainkey.eis 14400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaWlzX+egIpOrtsejYd9cqoAlZ85IBoD8764Eu7b/1KNU6xVsmEGJQRjnLOfcTe0W0P/i0MdhKoLooryq//ortLra+duUbDc/JacJWVxqBBEuYI6TdgYGkU2gXMKV7FNTWRqE4peb95FP0CJ6nYpdGewr7fKbxOCDveNH9GjSQ1QIDAQAB;"
+webmail 14400 IN A 174.36.248.51
+autoconfig 14400 IN A 174.36.248.51
+autodiscover.demo 14400 IN A 174.36.248.51
+webdisk.eis 14400 IN A 174.36.248.51
+id 14400 IN A 174.36.248.51
+autodiscover 14400 IN A 174.36.248.51
+_autodiscover._tcp.royalpublications 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+eis 14400 IN TXT "v=spf1 +a +mx +ip4:174.36.248.51 ~all"
+eis 14400 IN A 174.36.248.51
+autodiscover.eis 14400 IN A 174.36.248.51
+autoconfig.id 14400 IN A 174.36.248.51
+webdisk.id 14400 IN A 174.36.248.51
+autoconfig.lms 14400 IN A 174.36.248.51
+autoconfig.elearning 14400 IN A 174.36.248.51
+mail 14400 IN CNAME @
+webdisk.elearning 14400 IN A 174.36.248.51
+www.lms 14400 IN A 174.36.248.51
+webdisk.demo 14400 IN A 174.36.248.51
+whm 14400 IN A 174.36.248.51
+_autodiscover._tcp.id 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+elearning 14400 IN A 174.36.248.51
+webdisk.royalpublications 14400 IN A 174.36.248.51
+webdisk 14400 IN A 174.36.248.51
+ftp 14400 IN CNAME @
+cpanel 14400 IN A 174.36.248.51
+autoconfig.eis 14400 IN A 174.36.248.51
+autodiscover.id 14400 IN A 174.36.248.51
+autodiscover.royalpublications 14400 IN A 174.36.248.51
+_autodiscover._tcp.lms 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_autodiscover._tcp.demo 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.demo 14400 IN A 174.36.248.51
+royalpublications 14400 IN A 174.36.248.51
+www.eis 14400 IN A 174.36.248.51
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www 14400 IN CNAME @
+autodiscover.elearning 14400 IN A 174.36.248.51
+_autodiscover._tcp.elearning 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+www.demo 14400 IN A 174.36.248.51
+webdisk.lms 14400 IN A 174.36.248.51
+library 14400 IN A 41.221.94.185
+www.id 14400 IN A 174.36.248.51
+localhost 14400 IN A 127.0.0.1
+lms 14400 IN A 174.36.248.51
+autodiscover.lms 14400 IN A 174.36.248.51
+www.royalpublications 14400 IN A 174.36.248.51
+autoconfig.royalpublications 14400 IN A 174.36.248.51
+_autodiscover._tcp.eis 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+demo 14400 IN A 174.36.248.51
+www.elearning 14400 IN A 174.36.248.51

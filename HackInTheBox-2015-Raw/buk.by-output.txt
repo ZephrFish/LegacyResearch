@@ -1,0 +1,12 @@
+@ 3600 IN SOA ns1.domain.by. info.domain.by. 1423488315 10800 3600 604800 300
+@ 3600 IN NS ns1.domain.by.
+3600 IN NS ns2.domain.by.
+@ 3600 IN MX 10 mail
+@ 3600 IN TXT "v=spf1 a:mail.buk.by -all"
+@ 3600 IN A 80.94.162.3
+portal 3600 IN A 80.94.164.200
+www 3600 IN A 80.94.162.3
+libra 3600 IN A 80.94.164.206
+mail 3600 IN A 80.94.164.204
+urshula 3600 IN A 80.94.162.3
+repository 3600 IN A 80.94.164.201

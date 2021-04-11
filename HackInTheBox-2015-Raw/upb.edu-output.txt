@@ -1,0 +1,73 @@
+@ 86400 IN SOA ns adminmaster 2015032601 10800 3600 1814400 7200
+@ 86400 IN NS ns
+86400 IN NS ns2
+@ 86400 IN A 190.104.24.102
+@ 86400 IN MX 5 mail
+@ 86400 IN TXT "v=spf1 a mx ptr mx:mail.upb.edu ?all"
+spie 86400 IN CNAME ns
+sistemas 86400 IN A 190.104.24.101
+confseguridad 86400 IN CNAME ns
+www.lc.lp 86400 IN CNAME info.lp
+www.isc 86400 IN CNAME www
+ns2 86400 IN A 190.104.24.68
+apps 86400 IN MX 10 ASPMX.L.GOOGLE.COM.
+www.lml.lp 86400 IN CNAME info.lp
+cinti 86400 IN A 190.104.24.107
+latinomkt6 86400 IN CNAME ns
+mktlog 86400 IN CNAME ns
+research 86400 IN A 190.104.24.106
+biblio 86400 IN CNAME ns
+www.lico.lp 86400 IN CNAME info.lp
+excelencia 86400 IN A 190.104.24.100
+bmun 86400 IN CNAME www
+admi 86400 IN CNAME ns
+dere 86400 IN CNAME ns
+vpn 86400 IN A 190.104.24.108
+indusis 86400 IN CNAME ns
+wap 86400 IN CNAME sistemas
+isc 86400 IN CNAME www
+www.le.lp 86400 IN CNAME info.lp
+www.lae.lp 86400 IN CNAME info.lp
+sinntel 86400 IN CNAME ns
+apex 86400 IN CNAME www
+ciprog.lp 86400 IN CNAME info.lp
+mail 86400 IN A 190.104.24.100
+ciprog 86400 IN CNAME www
+yt 86400 IN CNAME teleinf
+civil 86400 IN CNAME ns
+www.faced.lp 86400 IN CNAME info.lp
+lp 86400 IN A 190.104.24.67
+lp 86400 IN TXT "v=spf1 a mx ptr mx:mail.lp.upb.edu ?all"
+disegraf 86400 IN CNAME ns
+teleco 86400 IN CNAME ns
+osa 86400 IN CNAME ns
+www.lif.lp 86400 IN CNAME info.lp
+electro 86400 IN CNAME ns
+web2 86400 IN CNAME www
+finan 86400 IN CNAME ns
+prod 86400 IN CNAME ns
+www 86400 IN A 190.104.24.99
+info.lp 86400 IN A 190.104.24.68
+comiteavenida 86400 IN CNAME ns
+#mail.lp 86400 IN CNAME lp
+comu 86400 IN CNAME ns
+www.ieee 86400 IN CNAME ieee
+comer 86400 IN CNAME ns
+www.ld.lp 86400 IN CNAME info.lp
+#apps 86400 IN CNAME ASPMX.L.GOOGLE.COM.
+econo 86400 IN CNAME ns
+mail.lp 86400 IN A 190.104.24.67
+simplificacion 86400 IN CNAME www
+ns 86400 IN A 190.104.24.102
+ieee 86400 IN CNAME ns
+sist 86400 IN CNAME ns
+arqui 86400 IN CNAME ns
+teleinf 86400 IN A 190.104.24.105
+info 86400 IN CNAME www
+mail2 86400 IN A 190.104.24.109
+extension 86400 IN CNAME ns
+docentesinnovadores 86400 IN CNAME ns
+sid 86400 IN CNAME ns
+cesi 86400 IN CNAME ns
+intranet 86400 IN CNAME www
+petrogas 86400 IN CNAME ns

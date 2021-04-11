@@ -1,0 +1,39 @@
+@ 86400 IN SOA ns1.panda.arvixe.com. servers.arvixe.com. 2014102610 86400 7200 3600000 86400
+@ 14400 IN MX 0 @
+@ 86400 IN NS ns1.panda.arvixe.com.
+86400 IN NS ns2.panda.arvixe.com.
+@ 14400 IN A 198.58.93.4
+autodiscover 14400 IN A 198.58.93.4
+autoconfig 14400 IN A 198.58.93.4
+www.md 14400 IN A 198.58.93.4
+webdisk.bscn 14400 IN A 198.58.93.4
+mail 14400 IN CNAME @
+www.pg 14400 IN A 198.58.93.4
+_autodiscover._tcp.bscn 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.bscn 14400 IN A 198.58.93.4
+md 14400 IN MX 0 aspmx.l.google.com.
+14400 IN MX 1 alt1.aspmx.l.google.com.
+md 14400 IN A 198.58.93.4
+www.bn 14400 IN A 198.58.93.4
+webdisk 14400 IN A 198.58.93.4
+ftp 14400 IN CNAME @
+www.bscn 14400 IN A 198.58.93.4
+www 14400 IN CNAME @
+localhost 14400 IN A 127.0.0.1
+webdisk.md 14400 IN A 198.58.93.4
+elearn 14400 IN CNAME elearn.hkmu.remote-learner.net.
+pg 14400 IN MX 0 aspmx.l.google.com.
+14400 IN MX 10 alt1.aspmx.l.google.com.
+pg 14400 IN A 198.58.93.4
+bscn 14400 IN A 198.58.93.4
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+bn 14400 IN MX 0 aspmx.l.google.com.
+bn 14400 IN A 198.58.93.4
+webdisk.student 14400 IN A 198.58.93.4
+autodiscover.bscn 14400 IN A 198.58.93.4
+webdisk.pg 14400 IN A 198.58.93.4
+www.student 14400 IN A 198.58.93.4
+student 14400 IN MX 0 aspmx.l.google.com.
+14400 IN MX 1 alt1.aspmx.l.google.com.
+student 14400 IN A 198.58.93.4
+webdisk.bn 14400 IN A 198.58.93.4

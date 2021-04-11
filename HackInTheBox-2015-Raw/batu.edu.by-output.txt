@@ -1,0 +1,67 @@
+@ 86400 IN SOA thomas admin 14 10800 3600 604800 86400
+@ 86400 IN NS isidore
+86400 IN NS thomas
+@ 86400 IN A 91.149.144.90
+@ 86400 IN MX 10 bgatumail
+@ 86400 IN TXT "v=spf1 +mx +a:isidore.batu.edu.by ~all"
+86400 IN TXT "spf2.0/pra"
+smtp 86400 IN CNAME thomas
+ded02 86400 IN A 91.149.144.90
+www.info.iks 86400 IN CNAME new
+iks 86400 IN CNAME new
+hostels 86400 IN A 91.149.144.67
+isidore 86400 IN A 91.149.144.88
+virtlib1 86400 IN A 91.149.144.87
+www.qa.iks 86400 IN CNAME new
+tehnika.iks 86400 IN CNAME new
+www.analiz.iks 86400 IN CNAME new
+zaschita.iks 86400 IN CNAME new
+www.obyavleniya.iks 86400 IN CNAME new
+kadry.iks 86400 IN CNAME new
+www.hostels 86400 IN A 91.149.144.67
+analiz.iks 86400 IN CNAME new
+rastenievodstvo.iks 86400 IN CNAME new
+info.iks 86400 IN CNAME new
+jivotnovodstvo.iks 86400 IN CNAME new
+www.kadry.iks 86400 IN CNAME new
+router2 86400 IN A 91.149.144.94
+www.moodle 86400 IN CNAME moodle
+library 86400 IN A 91.149.144.85
+moodle 86400 IN CNAME ded02
+test 86400 IN NS thomas
+86400 IN NS isidore
+pop3 86400 IN CNAME thomas
+www.bgatumail 86400 IN CNAME bgatumail
+www.iks 86400 IN CNAME new
+sites.iks 86400 IN CNAME new
+qa.iks 86400 IN CNAME new
+www.sismash.iks 86400 IN CNAME new
+bgatumail 86400 IN A 91.149.144.76
+www.energserv1 86400 IN A 91.149.144.90
+_domainkey 86400 IN TXT "t=y; o=~; r=test1@batu.edu.by"
+www.sites.iks 86400 IN CNAME new
+firms.iks 86400 IN CNAME new
+mail 86400 IN CNAME thomas
+ftp 86400 IN CNAME thomas
+www 86400 IN A 91.149.144.90
+old 86400 IN CNAME thomas
+www.tehnika.iks 86400 IN CNAME new
+webmail 86400 IN CNAME bgatumail
+new 86400 IN CNAME ded02
+subnet-start 86400 IN A 91.149.144.64
+www.firms.iks 86400 IN CNAME new
+obyavleniya.iks 86400 IN CNAME new
+elib 86400 IN A 91.149.144.84
+subnet-end 86400 IN A 91.149.144.95
+sismash.iks 86400 IN CNAME new
+www.expert.iks 86400 IN CNAME new
+alt1-smtp-in 86400 IN CNAME bgatumail
+www.zaschita.iks 86400 IN CNAME new
+cit1 86400 IN A 91.149.144.91
+thomas 86400 IN A 91.149.144.77
+www.jivotnovodstvo.iks 86400 IN CNAME new
+www.webmail 86400 IN CNAME webmail
+expert.iks 86400 IN CNAME new
+router 86400 IN A 91.149.144.93
+batu.edu.by._domainkey 86400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVarmnDDQg3YNVcwQWARUrV22MXBypaD8hlSpDT16ybcKee9D+VKxy30MEYUtjcY3Ofy6bG/TZMYtuhoH6JAlyuiKPEmMv+uF/OKkbK/vuuoYaTGUeYfOxNqsPiQyN7b/+AmWcMFMteXCkv9m4nEi8uj8HXf8t1rGn8DuhN+bk/wIDAQAB"
+www.rastenievodstvo.iks 86400 IN CNAME new

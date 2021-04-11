@@ -1,0 +1,48 @@
+@ 2560 IN SOA ns.indas.de. hostmaster 1430215377 16384 2048 1048576 2560
+@ 1800 IN MX 10 mail
+@ 259200 IN NS ns.indas.de.
+259200 IN NS ns.ludwigsburg.net.
+@ 86400 IN A 94.186.147.5
+exchange 300 IN A 213.61.174.214
+sis 300 IN A 213.61.174.211
+mailgate 86400 IN A 94.186.147.9
+post 86400 IN A 94.186.147.4
+ifaa 86400 IN A 80.190.100.90
+www.admin.rz 86400 IN CNAME www.rz
+ms21164501 86400 IN CNAME RED002.mail.emea.microsoftonline.com.
+sisdev 1800 IN A 213.61.174.211
+conference 86400 IN A 94.186.147.8
+post.ze 1800 IN A 213.61.174.214
+sbzdev 86400 IN A 94.186.147.5
+esis 300 IN A 213.61.174.212
+owa 300 IN A 213.61.174.213
+www.shb 86400 IN CNAME www
+mail 86400 IN A 94.186.147.4
+rac.stw-xen 86400 IN A 94.186.147.6
+www.admin 86400 IN CNAME www.admin.rz
+vpn 1800 IN A 213.61.174.213
+shop 86400 IN CNAME www
+xen1 86400 IN A 94.186.147.7
+_autodiscover._tcp 3600 IN SRV 10 100 443 owa
+www.news 86400 IN CNAME www.rz
+mx11 86400 IN A 94.186.147.11
+shbdev 86400 IN A 94.186.147.5
+ftp 86400 IN CNAME www
+www 86400 IN A 94.186.147.5
+news 86400 IN CNAME www.rz
+www.rz 86400 IN A 94.186.147.4
+kompetenzcheck 86400 IN A 94.186.147.10
+stwdev 86400 IN A 94.186.147.5
+wiso 86400 IN CNAME sis
+post.rz 86400 IN CNAME mail
+wwwdev 86400 IN A 94.186.147.5
+shb 86400 IN MX 23 mail
+shb 259200 IN NS ns.indas.de.
+259200 IN NS ns.ludwigsburg.net.
+shb 3600 IN TXT "MS=ms14900122"
+shb 86400 IN A 94.186.147.5
+xen2 86400 IN A 94.186.147.2
+gate.shb 86400 IN A 217.9.34.115
+gate 1800 IN A 213.61.174.210
+www.ifaa 86400 IN A 80.190.100.90
+zarafa 86400 IN A 94.186.147.3

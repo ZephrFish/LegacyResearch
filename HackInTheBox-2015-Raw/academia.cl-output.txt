@@ -1,0 +1,64 @@
+@ 3600 IN SOA ns root.ns 2015270402 43200 7200 2419200 1200
+@ 3600 IN TXT "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+@ 3600 IN SPF "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+@ 3600 IN NS ns
+@ 3600 IN MX 5 mail
+tunadederecho 3600 IN A 190.153.188.133
+admision 3600 IN A 190.153.188.133
+sync 3600 IN A 190.153.188.135
+navegador 3600 IN TXT "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+3600 IN TXT "google-site-verification=dvXwiRnmQ4QPEH4JOXfga0DMHnAc6oKjOiSJzdF0sJY"
+navegador 3600 IN SPF "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+navegador 3600 IN A 190.153.188.135
+navegador 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+webmail 3600 IN A 190.153.188.131
+fw 3600 IN A 190.153.188.130
+fms 3600 IN A 200.68.16.29
+D71414C6-A639-11E4-BBF1-780C423D3CD7._domainkey 3600 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDC/LNg8fEkjfNSP2fmK84aq+zlyTwPqOwqhSPM6AiVTtQ6SiskcyohZed4myvUVuvcSmbC8l6Q6isVDaaUCnJmKdhgVsSUvB1hkXPaIRWrj9bWOXREqyNAKHWaZnMsWbRVVszeFXTsaAsqkMhmJGAmEeo4wtzdcm6lMtd/mgYcFQIDAQAB"
+docentes 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+biblio 3600 IN A 190.153.188.133
+soporte 3600 IN MX 1 aspmx.l.google.com.
+3600 IN MX 5 alt1.aspmx.l.google.com.
+3600 IN MX 5 alt2.aspmx.l.google.com.
+3600 IN MX 10 aspmx2.googlemail.com.
+3600 IN MX 10 aspmx3.googlemail.com.
+encuestas 3600 IN A 190.153.188.138
+antropologia 3600 IN A 190.153.188.133
+97FFA3FE-BC07-11E2-B387-18214EE43A40._domainkey 3600 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6KX7jLWZoB7L/7xld/XAFOCxX2qwrJOHy0ovux5Ct0N6u+UESLhNdUfG40vdpRJybDZKDXui04R0wqJYyvYdg2JLjyYUlo40JmTAB/WYJGAHXiM/H78947zjAe/w2Liev0Ue66WreI1aKBdHRkl/azl5em+rKI2GlpiXDVasSwQIDAQAB"
+radio 3600 IN A 190.153.188.133
+moodle 3600 IN A 190.153.188.138
+academicos 3600 IN TXT "v=spf1 ip4:190.153.219.187 mx ptr ~all"
+academicos 3600 IN SPF "v=spf1 ip4:190.153.219.187 mx ptr ~all"
+academicos 3600 IN A 190.153.219.187
+academicos 3600 IN MX 5 academicos
+mail 3600 IN TXT "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+mail 3600 IN SPF "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+mail 3600 IN A 190.153.188.132
+bibliotecadigital 3600 IN A 190.153.188.133
+temporal 3600 IN A 190.153.188.133
+psicologia 3600 IN A 190.153.188.133
+alumnos 3600 IN MX 5 academicos
+bienestar 3600 IN A 190.153.188.133
+stream 3600 IN A 200.68.16.30
+rucadungun 3600 IN A 190.153.188.140
+www 3600 IN A 190.153.188.133
+ns 3600 IN A 190.153.188.134
+periodismo 3600 IN A 190.153.188.133
+fasic 3600 IN A 190.153.188.133
+imap 3600 IN A 190.153.188.131
+aulavirtual 3600 IN A 190.153.188.138
+alex 3600 IN A 190.153.188.136
+revistas 3600 IN A 190.153.188.138
+fasic-doc 3600 IN A 190.153.188.133
+smtp 3600 IN TXT "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+smtp 3600 IN SPF "v=spf1 ip4:190.153.188.131 ip4:190.153.188.132 mx ptr ~all"
+smtp 3600 IN A 190.153.188.131
+intranet 3600 IN A 200.54.164.154

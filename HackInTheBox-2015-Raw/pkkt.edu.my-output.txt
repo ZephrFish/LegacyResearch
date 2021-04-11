@@ -1,0 +1,7 @@
+@ 3600 IN SOA klmail2. admin. 36 900 600 86400 3600
+@ 3600 IN A 202.75.53.115
+@ 3600 IN NS ns2.wpdns.com.
+3600 IN NS ns1.wpdns.com.
+@ 3600 IN MX 10 mail
+mail 3600 IN A 202.75.55.175
+www 3600 IN A 202.75.53.115

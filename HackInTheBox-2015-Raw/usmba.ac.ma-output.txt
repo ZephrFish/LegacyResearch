@@ -1,0 +1,65 @@
+@ 3600 IN SOA ns1 admin 2017894604 9600 2400 605000 3600
+@ 3600 IN NS ns1
+3600 IN NS ns2
+3600 IN NS phloem.uoregon.edu.
+3600 IN NS srv3-usmba.ac.ma.
+@ 3600 IN MX 10 aspmx.l.google.com.
+3600 IN MX 20 alt1.aspmx.l.google.com.
+3600 IN MX 20 alt2.aspmx.l.google.com.
+3600 IN MX 30 aspmx2.googlemail.com.
+3600 IN MX 30 aspmx3.googlemail.com.
+@ 3600 IN TXT "google-site-verification=SbN1VqFkE2YwXG9dGdvtCqlO1YM36GRb68QtTM5htXQ"
+3600 IN TXT "google-site-verification=wjpcSEok1_HCrYsl3XQtTueF0u1tpBCmsQMM1i8WMOU"
+innovaction 3600 IN CNAME ghs.google.com.
+cle 3600 IN A 196.200.146.76
+boulaalam 3600 IN CNAME ghs.googlehosted.com.
+sites 3600 IN CNAME ghs.google.com.
+ldap 3600 IN A 196.200.146.67
+ns1 3600 IN A 196.200.146.66
+kabbaj 3600 IN CNAME ghs.googlehosted.com.
+fadaetalib-fldm 3600 IN A 196.200.146.115
+zerrac 3600 IN CNAME ghs.google.com.
+ugata 3600 IN CNAME ghs.google.com.
+fldm 3600 IN A 196.200.146.114
+laboratoire-lama 3600 IN CNAME ghs.googlehosted.com.
+jbennouna 3600 IN CNAME ghs.googlehosted.com.
+agenda 3600 IN CNAME ghs.google.com.
+voip 3600 IN A 196.200.146.43
+saidtasra 3600 IN CNAME ghs.googlehosted.com.
+calendar 3600 IN CNAME ghs.google.com.
+fsjes 3600 IN A 196.200.146.130
+gworkshop 3600 IN CNAME ghs.googlehosted.com.
+idp 3600 IN A 196.200.146.58
+fahd-kaghat 3600 IN CNAME ghs.googlehosted.com.
+insertion-islah 3600 IN A 196.200.146.78
+mail 3600 IN CNAME ghs.google.com.
+webmail 3600 IN A 196.200.146.67
+elearning 3600 IN A 196.200.146.70
+professeurs 3600 IN CNAME ghs.google.com.
+mecanierie 3600 IN CNAME ghs.google.com.
+ns2 3600 IN A 196.200.146.67
+fst 3600 IN A 142.4.202.97
+ens 3600 IN A 142.4.202.97
+ent 3600 IN CNAME ghs.google.com.
+preinscription 3600 IN A 196.200.146.64
+fsdm 3600 IN A 196.200.146.18
+encg 3600 IN A 209.236.71.58
+mbendrissamraoui 3600 IN CNAME ghs.googlehosted.com.
+docs 3600 IN CNAME ghs.google.com.
+revues 3600 IN A 196.200.146.57
+gapps 3600 IN CNAME ghs.google.com.
+ensa 3600 IN A 174.127.106.57
+*.revues 3600 IN A 196.200.146.57
+www 3600 IN A 196.200.146.77
+goa 3600 IN A 196.200.146.74
+samiramoukrim 3600 IN CNAME ghs.googlehosted.com.
+mbenbrahim 3600 IN CNAME ghs.googlehosted.com.
+messagerie 3600 IN A 196.200.146.59
+netmgnt 3600 IN A 172.21.0.12
+belkadid 3600 IN CNAME ghs.googlehosted.com.
+templateprof 3600 IN CNAME ghs.google.com.
+supervision 3600 IN A 172.21.0.13
+compte 3600 IN A 37.187.33.86
+palmes 3600 IN A 196.200.146.60
+fpt 3600 IN A 176.31.15.20
+sadikifsdm 3600 IN CNAME ghs.googlehosted.com.

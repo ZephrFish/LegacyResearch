@@ -1,0 +1,58 @@
+@ 3600 IN SOA ns hostmaster 2012122405 43200 900 2419200 7200
+@ 3600 IN TXT "v=spf1 a mx ptr ptr:znu.edu.ua ptr:znu.radiocom.net.ua ip4:212.111.202.6 ip4:81.90.230.250 a:mail.znu.edu.ua a:relay.znu.edu.ua a:iserver.znu.edu.ua -all"
+@ 3600 IN MX 10 @
+3600 IN MX 20 relay
+@ 3600 IN NS ns
+3600 IN NS ns0.xname.org.
+3600 IN NS ns1
+3600 IN NS ns1.xname.org.
+3600 IN NS ns2.xname.org.
+@ 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+kit 3600 IN A 81.90.236.210
+sites 3600 IN A 81.90.236.213
+ns1 3600 IN A 81.90.230.250
+sociology 3600 IN CNAME www
+gen 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+web 3600 IN A 81.90.236.214
+www.sociology 3600 IN CNAME www
+dom_selector._domainkey 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+dom_selector._domainkey 3600 IN TXT "k=rsa; t=y; p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAMGZ/Zin2+FLI6Oo3zTGnNrFll0t29tB87tdfZMYFv08cUrbmIzIvfQxRPEnL8lzn1XqC+/+a2yBDpz5VQcpnNJ8e97/bxRMtZaMP6ysFY+44z2kcSFXPhDVTWNDVbiA9wIDAQAB"
+www.kit 3600 IN A 81.90.236.211
+www.mail 3600 IN CNAME mail
+tunik-machine 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+people 3600 IN CNAME www
+radio 3600 IN A 46.18.3.1
+mail 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+mmodel 3600 IN CNAME web
+ebooks 3600 IN CNAME library
+iserver 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+archive 3600 IN CNAME iserver
+isrg.kit 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+test 3600 IN CNAME iserver
+www 3600 IN TXT "google-site-verification=WSxyARWPHhTfl_QpWNN8je6sWQsOCDawPiHZGE75YmY"
+www 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+epk 3600 IN CNAME web
+ns 3600 IN A 212.111.202.6
+localhost 3600 IN A 127.0.0.1
+forum 3600 IN CNAME web
+ilo-iserv 3600 IN A 81.90.230.254
+relay 3600 IN A 81.90.230.250
+web-files 3600 IN CNAME www
+proxy 3600 IN A 212.111.202.6
+studrada 3600 IN CNAME web
+dms 3600 IN CNAME web
+library 3600 IN A 81.90.236.212
+mathdept 3600 IN CNAME web
+ec 3600 IN CNAME web
+_domainkey 3600 IN TXT "t=y; o=~"
+cit 3600 IN A 81.90.230.250
+3600 IN A 212.111.202.6
+history 3600 IN CNAME www

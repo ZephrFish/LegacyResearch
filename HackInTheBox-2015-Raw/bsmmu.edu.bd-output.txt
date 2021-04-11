@@ -1,0 +1,10 @@
+@ 86400 IN SOA ns1.bcc.net.bd. root.bcc.net.bd. 2011010204 10800 900 604800 86400
+@ 86400 IN TXT "v=spf1 mx a ip4:114.130.54.237/24 ~all"
+@ 86400 IN NS ns1.bcc.net.bd.
+86400 IN NS ns2.bcc.net.bd.
+@ 86400 IN MX 5 zimbra237.bcc.gov.bd.
+exam 86400 IN A 103.28.122.70
+www 86400 IN A 123.49.59.150
+73BEFF7E-E330-11E4-835E-FED2BE6E503A._domainkey 86400 IN TXT "v=DKIM1; k=rsa; " "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDA9D4eE2L+ss7r8ZmnQ+AkGV/LYof7iQ5rFmAQZk+243ns6wJe95Ces/3jJdL7EsRdb3ER1rHErxSNnmisgXCdB9Wm7KKoU6b+fbpdofXIh676yIuzYkzhBJ1Jd4NzmUe9rJFTF/W/TTu3AST2sE9GYGFh4dZcCnb44FQsFedOFwIDAQAB"
+mail 86400 IN A 114.130.54.237
+_dmarc 86400 IN TXT "v=DMARC1; p=quarantine; sp=quarantine; rua=mailto:report@bsmmu.edu.bd; rf=afrf; pct=100; ri=86400"

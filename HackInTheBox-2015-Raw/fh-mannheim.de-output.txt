@@ -1,0 +1,170 @@
+@ 86400 IN SOA nice.rz root.nice.rz 2011081818 21600 1800 1209600 86400
+@ 86400 IN NS dns1.belwue.de.
+86400 IN NS dns3.belwue.de.
+86400 IN NS nice.rz
+@ 86400 IN TXT "MS=ms23740170"
+86400 IN TXT "v=spf1 mx ip4:141.19.1.96 -all"
+@ 86400 IN A 141.19.1.171
+nice.rz 86400 IN A 141.19.1.75
+www.fsw 86400 IN CNAME webfgo.fgo
+www.fsz 86400 IN CNAME lexi.rz
+gleitzeit 86400 IN CNAME gleitzeit.zv
+lernplattform 86400 IN CNAME lexi.rz.hs-mannheim.de.
+www.personalrat2 86400 IN CNAME lexi.rz
+dr-b1r403 86400 IN CNAME dr-b1r403.zv
+www.af 86400 IN CNAME otto.ki
+zeugnis 86400 IN CNAME zeugnis.rz
+www.am 86400 IN CNAME anja.ki
+wwwtest 86400 IN CNAME typo-hs.rz
+www.msi 86400 IN CNAME anja.ki
+www.maryland 86400 IN CNAME lexi.rz.hs-mannheim.de.
+www.ci 86400 IN CNAME paxi.rz
+www.fotovoltaik 86400 IN CNAME www-fotovoltaik.misc
+www.hochfrequenztechnik 86400 IN CNAME Otto-Hahn.hfo
+www.fue 86400 IN CNAME paolo.ki
+verify 86400 IN CNAME verify.zv.hs-mannheim.de.
+www.vhw 86400 IN CNAME gonzo.uwt
+www.optoelektronik 86400 IN CNAME Otto-Hahn.hfo
+www.cae 86400 IN CNAME caepc-3.mb
+www.optische-nachrichtentechnik 86400 IN CNAME Otto-Hahn.hfo
+rf-microwave 86400 IN CNAME Otto-Hahn.hfo
+www.ia 86400 IN CNAME cp05.ac
+rzgate 86400 IN A 141.19.1.254
+86400 IN A 141.19.20.253
+86400 IN A 141.19.21.253
+86400 IN A 141.19.40.254
+86400 IN A 141.19.41.254
+86400 IN A 141.19.60.254
+86400 IN A 141.19.83.254
+86400 IN A 141.19.86.254
+86400 IN A 141.19.89.254
+86400 IN A 141.19.91.254
+86400 IN A 141.19.93.254
+86400 IN A 141.19.94.254
+86400 IN A 141.19.96.254
+86400 IN A 141.19.100.254
+86400 IN A 141.19.106.254
+86400 IN A 141.19.123.254
+86400 IN A 141.19.124.254
+86400 IN A 141.19.131.254
+86400 IN A 141.19.141.254
+86400 IN A 141.19.142.254
+86400 IN A 141.19.143.254
+86400 IN A 141.19.182.254
+86400 IN A 141.19.190.254
+86400 IN A 141.19.210.254
+rz 86400 IN CNAME lexi.rz
+ates2 86400 IN A 141.19.4.247
+eva1 86400 IN A 141.19.7.251
+86400 IN A 141.19.7.252
+biotech 86400 IN CNAME tom.rz.hs-mannheim.de.
+www.bmt 86400 IN A 141.19.88.250
+ftp.physik 86400 IN CNAME aristoteles.ng
+www.che 86400 IN CNAME www.che-fh-mannheim.de.
+www.hf-technik 86400 IN CNAME Otto-Hahn.hfo
+www.oc 86400 IN CNAME phys-chem-1.pc
+www.personalrat 86400 IN CNAME www2.rz.hs-mannheim.de.
+www.mx 86400 IN CNAME pc201.idk
+moodle 86400 IN CNAME pc173.rz.hs-mannheim.de.
+www.fsi 86400 IN CNAME jonathan.sv
+www.cip 86400 IN CNAME caepc-3.mb
+fsi 86400 IN CNAME jonathan.sv
+dsp 86400 IN CNAME swt198.swt
+www.koord 86400 IN CNAME lexi.rz.hs-mannheim.de.
+www.elektrotechnik 86400 IN CNAME www.et
+ftp 86400 IN CNAME ftp.rz
+www.vkm 86400 IN CNAME caepc-3.mb
+localhost 86400 IN A 127.0.0.1
+www.chem-eng 86400 IN CNAME www.che-fh-mannheim.de.
+www.ipm 86400 IN CNAME caepc-3.mb
+www.fsvt 86400 IN CNAME jonathan.sv
+www.sz 86400 IN CNAME lexi.rz
+www.ui 86400 IN CNAME www-ui.mm
+listen.n 86400 IN CNAME twiki.eis
+ausleihe.n 86400 IN CNAME sunray70.eis
+www2 86400 IN CNAME lexi.rz
+www5 86400 IN CNAME axia.rz
+atmgate 86400 IN A 141.19.5.254
+86400 IN A 141.19.9.254
+86400 IN A 141.19.21.254
+86400 IN A 141.19.25.254
+86400 IN A 141.19.30.254
+86400 IN A 141.19.35.254
+86400 IN A 141.19.42.254
+86400 IN A 141.19.46.254
+86400 IN A 141.19.50.254
+86400 IN A 141.19.87.254
+86400 IN A 141.19.102.254
+86400 IN A 141.19.103.254
+86400 IN A 141.19.104.254
+86400 IN A 141.19.105.254
+86400 IN A 141.19.108.254
+86400 IN A 141.19.121.254
+86400 IN A 141.19.132.254
+86400 IN A 141.19.145.254
+86400 IN A 141.19.191.254
+86400 IN A 141.19.192.254
+dr-b10r219 86400 IN CNAME dr-b10r219.zv
+ates 86400 IN A 141.19.4.248
+ates 86400 IN MX 50 ates
+86400 IN MX 100 solix.rz
+86400 IN MX 150 roxi.rz
+stz 86400 IN MX 5 exg-server.mm
+86400 IN MX 10 solix.rz
+www.mechatronik 86400 IN CNAME anja.ki
+www.irt 86400 IN CNAME wwwirt.rg
+www.ism 86400 IN CNAME swt198.swt
+www.technische-informatik 86400 IN CNAME swt198.swt
+zeitkonto 86400 IN CNAME zeitkonto.zv.hs-mannheim.de.
+www.fvau 86400 IN CNAME jonathan.sv
+www.vts 86400 IN CNAME donald.bts
+dr-b6r050 86400 IN CNAME dr-b6r050.zw
+wcon 86400 IN CNAME wcon.rz
+www.sensorik 86400 IN CNAME swt198.swt
+dr-b20r114 86400 IN CNAME dr-b20r114.mt
+www.prorek 86400 IN CNAME lexi.rz.hs-mannheim.de.
+www.hdfs 86400 IN CNAME www.mb
+www.stz 86400 IN CNAME dba.mm
+www.kke 86400 IN CNAME webfgo.fgo
+www.nachrichtentechnik 86400 IN CNAME swt198.swt
+bmt 86400 IN CNAME www.bmt
+wlan 86400 IN CNAME stachel01.kaktus
+services2 86400 IN CNAME lexi.rz
+hochfrequenztechnik 86400 IN CNAME Otto-Hahn.hfo
+ntp 86400 IN CNAME pc117.rz
+pc1.fom 86400 IN A 141.19.5.20
+www.automatisierungstechnik 86400 IN CNAME www.et
+www.analogtechnik 86400 IN CNAME swt198.swt
+bewerbung 86400 IN CNAME bewerbung.zv.hs-mannheim.de.
+www.alumni 86400 IN CNAME otto.ki
+www.dsp 86400 IN CNAME swt198.swt
+www.informationstechnik 86400 IN CNAME swt198.swt
+www.career 86400 IN CNAME rudi.ki
+www.emc 86400 IN CNAME anja.ki
+www.fbw 86400 IN CNAME webfgo.fgo
+www.gestaltung2 86400 IN CNAME lexi.rz
+www.elektronik 86400 IN CNAME Otto-Hahn.hfo
+www.medizintechnik 86400 IN CNAME swt198.swt
+dr-b1r-116 86400 IN CNAME dr-b1r-116.dr
+wap.it 86400 IN CNAME Otto-Hahn.hfo
+ism 86400 IN CNAME swt198.swt
+www.biotec 86400 IN CNAME lexi.rz.hs-mannheim.de.
+vpn 86400 IN CNAME vpn.rz
+nachrichtentechnik 86400 IN CNAME swt198.swt
+www.gestaltung 86400 IN CNAME pc24.gd
+www.wing 86400 IN CNAME webfgo.fgo
+digitaltechnik 86400 IN CNAME swt198.swt
+www 86400 IN CNAME tom.rz.hs-mannheim.de.
+analogtechnik 86400 IN CNAME swt198.swt
+docs 86400 IN CNAME lexi.rz.hs-mannheim.de.
+www.tbl 86400 IN CNAME www2.rz.hs-mannheim.de.
+www.msse 86400 IN CNAME caepc-3.mb
+www.physik 86400 IN CNAME aristoteles.ng
+alumni 86400 IN CNAME otto.ki
+koord 86400 IN CNAME lexi.rz.hs-mannheim.de.
+www.hf-elektronik 86400 IN CNAME Otto-Hahn.hfo
+dr-b11r020 86400 IN CNAME dr-b11r020.mdl
+www.biotech 86400 IN CNAME tom.rz.hs-mannheim.de.
+noten 86400 IN CNAME noten.zv.hs-mannheim.de.
+chip-design 86400 IN CNAME swt198.swt
+mittel 86400 IN CNAME mittel.zv.hs-mannheim.de.

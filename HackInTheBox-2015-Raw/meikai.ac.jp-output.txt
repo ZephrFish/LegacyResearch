@@ -1,0 +1,45 @@
+@ 3600 IN SOA 203-183-110-163.seeds.ne.jp. admura 2014112502 10800 3600 604800 86400
+@ 3600 IN TXT "v=spf1 +ip4:210.151.64.5 +ip4:210.151.64.6 ~all"
+@ 3600 IN NS dentdns1.dent
+3600 IN NS 210-168-79-150.seeds.ne.jp.
+3600 IN NS 203-183-110-163.seeds.ne.jp.
+@ 3600 IN MX 10 meisun1
+3600 IN MX 30 reste
+gsal 3600 IN A 61.202.159.90
+webmail 3600 IN A 210.151.64.11
+ftp.ynakajolabo 3600 IN A 211.13.204.2
+www.ynakajolabo 3600 IN A 211.13.204.3
+livetest 3600 IN NS 210-168-79-150.seeds.ne.jp.
+3600 IN NS 203-183-110-163.seeds.ne.jp.
+scorpio 3600 IN A 210.151.64.104
+ftp.fkc 3600 IN A 211.13.204.12
+leo 3600 IN A 210.151.64.8
+* 3600 IN MX 10 meisun1
+3600 IN MX 30 reste
+reste 3600 IN A 210.151.64.6
+www.fkc 3600 IN A 211.13.204.13
+tonolab 3600 IN A 210.151.64.101
+appling 3600 IN A 210.151.64.107
+pop.ynakajolabo 3600 IN A 211.13.204.5
+fsv 3600 IN NS nsas1.firstserver.ne.jp.
+3600 IN NS nsas2.firstserver.ne.jp.
+www 3600 IN CNAME www.fsv
+opac 3600 IN A 210.151.64.102
+news 3600 IN CNAME meikai.typepad.jp.
+mx.ynakajolabo 3600 IN A 211.13.204.4
+set 3600 IN A 210.151.64.111
+gakuji 3600 IN A 210.151.64.108
+uni1 3600 IN A 210.151.64.14
+uni2 3600 IN A 210.151.64.15
+meisun1 3600 IN A 210.151.64.5
+urayasu 3600 IN NS nsas1.firstserver.ne.jp.
+3600 IN NS nsas2.firstserver.ne.jp.
+dentdns1.dent 3600 IN A 210.151.68.11
+kite 3600 IN A 210.151.64.10
+olion 3600 IN CNAME scorpio
+fkc 3600 IN A 211.13.204.13
+smtp.ynakajolabo 3600 IN A 211.13.204.5
+ynakajolabo 3600 IN A 211.13.204.3
+lexicon 3600 IN A 210.151.64.103
+ggltest 3600 IN NS 210-168-79-150.seeds.ne.jp.
+3600 IN NS 203-183-110-163.seeds.ne.jp.

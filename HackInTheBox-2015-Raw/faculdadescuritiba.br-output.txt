@@ -1,0 +1,12 @@
+@ 10800 IN SOA ns1.aena.br. registrobr.aena.br. 2013091701 28800 7200 1209600 86400
+@ 10800 IN NS ns1.aena.br.
+10800 IN NS ns2.aena.br.
+@ 10800 IN A 179.184.28.4
+@ 10800 IN MX 10 mx.aena.br.
+@ 10800 IN TXT "v=spf1 ip4:179.184.28.1/28 -all"
+vestibular 10800 IN CNAME acad
+extensao 10800 IN CNAME acad
+www 10800 IN A 179.184.28.4
+pss 10800 IN CNAME acad
+acad 10800 IN A 179.184.28.4
+posinscricao 10800 IN CNAME acad

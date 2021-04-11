@@ -1,0 +1,236 @@
+@ 3600 IN SOA ns0.itc root.itc 2014082839 1800 1800 2592000 900
+@ 3600 IN TXT "MS=ms59049889"
+@ 3600 IN NS ns2e.itc
+3600 IN NS ns3e.itc
+3600 IN NS ns0.itc
+@ 300 IN MX 40 mgw2
+300 IN MX 30 mgw
+fl 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+life-bio 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+law 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+gp 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+hk 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+kenshin 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+csac 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+jm 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+ns0.sakai 3600 IN A 158.217.101.10
+let 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+arch 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+kutc 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+ns2e.itc 3600 IN A 203.181.241.67
+eng 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+urbansystem 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+lib 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+mm 3600 IN NS lucifer.mm
+3600 IN NS ns0.itc
+3600 IN NS ns2e.itc
+kyomu 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+www 900 IN A 203.181.241.85
+www 86400 IN MX 40 mgw2
+86400 IN MX 30 mgw
+pa 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+portfolio 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+erc 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+pl 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+kumse 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+ukihune.al 3600 IN A 158.217.174.9
+mec 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+sc 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+dev-hito 3600 IN CNAME hito
+rpu 3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+3600 IN NS ns2e.itc
+icis 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+ioos 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+eve 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+holography.ordist 3600 IN CNAME www2
+webmail 900 IN A 203.181.241.69
+phys 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+www.dmlab.riss 3600 IN A 158.217.222.12
+us 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+mgw 900 IN A 203.181.241.76
+gep 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+soc 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+chat 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+tecfolio 3600 IN A 158.217.250.99
+achem 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+iecs 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+www2 3600 IN A 203.181.241.87
+www2 86400 IN MX 40 mgw2
+86400 IN MX 30 mgw
+test00 3600 IN A 158.217.201.58
+gra 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+tl 3600 IN NS ns2e.itc
+3600 IN NS ns3e.itc
+3600 IN NS ns0.itc
+shogakukin 3600 IN A 158.217.250.215
+shogakukin 3600 IN MX 40 mgw2
+3600 IN MX 30 mgw
+caa 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+bio 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+hojin 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+atl 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+nyusi 3600 IN NS ns2e.itc
+3600 IN NS ns3e.itc
+3600 IN NS ns0.itc
+sakai 3600 IN NS ns2e.itc
+3600 IN NS ns0.sakai
+3600 IN NS ns0.itc
+www.kis 3600 IN A 158.217.173.8
+hqe 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+mailgate 900 IN A 203.181.241.68
+hrc 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+lucifer.mm 3600 IN A 158.217.211.253
+kuches01.kikaku 3600 IN A 158.217.250.116
+mgw2 900 IN A 203.181.241.76
+www.dslab.riss 3600 IN A 158.217.222.14
+cia 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+ils 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+azumaya.al 3600 IN A 158.217.174.10
+ipcku 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+edu2 3600 IN MX 30 mgw
+math 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+chemb 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+cheng 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+ee 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+itc 3600 IN NS ns2e.itc
+3600 IN NS ns3e.itc
+3600 IN NS ns0.itc
+civil 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+auth 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+densi 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+www.ee-public.riss 3600 IN A 158.217.222.13
+chemmater 3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+3600 IN NS ns2e.itc
+kochu 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+al 3600 IN NS ukihune.al
+3600 IN NS azumaya.al
+ipcku2 3600 IN MX 30 mgw
+ns0.kutc 3600 IN A 158.217.43.2
+ns3e.itc 3600 IN A 202.223.247.162
+muse 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+cc 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+gakujo 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+hito 3600 IN A 210.140.168.67
+ns0.itc 3600 IN A 158.217.208.10
+cm 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+portal 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+www.cacg 3600 IN A 158.217.250.165
+edu 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+ec 3600 IN NS ns2e.itc
+3600 IN NS ns0.itc
+3600 IN NS ns3e.itc
+kufamily 3600 IN A 158.217.250.17

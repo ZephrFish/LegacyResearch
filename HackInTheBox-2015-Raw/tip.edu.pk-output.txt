@@ -1,0 +1,61 @@
+@ 38400 IN SOA ns1.magsnet.net. root.ns1.magsnet.net. 2015031610 10800 3600 604800 38400
+@ 38400 IN A 202.5.133.89
+@ 38400 IN NS ns1.magsnet.net.
+38400 IN NS ns2.magsnet.net.
+38400 IN NS ns3.magsnet.net.
+38400 IN NS ns4.magsnet.net.
+@ 38400 IN TXT "v=spf1 a mx a:tip.edu.pk ip4:202.5.133.89 ?all"
+@ 38400 IN MX 5 aspmx.l.google.com.
+38400 IN MX 10 alt1.aspmx.l.google.com.
+38400 IN MX 20 alt2.aspmx.l.google.com.
+38400 IN MX 30 alt3.aspmx.l.google.com.
+38400 IN MX 40 alt4.aspmx.l.google.com.
+localhost.elms 38400 IN A 127.0.0.1
+ftp.tric 38400 IN A 202.5.133.89
+m.tric 38400 IN A 202.5.133.89
+sites 38400 IN CNAME ghs.googlehosted.com.
+webmail 38400 IN A 202.5.133.89
+admin.new 38400 IN A 202.5.133.89
+ftp.new 38400 IN A 202.5.133.89
+mail.new 38400 IN A 202.5.133.89
+webmail.olympid 38400 IN A 202.5.133.89
+elms 38400 IN A 202.5.133.89
+elms 38400 IN MX 5 mail.elms
+admin.elms 38400 IN A 202.5.133.89
+www.new 38400 IN A 202.5.133.89
+ftp.elms 38400 IN A 202.5.133.89
+m.elms 38400 IN A 202.5.133.89
+webmail.tric 38400 IN A 202.5.133.89
+mail.elms 38400 IN A 202.5.133.89
+admin.olympid 38400 IN A 202.5.133.89
+www.tric 38400 IN A 202.5.133.89
+www.olympid 38400 IN A 202.5.133.89
+calendar 38400 IN CNAME ghs.googlehosted.com.
+mail 38400 IN CNAME ghs.googlehosted.com.
+m.new 38400 IN A 202.5.133.89
+webmail.elms 38400 IN A 202.5.133.89
+drive 38400 IN CNAME ghs.googlehosted.com.
+localhost.olympid 38400 IN A 127.0.0.1
+ftp.olympid 38400 IN A 202.5.133.89
+ftp 38400 IN A 202.5.133.89
+www 38400 IN A 202.5.133.89
+olympid 38400 IN A 202.5.133.89
+olympid 38400 IN MX 5 mail.olympid
+mail.tric 38400 IN A 202.5.133.89
+localhost 38400 IN A 127.0.0.1
+new 38400 IN A 202.5.133.89
+new 38400 IN MX 5 mail.new
+classroom 38400 IN CNAME ghs.googlehosted.com.
+m.olympid 38400 IN A 202.5.133.89
+admin 38400 IN A 202.5.133.89
+admin.tric 38400 IN A 202.5.133.89
+docs 38400 IN CNAME ghs.googlehosted.com.
+mail.olympid 38400 IN A 202.5.133.89
+localhost.tric 38400 IN A 127.0.0.1
+m 38400 IN A 202.5.133.89
+contacts 38400 IN CNAME ghs.googlehosted.com.
+webmail.new 38400 IN A 202.5.133.89
+tric 38400 IN A 202.5.133.89
+tric 38400 IN MX 5 mail.tric
+localhost.new 38400 IN A 127.0.0.1
+www.elms 38400 IN A 202.5.133.89
