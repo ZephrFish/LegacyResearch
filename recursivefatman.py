@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Recursive Fatman
-# 
+# Python 2
 import dns.query
 import dns.zone
 import dns.resolver
